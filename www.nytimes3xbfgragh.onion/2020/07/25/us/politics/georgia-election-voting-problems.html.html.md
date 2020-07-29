@@ -1,0 +1,1322 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes3xbfgragh.onion/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Anatomy
+of an Election ‘Meltdown’ in
+Georgia</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3jBpqlv</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+<div>
+
+<div id="styln-elections-notifications-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="nytslm_innerContainer" data-aria-live="polite">
+
+<div class="nytslm_title">
+
+</div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Election
+    Updates](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Map of
+    Donations](https://www.nytimes3xbfgragh.onion/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Biden’s V.P.
+    Search](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Delegate
+    Count](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [The
+    Candidates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Politics
+    Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Anatomy of an Election ‘Meltdown’ in Georgia
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Voters
+waited for hours on Primary Day at the C.T. Martin Natatorium and
+Recreation Center in
+Atlanta.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Audra
+Melton for The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/us/politics/00GEORGIA1/merlin_173310798_a778b947-25bc-4156-ba8b-5d45c29fa159-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Danny
+Hakim</span>](https://www.nytimes3xbfgragh.onion/by/danny-hakim),
+[<span class="css-1baulvz" itemprop="name">Reid J.
+Epstein</span>](https://www.nytimes3xbfgragh.onion/by/reid-j-epstein)
+and [<span class="css-1baulvz last-byline" itemprop="name">Stephanie
+Saul</span>](https://www.nytimes3xbfgragh.onion/by/stephanie-saul)
+
+</div>
+
+</div>
+
+  - July 25, 2020, <span class="css-epvm6">5:00 a.m.
+    ET</span>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Last month, Daryl Marvin got his first taste of voting in Georgia.
+
+Mr. Marvin had previously lived in Connecticut, where voting was a brisk
+process measured in minutes. But on the day of the primary, June 9, he
+and his wife waited four hours to vote at Park Tavern, an Atlanta
+restaurant where more than 16,000 voters were consolidated into a single
+precinct. An electrical engineer by training, Mr. Marvin was baffled by
+what he saw when he finally got inside: a station with 15 to 20 touch
+screens on which to vote but only a single scanner to process the
+printed ballots.
+
+“The scanner was the choke point,” he said. “Nobody thought about it,
+and this is Operations Research 101. It’s not very difficult to figure
+it out.”
+
+Captured in drone footage, beamed across airwaves and internet, the
+interminable lines at Atlanta polling sites became an instant and
+indelible omen of voting breakdown in this pandemic-challenged
+presidential election year.
+
+Elections workers described a cascade of failures as they struggled to
+activate and operate Georgia’s new high-tech voting system. Next came a
+barrage of partisan blame-throwing: The Republican secretary of state,
+Brad Raffensperger, accused the liberal-leaning Fulton County, which
+includes most of Atlanta, of botching the election, while Democratic
+leaders saw the fiasco as just the latest episode in Republicans’
+yearslong effort to disenfranchise the state’s minority voters.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Six weeks later, as the political calendar bends toward November and the
+presidential campaigns look to Georgia as a possible battleground, the
+faults in the state’s balky elections system remain largely unresolved.
+And it has become increasingly clear that what happened in June was a
+collective collapse.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Brad
+Raffensperger, Georgia’s secretary of
+state.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Alyssa
+Pointer/Atlanta Journal-Constitution, via Associated
+Press</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/us/politics/00GEORGIA3/merlin_171330123_88087175-f1c6-435a-bcd1-2a1a06f7581e-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+On-the-ground planning deficiencies emerged across the state, though
+they were far and away direst in Fulton County, the state’s most
+populous. With a history of difficulty administering elections, Fulton
+showed little ability to adjust three months into the pandemic,
+struggling to process an unprecedented flood of absentee ballots and
+putting out a frantic call for 250 poll workers just days before
+in-person voting was held.
+
+But an examination by The New York Times found that in the face of
+repeated warnings about counties’ readiness for the rollout of the
+highly complex voting system, Georgia’s top elections official, the
+secretary of state, remained largely passive. With the clock ticking
+fast toward Primary Day, Mr. Raffensperger and his office failed to
+ensure that hard-pressed counties had adequate equipment or received
+desperately needed support.
+
+Training on the new $107 million system — a Rube Goldbergian assemblage
+of interrelated components — was widely described as wanting. The state
+deployed little more than one technician per county. And at most polling
+sites there was only a single scanner, with little apparent regard for
+the expected turnout.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“What I experienced was a complete meltdown,” Jacoria Borders, a Fulton
+County poll worker hired the day before the election, testified at a
+legislative hearing.
+
+Questions have also emerged about the accuracy of the vote count. County
+officials, good-government groups and elections experts expressed
+concern that Georgia’s new system failed to count some mail-in ballots
+marked with check marks or X’s instead of filled-in ovals. Some county
+officials believe that thousands of votes could remain uncounted.
+
+Mr. Raffensperger’s office insisted it was following the guidance of the
+federal Election Assistance Commission, which certified its voting
+machines, on how much of an oval must be filled in for a ballot to be
+reviewed. But the commission says no such guidelines exist.
+
+“If the reports are true, something is wrong, I’m telling you,” said a
+senior elections official in another state.
+
+It was the historical failings of the secretary of state’s office that
+got Georgia into this position in the first place. The state [moved to
+the new
+system](https://www.ajc.com/news/state—regional-govt--politics/companies-submit-confidential-bids-for-georgia-voting-system/SYsJ3vS3OxKYLKRw3BCDdK/)
+after a federal judge found in 2018 that elections officials “had buried
+their [heads in the
+sand](https://www.documentcloud.org/documents/6989937-Curling-2018-Decision.html)”
+as evidence mounted that their old machines were plagued by security
+flaws.
+
+The story of Georgia’s elections breakdown underscores the critical role
+played by secretaries of state, generally low-profile officials whose
+importance is magnified this year by twin challenges to the very act of
+casting a ballot: the pandemic and the fevered legal battles in many
+states over efforts to limit who can vote. Indeed, Mr. Raffensperger and
+his Republican predecessors have long worked to tighten the state’s
+voting rules — policies that have fallen heaviest on communities of
+color, leading to continuing litigation with civil rights groups.
+
+Central to November’s election in Georgia, as the coronavirus surges
+through the South, will be questions about the availability of mail-in
+voting. Since the primary, Mr. Raffensperger has decided to stop sending
+absentee-ballot applications to registered voters, which seems certain
+to increase crowding at the polls. Instead, he plans to create a website
+where voters can apply for absentee ballots, a step that will not help
+many older Georgians or those without internet access.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+He has also said he hopes to work with counties to deploy more
+technically skilled poll workers. But legislative remedies stalled amid
+partisan
+rancor.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-07-25T01:46:31.732Z
+
+</div>
+
+</div>
+
+  - [Trump saw his convention as a potential success story. Reality
+    intervened.](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=MAIN_CONTENT_1&context=storylines_live_updates#link-52155c51)
+  - [U.S. intelligence warns of foreign interference in the election.
+    But Democrats say it’s not
+    enough.](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=MAIN_CONTENT_1&context=storylines_live_updates#link-628390e8)
+  - [Trump signed several executive orders aimed at lowering U.S. drug
+    prices.](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=MAIN_CONTENT_1&context=storylines_live_updates#link-a66d253)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes3xbfgragh.onion/2020/07/24/us/elections/2020-presidential-election.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+In interviews, Mr. Raffensperger said repeatedly that he did not accept
+any responsibility for hourslong lines or malfunctioning voting
+equipment. He has begun an investigation of Fulton County’s management
+of the primary.
+
+“This all lays on Fulton County,” Mr. Raffensperger said. “The counties
+run their elections, and the problems in Fulton County are problems with
+Fulton County and their management team, not with me.”
+
+Georgia’s Democratic leaders, though, regard Mr. Raffensperger from a
+deep well of distrust.
+
+“If there is an investigation, then the investigation should begin where
+the buck stops, at the top,” said Michael L. Thurmond, the chief
+executive of DeKalb County, which encompasses parts of Atlanta and its
+suburbs, and recently moved on its own to send voters absentee-ballot
+applications. “They need to investigate themselves.”
+
+## A Court Intervenes
+
+Republicans took control of the secretary of state’s office in 2007,
+after decades of Democratic domination. They soon set about making it
+harder to
+vote.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:288.71111111111117px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">After Karen
+Handel became Georgia’s secretary of state, Republicans introduced
+strict new voter
+requirements.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Curtis
+Compton/Atlanta Journal-Constitution, via Associated Press</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The newly elected secretary, Karen Handel, implemented an “exact match”
+system that could disqualify voters for minute differences between their
+registration forms and other government documents. That rule was
+overturned by the Justice Department, which found it “[seriously
+flawed](https://www.justice.gov/crt/voting-determination-letter-58)” and
+falling “disproportionately on minority voters.” But Republicans
+reinstated such requirements after the Supreme Court stripped the
+Justice Department of its mandate to approve changes in voting rules.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Ms. Handel’s successor, Brian Kemp, [aggressively used the new
+powers](https://www.bloomberg.com/news/articles/2018-10-15/how-georgia-s-exact-match-program-was-made-possible),
+and in addition
+[purged](https://www.nytimes3xbfgragh.onion/2019/03/06/us/politics/governor-brian-kemp-voter-suppression.html)
+more than 1.4 million Georgians from the voter rolls, both bitter flash
+points with civil rights groups. In 2014, he balked at accepting
+thousands of registration forms collected by the New Georgia Project,
+which promotes minority voting, instead starting a three-year
+[investigation](https://www.wsbtv.com/news/local/state-launches-fraud-investigation-voter-registrat/137992052/)
+of allegations that the organization had forged voter registrations; no
+wrongdoing by the group was found. Nearly all the registrations were
+ultimately accepted, though many came too late for the 2014 election.
+
+Mr. Kemp was subsequently elected governor, in 2018, in a contest marred
+by charges of voter suppression. A group founded by his defeated
+opponent, Stacey Abrams, has filed a lawsuit charging that the state’s
+electoral system is designed to be discriminatory.
+
+But it was his office’s lax oversight of Georgia’s elections machinery
+that was highlighted in the summer of 2016, when a cybersecurity expert
+[named Logan
+Lamb](https://www.politico.com/magazine/story/2017/06/14/will-the-georgia-special-election-get-hacked-215255)
+found that he was easily able to obtain registration records for the
+state’s nearly seven million voters, along with passwords for the
+state’s central elections server.
+
+Mr. Lamb informed state officials, but the problems were not
+fixed.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Brian Kemp,
+who succeeded Ms. Handel as secretary of state, was elected governor in
+2018, in a contest marred by charges of voter
+suppression.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Audra
+Melton for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+There were other issues as well. Under Mr. Kemp, Georgia went years
+without fixing a widely known security flaw in its old Diebold voting
+machines that had been corrected in other states.
+
+(The risks would be underscored in 2018 when Robert S. Mueller III, the
+special counsel investigating Russian interference in the 2016 election,
+indicted 12 Russian operatives who had targeted the voting systems of
+Georgia and two other states.)
+
+In 2017, an advocacy group
+[sued](https://www.courthousenews.com/wp-content/uploads/2017/07/voting-atlanta.pdf)
+the secretary of state’s office over the integrity of the voting system.
+Within days, the state mysteriously [deleted election
+data](https://slate.com/technology/2017/10/georgia-destroyed-election-data-right-after-a-lawsuit-alleged-the-system-was-vulnerable.html)
+critical to the case. The federal judge overseeing the matter, Amy
+Totenberg, later said the state “minimized, erased or dodged” underlying
+issues in the case, leaving “critical deficiencies and risks that impact
+the reliability and integrity of the voting system.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Last August, Judge Totenberg ordered the state to scrap its voting
+machines and undertake the daunting task of starting over for 2020.
+
+Amid the litigation, the state turned to Dominion Voting, a Denver-based
+company whose lobbyists included a [former chief of
+staff](http://media.ethics.ga.gov/search/Lobbyist/Lobbyist_Name.aspx?&FilerID=L20070103)
+to Mr. Kemp and a former secretary of state.
+
+While Dominion technology is widely used, both in the United States and
+as far away as Mongolia, the particular system Georgia purchased is seen
+by some experts [as unnecessarily
+complex](https://qz.com/1661870/georgias-new-voting-tech-raises-questions-over-election-security/),
+with a chain of components: a device to check in voters, another to cast
+votes, another to print ballots and a fourth to scan them.
+
+Texas rejected a similar Dominion system, saying frequent problems
+during demonstrations had raised doubts that it could be implemented
+“without experiencing numerous and substantial errors,” according to
+[a state
+report](https://voterga.files.wordpress.com/2019/08/texas-sos-rejection-of-dominion.pdf).
+But versions of the system are used in a number of states, including
+Pennsylvania and California.
+
+A primary attraction of the new machines is the paper record they create
+— an analog layer of security against a cyberattack. But some experts
+see the multitude of components as more vulnerable to attack and to
+technical problems.
+
+Georgia’s old system was “absolutely one of the worst in the country,”
+said J. Alex Halderman, a computer scientist who was an expert witness
+for the plaintiffs in the lawsuit. The new system, he added, “still
+leaves a lot to be desired.”
+
+## ‘A Management Problem’
+
+Cathy Cox walked into her old offices last fall for a 90-minute
+demonstration of Georgia’s new voting machines.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+When Ms. Cox, Georgia’s last Democratic secretary of state, introduced a
+new voting system back in 2002, her office held demonstrations at
+supermarkets, churches and county fairs. Mr. Raffensperger, she said,
+had no similar agenda, despite the complexities of navigating the new
+system. Instead, he planned a social-media campaign, which Ms. Cox
+warned would fail to reach thousands of older and low-income Georgians
+without internet access.
+
+“Their response to that was that all older people have Facebook accounts
+to talk to their grandchildren,” she recalled.
+
+Mr. Raffensperger’s office disputed Ms. Cox’s account, saying it had
+modeled its approach on hers and had done regional demonstrations.
+
+Hers was hardly the only voice of concern. In January, two months before
+Georgia’s originally scheduled presidential primary, county elections
+administrators from across the state fretted they wouldn’t have time to
+train poll workers on the new, and still undelivered,
+machines.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A poll
+worker at an Atlanta elementary
+school.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erik
+S Lesser/EPA, via Shutterstock</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“I’m getting a little worried,” Sharon Gregg, the assistant elections
+director in Walton County, wrote in an email thread with other state and
+local elections officials. Robin Webb, the elections coordinator in Hart
+County, wrote that she had yet to receive needed guidance on poll-worker
+training from the state elections board. “Some days I am in a panic
+mode,” she said.
+
+The pandemic led Mr. Raffensperger to twice delay the presidential
+primary, ultimately combining it with primaries for Georgia’s other
+federal races on June 9. To alleviate crowding at voting sites, he
+mailed absentee ballot applications to all active registered voters, a
+move supported by Democrats.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Come Election Day, the extra time afforded by the delay didn’t help. At
+a recent state House hearing, Danielle Wynn, a poll watcher in Floyd
+County, which borders Alabama, testified that three of the four
+ballot-marking devices at her location failed at one point. Poll workers
+were also unprepared for a flood of questions about absentee ballots
+that voters had requested but not received, and unsure what to tell
+those who brought completed ballots to the polls. “Many voters just
+opted to leave without voting,” she said.
+
+Carol Beckham, manager of a small polling site in Carroll County, said
+confusion over absentee ballots was “just an abysmal failure” that the
+state might have helped with more public outreach. And problems she
+faced getting a ballot-marking device to communicate with a printer
+“would’ve caused chaos” in larger precincts, she said.
+
+Jonathan Banes, a precinct manager in DeKalb County, said he had had
+only a rudimentary tutorial on the new voting machines in February,
+followed by an online refresher. “We didn’t go into troubleshooting
+scenarios on how to deal with technical issues,” he said, adding that he
+had been shown basics like how to “turn the machines on, turn them off —
+that’s it.”
+
+That left him and a depleted crew of poll workers unable to start their
+equipment without outside help. “At the local and state level, there’s
+just not great coordination,” he said.
+
+The state’s most populous county, Fulton, was overwhelmed by
+absentee-ballot requests. Election offices also briefly closed after a
+worker became fatally ill with the coronavirus. Richard L. Barron, the
+county’s elections director, likened the dual effort of mailing ballots
+and conducting in-person voting to running two elections simultaneously
+— all with a pandemic-depleted staff.
+
+Fulton voters waited weeks for absentee ballots from the county that
+never came, or arrived damaged. After waiting a month for an absentee
+ballot, Jon Ossoff, who would win the state’s Democratic Senate primary,
+waited four hours to vote early on June 5 at the C. T. Martin Natatorium
+in Atlanta. He returned home to find that his absentee ballot had
+finally arrived. Ms. Abrams said hers came with a return envelope that
+was sealed.
+
+“There are a myriad of things that happened,” Robb Pitts, the chairman
+of the Fulton County Board of Commissioners, said in an interview,
+including that at the 11th hour some longtime polling venues decided
+against welcoming voters amid the pandemic.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“We had to scramble about at the last minute to find new locations,” Mr.
+Pitts said. “And in some cases, we didn’t have a chance to check the
+power with respect to the machines, and the wattage.” That led to
+electrical failures at some sites.
+
+Confidence has waned in Mr. Raffensperger and in Fulton’s leadership.
+One Democratic lawmaker in Fulton, Josh McLaurin, sought to give
+lawmakers greater oversight over the county’s elections, but the move
+stalled in the State Senate.
+
+Mr. Marvin, who was troubled by the lack of scanners when he voted in
+the Democratic primary at Park Tavern, said, “I don’t blame the people
+working there, they had to deal with grumpy voters — and we *were*
+grumpy.” It was “a management problem,” he added, that “goes all the way
+to the top, which is the secretary of state of Georgia.”
+
+## Checking the Check Marks
+
+One challenge lingered after the polls closed: how mail-in ballots were
+being counted. The Coalition for Good Governance is reviewing how
+Dominion scanners count such ballots and is considering suing the state,
+according to the group’s executive director, Marilyn Marks.
+
+“You’d be surprised how big the X’s and check marks are that don’t get
+counted,” she
+said.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:518.1333333333333px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Some
+officials believe that thousands of votes could remain uncounted.</span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Workers examining mail-in ballots stumbled across the uncounted votes in
+the days after the primary, discovering that the Dominion scanners were
+programmed to ignore marks that filled in less than a certain percentage
+of a ballot’s black-outlined oval. The secretary of state’s office said
+the percentage thresholds used by Georgia “were the same ones certified”
+by the federal Election Assistance Commission.
+
+But Kristen Muthig, an agency spokeswoman, said there was no federal
+standard. “It varies at the state and local level and by the various
+equipment,” she said.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Raffensperger’s aides seemed unsure of the threshold, saying at
+various points that it was 12 percent, 13 percent or 14 percent. In
+Colorado, by comparison, any black-colored ballot ovals that are less
+than 9 percent filled in are automatically not counted by scanners.
+
+In Georgia’s Morgan County, Jeanne Dufort, a former textile importer who
+served on an appointed vote review panel — and who [has
+challenged](https://morgancountycitizen.com/2018/10/19/resident-joins-suit-against-kemp/)
+state voting practices in the past — reviewed 150 ballots and counted
+about 20 unrecorded votes.
+
+Adam Shirley, working on a similar panel in Athens-Clarke County, said
+his group reviewed 76 ballots and found 12 that included votes clearly
+visible to the human eye that had not been counted by the scanners. Mr.
+Shirley, a science teacher, worries about what could happen statewide in
+November.
+
+“If you start talking about a few hundred votes per county, times 159,”
+he said, “that could swing the election.”
+
+## The Next Election
+
+To Ms. Abrams, the Democrat who has become the state’s most visible
+voting-rights advocate, election problems were foreseeable, as was the
+fact they would not be foreseen.
+
+“He had months to get this election right,” she said of Mr.
+Raffensperger. “He rescheduled the primary twice and he still failed.”
+
+“He, of his own volition, invested in a complicated machine, a purchase
+that he inadequately prepared the counties for adoption of,” she added.
+“He did not provide support when counties raised their hands and
+raised their voices saying, ‘We are concerned about the deployment of
+these brand-new machines in what will likely be among the most
+contentious elections we’ve had in 20 years.’”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Since the primary, only limited action has been taken. Legislative
+remedies were derailed after Republicans tried to bar counties from
+mailing out ballot applications. (“That sent the bill into the ditch,”
+said Mary Margaret Oliver, a Democratic member of the state House.)
+
+Echoing President Trump, state Republicans have argued, without
+evidence, that mail-in voting is a recipe for widespread fraud. This
+spring, [David
+Ralston](https://thehill.com/homenews/state-watch/490879-georgias-gop-house-speaker-says-vote-by-mail-system-would-be-devastating),
+the speaker of Georgia’s House, expressed opposition to sending out
+mail-in ballot applications amid the pandemic, saying it would “be
+extremely devastating to Republicans and conservatives.”
+
+Mr. Raffensperger was asked in the interviews whether he was concerned
+about his office’s poor relations with Black voters. “I believe that
+I’ve been very open-minded and fair,” he said, noting that he had
+demonstrated some voting machines at the King Center in Atlanta, a
+foundation run by the family of the Rev. Dr. Martin Luther King Jr.
+“Whenever we can reach out to groups, we’ve been very
+proactive.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">State Farm
+Arena, home of the Atlanta Hawks NBA team, is an early-voting site for
+the August primary runoff and the general
+election.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erik
+S Lesser/EPA, via Shutterstock</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Some of Georgia’s best hopes might come from outside government. The
+Atlanta Hawks NBA franchise recently announced that its State Farm Arena
+would become an early-voting location for August’s primary runoff and
+the general election, potentially accommodating 250 voting machines.
+(State law restricts Election Day voting to local precincts.)
+
+Evan Malbrough, a 2020 graduate of Georgia State University, has started
+recruiting and training a cavalry of college students to be Atlanta poll
+workers. Spurred by what he calls a desire to “fix voter suppression,”
+he recently founded the Georgia Youth Poll Worker Project, figuring that
+students would be more adept at voting technology than typically older
+poll workers.
+
+“It’s like when you live with your parents, and they got a new phone or
+a new TV, and you have to set it up,” said Mr. Malbrough, who knows from
+experience — he lives with his parents, and has also been a poll worker.
+“Even without training, I feel like most young people could intuitively
+fix a lot of these issues.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In suburban DeKalb, Mr. Thurmond, the chief executive, hopes to avoid a
+repeat of what he calls the “meltdown” in June. Under his plan, poll
+workers will be designated “front-line workers” and receive hazard pay.
+He is looking for new polling places with greater electrical capacity.
+
+For Mr. Thurmond, a former state labor commissioner who is one of the
+few Black people ever elected statewide, the struggle over voting is
+personal.
+
+“It’s embedded in the DNA, here in Georgia, to suppress — first to deny,
+and then to suppress — the African-American vote,” he said. “It’s a sad
+and embarrassing part of the political history of the state of Georgia.
+It’s unfortunate that in 2020 we’re still engaged in this
+fight.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div id="NYT_BELOW_MAIN_CONTENT_REGION">
+
+<div>
+
+<div id="STLYN_guide_v1_STYLN_guide_a" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="g-story g-freebird g-max-limit" data-preview-slug="styln-scroll-guide">
+
+</div>
+
+<div id="g-electionguide-id" class="g-electionguide">
+
+<div class="g-electionguide-container">
+
+<div class="g-electionguide-wrapper">
+
+<div class="g-electionguide-logo">
+
+</div>
+
+# Our 2020 Election Guide
+
+Updated July 24, 2020
+
+  - 
+    
+    -----
+    
+    ## The Latest
+    
+      - Kimberly
+        Guilfoyle’s[](https://www.nytimes3xbfgragh.onion/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=BELOW_MAIN_CONTENT&context=storylines_guide)[fund-raising
+        for President
+        Trump](https://www.nytimes3xbfgragh.onion/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        draws scrutiny.
+
+  - 
+    
+    -----
+    
+    ## Biden’s V.P. Search
+    
+      - [Here are 13
+        women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        who have been under consideration to be Joe Biden’s running
+        mate, and why each might be chosen — and might not be.
+
+  - 
+    
+    -----
+    
+    ## Keep Up With Our Coverage
+    
+      - Get an
+        [email](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        recapping the day’s news
+    
+    <!-- end list -->
+    
+      - Download our mobile app on
+        [iOS](https://apps.apple.com/us/app/nytimes/id284862083?ls=1&mat_click_id=5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948&referrer=mat_click_id%3D5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948%26link_click_id%3D722930677036718082)
+        and
+        [Android](http://a.localytics.com/android?id=com.nytimes.android&referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page)
+        and turn on Breaking News and Politics alerts
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
