@@ -164,107 +164,104 @@ East](/section/world/middleeast)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tyler
-    Hicks/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/virus-amazon2/virus-amazon2-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Loureiro Fernandez for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00latam-top/00latam-top-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/virus-amazon2/virus-amazon2-thumbStandard.jpg)](/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00latam-top/00latam-top-thumbStandard-v2.jpg)](/2020/07/29/world/americas/latin-america-democracy-pandemic.html)
     
     </div>
     
-    ## [The Coronavirus Unleashed Along the Amazon River](/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html)
+    ## [Latin America Is Facing a ‘Decline of Democracy’ Under the Pandemic](/2020/07/29/world/americas/latin-america-democracy-pandemic.html)
     
-    As the pandemic assails Brazil, the virus is taking an exceptionally
-    high toll on the Amazon
-    region.
+    The coronavirus is battering Latin American health systems and
+    economies. It is also threatening the region’s fragile political
+    freedoms.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tyler Hicks</span>,
-    <span class="css-1baulvz" itemprop="name">Julie Turkewitz</span>,
-    <span class="css-1baulvz" itemprop="name">Manuela Andreoni</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Jeremy
-    White</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Anatoly
+    Kurmanaev</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/00china-us-clash1/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    Sullivan/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/00china-us-clash1/00china-us-clash1-thumbStandard.jpg)](/2020/07/25/world/asia/us-china-trump-xi.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-thumbStandard.jpg)](/2020/07/29/world/europe/turkey-social-media-control.html)
     
     </div>
     
-    ## [Officials Push U.S.-China Relations Toward Point of No Return](/2020/07/25/world/asia/us-china-trump-xi.html)
+    ## [Turkey Passes Law Extending Sweeping Powers Over Social Media](/2020/07/29/world/europe/turkey-social-media-control.html)
     
-    Top aides to President Trump want to leave a lasting legacy of
-    ruptured ties between the two powers. China’s aggression has been
-    helping their
-    cause.
+    The legislation extends control over platforms like Facebook,
+    Twitter and YouTube. Critics worry it will be used to stifle dissent
+    and criticism of the
+    government.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Edward Wong</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steven Lee
-    Myers</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Marc
+    Santora</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-        photo by Noel
-        Celis</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/22japan-china1/22japan-china1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricci
+        Shryock for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28Senegal-Sheep-Dispatch/28Senegal-Sheep-Dispatch-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [As the World Gets Tougher on China, Japan Tries to Thread a Needle](/2020/07/25/world/asia/japan-china-xi.html)
+        ### Senegal Dispatch
+        
+        ## [For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep](/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/22japan-china1/22japan-china1-thumbStandard.jpg)](/2020/07/25/world/asia/japan-china-xi.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28Senegal-Sheep-Dispatch/28Senegal-Sheep-Dispatch-thumbStandard.jpg)](/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
         
         </div>
         
-        Tokyo has not confronted Beijing as the United States and other
-        allies have, mindful of its neighbor’s economic might and its
-        own limited military
-        options.
+        Properly celebrating Tabaski, as Eid al-Adha is known in
+        Senegal, requires a sacrificial sheep. Coronavirus restrictions
+        have made the animals more expensive, putting them out of reach
+        of
+        many.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Motoko Rich</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Makiko
-        Inoue</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Ruth
+        Maclean</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Korean
-        Central News Agency, via
-        Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/us/politics/25korea-virus/merlin_174946959_48cce759-a6b3-43ab-9a79-777001e4d6ca-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+        New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [North Korea Declares Emergency After Suspected Covid-19 Case](/2020/07/25/world/asia/north-korea-coronavirus-kim-jong-un.html)
+        ## [Coronavirus Live Updates: Deaths Top 150,000 in the United States](/2020/07/29/world/coronavirus-covid-19.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/us/politics/25korea-virus/merlin_174946959_48cce759-a6b3-43ab-9a79-777001e4d6ca-thumbStandard.jpg)](/2020/07/25/world/asia/north-korea-coronavirus-kim-jong-un.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg)](/2020/07/29/world/coronavirus-covid-19.html)
         
         </div>
         
-        The country locked down a city near its border with South Korea.
-        It was the first time North Korea has admitted that it might
-        have a coronavirus
-        case.
+        Federal officials urged states to take aggressive action to slow
+        the spread of the virus while the president talked up
+        nonexistent “virus-free” areas. Big retailers are mandating
+        masks, but enforcement is an
+    issue.
         
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Choe
-        Sang-Hun</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
 
@@ -274,18 +271,39 @@ East](/section/world/middleeast)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Igor
-    Volkov/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/26russia-protests-cmyk/25russia-protests01sub-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+    photo by Angelo
+    Carconi</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/politics/28dc-cyber-vatican/merlin_174032907_bebc1430-6f7f-4178-8d8d-50e499323f0c-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Protests Swell in Russia’s Far East in a Stark New Challenge to Putin](/2020/07/25/world/europe/russia-protests-putin-khabarovsk.html)
+    ## [The Vatican Is Said to Be Hacked From China Before Talks With Beijing](/2020/07/28/us/politics/china-vatican-hack.html)
     
-    Demonstrations in the city of Khabarovsk drew tens of thousands for
-    the third straight weekend. The anger, fueled by the arrest of a
-    popular governor, has little precedent in modern
-    Russia.
+    In one attack, the hackers weaponized an electronic file with a
+    letter that had a note of condolence from Cardinal Pietro Parolin,
+    the Vatican’s secretary of
+    state.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">David E. Sanger</span>,
+    <span class="css-1baulvz" itemprop="name">Edward Wong</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jason
+    Horowitz</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sergey
+    Ponomarev for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/27russia-protests1/27russia-protests1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In Russia’s Far East, a New Face of Resistance to Putin’s Reign](/2020/07/28/world/europe/russias-far-east-protests-putin.html)
+    
+    As the protests swell in the city of Khabarovsk, 4,000 miles from
+    Moscow, residents who had never before found a public outlet for
+    anger are becoming
+    activists.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Anton
@@ -293,187 +311,60 @@ East](/section/world/middleeast)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sergio
-    Lima/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/world/25virus-bolsonaro/25virus-bolsonaro-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Isaac
+    Lawrence/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28hongkong/merlin_170491851_09732888-a41f-47d6-b14d-502cc34ff4ea-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Brazil’s Bolsonaro, Leading Virus Skeptic, Says He’s No Longer Infected](/2020/07/25/world/americas/bolsonaro-coronavirus.html)
+    ## [Hong Kong University to Fire Law Professor Who Inspired Protests](/2020/07/28/world/asia/benny-tai-hong-kong-university.html)
     
-    President Jair M. Bolsonaro of Brazil said on social media that he
-    had tested negative for the coronavirus, more than two weeks after
-    confirming his infection. Then he went for a motorcycle
-    ride.
+    Benny Tai was convicted of public nuisance charges related to his
+    leading role in the 2014 pro-democracy Umbrella
+    Movement.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ernesto
-    Londoño</span></span>
+    <span class="css-1baulvz" itemprop="name">Austin Ramzy</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Tiffany
+    May</span></span>
     
     </div>
 
-3.  ### The Interpreter
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
-    Trinca for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/25interpreter-moms/25interpreter-moms-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Mothers’ Power in U.S. Protests Echoes a Global Tradition](/2020/07/25/world/americas/protest-moms-power-police.html)
-    
-    When mothers take to the streets — particularly those from
-    privileged groups — governments take note. The “wall of moms” in
-    Portland has taken up the cause against police
-    violence.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Amanda
-    Taub</span></span>
-    
-    </div>
-
-4.  ### Thailand Dispatch
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
-    Dean for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/26monkeys-dispatch1/merlin_174060687_ac420efb-4bb8-4e0c-9ebe-727d5f66ca2e-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [These Monkeys Were Once Revered. Now They Are Taking Over.](/2020/07/25/world/asia/thailand-monkeys.html)
-    
-    The monkeys of Lopburi, Thailand, were once a draw for tourists and
-    pilgrims who would feed them. But with few recent visitors, the
-    monkeys are getting hungry — and
-    aggressive.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Hannah
-    Beech</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linh
-    Pham/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/world/25virus-vietnam/merlin_172632552_1f6142c5-c0e4-488a-94e5-5b95db3132f9-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Vietnam, Lauded in Coronavirus Fight, Has First Local Case in 100 Days](/2020/07/25/world/asia/coronavirus-vietnam.html)
-    
-    A 57-year-old grandfather in the city of Danang, with no history of
-    travel, tested positive and has been hospitalized. Health officials
-    are tracing his
-    contacts.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Richard C.
-    Paddock</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anuwar
-    Hazarika/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/world/25india-floods01/25india-floods01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Flooding in India Kills Scores of Animals, Including Endangered Rhinos](/2020/07/25/world/asia/india-floods-rhinos.html)
-    
-    The flooding at the famous Kaziranga game reserve has drawn the
-    attention of the Duke and Duchess of Cambridge, who had visited the
-    park to learn about its conservation
-    efforts.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Associated
-    Press</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saudi
-    Royal Palace, via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24saudi-interpoltop/24saudi-interpoltop-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Saudi Spy Chief Hid Abroad. With Appeals and Threats, M.B.S. Tried to Bring Him Back](/2020/07/24/world/middleeast/Saudi-spy-mbs-extradition.html)
-    
-    To try to force a former Saudi intelligence officer to return to the
-    kingdom, Crown Prince Mohammed bin Salman asked for his help,
-    targeted his family and sought to have him arrested
-    abroad.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Hubbard</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Abir
-    Sultan/EPA, via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24israel-netanyahu/merlin_174884844_64fd8596-ca6f-452e-8078-5cd65b99362e-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [After Early Success, Israel’s Netanyahu Faces Fury for Flubbing Virus Fight](/2020/07/24/world/middleeast/israel-virus-protests-netanyahu.html)
-    
-    With infections spiking again, young Israelis are protesting what
-    they see as chaotic handling of the health and economic
-    crisis.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Isabel
-    Kershner</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-    photo by Hannah
-    McKay</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/politics/24dc-woody1/24dc-woody1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Woody Johnson Was a Loyal Trump Supporter in 2016. As an Ambassador, He May Be Too Loyal.](/2020/07/24/world/europe/woody-johnson-trump.html)
-    
-    In the view of some American diplomats, Mr. Johnson’s willingness to
-    carry out President Trump’s request to seek the British government’s
-    help in moving the British Open to his golf resort in Scotland was
-    only the latest example of the envoy’s poor
-    judgment.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Mark Landler</span>,
-    <span class="css-1baulvz" itemprop="name">Lara Jakes</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Maggie
-    Haberman</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>EPA,
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yonhap/EPA,
     via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24china-consulates-1sub/24china-consulates-1sub-videoLarge-v2.jpg)
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28virus-nkorea-1/28virus-nkorea-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [China Orders U.S. to Shut Chengdu Consulate, Retaliating for Houston](/2020/07/24/world/asia/china-us-consulate-chengdu.html)
+    ## [North Korea Thinks He Brought Covid-19. The South Wanted to Arrest Him.](/2020/07/28/world/asia/north-korea-defector-coronavirus.html)
     
-    The tit-for-tat consulate closures marked yet another round of
-    rising tensions between Washington and
-    Beijing.
+    Kim Geum-hyok, the defector who swam back to the North — leading to
+    a coronavirus lockdown — was wanted in South Korea, where he had
+    been accused of
+    rape.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Keith Bradsher</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steven Lee
-    Myers</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Choe
+    Sang-Hun</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Khaled
+    Desouki/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28egypt/28egypt-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Egypt Sentences Women to 2 Years in Prison for TikTok Videos](/2020/07/28/world/middleeast/egypt-women-tiktok-prison.html)
+    
+    Two Egyptian social media stars with millions of followers were
+    convicted on charges of violating family values. Two more women are
+    scheduled to stand trial on similar charges on
+    Wednesday.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Declan
+    Walsh</span></span>
     
     </div>
 
@@ -511,100 +402,97 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/coronavirus-hospitalizations-us-promo-1595468186958/coronavirus-hospitalizations-us-promo-1595468186958-videoLarge-v9.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Where the Virus Is Sending People to Hospitals](/interactive/2020/07/23/us/coronavirus-hospitalizations-us.html)
+    ## [More Than 6,300 Coronavirus Cases Have Been Linked to U.S. Colleges](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
     
-    New data from nearly 50 cities shows the number of people
-    hospitalized with coronavirus is rising in a wide expanse of hot
-    spots around the
-    country.
+    A Times survey of hundreds of schools represents the most
+    comprehensive look at the toll the virus has already taken on the
+    country’s colleges and
+    universities.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Lazaro Gamio</span>,
-    <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Keith
-    Collins</span></span>
+    <span class="css-1baulvz" itemprop="name">Weiyi Cai</span>,
+    <span class="css-1baulvz" itemprop="name">Danielle Ivory</span>,
+    <span class="css-1baulvz" itemprop="name">Mitch Smith</span>,
+    <span class="css-1baulvz" itemprop="name">Alex Lemonides</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Lauryn
+    Higgins</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tyler
-    Hicks/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/virus-amazon2/virus-amazon2-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
+    M. Lange for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28virus-retailmasks-sub/28virus-retailmasks-sub-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Coronavirus Unleashed Along the Amazon River](/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html)
+    ## [A Wrinkle in Stores’ Mask Policies: Enforcement](/2020/07/29/business/coronavirus-masks-stores-walmart.html)
     
-    As the pandemic assails Brazil, the virus is taking an exceptionally
-    high toll on the Amazon
-    region.
+    A number of large retailers have said that all customers must wear
+    masks, but some employees have been told they cannot force those who
+    refuse.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tyler Hicks</span>,
-    <span class="css-1baulvz" itemprop="name">Julie Turkewitz</span>,
-    <span class="css-1baulvz" itemprop="name">Manuela Andreoni</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Jeremy
-    White</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Michael
+    Corkery</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
-    B. Brazziell/Austin American-Statesman, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/23VIRUS-DALLAS-abbott/merlin_173598360_df2009ed-98a4-4165-99a4-9bea7575c166-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/politics/29dc-memo/29dc-memo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Red vs. Red in Texas, With Republicans Battling One Another After Mask Order](/2020/07/23/us/coronavirus-texas-abbott-republicans.html)
+    ## [Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’](/2020/07/29/us/politics/republicans-congress-virus-aid.html)
     
-    The virus has heightened long-simmering friction in the largest
-    Republican-led state in the country, with Gov. Greg Abbott under
-    attack from within his own
-    party.
+    Senators in the party are “all over the lot” on the pandemic bill as
+    jobless benefits run out and the fate of any legislative deal
+    remains
+    uncertain.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Manny Fernandez</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">J. David
-    Goodman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Carl
+    Hulse</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/21dc-trump/21dc-trump-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
+    Masuike/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/nyregion/00nyvirus-contacttracers3/merlin_173678676_31c5c9f4-9a1b-43ab-9eab-589152e9a2b2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump, in a Shift, Endorses Masks and Says Virus Will Get Worse](/2020/07/21/us/politics/trump-coronavirus-masks.html)
+    ## [City Praises Contact-Tracing Program. Workers Call Rollout a ‘Disaster.’](/2020/07/29/nyregion/new-york-contact-tracing.html)
     
-    Rather than just “embers” of the disease, as he has repeatedly
-    characterized recent outbreaks afflicting much of the country,
-    President Trump conceded that there were now “big
-    fires.”
+    The contact tracers said the program was confusing and disorganized
+    in its first six weeks, leaving them fearful that their work would
+    not have an impact on the
+    virus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Peter
-    Baker</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sharon
+    Otterman</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joshua
-    Mellin for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/sports/26baseball-prod1/merlin_174931122_5ca4c6aa-e030-4d1a-8c59-6529881987af-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/arts/27comic-con3/27comic-con3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Slimmed-Down Baseball on TV Has Broadcast Workers Worried](/2020/07/26/sports/baseball/baseball-tv-camera-operators.html)
+    ## [When a Quarantine Comic-Con Keeps Fans at a Distance](/2020/07/29/arts/comic-con-fandom-quarantine.html)
     
-    Could changes to telecasts made during the coronavirus pandemic
-    become more
-    permanent?
+    Comic-Con International in San Diego recreated panels and viewing
+    events for its online-only incarnation but left out ways for fans to
+    interact. Our critic asks, what does that spell for the future of
+    fandoms?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kevin
-    Draper</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maya
+    Phillips</span></span>
     
     </div>
 
@@ -614,7 +502,43 @@ story](#after-mid1)
 
 ## [Read The Times in Spanish](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Danilo
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
+    Kostyukov para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/28Francia-vino-ES/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Angustia, vino blanco y gel antibacterial](/es/2020/07/28/espanol/mundo/vino-blanco-alsacia-coronavirus.html)
+    
+    La pandemia del coronavirus y los aranceles impuestos por el
+    gobierno de Donald Trump perjudicaron al mercado del vino francés.
+    Ahora el destino de la cosecha es convertirse en desinfectante para
+    manos.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Nossiter</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reef
+    Chang</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/27Taiwan-Laundry-ES/24taiwan-laundry1a-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Él tiene 83, ella 84 y modelan la ropa que la gente olvida en su lavandería](/es/2020/07/28/espanol/mundo/lavanderia-taiwanesa-instagram.html)
+    
+    Los dueños de un centro de lavado en Taiwán se han convertido en
+    estrellas de Instagram por posar con prendas que los clientes
+    abandonan.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Chris
+    Horton</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Danilo
     Balderrama/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/22virus-bolivia-chlorine3-ES/merlin_174813969_70c99bfb-2d19-43d2-9240-6a5628c9b216-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -635,7 +559,25 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Roff
+    Smith</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/travel/28sombreros-toquilla-ES-00/20travel-panama-01-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Una visita a los talleres de los mejores fabricantes de sombreros en Ecuador](/es/2020/07/28/espanol/estilos-de-vida/sombreros-toquilla-panama-ecuador.html)
+    
+    Cremoso como la seda y más costoso que su peso en oro, un sombrero
+    de Panamá Montecristi superfino no solo es un accesorio de moda,
+    también es una obra de
+    arte.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Roff
+    Smith</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Luong para The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/23vaccine-ES-00/00VIRUS-JNJ1-videoLarge.jpg)
     
@@ -651,68 +593,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Carl
     Zimmer</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Foto
-    de consorcio de John
-    Thys</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/world/22virus-eu-assess-ES/21virus-eu-assess-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Angela Merkel logró que la UE llegara a un acuerdo, aunque sea imperfecto](/es/2020/07/22/espanol/mundo/coronavirus-union-europea-estimulo.html)
-    
-    La canciller de Alemania, cuyo país ocupa la presidencia rotativa
-    del bloque, logró un consenso para un plan de recuperación pandémica
-    destinado al golpeado sur de Europa. Pero las concesiones podrían
-    tener un precio muy
-    alto.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Steven Erlanger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Matina
-    Stevis-Gridneff</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tarso
-    Sarraf/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/world/20virus-Brazil-indigenous-ES-1/merlin_174536157_e4698abf-20cb-4346-bce1-1da0bdd37af1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [En Brasil los profesionales de la salud podrían haber contagiado de coronavirus a las poblaciones indígenas](/es/2020/07/20/espanol/america-latina/brasil-coronavirus-comunidades-indigenas.html)
-    
-    Numerosos trabajadores que iban a monitorear a comunidades indígenas
-    estaban infectados, lo que expuso a poblaciones remotas al virus.
-    Ellos dicen que no llevaban equipos de protección adecuados ni
-    contaban con acceso a
-    pruebas.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Manuela Andreoni</span>,
-    <span class="css-1baulvz" itemprop="name">Ernesto Londoño</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Letícia
-    Casado</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrea
-    Mantovani para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/03/world/17FRANCE-RACISM-ES-00/merlin_174157446_f0d13db0-987b-466d-b243-555fec471c41-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Francia, donde la raza es un tema tabú, abre los ojos frente al racismo](/es/2020/07/17/espanol/mundo/racismo-francia-protestas.html)
-    
-    Con la vista puesta en Estados Unidos, los hijos de inmigrantes de
-    África y el Caribe introducen el tema racial en el discurso
-    público, en un evidente desafío al universalismo
-    francés.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Norimitsu
-    Onishi</span></span>
     
     </div>
 
@@ -746,7 +626,64 @@ story](#after-mid2)
 [More in Dispatches
     »](/spotlight/dispatches-international)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Florent
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
+    Kostyukov for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/00france-wine1/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Of Wine, Hand Sanitizer and Heartbreak](/2020/07/27/world/europe/france-alsace-wine-coronavirus.html)
+    
+    Between the coronavirus and the Trump tariffs, the French wine
+    market has collapsed. So winemakers are — sadly — sending their
+    excess product off to another life as hand
+    sanitizer.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Nossiter</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
+    Kostyukov for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/00france-holiday-dispatch/00toulouse-holiday-dispatch-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [For French-Algerian Families, Virus Disrupts Cherished Summer Ritual](/2020/07/26/world/europe/france-algeria-summer-vacations.html)
+    
+    Holidays in Algeria are a cornerstone of the cross-cultural identity
+    of many French people with roots there. This year, they are stuck at
+    home, and the pain is acute: “It’s sacred for us to
+    leave.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Constant
+    Méheut</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+    Dean for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/26monkeys-dispatch1/merlin_174060687_ac420efb-4bb8-4e0c-9ebe-727d5f66ca2e-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [These Monkeys Were Once Revered. Now They Are Taking Over.](/2020/07/25/world/asia/thailand-monkeys.html)
+    
+    The monkeys of Lopburi, Thailand, were once a draw for tourists and
+    pilgrims who would feed them. But with few recent visitors, the
+    monkeys are getting hungry — and
+    aggressive.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Hannah
+    Beech</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Florent
     Bardos/Abaca, via Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/world/xxparis-store-dispatch01sub/xxparis-store-dispatch01sub-videoLarge.jpg)
     
@@ -764,7 +701,7 @@ story](#after-mid2)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
     Al-Mumen/EPA, via
     Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/world/xxiraq-graveyard/xxiraq-graveyard-videoLarge.jpg)
     
@@ -780,64 +717,6 @@ story](#after-mid2)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alissa J.
     Rubin</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
-    Dean for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/25/world/00virus-thailand-photos-promo1/merlin_173899668_3cb53f8d-f789-4496-9f25-0218e93a0037-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [No One Knows What Thailand Is Doing Right, but So Far, It’s Working](/2020/07/16/world/asia/coronavirus-thailand-photos.html)
-    
-    Can the country’s low rate of coronavirus infections be attributed
-    to culture? Genetics? Face masks? Or a combination of all
-    three?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Hannah Beech</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Dean</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
-    Ibarra Sanchez for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/world/11Lebanon-Dispatch/11Lebanon-Dispatch-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Bartering Child’s Dress for Food: Life in Lebanon’s Economic Crisis](/2020/07/12/world/middleeast/beirut-lebanon-economic-crisis.html)
-    
-    A TV chef abandons unaffordable beef. Blackouts make for sweltering
-    summer nights. Changing money feels like a drug deal: The financial
-    meltdown means daily pain and a blow to a country’s
-    pride.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Ben Hubbard</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Hwaida
-    Saad</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nariman
-    El-Mofty/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/06/world/00cairo-dispatch1/merlin_174278163_69dce3c2-fb1e-4853-b995-058c120abf84-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Cairo Badly Needed a Detox. Lockdown Supplied One, at a Steep Price.](/2020/07/09/world/middleeast/cairo-lockdown-detox.html)
-    
-    Three months of lockdown slowed its pulse, stripped its grit and
-    exposed a new side to a weary city. But without the noise, bustle
-    and grind, was it really
-    Cairo?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Declan
-    Walsh</span></span>
     
     </div>
 
@@ -996,23 +875,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/world/europe/milos-jakes-dead.html)
+    [](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/obituaries/24Jakes1/24Jakes1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Milos Jakes, Czech Communist Leader, Is Dead at 97
+    ## Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions
     
-    In 1987 he was made general secretary of the country’s Communist
-    Party. Two years later he was swept aside by reform.
+    Congressional investigators said companies tied to two Russians
+    under sanctions were able to buy art using shell companies and an
+    intermediary.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil
-    Genzlinger</span>
+    By <span class="css-1n7hynb">Graham
+    Bowley</span>
     
     </div>
     
@@ -1030,22 +910,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/world/coronavirus-covid-19.html)
+    [](/2020/07/29/world/europe/honey-lead-notredame-fire-paris.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29notredame-honey01/merlin_161902956_aed56864-30fc-4f7c-b06e-dd86d74ad44c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week
+    ## Paris Beehives Trace Notre-Dame’s Toxic Fallout
     
-    Friday was the fourth day running that the United States reported
-    over 1,100 deaths. New research sheds light on male vulnerability to
-    severe
-    Covid-19.
+    Bees can act as tiny pollution detectors, say researchers, who found
+    higher but still safe lead levels in honey gathered downwind of the
+    cathedral.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elian
+    Peltier</span>
     
     </div>
     
@@ -1063,25 +945,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/canada/cronk.html)
+    [](/2020/07/29/world/europe/us-troops-nato-germany.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24canadaletter/24canadaletter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/politics/29dc-military/29dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">CANADA LETTER</span>
+    ## U.S. to Cut 12,000 Forces in Germany
     
-    ## Cracking Open a Bottle of Calgary’s Past
-    
-    One man’s social media post of archived 19th-century newspaper ads
-    has revived interest in a long forgotten drink.
+    Defense Department officials say the redeployments will enhance
+    American security and its ability to respond to threats. Allies and
+    some in Congress see it as punishment to Germany.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
+    By <span class="css-1n7hynb">Thomas
+    Gibbons-Neff</span>
     
     </div>
     
@@ -1099,22 +980,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/24coronavirus-today.html)
+    [](/2020/07/29/world/asia/coronavirus-vietnam.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v653.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29virus-vietnam01/merlin_175063065_6df86ac8-3474-47c9-9361-dd07649b6ea1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Briefing: What Happened Today
+    ## Mysterious Coronavirus Outbreak Catches Vietnam by Surprise
     
-    The C.D.C.’s package on school reopenings included mixed messages.
+    After months without a single coronavirus death, or even a confirmed
+    case of local transmission, a new outbreak has struck Vietnam. And
+    it’s spreading.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan Wolfe <span>and</span> Lara
-    Takenaga</span>
+    By <span class="css-1n7hynb">Hannah Beech <span>and</span> Chau
+    Doan</span>
     
     </div>
     
@@ -1132,24 +1015,22 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/europe/grenoble-france-fire-rescue.html)
+    [](/2020/07/29/briefing/coronavirus-william-barr-emmy-nominations-your-wednesday-briefing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/politics/24-france-rescue-1/24-france-rescue-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/29ambriefing-promo/29ambriefing-promo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Pure Instinct’: The Extraordinary Rescue of 2 French Boys From a Fire
+    ## Information Contagion
     
-    The story of how two brothers, 10 and 3, were saved from a burning
-    apartment: “There were maybe five or six of us,” said one of the
-    rescuers. “We did not plan anything.”
+    And what else you need to know today.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam
-    Nossiter</span>
+    By <span class="css-1n7hynb">David
+    Leonhardt</span>
     
     </div>
     
@@ -1167,23 +1048,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/bruce-blair-dead.html)
+    [](/2020/07/29/health/coronavirus-future-america.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/obituaries/23Blair1/23Blair1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/science/30VIRUS-FUTURE6-jump/merlin_174438045_0ea9fc15-a773-4e95-909e-863972c145d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Bruce Blair, Crusader for Nuclear Arms Control, Dies at 72
+    ## A Viral Epidemic Splintering Into Deadly Pieces
     
-    A former Minuteman launch officer, he sounded alarms about how easy
-    it is to start a nuclear attack, and about the lack of safeguards.
+    There’s not just one coronavirus outbreak in the United States. Now
+    there are many, each requiring its own mix of solutions.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Donald G. McNeil
+    Jr.</span>
     
     </div>
     
@@ -1201,25 +1082,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/politics/trump-arms-sales-drones.html)
+    [](/2020/07/29/briefing/russian-propaganda-uk-quarantine-van-gogh.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/politics/24dc-diplo-arms/24dc-diplo-arms-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/briefing/29ambriefing-euro-promo/29ambriefing-euro-slide-86JO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Administration Is Bypassing Arms Control Pact to Sell Large Armed Drones
+    ## Your Wednesday Briefing
     
-    The move has been opposed internally by arms control officials and
-    lawmakers trying to limit the proliferation of such drones,
-    especially in countries like Saudi Arabia and the United Arab
-    Emirates.
+    Russian propaganda, U.K. quarantine, van Gogh: Here’s what you need
+    to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Edward
-    Wong</span>
+    By <span class="css-1n7hynb">Isabella
+    Kwai</span>
     
     </div>
     
@@ -1237,26 +1116,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/video/world/middleeast/100000007255122/hagia-sophia-mosque-prayers.html)
+    [](/2020/07/28/us/coronavirus-today.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24istanbul01sub/merlin_174898962_2774b444-7507-42b0-832f-742c86763d05-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v666.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Coronavirus Briefing: What Happened Today
     
-    ## Hagia Sophia Draws Huge Crowds for Friday Prayer
-    
-    President Recep Tayyip Erdogan of Turkey joined crowds of Muslim
-    worshipers at the Hagia Sophia for its first Friday Prayer since
-    being restored to a working mosque.
+    Daily new cases appear to be leveling off — though at an extremely
+    high level.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Reuters</span>
+    By <span class="css-1n7hynb">Jonathan Wolfe <span>and</span> Lara
+    Takenaga</span>
     
     </div>
     
@@ -1274,24 +1150,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/asia/japan-coronavirus.html)
+    [](/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24virus-japan01/24virus-japan01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## As Japan Nears 1,000 Daily Coronavirus Infections, It Shies From Restrictions
+    ## Moderna Vaccine Test in Monkeys Shows Promise
     
-    Case numbers are climbing fast, with virus clusters in nursing
-    homes, schools and elsewhere. But fingers are being pointed at
-    Japan’s so-called hostess bars.
+    This coronavirus vaccine developed by government researchers and
+    Moderna enabled the animals to quickly clear the infection from
+    their lungs.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Motoko Rich <span>and</span> Hikari
-    Hida</span>
+    By <span class="css-1n7hynb">Denise
+    Grady</span>
     
     </div>
     
@@ -1309,24 +1185,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/asia/taiwan-octogenarian-couple-instagram-laundry.html)
+    [](/2020/07/28/world/middleeast/west-bank-protest-activists.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24taiwan-laundry1a/24taiwan-laundry1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28westbank/28westbank-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The saturday profile</span>
+    ## Palestinians, Slammed for Suppressing Dissent, Free Protest Organizers
     
-    ## He’s 83, She’s 84, and They Model Other People’s Forgotten Laundry
-    
-    The owners of a laundry shop in central Taiwan have become Instagram
-    stars for posing in garments left behind.
+    The activists, charged with violating coronavirus regulations
+    forbidding mass gatherings, were released on bail after being held
+    for a week.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Chris Horton</span>
+    By <span class="css-1n7hynb">Adam Rasgon <span>and</span> Mohammed
+    Najib</span>
     
     </div>
     

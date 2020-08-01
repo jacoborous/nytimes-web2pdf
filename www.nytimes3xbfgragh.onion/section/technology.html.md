@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-technology" class="section css-15h4p1b e9abtgs0">
 
@@ -142,91 +166,93 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jared
-    Soares for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/business/00GEORGEMASON-cover/merlin_174825639_d4927517-7632-4b64-81a9-62e01ed3a036-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Big Tech Funds a Think Tank Pushing for Fewer Rules. For Big Tech.](/2020/07/24/technology/global-antitrust-institute-google-amazon-qualcomm.html)
+    ## [A Handbook to Today’s Tech Hearing](/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
     
-    Google, Amazon and Qualcomm finance a George Mason University
-    institute teaching a hands-off approach to antitrust regulators and
-    judges.
+    The C.E.O.s are likely to argue before Congress that their companies
+    aren’t anticompetitive. Here are the
+    facts.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daisuke
-    Wakabayashi</span></span>
+    <span class="css-1baulvz" itemprop="name">Jack Nicas</span>,
+    <span class="css-1baulvz" itemprop="name">Daisuke
+    Wakabayashi</span>, <span class="css-1baulvz" itemprop="name">Karen
+    Weise</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Isaac</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-    Henry for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23google/merlin_165432771_fa3846be-b2ca-446c-868e-0cddfc169896-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+    Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Takes Aim at Amazon. Again.](/2020/07/23/technology/google-ecommerce-amazon.html)
+    ### tech fix
+    
+    ## [How to Fight Against Big Tech’s Power](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23google/merlin_165432771_fa3846be-b2ca-446c-868e-0cddfc169896-thumbStandard.jpg)](/2020/07/23/technology/google-ecommerce-amazon.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-thumbStandard.gif)](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
     
     </div>
     
-    The company is unveiling another initiative to compete more
-    effectively with Amazon’s e-commerce
-    business.
+    We are beholden to a few Big Tech overlords for much of our digital
+    lives. We can be more conscientious about
+    it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daisuke
-    Wakabayashi</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Greg
-    Baker/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23tiktok/merlin_174342381_805f1937-d01f-40f4-9c63-d04e50c81afb-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [TikTok’s Parent Said to Weigh Selling a Majority Stake in the Video App](/2020/07/23/business/dealbook/tiktok-bytedance-investors-trump.html)
+    ## [Misleading Virus Video, Pushed by the Trumps, Spreads Online](/2020/07/28/technology/virus-video-trump.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23tiktok/merlin_174342381_805f1937-d01f-40f4-9c63-d04e50c81afb-thumbStandard.jpg)](/2020/07/23/business/dealbook/tiktok-bytedance-investors-trump.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-thumbStandard.jpg)](/2020/07/28/technology/virus-video-trump.html)
     
     </div>
     
-    The move would reduce ownership by a Chinese company, ByteDance,
-    amid escalating tensions between the U.S. and
-    China.
+    Social media companies took down the video within hours. But by
+    then, it had already been viewed tens of millions of
+    times.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael J. de la
-    Merced</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Erin
-    Griffith</span></span>
+    <span class="css-1baulvz" itemprop="name">Sheera Frenkel</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Davey
+    Alba</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
-    Wiseman</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/24ontech/24ontech-videoLarge-v2.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
+    Brenner/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29OnTech-congress-NL/merlin_136662141_d00edf4e-32e1-4792-838d-be6203b96ea3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ### on tech
     
-    ## [Digital Habits Are Hard to Break](/2020/07/24/technology/digital-habits.html)
+    ## [Congress Doesn’t Get Big Tech. By Design.](/2020/07/29/technology/congress-big-tech.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/24ontech/24ontech-thumbStandard.jpg)](/2020/07/24/technology/digital-habits.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29OnTech-congress-NL/29OnTech-congress-NL-thumbStandard.jpg)](/2020/07/29/technology/congress-big-tech.html)
     
     </div>
     
-    Technology was supposed to be all about welcoming newcomers. But is
-    it?
+    Members of Congress may say dumb things at the tech hearing, but
+    it’s not necessarily their
+    fault.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Shira
@@ -266,7 +292,23 @@ story](#after-mid1)
 [More in Personal Technology
     »](/section/technology/personaltech)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Livestream Your Wedding Like a Pro](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
+    
+    These gadgets will help you improve the production quality and
+    create memorable experiences for you and your digital
+    guests.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Daniel
+    Bortz</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
     Noronha</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23aipassport/23aipassport-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -283,7 +325,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/technology/personaltech/22TECHTIP_TOP/22TECHTIP_TOP-videoLarge.jpg)
     
@@ -300,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
     Blake/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/business/17WHEELS1/merlin_146064276_97aea028-0fa5-44a4-8ad0-7a642ae3199a-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -318,7 +360,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/business/16Techfix-illo/15Techfix-illo-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -333,23 +375,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
     Chen</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hayley
-    Wall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/multimedia/14ADA-TECHNOLOGY/14ADA-TECHNOLOGY-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Disabled Do-It-Yourselfers Lead Way to Technology Gains](/2020/07/14/style/assistive-technology.html)
-    
-    So long to overhyped innovations. Hello to tech that embeds
-    accessibility into everyday
-    devices.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David M.
-    Perry</span></span>
     
     </div>
 
@@ -384,24 +409,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
+    [](/2020/07/29/technology/trump-fcc-twitter-facebook.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/fashion/23everlane-screengrabs-02/23everlane-screengrabs-02-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29DC-TrumpCensor/merlin_172932390_d5abf51f-906e-4707-872e-6e1be2d64d43-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Everlane’s Promise of ‘Radical Transparency’ Unravels
+    ## Commerce Department Asks F.C.C. to Narrow Protections for Web Platforms
     
-    Employees past and present are challenging management, saying the
-    company’s ethical image was an illusion.
+    The request comes as President Trump continues to accuse tech
+    platforms like Facebook and Twitter of suppressing conservative
+    content.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jessica Testa, Vanessa Friedman
-    <span>and</span> Elizabeth
-    Paton</span>
+    By <span class="css-1n7hynb">David
+    McCabe</span>
     
     </div>
     
@@ -419,25 +444,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/technology/tiktok-china-ban-model.html)
+    [](/2020/07/29/world/europe/turkey-social-media-control.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/business/25roose1/merlin_162742050_8f2e22da-5532-46ee-9cec-e5cccb476376-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The Shift</span>
+    ## Turkey Passes Law Extending Sweeping Powers Over Social Media
     
-    ## Don’t Ban TikTok. Make an Example of It.
-    
-    There is plenty the U.S. government could do to ensure that TikTok
-    acts responsibly without getting rid of it altogether.
+    The legislation extends control over platforms like Facebook,
+    Twitter and YouTube. Critics worry it will be used to stifle dissent
+    and criticism of the government.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kevin
-    Roose</span>
+    By <span class="css-1n7hynb">Marc
+    Santora</span>
     
     </div>
     
@@ -455,23 +479,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/business/the-great-au-pair-rush.html)
+    [](/2020/07/28/business/media/universal-amc-movies-at-home.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/business/26aupairsjp/merlin_174871512_b1de58df-100c-4682-881e-d26acdceb4b6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28virus-movierelease-2/28virus-movierelease-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Great Au Pair Rush
+    ## Universal’s Theatrical Releases Will Quickly Be Available in Homes
     
-    When the Trump administration shut the borders to many new au pairs,
-    those already in the country found they had something new: options.
+    The studio agreed to a deal with AMC, the world’s biggest theater
+    chain, to shorten the exclusive window for new movies to 17 days
+    from 90, likely changing the way Hollywood does business.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jordan
-    Salama</span>
+    By <span class="css-1n7hynb">Brooks Barnes <span>and</span> Nicole
+    Sperling</span>
     
     </div>
     
@@ -489,26 +514,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/style/elon-musk-maureen-dowd.html)
+    [](/2020/07/28/technology/amazon-jeff-bezos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/fashion/23with-elonmusk-promo-v1/23with-elonmusk-promo-v1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28ontech/28ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">with …</span>
+    ### <span class="css-m70j1g">on Tech</span>
     
-    ## Elon Musk, Blasting Off in Domestic Bliss
+    ## Amazon Is Jeff Bezos
     
-    The billionaire space oddity on life with Grimes and Baby X, Trump,
-    Tesla, tunnels, short shorts, stock surges, Facebook fumbles and
-    everything else under the sun.
+    Bezos built Amazon into a central force in the world. This week
+    he’ll have to answer for it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maureen
-    Dowd</span>
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
     
     </div>
     
@@ -526,23 +550,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/style/comic-con-online-artist-alley.html)
+    [](/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/fashion/25VIRTUAL-ARTIST-ALLEY1/merlin_99908339_34af89fc-2650-4095-bcfb-c786508068a0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28drivers-1/28drivers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Comic-Con Is Online, and So Is the Artist Alley
+    ## Uber and Lyft Drivers Win Ruling on Unemployment Benefits
     
-    Indie artists who make a significant portion of their income at fan
-    conventions are hoping virtual attendees will be willing to spend.
+    A federal judge’s decision in New York is a key victory in efforts
+    to secure the protections extended to other workers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Paige
-    Lyman</span>
+    By <span class="css-1n7hynb">Noam
+    Scheiber</span>
     
     </div>
     
@@ -560,24 +584,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/movies/humanoid-robot-actor.html)
+    [](/2020/07/28/technology/apple-app-store-airbnb-classpass.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/arts/22robot/22robot-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28virus-apple1/28virus-apple1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Star of This $70 Million Sci-Fi Film Is a Robot
+    ## Their Businesses Went Virtual. Then Apple Wanted a Cut.
     
-    Meet Erica, an android believed to be Hollywood’s first fully
-    autonomous artificially intelligent actor. Can she overcome the
-    uncanny valley?
+    After Airbnb and ClassPass began selling virtual classes because of
+    the pandemic, Apple tried to collect its commission on the sales.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Bahr</span>
+    By <span class="css-1n7hynb">Jack Nicas <span>and</span> David
+    McCabe</span>
     
     </div>
     
@@ -595,23 +618,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/style/omegle-random-video-chat.html)
+    [](/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/fashion/24OMEGLE2/24OMEGLE2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Oh, So We’re Doing Random Video Chat Again?
+    ## Amazon, Apple, Facebook and Google Prepare for Their ‘Big Tobacco Moment’
     
-    Omegle, a precursor to Chatroulette, has grown in popularity during
-    this indefinite period of social isolation.
+    The tech C.E.O.s will appear together at a congressional hearing on
+    Wednesday to argue that their companies do not stifle competition.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
+    By <span class="css-1n7hynb">Cecilia Kang, Jack Nicas
+    <span>and</span> David
+    McCabe</span>
     
     </div>
     
@@ -629,23 +653,29 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/realestate/brainport-smart-district-takes-shape-in-the-netherlands.html)
+    [](/2020/07/27/style/challenge-accepted-instagram.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/realestate/25real-smartdistrict01-inyt/25real-smartdistrict01-inyt-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A ‘Smart District’ Takes Shape in the Netherlands
+    ## ‘Challenge Accepted’: Why Women Are Posting Black-and-White Selfies
     
-    The goal is a sustainable community that uses technology to improve
-    the quality of life for 4,500 residents.
+    A campaign that purports to be about “women supporting women” is
+    filling people’s Instagram feeds with striking, if opaque, imagery.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb"> Joann
-    Plockova</span>
+    By <span class="css-1n7hynb">Taylor Lorenz</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/07/28/espanol/estilos-de-vida/reto-selfi-blanco-negro.html "Read in Spanish")
     
     </div>
     
@@ -663,23 +693,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/business/media/att-hbo-max.html)
+    [](/2020/07/27/technology/tiktok-data-privacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23att-hbomax-01/23att-hbomax-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## AT\&T Signed Up 4 Million HBO Max Customers
+    ### <span class="css-m70j1g">on tech</span>
     
-    The phone giant saw customer defections across its businesses, but
-    millions signed up to its new streaming service.
+    ## What to Do About TikTok
+    
+    Instead of banning the app, U.S. officials could force it to be more
+    transparent.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Edmund
-    Lee</span>
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
     
     </div>
     
@@ -697,23 +729,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/technology/big-tech-climate-change.html)
+    [](/2020/07/27/business/fashion-masks-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23ontech/23ontech-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/25virus-japan-masks-1/25virus-japan-masks-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">on tech</span>
+    ## We’ll Be Wearing Masks for a While. Why Not Make Them Nice?
     
-    ## Big Tech Versus Climate Change
-    
-    How tech companies and all of us can help slow global warming.
+    Motorized air purifiers and heated sanitizers. Breathable fabrics
+    and chic prints. With face coverings here to stay, consumers are
+    starting to demand more than cheap throwaways.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira Ovide</span>
+    By <span class="css-1n7hynb">Ben Dooley <span>and</span> Hisako
+    Ueno</span>
     
     </div>
     

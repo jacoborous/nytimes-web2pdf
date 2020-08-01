@@ -206,23 +206,23 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/26/briefing/coronavirus-hurricane-hanna-regis-philbin.html)
+[](/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/briefing/26weekend-briefing-promo/26weekend-briefing-promo-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.graylady3jvrrxbe.onion/images/2017/01/29/podcasts/the-daily-album-art/the-daily-album-art-square320-v4.png)
 
 </div>
 
 </div>
 
-[](/2020/07/26/briefing/coronavirus-hurricane-hanna-regis-philbin.html)
+[](/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## Coronavirus, Hurricane Hanna, Regis Philbin: Your Weekend Briefing
+## Listen to ‘The Daily’
 
 </div>
 
@@ -230,8 +230,8 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-8oysku e18972d71">
 
-Here’s what you need to know about the week’s top
-stories.
+Confronting
+China.
 
 </div>
 
@@ -249,23 +249,23 @@ stories.
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
+[](/2020/07/29/technology/congress-big-tech.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2017/01/29/podcasts/the-daily-album-art/the-daily-album-art-square320-v4.png)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/05/14/business/ontech-nl-icon/ontech-nl-icon-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
 </div>
 
-[](/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
+[](/2020/07/29/technology/congress-big-tech.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## Listen to ‘The Daily’
+## ‘On Tech With Shira Ovide’
 
 </div>
 
@@ -273,8 +273,8 @@ stories.
 
 <div class="css-8oysku e18972d71">
 
-The battle for a baseball
-season.
+Congress doesn’t get big tech. By
+design.
 
 </div>
 
@@ -367,6 +367,10 @@ way.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div class="css-1aew2eb eqveam62">
+
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
@@ -379,20 +383,82 @@ way.
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/us/protests-seattle-portland.html)
+[](/2020/07/29/world/coronavirus-covid-19.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Fires and Pepper Spray in Seattle as Protests Widen Across U.S.</span>
+## <span>Coronavirus Deaths Top 150,000 in the U.S.</span>
 
 </div>
 
-  - Weeks of violent clashes between protesters and federal agents in
-    Portland, Ore., galvanized thousands of people to march through
-    American cities.
-  - In Seattle, a day of confrontation left broken windows and burning
-    trailers, and both protesters and police officers suffered injuries.
-  - A shooting at a protest in Austin, Texas, left one man dead.
+  - An average of about 1,000 virus-related deaths a day have been
+    reported over the past week, the worst rate since early June.
+  - Representative Louie Gohmert of Texas tested positive for the virus
+    after participating in multiple hearings in the last week. Here’s
+    the
+latest.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/reader-center/tab-promo-new-deaths/tab-promo-new-deaths-master1050-v2.png)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## More Than 6,300 Coronavirus Cases Have Been Linked to U.S. Colleges
+
+</div>
+
+A Times survey of hundreds of schools offers a comprehensive look at the
+toll the virus has already taken, even before the academic year has
+started.
 
 <div>
 
@@ -406,17 +472,123 @@ way.
 
 </div>
 
+</div>
+
+</div>
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/video/us/100000007243995/portland-protests-federal-government.html)
+[](/2020/07/29/health/coronavirus-future-america.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Videos show how federal officers escalated violence in Portland.
+## A Viral Epidemic Splintering Into Deadly Pieces
 
 </div>
+
+There’s not just one coronavirus outbreak in the United States. Now
+there are many, each requiring its own mix of
+solutions.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/3641765d2dd61b762252f802562399b188be223c/images/orphan_usa-threeByTwoSmallAt2X.png)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](https://www.nytimes3xbfgragh.onion/live/2020/07/29/technology/tech-ceos-hearing-testimony)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Top Tech Bosses Face Congress</span>
+
+</div>
+
+Jeff Bezos, Tim Cook, Mark Zuckerberg and Sundar Pichai are testifying
+together before Congress for the first time about their business
+practices. Follow updates
+here.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/27/business/jeff-bezos-amazon-congress.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Jeff Bezos Cast in a Role He Never Wanted: Amazon’s D.C. Defender
+
+</div>
+
+The chief executive had taken a hands-off approach with policymakers in
+Washington.
 
 <div>
 
@@ -440,14 +612,11 @@ way.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/25/us/protests-seattle-portland.html)
-
 <div class="css-1g8bx4t">
 
-![One of the most intense protests was in Seattle, where 21 police
-officers were injured, and at least 45 protesters had been arrested.
-<span class="credit">Jason Redmond/Agence France-Presse — Getty
-Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/25/us/politics/25protest-seattle-portland/merlin_174952725_01c3cb6c-60ad-4ba2-a8ea-72bc0b8b5531-threeByTwoMediumAt2X.jpg?quality=75&auto=webp&disable=upscale)
+![The internet giants have been the subjects of investigations for more
+than a year on accusations that they have stifled rivals and harmed
+consumers.](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29techhearing-video/29techhearing-video-videoSixteenByNine3000.jpg)
 
 </div>
 
@@ -460,153 +629,6 @@ Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/25/us/poli
 </div>
 
 <div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/world/coronavirus-covid-19.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>U.S. Cases Soar as 18 States Set Single-Day Records in Past Week</span>
-
-</div>
-
-  - California, South Carolina, North Dakota, Kentucky and Hawaii are
-    among the 18 states that set single-day case records in the last
-    week.
-  - North Korea reported its first suspected Covid-19 case in a city
-    near its border with South Korea.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/business/coronavirus-vaccine-profits-vaxart.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Corporate Insiders Pocket $1 Billion in Rush for Virus Vaccine
-
-</div>
-
-Well-timed stock bets have generated big profits for senior executives
-and board members at companies developing vaccines and
-treatments.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1mnngwr eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div>
-
-<div class="css-1xaqcky">
-
-[](/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html)
-
-<div class="css-1g8bx4t">
-
-![<span class="credit">Tyler Hicks/The New York
-Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/reader-center/amazon-poster-vid/amazon-poster-vid-threeByTwoMediumAt2X.jpg)
-
-</div>
-
-</div>
-
-<div class="css-1nl6p6m">
-
-[](/interactive/2020/07/25/world/americas/coronavirus-brazil-amazon.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## The Coronavirus Unleashed On South America’s Life Source: The Amazon
-
-</div>
-
-The coronavirus has hit the Amazon hard, even in remote towns. A Times
-photographer traveled the river for weeks, documenting how the virus
-spread.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/5246b838fe5fcc2a52252306ae294f42673ba8ca/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1qiat4j eqveam63">
 
@@ -614,22 +636,37 @@ spread.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/07/25/us/hanna-storm-texas.html)
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/us/protests-portland-federal-withdrawal.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Hurricane Hanna Hits Texas Region Struggling With Coronavirus</span>
+## <span>Federal Agents Agree to Withdraw From Portland, With Conditions</span>
 
 </div>
 
-Some of the communities in the storm’s path have seen spikes in
-hospitalizations as Texas has become one of the largest hot spots in the
-U.S.
+The teams will begin a withdrawal on Thursday. Federal officials
+cautioned that they would do so only when they are confident the federal
+courthouse can be
+secured.
 
-<div>
+<div class="css-1slnf6i">
 
 <div class="css-na047m">
 
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">breaking</span></span>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 </div>
@@ -638,17 +675,13 @@ U.S.
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
+<div class="css-pwtn0q eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/25/us/hanna-storm-texas.html)
+[](/2020/07/29/us/protests-portland-federal-withdrawal.html)
 
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1ygu6hu eqveam61">
+<div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
@@ -658,19 +691,45 @@ U.S.
 
 </div>
 
-</div>
-
-</div>
-
-<div class="css-nmg095 eqveam60">
-
-<div class="css-1ygu6hu eqveam61">
-
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-Waves crashing against the Padre Island seawall in Corpus Christi,
-Texas, on Saturday. <span class="credit">Tamir Kalifa for The New York
-Times</span>
+The arrival of federal officers triggered a dramatic escalation in
+protests in downtown Portland, Ore. <span class="credit">Mason Trinca
+for The New York Times</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/27/parenting/wall-of-moms-protests.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## ‘Wall of Moms’ Groups Mobilize Nationwide
+
+</div>
+
+The movement that started with a few dozen moms in Portland, Ore., now
+has offshoots in cities across the
+country.
+
+<div>
+
+<div class="css-na047m">
 
 </div>
 
@@ -696,7 +755,7 @@ Times</span>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1fgqvm0 eqveam60">
+<div class="css-96x60l eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -704,23 +763,26 @@ Times</span>
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/world/asia/us-china-trump-xi.html)
+[](/2020/07/29/us/elections/biden-vs-trump.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Officials Push U.S.-China Relations Toward Point of No Return</span>
+## <span>Politics Updates: Trump Didn’t Discuss Bounty Reports With Putin</span>
 
 </div>
 
-Top aides to President Trump want to leave a lasting legacy of ruptured
-ties between the two powers. China’s aggression has been helping their
-cause.
+  - President Trump said he had not raised concerns with President
+    Vladimir Putin about intelligence suggesting Russia paid the Taliban
+    to kill U.S. troops.
+  - A new poll shows President Trump and Joe Biden tied in Georgia.
+    Here’s the
+latest.
 
-<div>
+<div class="css-1slnf6i">
 
 <div class="css-na047m">
 
-</div>
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
 
 </div>
 
@@ -732,7 +794,9 @@ cause.
 
 </div>
 
-<div class="css-ws86q6 eqveam60">
+</div>
+
+<div class="css-96x60l eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -742,17 +806,41 @@ cause.
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/world/asia/japan-china-xi.html)
+[](/2020/07/29/world/europe/us-troops-nato-germany.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## As the World Gets Tougher on China, Japan Tries to Thread a Needle
+## U.S. to Cut 12,000 Forces in Germany
 
 </div>
 
-Tokyo has not confronted Beijing as the U.S. and other allies have,
-mindful of its neighbor’s economic might and its own limited military
-options.
+Defense Department officials say the redeployments will enhance American
+security. Allies and some in Congress see it as punishment to
+Germany.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/28/world/africa/pentagon-somalia-civilian-casualties.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## The Pentagon admitted for a third time that the U.S. caused civilian casualties in Somalia.
+
+</div>
 
 <div>
 
@@ -769,6 +857,22 @@ options.
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
 
 </div>
 
@@ -788,17 +892,23 @@ options.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/07/25/us/john-lewis-memorial-service.html)
+[](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>John Lewis, Son of Alabama, Makes His Last Journey Home</span>
+<div class="css-hb0qj3">
+
+The Great
+Read
 
 </div>
 
-Days of memorials for the congressman and civil rights figure began in
-Troy, the Alabama town where he was raised. “Rest well,” one of his
-sisters said.
+## <span>Kerry James Marshall’s Black Birds Take Flight in a New Series</span>
+
+</div>
+
+The painter explores the societal “pecking order” in two works that
+dovetail with the mystery of whether James Audubon himself was Black.
 
 <div>
 
@@ -816,13 +926,13 @@ sisters said.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/25/us/john-lewis-memorial-service.html)
+[](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
 
 <div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:480px">
+<div data-testid="lazyimage-container" style="height:479.52px">
 
 </div>
 
@@ -830,176 +940,13 @@ sisters said.
 
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-Friends and family gathered in Troy, Ala., on Saturday to honor
-Representative John Lewis. <span class="credit">Nicole Craine for The
-New York
-Times</span>
+Kerry James Marshall’s “Black and part Black Birds in America: (Crow,
+Goldfinch),” 2020. It is one of two new works by the artist that David
+Zwirner Gallery will put on view this week. <span class="credit">Kerry
+James Marshall and David
+Zwirner</span>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/07/25/us/politics/trump-florida-convention.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Analysis: Trump’s Covid Failures Reshape Race and Lift Biden</span>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/07/25/us/politics/trump-florida-convention.html)
-
-President Trump’s cancellation of the convention in Florida and sudden
-embrace of masks may signal his acceptance of a transformed political
-landscape.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/24/briefing/best-weekend-reads.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>11 of Our Best Weekend Reads</span>
-
-</div>
-
-Farewell, John Lewis. Bake sales with global reach. Panama hats. 30
-years of the A.D.A. And
-more.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/interactive/2020/07/24/briefing/federal-agents-john-lewis-mars-news-quiz.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Did you follow the headlines this week? Take our quiz.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/07/24/briefing/best-weekend-reads.html)
-
-<div class="css-1g8bx4t">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:480.47999999999996px">
-
-</div>
-
-</div>
-
-<div class="css-e4gm3y">
 
 </div>
 
@@ -1029,56 +976,7 @@ more.
 
 ### Opinion
 
-<div class="css-anz6u5">
-
-<div class="css-tub26b">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/opinion/sunday/portland-protest-federal-troops.html)
-
-<div class="css-dcl9ft">
-
-![Nicholas
-Kristof](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-1dvlumo e18df3gd0">
-
-Nicholas
-Kristof
-
-</div>
-
-</div>
-
-## In Portland’s So-Called War Zone, It’s the Troops Who Provide the Menace
-
-</div>
-
-If President Trump is actually trying to establish order, he is
-stunningly incompetent.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<div class="css-dlmg09">
 
 <div class="css-tub26b">
 
@@ -1090,7 +988,7 @@ stunningly incompetent.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/07/25/opinion/school-coronavirus-reopening.html)
+[](/2020/07/29/opinion/trump-republican-party-racism.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1098,19 +996,19 @@ stunningly incompetent.
 
 <div class="css-1dvlumo e18df3gd0">
 
-Ashley Gilbertson
+Stuart Stevens
 
 </div>
 
 </div>
 
-## A Visit to the Classrooms the Kids Left Behind
+## We Lost the Battle for the Republican Party’s Soul Long Ago
 
 </div>
 
-School administrators confront what one called “the greatest challenge
-of my
-career.”
+Only fear will motivate the party to change — the cold fear only defeat
+can
+bring.
 
 <div>
 
@@ -1128,11 +1026,11 @@ career.”
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/25/opinion/school-coronavirus-reopening.html)
+[](/2020/07/29/opinion/trump-republican-party-racism.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/opinion/00Exposures-Gilbertson-slide-HBQ4/00Exposures-Gilbertson-slide-HBQ4-square640-v3.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/opinion/28Stevens/28Stevens-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1154,90 +1052,12 @@ career.”
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/sunday-review/aoc-daughters-ted-yoho.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Jessica Bennett
-
-</div>
-
-</div>
-
-## A.O.C. and the Daughter Defense
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/opinion/sunday/portland-protests-white.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Mitchell S. Jackson
-
-</div>
-
-</div>
-
-## Who Gets to Be a ‘Naked Athena’?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/opinion/a-safety-net-thats-a-kafkaesque-mess.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ari Ne’eman
-
-</div>
-
-</div>
-
-## A ‘Safety Net’ That’s a Kafkaesque Mess
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/23/opinion/sunday/coronavirus-parenting-joy.html)
+[](/2020/07/28/opinion/trump-white-women.html)
 
 <div class="css-dcl9ft">
 
-![Esau
-McCaulley](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/opinion/author-esau-mccaulley/author-esau-mccaulley-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+![Jennifer
+Weiner](https://static01.graylady3jvrrxbe.onion/images/2018/05/11/opinion/jennifer-weiner/jennifer-weiner-thumbLarge.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1247,13 +1067,42 @@ McCaulley](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/opinion/aut
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Esau McCaulley
+Jennifer Weiner
 
 </div>
 
 </div>
 
-## How to Give Children Joy, Even During a Pandemic
+## Trump Is Dog-Whistling. Are ‘Suburban Housewives’ Listening?
+
+</div>
+
+Or are they too busy organizing protests, posting links to bail funds
+and discussing antidotes for tear gas?
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/opinion/amazon-union-congress-antitrust.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Tim Bray and Christy Hoffman
+
+</div>
+
+</div>
+
+## Amazon Has Too Much Power. Take It Back.
 
 </div>
 
@@ -1265,12 +1114,12 @@ Esau McCaulley
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/opinion/sunday/aoc-yoho-trump-2020.html)
+[](/2020/07/29/opinion/trump-2020-populism.html)
 
 <div class="css-dcl9ft">
 
-![Maureen
-Dowd](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+![Thomas B.
+Edsall](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/thomas-b-edsall/thomas-b-edsall-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1280,13 +1129,13 @@ Dowd](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/maureen-
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Maureen Dowd
+Thomas B. Edsall
 
 </div>
 
 </div>
 
-## A.O.C. and the Jurassic Jerks
+## Trump Is Trying to Bend Reality to His Will
 
 </div>
 
@@ -1298,73 +1147,7 @@ Maureen Dowd
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/opinion/sunday/trump-lies.html)
-
-<div class="css-dcl9ft">
-
-![Frank
-Bruni](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/frank-bruni/frank-bruni-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Frank Bruni
-
-</div>
-
-</div>
-
-## Donald Trump Is the Best Ever President in the History of the Cosmos
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/opinion/sunday/abortion-racism-margaret-sanger.html)
-
-<div class="css-dcl9ft">
-
-![Ross
-Douthat](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ross Douthat
-
-</div>
-
-</div>
-
-## The Ghost of Margaret Sanger
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/25/opinion/sunday/republican-convention-trump.html)
+[](/2020/07/28/opinion/tech-ceo-hearing-congress.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1378,7 +1161,7 @@ The Editorial Board
 
 </div>
 
-## The Pandemic Could Make Political Conventions Less Terrible
+## Four of the World’s Wealthiest Men Are Preparing for Battle
 
 </div>
 
@@ -1390,7 +1173,14 @@ The Editorial Board
 
 <div class="css-6p6lnl">
 
-[](/2020/07/25/opinion/coronavirus-school-reopening.html)
+[](/2020/07/29/opinion/gpt-3-ai-automation.html)
+
+<div class="css-dcl9ft">
+
+![Farhad
+Manjoo](https://static01.graylady3jvrrxbe.onion/images/2019/01/08/opinion/farhad-manjoo-opinion/farhad-manjoo-opinion-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1398,14 +1188,151 @@ The Editorial Board
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Rachel L. Harris and Lisa
-Tarchak
+Farhad Manjoo
 
 </div>
 
 </div>
 
-## ‘Home-Schooling Won’t Kill Us. Covid-19 Might.’
+## How Do You Know a Human Wrote This?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/opinion/food-covid-quarantine-clay.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Rebecca Ackermann
+
+</div>
+
+</div>
+
+## I Cured My Pandemic Anxiety By Making Tiny Food Out of Clay
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/28/opinion/coronavirus-masks.html)
+
+<div class="css-dcl9ft">
+
+![Thomas L.
+Friedman](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/thomas-l-friedman/thomas-l-friedman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Thomas L. Friedman
+
+</div>
+
+</div>
+
+## If Our Masks Could Speak
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/opinion/john-donaldson-baseball-black-players.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Mary Pilon and Travon Free
+
+</div>
+
+</div>
+
+## This Great Black Baseball Player Still Isn’t in the Hall of Fame
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/opinion/russia-china-nuclear-weapons.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+James Anderson
+
+</div>
+
+</div>
+
+## China’s Arms Buildup Threatens the Nuclear Balance
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/07/29/opinion/uganda-museveni-repression.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Bobi
+Wine
+
+</div>
+
+</div>
+
+## My Torture at the Hands of America’s Favorite African Strongman
 
 </div>
 
@@ -1439,7 +1366,7 @@ Tarchak
 
 <div class="css-1xaqcky">
 
-[](/2020/07/22/t-magazine/la-monte-young.html)
+[](/2020/07/24/t-magazine/luis-barragan.html)
 
 <div class="css-1g8bx4t">
 
@@ -1453,7 +1380,7 @@ Tarchak
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">Nicholas Calcott</span>
+<span class="credit">Nin Solis</span>
 
 </div>
 
@@ -1463,17 +1390,17 @@ Tarchak
 
 <div class="css-1nl6p6m">
 
-[](/2020/07/22/t-magazine/la-monte-young.html)
+[](/2020/07/24/t-magazine/luis-barragan.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>The Man Who Brian Eno Called ‘the Daddy of Us All’</span>
+## <span>Luis Barragán’s Forgotten Works, Revisited</span>
 
 </div>
 
-From T’s Summer Art issue: La Monte Young, the composer who quietly
-shaped much of contemporary Western music, reaches his last
-act.
+From T’s Summer Art issue: After moving to Mexico City in 1935, the
+architect set about designing obscure functionalist residences that he
+would later disown.
 
 <div>
 
@@ -1505,17 +1432,17 @@ act.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/interactive/2020/07/21/sports/coronavirus-changes-baseball-nba-nfl.html)
+[](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## The Pandemic Put Sports on Pause. It’s Time for a Reboot.
+## The Pandemic Could End the Age of Midpriced Dining
 
 </div>
 
-Our sports desk imagined bold — and whimsical — ideas for how to improve
-baseball, basketball, football, hockey, tennis, golf, and
-soccer.
+When Melbourne restaurants reopened after lockdown, owners got creative,
+and dinner got far more
+expensive.
 
 <div>
 
@@ -1533,7 +1460,7 @@ soccer.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/interactive/2020/07/21/sports/coronavirus-changes-baseball-nba-nfl.html)
+[](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
 
 <div class="css-1g8bx4t">
 
@@ -1567,17 +1494,17 @@ soccer.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/24/travel/virus-road-trip.html)
+[](/interactive/2020/07/21/magazine/louisiana-coast-engineering.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Road Trips are Great. Except for the Driving.
+## Destroying a Way of Life to Save Louisiana
 
 </div>
 
-I wasn’t looking for an exotic vacation, just a temporary reprieve from
-compulsive news-watching and a dose of in-person fun with family and
-friends.
+The state’s $50 billion plan to re-engineer its coastline may wash some
+fishing communities off the
+map.
 
 <div>
 
@@ -1595,7 +1522,7 @@ friends.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/24/travel/virus-road-trip.html)
+[](/interactive/2020/07/21/magazine/louisiana-coast-engineering.html)
 
 <div class="css-1g8bx4t">
 

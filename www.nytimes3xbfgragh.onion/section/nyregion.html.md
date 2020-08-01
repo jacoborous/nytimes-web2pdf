@@ -55,8 +55,7 @@ York](https://www.nytimes3xbfgragh.onion/section/nyregion)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-nyregion" class="section css-15h4p1b e9abtgs0">
 
@@ -131,47 +155,49 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>San
-    Bernardino County Sheriff's Department, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/nyregion/25NJJUDGE-2/25NJJUDGE-2-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
+    Masuike/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/nyregion/00nyvirus-contacttracers3/merlin_173678676_31c5c9f4-9a1b-43ab-9eab-589152e9a2b2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/nyregion/25NJJUDGE-2/25NJJUDGE-2-thumbStandard.jpg)](/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/nyregion/00nyvirus-contacttracers3/merlin_173678676_31c5c9f4-9a1b-43ab-9eab-589152e9a2b2-thumbStandard.jpg)](/2020/07/29/nyregion/new-york-contact-tracing.html)
     
     </div>
     
-    ## [Misogynistic Lawyer Who Killed Judge’s Son Had List of Possible Targets](/2020/07/25/nyregion/roy-den-hollander-esther-salas-list.html)
+    ## [City Praises Contact-Tracing Program. Workers Call Rollout a ‘Disaster.’](/2020/07/29/nyregion/new-york-contact-tracing.html)
     
-    The list was found after the lawyer killed himself and had more than
-    a dozen names, including three other judges and two
-    doctors.
+    The contact tracers said the program was confusing and disorganized
+    in its first six weeks, leaving them fearful that their work would
+    not have an impact on the
+    virus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">William K.
-    Rashbaum</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sharon
+    Otterman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
-    Dawn Bottoms/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/nyregion/24nyvirus-tailors-1/24nyvirus-tailors-1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
+    Anselm for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/00LakeSolitude-1/00LakeSolitude-1-videoLarge-v4.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/nyregion/24nyvirus-tailors-1/24nyvirus-tailors-1-thumbStandard-v2.jpg)](/2020/07/25/nyregion/coronavirus-tailors-cleaners-weight-gain.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/00LakeSolitude-1/00LakeSolitude-1-thumbStandard-v2.jpg)](/2020/07/29/nyregion/lake-solitude-closed-racism.html)
     
     </div>
     
-    ## [Tailors Know New Yorkers’ Pandemic Secret: ‘Everybody Got Fat\!’](/2020/07/25/nyregion/coronavirus-tailors-cleaners-weight-gain.html)
+    ## [‘Hidden Gem’ Made Popular by TikTok Is Shut to Keep Out-of-Towners Away](/2020/07/29/nyregion/lake-solitude-closed-racism.html)
     
-    Tailors across New York City are expanding waistlines and moving
-    buttons to accommodate the “Quarantine
-    15.”
+    A lake in New Jersey was closed to curb the spread of the
+    coronavirus, but some complaints about recent crowding there focused
+    on the ethnicity of
+    visitors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah Maslin
@@ -179,53 +205,51 @@ story](#after-sponsor)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
-        J. Blue for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/00nyvirus-tourism3/00nyvirus-tourism3-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+        Lhooq</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28nyunrest-protester5/28nyunrest-protester5-mediumThreeByTwo440-v5.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Broadway Is Dark. Liberty Island Is Empty. Will the Tourists Come Back?](/2020/07/24/nyregion/nyc-tourism-coronavirus.html)
+        ## [Video of N.Y.P.D. Pulling Protester Into Unmarked Van Draws Criticism](/2020/07/28/nyregion/nypd-protester-van.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/00nyvirus-tourism3/00nyvirus-tourism3-thumbStandard.jpg)](/2020/07/24/nyregion/nyc-tourism-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28nyunrest-protester5/28nyunrest-protester5-thumbStandard-v6.jpg)](/2020/07/28/nyregion/nypd-protester-van.html)
         
         </div>
         
-        Business leaders are trying to devise plans to revive an
-        industry that brought in $45 billion annually and supported
-        300,000
-        jobs.
+        The video of the arrest, shared widely on social media, was met
+        with intense criticism and calls for an explanation from the
+        police.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Patrick
-        McGeehan</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Mihir
+        Zaveri</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-        W. Lee/The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/nyregion/24ny-pools1/24ny-pools1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gabriela
+        Bhaskar for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28wiley-1/28wiley-1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [‘I Missed You, Pool’: Children Rejoice as N.Y.C. Public Pools Finally Open](/2020/07/24/nyregion/nyc-pools-open.html)
+        ## [Maya Wiley Is Leaving MSNBC to Weigh Run for N.Y.C. Mayor](/2020/07/28/nyregion/maya-wiley-mayor-nyc.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/nyregion/24ny-pools1/24ny-pools1-thumbStandard.jpg)](/2020/07/24/nyregion/nyc-pools-open.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28wiley-1/28wiley-1-thumbStandard.jpg)](/2020/07/28/nyregion/maya-wiley-mayor-nyc.html)
         
         </div>
         
-        At one of the eight pools to reopen, a swimmer almost forgot to
-        remove his mask before making a cannonball jump. So, he placed
-        it on his flip-flops and then —
-        splash.
+        Ms. Wiley, who once led the city’s police oversight board, would
+        enter a mayoral race that has been reshaped by Black Lives
+        Matter
+        protests.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Juliana
-        Kim</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Emma G.
+        Fitzsimmons</span></span>
         
         </div>
 
@@ -235,99 +259,97 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-    Alfiky/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/nyregion/24nylegislature1/merlin_173641374_a7bd63aa-d753-4aeb-ba47-26c86a3ef2a7-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lucia
+    Buricelli for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28nyscooter/merlin_158618874_61958bae-930e-42bf-9795-a675b9d94794-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Did New York Just Get the Nation’s Most Liberal Legislature?](/2020/07/24/nyregion/progressive-primaries-ny-legislature.html)
+    ## [Revel Suspends Moped Service in New York City After 2 Deaths](/2020/07/28/nyregion/revel-scooters-death-nyc.html)
     
-    Among those toppled by progressive insurgents was a Brooklyn
-    assemblyman who was first elected in
-    1972.
+    The company said that it would “review and strengthen” its safety
+    measures, but that it planned to restart operations “in the near
+    future.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jesse McKinley</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Luis
-    Ferré-Sadurní</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Michael
+    Gold</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
-    J. Richards/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/nyregion/23trustedtraveler/merlin_168483513_862c35bc-b6bd-4ccd-9e96-877ebed58ea0-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/nyregion/00nyvirus-outdoorspace/00nyvirus-outdoorspace-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Homeland Security Dept. Admits Making False Statements in Fight With N.Y.](/2020/07/23/nyregion/trusted-traveler-homeland-security.html)
+    ## [Stir-Crazy New Yorkers Discovered an Idyllic Spot. Will They Trample It?](/2020/07/28/nyregion/nyc-parks-coronavirus.html)
     
-    The surprise admission came as the Trump administration unexpectedly
-    reversed its decision to bar New Yorkers from programs that allow
-    travelers to speed through
-    airports.
+    During the pandemic, people are venturing deeper into the city’s
+    forests, wetlands and grasslands, just as budget cuts threaten the
+    spaces’
+    upkeep.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Ed Shanahan</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Zolan
-    Kanno-Youngs</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Anne
+    Barnard</span></span>
     
     </div>
 
-3.  ### Big City
+3.  ### New York Today
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
-    McNally/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/26Big-1/26Big-1-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Seng for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/nyregion/29nytoday/29nytoday-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why the Big City President Made Cities the Enemy](/2020/07/24/nyregion/trump-cities.html)
+    ## [Why Revel Suspended Moped Service in N.Y.C.](/2020/07/29/nyregion/revel-mopeds-nyc.html)
     
-    Donald Trump — a lifelong New Yorker — declares war on urban
-    America.
+    The app's electric-blue rental vehicles have become popular, but
+    crashes, resulting in two deaths this month, have added to safety
+    concerns.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ginia
-    Bellafante</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Juliana
+    Kim</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Makeda
-    Saggau-Sackey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/26nyvirus-nycescapes1/26nyvirus-nycescapes1-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/27nytrump/merlin_174883950_e60d81b0-29a2-405d-923f-1a4e6fc430ab-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [5 New Yorkers Escaped the City for Fresh Air and Space. Was It Worth It?](/2020/07/24/nyregion/coronavirus-quick-escapes-nyc.html)
+    ## [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
     
-    Interviews with those who are risking the unknown — taking the
-    train, commingling with strangers — to grab some fresh air and
-    space.
+    The president mounted his most forceful and detailed legal attack
+    yet on the subpoena for his tax returns from the Manhattan district
+    attorney.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alix
-    Strauss</span></span>
+    <span class="css-1baulvz" itemprop="name">Benjamin Weiser</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">William K.
+    Rashbaum</span></span>
     
     </div>
 
-5.  ### Sunday Routine
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shravya
-    Kag for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/26nyvirus-routine03/26nyvirus-routine03-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anthony
+    Behar/Sipa USA, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/27nycseal1/27nycseal1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How a Waiter, With Over 30 Years at the Same Restaurant, Spends His Sundays](/2020/07/24/nyregion/coronavirus-JG-Melon-waiter-nyc.html)
+    ## [N.Y.C. Seal, With a Native American in Loincloth, Faces Scrutiny](/2020/07/27/nyregion/seal-nyc-native-american.html)
     
-    John Roney has worked at J.G. Melon since the 1980s, but he’s not
-    averse to change: the outdoors suit him just
-    fine.
+    Mayor Bill de Blasio said it was worth examining if the seal, which
+    dates to 1914, “makes sense for the 21st
+    century.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alix
-    Strauss</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dana
+    Rubinstein</span></span>
     
     </div>
 
@@ -387,23 +409,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/health/coronvirus-antibody-tests.html)
+    [](/2020/07/29/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/us/politics/26virus-antibodies/26virus-antibodies-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Your Coronavirus Antibodies Are Disappearing. Should You Care?
+    ## Coronavirus Live Updates: Deaths Top 150,000 in the United States
     
-    Declining antibody levels do not mean less immunity, experts say.
-    Besides, two widely used tests may detect the wrong antibodies.
+    Federal officials urged states to take aggressive action to slow the
+    spread of the virus while the president talked up nonexistent
+    “virus-free” areas. Big retailers are mandating masks, but
+    enforcement is an
+    issue.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva
-    Mandavilli</span>
     
     </div>
     
@@ -421,24 +443,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)
+    [](/2020/07/29/realestate/north-bergen-nj-reasonably-priced-and-minutes-from-manhattan.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/nyregion/00nyvirus-midtown1/00nyvirus-midtown1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/realestate/29LIVING-NORTHBERGEN-slide-J7BF/29LIVING-NORTHBERGEN-slide-J7BF-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Empty Towers, No Power Lunches: Ghostly Midtown Is Omen for N.Y.C.
+    ### <span class="css-m70j1g">Living in</span>
     
-    7,500 workers are missing from a famous building. A food cart sells
-    10 hot dogs a day. The virus’s effect on one block could be a vision
-    of the city’s future.
+    ## North Bergen, N.J.: Reasonably Priced and Minutes From Manhattan
+    
+    Supporters praise the community’s young, culturally diverse
+    population and its (relatively) affordable housing. And then there
+    are the views.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Wilson</span>
+    By <span class="css-1n7hynb">Julie
+    Lasky</span>
     
     </div>
     
@@ -456,23 +480,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/nyregion/metropolitan-diary.html)
+    [](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/26diary-illos-05/26diary-illos-05-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">METROPOLITAN DIARY</span>
+    ## Kerry James Marshall’s Black Birds Take Flight in a New Series
     
-    ## ‘We Were Somewhere in the 50s When We Noticed a Brass Quartet’
-    
-    A face in the crowd, how to carry a rocking chair and more reader
-    tales of New York City in this week’s Metropolitan
-    Diary.
+    Inspired by John James Audubon, the painter explores the societal
+    “pecking order” in two works that dovetail with “this mystery
+    about whether or not Audubon himself was Black.”
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ted
+    Loos</span>
     
     </div>
     
@@ -490,26 +515,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/obituaries/david-sackoff-dead-coronavirus.html)
+    [](/2020/07/28/nyregion/niels-h-lauersen-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/obituaries/24Sackoff/24Sackoff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Lauersen1/27Lauersen1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## Niels Lauersen, Fallen Fertility Doctor to the Stars, Dies at 84
     
-    ## David Sackoff, 71, ‘Survivor’ Who Battled Mental Illness, Dies
-    
-    He lived on the streets, in prison and in psychiatric facilities,
-    but in the end achieved independence. He died of complications of
-    the novel coronavirus.
+    He treated celebrities like Celine Dion and Foxy Brown before he was
+    undone by malpractice suits and a prison sentence for insurance
+    fraud.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Steven
-    Kurutz</span>
+    By <span class="css-1n7hynb">Penelope
+    Green</span>
     
     </div>
     
@@ -527,22 +550,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/world/coronavirus-covid-19.html)
+    [](/2020/07/28/arts/design/met-museum-wangechi-mutu.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28mutu-item1/28mutu-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Coronavirus Cases Soar as 18 States Set Single-Day Records This Week
+    ## Met Museum Acquires Two Sculptures by Wangechi Mutu
     
-    Friday was the fourth day running that the United States reported
-    over 1,100 deaths. New research sheds light on male vulnerability to
-    severe
-    Covid-19.
+    The new additions are from the series that is on display on the
+    museum’s Fifth Avenue facade.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter
+    Libbey</span>
     
     </div>
     
@@ -560,24 +584,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/children-disabilities-parenting-poverty-assistance.html)
+    [](/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/00ADA-CAREGIVERS/00ADA-CAREGIVERS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28drivers-1/28drivers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## When Caring for Your Child’s Needs Becomes a Job All Its Own
+    ## Uber and Lyft Drivers Win Ruling on Unemployment Benefits
     
-    For some parents, work outside the home is impossible as they
-    navigate complicated and frustrating systems for help. But they
-    don’t have to go it alone.
+    A federal judge’s decision in New York is a key victory in efforts
+    to secure the protections extended to other workers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nikita
-    Stewart</span>
+    By <span class="css-1n7hynb">Noam
+    Scheiber</span>
     
     </div>
     
@@ -595,23 +618,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/dining/la-caridad-78-closes.html)
+    [](/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/dining/24Caridad/merlin_174904167_a5d82df5-9c8d-4b0e-8271-07b1f1e20bec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/realestate/28stuck1/28stuck1-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## La Caridad 78, a Beloved Chinese-Cuban Restaurant, Closes
+    ### <span class="css-m70j1g">Sheltering</span>
     
-    The Upper West Side mainstay, which served Chino Latino dishes like
-    fried rice with plantains, opened in 1968.
+    ## Making a Move During the Pandemic? Not So Fast
+    
+    As New York cautiously reopens in the shadow of a potential second
+    wave of infections, home buyers and sellers are racing to complete
+    the almost impossible task of closing on time and safely moving.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Tripp
+    Whetsell</span>
     
     </div>
     
@@ -629,23 +655,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/health/cdc-schools-coronavirus.html)
+    [](/2020/07/28/nyregion/blm-trump-tower.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/science/24VIRUS-CDC-SCHOOLS1/24VIRUS-CDC-SCHOOLS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28nytoday1/merlin_174711024_2d59b471-a29f-4e66-99a4-3539e5a3315f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## C.D.C. Calls on Schools to Reopen, Downplaying Health Risks
+    ### <span class="css-m70j1g">New York Today</span>
     
-    The agency’s statement followed earlier criticism from President
-    Trump that its guidelines for reopening were too “tough.”
+    ## ‘Black Lives Matter’ Art Outside Trump Tower Is Being Vandalized
+    
+    In five incidents, people have thrown paint on the bright-yellow
+    street display on Fifth Avenue. Each time, city workers have
+    restored the lettering.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby
-    Goodnough</span>
+    By <span class="css-1n7hynb">Juliana
+    Kim</span>
     
     </div>
     
@@ -663,24 +692,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/health/coronavirus-nursing-homes-PPE.html)
+    [](/2020/07/28/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/science/00VIRUS-FEMA-PPE1/00VIRUS-FEMA-PPE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## FEMA Sends Faulty Protective Gear to Nursing Homes Battling Virus
+    ## Trump Falsely Claims Much of U.S. Is ‘Corona-Free’
     
-    The controversy over inadequate protective equipment has come to
-    embody what critics describe as a haphazard federal effort to
-    protect the 1.5 million Americans who live in nursing homes.
+    A national teachers’ union said teachers might strike as a “last
+    resort” if they didn’t feel safe. Pilgrims to Mecca are finding a
+    reconfigured
+    hajj.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Andrew
-    Jacobs</span>
     
     </div>
     
@@ -698,23 +725,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/parenting/summer-staycation-coronavirus.html)
+    [](/2020/07/27/nyregion/hamptons-chainsmokers-concert-social-distancing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24-par-vacation-city/24-par-vacation-city-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/27nyvirus-hamptons1/27nyvirus-hamptons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Making the Most of a Pandemic Staycation
+    ## Chainsmokers Concert in Hamptons Is Under Fire Over Social Distancing
     
-    Families who stayed put in cities during the pandemic are
-    rediscovering new ways to appreciate their neighborhoods and even
-    their homes.
+    The state’s health commissioner opened an inquiry after video
+    footage of the concert showed crowds of people standing close
+    together.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christina Caron</span>
+    By <span class="css-1n7hynb">Mihir Zaveri</span>
     
     </div>
     

@@ -153,105 +153,110 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Patricia
-    Heal. Estilista de utilería: Martin
-    Bourne</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/t-magazine/25tmag-plaguefood-ES-1/14tmag-plague-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Loureiro Fernandez para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-videoLarge-v2.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/t-magazine/25tmag-plaguefood-ES-1/14tmag-plague-thumbStandard.jpg)](/es/2020/07/23/t-magazine/comida-pandemia.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-thumbStandard.jpg)](/es/2020/07/29/espanol/democracia-america-latina-pandemia.html)
     
     </div>
     
-    ## [El menú de la pandemia](/es/2020/07/23/t-magazine/comida-pandemia.html)
+    ## [América Latina se enfrenta a un retroceso de la democracia durante la pandemia](/es/2020/07/29/espanol/democracia-america-latina-pandemia.html)
     
-    Como en la Edad Media, el placer corporal se ha convertido en una
-    señal, si no de salud física, al menos de salud mental, tan
-    importante para sobrevivir a la pandemia del coronavirus como lo fue
-    para sobrevivir a la peste
-    negra.
+    El coronavirus está perjudicando los sistemas de salud y las
+    economías de la región. También amenaza sus frágiles libertades
+    políticas.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Snyder</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Anatoly
+    Kurmanaev</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mitch
-    Dobrowner for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/magazine/26mag-Relampago-Web-Image/26mag-Relampago-Web-Image-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
+    Chs/EPA vía
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/magazine/26mag-Relampago-Web-Image/26mag-Relampago-Web-Image-thumbStandard.jpg)](/es/interactive/2020/07/23/espanol/ciencia-y-tecnologia/cordoba-tormentas-argentina.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-thumbStandard.jpg)](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
     
     </div>
     
-    ## [Viaje al interior de las temibles tormentas de Córdoba](/es/interactive/2020/07/23/espanol/ciencia-y-tecnologia/cordoba-tormentas-argentina.html)
+    ### Comentario
     
-    Los científicos estudian el clima extremo en una provincia de
-    Argentina para comprender su funcionamiento y aprender algo sobre
-    los monstruosos fenómenos climáticos del
-        futuro.
+    ## [Manual de comportamiento para expresidentes insoportables](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
     
-    <span class="css-me3p27"></span>
+    La incapacidad de algunos exmandatarios de España de aceptar su
+    jubilación viene en parte de una falta de cultura democrática.
+    Algunos países de Latinoamérica tienen el mismo
+    problema.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Jiménez</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Giovan
-        Cordero Colon/Netflix vía Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24toro-ES/24toro-ES-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Suzie
+        Howell para The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-videoLarge-v2.jpg)
+        
+        <div class="css-7l6h4f">
+        
+        ## [Migraron para sacar a sus familias de la pobreza. Ahora necesitan ayuda](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-thumbStandard.jpg)](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
+        
+        </div>
+        
+        La pandemia ha deteriorado los salarios de los trabajadores
+        inmigrantes, quienes envían menos remesas a sus hogares. Esto
+        podría generar un aumento de la pobreza en varias partes del
+        mundo, de América Latina al sur de
+        Asia.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+        <span class="css-1baulvz last-byline" itemprop="name">Peter S.
+        Goodman</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
+        de Argentina/EPA vía
+        Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [Walter Mercado después del amor](/es/2020/07/24/espanol/opinion/walter-mercado-amor-netflix.html)
+        ## [¿Por qué no explota Argentina?](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24toro-ES/24toro-ES-thumbStandard.jpg)](/es/2020/07/24/espanol/opinion/walter-mercado-amor-netflix.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-thumbStandard.jpg)](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
         
         </div>
         
-        Un documental rinde tributo a una figura tan compleja y
-        contradictoria como los valores de la sociedad latinoamericana
-        que lo idolatró y que encontró en sus horóscopos una fuente de
-        esperanza. Pero también es una carta de amor a la nostalgia
-        compartida de toda una
-        región.
+        Lecciones de 2001, una fuerte política social asistencialista y
+        una grieta política potente han alejado de momento otro
+        estallido social, pero solo una nueva política cooperativa podrá
+        terminar de disipar ese
+        fantasma.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Ana Teresa
-        Toro</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>vía
-        Valentino</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/fashion/25FashPhotos-ES-1/22FashPhotos5-videoLarge.jpg)
-        
-        <div class="css-7l6h4f">
-        
-        ## [Cuando Brad fotografió a Gwyneth](/es/2020/07/25/espanol/estilos-de-vida/gwyneth-paltrow-valentino.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/fashion/25FashPhotos-ES-1/22FashPhotos5-thumbStandard.jpg)](/es/2020/07/25/espanol/estilos-de-vida/gwyneth-paltrow-valentino.html)
-        
-        </div>
-        
-        Y otras historias de celebridades retratadas por sus seres
-        queridos, cortesía de la nueva campaña de Valentino creada
-        durante el
-        confinamiento.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Vanessa
-        Friedman</span></span>
+        <span class="css-1baulvz" itemprop="name">Marcelo J.
+        García</span> y
+        <span class="css-1baulvz last-byline" itemprop="name">Jordana
+        Timerman</span></span>
         
         </div>
 
@@ -261,7 +266,42 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kayana
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dustin
+    Chambers para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/29masks-es/27VIRUS-MASKS-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Las mascarillas pueden reducir la dosis viral, afirman algunos expertos](/es/2020/07/29/espanol/ciencia-y-tecnologia/proteccion-cubrebocas-coronavirus.html)
+    
+    Según la evidencia, las personas que usan protección facial captarán
+    menos partículas de coronavirus, lo que hará que la enfermedad sea
+    menos
+    grave.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/us/coronavirus-en-estados-unidos-promo-1594392397567/coronavirus-en-estados-unidos-promo-1594392397567-videoLarge-v4.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Mapa de coronavirus en Estados Unidos](/es/interactive/2020/espanol/mundo/coronavirus-en-estados-unidos.html)
+    
+    Un mapa detallado muestra la dimensión del brote de coronavirus con
+    tablas y gráficos de la cantidad de fallecimientos y
+    casos.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">The New York
+    Times</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kayana
     Szymczak para The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/science/24virus-reinfection-ES-1/00VIRUS-REINFECTION1-videoLarge.jpg)
     
@@ -281,78 +321,38 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/well/20klass-helmets/20klass-helmets-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederick
+    Florin/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/us/politics/27virus-antibodies-ES/26virus-antibodies-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Llevar mascarilla es como ponerse casco, cinturón de seguridad o condón](/es/2020/07/24/espanol/mascarillas-habitos.html)
+    ## [¿Qué significa si tus anticuerpos contra el coronavirus están desapareciendo?](/es/2020/07/28/espanol/ciencia-y-tecnologia/anticuerpos-coronavirus-inmunidad.html)
     
-    Los expertos dicen que las estrategias que nos ayudaron a formar
-    hábitos en torno a otras medidas de seguridad pueden ser útiles al
-    promover el uso de
-    cubrebocas.
+    La disminución de los niveles de anticuerpos no significa menos
+    inmunidad, dicen los expertos. Además, dos pruebas ampliamente
+    utilizadas pueden detectar los anticuerpos
+    errados.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Perri Klass,
-    M.D.</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/science/coronavirus-tratamientos-curas-1594920159701/coronavirus-tratamientos-curas-1594920159701-videoLarge-v5.png)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/29/us/coronavirus-en-mexico-promo-1593465654860/coronavirus-en-mexico-promo-1593465654860-videoLarge-v3.png)
     
     <div class="css-10wtrbd">
     
-    ## [Tratamientos y medicamentos para el coronavirus: monitoreo de efectividad](/es/interactive/2020/science/coronavirus-tratamientos-curas.html)
+    ## [Mapa de coronavirus en México](/es/interactive/2020/espanol/america-latina/coronavirus-en-mexico.html)
     
-    Una lista actualizada de tratamientos potenciales para la
-    COVID-19.
+    Un mapa detallado muestra la dimensión del brote de coronavirus con
+    tablas y gráficos de la cantidad de fallecimientos y
+    casos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz" itemprop="name">Jonathan Corum</span>,
-    <span class="css-1baulvz" itemprop="name">Katherine J. Wu</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Carl
-    Zimmer</span></span>
-    
-    </div>
-
-4.  ### Salud
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marian
-    Carrasquero para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/26/science/28virus-faceshields-ES-01/25SCI-FACESHIELDS-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Ya nos habituamos a las mascarillas, ¿estamos listos para el protector facial?](/es/2020/05/28/espanol/caretas-protectoras-virus.html)
-    
-    Los escudos de plástico transparente pueden ser más fáciles de usar,
-    desinfectar y reutilizar que las mascarillas de tela o quirúrgicas,
-    aunque no las remplazan por
-    completo.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Knvul
-    Sheikh</span></span>
-    
-    </div>
-
-5.  ### Vivir Mejor
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>iStock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/03/well/well-pulse-oximeter2/well-pulse-oximeter2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [¿Qué es un oxímetro de pulso?¿De verdad necesito uno en casa?](/es/2020/04/29/espanol/estilos-de-vida/oximetro-para-que-sirve.html)
-    
-    Un pequeño dispositivo para la punta de los dedos puede darte
-    información valiosa sobre tu salud durante un episodio de COVID-19 o
-    cualquier enfermedad
-    respiratoria.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tara
-    Parker-Pope</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The New York
+    Times</span></span>
     
     </div>
 
@@ -390,112 +390,112 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlos
-    Jasso/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/multimedia/23Fonseca-ES/merlin_172216524_7d574f61-d31a-4822-b54a-bd624033875b-videoLarge.jpg)
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
+    Cotti</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Diego Fonseca</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">Roberto Herrscher</span>
     
-    ## [El factor López-Gatell](/es/2020/07/23/espanol/opinion/lopez-gatell.html)
+    ## [Las enseñanzas de educar durante la pandemia](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
     
-    La fractura de la imagen del portavoz del combate al coronavirus de
-    México no es solo producto de sus errores. Sus fallos son producto
-    del modelo de gestión de un gobierno más proclive a la improvisación
-    que a la
-    planeación.
+    He sido profesor universitario durante más de dos décadas, y estos
+    meses de enseñar durante la pandemia me han hecho entender que la
+    educación ha cambiado para
+    siempre.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Diego
-    Fonseca</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Roberto
+    Herrscher</span></span>
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
-    Moraes/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/multimedia/22pires-ES-1/22pires-ES-1-videoLarge.jpg)
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Loureiro Fernandez para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26Barrera-ES/merlin_170314122_3f1b8858-af1c-45e6-bbd1-e9a4e30fba75-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Carol Pires</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">Alberto Barrera Tyszka</span>
     
-    ## [Desde las favelas de Brasil: una lección de periodismo](/es/2020/07/22/espanol/opinion/periodismo-brasil-favelas.html)
+    ## [Teoría y práctica del odio](/es/2020/07/26/espanol/opinion/nicmer-evans-venezuela.html)
     
-    Los medios comunitarios brasileños debaten los temas más urgentes de
-    nuestro tiempo: la pandemia y el racismo. Lo medios tradicionales
-    pueden apoyarse en ellos para ampliar sus coberturas y el público
-    acercarse a ellos para salir de sus
-    burbujas.
+    Hace tres años, el gobierno de Nicolás Maduro instauró una ley
+    contra el odio, un instrumento legal para promover la tolerancia en
+    Venezuela. Pero en la práctica se convirtió en lo contrario: una
+    forma eficaz para ejercer la violencia del Estado en contra de
+    cualquier
+    disidencia.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carol
-    Pires</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alberto
+    Barrera
+    Tyszka</span></span>
     
     </div>
 
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ernesto
-    Guzmán Jr./EPA vía
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/multimedia/21Alvarado-ES-1/21Alvarado-ES-1-videoLarge.jpg)
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Giovan
+    Cordero Colon/Netflix vía Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24toro-ES/24toro-ES-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Sinar Alvarado</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">Ana Teresa Toro</span>
     
-    ## [Un ejército de agresores camuflados](/es/2020/07/21/espanol/opinion/colombia-ejercito.html)
+    ## [Walter Mercado después del amor](/es/2020/07/24/espanol/opinion/walter-mercado-amor-netflix.html)
     
-    Durante su largo combate contra las guerrillas en Colombia, miembros
-    de las fuerzas armadas han cometido delitos diversos contra civiles.
-    La violación de una menor indígena recuerda la necesidad de una
-    reforma
-    militar.
+    Un documental rinde tributo a una figura tan compleja y
+    contradictoria como los valores de la sociedad latinoamericana que
+    lo idolatró y que encontró en sus horóscopos una fuente de
+    esperanza. Pero también es una carta de amor a la nostalgia
+    compartida de toda una
+    región.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sinar
-    Alvarado</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ana Teresa
+    Toro</span></span>
     
     </div>
 
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manaure
-        Quintero/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/multimedia/20lowenthal-smilde-ES-1/merlin_173674416_2f6b0d02-ca30-40fe-8863-d50706c59db0-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlos
+        Jasso/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/multimedia/23Fonseca-ES/merlin_172216524_7d574f61-d31a-4822-b54a-bd624033875b-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz" itemprop="name">Abraham F. Lowenthal</span> y <span class="css-1baulvz last-byline" itemprop="name">David Smilde</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Diego Fonseca</span>
         
-        ## [¿Qué tiene que hacer la oposición venezolana para avanzar?](/es/2020/07/20/espanol/opinion/venezuela-oposicion-guaido-maduro.html)
+        ## [El factor López-Gatell](/es/2020/07/23/espanol/opinion/lopez-gatell.html)
         
-        El sólido reconocimiento internacional de la presidencia de Juan
-        Guaidó no cambia el hecho de que Nicolás Maduro controla el
-        territorio, las instituciones públicas, las fuerzas de seguridad
-        y los recursos. Por eso, la oposición debe hacer un esfuerzo
-        realista para reformular el
-        conflicto.
+        La fractura de la imagen del portavoz del combate al coronavirus
+        de México no es solo producto de sus errores. Sus fallos son
+        producto del modelo de gestión de un gobierno más proclive a la
+        improvisación que a la
+        planeación.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Abraham F.
-        Lowenthal</span> y
-        <span class="css-1baulvz last-byline" itemprop="name">David
-        Smilde</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Diego
+        Fonseca</span></span>
         
         </div>
     
-    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noah
-        Berger/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/opinion/22Goldberg-ES/20goldbergWeb-videoLarge.jpg)
+    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
+        Kirn/The Image Bank, vía Getty
+        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/opinion/27reopen-ES/20jogee-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Michelle Goldberg</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Shardha Jogee</span>
         
-        ## [La ocupación de Trump de las ciudades estadounidenses ha comenzado](/es/2020/07/22/espanol/opinion/portland-protestas-trump.html)
+        ## [¿Cómo reabrir la economía sin causar la muerte de padres y maestros?](/es/2020/07/27/espanol/opinion/reabrir-escuelas-riesgo-covid.html)
         
-        Manifestantes en Portland fueron detenidos en las calles sin
-        orden judicial por agentes no identificados. Y se anunció que en
-        Chicago podría suceder lo mismo. ¿Ya podemos llamarlo
-        fascismo?
+        Todas las clases deberían ser en línea, pero los edificios
+        todavía podrían cumplir un propósito importante para los niños
+        que más lo
+        necesitan.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Michelle
-        Goldberg</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Shardha
+        Jogee</span></span>
         
         </div>
 
@@ -530,32 +530,30 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/26/espanol/estilos-de-vida/citas-en-linea-amor.html)
+    [](/es/2020/07/29/espanol/ciencia-y-tecnologia/mision-marte-nasa.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/fashion/19MODERN-DATINGAPP/19MODERN-DATINGAPP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28MARSSAMPLE/28MARSSAMPLE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Modern Love</span>
+    ## Traer rocas de Marte a la Tierra: nuestra maniobra interplanetaria más asombrosa
     
-    ## El desafío de trabajar en una aplicación de citas y anhelar el amor
-    
-    Atender las quejas de los usuarios me enseñó a enteder mejor el
-    deseo universal de ser amado y a encontrar la esperanza aún después
-    de experimentar el rechazo y el desamor.
+    La NASA y la Agencia Espacial Europea planean lanzar rocas de una
+    nave espacial a otra antes de que las muestras finalmente lleguen a
+    nuestro planeta en 2031.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Loré Yessuff</span>
+    Por <span class="css-1n7hynb">Kenneth Chang</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/17/style/modern-love-feel-love-worthy-working-for-dating-app.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/28/science/mars-sample-return-mission.html "Read in English")
     
     </div>
     
@@ -573,31 +571,33 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/24/espanol/ovnis-pentagono.html)
+    [](/es/2020/07/28/espanol/mundo/vino-blanco-alsacia-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/28/us/24dc-ufo-ES-1/28xp-UFO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/28Francia-vino-ES/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## La unidad de ovnis del Pentágono sale de las sombras y publicará algunos hallazgos
+    ### <span class="css-m70j1g">Europa</span>
     
-    Durante más de una década, el programa, ahora dentro de la Oficina
-    de Inteligencia Naval de Estados Unidos, ha discutido eventos
-    misteriosos en sesiones informativas clasificadas.
+    ## Angustia, vino blanco y gel antibacterial
+    
+    La pandemia del coronavirus y los aranceles impuestos por el
+    gobierno de Donald Trump perjudicaron al mercado del vino francés.
+    Ahora el destino de la cosecha es convertirse en desinfectante para
+    manos.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Ralph Blumenthal <span>y</span> Leslie
-    Kean</span>
+    Por <span class="css-1n7hynb">Adam Nossiter</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/23/us/politics/pentagon-ufo-harry-reid-navy.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/27/world/europe/france-alsace-wine-coronavirus.html "Read in English")
     
     </div>
     
@@ -615,33 +615,30 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/24/espanol/estados-unidos/alexandria-ocasio-cortez-insulto.html)
+    [](/es/2020/07/28/espanol/estilos-de-vida/reto-selfi-blanco-negro.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/24AOC-ES-1/23vid-elections-AOC-vid-cover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/fashion/28CHALLENGEACCEPTED-2-ES/27CHALLENGEACCEPTED-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Estados Unidos</span>
+    ## \#RetoAceptado: por qué algunas mujeres publican selfis en blanco y negro
     
-    ## Alexandria Ocasio-Cortez condena la misoginia en el Congreso de Estados Unidos
-    
-    Después de que un legislador republicano se refirió a la congresista
-    con una grosería sexista, ella acudió al pleno de la Cámara para
-    denunciar el abuso que enfrentan las mujeres en el país.
+    Una campaña que dice ser sobre “mujeres que apoyan a mujeres” ha
+    inundado Instagram con imágenes llamativas. Sin embargo, la
+    motivación detrás es poco clara.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Luke Broadwater <span>y</span> Catie
-    Edmondson</span>
+    Por <span class="css-1n7hynb">Taylor Lorenz</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/27/style/challenge-accepted-instagram.html "Read in English")
     
     </div>
     
@@ -659,22 +656,32 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/24/espanol/coronavirus-pseudociencia-mms-cloro.html)
+    [](/es/2020/07/28/espanol/mundo/lavanderia-taiwanesa-instagram.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/magazine/24El-Times-01/26mag-Relampago-Web-Image-04-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/27Taiwan-Laundry-ES/24taiwan-laundry1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">El Times</span>
+    ### <span class="css-m70j1g">Asia</span>
     
-    ## Lo que las tormentas en Argentina nos enseñan sobre el futuro
+    ## Él tiene 83, ella 84 y modelan la ropa que la gente olvida en su lavandería
     
-    Tienes 48 horas para huir de la
-    catástrofe.
+    Los dueños de un centro de lavado en Taiwán se han convertido en
+    estrellas de Instagram por posar con prendas que los clientes
+    abandonan.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Chris Horton</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/24/world/asia/taiwan-octogenarian-couple-instagram-laundry.html "Read in English")
     
     </div>
     
@@ -692,33 +699,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/23/espanol/america-latina/bolivia-cloro-coronavirus-ivermectina.html)
+    [](/es/2020/07/28/espanol/regreso-a-clases-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/22virus-bolivia-chlorine3-ES/merlin_174813969_70c99bfb-2d19-43d2-9240-6a5628c9b216-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/multimedia/28El-Times-01/merlin_174041610_d4f73384-4c3f-4b00-ad27-23632131a875-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Sudamérica</span>
+    ### <span class="css-m70j1g">El Times</span>
     
-    ## Coronavirus en América Latina: algunas autoridades respaldan tratamientos cuestionables
+    ## Volver a clases: modelos y alternativas en la pandemia
     
-    Una solución de cloro, muy popular en Bolivia, es solo uno de varios
-    remedios de eficacia no comprobada que ganan terreno en una región
-    necesitada de esperanza.
+    ¿Es posible minimizar el riesgo de contagio y reabrir las
+    escuelas?
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">María Silvia Trigo, Anatoly Kurmanaev
-    <span>y</span> José María León Cabrera</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/23/world/americas/chlorine-coronavirus-bolivia-latin-america.html "Read in English")
     
     </div>
     
@@ -736,30 +732,32 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/23/espanol/ciencia-y-tecnologia/vacuna-coronavirus.html)
+    [](/es/2020/07/28/espanol/estilos-de-vida/sombreros-toquilla-panama-ecuador.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/23vaccine-ES-00/00VIRUS-JNJ1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/travel/28sombreros-toquilla-ES-00/20travel-panama-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## La búsqueda incansable de una vacuna contra el coronavirus de un equipo de científicos
+    ### <span class="css-m70j1g">EL MUNDO A TRAVÉS DE UNA LENTE</span>
     
-    Científicos en Boston y en los Países Bajos de Johnson & Johnson
-    están en una carrera para encontrar una vacuna contra el virus que
-    ha paralizado al mundo
+    ## Una visita a los talleres de los mejores fabricantes de sombreros en Ecuador
+    
+    Cremoso como la seda y más costoso que su peso en oro, un sombrero
+    de Panamá Montecristi superfino no solo es un accesorio de moda,
+    también es una obra de arte.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Carl Zimmer</span>
+    Por <span class="css-1n7hynb">Roff Smith</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/17/health/coronavirus-vaccine-johnson-janssen.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/20/travel/panama-hats-ecuador.html "Read in English")
     
     </div>
     
@@ -777,34 +775,30 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/22/espanol/mundo/coronavirus-union-europea-estimulo.html)
+    [](/es/2020/07/27/espanol/estados-unidos/Trump-encuestas-elecciones.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/world/22virus-eu-assess-ES/21virus-eu-assess-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/27trump-encuestas-ES/21trump-polling-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Análisis</span>
+    ## Donald Trump tiene la solución para las encuestas desfavorables: recordarle a la  gente que estas se equivocan
     
-    ## Angela Merkel logró que la UE llegara a un acuerdo, aunque sea imperfecto
-    
-    La canciller de Alemania, cuyo país ocupa la presidencia rotativa
-    del bloque, logró un consenso para un plan de recuperación pandémica
-    destinado al golpeado sur de Europa. Pero las concesiones podrían
-    tener un precio muy alto.
+    El presidente estadounidense ha comentado que los sondeos que no lo
+    muestran a la cabeza en la carrera por la reelección son falsos y
+    sus asesores han empezado a evitar darle malas noticias.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Steven Erlanger <span>y</span> Matina
-    Stevis-Gridneff</span>
+    Por <span class="css-1n7hynb">Annie Karni</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/21/world/europe/european-union-coronavirus-aid.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/22/us/politics/trump-polls-2020.html "Read in English")
     
     </div>
     
@@ -822,32 +816,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/22/espanol/negocios/doomscrolling-que-es.html)
+    [](/es/2020/07/27/espanol/ciencia-y-tecnologia/regreso-a-clases-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/business/16Techfix-illo/15Techfix-illo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/science/27reopenschools-ES-00/00virus-schools-reopen01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Tecnología</span>
+    ## Cómo reabrir las escuelas: lo que la ciencia y la experiencia de varios países nos enseñan
     
-    ## Estás viendo contenido apocalíptico de nuevo. Te decimos cómo dejar de hacerlo
-    
-    En una pandemia que nos obliga a quedarnos en casa, consumir de
-    manera continua noticias catastrofistas parece inevitable. Unos
-    expertos en salud ofrecen ayuda para romper la adicción.
+    La presión para que los estudiantes estadounidenses vuelvan a las
+    aulas es intensa, pero evaluar el riesgo es complicado cuando las
+    infecciones aún están fuera de control en muchas comunidades.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Brian X. Chen</span>
+    Por <span class="css-1n7hynb">Pam Belluck, Apoorva Mandavilli
+    <span>y</span> Benedict Carey</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/11/health/coronavirus-schools-reopen.html "Read in English")
     
     </div>
     
@@ -865,34 +858,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/21/espanol/estados-unidos/donald-trump-coronavirus-republicanos.html)
+    [](/es/2020/07/27/espanol/respira-mejor-con-estos-nueve-ejercicios.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/21trump-virus-ES-00/00trump-virus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/multimedia/27breathing-ES/19ah-breathe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Elecciones 2020</span>
+    ## Respira mejor con estos nueve ejercicios
     
-    ## Trump desestima la crisis del coronavirus y los republicanos empiezan a romper filas
-    
-    El presidente estadounidense presiona a los estados para que
-    retornen rápido a la vida cotidiana y cada vez hay más líderes de su
-    partido que temen la devastación de la enfermedad y que los votantes
-    enojados busquen otro camino.
+    “No puedes estar por completo saludable a menos que estés respirando
+    correctamente”.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Alexander Burns, Jonathan Martin
-    <span>y</span> Maggie Haberman</span>
+    Por <span class="css-1n7hynb">Kelly DiNardo</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/18/at-home/coronavirus-breathing-exercises.html "Read in English")[Read
+    in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/18/at-home/coronavirus-breathing-exercises.html "Read in English")
     
     </div>
     
@@ -910,32 +900,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/21/espanol/estados-unidos/coronavirus-valle-de-texas.html)
+    [](/es/2020/07/26/espanol/mundo/guerra-afganistan-mujeres.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/21TEXAS-BORDER-VIRUS-ES-00/00virus-borderhospital17-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/world/26afghan-hero-ES-1/22afghan-hero01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## La ardua batalla contra el coronavirus en la frontera de Texas
+    ## La heroica batalla de una joven contra los talibanes también fue una riña familiar
     
-    En el valle del Río Grande, la pobreza y las enfermedades crónicas
-    agravan el brote del virus. Las ambulancias se acumulan fuera de las
-    salas de emergencia, donde los pacientes esperan a que se les asigne
-    una cama.
+    Una adolescente afgana fue celebrada por matar a los talibanes que
+    atacaron su hogar. Pero la historia de su heroísmo está llena de
+    dolor y revela los complicados matices de la guerra en Afganistán.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Caitlin Dickerson <span>y</span>
-    Lynsey Addario</span>
+    Por <span class="css-1n7hynb">Asadullah Timory, Najim Rahim
+    <span>y</span> Mujib Mashal</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/19/us/coronavirus-texas-rio-grande-valley.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/07/22/world/asia/afghan-hero-woman-taliban.html "Read in English")
     
     </div>
     

@@ -286,8 +286,9 @@ bars
 
 <div class="css-7xzttq e16638kd2">
 
-Published July 23, 2020Updated July 25,
-2020
+Published July 23, 2020Updated July 29, 2020,
+<span class="css-epvm6">12:08 p.m.
+ET</span>
 
 </div>
 
