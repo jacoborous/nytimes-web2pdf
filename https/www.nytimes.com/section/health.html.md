@@ -139,11 +139,151 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jenna
-    Schoenefeld for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-FUTURE6-jump/merlin_174438045_0ea9fc15-a773-4e95-909e-863972c145d7-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
+    Barwick/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [The Coronavirus Infected Hundreds at a Georgia Summer Camp](/2020/07/31/health/coronavirus-children-camp.html)
+    
+    The camp took precautions but did not require campers to wear masks,
+    the C.D.C. reported. Singing and cheering may have helped spread the
+    virus.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Roni Caryn
+    Rabin</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+    Sladky/Associated
+    Press</span>](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Contact Tracing Is Failing in Many States. Here’s Why.](/2020/07/31/health/covid-contact-tracing-tests.html)
+    
+    Inadequate testing and protracted delays in producing results have
+    crippled tracking and hampered efforts to contain major
+    outbreaks.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Jennifer Steinhauer</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Abby
+    Goodnough</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
+    Belleme for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### The New Old Age
+    
+    ## [Should Youth Come First in Coronavirus Care?](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
+    
+    If medical rationing becomes necessary, some older adults are
+    prepared to step aside. But many have the opposite concern: that
+    they will be arbitrarily sent to the rear of the
+    line.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Paula
+    Span</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joel
+    Saget/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/science/31VIRUS-SANOFI1/31VIRUS-SANOFI1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Sanofi and GlaxoSmithKline Snag Biggest Coronavirus Vaccine Deal Yet](/2020/07/31/health/covid-19-vaccine-sanofi-gsk.html)
+    
+    The arrangement brings the Trump administration’s investment in
+    coronavirus vaccine projects to more than $8 billion. The head of
+    the federal effort is a former GSK
+    executive.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Thomas</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Behrouz
+    Mehri/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/27/science/00VIRUS-DIAMOND1/00VIRUS-DIAMOND1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
+    
+    A computer model of the cruise-ship outbreak found that the virus
+    spread most readily in microscopic droplets light enough to linger
+    in the
+    air.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Glanz</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Northwestern
+    Medicine</span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-LUNGTRANSPLANT-promo1/30VIRUS-LUNGTRANSPLANT-promo1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Covid Patient Goes Home After a Rare Double Lung Transplant](/2020/07/30/health/Covid-lung-transplant.html)
+    
+    Mayra Ramirez was the first of a small but growing number of people
+    whose only hope of surviving the coronavirus was to replace their
+    lungs.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Denise
+    Grady</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+    Tama/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Children May Carry Coronavirus at High Levels, Study Finds](/2020/07/30/health/coronavirus-children.html)
+    
+    The research does not prove that infected children are contagious,
+    but it should influence the debate about reopening schools, some
+    experts
+    said.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jenna
+    Schoenefeld for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-FUTURE6-jump/merlin_174438045_0ea9fc15-a773-4e95-909e-863972c145d7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [A Viral Epidemic Splintering Into Deadly Pieces](/2020/07/29/health/coronavirus-future-america.html)
     
@@ -158,43 +298,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shawn
-    Thew/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [School Closures in the Spring Saved Lives, Study Asserts](/2020/07/29/health/covid-school-reopening.html)
-    
-    But, experts caution, the findings highlight a period when few
-    precautions were in place, and do not apply to current discussions
-    about reopening
-    schools.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Pam
-    Belluck</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NIAID</span>](https://static01.nyt.com/images/2020/07/28/science/00VIRUS-SPIKEMUTATION1/00VIRUS-SPIKEMUTATION1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Coronavirus Could Dodge Some Treatments, Study Suggests](/2020/07/28/health/coronavirus-mutation-spike-treatment.html)
-    
-    A laboratory experiment hints at some of the ways the virus might
-    elude antibody treatments. Combining therapies could help, experts
-    said.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zephyr/Science
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zephyr/Science
     Source</span>](https://static01.nyt.com/images/2020/07/28/science/28ALZHEIMERS/28ALZHEIMERS-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -209,105 +313,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Pam
     Belluck</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
-    Pennink/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Moderna Vaccine Test in Monkeys Shows Promise](/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html)
-    
-    This coronavirus vaccine developed by government researchers and
-    Moderna enabled the animals to quickly clear the infection from
-    their
-    lungs.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Denise
-    Grady</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dustin
-    Chambers for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/science/27VIRUS-MASKS/27VIRUS-MASKS-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Masks May Reduce Viral Dose, Some Experts Say](/2020/07/27/health/coronavirus-mask-protection.html)
-    
-    People wearing face coverings will take in fewer coronavirus
-    particles, evidence suggests, making disease less
-    severe.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
-    Pennink/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/27/science/27VIRUS-MODERNA1/27VIRUS-MODERNA1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Moderna and Pfizer Begin Late-Stage Vaccine Trials](/2020/07/27/health/moderna-vaccine-covid.html)
-    
-    The studies each aim to enroll 30,000 people and determine whether
-    the vaccines are safe and
-    effective.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Denise
-    Grady</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rich
-    Saal/The State Journal-Register, via USA TODAY
-    NETWORK</span>](https://static01.nyt.com/images/2020/07/24/us/politics/00surgisphere4/00surgisphere4-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Doctor Behind the Disputed Covid Data](/2020/07/27/science/coronavirus-retracted-studies-data.html)
-    
-    Dr. Sapan Desai, who supplied the data for two prominent and later
-    retracted studies, is said to have a history of cutting corners and
-    misrepresenting information in pursuit of his
-    ambitions.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Ellen Gabler</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Roni Caryn
-    Rabin</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederick
-    Florin/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/26/us/politics/26virus-antibodies/26virus-antibodies-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Your Coronavirus Antibodies Are Disappearing. Should You Care?](/2020/07/26/health/coronvirus-antibody-tests.html)
-    
-    Declining antibody levels do not mean less immunity, experts say.
-    Besides, two widely used tests may detect the wrong
-    antibodies.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
-    Mandavilli</span></span>
     
     </div>
 
@@ -347,7 +352,7 @@ story](#after-mid1)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hana
     Asano for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/well/physed-runner/physed-runner-videoLarge-v2.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/04/well/physed-runner/physed-runner-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -398,40 +403,37 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/27/well/doctors-cancer-religion/doctors-cancer-religion-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
+    Lam</span>](https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Cancer, Religion and a ‘Good’ Death](/2020/07/28/well/live/cancer-religion-and-a-good-death.html)
+    ## [Weekly Health Quiz: Covid, Weight Gain and Intermittent Fasting](/interactive/2020/07/31/well/live/31healthquiz-07312020.html)
     
-    It is hard to know how much my patient, caught in an eternal
-    childhood, understood about his
-    cancer.
+    Test your knowledge of this week’s health
+    news.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mikkael A.
-    Sekeres,
-    M.D.</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Toby
+    Bilanow</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paper
-    Illustration by Reina Takahashi, photographed by Tony Cenicola/The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/06/17/smarter-living/00well-aging-man/merlin_156360912_5b6e843c-6449-45d0-b556-0b9be5724c2c-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Furze
+    Chan</span>](https://static01.nyt.com/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why It’s Good to Be Old, Even in a Pandemic](/2020/07/28/well/live/aging-benefits-pandemic.html)
+    ## [Pandemic Loneliness in Late Life](/2020/07/30/well/mind/pandemic-loneliness-in-late-life.html)
     
-    That aging can make us better than ever may be the biggest dirty
-    little secret of all
-    time.
+    Many seniors comply with the physical distancing and stay-at-home
+    orders, even as we understand that social isolation generates the
+    lethal byproducts of
+    loneliness.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Bob
-    Brody</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Susan
+    Gubar</span></span>
     
     </div>
 
@@ -444,11 +446,48 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-videoLarge-v3.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/us/coronavirus-school-reopening-risk-promo-1596150335713/coronavirus-school-reopening-risk-promo-1596150335713-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [More Than 6,300 Coronavirus Cases Have Been Linked to U.S. Colleges](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
+    ## [The Risk That Students Could Arrive at School With the Coronavirus](/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html)
+    
+    New estimates show that large parts of the country would likely see
+    infected students if classrooms opened
+    now.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">James Glanz</span>,
+    <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Matthew
+    Conlen</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+    Sladky/Associated
+    Press</span>](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Contact Tracing Is Failing in Many States. Here’s Why.](/2020/07/31/health/covid-contact-tracing-tests.html)
+    
+    Inadequate testing and protracted delays in producing results have
+    crippled tracking and hampered efforts to contain major
+    outbreaks.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Jennifer Steinhauer</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Abby
+    Goodnough</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-videoLarge-v5.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [More Than 6,600 Coronavirus Cases Have Been Linked to U.S. Colleges](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
     
     A Times survey of hundreds of schools represents the most
     comprehensive look at the toll the virus has already taken on the
@@ -465,9 +504,9 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
     M. Lange for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/business/28virus-retailmasks-sub/28virus-retailmasks-sub-videoLarge-v3.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/07/30/business/30virus-retailmasks-sub/28virus-retailmasks-sub-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
@@ -483,60 +522,21 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-memo/29dc-memo-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Macdougall/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’](/2020/07/29/us/politics/republicans-congress-virus-aid.html)
+    ## [Thousands March Against Virus Measures in Berlin](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
     
-    Senators in the party are “all over the lot” on the pandemic bill as
-    jobless benefits run out and the fate of any legislative deal
-    remains
-    uncertain.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carl
-    Hulse</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
-    Masuike/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/nyregion/00nyvirus-contacttracers3/merlin_173678676_31c5c9f4-9a1b-43ab-9eab-589152e9a2b2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [City Praises Contact-Tracing Program. Workers Call Rollout a ‘Disaster.’](/2020/07/29/nyregion/new-york-contact-tracing.html)
-    
-    The contact tracers said the program was confusing and disorganized
-    in its first six weeks, leaving them fearful that their work would
-    not have an impact on the
-    virus.
+    An estimated 17,000 people defied social-distancing and mask
+    requirements in a protest supported by neo-Nazi groups, conspiracy
+    theorists as well as Germans who said they were fed up with the
+    restrictions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sharon
-    Otterman</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    McGuire
-    family</span>](https://static01.nyt.com/images/2020/07/27/obituaries/27McGuire/27McGuire-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Renada McGuire, Resilient Home Health Aide, Dies at 39](/2020/07/29/obituaries/renada-mcguire-dead-coronavirus.html)
-    
-    She decided to work with adults with mental disabilities after
-    giving birth to a child with challenges. She died of complications
-    of the novel
-    coronavirus.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Aaron
-    Randle</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Reuters</span></span>
     
     </div>
 
@@ -592,24 +592,21 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/asia/coronavirus-vietnam.html)
+    [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/world/29virus-vietnam01/merlin_175063065_6df86ac8-3474-47c9-9361-dd07649b6ea1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Mysterious Coronavirus Outbreak Catches Vietnam by Surprise
+    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
     
-    After months without a single coronavirus death, or even a confirmed
-    case of local transmission, a new outbreak has struck Vietnam. And
-    it’s spreading.
+    Thousands in Berlin protest Germany’s coronavirus measures. The
+    virus is picking up speed in the
+    Midwest.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Hannah Beech <span>and</span> Chau
-    Doan</span>
     
     </div>
     
@@ -627,23 +624,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/coronavirus-covid-19.html)
+    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: Deaths Top 150,000 in the United States
+    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
     
-    Federal officials urged states to take aggressive action to slow the
-    spread of the virus while the president talked up nonexistent
-    “virus-free” areas. Big retailers are mandating masks, but
-    enforcement is an
-    issue.
+    The world’s largest vaccine producer, the Serum Institute, announced
+    a plan to make hundreds of millions of doses of an unproven
+    inoculation. It’s a gamble with a huge upside. And huge risks.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jeffrey
+    Gettleman</span>
     
     </div>
     
@@ -661,26 +659,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/magazine/schools-reopening-covid.html)
+    [](/2020/08/01/science/Covid-bats.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Studies Show</span>
+    ## Can Humans Give Coronavirus to Bats, and Other Wildlife?
     
-    ## Why Is There No Consensus About Reopening Schools?
-    
-    Here’s what we know: With too many variables and too few studies,
-    schools lack the tools and data they need to balance education and
-    health.
+    Federal agencies suggest caution in U.S. bat research to avoid
+    transmitting the novel coronavirus to wildlife.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kim
-    Tingley</span>
+    By <span class="css-1n7hynb">James
+    Gorman</span>
     
     </div>
     
@@ -698,22 +693,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/world/coronavirus-covid-19.html)
+    [](/2020/07/31/obituaries/roland-johnson-overlooked.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Falsely Claims Much of U.S. Is ‘Corona-Free’
+    ## Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled
     
-    A national teachers’ union said teachers might strike as a “last
-    resort” if they didn’t feel safe. Pilgrims to Mecca are finding a
-    reconfigured
-    hajj.
+    He survived 13 years of neglect and abuse, including sexual assault,
+    at the notorious Pennhurst State School and Hospital outside
+    Philadelphia before emerging as a champion for the disabled.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Glenn
+    Rifkin</span>
     
     </div>
     
@@ -731,25 +728,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/magazine/how-to-stop-biting-your-nails.html)
+    [](/2020/07/31/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02Mag-Tip-01/02Mag-Tip-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Tip </span>
+    ## A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington
     
-    ## How to Stop Biting Your Nails
-    
-    Start by becoming aware of the behavior. What mood accompanies the
-    biting? Are you more likely to chew in certain rooms?
+    California became the first state to reach 500,000 total coronavirus
+    cases. Once the site of a major outbreak, Italy now offers lessons
+    for keeping the virus in
+    check.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Malia
-    Wollan</span>
     
     </div>
     
@@ -767,23 +761,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/well/move/stretching-heart-cardiovascular-health.html)
+    [](/2020/07/31/world/asia/indonesia-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/02/10/smarter-living/well-pog-move/well-pog-move-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Stretching May Have Cardiovascular Benefits
+    ## In Indonesia, False Virus Cures Pushed by Those Who Should Know Better
     
-    A 12-week program of leg, ankle and foot stretching led to vascular
-    improvements, even in areas not involved in the exercises.
+    In the absence of a unified message from the national government,
+    local officials and opportunists have filled the gap with
+    misinformation and quack remedies.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Bakalar</span>
+    By <span class="css-1n7hynb">Richard C.
+    Paddock</span>
     
     </div>
     
@@ -801,23 +796,25 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/world/coronavirus-covid-19.html)
+    [](/2020/07/30/style/masks-in-public-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2011/07/28/fashion/social_inline/social_inline-thumbWide-v6.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Research Boosts Evidence of Masks’ Utility, Some Experts Say
+    ### <span class="css-m70j1g">Social Q’s</span>
     
-    Masks have long been known to help stop infected people from
-    spreading the virus, but some research suggests they also protect
-    the uninfected. President Trump shared a video with misinformation
-    about the
-    virus.
+    ## How Can I (Kindly) Tell People to Wear Masks in Public?
+    
+    Our advice columnist tested a few possible lines. Here’s how that
+    went.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Philip
+    Galanes</span>
     
     </div>
     
@@ -835,25 +832,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/travel/moose-michigan-isle-royale.html)
+    [](/2020/07/30/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/travel/27travel-michigan-promo/27travel-michigan-promo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The World Through a Lens</span>
+    ## Fauci to Testify Before Congress on Coronavirus Response
     
-    ## On the Lookout for Moose on Michigan’s Isle Royale
-    
-    The remote Isle Royale, tucked away in the northern reaches of Lake
-    Superior, is one of America’s least visited national parks.
+    Federal U.S. jobless benefits are set to expire after lawmakers
+    failed to make a deal. Herman Cain died after being hospitalized
+    with the
+    virus.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tony
-    Cenicola</span>
     
     </div>
     
@@ -871,23 +865,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/science/bioprinting-covid-19-tests.html)
+    [](/2020/07/30/health/covid-19-vaccine-monkeys.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/22/multimedia/22sp-ff-3dprinting2/22sp-ff-3dprinting2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Possible Weapon Against the Pandemic: Printing Human Tissue
+    ## Johnson & Johnson’s Coronavirus Vaccine Protects Monkeys, Study Finds
     
-    Bioprinting could be used for testing potential treatments for
-    Covid-19, cancer and other diseases.
+    It’s the second study in a week to report promising results in
+    monkeys for a vaccine candidate. But the real test will come with
+    human trials that are now underway.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ellen
-    Rosen</span>
+    By <span class="css-1n7hynb">Carl
+    Zimmer</span>
     
     </div>
     
@@ -905,24 +900,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/well/eat/eating-disorders.html)
+    [](/2020/07/30/upshot/coronavirus-republican-voting.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Personal Health</span>
+    ## As Covid Has Become a Red-State Problem, Too, Have Attitudes Changed?
     
-    ## With Eating Disorders, Looks Can Be Deceiving
-    
-    Distorted eating behaviors occur in young people irrespective of
-    their weight, gender, race, ethnicity or sexual orientation.
+    There’s still a persistent partisan gap in the level of concern and
+    in mask wearing.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jane E. Brody</span>
+    By <span class="css-1n7hynb">Robert Gebeloff</span>
     
     </div>
     

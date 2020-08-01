@@ -1,0 +1,779 @@
+<div id="app">
+
+<div>
+
+<div class="NYTAppHideMasthead css-zz1s19 e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-11hrj97 er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="collection-opinion-health" class="section css-15h4p1b e9abtgs0">
+
+<div class="css-1j21atc e1svk9qx1">
+
+<div class="css-fmiefx e1svk9qx2">
+
+<div class="css-1hk7r2m eu54l5x0">
+
+<div id="sponsor-wrapper" class="css-7a1pgi eaca97t0" type="sponsor" hidden="">
+
+<div id="sponsor-slug" class="css-1l4mleb eaca97t1" hidden="">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+</div>
+
+### <span class="css-1032l74 ezz4tcd1">[Opinion](/section/opinion)</span>
+
+</div>
+
+<div class="css-nfcc9b e1svk9qx3">
+
+<div class="css-vl9dhg e1svk9qx5">
+
+<div class="css-1nrhkj6 e1svk9qx6">
+
+# Health and Wellness
+
+<div class="follow-button-placeholder" data-collection-id="">
+
+</div>
+
+</div>
+
+## <span>Science and stories about how we live and how we die.</span>
+
+</div>
+
+</div>
+
+## <span>Science and stories about how we live and how we die.</span>
+
+</div>
+
+<div class="css-4svvz1 ekkqrpp0">
+
+<div id="collection-highlights-container" class="section css-18l1u7x e46isfb1">
+
+<div class="css-gfgt40 ekkqrpp1">
+
+## Highlights
+
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Angie
+    Wang</span>](https://static01.nyt.com/images/2019/07/14/opinion/sunday/14stackpole/14stackpole-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2019/07/14/opinion/sunday/14stackpole/14stackpole-thumbStandard.jpg)](/2019/07/11/opinion/sunday/men-extreme-diets.html)
+    
+    </div>
+    
+    ## [You Call It Starvation. I Call It Biohacking.](/2019/07/11/opinion/sunday/men-extreme-diets.html)
+    
+    Welcome to the bro-y world of extreme dieting. Or is it disordered
+    eating?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Thomas
+    Stackpole</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cristina
+    Daura</span>](https://static01.nyt.com/images/2019/07/07/opinion/sunday/07ikpi/07ikpi-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2019/07/07/opinion/sunday/07ikpi/07ikpi-thumbStandard.jpg)](/2019/07/06/opinion/sunday/bipolar-bassey-ikpi-book.html)
+    
+    </div>
+    
+    ## [What Bipolar II Feels Like](/2019/07/06/opinion/sunday/bipolar-bassey-ikpi-book.html)
+    
+    Imagine if you didn’t fit in anywhere, not even in your own
+    head.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Bassey
+    Ikpi</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+        McCanna/Portland Press Herald, via Getty
+        Images</span>](https://static01.nyt.com/images/2019/07/04/opinion/04herdmoynihan/04herdmoynihan-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [How to Straighten Out the Medicare Maze](/2019/07/04/opinion/medicare-for-all.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2019/07/04/opinion/04herdmoynihan/04herdmoynihan-thumbStandard.jpg)](/2019/07/04/opinion/medicare-for-all.html)
+        
+        </div>
+        
+        Expanding insurance coverage isn’t the only task
+        ahead.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Pamela Herd</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Donald P.
+        Moynihan</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+        by Jeffrey Henson Scales, photograph by Kieferpix/iStock, via
+        Getty Images
+        Plus</span>](https://static01.nyt.com/images/2019/07/02/opinion/02Levin/02Levin-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [I Shouldn’t Be Forced to Give Birth to a Baby Who Won’t Live](/2019/07/03/opinion/abortion-hyde-amendment.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2019/07/02/opinion/02Levin/02Levin-thumbStandard.jpg)](/2019/07/03/opinion/abortion-hyde-amendment.html)
+        
+        </div>
+        
+        Our baby had a fatal birth defect. My federal health insurance
+        plan refused to cover the
+        abortion.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Sarah E.
+        Levin</span></span>
+        
+        </div>
+
+</div>
+
+</div>
+
+<div id="mid1-wrapper" class="css-1mn4oms eaca97t0" type="rank">
+
+<div id="mid1-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-mid1)
+
+<div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-mid1">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-185go5a e1o5byef0">
+
+<div class="css-15cbhtu">
+
+  - [Latest](#stream-panel)
+  - <span class="css-6n7j50">Search</span>
+    <div class="control">
+    <div class="label-container css-1dv1kvn">
+    Search
+    </div>
+    <div class="css-wm4t3d">
+    **<span id="clear-search-input" class="css-1dv1kvn">Clear this text
+    input</span>
+    </div>
+    </div>
+    <span class="css-1iovbfw"></span>
+
+<div id="stream-panel" class="section css-8msx5b e1jz0cab1">
+
+<div class="css-13mho3u">
+
+1.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30iwasaki/30iwasaki-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scared That Covid-19 Immunity Won’t Last? Don’t Be
+    
+    Dropping antibody counts aren’t a sign that our immune system is
+    failing against the coronavirus, nor an omen that we can’t develop a
+    viable vaccine.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Akiko Iwasaki <span>and</span> Ruslan
+    Medzhitov</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/opinion/coronavirus-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/opinion/29Emanuel2/29Emanuel2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Opening Schools Won’t Be Easy, but Here’s How to Do It Safely
+    
+    Not all schools will be able to restart. For those that can, the
+    focus should be on more than just the classroom.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ezekiel J. Emanuel, Saskia Popescu
+    <span>and</span> James
+    Phillips</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/22/style/crispr-gene-editing-ethics.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/26/multimedia/00ADA-GENEEDITING/00ADA-GENEEDITING-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Once Science Fiction, Gene Editing Is Now a Looming Reality
+    
+    The prospect of erasing some disabilities and perceived deficiencies
+    hovers at the margins of what people consider ethically acceptable.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie
+    Hafner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/22/opinion/coronavirus-china-us.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/20/opinion/20YiRao/20YiRao-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## My Relatives in Wuhan Survived. My Uncle in New York Did Not.
+    
+    My father, a Chinese pulmonologist, believes his brother could have
+    been saved.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Yi
+    Rao</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/opinion/20200723/coronavirus-china-us/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200723/coronavirus-china-us/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/20/opinion/coronavirus-preprints.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/20/autossell/Preprints-NYT-22_still/Preprints-NYT-22_still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Identify Flawed Research Before It Becomes Dangerous
+    
+    Scientists and journalists need to establish a service to review
+    research that’s publicized before it is peer reviewed.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael B. Eisen <span>and</span>
+    Robert
+    Tibshirani</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/16/opinion/coronavirus-testing-us.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/17/opinion/14zittrain/14zittrain-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Testing Is on the Brink of Paralysis. That’s Very Bad News.
+    
+    Our pandemic fight requires prompt testing results — and singular
+    cooperation among the states to achieve them.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Margaret Bourdeaux, Beth Cameron
+    <span>and</span> Jonathan
+    Zittrain</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/16/opinion/coronavirus-pakistan-death.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/15/opinion/15Hanif/15Hanif-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s With All the Covid-Death Shaming?
+    
+    Some Pakistanis won’t say they are losing family members to the
+    pandemic because they don’t want to bury the bodies alone.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mohammed
+    Hanif</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/14/opinion/coronavirus-shutdown.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/14/opinion/sunday/14barry/14barry-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Pandemic Could Get Much, Much Worse. We Must Act Now.
+    
+    A comprehensive shutdown may be required in much of the country.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John M. Barry</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/07/16/espanol/opinion/coronavirus-cuarentena.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/13/opinion/obamacare-aca-trump-women.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/13/opinion/13sebelius1/merlin_174017205_5a2fa982-1f61-4ccb-997d-a1fac38cfc39-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Attention All Women: Trump Is Coming for Your Health Care
+    
+    Even with a pandemic raging, the president wants the Supreme Court
+    to strike down the Affordable Care Act.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kathleen
+    Sebelius</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/06/opinion/coronavirus-vaccine-cost.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/02/opinion/00rosenthalWeb/00rosenthalWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How a Covid-19 Vaccine Could Cost Americans Dearly
+    
+    The United States is the only developed nation unable to balance
+    cost, efficacy and social good in setting prices.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elisabeth Rosenthal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+<div class="css-13mho3u">
+
+<div class="css-1t62hi8">
+
+<div class="css-1stvaey">
+
+Show
+More
+
+<div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-g6hk37 supplemental">
+
+<div id="mid2-wrapper" class="css-10wkyv7 eaca97t0" type="lede">
+
+<div id="mid2-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-mid2)
+
+<div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+</div>
+
+<div id="after-mid2">
+
+</div>
+
+</div>
+
+<div id="mktg-wrapper" class="css-oxle51 eaca97t0" type="mktg">
+
+<div id="mktg-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-mktg)
+
+<div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-mktg">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>

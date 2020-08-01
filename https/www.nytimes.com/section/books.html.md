@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-books" class="section css-15h4p1b e9abtgs0">
 
@@ -167,102 +143,101 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-thumbStandard.png)](/2020/07/28/books/review-must-i-go-yiyun-li.html)
+    [![](https://static01.nyt.com/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
     
     </div>
     
     ### Books of The Times
     
-    ## [In Yiyun Li’s Latest, a Grieving Mother Desperately Clings to Memory](/2020/07/28/books/review-must-i-go-yiyun-li.html)
+    ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
     
-    “Must I Go” follows Li’s previous novel, “Where Reasons End,” in
-    examining what it means to survive the death of a beloved
-    child.
+    Wilkerson’s new book makes unsettling comparisons between India’s
+    treatment of its untouchables, Nazi Germany’s treatment of Jews and
+    America’s treatment of
+    African-Americans.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Parul
-    Sehgal</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dwight
+    Garner</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
-    left: Ellie Smith for The New York Times; Tamara Gajic for The New
-    York Times; Andrew Mangum for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
+    Barnes for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/merlin_174680631_f882380e-9e51-4c9f-8118-b556736003c8-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-thumbStandard.jpg)](/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
+    [![](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard.jpg)](/2020/07/31/books/raven-leilani-luster.html)
     
     </div>
     
-    ## [Hilary Mantel, Kiley Reid, Anne Tyler in Running for Booker Prize](/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
+    ## [Raven Leilani, a Flâneur Who Is Going Places](/2020/07/31/books/raven-leilani-luster.html)
     
-    “The Mirror and the Light,” the conclusion to Mantel’s Thomas
-    Cromwell trilogy, is one of 13 books nominated for this prestigious
-    British literary
-    award.
+    The novelist’s debut, “Luster,” is winning accolades for its
+    unfiltered depiction of sex, failure and a Black woman adrift in
+    work and
+    life.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Marshall</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Concepción de
+    León</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-videoLarge.png)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [13 Books to Watch For in August](/2020/07/30/books/new-august-books.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-thumbStandard.jpg)](/2020/07/30/books/new-august-books.html)
+        
+        </div>
+        
+        Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
+        examination of American racism, a biography of the drug kingpin
+        El Chapo, and plenty
+        more.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Joumana
+        Khatib</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-videoLarge-v2.png)
         
         <div class="css-10wtrbd">
         
         ### Books of The Times
         
-        ## [‘Memorial Drive’ Powerfully Recalls a Southern Childhood and a Mother’s Murder](/2020/07/27/books/review-memorial-drive-memoir-natasha-trethewey.html)
+        ## [New Looks at the Fate of Foreigners in America, From the Privileged to the Most Vulnerable](/2020/07/30/books/review-threat-dissent-julia-rose-kraut-separated-jacob-soboroff.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-thumbStandard.png)](/2020/07/27/books/review-memorial-drive-memoir-natasha-trethewey.html)
+        [![](https://static01.nyt.com/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-thumbStandard.png)](/2020/07/30/books/review-threat-dissent-julia-rose-kraut-separated-jacob-soboroff.html)
         
         </div>
         
-        In her new memoir, the former poet laureate Natasha Trethewey
-        writes about her upbringing and her mother’s violent death at
-        the hands of an abusive
-        husband.
+        Taken together, Julia Rose Kraut’s “Threat of Dissent” and Jacob
+        Soboroff’s “Separated” give a sense of how U.S. immigration laws
+        can be
+        weaponized.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Dwight
-        Garner</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/books/00CelebBookshelves-PartTwo-Hanks/00CelebBookshelves-PartTwo-Hanks-videoLarge.png)
-        
-        <div class="css-10wtrbd">
-        
-        ## [The Celebrity Bookshelf Detective Is Back](/2020/07/27/books/tom-hanks-gwyneth-paltrow-bookshelves.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/09/books/00CelebBookshelves-PartTwo-Hanks/00CelebBookshelves-PartTwo-Hanks-thumbStandard.png)](/2020/07/27/books/tom-hanks-gwyneth-paltrow-bookshelves.html)
-        
-        </div>
-        
-        We peer over the shoulders of Gwyneth Paltrow, Regina King,
-        Charlamagne tha God, Yo-Yo Ma and others for a glimpse at their
-        reading
-        habits.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Gal Beckerman</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Noor
-        Qasim</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jennifer
+        Szalai</span></span>
         
         </div>
 
@@ -291,57 +266,53 @@ story](#after-sponsor)
     
     </div>
 
-2.  ### nonfiction
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/books/Malone/merlin_100658383_e31efe70-5ff8-4b97-ae5d-32a4aa354d03-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
+    left: Ellie Smith for The New York Times; Tamara Gajic for The New
+    York Times; Andrew Mangum for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why Is Hillary Clinton So Hated?](/2020/07/28/books/review/the-hunting-of-hillary-michael-dantonio.html)
+    ## [Hilary Mantel, Kiley Reid, Anne Tyler in Running for Booker Prize](/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
     
-    Michael D’Antonio’s “The Hunting of Hillary” recounts the efforts by
-    the right to discredit Clinton and bring her
-    down.
+    “The Mirror and the Light,” the conclusion to Mantel’s Thomas
+    Cromwell trilogy, is one of 13 books nominated for this prestigious
+    British literary
+    award.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Noreen
-    Malone</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alex
+    Marshall</span></span>
     
     </div>
 
-3.  ### Nonfiction
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Wild
-    Horizons/Universal Images Group via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/28/books/review/28Clark/28Clark-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/books/oakImage-1595952431918/oakImage-1595952431918-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Staring Into the Eye of a Whale and Seeing the Whole World](/2020/07/28/books/review/fathoms-whale-rebecca-giggs.html)
+    ## [The Essential Tana French](/2020/07/29/books/the-essential-tana-french.html)
     
-    In “Fathoms,” Rebecca Giggs ranges far and wide as she explores what
-    our relationship to these enormous mammals reveals about
-    ourselves.
+    If you want to brush up before her new novel arrives this fall,
+    here’s your
+    guide.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Doug Bock
-    Clark</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Janet
+    Maslin</span></span>
     
     </div>
 
 4.  ### The Book Review Podcast
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/books/24pod-cover/24pod-cover-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Yearning for the Unexplained](/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
+    ## [The ‘Seductive Lure’ of Authoritarianism](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
     
-    Colin Dickey talks about “The Unidentified,” and Miles Harvey
-    discusses “The King of
-    Confidence.”
+    Anne Applebaum discusses “Twilight of Democracy,” and Barbara Demick
+    talks about “Eat the
+    Buddha.”
     
     <span class="css-me3p27"></span>
     
@@ -353,7 +324,7 @@ story](#after-sponsor)
     
     <div class="css-10wtrbd">
     
-    ## [Best-Seller Lists: August 2, 2020](/interactive/2020/01/29/books/review/best-sellers-promo-for-front-copy2.html)
+    ## [Best-Seller Lists: August 9, 2020](/interactive/2020/01/29/books/review/best-sellers-promo-for-front-copy2.html)
     
     All the lists: print, e-books, fiction, nonfiction, children’s books
     and more.
@@ -396,7 +367,40 @@ story](#after-mid1)
 [More in Books of The Times
     »](/column/books-of-the-times)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/29/books/29BOOKSULLIVAN1/29BOOKSULLIVAN1-videoLarge.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In Yiyun Li’s Latest, a Grieving Mother Desperately Clings to Memory](/2020/07/28/books/review-must-i-go-yiyun-li.html)
+    
+    “Must I Go” follows Li’s previous novel, “Where Reasons End,” in
+    examining what it means to survive the death of a beloved
+    child.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Parul
+    Sehgal</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘Memorial Drive’ Powerfully Recalls a Southern Childhood and a Mother’s Murder](/2020/07/27/books/review-memorial-drive-memoir-natasha-trethewey.html)
+    
+    In her new memoir, the former poet laureate Natasha Trethewey writes
+    about her upbringing and her mother’s violent death at the hands of
+    an abusive
+    husband.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dwight
+    Garner</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/30/books/29BOOKSULLIVAN1/29BOOKSULLIVAN1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -412,7 +416,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/23/books/22BOOKSMITH1/22BOOKSMITH1-videoLarge.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/23/books/22BOOKSMITH1/22BOOKSMITH1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -428,7 +432,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/22/books/21BOOKTREBEK1/21BOOKTREBEK1-videoLarge.png)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/22/books/21BOOKTREBEK1/21BOOKTREBEK1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -438,40 +442,6 @@ story](#after-mid1)
     pancreatic cancer in “The Answer Is...,” but saves most of the room
     for gratitude and
     enthusiasms.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Parul
-    Sehgal</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/21/books/20BOOKBELTON1/20BOOKBELTON1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Putin’s People’ Documents the Ruthless and Relentless Reach of Kremlin Corruption](/2020/07/16/books/review-putins-people-kgb-catherine-belton.html)
-    
-    Catherine Belton’s new book argues that Vladimir Putin has presided
-    over the country and its resources like a czar, bolstered by a cadre
-    of friendly oligarchs and secret service
-    agents.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Szalai</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/16/books/15BOOKDEMICK1/15BOOKDEMICK1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Eat the Buddha’ Reports From the ‘World Capital of Self-Immolations’](/2020/07/15/books/eat-buddha-life-death-tibetan-town-barbara-demick.html)
-    
-    Barbara Demick’s new book covers an awe-inspiring breadth of history
-    — from the heyday of the Tibetan empire to the present-day Tibetan
-    effort at cultural and spiritual
-    survival.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Parul
@@ -510,23 +480,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/style/self-care/black-book-clubs.html)
+    [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/style/self-care/29BLACK-BOOKCLUBS-promo/29BLACK-BOOKCLUBS-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Black Book Club Takes It to the Next Level
+    ### <span class="css-m70j1g">Children’s Books</span>
     
-    Noname and other Black thought leaders have taken what Oprah built
-    and made something new.
+    ## Tank Tops and Short Shorts and Bears, Oh My\!
+    
+    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
+    code is more terrifying than the bears wandering through its woods.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Iman
-    Stevenson</span>
+    By <span class="css-1n7hynb">Jennifer
+    Mathieu</span>
     
     </div>
     
@@ -544,23 +516,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/books/the-essential-tana-french.html)
+    [](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/books/oakImage-1595952431918/oakImage-1595952431918-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Essential Tana French
+    ### <span class="css-m70j1g">Children’s Books</span>
     
-    If you want to brush up before her new novel arrives this fall,
-    here’s your guide.
+    ## For Two Teenagers on Election Day, the Political Gets Personal
+    
+    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
+    out since age 7 helps a drummer make his voice heard.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Janet
-    Maslin</span>
+    By <span class="css-1n7hynb">Nicola
+    Yoon</span>
     
     </div>
     
@@ -578,25 +552,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/death-vivek-oji-akwaeke-emezi-group-text.html)
+    [](/2020/07/31/books/review/crime-fiction-megan-miranda.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/14/books/review/14GroupText-EMEZI/14GroupText-EMEZI-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Stasio-Crime/02Stasio-Crime-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">GROUP TEXT</span>
+    ### <span class="css-m70j1g">Crime</span>
     
-    ## His Family Misses Him. But Did They Ever Really Know Him?
+    ## Stabbed in the Convent, Murdered in the Yard
     
-    In Akwaeke Emezi’s poetic mystery, “The Death of Vivek Oji,” a
-    community mourns a young person whose life contained multitudes.
+    In the newest batch of crime novels, bodies accumulate at a rather
+    alarming rate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabeth
-    Egan</span>
+    By <span class="css-1n7hynb">Marilyn
+    Stasio</span>
     
     </div>
     
@@ -614,23 +588,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/time-for-a-literary-road-trip.html)
+    [](/2020/07/31/books/review/the-system-robert-reich-break-em-up-zephyr-teachout.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/books/review/roadbooks1/roadbooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/16/books/review/16Madrick-WEB/16Madrick-WEB-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Time for a Literary Road Trip
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    If you’re feeling nostalgic for the quintessential summer vacation,
-    pick up one of these books.
+    ## Why the Working Class Votes Against Its Economic Interests
+    
+    Two new books, Robert B. Reich’s “The System” and Zephyr Teachout’s
+    “Break ’Em Up,” examine the impact of economic inequality in
+    America.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Noor
-    Qasim</span>
+    By <span class="css-1n7hynb">Jeff
+    Madrick</span>
     
     </div>
     
@@ -648,21 +625,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/new-this-week.html)
+    [](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/books/28NNpoetry/28NNpoetry-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## New & Noteworthy Poetry, From a Hungry God to a Fake Shepherd
+    ### <span class="css-m70j1g">Children’s Books</span>
     
-    A selection of recent poetry books of interest; plus, a peek at what
-    our colleagues around the newsroom are
-    reading.
+    ## Monsters vs. Aliens
+    
+    In “Sia Martinez and the Moonlit Beginning of Everything,” a
+    Mexican-American girl lights candles in the desert for her deported
+    mother. Then a spacecraft arrives.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Abby
+    Sher</span>
     
     </div>
     
@@ -680,26 +662,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/the-apocalypse-factory-steve-olson.html)
+    [](/2020/07/31/books/review/the-brave-james-bird.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/books/review/28Kiernan/28Kiernan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ### <span class="css-m70j1g">Children’s Books</span>
     
-    ## A Forgotten Town at the Center of the Manhattan Project
+    ## A Native American Coming-of-Age and the Uses of Enchantment
     
-    In “The Apocalypse Factory,” Steve Olson tells the story of Hanford,
-    a small rural town in Washington State that played an outsize role
-    in America’s nuclear ambitions.
+    In James Bird’s “The Brave,” a boy bullied for his numeric mind
+    undergoes a metamorphosis when he’s sent to live on a reservation
+    with his Native American mother.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Denise
-    Kiernan</span>
+    By <span class="css-1n7hynb">David
+    Treuer</span>
     
     </div>
     
@@ -717,14 +699,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/afterland-by-lauren-beukes-an-excerpt.html)
+    [](/2020/07/31/books/review/biography-of-resistance-muhammad-zaman-clean-james-hamblin-the-sensitives-oliver-broudy.html)
     
-    ## ‘Afterland,’ by Lauren Beukes: An Excerpt
+    <div class="css-79elbk">
     
-    An excerpt from “Afterland,” by Lauren
-    Beukes
+    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Shortlist-Microscope/02Shortlist-Microscope-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Shortlist</span>
+    
+    ## New Books Take You Through the Microscope to the World of Pathogens
+    
+    Authors explore the way the invisible world impacts our lives, from
+    bacteria that are resistant to antibiotics to the beneficial
+    biodiversity on our skin.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Rob
+    Dunn</span>
     
     </div>
     
@@ -742,26 +736,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/eat-the-buddha-barbara-demick.html)
+    [](/2020/07/31/books/review/new-paperbacks.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Fadiman1/02Fadiman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/books/02PAPERROW-GRID/02PAPERROW-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ## New in Paperback: ‘This Land Is Our Land’ and ‘Your House Will Pay’
     
-    ## The Chinese Town That Became the Self-Immolation Capital of the World
-    
-    In “Eat the Buddha,” Barbara Demick tells the story of Tibetan
-    resistance to Chinese rule through the stories of the people who
-    have seen it up close.
+    Six new paperbacks to check out this week.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Anne
-    Fadiman</span>
+    By <span class="css-1n7hynb">Jennifer
+    Krauss</span>
     
     </div>
     
@@ -779,24 +769,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
+    [](/2020/07/31/books/review/on-hamlets-origins-and-other-letters-to-the-editor.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/19/books/review/19Brooks-COVER/19Brooks-COVER-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fiction</span>
+    ## On Hamlet’s Origins and Other Letters to the Editor
     
-    ## Aimee Bender’s Latest Is a Proustian Reverie
-    
-    In “The Butterfly Lampshade,” objects are as alive as human beings.
+    Readers respond to recent issues of the Sunday Book
+    Review.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kevin
-    Brockmeier</span>
     
     </div>
     
@@ -814,24 +800,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/books/review/empire-of-wild-cherie-dimaline.html)
+    [](/2020/07/31/books/tom-gauld-robot-novelist-.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/10/books/review/Carroll/Carroll-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/books/review/Gauld/Gauld-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fiction</span>
+    ### <span class="css-m70j1g">Sketchbook</span>
     
-    ## A Métis Woman’s Husband Disappeared — or Did He?
+    ## What If You Could Just Program a Robot To Write a Novel?
     
-    Cherie Dimaline’s new novel, “Empire of Wild,” calls on old tropes
-    of myths and folklore, only to make them new.
+    Imagining all the reasons an automaton might not be writing the next
+    Great American Novel.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tobias Carroll</span>
+    By <span class="css-1n7hynb">Tom Gauld</span>
     
     </div>
     

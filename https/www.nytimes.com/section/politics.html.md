@@ -167,105 +167,110 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-    photo by Chip
-    Somodevilla</span>](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-barr1/merlin_175037451_6440ff51-e1c6-45f2-9f62-481f1775936b-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+    Schukar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-barr1/28dc-barr1-thumbStandard.jpg)](/2020/07/28/us/politics/barr-testimony.html)
+    [![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbStandard.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
     
     </div>
     
-    ## [Barr Clashes With House Democrats, Defending Responses to Protests and Russia Inquiry](/2020/07/28/us/politics/barr-testimony.html)
+    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
     
-    The deployment of federal agents to confront protesters and rioters
-    and attacks on the Russia investigation highlighted a contentious
-    hearing.
+    Despite their disparate backgrounds, the Illinois Democrat has
+    carved out a public life most evocative of the man she could join on
+    the presidential
+    ticket.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nicholas Fandos</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Charlie
-    Savage</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Flegenheimer</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>T.J.
-    Kirkpatrick for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-va/merlin_169646094_23e0bbc5-c4fe-44ca-bca5-3417234a3ac1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
+    Ratje/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/multimedia/31dc-postal/merlin_172107963_a2c16fe7-bd41-4b56-8445-524d4cce31e7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-va/28dc-va-thumbStandard.jpg)](/2020/07/28/us/politics/veterans-suicide.html)
+    [![](https://static01.nyt.com/images/2020/07/31/multimedia/31dc-postal/31dc-postal-thumbStandard.jpg)](/2020/07/31/us/politics/trump-usps-mail-delays.html)
     
     </div>
     
-    ## [Report Slams Doctor at V.A. for Dismissing Suicide Risk of Patient Who Later Killed Himself](/2020/07/28/us/politics/veterans-suicide.html)
+    ## [Mail Delays Fuel Concern Trump Is Undercutting Postal System Ahead of Voting](/2020/07/31/us/politics/trump-usps-mail-delays.html)
     
-    Six days after being removed by the police from a veterans hospital
-    in Washington, the man died from a self-inflicted gunshot
-    wound.
+    The president’s long campaign against the Postal Service is
+    intersecting with his assault on mail-in voting amid concerns that
+    he has politicized oversight of the
+    agency.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Steinhauer</span></span>
+    <span class="css-1baulvz" itemprop="name">Michael D. Shear</span>,
+    <span class="css-1baulvz" itemprop="name">Hailey Fuchs</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
+    Vogel</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pete
-    Marovich for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/00michigan-ads1/merlin_175004985_9f23eae0-70bd-4438-884d-2ee6767942cc-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Terry
+    Ratzlaff for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Michigan Threatens to Slip From Trump as He Goes Quiet on Airwaves](/2020/07/29/us/politics/michigan-trump-biden-2020.html)
+    ## [Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/07/28/us/politics/00michigan-ads1/00michigan-ads1-thumbLarge.jpg)](/2020/07/29/us/politics/michigan-trump-biden-2020.html)
+    [![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbLarge.jpg)](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     </div>
     
-    The president has started spending more money on ads in much smaller
-    Electoral College prizes like Iowa and Nevada, and in recent days
-    his campaign stopped buying ads in Michigan
-    entirely.
+    House Republicans are on the defensive in suburban strongholds as
+    voters reject President Trump’s handling of the coronavirus and
+    calls for racial
+    justice.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Shane Goldmacher</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Kathleen
-    Gray</span></span>
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Catie
+    Edmondson</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dominick
-    Reuter/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-silencer/28dc-silencer-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    Illustration by Tony Cenicola/The New York Times. Trump: Doug
+    Mills/The New York
+    Times.</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Democrats Investigating Why White House Ended Ban on Some Gun Silencer Sales](/2020/07/28/us/politics/gun-silencers-democrats-trump.html)
+    ### News Analysis
+    
+    ## [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](/2020/08/01/us/politics/trump-books.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-silencer/28dc-silencer-thumbLarge.jpg)](/2020/07/28/us/politics/gun-silencers-democrats-trump.html)
+    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbLarge.jpg)](/2020/08/01/us/politics/trump-books.html)
     
     </div>
     
-    A House subcommittee wants the White House to turn over documents
-    related to the shift and the involvement of a former industry
-    lobbyist who is now an administration
-    official.
+    A large club of Trump administration evictees have turned their
+    bracingly bad experiences into a new genre: political revenge
+    literature.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
-    Vogel</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Lyall</span></span>
     
     </div>
 
@@ -325,26 +330,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/joseph-kernan-dead-coronavirus.html)
+    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/obituaries/Kernan/merlin_175064295_8651f784-a71d-41b2-a7b1-896b022d5949-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">THOSE WE’VE LOST</span>
+    ## Biden Faces Pressure From Left Over Influence Industry Ties
     
-    ## Joseph Kernan, Vietnam P.O.W. and Indiana Governor, Dies at 74
-    
-    He spent 11 months in a North Vietnamese prison after his plane was
-    downed. He was later a long-serving mayor of South Bend. He died of
-    Covid-19.
+    Many of his aides and close allies are veteran Washington hands who
+    have profited from advising big corporations. The Sanders-Warren
+    wing of the party is not happy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
+    Thrush</span>
     
     </div>
     
@@ -362,24 +365,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+    [](/2020/08/01/us/politics/trump-books.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions
+    ### <span class="css-m70j1g">News Analysis</span>
     
-    Congressional investigators said companies tied to two Russians
-    under sanctions were able to buy art using shell companies and an
-    intermediary.
+    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
+    
+    A large club of Trump administration evictees have turned their
+    bracingly bad experiences into a new genre: political revenge
+    literature.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Graham
-    Bowley</span>
+    By <span class="css-1n7hynb">Sarah
+    Lyall</span>
     
     </div>
     
@@ -397,26 +402,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/politics/100000007262236/congress-tech-antitrust-hearings-live.html)
+    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/business/29techhearing-video/29techhearing-video-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
     
-    ## Watch Live: Tech C.E.O.s Testify Before Congress
-    
-    Jeff Bezos of Amazon, Tim Cook of Apple, Mark Zuckerberg of Facebook
-    and Sundar Pichai of Google will answer questions from House
-    lawmakers about their business practices.
+    The Trump administration has said the video app poses security
+    concerns because of its Chinese ownership.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Reuters</span>
+    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
+    Lohr</span>
     
     </div>
     
@@ -434,24 +436,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/europe/us-troops-nato-germany.html)
+    [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-military/29dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. to Cut 12,000 Forces in Germany
+    ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
     
-    Defense Department officials say the redeployments will enhance
-    American security and its ability to respond to threats. Allies and
-    some in Congress see it as punishment for Germany.
+    House Republicans are on the defensive in suburban strongholds as
+    voters reject President Trump’s handling of the coronavirus and
+    calls for racial justice.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Gibbons-Neff</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
+    Edmondson</span>
     
     </div>
     
@@ -469,23 +471,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/trump-putin-bounties.html)
+    [](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-trump/29dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Did Not Ask Putin About Bounties on U.S. Troops in Afghanistan, He Says
+    ## Tammy Duckworth Is Nothing and Everything Like Joe Biden
     
-    “I have never discussed it with him,” Mr. Trump told the website
-    Axios.
+    Despite their disparate backgrounds, the Illinois Democrat has
+    carved out a public life most evocative of the man she could join on
+    the presidential ticket.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Crowley</span>
+    By <span class="css-1n7hynb">Matt
+    Flegenheimer</span>
     
     </div>
     
@@ -503,25 +506,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/biden-vp-announcement.html)
+    [](/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/04/20/us/onpolitics-2020-still/onpolitics-2020-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-firststep/01dc-firststep-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics</span>
+    ## Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned
     
-    ## The Latest on Biden’s V.P. Timeline
-    
-    The presumptive nominee rolls out a racial justice plan: This is
-    your politics tip sheet.
+    Critics say the First Step Act is being applied too arbitrarily by
+    judges who are taking a hard line when it comes to revisiting
+    nonviolent drug sentences.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Giovanni
-    Russonello</span>
+    By <span class="css-1n7hynb">Hailey
+    Fuchs</span>
     
     </div>
     
@@ -539,26 +541,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/republicans-congress-virus-aid.html)
+    [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-memo/29dc-memo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01moments1/merlin_175045695_792fda51-d1e1-4b1b-87db-391f651713ec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">congressional memo</span>
+    ### <span class="css-m70j1g">News Analysis</span>
     
-    ## Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’
+    ## Trump’s Approval Rating, Biden V.P. Search: The Latest in the 2020 Race
     
-    Senators in the party are “all over the lot” on the pandemic bill as
-    jobless benefits run out and the fate of any legislative deal
-    remains uncertain.
+    President Trump’s more sober messaging on the coronavirus crisis
+    didn’t last long. For Joe Biden, the search for a running mate may
+    last a little longer.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Carl
-    Hulse</span>
+    By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
+    Herndon</span>
     
     </div>
     
@@ -576,25 +578,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/michigan-trump-biden-2020.html)
+    [](/2020/07/31/business/trump-financial-disclosure.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/us/politics/00michigan-ads1/merlin_175004985_9f23eae0-70bd-4438-884d-2ee6767942cc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Threatens to Slip From Trump as He Goes Quiet on Airwaves
+    ## A Better Year for Trump’s Family Business (Last Year, That Is)
     
-    The president has started spending more money on ads in much smaller
-    Electoral College prizes like Iowa and Nevada, and in recent days
-    his campaign stopped buying ads in Michigan entirely.
+    In 2019, the Trump Organization showed improvement over the previous
+    year. But the company’s minimum reported revenues still fell short
+    of the president’s first year in office, his new financial
+    disclosure shows.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shane Goldmacher <span>and</span>
-    Kathleen
-    Gray</span>
+    By <span class="css-1n7hynb">Ben Protess, Steve Eder
+    <span>and</span> Michael H.
+    Keller</span>
     
     </div>
     
@@ -612,23 +615,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/upshot/polls-political-party-republicans.html)
+    [](/2020/07/31/us/politics/white-house-congress-relief-plan-jobless-aid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/upshot/29up-trumppoll/29up-trumppoll-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-virus-cong/merlin_175160493_fd20e84b-c6d8-43b4-8450-d1067875391b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Are the Polls Missing Republican Voters?
+    ## White House and Congress Clash on Relief Plan as Jobless Aid Expires
     
-    Registered Republicans were actually more likely than registered
-    Democrats to respond to the Times/Siena survey.
+    President Trump and Democrats blamed each other for the lapse of
+    $600-per-week federal unemployment benefits, risking further
+    economic pain and a voter backlash for failing to act.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nate
-    Cohn</span>
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
     
     </div>
     
@@ -646,23 +650,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/business/economy/us-gdp-report.html)
+    [](/2020/07/31/us/politics/trump-coronavirus-testing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/28gdp-explain2/merlin_172459122_1f997b8d-abb8-4a5b-91f1-199d1eaad2d1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-virus-hearing/merlin_175159080_b6d984cc-ecd9-412a-9c63-9fe3fb62b4cf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why You’ll See Two Figures for G.D.P. Decline: Very Big, and Huge
+    ## Trump’s Coronavirus Testing Chief Concedes a Lag in Test Results
     
-    Official data for second-quarter economic output arrives Thursday,
-    and while it will be unquestionably bad, there are different ways of
-    looking at it.
+    With the reopening plans of schools and businesses hinging on rapid
+    test results, the Trump administration’s testing czar says a two- to
+    three-day turnaround “is not possible.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben Casselman</span>
+    By <span class="css-1n7hynb">Sheryl Gay Stolberg <span>and</span>
+    Katherine J. Wu</span>
     
     </div>
     

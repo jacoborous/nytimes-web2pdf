@@ -241,7 +241,7 @@ Opinion Columnist
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -372,19 +372,11 @@ Europe](https://www.nytimes3xbfgragh.onion/article/eu-travel-ban-explained-usa.h
 Oh, and he’s cruising toward four more years: All of those pollsters who
 predict otherwise are incompetent fabulists. (Talk about projection.)
 
-<div class="css-1q1hscp">
-
-<div class="css-1xk4eoy">
-
-<div id="FB">
-
 </div>
 
 </div>
 
-</div>
-
-</div>
+<div>
 
 </div>
 
@@ -401,6 +393,14 @@ that statue, because, as eagle-eyed observers noticed, [it was the
 Christ the Redeemer
 monument](https://www.thedailybeast.com/trump-camp-vows-to-protect-brazils-most-iconic-statue-from-left-wing-mobs)
 that looms over Rio de Janeiro.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Another Facebook ad a few weeks later comprised two side-by-side
 pictures. Under an image of Trump were the words “Public Safety.” Under

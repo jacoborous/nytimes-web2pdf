@@ -164,17 +164,166 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
-    Webster/Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/EPA,
+    via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-thumbStandard.jpg)](/2020/07/29/science/stonehenge-archaeology-sarsens.html)
+    [![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/01sci-astronauts01-thumbStandard.jpg)](/2020/08/01/science/nasa-spacex-astronauts.html)
     
     </div>
+    
+    ## [SpaceX Crew Dragon to Bring 2 NASA Astronauts Home](/2020/08/01/science/nasa-spacex-astronauts.html)
+    
+    Bob Behnken and Doug Hurley are getting ready to splash down after
+    two months in
+    orbit.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
+    Chang</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
+    Raff for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbStandard.jpg)](/2020/08/01/science/Covid-bats.html)
+    
+    </div>
+    
+    ## [Can Humans Give Coronavirus to Bats, and Other Wildlife?](/2020/08/01/science/Covid-bats.html)
+    
+    Federal agencies suggest caution in U.S. bat research to avoid
+    transmitting the novel coronavirus to
+    wildlife.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Gorman</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
+        Sorokin/Alamy</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Trilobites
+        
+        ## [How Woody Vines Do the Twist](/2020/08/01/science/vines-lianas-panama.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-thumbStandard.jpg)](/2020/08/01/science/vines-lianas-panama.html)
+        
+        </div>
+        
+        Slowly, scientists are learning how lianas quickly
+        climb.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Devi
+        Lockwood</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+        Warner</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Lizard Popsicles, Anyone?](/2020/07/31/science/lizards-liolaemus-argentina.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-thumbStandard.jpg)](/2020/07/31/science/lizards-liolaemus-argentina.html)
+        
+        </div>
+        
+        The coolest reptiles on the planet occasionally freeze
+        solid.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Joshua
+        Rapp
+    Learn</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Trilobites
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artokoloro,
+    via
+    Alamy</span>](https://static01.nyt.com/images/2020/08/04/science/30TB-GLASS/30TB-GLASS-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Romans Called it ‘Alexandrian Glass.’ Where Was It Really From?](/2020/07/31/science/alexandrian-glass-rome.html)
+    
+    Trace quantities of isotopes hint at the true origin of a kind of
+    glass that was highly prized in the Roman
+    Empire.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine
+    Kornei</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
+    A.
+    Widder</span>](https://static01.nyt.com/images/2020/07/30/science/30TB-ANGLERFISH1/30TB-ANGLERFISH1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How the Ultimate Live-in Boyfriend Evolved His Way Around Rejection](/2020/07/30/science/anglerfish-immune-rejection.html)
+    
+    Commingling tissues and blood would normally prompt a massive immune
+    response. These deep sea lovers found a
+    workaround.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [NASA Launches Perseverance Rover, Capping Summer of Missions to Mars](/2020/07/30/science/nasa-mars-launch.html)
+    
+    The third and final mission to the red planet of the month lifted
+    off on
+    Thursday.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
+    Chang</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
+    Webster/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Whence Came Stonehenge’s Stones? Now We Know](/2020/07/29/science/stonehenge-archaeology-sarsens.html)
     
@@ -189,167 +338,21 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/Univ.
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/University
     of
-    Arizona</span>](https://static01.nyt.com/images/2020/07/28/science/28SCI-MARSLANDING1b/28SCI-MARSLANDING1b-videoLarge.jpg)
+    Arizona</span>](https://static01.nyt.com/images/2020/07/28/science/28SCI-MARS-JEZERO1/merlin_175006794_4356ac65-099d-47d0-aa04-33516549667b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    <div class="css-1dqkjed">
+    ## [How NASA Found the Ideal Hole on Mars to Land In](/2020/07/28/science/nasa-jezero-perseverance.html)
     
-    [![](https://static01.nyt.com/images/2020/07/28/science/28SCI-MARSLANDING1b/28SCI-MARSLANDING1b-thumbStandard.jpg)](/2020/07/29/science/nasa-mars-perseverance-rover.html)
-    
-    </div>
-    
-    ## [Getting to Mars Is Easy. It’s the Stopping That Can Kill You.](/2020/07/29/science/nasa-mars-perseverance-rover.html)
-    
-    The United States has an unparalleled record of success on the red
-    planet’s surface, but NASA’s engineers aren’t resting on their
-    laurels.
+    Jezero crater, the destination of the Perseverance rover, is a
+    promising place to look for evidence of extinct Martian
+    life.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kenneth
     Chang</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirsten
-        Fisher</span>](https://static01.nyt.com/images/2020/07/28/science/00SCI-MOSS3/00SCI-MOSS3-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Trilobites
-        
-        ## [This Moss Uses Quartz as a Parasol](/2020/07/29/science/moss-quartz-biology-syntrichia.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/28/science/00SCI-MOSS3/00SCI-MOSS3-thumbStandard.jpg)](/2020/07/29/science/moss-quartz-biology-syntrichia.html)
-        
-        </div>
-        
-        In the Mojave Desert, a translucent crystal offers bryophytes
-        much-needed respite from the heat of the
-        sun.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Sabrina
-        Imbler</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/University
-        of
-        Arizona</span>](https://static01.nyt.com/images/2020/07/28/science/28SCI-MARS-JEZERO1/merlin_175006794_4356ac65-099d-47d0-aa04-33516549667b-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [How NASA Found the Ideal Hole on Mars to Land In](/2020/07/28/science/nasa-jezero-perseverance.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/28/science/28SCI-MARS-JEZERO1/merlin_175006794_4356ac65-099d-47d0-aa04-33516549667b-thumbStandard.jpg)](/2020/07/28/science/nasa-jezero-perseverance.html)
-        
-        </div>
-        
-        Jezero crater, the destination of the Perseverance rover, is a
-        promising place to look for evidence of extinct Martian
-        life.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-        Chang</span></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
-    Porlan</span>](https://static01.nyt.com/images/2020/07/28/science/28MARSCHAT2/28MARSCHAT2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Too Much Mars? Let’s Discuss Other Worlds](/2020/07/28/science/mars-nasa-science.html)
-    
-    Two veteran space journalists discuss why so much attention and
-    budget seems to be directed to the red
-    planet.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Rebecca Boyle</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">David W.
-    Brown</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/science/28VIRGINGALACTIC2/28VIRGINGALACTIC2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Virgin Galactic Unveils Comfy Cabin for Jet-Setting to the Edge of Space](/2020/07/28/science/virgin-galactic-cabin.html)
-    
-    Passengers able to pay hundreds of thousands of dollars for a seat
-    can escape gravity for a few
-    minutes.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-    Chang</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>IODP/JRSO</span>](https://static01.nyt.com/images/2020/07/28/science/28ANCIENT-MICROBES2/28ANCIENT-MICROBES2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [These Microbes May Have Survived 100 Million Years Beneath the Seafloor](/2020/07/28/science/microbes-100-million-years-old.html)
-    
-    Rescued from their cold, cramped and nutrient-poor homes, the
-    bacteria awoke in the lab and
-    grew.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/us/exploring-the-solar-system-promo-1595620746754/exploring-the-solar-system-promo-1595620746754-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Exploring the Solar System](/interactive/2020/science/exploring-the-solar-system.html)
-    
-    A guide to the spacecraft beyond Earth’s
-    orbit.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
-    Corum</span></span>
-    
-    </div>
-
-5.  ### Trilobites
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
-    Bailey/VWPics/Universal Images Group, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/27/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Can Trees Live Forever? New Kindling for an Immortal Debate](/2020/07/27/science/trees-immortality.html)
-    
-    Some trees can live for thousands of years, but we may not be around
-    long enough to really know whether they can die of old
-    age.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Cara
-    Giaimo</span></span>
     
     </div>
 
@@ -387,7 +390,42 @@ story](#after-mid1)
 [More in Trilobites
     »](/column/trilobites)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirsten
+    Fisher</span>](https://static01.nyt.com/images/2020/07/28/science/00SCI-MOSS3/00SCI-MOSS3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [This Moss Uses Quartz as a Parasol](/2020/07/29/science/moss-quartz-biology-syntrichia.html)
+    
+    In the Mojave Desert, a translucent crystal offers bryophytes
+    much-needed respite from the heat of the
+    sun.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sabrina
+    Imbler</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
+    Bailey/VWPics/Universal Images Group, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/27/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Can Trees Live Forever? New Kindling for an Immortal Debate](/2020/07/27/science/trees-immortality.html)
+    
+    Some trees can live for thousands of years, but we may not be around
+    long enough to really know whether they can die of old
+    age.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Cara
+    Giaimo</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Hawkins/Nature Picture Library, via
     Alamy</span>](https://static01.nyt.com/images/2020/07/21/science/21TB-BATS/21TB-BATS-videoLarge.jpg)
     
@@ -405,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.nyt.com/images/2020/07/19/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.nyt.com/images/2020/07/19/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -421,7 +459,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karen
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karen
     Osborn,
     Smithsonian</span>](https://static01.nyt.com/images/2020/07/21/science/16TB-ULTRABLACKFISH1/16TB-ULTRABLACKFISH1-videoLarge.jpg)
     
@@ -436,41 +474,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
     Wu</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Flórián
-    Tóth</span>](https://static01.nyt.com/images/2020/07/15/climate/15TB-STURGEON1/15TB-STURGEON1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Scientists Accidentally Bred the Fish Version of a Liger](/2020/07/15/science/hybrid-sturgeon-paddlefish.html)
-    
-    American paddlefish and Russian sturgeon were not supposed to be
-    able to create hybrid offspring.
-    Surprise\!
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Annie
-    Roth</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joseph
-    S.
-    Wilson</span>](https://static01.nyt.com/images/2020/07/14/science/14SCI-ANTWASPS1/14SCI-ANTWASPS1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How a Velvet Ant (Which Is a Wasp) Got Its White Fluff](/2020/07/14/science/white-fluffy-ant-wasp.html)
-    
-    The thistledown velvet ant, which is actually a wasp, resembles
-    creosote fuzz. But mimicry isn’t the reason, a new study
-    suggests.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sabrina
-    Imbler</span></span>
     
     </div>
 
@@ -505,26 +508,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/obituaries/katherine-hoffman-dead-coronavirus.html)
+    [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/27Hoffman/27Hoffman-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
     
-    ## Katherine Hoffman, ‘Eternal’ Florida State Figure, Dies at 105
-    
-    From the 1930s to the 2010s, as a student, professor and
-    distinguished alumna, she was a model citizen in support of the
-    school. She died of Covid-19.
+    Thousands in Berlin protest Germany’s coronavirus measures. The
+    virus is picking up speed in the
+    Midwest.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alex
-    Traub</span>
     
     </div>
     
@@ -542,24 +540,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/health/covid-school-reopening.html)
+    [](/2020/08/01/technology/gedmatch-breach-privacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/science/29VIRUS-SCHOOLS/29VIRUS-SCHOOLS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## School Closures in the Spring Saved Lives, Study Asserts
+    ## Why a Data Breach at a Genealogy Site Has Privacy Experts Worried
     
-    But, experts caution, the findings highlight a period when few
-    precautions were in place, and do not apply to current discussions
-    about reopening schools.
+    Nearly two-thirds of GEDmatch’s users opt out of helping law
+    enforcement. For a brief window this month, that didn’t matter.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Benedict Carey <span>and</span> Pam
-    Belluck</span>
+    By <span class="css-1n7hynb">Heather
+    Murphy</span>
     
     </div>
     
@@ -577,23 +574,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/coronavirus-covid-19.html)
+    [](/2020/07/31/health/coronavirus-children-camp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: Deaths Top 150,000 in the United States
+    ## The Coronavirus Infected Hundreds at a Georgia Summer Camp
     
-    Federal officials urged states to take aggressive action to slow the
-    spread of the virus while the president talked up nonexistent
-    “virus-free” areas. Big retailers are mandating masks, but
-    enforcement is an
-    issue.
+    The camp took precautions but did not require campers to wear masks,
+    the C.D.C. reported. Singing and cheering may have helped spread the
+    virus.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roni Caryn
+    Rabin</span>
     
     </div>
     
@@ -611,23 +609,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/health/coronavirus-future-america.html)
+    [](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-FUTURE6-jump/merlin_174438045_0ea9fc15-a773-4e95-909e-863972c145d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Viral Epidemic Splintering Into Deadly Pieces
+    ### <span class="css-m70j1g">The New Old Age</span>
     
-    There’s not just one coronavirus outbreak in the United States. Now
-    there are many, each requiring its own mix of solutions.
+    ## Should Youth Come First in Coronavirus Care?
+    
+    If medical rationing becomes necessary, some older adults are
+    prepared to step aside. But many have the opposite concern: that
+    they will be arbitrarily sent to the rear of the line.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Donald G. McNeil
-    Jr.</span>
+    By <span class="css-1n7hynb">Paula
+    Span</span>
     
     </div>
     
@@ -645,24 +646,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+    [](/2020/07/31/health/coronavirus-covid-testing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/25/multimedia/00xp-virus-ethics-pix/00xp-virus-ethics-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Kerry James Marshall’s Black Birds Take Flight in a New Series
+    ## Covid-19 Tests Are in Short Supply. Should You Still Get One?
     
-    Inspired by John James Audubon, the painter explores the societal
-    “pecking order” in two works that dovetail with “this mystery
-    about whether or not Audubon himself was Black.”
+    Public health officials once suggested only people with symptoms
+    should be tested. Now some say getting one is a civic duty.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ted
-    Loos</span>
+    By <span class="css-1n7hynb">Maria
+    Cramer</span>
     
     </div>
     
@@ -680,25 +680,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/magazine/vesper-flights.html)
+    [](/2020/07/31/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Feature</span>
+    ## A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington
     
-    ## The Mysterious Life of Birds Who Never Come Down
-    
-    Swifts spend all their time in the sky. What can their journeys tell
-    us about the future?
+    California became the first state to reach 500,000 total coronavirus
+    cases. Once the site of a major outbreak, Italy now offers lessons
+    for keeping the virus in
+    check.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Helen
-    Macdonald</span>
     
     </div>
     
@@ -716,24 +713,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/health/coronavirus-moderna-vaccine-monkeys.html)
+    [](/2020/07/31/health/covid-contact-tracing-tests.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-MODERNA/28VIRUS-MODERNA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Moderna Vaccine Test in Monkeys Shows Promise
+    ## Contact Tracing Is Failing in Many States. Here’s Why.
     
-    This coronavirus vaccine developed by government researchers and
-    Moderna enabled the animals to quickly clear the infection from
-    their lungs.
+    Inadequate testing and protracted delays in producing results have
+    crippled tracking and hampered efforts to contain major outbreaks.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Denise
-    Grady</span>
+    By <span class="css-1n7hynb">Jennifer Steinhauer <span>and</span>
+    Abby
+    Goodnough</span>
     
     </div>
     
@@ -751,22 +748,30 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/world/coronavirus-covid-19.html)
+    [](/2020/07/30/health/coronavirus-children.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Falsely Claims Much of U.S. Is ‘Corona-Free’
+    ## Children May Carry Coronavirus at High Levels, Study Finds
     
-    A national teachers’ union said teachers might strike as a “last
-    resort” if they didn’t feel safe. Pilgrims to Mecca are finding a
-    reconfigured
-    hajj.
+    The research does not prove that infected children are contagious,
+    but it should influence the debate about reopening schools, some
+    experts said.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html "Read in Spanish")
     
     </div>
     
@@ -784,24 +789,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/science/mars-sample-return-mission.html)
+    [](/2020/07/30/climate/sea-level-inland-floods.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/science/28MARSSAMPLE/28MARSSAMPLE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Bringing Mars Rocks to Earth: Our Greatest Interplanetary Circus Act
+    ## Rising Seas Could Menace Millions Beyond Shorelines, Study Finds
     
-    NASA and the European Space Agency plan to toss rocks from one
-    spacecraft to another before the samples finally land on Earth in
-    2031.
+    As climate change raises sea levels, storm surges and high tides
+    will push farther inland, a team of researchers says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
+    By <span class="css-1n7hynb">Brad
+    Plumer</span>
     
     </div>
     
@@ -819,24 +823,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/climate/trump-fuel-efficiency-rule.html)
+    [](/2020/07/30/climate/bangladesh-floods.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/climate/27CLI-EPA/27CLI-EPA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## E.P.A. Inspector General to Investigate Trump’s Biggest Climate Rollback
+    ### <span class="css-m70j1g">Inequity at the boiling point</span>
     
-    The agency’s watchdog office said Monday it would investigate
-    whether the reversal of Obama-era fuel efficiency standards violated
-    government rules.
+    ## A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.
+    
+    The country’s latest calamity illustrates a striking inequity of our
+    time: The people least responsible for climate change are among
+    those most hurt by its consequences.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Coral Davenport <span>and</span> Lisa
-    Friedman</span>
+    By <span class="css-1n7hynb">Somini Sengupta <span>and</span>
+    Julfikar Ali Manik</span>
     
     </div>
     

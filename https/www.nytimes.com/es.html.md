@@ -153,110 +153,112 @@ Estate](https://www.nytimes.com/section/realestate)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
-    Loureiro Fernandez para The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alejandro
+    Pagni/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-videoLarge-v2.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-thumbStandard.jpg)](/es/2020/07/29/espanol/america-latina/democracia-america-latina-pandemia.html)
+    [![](https://static01.nyt.com/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-thumbStandard.jpg)](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
     
     </div>
     
-    ## [América Latina se enfrenta a un retroceso de la democracia durante la pandemia](/es/2020/07/29/espanol/america-latina/democracia-america-latina-pandemia.html)
+    ### Negocios
     
-    El coronavirus está perjudicando los sistemas de salud y las
-    economías de la región. También amenaza sus frágiles libertades
-    políticas.
+    ## [Las negociaciones de la deuda en Argentina ponen a prueba el capitalismo amigable](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
+    
+    BlackRock, la empresa más grande de manejo de inversiones del mundo,
+    se opone a un acuerdo que resolvería la deuda con Argentina, que
+    lucha contra la pobreza y la
+    pandemia.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Anatoly
-    Kurmanaev</span></span>
+    <span class="css-1baulvz" itemprop="name">Peter S. Goodman</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Daniel
+    Politi</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
-    Chs/EPA vía
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+    Drago para The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-thumbStandard.jpg)](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
+    [![](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/01Ramos-ES-thumbStandard.jpg)](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
     
     </div>
     
     ### Comentario
     
-    ## [Manual de comportamiento para expresidentes insoportables](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
+    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
     
-    La incapacidad de algunos exmandatarios de España de aceptar su
-    jubilación viene en parte de una falta de cultura democrática.
-    Algunos países de Latinoamérica tienen el mismo
-    problema.
+    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
+    o trabajado en la región, conocemos bien de mandatarios que juegan
+    con los límites de su poder. Adiós al “excepcionalismo
+    estadounidense”.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Jiménez</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jorge
+    Ramos</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Suzie
-        Howell para The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-videoLarge-v2.jpg)
-        
-        <div class="css-7l6h4f">
-        
-        ## [Migraron para sacar a sus familias de la pobreza. Ahora necesitan ayuda](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-thumbStandard.jpg)](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
-        
-        </div>
-        
-        La pandemia ha deteriorado los salarios de los trabajadores
-        inmigrantes, quienes envían menos remesas a sus hogares. Esto
-        podría generar un aumento de la pobreza en varias partes del
-        mundo, de América Latina al sur de
-        Asia.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Peter S.
-        Goodman</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
-        de Argentina/EPA vía
-        Shutterstock</span>](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
+        Cadena
+        Bejarano</span>](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [¿Por qué no explota Argentina?](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
+        ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-thumbStandard.jpg)](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
+        [![](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbStandard.jpg)](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
         
         </div>
         
-        Lecciones de 2001, una fuerte política social asistencialista y
-        una grieta política potente han alejado de momento otro
-        estallido social, pero solo una nueva política cooperativa podrá
-        terminar de disipar ese
-        fantasma.
+        El hallazgo de un inmenso altar fúnebre azteca permite
+        reflexionar sobre las urgencias actuales sin fantasías atávicas
+        pero con un nítido sentido de la historia y los desafíos del
+        presente.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz" itemprop="name">Marcelo J.
-        García</span> y
-        <span class="css-1baulvz last-byline" itemprop="name">Jordana
-        Timerman</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Juan
+        Villoro</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Barton
+        Silverman/The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/30dc-fred-Trump-ES-00/merlin_97610656_78a7876d-c54b-430a-a599-163bcf354205-videoLarge.jpg)
+        
+        <div class="css-7l6h4f">
+        
+        ## [Hijo de su padre: el presidente Donald Trump aprendió en casa a no mostrar aflicción](/es/2020/07/31/espanol/estados-unidos/fred-trump-donald-trump.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/28/us/politics/30dc-fred-Trump-ES-00/merlin_97610656_78a7876d-c54b-430a-a599-163bcf354205-thumbStandard.jpg)](/es/2020/07/31/espanol/estados-unidos/fred-trump-donald-trump.html)
+        
+        </div>
+        
+        Ya sea que enfrente la pérdida de un familiar o la muerte de
+        casi 150.000 estadounidenses en una pandemia creciente, el
+        mandatario estadounidense casi nunca exhibe empatía. Se lo
+        inculcó su
+        padre.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+        <span class="css-1baulvz" itemprop="name">Annie Karni</span> y
+        <span class="css-1baulvz last-byline" itemprop="name">Katie
+        Rogers</span></span>
         
         </div>
 
@@ -285,7 +287,26 @@ Estate](https://www.nytimes.com/section/realestate)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/10/us/coronavirus-en-estados-unidos-promo-1594392397567/coronavirus-en-estados-unidos-promo-1594392397567-videoLarge-v4.png)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+    Tama/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/science/31virus-children-ES/30VIRUS-CHILDREN1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Un estudio revela que los niños podrían portar altos niveles de coronavirus](/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html)
+    
+    La investigación no prueba que los niños infectados sean
+    contagiosos, pero debería tomarse en cuenta en el debate sobre el
+    regreso a las escuelas, dijeron algunos
+    expertos.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/10/us/coronavirus-en-estados-unidos-promo-1594392397567/coronavirus-en-estados-unidos-promo-1594392397567-videoLarge-v4.png)
     
     <div class="css-10wtrbd">
     
@@ -301,7 +322,7 @@ Estate](https://www.nytimes.com/section/realestate)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kayana
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kayana
     Szymczak para The New York
     Times</span>](https://static01.nyt.com/images/2020/07/20/science/24virus-reinfection-ES-1/00VIRUS-REINFECTION1-videoLarge.jpg)
     
@@ -314,25 +335,6 @@ Estate](https://www.nytimes.com/section/realestate)
     algunas semanas, y las personas están protegidas del coronavirus de
     otras
     maneras.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
-    Mandavilli</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederick
-    Florin/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/26/us/politics/27virus-antibodies-ES/26virus-antibodies-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [¿Qué significa si tus anticuerpos contra el coronavirus están desapareciendo?](/es/2020/07/28/espanol/ciencia-y-tecnologia/anticuerpos-coronavirus-inmunidad.html)
-    
-    La disminución de los niveles de anticuerpos no significa menos
-    inmunidad, dicen los expertos. Además, dos pruebas ampliamente
-    utilizadas pueden detectar los anticuerpos
-    errados.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Apoorva
@@ -390,7 +392,51 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
+    Chs/EPA vía
+    Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">David Jiménez</span>
+    
+    ## [Manual de comportamiento para expresidentes insoportables](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
+    
+    La incapacidad de algunos exmandatarios de España de aceptar su
+    jubilación viene en parte de una falta de cultura democrática.
+    Algunos países de Latinoamérica tienen el mismo
+    problema.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Jiménez</span></span>
+    
+    </div>
+
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
+    de Argentina/EPA vía
+    Shutterstock</span>](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz" itemprop="name">Marcelo J. García</span> y <span class="css-1baulvz last-byline" itemprop="name">Jordana Timerman</span>
+    
+    ## [¿Por qué no explota Argentina?](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
+    
+    Lecciones de 2001, una fuerte política social asistencialista y una
+    grieta política potente han alejado de momento otro estallido
+    social, pero solo una nueva política cooperativa podrá terminar de
+    disipar ese
+    fantasma.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Marcelo J. García</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Jordana
+    Timerman</span></span>
+    
+    </div>
+
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
     Cotti</span>](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -410,92 +456,49 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
-    Loureiro Fernandez para The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26Barrera-ES/merlin_170314122_3f1b8858-af1c-45e6-bbd1-e9a4e30fba75-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Alberto Barrera Tyszka</span>
-    
-    ## [Teoría y práctica del odio](/es/2020/07/26/espanol/opinion/nicmer-evans-venezuela.html)
-    
-    Hace tres años, el gobierno de Nicolás Maduro instauró una ley
-    contra el odio, un instrumento legal para promover la tolerancia en
-    Venezuela. Pero en la práctica se convirtió en lo contrario: una
-    forma eficaz para ejercer la violencia del Estado en contra de
-    cualquier
-    disidencia.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alberto
-    Barrera
-    Tyszka</span></span>
-    
-    </div>
-
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Giovan
-    Cordero Colon/Netflix vía Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/24/multimedia/24toro-ES/24toro-ES-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Ana Teresa Toro</span>
-    
-    ## [Walter Mercado después del amor](/es/2020/07/24/espanol/opinion/walter-mercado-amor-netflix.html)
-    
-    Un documental rinde tributo a una figura tan compleja y
-    contradictoria como los valores de la sociedad latinoamericana que
-    lo idolatró y que encontró en sus horóscopos una fuente de
-    esperanza. Pero también es una carta de amor a la nostalgia
-    compartida de toda una
-    región.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ana Teresa
-    Toro</span></span>
-    
-    </div>
-
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlos
-        Jasso/Reuters</span>](https://static01.nyt.com/images/2020/07/23/multimedia/23Fonseca-ES/merlin_172216524_7d574f61-d31a-4822-b54a-bd624033875b-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+        Loureiro Fernandez para The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26Barrera-ES/merlin_170314122_3f1b8858-af1c-45e6-bbd1-e9a4e30fba75-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Diego Fonseca</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Alberto Barrera Tyszka</span>
         
-        ## [El factor López-Gatell](/es/2020/07/23/espanol/opinion/lopez-gatell.html)
+        ## [Teoría y práctica del odio](/es/2020/07/26/espanol/opinion/nicmer-evans-venezuela.html)
         
-        La fractura de la imagen del portavoz del combate al coronavirus
-        de México no es solo producto de sus errores. Sus fallos son
-        producto del modelo de gestión de un gobierno más proclive a la
-        improvisación que a la
-        planeación.
+        Hace tres años, el gobierno de Nicolás Maduro instauró una ley
+        contra el odio, un instrumento legal para promover la tolerancia
+        en Venezuela. Pero en la práctica se convirtió en lo contrario:
+        una forma eficaz para ejercer la violencia del Estado en contra
+        de cualquier
+        disidencia.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Diego
-        Fonseca</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Alberto
+        Barrera
+        Tyszka</span></span>
         
         </div>
     
-    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
-        Kirn/The Image Bank, vía Getty
-        Images</span>](https://static01.nyt.com/images/2020/07/20/opinion/27reopen-ES/20jogee-videoLarge.jpg)
+    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brittainy
+        Newman/The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/28/opinion/28friedmanWeb/28friedmanWeb-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Shardha Jogee</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Thomas L. Friedman</span>
         
-        ## [¿Cómo reabrir la economía sin causar la muerte de padres y maestros?](/es/2020/07/27/espanol/opinion/reabrir-escuelas-riesgo-covid.html)
+        ## [Si nuestros cubrebocas pudieran hablar](/es/2020/07/30/espanol/opinion/usar-cubrebocas-politica.html)
         
-        Todas las clases deberían ser en línea, pero los edificios
-        todavía podrían cumplir un propósito importante para los niños
-        que más lo
-        necesitan.
+        ¿Cómo nos volvimos tan ineficaces para combatir al coronavirus?
+        Los arqueólogos del futuro que vinieran a excavar al país más
+        rico del mundo, encontrarían la clave en un artefacto sencillo:
+        la
+        mascarilla.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Shardha
-        Jogee</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Thomas L.
+        Friedman</span></span>
         
         </div>
 
@@ -525,6 +528,208 @@ story](#after-mid1)
 <div class="css-13mho3u">
 
 1.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/31/espanol/elecciones-2020-trump-mexico-violencia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/world/27Taiwan-Laundry-ES/24taiwan-laundry1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">El Times</span>
+    
+    ## Si sufre de desamor, presione 1
+    
+    Una carta póstuma, una tumba prehispánica y una antigua postal
+    francesa.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/30/espanol/estados-unidos/trump-retrasar-elecciones.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30Trump-elecciones-ES-1/30election-explainer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Elecciones 2020</span>
+    
+    ## Por qué Trump no puede postergar las elecciones de 2020
+    
+    Respondemos algunas preguntas clave sobre la realización de
+    elecciones durante una crisis. Y no, el presidente de Estados Unidos
+    no puede cancelar una elección por su cuenta.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Alexander Burns</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/30/us/politics/trump-postpone-election.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/29/espanol/estados-unidos/biden-vicepresidente.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/06/23/us/politics/29vpguide-ES-promo/merlin_173110821_c31a20b2-7096-4e01-9e02-a71f5bf4088c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Elecciones 2020</span>
+    
+    ## Joe Biden busca vicepresidenta y ellas son las 12 candidatas
+    
+    Esta es la lista de mujeres que han sido consideradas como
+    compañeras de fórmula por la campaña del virtual candidato
+    demócrata, Joe Biden. Este análisis reúne las ventajas y
+    desventajas de cada una.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Alexander Burns</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/article/biden-vice-president-2020.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/29/espanol/cultura/vincent-van-gogh-raices-arbol.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/arts/29VanGogh-ES-01/28van-gogh2-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## La última obra de Van Gogh esconde una pista sobre sus días finales
+    
+    Un investigador dice que ha descubierto la ubicación precisa donde
+    el artista pintó “Raíces de árbol”, que se cree fue la última obra
+    en la que trabajaba el día en que sufrió una herida mortal de bala.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Nina Siegal</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/29/espanol/america-latina/democracia-america-latina-pandemia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## América Latina se enfrenta a un retroceso de la democracia durante la pandemia
+    
+    El coronavirus está perjudicando los sistemas de salud y las
+    economías de la región. También amenaza sus frágiles libertades
+    políticas.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Anatoly Kurmanaev</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/29/world/americas/latin-america-democracy-pandemic.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -565,7 +770,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -609,7 +814,49 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Migraron para sacar a sus familias de la pobreza. Ahora necesitan ayuda
+    
+    La pandemia ha deteriorado los salarios de los trabajadores
+    inmigrantes, quienes envían menos remesas a sus hogares. Esto podría
+    generar un aumento de la pobreza en varias partes del mundo, de
+    América Latina al sur de Asia.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Peter S. Goodman</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -650,7 +897,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -682,249 +929,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes.com/2020/07/24/world/asia/taiwan-octogenarian-couple-instagram-laundry.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/regreso-a-clases-covid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/multimedia/28El-Times-01/merlin_174041610_d4f73384-4c3f-4b00-ad27-23632131a875-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">El Times</span>
-    
-    ## Volver a clases: modelos y alternativas en la pandemia
-    
-    ¿Es posible minimizar el riesgo de contagio y reabrir las
-    escuelas?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/estilos-de-vida/sombreros-toquilla-panama-ecuador.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/travel/28sombreros-toquilla-ES-00/20travel-panama-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">EL MUNDO A TRAVÉS DE UNA LENTE</span>
-    
-    ## Una visita a los talleres de los mejores fabricantes de sombreros en Ecuador
-    
-    Cremoso como la seda y más costoso que su peso en oro, un sombrero
-    de Panamá Montecristi superfino no solo es un accesorio de moda,
-    también es una obra de arte.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Roff Smith</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/20/travel/panama-hats-ecuador.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/27/espanol/estados-unidos/Trump-encuestas-elecciones.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/us/politics/27trump-encuestas-ES/21trump-polling-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Donald Trump tiene la solución para las encuestas desfavorables: recordarle a la  gente que estas se equivocan
-    
-    El presidente estadounidense ha comentado que los sondeos que no lo
-    muestran a la cabeza en la carrera por la reelección son falsos y
-    sus asesores han empezado a evitar darle malas noticias.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Annie Karni</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/22/us/politics/trump-polls-2020.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/27/espanol/ciencia-y-tecnologia/regreso-a-clases-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/12/science/27reopenschools-ES-00/00virus-schools-reopen01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Cómo reabrir las escuelas: lo que la ciencia y la experiencia de varios países nos enseñan
-    
-    La presión para que los estudiantes estadounidenses vuelvan a las
-    aulas es intensa, pero evaluar el riesgo es complicado cuando las
-    infecciones aún están fuera de control en muchas comunidades.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Pam Belluck, Apoorva Mandavilli
-    <span>y</span> Benedict Carey</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/11/health/coronavirus-schools-reopen.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/27/espanol/respira-mejor-con-estos-nueve-ejercicios.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/multimedia/27breathing-ES/19ah-breathe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Respira mejor con estos nueve ejercicios
-    
-    “No puedes estar por completo saludable a menos que estés respirando
-    correctamente”.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Kelly DiNardo</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html "Read in English")[Read
-    in
-    English](https://www.nytimes.com/2020/07/18/at-home/coronavirus-breathing-exercises.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/26/espanol/mundo/guerra-afganistan-mujeres.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/world/26afghan-hero-ES-1/22afghan-hero01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## La heroica batalla de una joven contra los talibanes también fue una riña familiar
-    
-    Una adolescente afgana fue celebrada por matar a los talibanes que
-    atacaron su hogar. Pero la historia de su heroísmo está llena de
-    dolor y revela los complicados matices de la guerra en Afganistán.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Asadullah Timory, Najim Rahim
-    <span>y</span> Mujib Mashal</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/22/world/asia/afghan-hero-woman-taliban.html "Read in English")
     
     </div>
     

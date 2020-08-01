@@ -76,9 +76,9 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">We
-Lost the Battle for the Republican Party’s Soul Long
-Ago</span>
+<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">I
+Hope This Is Not Another Lie About the Republican
+Party</span>
 
 </div>
 
@@ -194,12 +194,11 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# We Lost the Battle for the Republican Party’s Soul Long Ago
+# I Hope This Is Not Another Lie About the Republican Party
 
 </div>
 
-Only fear will motivate the party to change — the cold fear only defeat
-can bring.
+But it might be lost forever.
 
 <div class="css-18e8msd">
 
@@ -256,7 +255,7 @@ Mr. Stevens is a Republican political consultant.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Kevin
-Lamarque/Reuters</span></span></span>](https://static01.nyt.com/images/2020/07/28/opinion/28Stevens2/merlin_174249147_b661b850-6097-4221-bd90-92f37ce14c77-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Lamarque/Reuters</span></span></span>](https://static01.nyt.com/images/2020/07/31/opinion/28Stevens2-print/merlin_174249147_b661b850-6097-4221-bd90-92f37ce14c77-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

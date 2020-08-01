@@ -55,7 +55,8 @@ News](https://www.nytimes.com/section/us)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ News](https://www.nytimes.com/section/us)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-us" class="section css-15h4p1b e9abtgs0">
 
@@ -155,108 +131,102 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
-    Trinca for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
+    Mast for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-thumbStandard.jpg)](/2020/07/29/us/protests-portland-federal-withdrawal.html)
+    [![](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-thumbStandard.jpg)](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
     
     </div>
     
-    ## [Federal Agents Agree to Withdraw From Portland, With Conditions](/2020/07/29/us/protests-portland-federal-withdrawal.html)
+    ## [A School Reopens, and the Coronavirus Creeps In](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
     
-    Gov. Kate Brown of Oregon said the teams will begin a withdrawal on
-    Thursday. Federal officials cautioned that they will withdraw only
-    when they are confident the federal courthouse can be
-    secured.
+    As more schools abandon plans for in-person classes, one that opened
+    in Indiana this week had to quarantine students within
+    hours.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Baker</span></span>
+    <span class="css-1baulvz" itemprop="name">Eliza Shapiro</span>,
+    <span class="css-1baulvz" itemprop="name">Giulia McDonnell Nieto del
+    Rio</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Shawn
+    Hubler</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
-        Yang for The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/23/us/00floyd-memorial1/00floyd-memorial1-threeByTwoMediumAt2X-v2.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
+        Widmer for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/23/us/00floyd-memorial1/00floyd-memorial1-thumbStandard-v2.jpg)](/2020/07/29/us/george-floyd-memorial.html)
+        [![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbStandard.jpg)](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
         
         </div>
         
-        ## [Where George Floyd Was Killed: Solemn by Day, Violent by Night](/2020/07/29/us/george-floyd-memorial.html)
+        ## [After Plummeting, the Virus Soars Back in the Midwest](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
         
-        Two months after the killing of Mr. Floyd, a South Minneapolis
-        neighborhood remains a police-free
-        zone.
+        States like Missouri, Illinois and Wisconsin are riding a
+        frustrating seesaw during the pandemic, with new coronavirus
+        cases rising again after apparent
+        progress.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Tim Arango</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Matt
-        Furber</span></span>
+        <span class="css-1baulvz" itemprop="name">Julie Bosman</span>,
+        <span class="css-1baulvz" itemprop="name">Manny Fernandez</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Thomas
+        Fuller</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
-        Trinca for The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/28/us/28PROTESTS-FACTCHECK01/merlin_175027512_55f858b6-0b1d-4a49-84ea-b2ae2a4e9109-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/28/us/28PROTESTS-FACTCHECK01/merlin_175027512_55f858b6-0b1d-4a49-84ea-b2ae2a4e9109-thumbStandard.jpg)](/2020/07/28/us/portland-protests-fact-check.html)
+        [![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbStandard.jpg)](/2020/08/01/us/hurricane-isaias-updates.html)
         
         </div>
         
-        ## [Fact Check: How Violent Are the Portland Protests?](/2020/07/28/us/portland-protests-fact-check.html)
+        ## [Hurricane Isaias Live Updates: Storm Churns Toward Florida After Hitting Bahamas](/2020/08/01/us/hurricane-isaias-updates.html)
         
-        Attorney General William P. Barr said protesters had used
-        fireworks, Tasers, pellet guns and lasers to target federal
-        officers in
-        Portland.
+        The Category 1 storm may hit Florida’s coast, further testing a
+        state that has been battered by the coronavirus
+        pandemic.
         
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Nicholas
-        Bogel-Burroughs</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
-        Trinca for The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-unrest-feds/28dc-unrest-feds-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cassandra
+        Klos for The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/31/us/31bostonbomber/31bostonbomber-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-unrest-feds/28dc-unrest-feds-thumbStandard.jpg)](/2020/07/28/us/federal-agents-portland-seattle-protests.html)
+        [![](https://static01.nyt.com/images/2020/07/31/us/31bostonbomber/31bostonbomber-thumbStandard.jpg)](/2020/07/31/us/dzhokhar-tsarnaev-boston-marathon-bomber.html)
         
         </div>
         
-        ## [From the Start, Federal Agents Demanded a Role in Suppressing Anti-Racism Protests](/2020/07/28/us/federal-agents-portland-seattle-protests.html)
+        ## [Boston Marathon Bomber’s Death Sentence Is Thrown Out by Court](/2020/07/31/us/dzhokhar-tsarnaev-boston-marathon-bomber.html)
         
-        Twin government memos show how a gung-ho federal law enforcement
-        response to anti-racism protests may have been driven by a shaky
-        understanding of the demonstrations’
-        roots.
+        Dzhokhar Tsarnaev, who was convicted after bombings that killed
+        three people and wounded more than 260, will receive a new
+        penalty-phase
+        trial.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Zolan
-        Kanno-Youngs</span>,
-        <span class="css-1baulvz" itemprop="name">Sergio Olmos</span>,
-        <span class="css-1baulvz" itemprop="name">Mike Baker</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Adam
-        Goldman</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Ellen
+        Barry</span></span>
         
         </div>
 
@@ -282,110 +252,6 @@ story](#after-mid1)
 <div id="after-mid1">
 
 </div>
-
-</div>
-
-<div class="section 5-band css-jhqenn ep7jkp60">
-
-## [Coronavirus (US)](/spotlight/coronavirus)
-
-[More in Coronavirus (US)
-    »](/spotlight/coronavirus)
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Darron
-    Cummings/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/29/obituaries/Kernan/merlin_175064295_8651f784-a71d-41b2-a7b1-896b022d5949-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Joseph Kernan, Vietnam P.O.W. and Indiana Governor, Dies at 74](/2020/07/29/us/politics/joseph-kernan-dead-coronavirus.html)
-    
-    He spent 11 months in a North Vietnamese prison after his plane was
-    downed. He was later a long-serving mayor of South Bend. He died of
-    Covid-19.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sam
-    Roberts</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Philip
-    Cheung for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/us/29testingcaliforniatoday/merlin_174940851_c1f7da5d-b606-42df-af20-75934f341c9d-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Californians Support Black Lives Matter and Wearing Masks](/2020/07/29/us/california-coronavirus-demographics.html)
-    
-    Wednesday: A recent survey shows Californians are largely aligned,
-    but differences of opinion reflect disparities. Also: L.G.B.T.Q.
-    coronavirus data; and Emmy
-    nominations.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jill
-    Cowan</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-memo/29dc-memo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Divided and Demoralized on Virus Aid, Republicans Ask, ‘What’s in the Bill?’](/2020/07/29/us/politics/republicans-congress-virus-aid.html)
-    
-    Senators in the party are “all over the lot” on the pandemic bill as
-    jobless benefits run out and the fate of any legislative deal
-    remains
-    uncertain.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carl
-    Hulse</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [More Than 6,300 Coronavirus Cases Have Been Linked to U.S. Colleges](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
-    
-    A Times survey of hundreds of schools represents the most
-    comprehensive look at the toll the virus has already taken on the
-    country’s colleges and
-    universities.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Weiyi Cai</span>,
-    <span class="css-1baulvz" itemprop="name">Danielle Ivory</span>,
-    <span class="css-1baulvz" itemprop="name">Mitch Smith</span>,
-    <span class="css-1baulvz" itemprop="name">Alex Lemonides</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Lauryn
-    Higgins</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/28dc-trump/merlin_175050237_6bf3bb40-8729-4112-9c5a-7609be5f66fe-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Nobody Likes Me,’ Trump Complains, Renewing Defense of Dubious Science](/2020/07/28/us/politics/trump-nobody-likes-me-walks-out-briefing.html)
-    
-    The president lamented that his poll numbers were lower than those
-    of his top science advisers. “It can only be my personality,” he
-    said.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Crowley</span></span>
-    
-    </div>
 
 </div>
 
@@ -418,23 +284,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/tempe-train-bridge-fire.html)
+    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/multimedia/29xp-bridge/29xp-bridge-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Freight Train Catches Fire and Derails in Arizona
+    ## What’s Going On With TikTok? Here’s What We Know
     
-    The derailment, on a bridge over a lake in Tempe, caused part of the
-    bridge to collapse, the authorities said. No injuries were reported.
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all here.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Johnny
-    Diaz</span>
+    By <span class="css-1n7hynb">David
+    McCabe</span>
     
     </div>
     
@@ -452,26 +318,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007262407/umbrella-man-minneapolis-video.html)
+    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/us/28umbrellaman/28umbrellaman-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Biden Faces Pressure From Left Over Influence Industry Ties
     
-    ## Video Shows ‘Umbrella Man’ Smashing Windows in Minneapolis
-    
-    The police in Minneapolis said they have linked a man dressed in
-    black, wearing a gas mask and holding an umbrella, to a white
-    supremacy group, and accused him of trying to provoke violence.
+    Many of his aides and close allies are veteran Washington hands who
+    have profited from advising big corporations. The Sanders-Warren
+    wing of the party is not happy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Twitter</span>
+    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
+    Thrush</span>
     
     </div>
     
@@ -489,24 +353,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/americas/united-nations-portland-protests.html)
+    [](/2020/08/01/us/eid-al-adha-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/world/29un-protest/merlin_174823956_d754649b-e487-4dcd-968a-ea82b04851fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.N. Panel Takes Aim at Heavy-Handed Police Tactics at Protests
+    ### <span class="css-m70j1g">Race/Related</span>
     
-    The comments by the United Nations Human Rights Committee come as
-    the Trump administration faces growing criticism for deploying
-    federal agents to confront Black Lives Matter protesters.
+    ## Celebrating Eid al-Adha Amid a Pandemic
+    
+    With socially distanced gatherings now the norm, we talked to a few
+    people about how they planned to celebrate one of Islam’s holiest
+    days.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nick
-    Cumming-Bruce</span>
+    By <span class="css-1n7hynb">Fahima
+    Haque</span>
     
     </div>
     
@@ -524,23 +390,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/wisconsin-tim-carpenter-attacked.html)
+    [](/2020/08/01/us/politics/trump-books.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/us/29xp-unrest-wisconsin/29xp-unrest-wisconsin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Two Women Charged in Attack on Wisconsin State Senator
+    ### <span class="css-m70j1g">News Analysis</span>
     
-    Tim Carpenter said he was punched and kicked after he recorded video
-    of demonstrators at a protest in the capital, Madison, last month.
+    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
+    
+    A large club of Trump administration evictees have turned their
+    bracingly bad experiences into a new genre: political revenge
+    literature.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christine
-    Hauser</span>
+    By <span class="css-1n7hynb">Sarah
+    Lyall</span>
     
     </div>
     
@@ -558,26 +427,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/obituaries/renada-mcguire-dead-coronavirus.html)
+    [](/2020/08/01/science/nasa-spacex-astronauts.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/27McGuire/27McGuire-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## SpaceX Crew Dragon to Bring 2 NASA Astronauts Home
     
-    ## Renada McGuire, Resilient Home Health Aide, Dies at 39
-    
-    She decided to work with adults with mental disabilities after
-    giving birth to a child with challenges. She died of complications
-    of the novel coronavirus.
+    Bob Behnken and Doug Hurley are getting ready to splash down after
+    two months in orbit.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Aaron
-    Randle</span>
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
     
     </div>
     
@@ -595,25 +461,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007262683/tempe-arizona-train-fire.html)
+    [](/video/us/100000007268424/desantis-florida-hurricane-isaias.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/multimedia/29xp-bridge/29xp-bridge-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    ## Video Shows Burning Freight Train on Arizona Bridge
+    ## Florida Governor Cautions Vigilance as Hurricane Isaias Approaches
     
-    A freight train derailed and caught fire as it crossed a bridge in
-    Tempe, Ariz., causing it to partially collapse.
+    Gov. Ron DeSantis said he had issued a state of emergency for
+    counties on Florida’s east coast, and that President Trump approved
+    FEMA assistance for the state.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Storyful</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -631,26 +498,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/obituaries/katherine-hoffman-dead-coronavirus.html)
+    [](/2020/08/01/obituaries/eddie-negron-dead-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/27Hoffman/27Hoffman-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Those We’ve Lost</span>
     
-    ## Katherine Hoffman, ‘Eternal’ Florida State Figure, Dies at 105
+    ## Dr. Eddie Negrón, a Physician Full of Fun, Is Dead at 69
     
-    From the 1930s to the 2010s, as a student, professor and
-    distinguished alumna, she was a model citizen in support of the
-    school. She died of Covid-19.
+    Friends remember his jokes and his dancing as well as his medical
+    care. He died of the novel coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alex
-    Traub</span>
+    By <span class="css-1n7hynb">Neil
+    Genzlinger</span>
     
     </div>
     
@@ -668,24 +534,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/protests-portland-federal-withdrawal.html)
+    [](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Federal Agents Agree to Withdraw From Portland, With Conditions
+    ## After Plummeting, the Virus Soars Back in the Midwest
     
-    Gov. Kate Brown of Oregon said the teams will begin a withdrawal on
-    Thursday. Federal officials cautioned that they will withdraw only
-    when they are confident the federal courthouse can be secured.
+    States like Missouri, Illinois and Wisconsin are riding a
+    frustrating seesaw during the pandemic, with new coronavirus cases
+    rising again after apparent progress.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike
-    Baker</span>
+    By <span class="css-1n7hynb">Julie Bosman, Manny Fernandez
+    <span>and</span> Thomas
+    Fuller</span>
     
     </div>
     
@@ -703,26 +570,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/politics/100000007262236/congress-tech-antitrust-hearings-live.html)
+    [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/business/29techhearing-video/29techhearing-video-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
     
-    ## Watch Live: Tech C.E.O.s Testify Before Congress
-    
-    Jeff Bezos of Amazon, Tim Cook of Apple, Mark Zuckerberg of Facebook
-    and Sundar Pichai of Google will answer questions from House
-    lawmakers about their business practices.
+    House Republicans are on the defensive in suburban strongholds as
+    voters reject President Trump’s handling of the coronavirus and
+    calls for racial justice.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Reuters</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
+    Edmondson</span>
     
     </div>
     
@@ -740,22 +605,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    [](/2020/08/01/us/robert-gnaizda-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/obituaries/Gnaizda-1/Gnaizda-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The New College Drop-Off
+    ## Robert Gnaizda, Lawyer Who Fought for Social Justice, Dies at 83
     
-    A bittersweet family tradition has become an exercise in risk
-    assessment, logistics and trying to understand ever-changing rules.
+    He challenged redlining banks, employers who discriminated in hiring
+    and, early in his career, Southern counties that thwarted Black
+    voters.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Weed</span>
+    By <span class="css-1n7hynb">Sam Roberts</span>
     
     </div>
     

@@ -142,93 +142,90 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
+    Bureau/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [A Handbook to Today’s Tech Hearing](/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
+    ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
     
-    The C.E.O.s are likely to argue before Congress that their companies
-    aren’t anticompetitive. Here are the
-    facts.
+    The Trump administration has said the video app poses security
+    concerns because of its Chinese
+    ownership.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jack Nicas</span>,
-    <span class="css-1baulvz" itemprop="name">Daisuke
-    Wakabayashi</span>, <span class="css-1baulvz" itemprop="name">Karen
-    Weise</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Isaac</span></span>
+    <span class="css-1baulvz" itemprop="name">Raymond Zhong</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Steve
+    Lohr</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
-    Harvey</span>](https://static01.nyt.com/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### tech fix
-    
-    ## [How to Fight Against Big Tech’s Power](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+    ## [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](/2020/07/31/technology/twitter-hack-arrest.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-thumbStandard.gif)](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+    [![](https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/31twitter1-thumbStandard.jpg)](/2020/07/31/technology/twitter-hack-arrest.html)
     
     </div>
     
-    We are beholden to a few Big Tech overlords for much of our digital
-    lives. We can be more conscientious about
-    it.
+    The authorities arrested a 17-year-old who they said ran a scheme
+    that targeted the accounts of celebrities, including former
+    President Barack Obama and Elon Musk. Two others were also
+    charged.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
+    Popper</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Misleading Virus Video, Pushed by the Trumps, Spreads Online](/2020/07/28/technology/virus-video-trump.html)
+    ## [‘Hey, You Free on Friday for a Meeting and a Bank Heist?’](/2020/07/31/business/video-game-meetings.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/07/28/business/28virus-disinfo/28virus-disinfo-thumbStandard.jpg)](/2020/07/28/technology/virus-video-trump.html)
+    [![](https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbStandard-v2.jpg)](/2020/07/31/business/video-game-meetings.html)
     
     </div>
     
-    Social media companies took down the video within hours. But by
-    then, it had already been viewed tens of millions of
-    times.
+    Eager for an alternative to Zoom, executives are getting together in
+    video games, to bond, brainstorm or
+    rampage.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Sheera Frenkel</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Davey
-    Alba</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Segal</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
-    Brenner/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/merlin_136662141_d00edf4e-32e1-4792-838d-be6203b96ea3-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenny
+    Brandenberger</span>](https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ### on tech
     
-    ## [Congress Doesn’t Get Big Tech. By Design.](/2020/07/29/technology/congress-big-tech.html)
+    ## [Amazon Wins Without Even Trying](/2020/07/31/technology/amazon-earnings.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/07/29/business/29OnTech-congress-NL/29OnTech-congress-NL-thumbStandard.jpg)](/2020/07/29/technology/congress-big-tech.html)
+    [![](https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-thumbStandard.jpg)](/2020/07/31/technology/amazon-earnings.html)
     
     </div>
     
-    Members of Congress may say dumb things at the tech hearing, but
-    it’s not necessarily their
-    fault.
+    As America’s economy suffers, Big Tech does shockingly
+    well.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Shira
@@ -268,7 +265,42 @@ story](#after-mid1)
 [More in Personal Technology
     »](/section/technology/personaltech)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    SRI
+    International</span>](https://static01.nyt.com/images/2020/07/30/obituaries/Obit-English1/Obit-English1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [William English, Who Helped Build the Computer Mouse, Dies at 91](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
+    
+    He was one of the computing pioneers who “showed what a computer
+    interface could — and should — look like,” a colleague
+    said.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Cade
+    Metz</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+    Harvey</span>](https://static01.nyt.com/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How to Fight Against Big Tech’s Power](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
+    
+    We are beholden to a few Big Tech overlords for much of our digital
+    lives. We can be more conscientious about
+    it.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -284,8 +316,8 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
-    Noronha</span>](https://static01.nyt.com/images/2020/07/23/travel/23aipassport/23aipassport-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
+    Noronha</span>](https://static01.nyt.com/images/2020/08/01/travel/23aipassport/23aipassport-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -301,7 +333,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.nyt.com/images/2020/07/22/technology/personaltech/22TECHTIP_TOP/22TECHTIP_TOP-videoLarge.jpg)
     
@@ -315,42 +347,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">J. D.
     Biersdorfer</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
-    Blake/Reuters</span>](https://static01.nyt.com/images/2020/07/17/business/17WHEELS1/merlin_146064276_97aea028-0fa5-44a4-8ad0-7a642ae3199a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Letting Your Insurer Ride Shotgun, for a Discounted Rate](/2020/07/16/business/car-insurance-app-discounts.html)
-    
-    Most big car insurers offer apps that monitor your driving, and one
-    start-up requires it. The trade-off in privacy is a premium that
-    could be substantially cheaper for safe
-    drivers.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paul
-    Stenquist</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
-    Harvey</span>](https://static01.nyt.com/images/2020/07/16/business/16Techfix-illo/15Techfix-illo-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [You’re Doomscrolling Again. Here’s How to Snap Out of It.](/2020/07/15/technology/personaltech/youre-doomscrolling-again-heres-how-to-snap-out-of-it.html)
-    
-    In a pandemic that forces us to stay home, bingeing on
-    doom-and-gloom news feels irresistible. These health experts offer
-    ways to break the
-    habit.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
     
     </div>
 
@@ -385,24 +381,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/technology/trump-fcc-twitter-facebook.html)
+    [](/2020/08/01/technology/gedmatch-breach-privacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/business/29DC-TrumpCensor/merlin_172932390_d5abf51f-906e-4707-872e-6e1be2d64d43-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Commerce Department Asks F.C.C. to Narrow Protections for Web Platforms
+    ## Why a Data Breach at a Genealogy Site Has Privacy Experts Worried
     
-    The request comes as President Trump continues to accuse tech
-    platforms like Facebook and Twitter of suppressing conservative
-    content.
+    Nearly two-thirds of GEDmatch’s users opt out of helping law
+    enforcement. For a brief window this month, that didn’t matter.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Heather
+    Murphy</span>
     
     </div>
     
@@ -420,24 +415,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/world/europe/turkey-social-media-control.html)
+    [](/2020/07/31/technology/tiktok-microsoft.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/world/29turkey-social-media01/29turkey-social-media01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Turkey Passes Law Extending Sweeping Powers Over Social Media
+    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
     
-    The legislation extends control over platforms like Facebook,
-    Twitter and YouTube. Critics worry it will be used to stifle dissent
-    and criticism of the government.
+    The discussions come as TikTok’s ownership by a Chinese company is
+    under scrutiny by the White House and lawmakers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marc
-    Santora</span>
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Alan
+    Rappeport</span>
     
     </div>
     
@@ -455,24 +450,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/business/media/universal-amc-movies-at-home.html)
+    [](/2020/07/31/style/randonautica-app.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/28virus-movierelease-2/28virus-movierelease-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Universal’s Theatrical Releases Will Quickly Be Available in Homes
+    ## What Is Randonautica Really About?
     
-    The studio agreed to a deal with AMC, the world’s biggest theater
-    chain, to shorten the exclusive window for new movies to 17 days
-    from 90, likely changing the way Hollywood does business.
+    An app that generates coordinates for adventurers claims to turn
+    your thoughts into reality. TikTok and YouTube creators want you to
+    believe it — but you shouldn’t.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks Barnes <span>and</span> Nicole
-    Sperling</span>
+    By <span class="css-1n7hynb">Lena
+    Wilson</span>
     
     </div>
     
@@ -490,25 +485,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/technology/amazon-jeff-bezos.html)
+    [](/2020/07/31/technology/blocking-the-tech-giants.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/28ontech/28ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">on Tech</span>
+    ## I Tried to Live Without the Tech Giants. It Was Impossible.
     
-    ## Amazon Is Jeff Bezos
-    
-    Bezos built Amazon into a central force in the world. This week
-    he’ll have to answer for it.
+    As lawmakers debate whether Apple, Google, Facebook, and Amazon are
+    monopolies, a reporter recalls her attempt to avoid interacting with
+    the companies.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
+    By <span class="css-1n7hynb">Kashmir
+    Hill</span>
     
     </div>
     
@@ -526,23 +520,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html)
+    [](/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/28drivers-1/28drivers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Uber and Lyft Drivers Win Ruling on Unemployment Benefits
+    ## The Economy Is in Record Decline, but Not for the Tech Giants
     
-    A federal judge’s decision in New York is a key victory in efforts
-    to secure the protections extended to other workers.
+    Even though the tech industry’s four biggest companies were stung by
+    a slowdown in spending, they reported a combined $28 billion in
+    profits on Thursday.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Noam
-    Scheiber</span>
+    By <span class="css-1n7hynb">Daisuke Wakabayashi, Karen Weise, Jack
+    Nicas <span>and</span> Mike
+    Isaac</span>
     
     </div>
     
@@ -560,23 +556,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/technology/apple-app-store-airbnb-classpass.html)
+    [](/2020/07/30/technology/big-tech-backlash.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/28virus-apple1/28virus-apple1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/business/30ontech/30ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Their Businesses Went Virtual. Then Apple Wanted a Cut.
+    ### <span class="css-m70j1g">on tech</span>
     
-    After Airbnb and ClassPass began selling virtual classes because of
-    the pandemic, Apple tried to collect its commission on the sales.
+    ## Big Tech’s Backlash Is Just Starting
+    
+    The congressional antitrust hearing showed that concerns about the
+    tech stars aren’t going away.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jack Nicas <span>and</span> David
-    McCabe</span>
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
     
     </div>
     
@@ -594,24 +592,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/technology/amazon-apple-facebook-google-antitrust-hearing.html)
+    [](/2020/07/30/technology/big-tech-ceos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/24/business/24TECHCEOS-GRID/24TECHCEOS-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/business/31roose/31roose-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Amazon, Apple, Facebook and Google Prepare for Their ‘Big Tobacco Moment’
+    ### <span class="css-m70j1g">The Shift</span>
     
-    The tech C.E.O.s will appear together at a congressional hearing on
-    Wednesday to argue that their companies do not stifle competition.
+    ## Grilled by Lawmakers, Big Tech Turns Up the Gaslight
+    
+    It is less clear that tech executives’ strategy of evasive answers
+    will continue to work now that lawmakers have begun doing their
+    homework.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Cecilia Kang, Jack Nicas
-    <span>and</span> David
-    McCabe</span>
+    By <span class="css-1n7hynb">Kevin
+    Roose</span>
     
     </div>
     
@@ -629,29 +629,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/style/challenge-accepted-instagram.html)
+    [](/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/fashion/27CHALLENGEACCEPTED-2/27CHALLENGEACCEPTED-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/24/business/00eutech/00eutech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Challenge Accepted’: Why Women Are Posting Black-and-White Selfies
+    ## ‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power
     
-    A campaign that purports to be about “women supporting women” is
-    filling people’s Instagram feeds with striking, if opaque, imagery.
+    The region’s lawmakers and regulators are taking direct aim at
+    Amazon, Facebook, Google and Apple in a series of proposed laws.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor Lorenz</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes.com/es/2020/07/28/espanol/estilos-de-vida/reto-selfi-blanco-negro.html "Read in Spanish")
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
     
     </div>
     
@@ -669,25 +663,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/technology/tiktok-data-privacy.html)
+    [](/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/business/27ontech-bluebg-copy/27ontech-bluebg-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">on tech</span>
+    ## Lawmakers, United in Their Ire, Lash Out at Big Tech’s Leaders
     
-    ## What to Do About TikTok
-    
-    Instead of banning the app, U.S. officials could force it to be more
-    transparent.
+    The chiefs of Amazon, Apple, Google and Facebook faced withering
+    questions from Democrats about anti-competitive practices and from
+    Republicans about anti-conservative bias.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
+    By <span class="css-1n7hynb">Cecilia Kang <span>and</span> David
+    McCabe</span>
     
     </div>
     
@@ -705,24 +698,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/business/fashion-masks-coronavirus.html)
+    [](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/25virus-japan-masks-1/25virus-japan-masks-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## We’ll Be Wearing Masks for a While. Why Not Make Them Nice?
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    Motorized air purifiers and heated sanitizers. Breathable fabrics
-    and chic prints. With face coverings here to stay, consumers are
-    starting to demand more than cheap throwaways.
+    ## Titans of Tech Testify in Their Trust-Me Suits
+    
+    It’s a tongue twister, but also a strategy. Jeff Bezos, Mark
+    Zuckerberg, Tim Cook and Sundar Pichai appeared before Congress and
+    dressed the part.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben Dooley <span>and</span> Hisako
-    Ueno</span>
+    By <span class="css-1n7hynb">Vanessa Friedman</span>
     
     </div>
     

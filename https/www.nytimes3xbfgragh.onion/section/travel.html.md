@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-travel" class="section css-15h4p1b e9abtgs0">
 
@@ -160,11 +136,48 @@ Go](/interactive/2020/travel/places-to-visit.html)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
-    Taylor for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-jumbo-v2.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Should I Travel This Year?](/interactive/2020/07/31/travel/coronavirus-travel-risk.html)
+    
+    Travel looks very different in 2020. Here are some questions to help
+    you consider the risks to yourself and others if you take a
+    trip.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Sara Aridi</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Umi
+    Syam</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
+    Air</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Afraid of Airlines? There’s Always the Private Jet](/2020/07/30/travel/private-jets-coronavirus.html)
+    
+    Concerned about virus-related safety on commercial planes, many
+    fliers are turning to private jets for the first time. The catch, of
+    course, is the
+    price.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sally
+    French</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+    Taylor for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The New College Drop-Off](/2020/07/29/travel/virus-college-travel-restrictions.html)
     
@@ -178,7 +191,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
     Abd El
     Ghany/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/travel/00Future-trips-virus01/00Future-trips-virus01-videoLarge.jpg)
     
@@ -197,13 +210,19 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### The World Through a Lens
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/27travel-michigan-promo/27travel-michigan-promo-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### The World Through a Lens
     
     ## [On the Lookout for Moose on Michigan’s Isle Royale](/2020/07/27/travel/moose-michigan-isle-royale.html)
     
@@ -217,7 +236,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
     Dominis/The LIFE Picture Collection, via Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26ah-dance2/26ah-dance2-videoLarge.jpg)
     
@@ -235,13 +254,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
     Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -256,43 +269,6 @@ Go](/interactive/2020/travel/places-to-visit.html)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
     Koch</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
-    Noronha</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23aipassport/23aipassport-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards, Temperature-Reading Glasses and More](/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
-    
-    Products that rely on artificial intelligence aim to make travel
-    safer during the pandemic. But hefty prices and privacy concerns are
-    issues.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Debra
-    Kamin</span></span>
-    
-    </div>
-
-3.  ### Tripped Up
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Wanda
-    Gogusey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/travel/25TrippedUp/24TrippedUp-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Help\! My Ship Is Supposedly Still Sailing, and I Don’t Want to Be On Board](/2020/07/22/travel/virus-cruise-refunds.html)
-    
-    The future of the cruise industry remains very unclear, so it’s not
-    totally unreasonable to be anxious about what next spring will look
-    like.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Firshein</span></span>
     
     </div>
 
@@ -474,7 +450,25 @@ story](#after-mid1)
 [More in Tripped Up
     »](/column/tripped-up)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reyna
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Wanda
+    Gogusey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/travel/25TrippedUp/24TrippedUp-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Help\! My Ship Is Supposedly Still Sailing, and I Don’t Want to Be On Board](/2020/07/22/travel/virus-cruise-refunds.html)
+    
+    The future of the cruise industry remains very unclear, so it’s not
+    totally unreasonable to be anxious about what next spring will look
+    like.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Firshein</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reyna
     Noriega</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/travel/13trippedup-sonoma-hotel-rev/07trippedup-sonoma-hotel-rev-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -492,7 +486,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karlotta
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karlotta
     Freier</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/18/travel/18tripped-up-rev/18tripped-up-rev-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -510,7 +504,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
     Kim</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/25/travel/26trippedup-OAT/26trippedup-OAT-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -527,7 +521,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
     Green</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/03/travel/03TrippedUp-airline-refunds/03TrippedUp-airline-refunds-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -538,23 +532,6 @@ story](#after-mid1)
     refunds into the ground: It’s a big deal and there’s lots of
     confusion and contradictory information out
     there.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Firshein</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chelsea
-    Beck</span>](https://static01.graylady3jvrrxbe.onion/images/2020/03/22/travel/22TRIPPED-plans-stuck/22TRIPPED-plans-stuck-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Help\! The Coronavirus Struck and I Want a Refund](/2020/04/11/travel/coronavirus-travel-trip-refunds.html)
-    
-    In this week’s column, Sarah Firshein investigates the ever-changing
-    refund policies offered by travel
-    companies.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -614,6 +591,106 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/style/randonautica-app.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What Is Randonautica Really About?
+    
+    An app that generates coordinates for adventurers claims to turn
+    your thoughts into reality. TikTok and YouTube creators want you to
+    believe it — but you shouldn’t.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lena
+    Wilson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
+    more.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/nyregion/coronavirus-nyc-tourism-restaurants.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Food Tourists Trickle In to New York’s Pandemic Dining Scene
+    
+    Visitors — as long as they don’t come from a quarantine state — are
+    enjoying the city’s rooftop bars and sidewalk restaurants.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alyson
+    Krueger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
     
     <div class="css-79elbk">
@@ -645,7 +722,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -680,7 +757,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -714,7 +791,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -748,7 +825,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -783,7 +860,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -818,7 +895,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -840,114 +917,7 @@ story](#after-mid2)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Bryan Pietsch <span>and</span>
-    Christina
-    Morales</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/world/asia/thailand-monkeys.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/26monkeys-dispatch1/merlin_174060687_ac420efb-4bb8-4e0c-9ebe-727d5f66ca2e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Thailand Dispatch</span>
-    
-    ## These Monkeys Were Once Revered. Now They Are Taking Over.
-    
-    The monkeys of Lopburi, Thailand, were once a draw for tourists and
-    pilgrims who would feed them. But with few recent visitors, the
-    monkeys are getting hungry — and aggressive.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Hannah
-    Beech</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/parenting/summer-staycation-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24-par-vacation-city/24-par-vacation-city-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Making the Most of a Pandemic Staycation
-    
-    Families who stayed put in cities during the pandemic are
-    rediscovering new ways to appreciate their neighborhoods and even
-    their homes.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christina
-    Caron</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/nyregion/coronavirus-quick-escapes-nyc.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/nyregion/26nyvirus-nycescapes1/26nyvirus-nycescapes1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 5 New Yorkers Escaped the City for Fresh Air and Space. Was It Worth It?
-    
-    Interviews with those who are risking the unknown — taking the
-    train, commingling with strangers — to grab some fresh air and
-    space.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alix Strauss</span>
+    Christina Morales</span>
     
     </div>
     

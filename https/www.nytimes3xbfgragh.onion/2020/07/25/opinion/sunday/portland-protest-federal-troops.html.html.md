@@ -332,8 +332,8 @@ leaving him blinded and coughing on his own streets.
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Portland’s
 mayor, Ted Wheeler, reacting after being exposed to tear gas fired by
 federal officers while attending a protest against police brutality and
-racial injustice in front of the Federal District Courthouse on
-Wednesday. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nathan
+racial injustice in front of the Federal District Courthouse last
+week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nathan
 Howard/Getty
 Images</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/26kristof7/merlin_174863331_0ab42c01-8481-4a74-b3b9-64e7286ff986-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 

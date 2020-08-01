@@ -228,8 +228,8 @@ Opinion Columnist
 
 </div>
 
-  - July 29, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - July 29,
+    2020
 
   - 
     
@@ -263,8 +263,8 @@ Opinion Columnist
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Getty
-Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29manjooWeb/29manjooWeb-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Michael
+Houtz</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29manjoo_web/29manjoo_web-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -274,9 +274,29 @@ Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
 
+<div class="audioFigureHeading">
+
+### Listen to This Op-Ed
+
+<span class="css-16qbtva">Audio Recording by Audm</span>
+
+</div>
+
+<div class="css-qe9gm7">
+
+<div>
+
+</div>
+
+</div>
+
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+*To hear more audio stories from publishers like The New York Times,
+download*[*Audm for iPhone or
+Android*](https://www.audm.com/?utm_source=nytopinion&utm_medium=embed&utm_campaign=know_human_wrote)*.*
 
 I’ve never really worried that computers might be gunning for my job. To
 tell the truth, often, I pray for it. How much better would my life be —

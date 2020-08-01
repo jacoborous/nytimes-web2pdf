@@ -280,15 +280,104 @@ bars
 
 </div>
 
+<div class="css-fnovkn e1gfokfg0">
+
+<span class="css-1ly73wi e1tej78p0">Previous</span>
+
+<div class="css-1s78rjm e1gfokfg1">
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-hoe9xz">
+
+<span class="css-nxkttv">More episodes
+of</span><span class="css-19zi9mh">Nice White
+Parents</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbLarge.jpg)](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial-2.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 30, 2020<span>  <span class="css-orcm78">•</span> 
+53:37</span><span class="css-i5svdo">‘I Still Believe in
+It’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbLarge.jpg)](https://www.nytimes.com/2020/07/30/podcasts/nice-white-parents-serial.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 30, 2020<span>  <span class="css-orcm78">•</span> 
+1:02:23</span><span class="css-i5svdo">The Book of
+Statuses</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-thumbLarge.jpg)](https://www.nytimes.com/2020/07/23/podcasts/nice-white-parents-serial.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 23, 2020<span>  <span class="css-orcm78">•</span> 
+2:49</span><span class="css-i5svdo">Introducing: Nice White
+Parents</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-1o3broy">
+
+[<span class="css-nxkttv">See All Episodes
+of</span><span class="css-cbc4vz">Nice White
+Parents</span>](https://www.nytimes.com/column/nice-white-parents)
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1ly73wi e1tej78p0">Next</span>
+
+</div>
+
 </div>
 
 <div class="css-1tlsmx">
 
 <div class="css-7xzttq e16638kd2">
 
-Published July 23, 2020Updated July 29, 2020,
-<span class="css-epvm6">12:08 p.m.
-ET</span>
+Published July 23, 2020Updated July 30,
+2020
 
 </div>
 
@@ -343,7 +432,55 @@ that. But when Chana Joffe-Walt, a reporter, looked at inequality in
 education, she saw that most reforms focused on who schools were
 failing: Black and brown kids. But what about who the schools are
 serving? In this five-part series, she turns her attention to what is
-arguably the most powerful force in our schools: White parents.
+arguably the most powerful force in our schools: White
+parents.
+
+</div>
+
+</div>
+
+<div class="audioFigureHeading">
+
+<div class="css-1et479a">
+
+![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-articleInline.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+### The Book of Statuses
+
+<span class="css-59o34k">A group of parents takes one big step
+together.</span>
+
+</div>
+
+<div class="css-qe9gm7">
+
+<div>
+
+</div>
+
+</div>
+
+<div class="audioFigureHeading">
+
+<div class="css-1et479a">
+
+![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-articleInline.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+### ‘I Still Believe in It’
+
+<span class="css-59o34k">White parents in the 1960s fought to be part of
+a new, racially integrated school in Brooklyn. So why did their children
+never attend?</span>
+
+</div>
+
+<div class="css-qe9gm7">
+
+<div>
 
 </div>
 
@@ -399,6 +536,11 @@ Chana was a reporter for NPR, where she helped create the podcast
 
 <div class="css-53u6y8">
 
+“Nice White Parents” was reported by Chana Joffe-Walt; produced by Julie
+Snyder; edited by Sarah Koenig, Neil Drumming and Ira Glass; editorial
+consulting by Eve L. Ewing and Rachel Lissy; and sound mix by Stowe
+Nelson.
+
 The original score for “Nice White Parents” was written and performed by
 the jazz group The Bad Plus. The band consists of bassist Reid Anderson,
 pianist Orrin Evans and drummer Dave King.
@@ -406,6 +548,9 @@ pianist Orrin Evans and drummer Dave King.
 Additional music from Matt McGinley, who has contributed music to Serial
 Productions podcasts including “S-Town” and season three of “Serial.”
 Matt is also the drummer and co-founder of the band Gym Class Heroes.
+
+Special thanks to Sam Dolnick, Julie Whitaker, Seth Lind, Julia Simon
+and Lauren Jackson.
 
 </div>
 

@@ -71,7 +71,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">More
-Than 6,300 Coronavirus Cases Have Been Linked to U.S.
+Than 6,600 Coronavirus Cases Have Been Linked to U.S.
 Colleges</span>
 
 </div>
@@ -135,14 +135,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Understand Pooled
-    Testing](https://www.nytimes.com/interactive/2020/07/27/upshot/coronavirus-pooled-testing.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/29/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [What School May Look
+    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -191,7 +191,7 @@ story](#after-top)
 
 ## [Comments](#commentsContainer)
 
-[More Than 6,300 Coronavirus Cases Have Been Linked to U.S.
+[More Than 6,600 Coronavirus Cases Have Been Linked to U.S.
 Colleges]()[Skip to Comments]()
 
 <div class="css-c32q7m">
@@ -223,7 +223,7 @@ publication, write to <letters@nytimes.com>.
 
 <div id="site-content" data-role="main">
 
-# More Than 6,300 Coronavirus Cases Have Been Linked to U.S. Colleges
+# More Than 6,600 Coronavirus Cases Have Been Linked to U.S. Colleges
 
 <div class="css-1vegfwe interactive-byline-container">
 
@@ -255,7 +255,7 @@ Higgins</span>July 29,
     
     </div>
 
-  - *<span class="css-1dtr3u3">344</span>*
+  - *<span class="css-1dtr3u3">409</span>*
 
 </div>
 
@@ -277,7 +277,7 @@ A New York Times survey of every public four-year college in the
 country, as well as every private institution that competes in Division
 I sports or is a member of an [elite group of research
 universities](https://www.aau.edu/sites/default/files/AAU-Files/Who-We-Are/AAU-Member-List.pdf),
-revealed at least 6,300 cases tied to about 270 colleges over the course
+revealed at least 6,600 cases tied to about 270 colleges over the course
 of the pandemic. And the new academic year has not even begun at most
 schools.
 
@@ -476,7 +476,9 @@ Note: The charts show the cases per 100,000 residents reported each week
 in the county where each school is located. The location of a
 university’s main campus is listed unless otherwise specified. In
 several instances, colleges noted that some cases were tied to branch
-campuses or satellite locations.</span>
+campuses or satellite locations. Universities with no case total listed
+either did not respond to inquiries, declined to provide information or
+said they had no known infections.</span>
 
 </div>
 
@@ -538,7 +540,7 @@ events.
 
 ### Plans for fall instruction
 
-#### The chart shows how schools with reported coronavirus cases plan to offer instruction for the fall semester, according to a database from [The Chronicle of Higher Education](https://www.chronicle.com/article/Here-s-a-List-of-Colleges-/248626). Hover or tap the circles to see the schools.
+#### The chart shows how schools with reported coronavirus cases plan to offer instruction for the fall semester, according to a database from [Davidson College](https://collegecrisis.shinyapps.io/dashboard/). Hover or tap the circles to see the schools.
 
 <div class="g-key keytype-inline">
 
@@ -582,7 +584,7 @@ Fewer than 4 cases
 
 <div id="cat1">
 
-# Online
+# Primarily or fully online
 
 <div class="reopenlist">
 
@@ -602,7 +604,7 @@ Fewer than 4 cases
 
 <div id="cat3">
 
-# In-person
+# Primarily or fully in-person
 
 <div class="reopenlist">
 
@@ -626,8 +628,8 @@ Fewer than 4 cases
 
 <div class="g-source">
 
-<span class="g-credit">Source: The Chronicle of Higher Education. Data
-as of July 28.</span>
+<span class="g-credit">Source: College Crisis Initiative at Davidson
+College. Reopening data as of July 24.</span>
 
 </div>
 
@@ -662,6 +664,34 @@ its plans for students to return to campus.
 
 “I think we should remain online for this semester, even if it’ll hurt
 my education,” he said. “Because it’s the right thing to do.”
+
+Case numbers may be larger at some universities with tens of thousands
+of students, including <span id="inline132903">Central Florida</span>
+and the University of Texas at Austin, and at others where many
+university employees work in hospitals where coronavirus patients [have
+been treated](https://www.utsouthwestern.edu/covid-19/), including at
+the <span id="inline228635">University of Texas Southwestern Medical
+Center</span>.
+
+Though hundreds of universities responded to The Times’s request for
+data — including a mix of public and private colleges, both small and
+large, in states across the country — others declined to cooperate. Some
+said they were not tracking such cases. Others invoked privacy concerns,
+even though The Times asked for aggregate case totals, not a list of
+individuals who were infected. Others did not respond at all.
+
+A spokesman at <span id="inline448886">Arizona State</span>, for
+example, said they “chose months ago to not release data/names/results”
+on coronavirus cases. A spokesman for <span id="inline180461">Montana
+State University</span> said the school “does not provide health
+information on its students, faculty or staff, even on general
+subgroups.” <span id="inline164155">The United States Naval
+Academy</span> cited “operational security” concerns. A spokeswoman for
+<span id="inline156082">Washburn University</span> in Kansas said she
+believed giving such information would violate privacy laws. And while
+the <span id="inline178396">University of Missouri</span>’s athletic
+department confirmed 10 cases, a spokesman at the flagship campus would
+not provide information about other students and employees.
 
 As students have started trickling back onto campuses in recent weeks,
 the early returns have been troubling. After 10 students tested positive
@@ -768,7 +798,7 @@ Witz.
 
 <div class="css-1oeie6n">
 
-Read 344
+Read 409
 Comments
 
 </div>
@@ -789,10 +819,6 @@ Comments
 </div>
 
 <div>
-
-<div>
-
-</div>
 
 </div>
 

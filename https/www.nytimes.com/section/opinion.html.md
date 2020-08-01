@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -63,6 +62,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-opinion" class="section css-15h4p1b e9abtgs0">
 
@@ -205,78 +229,74 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/opinion/28Stevens/28Stevens-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Rudoff/Sipa, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/07/31/opinion/31feds-promo2/merlin_174687471_3f161da7-b02b-4a94-89a2-d597dadb4374-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [We Lost the Battle for the Republican Party’s Soul Long Ago](/2020/07/29/opinion/trump-republican-party-racism.html)
+    ## [Federal Agents Don’t Need Army Fatigues](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
     
-    Only fear will motivate the party to change — the cold fear only
-    defeat can
-    bring.
+    If you’re an officer of the law, dress like one. Leave the
+    soldiering to
+    soldiers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Stuart
-    Stevens</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
+    Board</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
-    Mohatt/Reuters</span>](https://static01.nyt.com/images/2020/07/28/opinion/28Weiner4/28Weiner4-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustrations
+    by Xia
+    Gordon</span>](https://static01.nyt.com/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Jennifer Weiner
+    ## [Talking to the Dead in the Sunshine State](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
     
-    ## [Trump Is Dog-Whistling. Are ‘Suburban Housewives’ Listening?](/2020/07/28/opinion/trump-white-women.html)
-    
-    Or are they too busy organizing protests, posting links to bail
-    funds and discussing antidotes for tear
-    gas?
+    I was searching for facts, for a lost friend, and for what couldn’t
+    be
+    explained.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Weiner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Gerard</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-    Redmond/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/29/opinion/29BrayHoffman2/merlin_172114362_b9359e17-e151-45de-91ec-6e1a77ce4b46-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Vivek
+    Singh for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/opinion/31peer4/31peer4-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Amazon Has Too Much Power. Take It Back.](/2020/07/29/opinion/amazon-union-congress-antitrust.html)
+    ## [A Friendship, a Pandemic and a Death Beside the Highway](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
     
-    The tech company’s workers need a
-    union.
+    How a photograph of a young man cradling his dying friend sent me on
+    a journey across
+    India.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tim Bray</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Christy
-    Hoffman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Basharat
+    Peer</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
-    Oxford for The Washington Post, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/29/opinion/29edsall1a/29edsall1a-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    George
+    Haddad</span>](https://static01.nyt.com/images/2020/07/28/opinion/28oster/28oster-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Thomas B. Edsall
+    ## [What Will Schools Do When a Teacher Gets Covid-19?](/2020/07/28/opinion/coronavirus-schools-reopening.html)
     
-    ## [Trump Is Trying to Bend Reality to His Will](/2020/07/29/opinion/trump-2020-populism.html)
-    
-    Can his aggressive version of ethnonationalist populism prevail in
-    2020? The answer is not
-    obvious.
+    Cases are inevitable. Schools need to plan
+    now.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Thomas B.
-    Edsall</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Emily
+    Oster</span></span>
     
     </div>
 
@@ -286,98 +306,91 @@ Society](/section/opinion/gender-and-society)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
-    from top left: Andrew Harnik/AP; Chip Somodevilla/Getty Images;
-    Joshua Roberts/Reuters; Michael
-    Sohn/AP</span>](https://static01.nyt.com/images/2020/07/29/opinion/28tech-editorial-sub/28tech-editorial-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christoph
+    Burgstedt/Science Photo Library, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/30/opinion/30iwasaki/30iwasaki-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Four of the World’s Wealthiest Men Are Preparing for Battle](/2020/07/28/opinion/tech-ceo-hearing-congress.html)
+    ## [Scared That Covid-19 Immunity Won’t Last? Don’t Be](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
     
-    Members of Congress will be able to grill tech C.E.O.s at a hearing.
-    Let’s hope they don’t waste the
-    opportunity.
+    Dropping antibody counts aren’t a sign that our immune system is
+    failing against the coronavirus, nor an omen that we can’t develop a
+    viable
+    vaccine.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
-    Board</span></span>
+    <span class="css-1baulvz" itemprop="name">Akiko Iwasaki</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Ruslan
+    Medzhitov</span></span>
     
     </div>
 
-2.  ### Farhad Manjoo
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/29/opinion/29manjooWeb/29manjooWeb-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yawar
+    Nazir/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/opinion/31Moyo/31Moyo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How Do You Know a Human Wrote This?](/2020/07/29/opinion/gpt-3-ai-automation.html)
+    ## [3 Things to Make the World Immediately Better After Covid-19](/2020/07/31/opinion/coronavirus-economy.html)
     
-    Machines are gaining the ability to write, and they are getting
-    terrifyingly good at
-    it.
+    The crisis could be a catalyst for overhauling the economic world
+    order.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Farhad
-    Manjoo</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dambisa
+    Moyo</span></span>
     
     </div>
 
-3.  ### opinion
+3.  ### Roger Cohen
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/opinion/sunday/29Ackermann-06/29Ackermann-06-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ammar
+    Awad/Reuters</span>](https://static01.nyt.com/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [I Cured My Pandemic Anxiety By Making Tiny Food Out of Clay](/2020/07/29/opinion/food-covid-quarantine-clay.html)
+    ## [The Less Impossible Israeli-Palestinian Peace](/2020/07/31/opinion/israeli-palestinian-peace.html)
     
-    The subtle pleasures of trying to make one small piece of the world
-    just
-    right.
+    The two-state idea is comatose but not
+    dead.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Rebecca
-    Ackermann</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Roger
+    Cohen</span></span>
     
     </div>
 
-4.  ### Thomas L. Friedman
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brittainy
-    Newman/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/opinion/28friedmanWeb/28friedmanWeb-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Deal/Redux</span>](https://static01.nyt.com/images/2020/07/29/opinion/00lewis/00lewis-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [If Our Masks Could Speak](/2020/07/28/opinion/coronavirus-masks.html)
+    ## [John Lewis: Together, You Can Redeem the Soul of Our Nation](/2020/07/30/opinion/john-lewis-civil-rights-america.html)
     
-    Something that’s supposed to cover our mouths speaks volumes about
-    how crazy some people have
-    gotten.
+    Though I may not be here with you, I urge you to answer the highest
+    calling of your heart and stand up for what you truly
+    believe.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Thomas L.
-    Friedman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Lewis</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Mark Harris; photographs by The John Donaldson
-    Network</span>](https://static01.nyt.com/images/2020/07/23/opinion/23pilon/23pilon-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brendan
+    Mcdermid/Reuters</span>](https://static01.nyt.com/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [This Great Black Baseball Player Still Isn’t in the Hall of Fame](/2020/07/29/opinion/john-donaldson-baseball-black-players.html)
+    ## [Let’s End the Wait for Coronavirus Test Results. Here’s How.](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
     
-    John Donaldson died in obscurity, his statistics devalued because he
-    played before baseball was
-    integrated.
+    States should look to New York’s
+    strategies.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Mary Pilon</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Travon
-    Free</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Andrew M.
+    Cuomo</span></span>
     
     </div>
 
@@ -437,25 +450,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/opinion/food-covid-quarantine-clay.html)
+    [](/2020/08/01/opinion/letters/disability-law.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/sunday/29Ackermann-06/29Ackermann-06-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/12/opinion/sunday/11disability/11disability-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">opinion</span>
+    ### <span class="css-m70j1g">letters</span>
     
-    ## I Cured My Pandemic Anxiety By Making Tiny Food Out of Clay
+    ## Protecting the Rights of Those With Disabilities
     
-    The subtle pleasures of trying to make one small piece of the world
-    just right.
+    Readers discuss a series of articles about the impact of the
+    Americans With Disabilities Act, passed 30 years
+    ago.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rebecca
-    Ackermann</span>
     
     </div>
     
@@ -473,25 +484,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/opinion/jainism-nonviolence-death.html)
+    [](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/29stonepromo/29stonepromo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">THE STONE</span>
+    ## Let’s End the Wait for Coronavirus Test Results. Here’s How.
     
-    ## Don’t Fear Dying. Fear Violence.
-    
-    Why do millions of practitioners of the Jain religion strive to
-    avoid harming even microscopic creatures?
+    States should look to New York’s strategies.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">George
-    Yancy</span>
+    By <span class="css-1n7hynb">Andrew M.
+    Cuomo</span>
     
     </div>
     
@@ -509,23 +517,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/opinion/john-donaldson-baseball-black-players.html)
+    [](/2020/07/31/opinion/letters/coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/23/opinion/23pilon/23pilon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/business/30virus-econ2e/30virus-econ2e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## This Great Black Baseball Player Still Isn’t in the Hall of Fame
+    ### <span class="css-m70j1g">letters</span>
     
-    John Donaldson died in obscurity, his statistics devalued because he
-    played before baseball was integrated.
+    ## Why the Virus Is Getting the Better of Us
+    
+    Readers outline the mistakes made that have caused new cases to soar
+    and suggest better
+    approaches.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mary Pilon <span>and</span> Travon
-    Free</span>
     
     </div>
     
@@ -543,24 +551,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/remdesivir-shortage-coronavirus.html)
+    [](/2020/07/31/opinion/letters/trump-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/29kapczynski/29kapczynski-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30TRUMP-ANALYSIS/30TRUMP-ANALYSIS-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Remdesivir Could Be in Short Supply. Here’s a Fix.
+    ### <span class="css-m70j1g">letters</span>
     
-    The federal government must work to ensure adequate supply of the
-    coronavirus drug — and distribute it evenly and transparently.
+    ## So Trump Wants to Postpone the Election
+    
+    One reader views the floating of the idea as “a measure of how
+    desperate he is to stay in power.” Also: Maskless shoppers;
+    uncertain in
+    Australia.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Amy Kapczynski, Paul Biddinger
-    <span>and</span> Rochelle
-    Walensky</span>
     
     </div>
     
@@ -578,23 +586,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/trump-china.html)
+    [](/2020/07/31/opinion/john-lewis-trump-election-2020.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/opinion/28debatableillo/28debatableillo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What Would a Cold War With China Look Like?
+    ## John Lewis Was the Anti-Trump
     
-    U.S.-China ties haven’t been this strained for decades. What happens
-    if they snap?
+    The president doesn’t seem to know what democracy is; the
+    congressman embodied it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Spencer
-    Bokat-Lindell</span>
+    By <span class="css-1n7hynb">Jamelle
+    Bouie</span>
     
     </div>
     
@@ -612,23 +620,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/letters/pandemic-families.html)
+    [](/2020/07/31/opinion/trump-nixon-authoritarianism.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/20/opinion/20egan/17egan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30JohnDean2/30JohnDean2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">letterS</span>
+    ## Trump Has Been Comparing Himself to Nixon. That’s Hooey.
     
-    ## Being a Grandma During a Pandemic
-    
-    Grandmothers agonize over whether it’s safe to attend a grandson’s
-    wedding and relate the joys of sharing space and a journal with
-    grandchildren.
+    The former president could only dream of wielding the police powers
+    Mr. Trump has seized for himself.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John W.
+    Dean</span>
     
     </div>
     
@@ -646,24 +654,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/letters/trump-convention.html)
+    [](/2020/07/30/opinion/john-lewis-legacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/23/us/politics/23gop-convention/merlin_174881487_53836bf3-ff60-4417-81e6-129efa24429c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30lewis1/merlin_128348066_40469054-04f5-42bc-bfec-2928f224ab45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">letters</span>
+    ## John Lewis Believed America Would Survive Trump
     
-    ## Why Trump Canceled the Convention
-    
-    Readers react to the change of plan. One says the president’s ego
-    was the motivation, not safety concerns. Also: Baseball’s mistake;
-    hope and despair; a tribute to Brooks
-    Brothers.
+    He told us to keep the faith. It’s not easy.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michelle
+    Goldberg</span>
     
     </div>
     
@@ -681,22 +687,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/tears-teacher-crying-japan.html)
+    [](/2020/07/30/opinion/mitch-mcconnell-coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/24/opinion/opdoc-tears-teacher-img/opdoc-tears-teacher-img-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/30econ/30econ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Have You Considered the Benefits of Crying?
+    ## Mitch McConnell Could Rescue Millions. What Is He Waiting For?
     
-    A teacher travels across Japan to encourage adults to cry more.
+    The economy is in dire shape. Millions of Americans are about to
+    lose federal aid. The Senate is going on vacation.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Noemie
-    Nakai</span>
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
     
     </div>
     
@@ -714,24 +721,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/opinion/100000007247238/tears-teacher.html)
+    [](/2020/07/30/opinion/trump-coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/24/opinion/opdoc-tears-teacher-img/opdoc-tears-teacher-img-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30krugmanWeb/30krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-1032l74 ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## The Nightmare on Pennsylvania Avenue
     
-    ## Tears Teacher
-    
-    A teacher travels across Japan to encourage adults to cry more.
+    Trump is the kind of boss who can’t do the job — and won’t go away.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Noemie
-    Nakai</span>
+    By <span class="css-1n7hynb">Paul
+    Krugman</span>
     
     </div>
     
@@ -749,22 +754,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/opinion/homeland-security-portland-trump.html)
+    [](/2020/07/30/opinion/biden-fdr.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/opinion/28Chertoff1/28Chertoff1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30brooksWeb/30brooksWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Hijacking of Homeland Security
+    ## The Future of American Liberalism
     
-    A former leader of the department says Trump is politicizing the
-    agency and putting the nation at risk.
+    What Biden can learn from F.D.R.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael Chertoff</span>
+    By <span class="css-1n7hynb">David Brooks</span>
     
     </div>
     

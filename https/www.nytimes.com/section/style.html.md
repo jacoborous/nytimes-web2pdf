@@ -164,74 +164,77 @@ story](#after-sponsor)
 ## Highlights
 
 1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/21/style/00VIRUS-HOW-TO-MOVE/oakImage-1595347553231-jumbo.jpg)
+    Images</span>](https://static01.nyt.com/images/2020/07/31/fashion/31viralprotests-promo/31viralprotests-promo-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [So You’re Thinking of Moving …](/2020/07/24/style/moving-during-covid-coronavirus.html)
+    ## [Why Protest Tactics Spread Like Memes](/2020/07/31/style/viral-protest-videos.html)
     
-    But you’re scared about doing it during a pandemic. Here’s our
-    F.A.Q. on changing homes (and cities)
-    safely.
+    When items like umbrellas and leaf blowers are subverted into
+    objects of resistance, they become very
+    shareable.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Hannah
-    Wise</span></span>
+    <span class="css-1baulvz" itemprop="name">Tracy Ma</span>,
+    <span class="css-1baulvz" itemprop="name">Natalie Shutler</span>,
+    <span class="css-1baulvz" itemprop="name">Jonah Engel
+    Bromwich</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Shane
+    O’Neill</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
-    Jose Sanchez/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/29/fashion/29unbuttoned-moms-1-SUB/merlin_174896520_00a3ac2a-7670-418a-82b1-8ee02d3f0437-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    Illustration by The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Unbuttoned
+    ## [The War on Frats](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
     
-    ## [What Does It Mean to ‘Look Like a Mom’?](/2020/07/28/style/wall-of-moms-image.html)
-    
-    As the Wall of Moms movement spreads across the country, so, too,
-    does that
-    question.
+    Groups of fraternity brothers and sorority sisters are working to
+    kick their organizations off
+    campus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Vanessa
-    Friedman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ezra
+    Marcus</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO5/00TINYLOVE-ILLO5-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+    Heimer</span>](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Modern Love
+    ## [Rich City Tykes Swell Schools in Hamptons and Hudson Valley](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
     
-    ## [Tiny Love Stories: ‘My Parents Never Called’](/2020/07/28/style/tiny-modern-love-stories-coronavirus-my-parents-never-called.html)
+    New York parents of means are seeking less congested classrooms near
+    their second — third? —
+    homes.
     
-    Modern Love in miniature, featuring reader-submitted stories of no
-    more than 100
-    words.
-    
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alex
+    Williams</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erik
-    Carter for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/style/self-care/29BLACK-BOOKCLUBS-promo/29BLACK-BOOKCLUBS-promo-videoLarge-v2.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
+    Jalloh for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/31upnext-prince2/31upnext-prince2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Black Book Club Takes It to the Next Level](/2020/07/29/style/self-care/black-book-clubs.html)
+    ### Up Next
     
-    Noname and other Black thought leaders have taken what Oprah built
-    and made something
-    new.
+    ## [Yasmin Monet Prince, a New Action Heroine](/2020/08/01/style/yasmin-monet-prince-a-new-action-heroine.html)
+    
+    The young British actress stars in “Hanna,” the action drama on
+    Amazon.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Iman
-    Stevenson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brianna
+    Holt</span></span>
     
     </div>
 
@@ -241,93 +244,97 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Elizabeth
-    Weinberg for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/fashion/29TEENTHERAPY-top/29TEENTHERAPY-top-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Matija
+    Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
     <div class="css-10wtrbd">
     
-    ## [High Schoolers Across the Country Are Seeking ‘Teenager Therapy’](/2020/07/29/style/teenager-therapy-podcast.html)
+    ## [Love Letter: Making Room for More Love (and Sheep)](/2020/07/31/fashion/weddings/love-letter-newsletter-making-room-for-more-love-and-sheep.html)
     
-    A podcast started by five teens from a bedroom has become a lifeline
-    for
-    students.
+    And, a legacy of “Loving”
+    continued.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Taylor
-    Lorenz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Charanna
+    Alexander</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rozette
-    Rago for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/fashion/29VIRUS-SECONDHANDSHOPS-1/29VIRUS-SECONDHANDSHOPS-1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
+    Frustaci/EPA, via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Secondhand Shoppers Worry About Their Favorite Local Spots](/2020/07/29/style/secondhand-clothes-coronavirus-safety.html)
+    ## [Italian Fashion Hasn’t Changed Enough, Black Designers Say](/2020/07/31/fashion/italian-fashion-black-designers.html)
     
-    Sites like Poshmark and Thredup have thrived during the pandemic,
-    but your neighborhood thrift store is not doing so
-    well.
+    A new letter sent by independent designers to fashion executives
+    demands reform, or at least a serious conversation about
+    race.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jessica
-    Schiffer</span></span>
+    Testa</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cam
-    Cottrill</span>](https://static01.nyt.com/images/2020/07/29/fashion/29Goldstorage-illo/00Goldstorage-illo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
+    Muroya</span>](https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Where Is All That Gold Being Stored?](/2020/07/28/style/gold-storage.html)
+    ## [What Is Randonautica Really About?](/2020/07/31/style/randonautica-app.html)
     
-    A multitude of options, from burying in the backyard to posh
-    steel-lined
-    vaults.
+    An app that generates coordinates for adventurers claims to turn
+    your thoughts into reality. TikTok and YouTube creators want you to
+    believe it — but you
+    shouldn’t.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Danielle
-    Braff</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lena
+    Wilson</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by The New York Times; Google Street
-    View</span>](https://static01.nyt.com/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>National
+    Museum of American
+    History</span>](https://static01.nyt.com/images/2020/07/31/multimedia/31suffrage-nativewomen-07/31suffrage-nativewomen-07-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Close Look at a Fashion Supply Chain Is Not Pretty](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
+    ## [In 1920, Native Women Sought the Vote. Here’s What They Seek Now.](/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
     
-    A new report on factories in Malaysia that create products for
-    Brooks Brothers, Levi’s, LL Bean and others examines the high prices
-    workers pay for their
-    jobs.
+    The 19th Amendment did not bring the right to vote to all Native
+    women, but two experts in a conversation said it did usher in the
+    possibility of
+    change.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
-    Paton</span></span>
+    <span class="css-1baulvz" itemprop="name">Cathleen D. Cahill</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Deer</span></span>
     
     </div>
 
-5.  ### Field Notes
+5.  ### The Shindigger
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Barstool
+    Sports</span>](https://static01.nyt.com/images/2020/07/30/fashion/oakImage-1596134764009/oakImage-1596134764009-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ## [Livestream Your Wedding Like a Pro](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
+    ## [Trump White House Meets Its Match With Barstool Sports](/2020/07/31/style/trump-twitter-barstool-sports.html)
     
-    These gadgets will help you improve the production quality and
-    create memorable experiences for you and your digital
-    guests.
+    Trump admits he regrets some tweets during this fratty, swampy
+    summer, as nostalgia surges for Trump’s first underdog campaign and
+    a more uncertain future
+    looms.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Bortz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Shawn
+    McCreesh</span></span>
     
     </div>
 
@@ -460,7 +467,25 @@ story](#after-mid1)
 [More in Love
     »](/section/fashion/weddings)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
+    Shrewsbury</span>](https://static01.nyt.com/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Their Very Own Loving Story](/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
+    
+    Renee Knake and Wallace B. Jefferson, both lawyers, are grateful to
+    Mildred Loving and Richard Loving for challenging interracial
+    marriage laws in the
+    1960s.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brianna
+    Holt</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -476,7 +501,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
     A. Alvarado Jr. for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/26/fashion/24Vows-ModelActivist1/merlin_173908452_121834c5-2ab7-4830-bedd-1c85133e89a7-videoLarge.jpg)
     
@@ -495,7 +520,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Godeassi</span>](https://static01.nyt.com/images/2020/07/10/fashion/00NOT-ENGAGED/00NOT-ENGAGED-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -512,36 +537,20 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Malina
-    Omut</span>](https://static01.nyt.com/images/2020/07/18/fashion/18SurvivingFirstYear-art/18SurvivingFirstYear-art-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Matija
+    Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
     <div class="css-10wtrbd">
     
-    ## [What Changes in the First Year of Marriage?](/2020/07/23/fashion/weddings/what-changes-in-the-first-year-of-marriage.html)
+    ## [Love Letter: Making Room for More Love (and Sheep)](/2020/07/31/fashion/weddings/love-letter-newsletter-making-room-for-more-love-and-sheep.html)
     
-    For some millennial couples, not too
-    much.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Allie
-    Jones</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Claudi
-    Kessels</span>](https://static01.nyt.com/images/2020/07/23/fashion/23WeddingCakeFreeze-Art/23WeddingCakeFreeze-Art-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Do You Really Want That Wedding Cake a Year Later?](/2020/07/22/fashion/weddings/do-you-really-want-that-wedding-cake-a-year-later.html)
-    
-    Experts weigh in on how to freeze your cake and have some other
-    suggestions for commemorative treats to savor on your one-year
-    anniversary.
+    And, a legacy of “Loving”
+    continued.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Hilary
-    Sheinbaum</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Charanna
+    Alexander</span></span>
     
     </div>
 
@@ -787,7 +796,7 @@ story](#after-mid3)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erik
     Carter for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/style/self-care/29BLACK-BOOKCLUBS-promo/29BLACK-BOOKCLUBS-promo-videoLarge-v2.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/29BLACK-BOOKCLUBS-promo/29BLACK-BOOKCLUBS-promo-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -987,6 +996,24 @@ story](#after-mid4)
     »](/column/modern-love)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+    Rea</span>](https://static01.nyt.com/images/2020/08/02/fashion/02MODERN-FARM/02MODERN-FARM-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Spending My Tenderness on Animals](/2020/07/31/style/modern-love-spending-tenderness-on-animals.html)
+    
+    As a vulnerable girl at a remote commune, I sought solace from
+    horses, goats, even a bear cub. Today’s dark times have sent me
+    their way
+    again.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Bethany Groff
+    Dorau</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO5/00TINYLOVE-ILLO5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1001,7 +1028,7 @@ story](#after-mid4)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/26/fashion/26MODERN-ORPHANAGE/26MODERN-ORPHANAGE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1018,7 +1045,7 @@ story](#after-mid4)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/06/fashion/06TINYLOVE-illo1/06TINYLOVE-illo1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1033,7 +1060,7 @@ story](#after-mid4)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/19/fashion/19MODERN-DATINGAPP/19MODERN-DATINGAPP-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1047,21 +1074,6 @@ story](#after-mid4)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Loré
     Yessuff</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2020/07/06/fashion/06TINYLOVE-illo6/06TINYLOVE-illo6-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Tiny Love Stories: ‘We Gave Up, but Her Hair Didn’t’](/2020/07/14/style/tiny-modern-love-stories-coronavirus-we-gave-up-but-her-hair-didnt.html)
-    
-    Modern Love in miniature, featuring reader-submitted stories of no
-    more than 100
-words.
-    
-    <span class="css-me3p27"></span>
     
     </div>
 
@@ -1534,23 +1546,23 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    [](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-calendar2-illo-web/02AH-calendar2-illo-web-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The New College Drop-Off
+    ## Spend Time with Shakespeare’s Family and Take a Master Class in Ballet
     
-    A bittersweet family tradition has become an exercise in risk
-    assessment, logistics and trying to understand ever-changing rules.
+    As August arrives, you can learn how an author conjured Elizabethan
+    England and engage your children’s five senses in a mystery game.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie
-    Weed</span>
+    By <span class="css-1n7hynb">Adriana Balsamo <span>and</span> Hilary
+    Moss</span>
     
     </div>
     
@@ -1568,25 +1580,23 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/realestate/garden-summer-august-chores.html)
+    [](/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/realestate/29garden1/29garden1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">IN THE GARDEN</span>
+    ## Like Old Hollywood Movies, Video Games Get a Polish for New Audiences
     
-    ## It’s Summertime, and the Gardening Should Be Easy, Right?
-    
-    Actually, there’s a lot you still need to do. Here’s a list to get
-    you started.
+    Game publishers are digging through their vaults to remake or
+    remaster popular titles in a bid to kindle players’ nostalgia.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Margaret
-    Roach</span>
+    By <span class="css-1n7hynb">Imad
+    Khan</span>
     
     </div>
     
@@ -1604,24 +1614,23 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/nyregion/lake-solitude-closed-racism.html)
+    [](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/nyregion/00LakeSolitude-1/00LakeSolitude-1-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Hidden Gem’ Made Popular by TikTok Is Shut to Keep Out-of-Towners Away
+    ## The War on Frats
     
-    A lake in New Jersey was closed to curb the spread of the
-    coronavirus, but some complaints about recent crowding there focused
-    on the ethnicity of visitors.
+    Groups of fraternity brothers and sorority sisters are working to
+    kick their organizations off campus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Maslin
-    Nir</span>
+    By <span class="css-1n7hynb">Ezra
+    Marcus</span>
     
     </div>
     
@@ -1639,24 +1648,25 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+    [](/2020/08/01/style/yasmin-monet-prince-a-new-action-heroine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/31upnext-prince2/31upnext-prince2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Kerry James Marshall’s Black Birds Take Flight in a New Series
+    ### <span class="css-m70j1g">Up Next</span>
     
-    Inspired by John James Audubon, the painter explores the societal
-    “pecking order” in two works that dovetail with “this mystery
-    about whether or not Audubon himself was Black.”
+    ## Yasmin Monet Prince, a New Action Heroine
+    
+    The young British actress stars in “Hanna,” the action drama on
+    Amazon.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ted
-    Loos</span>
+    By <span class="css-1n7hynb">Brianna
+    Holt</span>
     
     </div>
     
@@ -1674,23 +1684,25 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/style/teenager-therapy-podcast.html)
+    [](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/fashion/29TEENTHERAPY-top/29TEENTHERAPY-top-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## High Schoolers Across the Country Are Seeking ‘Teenager Therapy’
+    ## Beyoncé’s ‘Black Is King’: Let’s Discuss
     
-    A podcast started by five teens from a bedroom has become a lifeline
-    for students.
+    Six critics on the visual album rooted in her “Lion King”-inspired
+    record “The Gift,” a grand statement of African-diaspora pride and
+    creative power.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
+    By <span class="css-1n7hynb">Jason Farago, Vanessa Friedman, Gia
+    Kourlas, Wesley Morris, Jon Pareles <span>and</span> Salamishah
+    Tillet</span>
     
     </div>
     
@@ -1708,23 +1720,24 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/style/secondhand-clothes-coronavirus-safety.html)
+    [](/2020/07/31/at-home/newsletter.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/fashion/29VIRUS-SECONDHANDSHOPS-1/29VIRUS-SECONDHANDSHOPS-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Secondhand Shoppers Worry About Their Favorite Local Spots
+    ### <span class="css-m70j1g">at home newsletter</span>
     
-    Sites like Poshmark and Thredup have thrived during the pandemic,
-    but your neighborhood thrift store is not doing so well.
+    ## This Week, Clean Your Stove
+    
+    Some straightforward advice for a reader who feels directionless
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jessica
-    Schiffer</span>
+    By <span class="css-1n7hynb">Sam
+    Sifton</span>
     
     </div>
     
@@ -1742,23 +1755,25 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/style/wall-of-moms-image.html)
+    [](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/fashion/29unbuttoned-moms-1-SUB/merlin_174896520_00a3ac2a-7670-418a-82b1-8ee02d3f0437-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/31akumpo1/31akumpo1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What Does It Mean to ‘Look Like a Mom’?
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    As the Wall of Moms movement spreads across the country, so, too,
-    does that question.
+    ## The Most Soothing Man on TikTok
+    
+    By slowing down and soaking it all in, Larry Scott makes the whole
+    TikTok experience … nice.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Vanessa
-    Friedman</span>
+    By <span class="css-1n7hynb">Jon
+    Caramanica</span>
     
     </div>
     
@@ -1776,23 +1791,23 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/style/gold-storage.html)
+    [](/2020/07/31/fashion/italian-fashion-black-designers.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/fashion/29Goldstorage-illo/00Goldstorage-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Where Is All That Gold Being Stored?
+    ## Italian Fashion Hasn’t Changed Enough, Black Designers Say
     
-    A multitude of options, from burying in the backyard to posh
-    steel-lined vaults.
+    A new letter sent by independent designers to fashion executives
+    demands reform, or at least a serious conversation about race.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Danielle
-    Braff</span>
+    By <span class="css-1n7hynb">Jessica
+    Testa</span>
     
     </div>
     
@@ -1810,24 +1825,24 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
+    [](/2020/07/31/style/randonautica-app.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Close Look at a Fashion Supply Chain Is Not Pretty
+    ## What Is Randonautica Really About?
     
-    A new report on factories in Malaysia that create products for
-    Brooks Brothers, Levi’s, LL Bean and others examines the high prices
-    workers pay for their jobs.
+    An app that generates coordinates for adventurers claims to turn
+    your thoughts into reality. TikTok and YouTube creators want you to
+    believe it — but you shouldn’t.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elizabeth
-    Paton</span>
+    By <span class="css-1n7hynb">Lena
+    Wilson</span>
     
     </div>
     
@@ -1845,24 +1860,24 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/realestate/in-the-hamptons-the-architectural-equivalent-of-an-old-sports-car.html)
+    [](/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/realestate/28LOCATION-WATERMILL-slide-K1FD/28LOCATION-WATERMILL-slide-K1FD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/multimedia/31suffrage-nativewomen-07/31suffrage-nativewomen-07-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Location</span>
+    ## In 1920, Native Women Sought the Vote. Here’s What They Seek Now.
     
-    ## In the Hamptons, the Architectural Equivalent of an Old Sports Car
-    
-    The vintage Norman Jaffe house was in bad shape, but the new owners
-    were appalled by the suggestion that they should tear it down.
+    The 19th Amendment did not bring the right to vote to all Native
+    women, but two experts in a conversation said it did usher in the
+    possibility of change.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tim McKeough</span>
+    By <span class="css-1n7hynb">Cathleen D. Cahill <span>and</span>
+    Sarah Deer</span>
     
     </div>
     

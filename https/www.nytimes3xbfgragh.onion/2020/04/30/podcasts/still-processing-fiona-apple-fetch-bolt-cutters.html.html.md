@@ -1,0 +1,2298 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Podcasts](https://www.nytimes3xbfgragh.onion/spotlight/podcasts)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Podcasts](/spotlight/podcasts)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Fiona
+Ex
+Machina</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3d0KNJ1</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div class="css-1g7y0i5 e1drnplw0">
+
+<div class="css-1ceswkc e1drnplw1">
+
+</div>
+
+<div class="css-f2fzwx e1drnplw2">
+
+<div data-aria-labelledby="modal-title" data-role="region">
+
+<div id="modal-title" class="css-mln36k">
+
+transcript
+
+</div>
+
+<div class="css-pbq7ev">
+
+</div>
+
+<span>Back to Still
+Processing</span>
+
+<div class="css-f6lhej">
+
+<div class="css-1ialerq">
+
+<div class="css-1701swk">
+
+bars
+
+</div>
+
+<div>
+
+<div class="css-1t7yl1y">
+
+0:00/0:00
+
+</div>
+
+<div class="css-og85jy">
+
+\-0:00
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## Fiona Ex Machina
+
+### Hosted by Wesley Morris and Jenna Wortham. Produced by Hans Buetow and Sydney Harper.
+
+#### Fiona Apple blows our minds, again.
+
+Thursday, April 30th, 2020
+
+</div>
+
+  - \[music\]
+
+  - jenna wortham  
+    This is “Still Processing.” I’m Jenna Wortham.
+
+  - wesley morris  
+    I’m Wesley Morris. And Jenna, I have a confession.
+
+  - jenna wortham  
+    Oh.
+
+  - wesley morris  
+    I have not always loved Fiona Apple.
+
+  - jenna wortham  
+    What? I’m sorry. What?
+
+  - wesley morris  
+    No, it’s true.
+
+  - jenna wortham  
+    You know what this week’s episode is about.
+
+  - wesley morris  
+    \[LAUGHING\] No, it’s true. I did not enjoy her. It started for me
+    like it did for everybody else, my relationship with this woman, in
+    1996 when she was a pretty popular recording artist out of nowhere.
+    She was a teenager, and she shows up, and she’s singing these bluesy
+    torch songs. The first single off of her first album title is called
+    “Shadow Boxer.” And I’m like, I had just started listening to Nina
+    Simone at this point, and I’m like, Oh ma’am, please, this is not —
+
+  - jenna wortham  
+    \[LAUGHING\]
+
+  - wesley morris  
+    I don’t want this from you. You don’t have what it takes. And then
+    “Criminal” happens. Now where were you when you first saw that
+    video?
+
+  - jenna wortham  
+    Listen, I’m not afraid to say it. I was a chunky teenager. So my
+    little chunky butt would sit down in front of the TV, with a bag of
+    cheetos, and I would watch these music videos. And I definitely
+    remember when “Criminal” just kept playing.
+
+  - \[music - fiona apple, "criminal"\]
+
+  - fiona apple (singing)  
+    I’ve been a bad, bad girl.
+
+wesley morris
+
+Basically, in the video, Fiona Apple is writhing around on the floor.
+She’s taking pictures of her friends. She is very thin and taking off
+her clothes at some point, and she’s in lingerie. And do you remember
+that part?
+
+jenna wortham
+
+I mean, god yes, who can forget it? That image of Fiona Apple with the
+two braids, crouched and hidden in the closet was just emblazoned across
+my young mind. And the sad thing is I wanted to be in that druggie den
+with her. And it was hard. I struggled with the popularity of that video
+because it also meant the popularity of the aesthetic of that video,
+which was rail thin, really strung out-looking, waify white girls.
+
+wesley morris
+
+It is immediately deemed part of what we — if anybody who was around in
+the late 90s remembers as being “heroin chic.” And the fear of heroin
+chic, and the controversy of so-called heroin chic, Kate Moss being the
+epitome of that. This is basically skinny white people rolling around on
+the floor and being the subject of many a fashion campaign. The video
+goes on to win Best Female Video at the 1997 Video Music Awards. And
+Fiona Apple goes up to accept her Moonman trophy.
+
+  - archived recording (fiona apple)  
+    I didn’t prepare a speech, and I’m sorry, but I’m glad that I didn’t
+    because I’m not going to do this like everybody else does it. ‘Cause
+    everybody that I should be thanking, I’m really sorry, but I have to
+    use this time. See, Maya Angelou said that we as human beings at our
+    best can only create opportunities. And I’m going to use this
+    opportunity the way that I want to use it.
+    
+    \[CHEERS AND APPLAUSE\]
+    
+    So what I want to say is, everybody out there that’s watching,
+    everybody that’s watching this world, this world is bull — \[MUTED\]
+    
+    \[APPLAUSE\]
+    
+    And you shouldn’t model your life — wait a second — you shouldn’t
+    model your life about what you think that we think is cool, and what
+    we’re wearing, and what we’re saying and everything. Go with
+    yourself. Go with yourself.
+    
+    \[CHEERING\]
+
+jenna wortham
+
+People were really confused by her speech. They didn’t know what to make
+of it. She was called rude. She was called combative.
+
+wesley morris
+
+They called her crazy.
+
+jenna wortham
+
+Yes, they called her crazy, and she was seen as entitled and bratty. And
+she essentially was banished, and she retreated. And it really created
+the impression that she was reclusive and totally a mystery from then on
+out.
+
+wesley morris
+
+Inscrutable, stubborn, difficult to work with.
+
+jenna wortham
+
+As if, like, those aren’t things that men always are. It’s just always
+hilarious to me when it’s a woman or a person of color. It’s like, Oh,
+they’re difficult. But it made me really respect her because I was like
+yes, I will go with myself. I will do what I want to do.
+
+wesley morris
+
+Well, what it did for me was make me really curious about what this
+person was going to do musically, right? I was curious about how the
+person who has this enormous backlash against her for speaking what is
+honestly the truth — I’m really curious about what that person does
+next. Two years later, my entire world gets blown up when she puts out
+this album called “When the Pawn.” This album to me was the moment where
+I was officially in love with this person.
+
+jenna wortham
+
+Mmm.
+
+wesley morris
+
+Because she took that moment in 1997, in front of the whole world, and
+she found a way to not retreat from it, but to amplify the fury she felt
+about how she was treated during that period, where she is made famous
+almost kind of against her will, and held up as being an icon of
+something that she didn’t want to be iconic for being. And the reason
+that you and I are talking about Fiona Apple is because she’s still
+speaking. And she’s still speaking in the way she wants to speak, and
+she’s finding new ways of saying what she wants to say. And a couple of
+weeks ago, she releases a new album, her first album in eight years, and
+it’s called “Fetch the Bolt Cutters.” It’s the perfect capstone on
+20-something years of living with and learning to love this woman.
+
+jenna wortham
+
+It’s also a perfect accompaniment to living in this moment, and being on
+lockdown, and being in crisis, and feeling lots of big emotions that we
+don’t know what to do with. And lo and behold, here we have a piece of
+art that is exactly rooted in what you do with feelings of frustration,
+pent up rage, anger, and ultimately funnels them into action. It’s a
+really perfect companion for Covid, even though it’s not meant to be.
+It’s been in the works for a long time. But it actually turns out to
+be the perfect companion for right now.
+
+wesley morris
+
+So we are going to take a break. And when we come back, we’re going to
+talk about Fiona Apple’s latest masterpiece, “Fetch the Bolt Cutters.”
+
+\[music - kindness, "world restart"\]
+
+\[music - fiona apple, "fetch the bolt cutters"\]
+
+  - fiona apple (singing)  
+    Fetch the bolt cutters. I’ve been in here too long.
+    
+    Fetch the bolt cutters.
+
+jenna wortham
+
+Wesley, you know what gives me the shivers in this song?
+
+wesley morris
+
+What?
+
+jenna wortham
+
+It’s the way she says “fetch the bolt cutters,” right? It’s not like a
+scream. It’s not like (SHOUTING) fetch the bolt cutters\! It’s just this
+quiet —
+
+wesley morris
+
+Ring the alarm\!
+
+jenna wortham
+
+Right, right, right. It’s not this alarmist battle cry. It’s just this
+very resolved, astute observation that it’s time to fetch the bolt
+cutters. And it gives me the chills because there’s no — it’s not like,
+do you want to get them? Let me help you if you’ve been thinking about
+getting the bolt cutters and liberating yourself. No, no, no, it’s time.
+We’re leaving. Go get the bolt cutters. And since the song came out,
+I’ve noticed it across just so many different places in social media,
+but in particular, it’s being used to score videos and Instagram
+stories. And it’s everything from somebody breaking down a chicken or a
+piece of meat for dinner, which is really grim and gruesome in all the
+best ways. You know, I saw recently a friend was playing the song while
+she was preparing a really luxurious bath for herself. Somebody else was
+using it to dance. I mean, I was playing it while I was cooking the
+other night and then posted a story with it. And I think it really is a
+soundtrack for the coronavirus pandemic. It feels so appropriate because
+even though, physically, we really can’t fetch the bolt cutters. We’ve
+been actually told many times to not fetch the bolt cutters, actually to
+put them away, put the lock back on the door, stay inside. But
+metaphorically, this idea that it’s time to step outside of ourselves.
+It’s time to step outside of our comfort zones. It’s time to do things
+differently and to think about other people, or to think about, I guess,
+ourselves in relationship to other people and make different decisions,
+and unlock the parts of yourself that have been yearning to come out.
+Because literally it’s now or never, like we’ve faced what has felt like
+end times. So if not now, then when? And I think that’s why people — I
+think that’s why women in particular are really responding to it because
+that reminder is coming along at a time when we most need it.
+
+wesley morris
+
+The calm with which she says fetch the bolt cutters strikes me as, “My
+water just broke.” She says that, and what I hear is a person responding
+to an almost involuntary force that she knew was coming this whole time.
+And it is finally here, and she is ready to release it into the world.
+
+jenna wortham
+
+It’s just this declaration that it’s time for whatever was holding me
+back in the past, or whatever — I just imagine a pair of pliers. It’s
+just like these things are being extracted. It’s like whatever vestige
+of the past, whatever thing you don’t need anymore, whatever thorn in
+your foot, whatever is in your way, it’s like we’re plucking it out one
+by one and setting it to the side. So for me, the visual is not like a
+fence coming down, or a gate lock being broken. It’s actually like these
+tiny, methodical, little extractions and excisions being made, like a
+process is happening by which through we will then exit.
+
+wesley morris
+
+Mmm. Now look, I don’t think that Fiona Apple is trying to sound like
+anybody at any particular time. I don’t know what she’s listening to
+now. But there’s this part of this song where it sounds to me like a
+little bit Rickie Lee Jones in one spot, this move into Beyoncé, and
+then back into Rickie Lee Jones, for just like 12 seconds. And it’s just
+really beautiful.
+
+\[music - fiona apple, "fetch the bolt cutters"\]
+
+  - fiona apple (singing)  
+    While I’d not yet found my bearings those it girls hit the ground
+    comparing the way I was to the way she was, saying I’m not stylish
+    enough, and I cry too much. And I listened because I hadn’t found my
+    own voice yet. So all I could hear was the noise that people make
+    when they don’t know shit. But I didn’t know that yet.
+
+wesley morris
+
+The way she sort of sing-talks that, and then she lowers her voice, and
+she kind of runs the words together. I heard that, and I thought, I hear
+Beyoncé doing the verses in “Hold Up,” and she’s doing them as a sort of
+lullaby. And there’s just something about this part of the song that is
+so fragrant to me, the allusion to these two women, these two very
+different singer-songwriters, just really got me.
+
+jenna wortham
+
+Mmm. It’s really interesting to invoke our queen and patron saint,
+Beyoncé, in relationship to this album because there’s actually a lot in
+“Fetch the Bolt Cutters” that makes me think a lot about “Lemonade,” in
+particular. And not really sonically yet, even though I do see the point
+that you just made. But I think just tonally, it’s really, really,
+really satisfying to listen to women at a very particular point in time
+— their 40s. Beyoncé is almost there, Fiona is a little bit over that.
+These are both women who’ve lived most of their teen years in the public
+eye. These are women who both have been agents of their sexuality and
+have had their sexuality be used to kind of sell music, and to sell
+them. And to sort of watch them take control over what that looks like
+and what that means to them is really gratifying. And I’m listening to
+the song itself, “Fetch the Bolt Cutters,” I’m hearing Fiona Apple do
+her thing. But in my mind’s eye, I’m seeing Beyoncé in that incredible
+marigold, lemony dress with all the ruffles, and her hair is just
+flowing, walking down the street, twirling the bat and bashing out the
+windows.
+
+wesley morris
+
+\[LAUGHING\]
+
+jenna wortham
+
+And it’s just remarkable. They’re both so resigned to destruction, but
+no longer self-destruction. And I’m a little bit younger than both of
+them, but I’m also coming into that self-awareness of not just kind of
+who I’ve been, but sort of taking all of that knowledge and sort of
+paying it forward and thinking about who I want to be, especially in
+relationship to myself and other women in my world. And they do kind of
+offer these blueprints for how to take in all that emotion and kind of
+how to push it back out in a way that’s cathartic and constructive, at
+least to them.
+
+wesley morris
+
+The thing that comes to mind when you say that is “Heavy Balloon.” The
+opening line is like, People like us play with a heavy balloon. It’s
+clearly about depression. But it also, even through the depression, it’s
+an attempt to reach out. It’s the most rhythmic and grooving song on the
+album. And it’s the song on the album that sounds most like a song on
+her first album, “Tidal,” called “The First Taste.”
+
+jenna wortham
+
+Mm-hm.
+
+wesley morris
+
+It is this evocation of an earlier self, a lighter self.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    People like us, we play with a heavy balloon. We keep it up to keep
+    the devil at bay but it always falls way too soon.
+
+jenna wortham
+
+But I think you feel that interplay between the heaviness and the
+darkness because she’s talking about all this extra weight, and how that
+density makes it hard to rise up. But then, you get to the chorus.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    But you know what? I spread like strawberries. I climb like peas and
+    beans. I’ve been sucking it in so long that I’m busting at the
+    seams.
+
+jenna wortham
+
+Whenever I hear it, I’m like throwing my head back and I’m like staring
+up at the sky, and I’m just like gyrating my hips to myself. I’m like,
+yeah, spread like strawberries. And she said in an interview that she
+was really moved by the idea about the ways that strawberries grow out
+and they cover an entire garden. And so there is this levity in that
+imagery of just like, yeah, I might be heavy, I might be depressed. But
+I’m actually going to keep doing my thing. I’m going to keep growing.
+And that song is one my favorites on the album for sure.
+
+wesley morris
+
+Oh, it’s great.
+
+jenna wortham
+
+It’s the one I play the loudest.
+
+wesley morris
+
+I am in awe of this woman. The way she is able to capture feelings that
+are so mundane, to be able to take those kitchen staples and turn them
+into objects of determination and pain. Geez, Louise.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    I spread like strawberries. I climb like peas and beans.
+
+jenna wortham
+
+I really want to talk about the song “Ladies” off the album. Fiona Apple
+is talking to her ex’s new girlfriend — or you can pluralize it, new
+girlfriends. I mean, she’s really just talking to the lineage — the line
+of women that are coming after her. And the song is both a warning and
+both a little bit of a preemptive apology for kind of what they’re in
+for. I like to think about this song as kind of its own whisper network,
+like Fiona’s trying to tell these women what it’s going to be like to be
+in a relationship with him. But I also don’t feel like she’s blaming
+them for the choices that they’re going to make. She just wants them to
+make informed choices. If this is your choice and you make it, OK, but
+I’ll be here for you on the other side if you want me to be. Because
+I’ve been there too, and I know what that’s like. And damn, what a
+gesture. That takes a lot of self-reflection (LAUGHING) and
+introspection.
+
+wesley morris
+
+Yeah. Even the idea that she’s just sort of saying, you know, I might’ve
+left some stuff at his place, take it. When you go, you can take
+whatever I left.
+
+jenna wortham
+
+She even says though, There’s a dress that’s not mine, but don’t throw
+it out. It was there when I got there. And let’s be at peace with the
+way time works, and the way life works.
+
+\[music - fiona apple, "ladies"\]
+
+  - fiona apple (singing)  
+    Ladies, ladies, ladies, ladies. Ruminations on the looming effect
+    and the parallax view and the figure and the form —
+
+wesley morris
+
+This song also has this concept of parallax, which is a thing that Fiona
+Apple has sung about in other songs on other albums. And it’s a useful
+relationship concept, in a lot of ways, which is that, imagine looking
+at an object through your viewfinder on a camera and the lens on your
+camera. You’re looking at the same object, but in two different ways
+through two different lenses. And seems pretty useful when it comes to
+looking at people, too. Sometimes you’re looking at a person through one
+set of circumstances, and another set of circumstances reveals the exact
+same person in a completely different way. It’s taken her a long time,
+perhaps, to get to the point where she is able to practice her own
+parallaxing in order to look at, not only old relationships, but to
+understand that there is just an inherent parallax in any relationship.
+And once you get some distance on it, you’re able to see yourself as
+somebody’s future ex or current relationship.
+
+jenna wortham
+
+Mmm. I really like the generosity of that song. Because it’s a very
+natural thing to think about your current partner’s exes, or your last
+partner, who they date after you. It’s very easy to get caught up in
+these spirals and to compare and despair, and to try to weigh your own
+enough-ness against these shadowy images of other people and other
+women. And I really feel like she’s trying to open a conversation and be
+like, we are not each other’s enemies. I’m no longer playing this game.
+And come over for tea. Even more, like, let’s go on a hike together. I
+just want you to know, I’m not gunning for you. And you start to realize
+the ways in which you’ve been taught and conditioned to only see other
+women as rivals or people you should compare yourself against, rather
+than see them as what they can be, which are collaborators, true loves,
+like deep, deep friends, sisters.
+
+wesley morris
+
+I love how loungey this song sounds. It’s got this really good bass
+line, and the groove is familiar to me as a kind of a little bit of an
+R\&B vamp, where the story being told is one thing, but there is also a
+way that you have to perform the story. And I hear it, and I’m just
+like, Nina Simone could do this. Aretha could do this. Gladys Knight
+could do this. These three very, very different singers could all
+respond to this song in their characteristic ways without necessarily
+even having to do much of a rearrangement —
+
+jenna wortham
+
+Oh, yeah.
+
+wesley morris
+
+— of the song itself. But this kind of world-weary, been through it all
+way of (LAUGHING) communicating.
+
+jenna wortham
+
+Oh, yeah. I love, love, love the kind of fatigue in it and the humor.
+And I can totally just see Fiona Apple with a black fedora on, and a
+white tank top and suspenders, and her sinewy arms are out, and she’s in
+the back of some sort of smoky cabaret. \[LAUGHTER\] And she’s just like
+cocked to the side and clapping in this very cynical way.
+
+\[music - fiona apple, "ladies"\]
+
+  - fiona apple (singing)  
+    Yet another woman to whom I won’t get through.
+
+wesley morris
+
+The thing about Fiona Apple is she’s always been about warning somebody
+about something.
+
+jenna wortham
+
+\[LAUGHING\]
+
+wesley morris
+
+Whether it’s a potential relationship, or herself about herself. And
+this album is the first time all of that experience, and all of that
+knowledge, and all of that rejection, and avoidance, and judgment, and
+perception has been harnessed for the powers of what can only be
+described as wisdom.
+
+jenna wortham
+
+Mmm. Well Wesley, I am just now reigniting my love affair with Fiona
+Apple. But you’ve been deep in it with her for the last 20 years or so.
+So help me understand the work that she’s done from the last time I was
+paying attention, with “Tidal,” to now, with “Fetch the Bolt Cutters.”
+
+wesley morris
+
+OK, so if we want to understand a little bit where Fiona Apple is in
+2020, relative to where she was say, even in 2012, I think it might be
+useful to actually just go back to 2012 and listen to one of the best
+songs on her previous great album, which is called “The Idler Wheel,”
+the I-D-L-E-R wheel. And the song that came to mind that is useful, both
+in terms of how we’ve been talking about her today, and also in terms of
+her adventurousness as a singer, is this song called “Regret.” It’s just
+structured really beautifully, and it sounds like she’s built this one
+kind of seemingly straightforward, beautiful song, and then something
+happens.
+
+\[music - fiona apple, "regret"\]
+
+  - fiona apple (singing)  
+    Oh, I ran out of white doves’ feathers to soak up the hot piss that
+    comes from your mouth every time you address me.
+
+wesley morris
+
+There’s a kind of singing that I really love and is very hard to do. I’m
+talking specifically about ugly singing, or unusual singing, right?
+There aren’t a lot of people who have the skill, and I would say even
+more important, the bravery to do it, to try it. The recorded music
+history is a lot of such people. I mean, you can go back to someone like
+Louis Armstrong, or Screamin’ Jay Hawkins, and Nina Simone, and Yoko
+Ono, and Tom Waits, the patron saint of back of the throat, bottom of
+the earth singing. People who are much more interested in the truth of
+the sound of the voice than of the alleged beauty of the presentation.
+It’s just such a beautiful, beautiful song about real ugly feelings. And
+I feel like that’s the thing that I love her so much for is she isn’t
+afraid to make ugly feelings sound ugly. She doesn’t run away from where
+she is emotionally. I mean, this song is stripped down to almost
+nothing. In that beautiful moment at the end, where she — you hear the
+piano top close.
+
+jenna wortham
+
+Yeah. (LAUGHING)
+
+wesley morris
+
+She’s like, I’m done. I’ve said it all.
+
+jenna wortham
+
+Yeah. And you know Wesley, maybe some of the distance that has been
+closed, or crossed, or worked out in the last eight years, I guess,
+between this song coming out, “Regret,” on “The Idler Wheel” and then
+“Fetch the Bolt Cutters” is that Fiona Apple has figured out at least
+what she’s going to do with all those raw nerve endings. She’s learned a
+little bit how to process them, how to sit with them, and how to be OK.
+(LAUGHING) Right? And she’s teaching us also right now how to be OK with
+them. Because one of the differences between a song like “Regret” and
+then something like “Heavy Balloon,” that pain and grief of a song like
+“Regret” has been transmuted. And it’s not that she’s avoiding it, or
+she’s not dealing with it, it’s just that she has metabolized it and she
+has channeled it into something else.
+
+And that’s why I think, even though “Fetch the Bolt Cutters” is still
+so, so, so emotionally dense, and the frequency is so high, it can feel
+peaceful, it can feel calm. Because she’s worked out how she feels about
+these things. And now she’s telling us so that we can do the same.
+
+\[music\]
+
+  - speaker 1  
+    Hey, Jenna and Wesley.
+
+  - speaker 2  
+    Hi, Jenna, hi, Wesley.
+
+  - speaker 4  
+    Hey, y’all.
+
+\[music\]
+
+jenna wortham
+
+A few weeks ago, we asked you to tell us how you’re taking care during
+these times, and how people are taking care of you. And the responses
+were overwhelming.
+
+wesley morris
+
+We heard from people all over the planet.
+
+  - mike  
+    This is Mike coming to you from Chicago.
+
+  - speaker 5  
+    Cambridge, U.K.
+
+  - speaker 6  
+    I live in Greenpoint in Brooklyn, New York.
+
+  - speaker 7  
+    In Lisbon, Portugal’s capital in mainland Europe.
+
+wesley morris
+
+And you guys are doing amazing work just taking care of yourselves.
+
+  - speaker 8  
+    Hi, Wesley and Jenna. I’m calling in with a story of how my husband
+    has taken care of me during this difficult time. I had a birthday in
+    the end of March, and had plans to celebrate, but obviously wasn’t
+    able to do that. I work for one of the major museums in the city,
+    which is shut down. And so my husband surprised me by asking a bunch
+    of our friends to create something. They emailed it to him, he
+    printed it out, and he hung it up. He got actually 70 submissions of
+    works of art, and he had so many submissions, there are two rooms in
+    the house filled with art created by our loved ones. And he
+    surprised me with my own museum with art that I could come and look
+    at and take care of. And it not only took care of me, but it was a
+    bright spot for a lot of people as well, where they stopped for a
+    second, and sat down, and created something, or they had their kid
+    make something. And so my husband was able to do something that took
+    care of me, but also took care of a lot of our friends, even for a
+    brief second. It was a very unusual 36th birthday.
+
+  - claire grindinger  
+    OK. Hey, Jenna. Hey, Wesley. My name’s Claire Grindinger. I’m a
+    senior at Washington University in St. Louis, but right now I’m home
+    in Dallas, Texas, cause of the coronavirus. I am right now running,
+    as you might be able to tell. On March 29, I was supposed to run the
+    St. Louis Go marathon, but I decided to run it virtually. And so my
+    parents are coming around. They’re following me on my route,
+    bringing me a jacket, food, water and whatnot because there are no
+    water stations, and just really helping me out. So I feel really
+    supported and lucky to be here with them. So thank you.
+
+  - inna kim  
+    Hi, this is Inna. I am in New Jersey. I moved from South Korea a
+    couple of months ago, and this is not easy situation for all. But I
+    have a routine. I exercise. I bake bunch. And I also have a baby,
+    who is 10 months old, which makes me keep going and super busy. And
+    for my family in South Korea, I try to contact them every day,
+    sending a bunch of photos of baby, especially to my mom. And
+    actually, I just sent her gift box, which has a bunch of lemons and
+    gingers for her immune system. And I hope she’s fine and well. And
+    yeah, thank you.
+
+  - speaker 9  
+    Hi, Jenna. Hi, Wesley. I’m currently studying in Cambridge, the
+    U.K., where I am in self-isolation, of course. My little sister does
+    not live with me. So she’s in London right now. But we have been
+    having FaceTime calls where we have dance parties. And we have
+    karaoke sessions where we do what we would normally do if we were
+    living together, which is sing, scream a Disney song at the top of
+    our lungs. But we’re doing it virtually over the internet. It’s
+    really worked to distract me and just really make me feel silly and
+    forget about the absurdity of what we’re currently going through. So
+    I hope you two are taking care, and I will see you on the internet.
+
+  - mike pesoli  
+    Hey, Jenna. Hey, Wesley. This is Mike coming to you from Chicago. I
+    am currently taking care of myself during this crisis of Covid-19 by
+    throwing myself into literature. I know it might sound basic, but I
+    find books to be a great way into someone else’s psyche or into
+    someone else’s experience. And for the few lucky people in my life,
+    I will even go as far as calling my local bookstore — my favorite is
+    Unabridged in Chicago — and I will send them a book that I think
+    they might really love. And then in that way, I’m taking care of a
+    small business that really means something to me, I’m taking care of
+    someone that I love, and I’m taking care of myself because it makes
+    me feel good to give something to someone in this moment when so
+    many of us can feel helpless. Cheers.
+
+  - speaker 10  
+    Hi, Jenna and Wesley. Something that I’ve been doing with my
+    community, and my loved ones, my family and friends, is just trying
+    to be vulnerable from afar, really getting over that fear of
+    admitting I’m not doing well right now. It’s a huge relief. It’s
+    kind of like its own way of me taking care right now is just by
+    that, letting go. And knowing that that doesn’t mean that you can’t
+    handle things, but your ability to reach out to a friend and say,
+    look, I can’t handle everything I’m feeling right now. Are you
+    available for me to share? And be well.
+
+\[music\]
+
+wesley morris
+
+Thank you to every single person who submitted something. We really,
+really appreciate it.
+
+jenna wortham
+
+And please keep taking care of yourself and your loved ones.
+
+\[music\]
+
+That’s our show. Next week, we’re going to be talking about all this
+newfound closeness that even while living in a broken, fragmented world,
+we’re finding new ways to be together, intimate, close, online and
+through our devices.
+
+“Still Processing” is a product of The New York Times. This week, like
+all the past couple of weeks, it was recorded in our living rooms.
+
+wesley morris
+
+It’s produced by Hans Beutow and Sydney Harper.
+
+jenna wortham
+
+Our editors are Sara Sarasohn, Sasha Weiss, Wendy Door, and Lisa Tobin.
+
+wesley morris
+
+And our engineer is Jake Gorski.
+
+jenna wortham
+
+Our theme music is by Kindness. It’s called “World Restart,” from the
+album “Otherness.” You can find all our old episodes and the show notes
+for this one and those at
+NYTimes.com/stillprocessing.
+
+\[music\]
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="position:absolute;width:0;height:0;visibility:hidden;display:none">
+
+</div>
+
+<div style="width:100%">
+
+<div class="css-18qqsen e1eullfg0" style="background-image:url(https://static01.graylady3jvrrxbe.onion/images/2019/09/15/podcasts/still-processing-album-art-2/still-processing-album-art-2-videoFifteenBySeven2610-v2.png)">
+
+<div class="css-1hmsypo e1eullfg2">
+
+<div class="css-131hid3 e1eullfg3">
+
+<div class="css-1uhi299 e1eullfg1">
+
+</div>
+
+<div class="css-1tloyb6">
+
+<div class="css-1kltdsh ehra6vc0">
+
+[<span class="css-1f76qa2">![Still Processing
+logo](https://static01.graylady3jvrrxbe.onion/images/2019/09/15/podcasts/still-processing-album-art-2/still-processing-album-art-2-square320.jpg)<span>Still
+Processing</span></span>](https://www.nytimes3xbfgragh.onion/column/still-processing-podcast)<span class="css-1lhttlg ehra6vc1"><span class="css-sj5ozi ehra6vc2">Subscribe:</span></span>
+
+  - [Apple Podcasts](https://itunes.apple.com/us/podcast/id1151436460)
+  - [Google
+    Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9yc3MuYXJ0MTkuY29tL255dC1zdGlsbC1wcm9jZXNzaW5n)
+
+</div>
+
+</div>
+
+<div class="css-1r0dpua e1eullfg4">
+
+<div class="css-1gu519p edye5kn0">
+
+<div>
+
+# Fiona Ex Machina
+
+## Fiona Apple blows our minds, again.
+
+</div>
+
+<span class="css-lsnb14 edye5kn4">Hosted by Wesley Morris and Jenna
+Wortham. Produced by Hans Buetow and Sydney Harper.</span>
+
+<div class="css-1vd84sn">
+
+<span class="css-16bt4xd">Transcript</span>
+
+</div>
+
+</div>
+
+<div class="css-1g7y0i5 e1drnplw0">
+
+<div class="css-1ceswkc e1drnplw1">
+
+</div>
+
+<div class="css-f2fzwx e1drnplw2">
+
+<div data-aria-labelledby="modal-title" data-role="region">
+
+<div id="modal-title" class="css-mln36k">
+
+transcript
+
+</div>
+
+<div class="css-pbq7ev">
+
+</div>
+
+<span>Back to Still
+Processing</span>
+
+<div class="css-f6lhej">
+
+<div class="css-1ialerq">
+
+<div class="css-1701swk">
+
+bars
+
+</div>
+
+<div>
+
+<div class="css-1t7yl1y">
+
+0:00/0:00
+
+</div>
+
+<div class="css-og85jy">
+
+\-0:00
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## Fiona Ex Machina
+
+### Hosted by Wesley Morris and Jenna Wortham. Produced by Hans Buetow and Sydney Harper.
+
+#### Fiona Apple blows our minds, again.
+
+Thursday, April 30th, 2020
+
+</div>
+
+  - \[music\]
+
+  - jenna wortham  
+    This is “Still Processing.” I’m Jenna Wortham.
+
+  - wesley morris  
+    I’m Wesley Morris. And Jenna, I have a confession.
+
+  - jenna wortham  
+    Oh.
+
+  - wesley morris  
+    I have not always loved Fiona Apple.
+
+  - jenna wortham  
+    What? I’m sorry. What?
+
+  - wesley morris  
+    No, it’s true.
+
+  - jenna wortham  
+    You know what this week’s episode is about.
+
+  - wesley morris  
+    \[LAUGHING\] No, it’s true. I did not enjoy her. It started for me
+    like it did for everybody else, my relationship with this woman, in
+    1996 when she was a pretty popular recording artist out of nowhere.
+    She was a teenager, and she shows up, and she’s singing these bluesy
+    torch songs. The first single off of her first album title is called
+    “Shadow Boxer.” And I’m like, I had just started listening to Nina
+    Simone at this point, and I’m like, Oh ma’am, please, this is not —
+
+  - jenna wortham  
+    \[LAUGHING\]
+
+  - wesley morris  
+    I don’t want this from you. You don’t have what it takes. And then
+    “Criminal” happens. Now where were you when you first saw that
+    video?
+
+  - jenna wortham  
+    Listen, I’m not afraid to say it. I was a chunky teenager. So my
+    little chunky butt would sit down in front of the TV, with a bag of
+    cheetos, and I would watch these music videos. And I definitely
+    remember when “Criminal” just kept playing.
+
+  - \[music - fiona apple, "criminal"\]
+
+  - fiona apple (singing)  
+    I’ve been a bad, bad girl.
+
+wesley morris
+
+Basically, in the video, Fiona Apple is writhing around on the floor.
+She’s taking pictures of her friends. She is very thin and taking off
+her clothes at some point, and she’s in lingerie. And do you remember
+that part?
+
+jenna wortham
+
+I mean, god yes, who can forget it? That image of Fiona Apple with the
+two braids, crouched and hidden in the closet was just emblazoned across
+my young mind. And the sad thing is I wanted to be in that druggie den
+with her. And it was hard. I struggled with the popularity of that video
+because it also meant the popularity of the aesthetic of that video,
+which was rail thin, really strung out-looking, waify white girls.
+
+wesley morris
+
+It is immediately deemed part of what we — if anybody who was around in
+the late 90s remembers as being “heroin chic.” And the fear of heroin
+chic, and the controversy of so-called heroin chic, Kate Moss being the
+epitome of that. This is basically skinny white people rolling around on
+the floor and being the subject of many a fashion campaign. The video
+goes on to win Best Female Video at the 1997 Video Music Awards. And
+Fiona Apple goes up to accept her Moonman trophy.
+
+  - archived recording (fiona apple)  
+    I didn’t prepare a speech, and I’m sorry, but I’m glad that I didn’t
+    because I’m not going to do this like everybody else does it. ‘Cause
+    everybody that I should be thanking, I’m really sorry, but I have to
+    use this time. See, Maya Angelou said that we as human beings at our
+    best can only create opportunities. And I’m going to use this
+    opportunity the way that I want to use it.
+    
+    \[CHEERS AND APPLAUSE\]
+    
+    So what I want to say is, everybody out there that’s watching,
+    everybody that’s watching this world, this world is bull — \[MUTED\]
+    
+    \[APPLAUSE\]
+    
+    And you shouldn’t model your life — wait a second — you shouldn’t
+    model your life about what you think that we think is cool, and what
+    we’re wearing, and what we’re saying and everything. Go with
+    yourself. Go with yourself.
+    
+    \[CHEERING\]
+
+jenna wortham
+
+People were really confused by her speech. They didn’t know what to make
+of it. She was called rude. She was called combative.
+
+wesley morris
+
+They called her crazy.
+
+jenna wortham
+
+Yes, they called her crazy, and she was seen as entitled and bratty. And
+she essentially was banished, and she retreated. And it really created
+the impression that she was reclusive and totally a mystery from then on
+out.
+
+wesley morris
+
+Inscrutable, stubborn, difficult to work with.
+
+jenna wortham
+
+As if, like, those aren’t things that men always are. It’s just always
+hilarious to me when it’s a woman or a person of color. It’s like, Oh,
+they’re difficult. But it made me really respect her because I was like
+yes, I will go with myself. I will do what I want to do.
+
+wesley morris
+
+Well, what it did for me was make me really curious about what this
+person was going to do musically, right? I was curious about how the
+person who has this enormous backlash against her for speaking what is
+honestly the truth — I’m really curious about what that person does
+next. Two years later, my entire world gets blown up when she puts out
+this album called “When the Pawn.” This album to me was the moment where
+I was officially in love with this person.
+
+jenna wortham
+
+Mmm.
+
+wesley morris
+
+Because she took that moment in 1997, in front of the whole world, and
+she found a way to not retreat from it, but to amplify the fury she felt
+about how she was treated during that period, where she is made famous
+almost kind of against her will, and held up as being an icon of
+something that she didn’t want to be iconic for being. And the reason
+that you and I are talking about Fiona Apple is because she’s still
+speaking. And she’s still speaking in the way she wants to speak, and
+she’s finding new ways of saying what she wants to say. And a couple of
+weeks ago, she releases a new album, her first album in eight years, and
+it’s called “Fetch the Bolt Cutters.” It’s the perfect capstone on
+20-something years of living with and learning to love this woman.
+
+jenna wortham
+
+It’s also a perfect accompaniment to living in this moment, and being on
+lockdown, and being in crisis, and feeling lots of big emotions that we
+don’t know what to do with. And lo and behold, here we have a piece of
+art that is exactly rooted in what you do with feelings of frustration,
+pent up rage, anger, and ultimately funnels them into action. It’s a
+really perfect companion for Covid, even though it’s not meant to be.
+It’s been in the works for a long time. But it actually turns out to
+be the perfect companion for right now.
+
+wesley morris
+
+So we are going to take a break. And when we come back, we’re going to
+talk about Fiona Apple’s latest masterpiece, “Fetch the Bolt Cutters.”
+
+\[music - kindness, "world restart"\]
+
+\[music - fiona apple, "fetch the bolt cutters"\]
+
+  - fiona apple (singing)  
+    Fetch the bolt cutters. I’ve been in here too long.
+    
+    Fetch the bolt cutters.
+
+jenna wortham
+
+Wesley, you know what gives me the shivers in this song?
+
+wesley morris
+
+What?
+
+jenna wortham
+
+It’s the way she says “fetch the bolt cutters,” right? It’s not like a
+scream. It’s not like (SHOUTING) fetch the bolt cutters\! It’s just this
+quiet —
+
+wesley morris
+
+Ring the alarm\!
+
+jenna wortham
+
+Right, right, right. It’s not this alarmist battle cry. It’s just this
+very resolved, astute observation that it’s time to fetch the bolt
+cutters. And it gives me the chills because there’s no — it’s not like,
+do you want to get them? Let me help you if you’ve been thinking about
+getting the bolt cutters and liberating yourself. No, no, no, it’s time.
+We’re leaving. Go get the bolt cutters. And since the song came out,
+I’ve noticed it across just so many different places in social media,
+but in particular, it’s being used to score videos and Instagram
+stories. And it’s everything from somebody breaking down a chicken or a
+piece of meat for dinner, which is really grim and gruesome in all the
+best ways. You know, I saw recently a friend was playing the song while
+she was preparing a really luxurious bath for herself. Somebody else was
+using it to dance. I mean, I was playing it while I was cooking the
+other night and then posted a story with it. And I think it really is a
+soundtrack for the coronavirus pandemic. It feels so appropriate because
+even though, physically, we really can’t fetch the bolt cutters. We’ve
+been actually told many times to not fetch the bolt cutters, actually to
+put them away, put the lock back on the door, stay inside. But
+metaphorically, this idea that it’s time to step outside of ourselves.
+It’s time to step outside of our comfort zones. It’s time to do things
+differently and to think about other people, or to think about, I guess,
+ourselves in relationship to other people and make different decisions,
+and unlock the parts of yourself that have been yearning to come out.
+Because literally it’s now or never, like we’ve faced what has felt like
+end times. So if not now, then when? And I think that’s why people — I
+think that’s why women in particular are really responding to it because
+that reminder is coming along at a time when we most need it.
+
+wesley morris
+
+The calm with which she says fetch the bolt cutters strikes me as, “My
+water just broke.” She says that, and what I hear is a person responding
+to an almost involuntary force that she knew was coming this whole time.
+And it is finally here, and she is ready to release it into the world.
+
+jenna wortham
+
+It’s just this declaration that it’s time for whatever was holding me
+back in the past, or whatever — I just imagine a pair of pliers. It’s
+just like these things are being extracted. It’s like whatever vestige
+of the past, whatever thing you don’t need anymore, whatever thorn in
+your foot, whatever is in your way, it’s like we’re plucking it out one
+by one and setting it to the side. So for me, the visual is not like a
+fence coming down, or a gate lock being broken. It’s actually like these
+tiny, methodical, little extractions and excisions being made, like a
+process is happening by which through we will then exit.
+
+wesley morris
+
+Mmm. Now look, I don’t think that Fiona Apple is trying to sound like
+anybody at any particular time. I don’t know what she’s listening to
+now. But there’s this part of this song where it sounds to me like a
+little bit Rickie Lee Jones in one spot, this move into Beyoncé, and
+then back into Rickie Lee Jones, for just like 12 seconds. And it’s just
+really beautiful.
+
+\[music - fiona apple, "fetch the bolt cutters"\]
+
+  - fiona apple (singing)  
+    While I’d not yet found my bearings those it girls hit the ground
+    comparing the way I was to the way she was, saying I’m not stylish
+    enough, and I cry too much. And I listened because I hadn’t found my
+    own voice yet. So all I could hear was the noise that people make
+    when they don’t know shit. But I didn’t know that yet.
+
+wesley morris
+
+The way she sort of sing-talks that, and then she lowers her voice, and
+she kind of runs the words together. I heard that, and I thought, I hear
+Beyoncé doing the verses in “Hold Up,” and she’s doing them as a sort of
+lullaby. And there’s just something about this part of the song that is
+so fragrant to me, the allusion to these two women, these two very
+different singer-songwriters, just really got me.
+
+jenna wortham
+
+Mmm. It’s really interesting to invoke our queen and patron saint,
+Beyoncé, in relationship to this album because there’s actually a lot in
+“Fetch the Bolt Cutters” that makes me think a lot about “Lemonade,” in
+particular. And not really sonically yet, even though I do see the point
+that you just made. But I think just tonally, it’s really, really,
+really satisfying to listen to women at a very particular point in time
+— their 40s. Beyoncé is almost there, Fiona is a little bit over that.
+These are both women who’ve lived most of their teen years in the public
+eye. These are women who both have been agents of their sexuality and
+have had their sexuality be used to kind of sell music, and to sell
+them. And to sort of watch them take control over what that looks like
+and what that means to them is really gratifying. And I’m listening to
+the song itself, “Fetch the Bolt Cutters,” I’m hearing Fiona Apple do
+her thing. But in my mind’s eye, I’m seeing Beyoncé in that incredible
+marigold, lemony dress with all the ruffles, and her hair is just
+flowing, walking down the street, twirling the bat and bashing out the
+windows.
+
+wesley morris
+
+\[LAUGHING\]
+
+jenna wortham
+
+And it’s just remarkable. They’re both so resigned to destruction, but
+no longer self-destruction. And I’m a little bit younger than both of
+them, but I’m also coming into that self-awareness of not just kind of
+who I’ve been, but sort of taking all of that knowledge and sort of
+paying it forward and thinking about who I want to be, especially in
+relationship to myself and other women in my world. And they do kind of
+offer these blueprints for how to take in all that emotion and kind of
+how to push it back out in a way that’s cathartic and constructive, at
+least to them.
+
+wesley morris
+
+The thing that comes to mind when you say that is “Heavy Balloon.” The
+opening line is like, People like us play with a heavy balloon. It’s
+clearly about depression. But it also, even through the depression, it’s
+an attempt to reach out. It’s the most rhythmic and grooving song on the
+album. And it’s the song on the album that sounds most like a song on
+her first album, “Tidal,” called “The First Taste.”
+
+jenna wortham
+
+Mm-hm.
+
+wesley morris
+
+It is this evocation of an earlier self, a lighter self.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    People like us, we play with a heavy balloon. We keep it up to keep
+    the devil at bay but it always falls way too soon.
+
+jenna wortham
+
+But I think you feel that interplay between the heaviness and the
+darkness because she’s talking about all this extra weight, and how that
+density makes it hard to rise up. But then, you get to the chorus.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    But you know what? I spread like strawberries. I climb like peas and
+    beans. I’ve been sucking it in so long that I’m busting at the
+    seams.
+
+jenna wortham
+
+Whenever I hear it, I’m like throwing my head back and I’m like staring
+up at the sky, and I’m just like gyrating my hips to myself. I’m like,
+yeah, spread like strawberries. And she said in an interview that she
+was really moved by the idea about the ways that strawberries grow out
+and they cover an entire garden. And so there is this levity in that
+imagery of just like, yeah, I might be heavy, I might be depressed. But
+I’m actually going to keep doing my thing. I’m going to keep growing.
+And that song is one my favorites on the album for sure.
+
+wesley morris
+
+Oh, it’s great.
+
+jenna wortham
+
+It’s the one I play the loudest.
+
+wesley morris
+
+I am in awe of this woman. The way she is able to capture feelings that
+are so mundane, to be able to take those kitchen staples and turn them
+into objects of determination and pain. Geez, Louise.
+
+\[music - fiona apple, "heavy balloon"\]
+
+  - fiona apple (singing)  
+    I spread like strawberries. I climb like peas and beans.
+
+jenna wortham
+
+I really want to talk about the song “Ladies” off the album. Fiona Apple
+is talking to her ex’s new girlfriend — or you can pluralize it, new
+girlfriends. I mean, she’s really just talking to the lineage — the line
+of women that are coming after her. And the song is both a warning and
+both a little bit of a preemptive apology for kind of what they’re in
+for. I like to think about this song as kind of its own whisper network,
+like Fiona’s trying to tell these women what it’s going to be like to be
+in a relationship with him. But I also don’t feel like she’s blaming
+them for the choices that they’re going to make. She just wants them to
+make informed choices. If this is your choice and you make it, OK, but
+I’ll be here for you on the other side if you want me to be. Because
+I’ve been there too, and I know what that’s like. And damn, what a
+gesture. That takes a lot of self-reflection (LAUGHING) and
+introspection.
+
+wesley morris
+
+Yeah. Even the idea that she’s just sort of saying, you know, I might’ve
+left some stuff at his place, take it. When you go, you can take
+whatever I left.
+
+jenna wortham
+
+She even says though, There’s a dress that’s not mine, but don’t throw
+it out. It was there when I got there. And let’s be at peace with the
+way time works, and the way life works.
+
+\[music - fiona apple, "ladies"\]
+
+  - fiona apple (singing)  
+    Ladies, ladies, ladies, ladies. Ruminations on the looming effect
+    and the parallax view and the figure and the form —
+
+wesley morris
+
+This song also has this concept of parallax, which is a thing that Fiona
+Apple has sung about in other songs on other albums. And it’s a useful
+relationship concept, in a lot of ways, which is that, imagine looking
+at an object through your viewfinder on a camera and the lens on your
+camera. You’re looking at the same object, but in two different ways
+through two different lenses. And seems pretty useful when it comes to
+looking at people, too. Sometimes you’re looking at a person through one
+set of circumstances, and another set of circumstances reveals the exact
+same person in a completely different way. It’s taken her a long time,
+perhaps, to get to the point where she is able to practice her own
+parallaxing in order to look at, not only old relationships, but to
+understand that there is just an inherent parallax in any relationship.
+And once you get some distance on it, you’re able to see yourself as
+somebody’s future ex or current relationship.
+
+jenna wortham
+
+Mmm. I really like the generosity of that song. Because it’s a very
+natural thing to think about your current partner’s exes, or your last
+partner, who they date after you. It’s very easy to get caught up in
+these spirals and to compare and despair, and to try to weigh your own
+enough-ness against these shadowy images of other people and other
+women. And I really feel like she’s trying to open a conversation and be
+like, we are not each other’s enemies. I’m no longer playing this game.
+And come over for tea. Even more, like, let’s go on a hike together. I
+just want you to know, I’m not gunning for you. And you start to realize
+the ways in which you’ve been taught and conditioned to only see other
+women as rivals or people you should compare yourself against, rather
+than see them as what they can be, which are collaborators, true loves,
+like deep, deep friends, sisters.
+
+wesley morris
+
+I love how loungey this song sounds. It’s got this really good bass
+line, and the groove is familiar to me as a kind of a little bit of an
+R\&B vamp, where the story being told is one thing, but there is also a
+way that you have to perform the story. And I hear it, and I’m just
+like, Nina Simone could do this. Aretha could do this. Gladys Knight
+could do this. These three very, very different singers could all
+respond to this song in their characteristic ways without necessarily
+even having to do much of a rearrangement —
+
+jenna wortham
+
+Oh, yeah.
+
+wesley morris
+
+— of the song itself. But this kind of world-weary, been through it all
+way of (LAUGHING) communicating.
+
+jenna wortham
+
+Oh, yeah. I love, love, love the kind of fatigue in it and the humor.
+And I can totally just see Fiona Apple with a black fedora on, and a
+white tank top and suspenders, and her sinewy arms are out, and she’s in
+the back of some sort of smoky cabaret. \[LAUGHTER\] And she’s just like
+cocked to the side and clapping in this very cynical way.
+
+\[music - fiona apple, "ladies"\]
+
+  - fiona apple (singing)  
+    Yet another woman to whom I won’t get through.
+
+wesley morris
+
+The thing about Fiona Apple is she’s always been about warning somebody
+about something.
+
+jenna wortham
+
+\[LAUGHING\]
+
+wesley morris
+
+Whether it’s a potential relationship, or herself about herself. And
+this album is the first time all of that experience, and all of that
+knowledge, and all of that rejection, and avoidance, and judgment, and
+perception has been harnessed for the powers of what can only be
+described as wisdom.
+
+jenna wortham
+
+Mmm. Well Wesley, I am just now reigniting my love affair with Fiona
+Apple. But you’ve been deep in it with her for the last 20 years or so.
+So help me understand the work that she’s done from the last time I was
+paying attention, with “Tidal,” to now, with “Fetch the Bolt Cutters.”
+
+wesley morris
+
+OK, so if we want to understand a little bit where Fiona Apple is in
+2020, relative to where she was say, even in 2012, I think it might be
+useful to actually just go back to 2012 and listen to one of the best
+songs on her previous great album, which is called “The Idler Wheel,”
+the I-D-L-E-R wheel. And the song that came to mind that is useful, both
+in terms of how we’ve been talking about her today, and also in terms of
+her adventurousness as a singer, is this song called “Regret.” It’s just
+structured really beautifully, and it sounds like she’s built this one
+kind of seemingly straightforward, beautiful song, and then something
+happens.
+
+\[music - fiona apple, "regret"\]
+
+  - fiona apple (singing)  
+    Oh, I ran out of white doves’ feathers to soak up the hot piss that
+    comes from your mouth every time you address me.
+
+wesley morris
+
+There’s a kind of singing that I really love and is very hard to do. I’m
+talking specifically about ugly singing, or unusual singing, right?
+There aren’t a lot of people who have the skill, and I would say even
+more important, the bravery to do it, to try it. The recorded music
+history is a lot of such people. I mean, you can go back to someone like
+Louis Armstrong, or Screamin’ Jay Hawkins, and Nina Simone, and Yoko
+Ono, and Tom Waits, the patron saint of back of the throat, bottom of
+the earth singing. People who are much more interested in the truth of
+the sound of the voice than of the alleged beauty of the presentation.
+It’s just such a beautiful, beautiful song about real ugly feelings. And
+I feel like that’s the thing that I love her so much for is she isn’t
+afraid to make ugly feelings sound ugly. She doesn’t run away from where
+she is emotionally. I mean, this song is stripped down to almost
+nothing. In that beautiful moment at the end, where she — you hear the
+piano top close.
+
+jenna wortham
+
+Yeah. (LAUGHING)
+
+wesley morris
+
+She’s like, I’m done. I’ve said it all.
+
+jenna wortham
+
+Yeah. And you know Wesley, maybe some of the distance that has been
+closed, or crossed, or worked out in the last eight years, I guess,
+between this song coming out, “Regret,” on “The Idler Wheel” and then
+“Fetch the Bolt Cutters” is that Fiona Apple has figured out at least
+what she’s going to do with all those raw nerve endings. She’s learned a
+little bit how to process them, how to sit with them, and how to be OK.
+(LAUGHING) Right? And she’s teaching us also right now how to be OK with
+them. Because one of the differences between a song like “Regret” and
+then something like “Heavy Balloon,” that pain and grief of a song like
+“Regret” has been transmuted. And it’s not that she’s avoiding it, or
+she’s not dealing with it, it’s just that she has metabolized it and she
+has channeled it into something else.
+
+And that’s why I think, even though “Fetch the Bolt Cutters” is still
+so, so, so emotionally dense, and the frequency is so high, it can feel
+peaceful, it can feel calm. Because she’s worked out how she feels about
+these things. And now she’s telling us so that we can do the same.
+
+\[music\]
+
+  - speaker 1  
+    Hey, Jenna and Wesley.
+
+  - speaker 2  
+    Hi, Jenna, hi, Wesley.
+
+  - speaker 4  
+    Hey, y’all.
+
+\[music\]
+
+jenna wortham
+
+A few weeks ago, we asked you to tell us how you’re taking care during
+these times, and how people are taking care of you. And the responses
+were overwhelming.
+
+wesley morris
+
+We heard from people all over the planet.
+
+  - mike  
+    This is Mike coming to you from Chicago.
+
+  - speaker 5  
+    Cambridge, U.K.
+
+  - speaker 6  
+    I live in Greenpoint in Brooklyn, New York.
+
+  - speaker 7  
+    In Lisbon, Portugal’s capital in mainland Europe.
+
+wesley morris
+
+And you guys are doing amazing work just taking care of yourselves.
+
+  - speaker 8  
+    Hi, Wesley and Jenna. I’m calling in with a story of how my husband
+    has taken care of me during this difficult time. I had a birthday in
+    the end of March, and had plans to celebrate, but obviously wasn’t
+    able to do that. I work for one of the major museums in the city,
+    which is shut down. And so my husband surprised me by asking a bunch
+    of our friends to create something. They emailed it to him, he
+    printed it out, and he hung it up. He got actually 70 submissions of
+    works of art, and he had so many submissions, there are two rooms in
+    the house filled with art created by our loved ones. And he
+    surprised me with my own museum with art that I could come and look
+    at and take care of. And it not only took care of me, but it was a
+    bright spot for a lot of people as well, where they stopped for a
+    second, and sat down, and created something, or they had their kid
+    make something. And so my husband was able to do something that took
+    care of me, but also took care of a lot of our friends, even for a
+    brief second. It was a very unusual 36th birthday.
+
+  - claire grindinger  
+    OK. Hey, Jenna. Hey, Wesley. My name’s Claire Grindinger. I’m a
+    senior at Washington University in St. Louis, but right now I’m home
+    in Dallas, Texas, cause of the coronavirus. I am right now running,
+    as you might be able to tell. On March 29, I was supposed to run the
+    St. Louis Go marathon, but I decided to run it virtually. And so my
+    parents are coming around. They’re following me on my route,
+    bringing me a jacket, food, water and whatnot because there are no
+    water stations, and just really helping me out. So I feel really
+    supported and lucky to be here with them. So thank you.
+
+  - inna kim  
+    Hi, this is Inna. I am in New Jersey. I moved from South Korea a
+    couple of months ago, and this is not easy situation for all. But I
+    have a routine. I exercise. I bake bunch. And I also have a baby,
+    who is 10 months old, which makes me keep going and super busy. And
+    for my family in South Korea, I try to contact them every day,
+    sending a bunch of photos of baby, especially to my mom. And
+    actually, I just sent her gift box, which has a bunch of lemons and
+    gingers for her immune system. And I hope she’s fine and well. And
+    yeah, thank you.
+
+  - speaker 9  
+    Hi, Jenna. Hi, Wesley. I’m currently studying in Cambridge, the
+    U.K., where I am in self-isolation, of course. My little sister does
+    not live with me. So she’s in London right now. But we have been
+    having FaceTime calls where we have dance parties. And we have
+    karaoke sessions where we do what we would normally do if we were
+    living together, which is sing, scream a Disney song at the top of
+    our lungs. But we’re doing it virtually over the internet. It’s
+    really worked to distract me and just really make me feel silly and
+    forget about the absurdity of what we’re currently going through. So
+    I hope you two are taking care, and I will see you on the internet.
+
+  - mike pesoli  
+    Hey, Jenna. Hey, Wesley. This is Mike coming to you from Chicago. I
+    am currently taking care of myself during this crisis of Covid-19 by
+    throwing myself into literature. I know it might sound basic, but I
+    find books to be a great way into someone else’s psyche or into
+    someone else’s experience. And for the few lucky people in my life,
+    I will even go as far as calling my local bookstore — my favorite is
+    Unabridged in Chicago — and I will send them a book that I think
+    they might really love. And then in that way, I’m taking care of a
+    small business that really means something to me, I’m taking care of
+    someone that I love, and I’m taking care of myself because it makes
+    me feel good to give something to someone in this moment when so
+    many of us can feel helpless. Cheers.
+
+  - speaker 10  
+    Hi, Jenna and Wesley. Something that I’ve been doing with my
+    community, and my loved ones, my family and friends, is just trying
+    to be vulnerable from afar, really getting over that fear of
+    admitting I’m not doing well right now. It’s a huge relief. It’s
+    kind of like its own way of me taking care right now is just by
+    that, letting go. And knowing that that doesn’t mean that you can’t
+    handle things, but your ability to reach out to a friend and say,
+    look, I can’t handle everything I’m feeling right now. Are you
+    available for me to share? And be well.
+
+\[music\]
+
+wesley morris
+
+Thank you to every single person who submitted something. We really,
+really appreciate it.
+
+jenna wortham
+
+And please keep taking care of yourself and your loved ones.
+
+\[music\]
+
+That’s our show. Next week, we’re going to be talking about all this
+newfound closeness that even while living in a broken, fragmented world,
+we’re finding new ways to be together, intimate, close, online and
+through our devices.
+
+“Still Processing” is a product of The New York Times. This week, like
+all the past couple of weeks, it was recorded in our living rooms.
+
+wesley morris
+
+It’s produced by Hans Beutow and Sydney Harper.
+
+jenna wortham
+
+Our editors are Sara Sarasohn, Sasha Weiss, Wendy Door, and Lisa Tobin.
+
+wesley morris
+
+And our engineer is Jake Gorski.
+
+jenna wortham
+
+Our theme music is by Kindness. It’s called “World Restart,” from the
+album “Otherness.” You can find all our old episodes and the show notes
+for this one and those at NYTimes.com/stillprocessing.
+
+\[music\]
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1xgepvx e1eullfg5">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-fnovkn e1gfokfg0">
+
+<span class="css-1ly73wi e1tej78p0">Previous</span>
+
+<div class="css-1s78rjm e1gfokfg1">
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-hoe9xz">
+
+<span class="css-nxkttv">More episodes
+of</span><span class="css-19zi9mh">Still
+Processing</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/multimedia/23stillprocessing-pix/23stillprocessing-pix-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/23/podcasts/hamilton-ziwe-discomfort.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 23, 2020<span>  <span class="css-orcm78">•</span> 
+38:10</span><span class="css-i5svdo">Ziwe May Destroy
+Hamilton</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/18/multimedia/16stillprocessing-pix/16stillprocessing-pix-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/16/podcasts/reparations-for-aunt-jemima.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 16, 2020<span>  <span class="css-orcm78">•</span> 
+35:35</span><span class="css-i5svdo">Reparations for Aunt
+Jemima\!</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/podcasts/09stillprocessing-image/xx-stillprocessing-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/09/podcasts/still-processing-black-lives-matter.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 9, 2020<span>  <span class="css-orcm78">•</span> 
+26:29</span><span class="css-i5svdo">So Y’all Finally Get
+It</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/16/podcasts/14stillprocessing-image/14stillprocessing-image-thumbLarge-v2.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/14/podcasts/still-processing-westworld-hollywood-utopia-dystopia.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 14, 2020<span class="css-i5svdo">New Loop,
+America</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/28/pageoneplus/28sondheimjp-sp/28sondheimjp-sp-thumbLarge-v4.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/07/podcasts/still-processing-internet-vulnerability-sondheim-parks-recreation.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 7, 2020<span class="css-i5svdo">Does This Phone Make Me Look
+Human?</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/03/multimedia/30stillpro-image/30stillpro-image-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/30/podcasts/still-processing-fiona-apple-fetch-bolt-cutters.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 1, 2020<span class="css-i5svdo">Fiona Ex
+Machina</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/25/arts/23stillprocessing/23stillprocessing-thumbLarge-v3.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/23/podcasts/still-processing-halle-berry-sharon-stone-catwoman-quarantine.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+April 23, 2020<span class="css-i5svdo">Halle Berry?
+Hallelujah.</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/20/us/16stillprocessing/16stillprocessing-thumbLarge-v3.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/16/podcasts/still-processing-AIDS-survive-coronavirus.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+April 16, 2020<span class="css-i5svdo">How to Learn From a
+Plague</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/11/podcasts/09stillprocessing-image2/09stillprocessing-image2-thumbLarge-v2.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/09/podcasts/still-processing-tiger-king.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+April 9, 2020<span>  <span class="css-orcm78">•</span> 
+39:49</span><span class="css-i5svdo">Frosted
+Flakes</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/05/arts/02still-processing-highfidelity/13highfidelity-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/02/podcasts/high-fidelity-zoe-kravitz.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+April 2, 2020<span>  <span class="css-orcm78">•</span> 
+40:55</span><span class="css-i5svdo">Delicious
+Vinyl</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/03/29/podcasts/26stillprocessing1/26stillprocessing1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/03/26/podcasts/still-processing-quarantine.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+March 26, 2020<span>  <span class="css-orcm78">•</span> 
+30:47</span><span class="css-i5svdo">A Pod From Both Our
+Houses</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2019/11/08/arts/07stilpr-parasite/00parasite-1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2019/11/07/podcasts/still-processing-parasite-watchmen-bong-joon-ho.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+November 7, 2019<span class="css-i5svdo">Wake</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-1o3broy">
+
+[<span class="css-nxkttv">See All Episodes
+of</span><span class="css-cbc4vz">Still
+Processing</span>](https://www.nytimes3xbfgragh.onion/column/still-processing-podcast)
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1ly73wi e1tej78p0">Next</span>
+
+</div>
+
+</div>
+
+<div class="css-1tlsmx">
+
+<div class="css-7xzttq e16638kd2">
+
+Published April 30, 2020Updated May 12,
+2020
+
+</div>
+
+<div>
+
+<div class="css-4xjgmj">
+
+<div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+<div class="css-1wlr991">
+
+<div class="css-18e8msd">
+
+<div class="css-2ja7y1 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Wesley
+Morris</span>](https://www.nytimes3xbfgragh.onion/by/wesley-morris) and
+[<span class="css-1baulvz last-byline" itemprop="name">Jenna
+Wortham</span>](https://www.nytimes3xbfgragh.onion/by/jenna-wortham)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+“Fetch the Bolt Cutters” is Fiona Apple’s master class in channeling
+frustration and anger into what can only be called wisdom. Also, we hear
+from listeners all over the planet, sharing how they are taking care of
+the people in their
+lives.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-zgakxe erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:580.6444444444445px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Fiona Apple
+performing in 2019 in Inglewood,
+Calif.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Kevin
+Mazur/Getty Images for The Chris Cornell Estate</span></span>
+
+</div>
+
+</div>
+
+Discussed this week:
+
+  - “[Fetch the Bolt
+    Cutters](https://www.youtube.com/watch?v=N541HLPeG6Y&list=OLAK5uy_nvvTVXc476e1vHBGAN7Y-DH9_sZjOhgx8)”
+    (Fiona Apple, 2020)
+
+  - [Fiona Apple on the VMAs
+    in 1997](https://www.youtube.com/watch?v=42gNkySFycA)
+
+  - “[Regret](https://www.youtube.com/watch?v=9W9Un3rIzns)” (Fiona
+    Apple, “The Idler Wheel Is Wiser than the Driver of the Screw and
+    Whipping Cords Will Serve You More than Ropes Will Ever Do,” 2012)
+
+  - “[Criminal](https://www.youtube.com/watch?v=FFOzayDpWoI)” (Fiona
+    Apple, “Tidal,” 1996)
+
+  - “[Hold Up](https://www.youtube.com/watch?v=PeonBmeFR8o)” (Beyoncé
+    Knowles, “Lemonade,” 2016)
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“Still Processing” is produced by Hans Buetow and Sydney Harper and
+edited by Sara Sarasohn and Sasha Weiss, with editorial oversight from
+Wendy Dorr and Lisa Tobin. Our engineer is Jake Gorski. Our theme music
+is by Kindness. It’s called “World Restart,” from the album “Otherness.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -116,14 +116,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Understand Pooled
-    Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/07/27/upshot/coronavirus-pooled-testing.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/29/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [What School May Look
+    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -216,14 +216,20 @@ Jr.</span>](https://www.nytimes3xbfgragh.onion/by/donald-g-mcneil-jr)
 
 </div>
 
-  - July 29, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 29, 2020Updated July 30,
+    2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -257,8 +263,9 @@ Once again, the coronavirus is ascendant. As infections mount across the
 country, it is dawning on Americans that the epidemic is now
 unstoppable, and that no corner of the nation will be left untouched.
 
-As of Tuesday, the pathogen had infected at least 4.3 million Americans,
-killing almost 150,000. Many experts fear the virus could kill
+As of Wednesday, the pathogen had infected at least 4.3 million
+Americans, killing more than 150,000. Many experts fear the virus could
+kill
 [200,000](https://www.forbes.com/sites/mattperez/2020/07/07/imhe-model-projects-208255-us-deaths-by-november-but-estimate-falls-sharply-if-mask-use-increases/#3c8ee9616f2e)or
 [even 300,000](https://www.cnbc.com/2020/07/22/dr-scott-gottlieb-us-coronavirus-deaths-may-hit-300000-by-year-end.html)
 by year’s end. Even President Trump has donned a mask, after resisting
@@ -456,42 +463,41 @@ patients.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2M5MjIxMjUxLWIxYjctNTVhZS04NDY2LWVhZDg0ZDZhODU3Nw==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-07-29T17:38:35.170Z
+Updated 2020-08-01T19:08:55.687Z
 
 </div>
 
 </div>
 
-  - [The virus death toll in the U.S.
-    reaches 150,000.](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1fc03c4a)
-  - [Representative Gohmert tests positive ahead of a trip with Trump,
-    prompting concern at the
-    Capitol.](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-662712eb)
-  - [Trump says ‘we really don’t care’ about negotiating a big recovery
-    bill, instead pushing for a narrower aid
-    package.](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-73760ee2)
+  - [Top officials work to break impasse over jobless
+    benefit.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
+  - [The virus picks up dangerous speed in the Midwest, and in areas
+    that had seen
+    success.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
+  - [Thousands in Berlin protest Germany’s coronavirus
+    measures.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/07/29/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/07/29/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -548,10 +554,9 @@ globe.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A closed
-outdoor gym in Miami earlier this month. Florida and California now have
-reported more coronavirus infections than New York State, once the
-epicenter of the
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">An outdoor
+gym in Miami this month. Florida and California now have reported more
+coronavirus infections than New York State, once the epicenter of the
 epidemic.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Scott
 McIntyre for The New York Times</span></span>
 
@@ -568,7 +573,7 @@ of Minnesota’s Center for Infectious Disease Research and Policy, argue
 that only a nationwide lockdown can completely contain the virus now.
 Other researchers think that is politically impossible, but emphasize
 that localities must be free to act quickly and enforce strong measures
-with support from their state capitols.
+with support from their state legislators.
 
 [Danielle Allen](https://scholar.harvard.edu/danielleallen/home), the
 director of Harvard University’s Edmond J. Safra Center for Ethics,
@@ -730,8 +735,9 @@ Trieb for The New York Times</span></span>
 
 <div class="css-53u6y8">
 
-As of Tuesday, new infections were still rising in 28 states, according
-to a database maintained by The Times.
+As of Wednesday, new infections were rising in 33 states, and in Puerto
+Rico and the District of Columbia, according to a database maintained by
+The Times.
 
 Weeks ago, experts like Dr. Anthony S. Fauci, the director of the
 National Institute for Allergy and Infectious Diseases, [were
@@ -742,8 +748,7 @@ bars, forbidding large gatherings and requiring mask usage.
 Many of those states are finally taking that advice, but it is not yet
 clear whether this national change of heart has happened in time to stop
 the newest wave of deaths from ultimately exceeding the 2,750-a-day peak
-of mid-April. Through Tuesday, the seven-day average was 1,078 virus
-deaths nationwide.
+of mid-April. Now, the daily average is 1,106 virus deaths nationwide.
 
 Deaths may surge even higher, experts warned, when cold weather, rain
 and snow force Americans to meet indoors, eat indoors and crowd into
@@ -889,7 +894,7 @@ candidates.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-90788" class="css-1lev2qo" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -991,7 +996,7 @@ Updated July 27, 2020
         symptoms was “very rare,” [but she later walked back that
         statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
 
-<div id="styln-survey-component-90788" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -1174,7 +1179,8 @@ media that Black people were somehow immune.
 The top factor making people adopt self-protective behavior is
 personally knowing someone who fell ill, said Dr. Redbird. By the end of
 spring, Black and Hispanic Americans were 50 percent more likely than
-white Americans to know someone who had been ill, her surveys found.
+white Americans to know someone who had been sickened by the virus, her
+surveys found.
 
 Dr. Hernandez, whose parents live in Arizona, said their neighbors who
 had not been scared in June had since changed their attitudes.
