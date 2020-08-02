@@ -194,9 +194,8 @@ story](#after-sponsor)
 </div>
 
 House Republicans are on the defensive in suburban strongholds as voters
-reject President Trump’s handling of the coronavirus and calls for
-racial
-justice.
+reject President Trump’s handling of the
+coronavirus.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -243,8 +242,14 @@ Edmondson</span>](https://www.nytimes.com/by/catie-edmondson)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">10:15 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 1,
+    2020
+    
+    </div>
 
   - 
     
@@ -510,8 +515,8 @@ preparing to cast their first votes for Democratic congressional
 candidates, infuriated by the administration’s handling of the pandemic.
 
 Cass Mattison and his wife, Samantha Mattison, who live in Sugar Land,
-just southwest of Houston, are registered Republicans, but they both
-plan to vote for Sri Kulkarni, a Democratic former Foreign Service
+just southwest of Houston, say they usually vote Republican, but they
+both plan to vote for Sri Kulkarni, a Democratic former Foreign Service
 officer running to replace Representative Pete Olson, a Republican who
 is retiring. They cite their party’s “very poor handling” of the
 pandemic “from top to bottom.”

@@ -114,7 +114,7 @@ want you to show the scars,” she said. “I want people to see what this
 virus does to a
 person.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Sebastian
 Hidalgo for The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-LUNGTRANSPLANT1/merlin_175086177_1077d762-30a6-4bd9-84be-71fea068258a-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.nyt.com/images/2020/08/02/science/02Virus-Lungtransplant1/merlin_175086177_1077d762-30a6-4bd9-84be-71fea068258a-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -330,19 +330,20 @@ program.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T15:39:24.096Z
+Updated 2020-08-02T06:51:12.403Z
 
 </div>
 
 </div>
 
-  - [Top officials work to break impasse over jobless benefit that
-    helped keep afloat millions of unemployed
-    Americans.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2e88f231)
-  - [Three key developments in the U.S. on Friday that you may have
-    missed.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-586d44ab)
-  - [South Korea arrests the leader of a church where the virus spread
-    rapidly.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2b88e858)
+  - [The U.S. reels as July cases more than double the total of any
+    other
+    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
 
 <div class="briefing-block-footer">
 

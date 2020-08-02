@@ -210,7 +210,7 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/russia-moscow-coronaviru.html)
+    [](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
     
     <div class="css-79elbk">
     

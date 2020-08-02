@@ -156,107 +156,206 @@ Beauty](/section/t-magazine/fashion)
 
 ## Highlights
 
-1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
-    McAlpine</span>](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Painart</span>](https://static01.nyt.com/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbStandard.jpg)](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
+    [![](https://static01.nyt.com/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-thumbStandard.jpg)](/2020/07/31/t-magazine/culture-therapist-grief.html)
     
     </div>
     
-    ### One Good Meal
+    ### Culture Therapist
     
-    ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
+    ## [How Should I Respond to Overzealous Gestures of Sympathy?](/2020/07/31/t-magazine/culture-therapist-grief.html)
     
-    Skye McAlpine has made a name for herself serving bountiful meals to
-    large groups of friends. During lockdown, she’s discovered the joy
-    of cooking for just one or
-    two.
+    “These people mire you in your sense of loss just as you are ready
+    to discover what remains to be found,” writes one of our advice
+    columnists.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Isabel
-    Wilkinson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Megan
+    O’Grady</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
-        of the artist and Garth Greenan Gallery,
-        N.Y.</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-pindell/13tmag-pindell-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+        Bourne</span>](https://static01.nyt.com/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-pindell/13tmag-pindell-thumbStandard.jpg)](/2020/07/24/t-magazine/howardena-pindell.html)
+        [![](https://static01.nyt.com/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-thumbStandard.jpg)](/2020/07/31/t-magazine/design-bothy-anstruther.html)
         
         </div>
         
-        ### True Believers
+        ## [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](/2020/07/31/t-magazine/design-bothy-anstruther.html)
         
-        ## [A Portrait of an Artist Not to Be Underestimated](/2020/07/24/t-magazine/howardena-pindell.html)
-        
-        The painter Howardena Pindell discusses her 1990 work
-        “Scapegoat.”
+        Harriet Anstruther has transformed a former outbuilding on her
+        farm in the British countryside into a maximalist
+        retreat.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Howardena
-        Pindell</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Aimee
+        Farrell</span></span>
         
         </div>
     
-    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicholas
-        Calcott</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
+        McAlpine</span>](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-thumbStandard.jpg)](/2020/07/22/t-magazine/la-monte-young.html)
+        [![](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbStandard.jpg)](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
         
         </div>
         
-        ### True Believers
+        ### One Good Meal
         
-        ## [The Man Who Brian Eno Called ‘the Daddy of Us All’](/2020/07/22/t-magazine/la-monte-young.html)
+        ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
         
-        La Monte Young, the composer who quietly shaped much of
-        contemporary Western music, reaches his last
-        act.
+        Skye McAlpine has made a name for herself serving bountiful
+        meals to large groups of friends. During lockdown, she’s
+        discovered the joy of cooking for just one or
+        two.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">M.H.
-        Miller</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Isabel
+        Wilkinson</span></span>
         
         </div>
     
-    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nin
-        Solis</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
+        Weaver</span>](https://static01.nyt.com/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-thumbStandard.jpg)](/2020/07/24/t-magazine/luis-barragan.html)
+        [![](https://static01.nyt.com/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbStandard.jpg)](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
         
         </div>
         
-        ### True Believers
+        ### The T List
         
-        ## [Luis Barragán’s Forgotten Works, Revisited](/2020/07/24/t-magazine/luis-barragan.html)
+        ## [The T List: Five Things We Recommend This Week](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
         
-        After moving to Mexico City in 1935, the architect set about
-        designing a series of obscure functionalist residences that he
-        would later
-        disown.
+        Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
+        more.
         
-        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Suleman
-        Anaya</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### True Believers
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
+    of the
+    artist</span>](https://static01.nyt.com/images/2020/07/20/t-magazine/art/20tmag-artists-slide-7NNZ/20tmag-artists-slide-7NNZ-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Calming Meditation on Nigeria’s Jos Plateau](/2020/07/22/t-magazine/toyin-ojih-odutola.html)
+    
+    Toyin Ojih Odutola, known for her figurative portraits and vibrant
+    use of color, shares a new
+    artwork.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Toyin Ojih
+    Odutola</span></span>
+    
+    </div>
+
+2.  ### True Believers
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nat
+    Farbman/The Life Picture Collection/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/10/t-magazine/art/asawa-slide-M1IM/asawa-slide-M1IM-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Japanese-American Sculptor Who, Despite Persecution, Made Her Mark](/2020/07/20/t-magazine/ruth-asawa.html)
+    
+    Seven years after her death, Ruth Asawa is finally being recognized
+    as an American master. What can we learn from this overdue
+    reappraisal?
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Thessaly La
+    Force</span></span>
+    
+    </div>
+
+3.  ### True Believers
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
+    of the artist and Garth Greenan Gallery,
+    N.Y.</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-pindell/13tmag-pindell-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Portrait of an Artist Not to Be Underestimated](/2020/07/24/t-magazine/howardena-pindell.html)
+    
+    The painter Howardena Pindell discusses her 1990 work
+    “Scapegoat.”
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Howardena
+    Pindell</span></span>
+    
+    </div>
+
+4.  ### True Believers
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicholas
+    Calcott</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Man Who Brian Eno Called ‘the Daddy of Us All’](/2020/07/22/t-magazine/la-monte-young.html)
+    
+    La Monte Young, the composer who quietly shaped much of contemporary
+    Western music, reaches his last
+    act.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">M.H.
+    Miller</span></span>
+    
+    </div>
+
+5.  ### True Believers
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nin
+    Solis</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Luis Barragán’s Forgotten Works, Revisited](/2020/07/24/t-magazine/luis-barragan.html)
+    
+    After moving to Mexico City in 1935, the architect set about
+    designing a series of obscure functionalist residences that he would
+    later
+    disown.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Suleman
+    Anaya</span></span>
+    
+    </div>
+
+</div>
 
 </div>
 
@@ -303,72 +402,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-3.  ### The T List
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photos:
-    Guillermo Cano. Prop Styling: Emily Karian de
-    Cano</span>](https://static01.nyt.com/images/2020/07/22/t-magazine/22tmag-tlist-slide-KKWD/22tmag-tlist-slide-KKWD-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The T List: Five Things We Recommend This Week](/2020/07/23/t-magazine/puzzles-bug-spray-tlist.html)
-    
-    Well-designed puzzles, natural bug sprays, Paul McCarthy — and
-    more.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-4.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>©
-    Pope.L. Courtesy of the artist and Mitchell-Innes & Nash, N.Y., and
-    Vielmetter, Los
-    Angeles</span>](https://static01.nyt.com/images/2020/07/23/t-magazine/23tmag-popel-slide-NLFE/23tmag-popel-slide-NLFE-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Work in Progress That Explores Our Collective Ignorance](/2020/07/23/t-magazine/pope-l-i-machine.html)
-    
-    Pope.L, known for exploring themes of endurance alongside the
-    history of race in America, shares a recent
-    piece.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Pope.L</span></span>
-    
-    </div>
-
-5.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Will
-    Sanders</span>](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-humeau-slide-9K1Q/13tmag-humeau-slide-9K1Q-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [An Artist Who Reanimates Extinct Species](/2020/07/23/t-magazine/marguerite-humeau.html)
-    
-    In an age of uncertainty, the mysterious, highly imaginative work of
-    the sculptor Marguerite Humeau embodies the precariousness of
-    contemporary life, with an eye to the distant
-    past.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Zoë
-    Lescaze</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### True Believers
+3.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
     from top left: courtesy of the artist, Andrew Kreps Gallery, New
@@ -393,27 +427,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-2.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
-    of the
-    artist</span>](https://static01.nyt.com/images/2020/07/20/t-magazine/art/20tmag-artists-slide-7NNZ/20tmag-artists-slide-7NNZ-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Calming Meditation on Nigeria’s Jos Plateau](/2020/07/22/t-magazine/toyin-ojih-odutola.html)
-    
-    Toyin Ojih Odutola, known for her figurative portraits and vibrant
-    use of color, shares a new
-    artwork.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Toyin Ojih
-    Odutola</span></span>
-    
-    </div>
-
-3.  ### True Believers
+4.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
     Macdougall/Agence France-Presse/Getty
@@ -431,26 +445,6 @@ Beauty](/section/t-magazine/fashion)
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">M.H.
     Miller</span></span>
-    
-    </div>
-
-4.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nat
-    Farbman/The Life Picture Collection/Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/10/t-magazine/art/asawa-slide-M1IM/asawa-slide-M1IM-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Japanese-American Sculptor Who, Despite Persecution, Made Her Mark](/2020/07/20/t-magazine/ruth-asawa.html)
-    
-    Seven years after her death, Ruth Asawa is finally being recognized
-    as an American master. What can we learn from this overdue
-    reappraisal?
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Thessaly La
-    Force</span></span>
     
     </div>
 
@@ -664,6 +658,145 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/23/t-magazine/puzzles-bug-spray-tlist.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/22/t-magazine/22tmag-tlist-slide-KKWD/22tmag-tlist-slide-KKWD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Well-designed puzzles, natural bug sprays, Paul McCarthy — and
+    more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/21/t-magazine/pat-steir.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/10/t-magazine/art/steir-slide-N0XJ/steir-slide-N0XJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## The Rembrandt Self-Portrait That Has Long Captivated Pat Steir
+    
+    When she lived in Amsterdam, the New York-based artist went to see
+    this painting at least once a week.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julia
+    Felsenthal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/video/t-magazine/art/100000007194871/my-favorite-artwork-pat-steir.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/10/t-magazine/art/steir-slide-1K6L/steir-slide-1K6L-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-1j5banm ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## My Favorite Artwork | Pat Steir
+    
+    The artist speaks of living in 1970s Amsterdam, where she visited a
+    Rembrandt painting at the city’s Rijksmuseum at least weekly.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Scott J.
+    Ross</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/21/t-magazine/carrie-mae-weems-moma-garden.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/13/t-magazine/13tmag-weems/13tmag-weems-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## A More Inclusive View of MoMA’s Sculpture Garden
+    
+    Carrie Mae Weems, known for her powerful images of African-American
+    identity, shares a piece from her new project.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carrie Mae
+    Weems</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/20/t-magazine/maya-stovall.html)
     
     <div class="css-79elbk">
@@ -694,7 +827,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -730,7 +863,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -771,7 +904,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -808,7 +941,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -824,146 +957,9 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
+    Unisex jerkins, raw vinegars, classic sportswear — and more.
     
     <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/t-magazine/hermes-fashion-savoir-faire.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/14/t-magazine/14tmag-hermes-slide-8XB4-copy/14tmag-hermes-slide-8XB4-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hermès Introduces Seasonless Staples for the Long Haul
-    
-    Breaking with the standard fashion calendar, the brand has created a
-    capsule collection inspired by its archives.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Grace
-    Edquist</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/13/t-magazine/brownstone-brooklyn-design.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/17/t-magazine/17tmag-chenbrownstone-slide-X4QD/17tmag-chenbrownstone-slide-X4QD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Colorful Townhouse With Nods to James Turrell
-    
-    The architect Michael K. Chen brought a crumbling Brooklyn
-    brownstone back to life by reanimating its once vibrantly painted
-    walls.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Daniel
-    Cappello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/10/t-magazine/catherine-opie-photos.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/10/t-magazine/10tmag-opie-slide-R7JW/10tmag-opie-slide-R7JW-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## From Catherine Opie, a Visual Diary of the Recent Past
-    
-    The celebrated photographer shares her snapshots of a time of
-    togetherness.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nadja
-    Spiegelman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/06/t-magazine/6tmag-adler-slide-H6NA/6tmag-adler-slide-H6NA-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Inside an Eclectic Retreat on Shelter Island
-    
-    Jonathan Adler and Simon Doonan’s art- and design-filled summer home
-    is a place for both creativity and downtime.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Max Lakin</span>
     
     </div>
     

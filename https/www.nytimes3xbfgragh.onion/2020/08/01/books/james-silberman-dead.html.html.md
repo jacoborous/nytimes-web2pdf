@@ -237,8 +237,8 @@ Roberts</span>](https://www.nytimes3xbfgragh.onion/by/sam-roberts)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">2:32 p.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

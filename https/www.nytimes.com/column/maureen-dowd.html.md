@@ -211,6 +211,39 @@ and others. Her column appears every Sunday.
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Double, Double, Trump’s Toil, Our Trouble
+    
+    Demon sperm meets alien D.N.A., as President Trump teeters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maureen
+    Dowd</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/25/opinion/sunday/aoc-yoho-trump-2020.html)
     
     <div class="css-79elbk">
@@ -239,7 +272,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +305,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +338,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -338,7 +371,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +405,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -405,7 +438,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -438,7 +471,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -471,7 +504,7 @@ and others. Her column appears every Sunday.
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -489,40 +522,6 @@ and others. Her column appears every Sunday.
     
     Of masks, unmasking and dropping our professional masks for our
     medical ones.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maureen
-    Dowd</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/09/opinion/sunday/coronavirus-trump-vampires.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/10/opinion/10Dowd/10Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Live and Let Die, Trump-Style
-    
-    The world’s greatest con artist has finally come up against a foe he
-    can’t fool.
     
     <div class="css-1nqbnmb ea5icrr0">
     

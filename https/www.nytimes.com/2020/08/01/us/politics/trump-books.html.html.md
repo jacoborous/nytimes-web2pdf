@@ -241,14 +241,21 @@ Lyall</span>](https://www.nytimes.com/by/sarah-lyall)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">11:56 a.m.
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 2, 2020,
+    <span class="css-epvm6">1:50 a.m.
     ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -406,11 +413,10 @@ and intemperately indiscreet boss, wrong-footing and humiliating cabinet
 members and aides with constant criticism, sometimes to their faces,
 sometimes behind their backs.
 
-The president dismisses Jim Mattis, his first secretary of
-defense<span class="css-8l6xbc evw5hdy0"> </span>as “a liberal
-Democrat,” yells at him in meetings and notes that “I never really
-liked him.” (“I felt sorry for Mattis, not to mention the country as a
-whole,” Mr. Bolton writes.)
+The president dismisses Jim Mattis, his first secretary of defense, as
+“a liberal Democrat,” yells at him in meetings and notes that “I never
+really liked him.” (“I felt sorry for Mattis, not to mention the country
+as a whole,” Mr. Bolton writes.)
 
 He derides Kirstjen Nielsen, his second secretary of homeland security
 as ineffectual and “not mentally able” to handle her job and then, in a
@@ -445,7 +451,7 @@ He mocks his original chief economic adviser, Gary Cohn, as a
 were akin to “Antifa member.”
 
 Just as the president uses derisive nicknames for his political enemies,
-so he does for his own subordinates. He mocks Jeff Sessions his first
+so he does for his own subordinates. He mocks Jeff Sessions, his first
 attorney general, as “Benjamin Button.” He calls Betsy DeVos, the
 education secretary, “Ditzy DeVos.”<span class="css-8l6xbc evw5hdy0">
 </span>“This place is really taking a toll on Kellyanne,” he says of
@@ -793,9 +799,9 @@ significant integrity violations related to you,” and was not allowed to
 leave until the stress of the encounter triggered an asthma attack and
 she went home.
 
-**Mr. Sims:** Was fired by Mr. Kelly, who said: “In the past 40 years, I
-don’t think I’ve ever had a subordinate whose reputation is worse than
-yours.”
+**Mr. Sims:** Submitted his resignation after being told by Mr. Kelly:
+“In the past 40 years, I don’t think I’ve ever had a subordinate whose
+reputation is worse than yours.”
 
 **Mr. Priebus:** Idling in the presidential motorcade after a trip to
 New York on the day after he had submitted his resignation, learned that

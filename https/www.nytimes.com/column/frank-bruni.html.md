@@ -215,7 +215,7 @@ here.](https://www.nytimes.com/newsletters/frank-bruni)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/minerva-college-coronavirus.html)
+    [](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
     
     <div class="css-79elbk">
     

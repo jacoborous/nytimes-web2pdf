@@ -164,19 +164,19 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/EPA,
-    via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA,
+    via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/01sci-astronauts01-thumbStandard.jpg)](/2020/08/01/science/nasa-spacex-astronauts.html)
+    [![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbStandard.jpg)](/2020/08/01/science/nasa-spacex-astronauts.html)
     
     </div>
     
-    ## [SpaceX Crew Dragon to Bring 2 NASA Astronauts Home](/2020/08/01/science/nasa-spacex-astronauts.html)
+    ## [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](/2020/08/01/science/nasa-spacex-astronauts.html)
     
     Bob Behnken and Doug Hurley are getting ready to splash down after
     two months in
@@ -508,6 +508,75 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/science/spacex-nasa-return.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts/merlin_175216431_287c3773-da04-4003-9cbb-1318c4e80f6e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## SpaceX Crew Dragon and Astronaut Return: When to Watch
+    
+    Bob Behnken and Doug Hurley left the space station on Saturday
+    night, preparing for a Gulf of Mexico splashdown on Sunday.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    
+    Her near-total face transplant in 2008 was the most complex at the
+    time. She was the fourth patient in the world to undergo such a
+    procedure.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bryan
+    Pietsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
@@ -516,11 +585,12 @@ story](#after-mid1)
     
     </div>
     
-    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
+    ## Coronavirus Live Updates: Infections Swamp the U.S., Which Recorded 42% of All Its Cases in July
     
     Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the
-    Midwest.
+    virus is picking up speed in the Midwest. A summer camp in Georgia
+    apologizes for hosting a retreat after hundreds who attended were
+    infected.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -534,7 +604,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -568,7 +638,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -603,7 +673,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +710,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -674,7 +744,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -707,7 +777,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -742,7 +812,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -772,77 +842,6 @@ story](#after-mid1)
     
     [Leer en
     español](https://www.nytimes.com/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/climate/sea-level-inland-floods.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Rising Seas Could Menace Millions Beyond Shorelines, Study Finds
-    
-    As climate change raises sea levels, storm surges and high tides
-    will push farther inland, a team of researchers says.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Brad
-    Plumer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/climate/bangladesh-floods.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Inequity at the boiling point</span>
-    
-    ## A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.
-    
-    The country’s latest calamity illustrates a striking inequity of our
-    time: The people least responsible for climate change are among
-    those most hurt by its consequences.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Somini Sengupta <span>and</span>
-    Julfikar Ali Manik</span>
     
     </div>
     

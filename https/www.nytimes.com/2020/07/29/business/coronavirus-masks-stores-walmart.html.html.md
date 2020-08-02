@@ -416,7 +416,7 @@ confrontation.”
 
 <div class="briefing-block-update-time">
 
-[18h
+[29h
 ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
 
 </div>
@@ -431,7 +431,7 @@ percent.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-co
 
 <div class="briefing-block-update-time">
 
-[21h
+[32h
 ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
 
 </div>
@@ -445,7 +445,7 @@ debt.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coron
 
 <div class="briefing-block-update-time">
 
-[27h
+[39h
 ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
 
 </div>

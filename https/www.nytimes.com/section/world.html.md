@@ -214,55 +214,54 @@ East](/section/world/middleeast)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Luca
-        Zennaro/EPA, via
-        Shutterstock</span>](https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sergey
+        Ponomarev for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/02/world/02moscowdispatch2/merlin_174764931_b934ad94-2385-453a-83a6-f8e42d4ad928-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+        ### Moscow Dispatch
+        
+        ## [‘Cocktails and Masks Don’t Really Go Together’](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-thumbStandard.jpg)](/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+        [![](https://static01.nyt.com/images/2020/08/02/world/02moscowdispatch2/merlin_174764931_b934ad94-2385-453a-83a6-f8e42d4ad928-thumbStandard.jpg)](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
         
         </div>
         
-        The government has leveraged anger over the collapse of Genoa’s
-        Morandi Bridge to take back control of the nation’s highways.
-        But critics say the deal sends a troubling message to
-        investors.
+        Young Russians are partying again, seeking a return to normal
+        life and willing to risk a coronavirus surge. “We are people,
+        not robots, and want to have a life,” said a bar patron (and
+        doctor).
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Elisabetta
-        Povoledo</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Andrew
+        Higgins</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lam
-        Yik Fei for The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/31/world/31hk-crackdown-top/merlin_175152162_1fa5b592-489b-4b41-86b8-76274f3a02cf-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+        New York
+        Times</span>](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong](/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
+        ## [Coronavirus Live Updates: Infections Swamp the U.S., Which Recorded 42% of All Its Cases in July](/2020/08/01/world/coronavirus-covid-19.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/31/world/31hk-crackdown-top/31hk-crackdown-top-thumbStandard.jpg)](/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
+        [![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbStandard-v2.jpg)](/2020/08/01/world/coronavirus-covid-19.html)
         
         </div>
         
-        The spirit and the letter of the new law has been used to crush
-        Hong Kong’s opposition. In the latest blow to the pro-democracy
-        movement, the government postponed an election, citing the
-        coronavirus.
+        Thousands in Berlin protest Germany’s coronavirus measures. The
+        virus is picking up speed in the Midwest. A summer camp in
+        Georgia apologizes for hosting a retreat after hundreds who
+        attended were
+    infected.
         
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Keith Bradsher</span>,
-        <span class="css-1baulvz" itemprop="name">Elaine Yu</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Steven Lee
-        Myers</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
 
@@ -272,7 +271,146 @@ East](/section/world/middleeast)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Isac
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/world/01iran01/01iran01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Iran Will Expand Nuclear Program and Won’t Talk to U.S., Ayatollah Says](/2020/08/01/world/asia/iran-khamenei-us-sanctions.html)
+    
+    In a televised speech, Ayatollah Ali Khamenei, Iran’s supreme
+    leader, said that negotiating with Washington over his country’s
+    nuclear program would only help President Trump get
+    re-elected.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Farnaz
+    Fassihi</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>United
+    Arab Emirates News
+    Agency</span>](https://static01.nyt.com/images/2020/08/01/world/01uae-nuclear/01uae-nuclear-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [U.A.E. Becomes First Arab Nation to Open a Nuclear Power Plant](/2020/08/01/world/middleeast/uae-nuclear-Barakah.html)
+    
+    The launch is raising concerns about the growing number of nuclear
+    programs in the volatile Middle
+    East.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Vivian
+    Yee</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Atta
+    Kenare/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/world/01iran/01iran-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Iran Says It Detained Leader of California-Based Exile Group](/2020/08/01/world/middleeast/iran-jamshid-sharmahd-arrested-kingdom-assembly.html)
+    
+    The detained man, Jamshid Sharmahd of the Kingdom Assembly of Iran,
+    is accused of planning attacks on Iran, including a 2008 one that
+    killed 14 and injured
+    200.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">The Associated
+    Press</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+    Moriyama for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/world/02brazil-amazon/merlin_160086585_797d8284-14b9-4098-83bc-3d9e148ee8a1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation](/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
+    
+    After fending off international criticism on rainforest destruction,
+    President Jair Bolsonaro caved to pressure and took steps to curb
+    deforestation and forest
+    fires.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Ernesto Londoño</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Letícia
+    Casado</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Luca
+    Zennaro/EPA, via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons](/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+    
+    The government has leveraged anger over the collapse of Genoa’s
+    Morandi Bridge to take back control of the nation’s highways. But
+    critics say the deal sends a troubling message to
+    investors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Elisabetta
+    Povoledo</span></span>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reuters</span>](https://static01.nyt.com/images/2020/08/02/world/02ethiopia-migrants/merlin_173729919_f42842bb-de6f-4b2d-a84e-7034e168495a-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Ethiopian Workers Are Forced to Return Home, Some With Coronavirus](/2020/08/01/world/africa/ethiopian-migrant-workers-coronavirus.html)
+    
+    Stigmatized, out of work and facing dangers, migrant laborers are
+    returning by the thousands — and may be fueling a growing outbreak
+    in
+    Ethiopia.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Simon
+    Marks</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lam
+    Yik Fei for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/31/world/31hk-crackdown-top/merlin_175152162_1fa5b592-489b-4b41-86b8-76274f3a02cf-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong](/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
+    
+    The spirit and the letter of the new law has been used to crush Hong
+    Kong’s opposition. In the latest blow to the pro-democracy movement,
+    the government postponed an election, citing the
+    coronavirus.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Keith Bradsher</span>,
+    <span class="css-1baulvz" itemprop="name">Elaine Yu</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Steven Lee
+    Myers</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Isac
     Nobrega/Brazilian
     Presidency</span>](https://static01.nyt.com/images/2020/07/31/world/31brazil/merlin_175082043_1d8c79a7-ecda-45a1-be27-2a6be6ea4144-videoLarge.jpg)
     
@@ -293,7 +431,7 @@ East](/section/world/middleeast)
     
     </div>
 
-2.  ### The Saturday Profile
+4.  ### The Saturday Profile
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Atul
     Loke for The New York
@@ -314,7 +452,7 @@ East](/section/world/middleeast)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gianni
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gianni
     Cipriano for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/30/world/31virus-italy/31virus-italy-videoLarge-v2.jpg)
     
@@ -330,146 +468,6 @@ East](/section/world/middleeast)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jason
     Horowitz</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lam
-    Yik Fei for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/world/00hongkong-election/00hongkong-election-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Hong Kong Delays Election, Citing Coronavirus. The Opposition Isn’t Buying It.](/2020/07/31/world/asia/hong-kong-election-delayed.html)
-    
-    Pro-democracy politicians, who had hoped to ride widespread
-    discontent to big gains in the fall, saw the yearlong delay as an
-    attempt to thwart their
-    momentum.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Austin
-    Ramzy</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington](/2020/07/31/world/coronavirus-covid-19.html)
-    
-    California became the first state to reach 500,000 total coronavirus
-    cases. Once the site of a major outbreak, Italy now offers lessons
-    for keeping the virus in
-    check.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Khalid
-    Al-Mousily/Reuters</span>](https://static01.nyt.com/images/2020/07/31/world/31heatwave/merlin_175001865_05582ad2-bf6c-4d4f-acee-82bf1880bac9-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Scorching Temperatures Bake Middle East Amid Eid al-Adha Celebrations](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
-    
-    Record high temperatures were recorded in Baghdad and Damascus, and
-    experts warned of the effects of prolonged heat waves as the planet
-    warms.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Falih Hassan</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Elian
-    Peltier</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
-    Yoon for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/world/29uk-biden/29uk-biden-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [U.K. Officials’ New Trump Dilemma: What if He Loses?](/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
-    
-    If Joe Biden wins the November election, Britain would face a
-    president who opposed Brexit, would look out for Ireland, and may
-    have little interest in a trade
-    deal.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mark
-    Landler</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Orlando
-    Barria/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/08/30/multimedia/30xp-isaias/30xp-isaias-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Hurricane Isaias Forms in the Atlantic](/2020/07/30/us/tropical-storm-isaias.html)
-    
-    Isaias, the ninth named storm system of the 2020 Atlantic hurricane
-    season, strengthened into a hurricane on
-    Friday.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Marie Fazio</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Christina
-    Morales</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aaron
-    Ufumeli/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/31/world/31zimbabwe-unrest001sub/31zimbabwe-unrest001sub-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Zimbabwe Locks Down Capital, Thwarting Planned Protests](/2020/07/31/world/africa/zimbabwe-coronavirus-protest.html)
-    
-    Three years after the fall of the strongman Robert Mugabe, the
-    country is in free fall and his successor is clamping down by
-    arresting opposition activists — including an author just nominated
-    for the Booker
-    Prize.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jeffrey Moyo</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Patrick
-    Kingsley</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Timur
-    Matahari/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In Indonesia, False Virus Cures Pushed by Those Who Should Know Better](/2020/07/31/world/asia/indonesia-coronavirus.html)
-    
-    In the absence of a unified message from the national government,
-    local officials and opportunists have filled the gap with
-    misinformation and quack
-    remedies.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Richard C.
-    Paddock</span></span>
     
     </div>
 
@@ -583,21 +581,22 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Macdougall/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Victor
+    family</span>](https://static01.nyt.com/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Thousands March Against Virus Measures in Berlin](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
+    ## [Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
     
-    An estimated 17,000 people defied social-distancing and mask
-    requirements in a protest supported by neo-Nazi groups, conspiracy
-    theorists as well as Germans who said they were fed up with the
-    restrictions.
+    A singer, songwriter and producer, Mr. Víctor also worked to bring
+    theater, music and dance lessons to underprivileged communities. He
+    died of
+    Covid-19.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reuters</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sandra E.
+    Garcia</span></span>
     
     </div>
 
@@ -730,26 +729,7 @@ story](#after-mid2)
 [More in Dispatches
     »](/spotlight/dispatches-international)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sergey
-    Ponomarev for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/world/02moscowdispatch2/merlin_174764931_b934ad94-2385-453a-83a6-f8e42d4ad928-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Cocktails and Masks Don’t Really Go Together’](/2020/08/01/world/europe/russia-moscow-coronaviru.html)
-    
-    Young Russians are partying again, seeking a return to normal life
-    and willing to risk a coronavirus surge. “We are people, not robots,
-    and want to have a life,” said a bar patron (and
-    doctor).
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew
-    Higgins</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricci
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricci
     Shryock for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/28/world/28Senegal-Sheep-Dispatch/28Senegal-Sheep-Dispatch-videoLarge.jpg)
     
@@ -768,7 +748,7 @@ story](#after-mid2)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
     Kostyukov for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/24/world/00france-wine1/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-videoLarge.jpg)
     
@@ -787,7 +767,7 @@ story](#after-mid2)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
     Kostyukov for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/22/world/00france-holiday-dispatch/00toulouse-holiday-dispatch-videoLarge.jpg)
     
@@ -806,7 +786,7 @@ story](#after-mid2)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
     Dean for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/26/world/26monkeys-dispatch1/merlin_174060687_ac420efb-4bb8-4e0c-9ebe-727d5f66ca2e-videoLarge.jpg)
     
@@ -822,6 +802,24 @@ story](#after-mid2)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Hannah
     Beech</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Florent
+    Bardos/Abaca, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/07/19/world/xxparis-store-dispatch01sub/xxparis-store-dispatch01sub-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘A Place Where Everybody Can Shop’ Is Closing Its Doors](/2020/07/20/world/europe/france-paris-tati-coronavirus.html)
+    
+    The famed department store Tati is shutting. And a lot of people are
+    very
+    sad.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Nossiter</span></span>
     
     </div>
 
@@ -1051,144 +1049,6 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02brazil-amazon/merlin_160086585_797d8284-14b9-4098-83bc-3d9e148ee8a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation
-    
-    After fending off international criticism on rainforest destruction,
-    President Jair Bolsonaro caved to pressure and took steps to curb
-    deforestation and forest fires.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ernesto Londoño <span>and</span>
-    Letícia
-    Casado</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/africa/ethiopian-migrant-workers-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02ethiopia-migrants/merlin_173729919_f42842bb-de6f-4b2d-a84e-7034e168495a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Ethiopian Workers Are Forced to Return Home, Some With Coronavirus
-    
-    Stigmatized, out of work and facing dangers, migrant laborers are
-    returning by the thousands — and may be fueling a growing outbreak
-    in Ethiopia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Simon
-    Marks</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
-    
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the
-    Midwest.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/iran-khamenei-us-sanctions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/world/01iran01/01iran01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Iran Will Expand Nuclear Program and Won’t Talk to U.S., Ayatollah Says
-    
-    In a televised speech, Ayatollah Ali Khamenei, Iran’s supreme
-    leader, said that negotiating with Washington over his country’s
-    nuclear program would only help President Trump get re-elected.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Farnaz
-    Fassihi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/08/01/science/Covid-bats.html)
     
     <div class="css-79elbk">
@@ -1217,7 +1077,7 @@ story](#after-mid3)
     
     </div>
 
-8.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1253,7 +1113,7 @@ story](#after-mid3)
     
     </div>
 
-9.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1289,7 +1149,7 @@ story](#after-mid3)
     
     </div>
 
-10. 
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1309,7 +1169,147 @@ story](#after-mid3)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan Wolfe</span>
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/business/europe-economy-recovery-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery
+    
+    European countries that have better contained the virus are poised
+    for speedier economic recovery than the United States.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter S. Goodman, Liz Alderman
+    <span>and</span> Jack
+    Ewing</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/movies/shakuntala-devi-movie.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/arts/31shakuntala-primer2/merlin_175165059_16547c37-e893-491f-95ef-35e15e153060-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 5 Things to Know About Shakuntala Devi
+    
+    A film about the Indian mathematics genius is now streaming on
+    Amazon Prime Video. Here are five facts to get you more familiar.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Priya
+    Arora</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/technology/tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
+    
+    The discussions come as TikTok’s ownership by a Chinese company is
+    under scrutiny by the White House and lawmakers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Alan
+    Rappeport</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/world/31heatwave/merlin_175001865_05582ad2-bf6c-4d4f-acee-82bf1880bac9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scorching Temperatures Bake Middle East Amid Eid al-Adha Celebrations
+    
+    Record high temperatures were recorded in Baghdad and Damascus, and
+    experts warned of the effects of prolonged heat waves as the planet
+    warms.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Falih Hassan <span>and</span> Elian
+    Peltier</span>
     
     </div>
     

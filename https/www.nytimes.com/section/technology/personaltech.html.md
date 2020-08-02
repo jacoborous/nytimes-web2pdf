@@ -555,21 +555,21 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    King-Holmes/Science
-    Source</span>](https://static01.nyt.com/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
+    Naveed/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why a Data Breach at a Genealogy Site Has Privacy Experts Worried](/2020/08/01/technology/gedmatch-breach-privacy.html)
+    ## [What’s Going On With TikTok? Here’s What We Know](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
-    Nearly two-thirds of GEDmatch’s users opt out of helping law
-    enforcement. For a brief window this month, that didn’t
-    matter.
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all
+    here.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Heather
-    Murphy</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    McCabe</span></span>
     
     </div>
 

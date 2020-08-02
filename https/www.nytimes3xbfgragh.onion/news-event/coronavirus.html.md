@@ -189,7 +189,7 @@ Updated weekday evenings
 
 ## Live Updates
 
-30 minutes
+16 minutes
     ago
 
 </div>
@@ -198,17 +198,17 @@ Updated weekday evenings
     
     ## World
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-3ac56579)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-34047410)
         
-        ### Top officials work to break impasse over jobless benefit.
+        ### The U.S. reels as July cases more than double the total of any other month.
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-8796723)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-780ec966)
         
-        ### The virus picks up dangerous speed in the Midwest, and in areas that had seen success.
+        ### Top U.S. officials work to break an impasse over the federal jobless benefit.
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-25930521)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-2bc8948)
         
-        ### Thousands in Berlin protest Germany’s coronavirus measures.
+        ### Its outbreak untamed, Melbourne goes into even greater lockdown.
 
   - [](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1)
     
@@ -275,9 +275,9 @@ Updated weekday evenings
 <div class="chart-inner svelte-yuscj7">
 
 ![United States
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/USA.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/USA.svg)
 
-<div class="point svelte-yuscj7" style="left: 15.625000000000002%; top: 97%">
+<div class="point svelte-yuscj7" style="left: 15.5440414507772%; top: 97%">
 
 <span class="annotation svelte-yuscj7">7-day average</span>
 <span class="line svelte-yuscj7"></span>
@@ -288,10 +288,10 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 
 </div>
 
-**United States** <span class="svelte-yuscj7">4,570,295</span>
+**United States** <span class="svelte-yuscj7">4,628,486</span>
 <span class="svelte-yuscj7">total cases</span>
 <span class="first svelte-yuscj7">Jan. 22</span>
-<span class="last svelte-yuscj7">July 31</span>
+<span class="last svelte-yuscj7">Aug. 1</span>
 <span class="chart-container svelte-yuscj7"></span>
 
 <div class="chart svelte-yuscj7">
@@ -299,13 +299,13 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 <div class="chart-inner svelte-yuscj7">
 
 ![Brazil
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/BRA.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/BRA.svg)
 
 </div>
 
 </div>
 
-**Brazil** <span class="svelte-yuscj7">2,662,485</span>
+**Brazil** <span class="svelte-yuscj7">2,707,877</span>
 <span class="chart-container svelte-yuscj7"></span>
 
 <div class="chart svelte-yuscj7">
@@ -313,13 +313,13 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 <div class="chart-inner svelte-yuscj7">
 
 ![India
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/IND.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/IND.svg)
 
 </div>
 
 </div>
 
-**India** <span class="svelte-yuscj7">1,695,988</span>
+**India** <span class="svelte-yuscj7">1,750,723</span>
 <span class="chart-container svelte-yuscj7"></span>
 
 <div class="chart svelte-yuscj7">
@@ -327,13 +327,13 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 <div class="chart-inner svelte-yuscj7">
 
 ![Mexico
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/MEX.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/MEX.svg)
 
 </div>
 
 </div>
 
-**Mexico** <span class="svelte-yuscj7">424,637</span>
+**Mexico** <span class="svelte-yuscj7">434,193</span>
 <span class="chart-container svelte-yuscj7"></span>
 
 <div class="chart svelte-yuscj7">
@@ -341,13 +341,13 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 <div class="chart-inner svelte-yuscj7">
 
 ![U.K.
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/GBR.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/GBR.svg)
 
 </div>
 
 </div>
 
-**U.K.** <span class="svelte-yuscj7">303,181</span>
+**U.K.** <span class="svelte-yuscj7">303,952</span>
 <span class="chart-container svelte-yuscj7"></span>
 
 <div class="chart svelte-yuscj7">
@@ -355,14 +355,14 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 <div class="chart-inner svelte-yuscj7">
 
 ![Canada
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/26f5ad8ab2a8bf2fa6ae9f7b1d3a0ba594788b56/build/curve-grid/cases/total/CAN.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/build/curve-grid/cases/total/CAN.svg)
 
 </div>
 
 </div>
 
 **Canada**
-<span class="svelte-yuscj7">116,312</span>
+<span class="svelte-yuscj7">116,599</span>
 
 </div>
 
@@ -385,7 +385,7 @@ world
 
 <div class="g-media-wrap" data-type="">
 
-[](https://www.nytimes3xbfgragh.onion/2020/07/31/world/coronavirus-covid-19.html)
+[](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html)
 
 <div class="g-tab-fader">
 
@@ -395,26 +395,170 @@ world
 
 <div class="g-timestamp">
 
-Boise,
-Idaho
+Chicago
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-1A0H/01hp-virus-fader-slide-1A0H-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-TGFV/01np-tab-fader-pm-update-slide-TGFV-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-1A0H/01hp-virus-fader-slide-1A0H-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-TGFV/01np-tab-fader-pm-update-slide-TGFV-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Alex Hecht for The New York Times
+<span class="g-credit"> Jonathan Daniel/Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Santa Monica,
+Cali.
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-I5V4/01np-tab-fader-pm-update-slide-I5V4-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-I5V4/01np-tab-fader-pm-update-slide-I5V4-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Valerie Macon/AFP — Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Medellín,
+Columbia
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-XMZ5/01np-tab-fader-pm-update-slide-XMZ5-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-XMZ5/01np-tab-fader-pm-update-slide-XMZ5-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Joaquin Sarmiento/AFP — Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Ibiza,
+Spain
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-8AM0/01np-tab-fader-pm-update-slide-8AM0-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-8AM0/01np-tab-fader-pm-update-slide-8AM0-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Jaime Reina/AFP — Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Monterrey,
+Mexico
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-KV5I/01np-tab-fader-pm-update-slide-KV5I-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-KV5I/01np-tab-fader-pm-update-slide-KV5I-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Daniel Becerril/Reuters </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Brownsville,
+Texas
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-SI1E/01np-tab-fader-pm-update-slide-SI1E-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-SI1E/01np-tab-fader-pm-update-slide-SI1E-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Miguel Roberts/The Brownsville Herald, via AP
 </span>
 
 </div>
@@ -425,170 +569,26 @@ Idaho
 
 <div class="g-timestamp">
 
-Newark
+Santa Monica,
+Cali.
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-EJIK/01hp-virus-fader-slide-EJIK-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-9LI5/01np-tab-fader-pm-update-slide-9LI5-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-EJIK/01hp-virus-fader-slide-EJIK-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-9LI5/01np-tab-fader-pm-update-slide-9LI5-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> John Minchillo/AP </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Sant Sadurní d'Anoia,
-Spain
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-TQ2T/01hp-virus-fader-slide-TQ2T-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-TQ2T/01hp-virus-fader-slide-TQ2T-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Felipe Dana/AP </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Hong
-Kong
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-4RRQ/01hp-virus-fader-slide-4RRQ-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-4RRQ/01hp-virus-fader-slide-4RRQ-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Anthony Kwan/Getty </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Hanoi,
-Vietnam
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-MQ92/01hp-virus-fader-slide-MQ92-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-MQ92/01hp-virus-fader-slide-MQ92-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Luong Thai Linh/EPA, via Shutterstock </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-New
-Delhi
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-8HN4/01hp-virus-fader-slide-8HN4-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-8HN4/01hp-virus-fader-slide-8HN4-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Manish Swarup/AP </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Roissy,
-France
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-2VOP/01hp-virus-fader-slide-2VOP-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-2VOP/01hp-virus-fader-slide-2VOP-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Christian Hartmann/Reuters </span>
+<span class="g-credit"> Robyn Beck/AFP — Getty Images </span>
 
 </div>
 
@@ -605,19 +605,19 @@ Australia
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-PAY0/01hp-virus-fader-slide-PAY0-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-RZAS/01np-tab-fader-pm-update-slide-RZAS-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/homepage/01hp-virus-fader-slide-PAY0/01hp-virus-fader-slide-PAY0-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/01/briefing/01np-tab-fader-pm-update-slide-RZAS/01np-tab-fader-pm-update-slide-RZAS-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Reuters
+<span class="g-credit"> William West/AFP — Getty Images
 </span>
 
 </div>
@@ -638,8 +638,8 @@ Australia
 
 #### [New Reported Cases in the U.S.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-master1050-v46.png)
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-square640-v85.png)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-master1050-v49.png)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-square640-v91.png)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
 See the U.S. hot spots
 
@@ -1326,6 +1326,120 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Is the Subway Risky? It May Be Safer Than You Think
+    
+    New studies in Europe and Asia suggest that riding public
+    transportation is not a major source of transmission for the
+    coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christina
+    Goldbaum</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71
+    
+    A singer, songwriter and producer, Mr. Víctor also worked to bring
+    theater, music and dance lessons to underprivileged communities. He
+    died of Covid-19.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sandra E.
+    Garcia</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/01Marr-ES-1/30Marr-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## Sí, el coronavirus está en el aire
+    
+    La transmisión por aerosoles es importante, y quizá sea mucho más
+    relevante de lo que hemos podido comprobar hasta ahora.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Linsey C. Marr</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/30/opinion/coronavirus-aerosols.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
     
     <div class="css-79elbk">
@@ -1358,7 +1472,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1395,7 +1509,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1409,11 +1523,11 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
     
-    ## Another Game Postponed With 4 More Coronavirus Cases for Cardinals
+    ## More Games Postponed With 4 More Coronavirus Cases for Cardinals
     
     Three staffers and one player for the St. Louis Cardinals tested
     positive for the virus, prompting the postponement of a game
-    Saturday against the Brewers in Milwaukee.
+    Saturday and a doubleheader Sunday against the Brewers in Milwaukee.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1430,7 +1544,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1466,7 +1580,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1502,7 +1616,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1537,7 +1651,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1551,113 +1665,13 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
     
-    ## Hurricane Isaias Live Updates: Storm Churns Toward Florida After Hitting Bahamas
+    ## Isaias Live Updates: Storm Weakens as It Churns Toward Florida After Hitting Bahamas
     
-    The Category 1 storm may hit Florida’s coast, further testing a
-    state that has been battered by the coronavirus
-    pandemic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
-    
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the
-    Midwest.
+    The tropical storm is expected to be upgraded to a hurricane again
+    overnight and may hit Florida’s coast, further testing a state that
+    has been battered by the coronavirus pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/arts/design/virus-design-objects.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Strange Lives of Objects in the Coronavirus Era
-    
-    The pandemic has inspired a flurry of new and novel items — and
-    given ordinary ones new meanings.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sophie Haigney <span>and</span> Peter
-    Arkle</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
-    
-    The world’s largest vaccine producer, the Serum Institute, announced
-    a plan to make hundreds of millions of doses of an unproven
-    inoculation. It’s a gamble with a huge upside. And huge risks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeffrey Gettleman</span>
     
     </div>
     

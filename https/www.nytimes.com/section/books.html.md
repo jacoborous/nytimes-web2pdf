@@ -170,13 +170,13 @@ story](#after-sponsor)
 
 2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
     Barnes for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/merlin_174680631_f882380e-9e51-4c9f-8118-b556736003c8-jumbo.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-jumbo-v4.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard.jpg)](/2020/07/31/books/raven-leilani-luster.html)
+    [![](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard-v4.jpg)](/2020/07/31/books/raven-leilani-luster.html)
     
     </div>
     
@@ -480,6 +480,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/books/james-silberman-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## James Silberman, Editor Who Nurtured Literary Careers, Dies at 93
+    
+    At Random House and elsewhere, including his own Summit imprint, he
+    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
+    many others.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
     
     <div class="css-79elbk">
@@ -510,7 +545,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -546,7 +581,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -582,7 +617,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -619,7 +654,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -656,7 +691,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -693,7 +728,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -730,7 +765,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -763,7 +798,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -779,45 +814,9 @@ story](#after-mid1)
     
     ## On Hamlet’s Origins and Other Letters to the Editor
     
-    Readers respond to recent issues of the Sunday Book
-    Review.
+    Readers respond to recent issues of the Sunday Book Review.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/tom-gauld-robot-novelist-.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/books/review/Gauld/Gauld-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Sketchbook</span>
-    
-    ## What If You Could Just Program a Robot To Write a Novel?
-    
-    Imagining all the reasons an automaton might not be writing the next
-    Great American Novel.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tom Gauld</span>
     
     </div>
     

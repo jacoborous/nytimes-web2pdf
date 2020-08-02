@@ -414,19 +414,20 @@ other.”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T13:01:19.270Z
+Updated 2020-08-02T07:21:03.497Z
 
 </div>
 
 </div>
 
-  - [Tens of millions of unemployed Americans are losing a benefit that
-    helped keep them
-    afloat.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-70fc13b1)
-  - [Three key developments in the U.S. on Friday that you may have
-    missed.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-586d44ab)
-  - [South Korea arrests the leader of a church where the virus spread
-    rapidly.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2b88e858)
+  - [The U.S. reels as July cases more than double the total of any
+    other
+    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
 
 <div class="briefing-block-footer">
 

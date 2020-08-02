@@ -131,73 +131,47 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
-    Mast for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
+    Widmer for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-thumbStandard.jpg)](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+    [![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbStandard.jpg)](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
     
     </div>
     
-    ## [A School Reopens, and the Coronavirus Creeps In](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+    ## [After Plummeting, the Virus Soars Back in the Midwest](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
     
-    As more schools abandon plans for in-person classes, one that opened
-    in Indiana this week had to quarantine students within
-    hours.
+    States like Missouri, Illinois and Wisconsin are riding a
+    frustrating seesaw during the pandemic, with new coronavirus cases
+    rising again after apparent
+    progress.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Eliza Shapiro</span>,
-    <span class="css-1baulvz" itemprop="name">Giulia McDonnell Nieto del
-    Rio</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Shawn
-    Hubler</span></span>
+    <span class="css-1baulvz" itemprop="name">Julie Bosman</span>,
+    <span class="css-1baulvz" itemprop="name">Manny Fernandez</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Thomas
+    Fuller</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-        Widmer for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbStandard.jpg)](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+        [![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbStandard.jpg)](/2020/08/01/us/hurricane-isaias-track.html)
         
         </div>
         
-        ## [After Plummeting, the Virus Soars Back in the Midwest](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+        ## [Isaias Live Updates: Storm Weakens as It Churns Toward Florida After Hitting Bahamas](/2020/08/01/us/hurricane-isaias-track.html)
         
-        States like Missouri, Illinois and Wisconsin are riding a
-        frustrating seesaw during the pandemic, with new coronavirus
-        cases rising again after apparent
-        progress.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Julie Bosman</span>,
-        <span class="css-1baulvz" itemprop="name">Manny Fernandez</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Thomas
-        Fuller</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbStandard.jpg)](/2020/08/01/us/hurricane-isaias-updates.html)
-        
-        </div>
-        
-        ## [Hurricane Isaias Live Updates: Storm Churns Toward Florida After Hitting Bahamas](/2020/08/01/us/hurricane-isaias-updates.html)
-        
-        The Category 1 storm may hit Florida’s coast, further testing a
+        The tropical storm is expected to be upgraded to a hurricane
+        again overnight and may hit Florida’s coast, further testing a
         state that has been battered by the coronavirus
         pandemic.
         
@@ -205,28 +179,57 @@ story](#after-sponsor)
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cassandra
-        Klos for The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/31/us/31bostonbomber/31bostonbomber-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
+        Mast for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/07/31/us/31bostonbomber/31bostonbomber-thumbStandard.jpg)](/2020/07/31/us/dzhokhar-tsarnaev-boston-marathon-bomber.html)
+        [![](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-thumbStandard.jpg)](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
         
         </div>
         
-        ## [Boston Marathon Bomber’s Death Sentence Is Thrown Out by Court](/2020/07/31/us/dzhokhar-tsarnaev-boston-marathon-bomber.html)
+        ## [A School Reopens, and the Coronavirus Creeps In](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
         
-        Dzhokhar Tsarnaev, who was convicted after bombings that killed
-        three people and wounded more than 260, will receive a new
-        penalty-phase
-        trial.
+        As more schools abandon plans for in-person classes, one that
+        opened in Indiana this week had to quarantine students within
+        hours.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ellen
-        Barry</span></span>
+        <span class="css-1baulvz" itemprop="name">Eliza Shapiro</span>,
+        <span class="css-1baulvz" itemprop="name">Giulia McDonnell Nieto
+        del Rio</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Shawn
+        Hubler</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
+        Lapetina for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbStandard.jpg)](/2020/08/01/us/eid-al-adha-coronavirus.html)
+        
+        </div>
+        
+        ### Race/Related
+        
+        ## [Celebrating Eid al-Adha Amid a Pandemic](/2020/08/01/us/eid-al-adha-coronavirus.html)
+        
+        With socially distanced gatherings now the norm, we talked to a
+        few people about how they planned to celebrate one of Islam’s
+        holiest
+        days.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Fahima
+        Haque</span></span>
         
         </div>
 
@@ -284,6 +287,182 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    
+    Her near-total face transplant in 2008 was the most complex at the
+    time. She was the fourth patient in the world to undergo such a
+    procedure.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bryan
+    Pietsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/trader-joes-jose-ming-joe-san.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trader Joe’s Defends Product Labels Criticized as Racist
+    
+    The company had previously said the names of international-themed
+    products that were intended to promote inclusiveness, such as Trader
+    José and Trader Ming’s, “may now have the opposite effect.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Allyson
+    Waller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
+    
+    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
+    than 21 years of service took effect on Saturday, the same day his
+    sharply critical op-ed of the president was published.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Eric
+    Schmitt</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists
+    
+    Brian Murphy’s office compiled reports of protesters and journalists
+    who were covering the Trump administration’s response to unrest in
+    Portland, Ore., last month.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Adam
+    Goldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    
+    More than 500 cases and at least 75 hospitalizations have been
+    reported in the United States and Canada, the health authorities
+    said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christina
+    Morales</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
     <div class="css-79elbk">
@@ -312,7 +491,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +526,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +563,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -421,7 +600,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -431,197 +610,18 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## SpaceX Crew Dragon to Bring 2 NASA Astronauts Home
+    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
     
     Bob Behnken and Doug Hurley are getting ready to splash down after
     two months in orbit.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/us/100000007268424/desantis-florida-hurricane-isaias.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Florida Governor Cautions Vigilance as Hurricane Isaias Approaches
-    
-    Gov. Ron DeSantis said he had issued a state of emergency for
-    counties on Florida’s east coast, and that President Trump approved
-    FEMA assistance for the state.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/obituaries/eddie-negron-dead-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
-    
-    ## Dr. Eddie Negrón, a Physician Full of Fun, Is Dead at 69
-    
-    Friends remember his jokes and his dancing as well as his medical
-    care. He died of the novel coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Neil
-    Genzlinger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## After Plummeting, the Virus Soars Back in the Midwest
-    
-    States like Missouri, Illinois and Wisconsin are riding a
-    frustrating seesaw during the pandemic, with new coronavirus cases
-    rising again after apparent progress.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julie Bosman, Manny Fernandez
-    <span>and</span> Thomas
-    Fuller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
-    
-    House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus and
-    calls for racial justice.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
-    Edmondson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/robert-gnaizda-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/obituaries/Gnaizda-1/Gnaizda-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Robert Gnaizda, Lawyer Who Fought for Social Justice, Dies at 83
-    
-    He challenged redlining banks, employers who discriminated in hiring
-    and, early in his career, Southern counties that thwarted Black
-    voters.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam Roberts</span>
+    By <span class="css-1n7hynb">Kenneth Chang</span>
     
     </div>
     

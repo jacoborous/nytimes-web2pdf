@@ -240,14 +240,20 @@ Bhagat</span>](https://www.nytimes.com/by/shalini-venugopal-bhagat)
 
 </div>
 
-  - July 31,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 1,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -346,9 +352,9 @@ When the prince shared that he was gay in that front-page newspaper
 interview 14 years ago, it created a storm of mostly negative publicity.
 It was shocking for a member of an Indian royal family, especially one
 from the rigidly conservative Rajput warrior clan that once ruled over
-large parts of northern and central India, to come out so publicly. At
-the time, being gay was a criminal offense in India under the [archaic
-British law in effect at the
+large parts of northern and central India, to come out so publicly.
+Being gay was a criminal offense in India under the [archaic British law
+in effect at the
 time](https://www.nytimes.com/2018/06/02/world/asia/gay-in-india-where-progress-has-come-only-with-risk.html?searchResultPosition=5).
 The law was [struck
 down](https://www.nytimes.com/2018/09/06/world/asia/india-gay-sex-377.html)

@@ -247,8 +247,8 @@ Yoon</span>
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">12:50 p.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

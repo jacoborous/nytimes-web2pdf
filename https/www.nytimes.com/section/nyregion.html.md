@@ -155,103 +155,104 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gabriela
-    Bhaskar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/nyregion/28wiley-1/28wiley-1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
+    Naomi Lewkowicz for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/28/nyregion/28wiley-1/28wiley-1-thumbStandard.jpg)](/2020/07/28/nyregion/maya-wiley-mayor-nyc.html)
+    [![](https://static01.nyt.com/images/2020/08/01/nyregion/01nyrooftop-02/01nyrooftop-02-thumbStandard.jpg)](/2020/07/30/nyregion/coronavirus-beatles-nyc.html)
     
     </div>
     
-    ## [Maya Wiley Is Leaving MSNBC to Weigh Run for N.Y.C. Mayor](/2020/07/28/nyregion/maya-wiley-mayor-nyc.html)
+    ## [New York Love Story: The Submarine Officer and the Beatles Cover Band](/2020/07/30/nyregion/coronavirus-beatles-nyc.html)
     
-    Ms. Wiley, who once led the city’s police oversight board, would
-    enter a mayoral race that has been reshaped by Black Lives Matter
-    protests.
+    A Columbia grad student, new to the city, lost his lease. So he
+    organized the perfect
+    send-off.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Emma G.
-    Fitzsimmons</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alex
+    Vadukul</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lucia
-    Buricelli for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/nyregion/28nyscooter/merlin_158618874_61958bae-930e-42bf-9795-a675b9d94794-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gregg
+    Vigliotti for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/28/nyregion/28nyscooter/28nyscooter-thumbStandard.jpg)](/2020/07/28/nyregion/revel-scooters-death-nyc.html)
+    [![](https://static01.nyt.com/images/2020/07/20/nyregion/nypodschools1/nypodschools1-thumbStandard.jpg)](/2020/07/30/nyregion/pod-schools-hastings-on-hudson.html)
     
     </div>
     
-    ## [Revel Suspends Moped Service in New York City After 2 Deaths](/2020/07/28/nyregion/revel-scooters-death-nyc.html)
+    ## [$25,000 Pod Schools: How Well-to-Do Children Will Weather the Pandemic](/2020/07/30/nyregion/pod-schools-hastings-on-hudson.html)
     
-    The company said that it would “review and strengthen” its safety
-    measures, but that it planned to restart operations “in the near
-    future.”
+    “This is our emergency fund,” said one parent considering a pod
+    school. “And this is our
+    emergency.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Gold</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Zweig</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-        W. Lee/The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/17/nyregion/00nyvirus-outdoorspace/00nyvirus-outdoorspace-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
+        Sanders for The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/31/nyregion/31big/merlin_170843811_2dfbdd8b-c335-4e25-a2d7-1d67e70a72e2-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Stir-Crazy New Yorkers Discovered an Idyllic Spot. Will They Trample It?](/2020/07/28/nyregion/nyc-parks-coronavirus.html)
+        ### BIG CITY
+        
+        ## [Should N.Y. Be Jailing Parolees for Minor Lapses During a Pandemic?](/2020/07/31/nyregion/ny-parole-violations.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/17/nyregion/00nyvirus-outdoorspace/00nyvirus-outdoorspace-thumbStandard.jpg)](/2020/07/28/nyregion/nyc-parks-coronavirus.html)
+        [![](https://static01.nyt.com/images/2020/07/31/nyregion/31big/31big-thumbStandard.jpg)](/2020/07/31/nyregion/ny-parole-violations.html)
         
         </div>
         
-        During the pandemic, people are venturing deeper into the city’s
-        forests, wetlands and grasslands, just as budget cuts threaten
-        the spaces’
-        upkeep.
+        On probation since 2018, Earl Russell was sent to Rikers for
+        sleeping in his own bed instead of in the shelter where he was
+        mandated to
+        stay.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Anne
-        Barnard</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Ginia
+        Bellafante</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-        Mills/The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/27/nyregion/27nytrump/merlin_174883950_e60d81b0-29a2-405d-923f-1a4e6fc430ab-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aundre
+        Larrow for The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Trump Again Tries to Block Subpoena for Taxes, Calling It ‘Wildly Overbroad’](/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
+        ### Sunday Routine
+        
+        ## [How an Urban Flower Farmer Spends Her Sundays](/2020/07/31/nyregion/urban-gardening-nyc.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/27/nyregion/27nytrump/27nytrump-thumbStandard.jpg)](/2020/07/27/nyregion/donald-trump-taxes-cyrus-vance.html)
+        [![](https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-routine1/31nyvirus-routine1-thumbStandard.jpg)](/2020/07/31/nyregion/urban-gardening-nyc.html)
         
         </div>
         
-        The president mounted his most forceful and detailed legal
-        attack yet on the subpoena for his tax returns from the
-        Manhattan district
-        attorney.
+        On a quest for sunlight and soil, Christina Clum approached
+        Brooklyn residents about growing flowers in their yards. It
+        worked.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Benjamin Weiser</span>
-        and
-        <span class="css-1baulvz last-byline" itemprop="name">William K.
-        Rashbaum</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Alyson
+        Krueger</span></span>
         
         </div>
 
@@ -261,96 +262,94 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anthony
-    Behar/Sipa USA, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/27/nyregion/27nycseal1/27nycseal1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Bruna
+    Borelli</span>](https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [N.Y.C. Seal, With a Native American in Loincloth, Faces Scrutiny](/2020/07/27/nyregion/seal-nyc-native-american.html)
+    ## [Food Tourists Trickle In to New York’s Pandemic Dining Scene](/2020/07/30/nyregion/coronavirus-nyc-tourism-restaurants.html)
     
-    Mayor Bill de Blasio said it was worth examining if the seal, which
-    dates to 1914, “makes sense for the 21st
-    century.”
+    Visitors — as long as they don’t come from a quarantine state — are
+    enjoying the city’s rooftop bars and sidewalk
+    restaurants.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dana
-    Rubinstein</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Abramson for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/business/28drivers-1/28drivers-1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
+    Alfiky/The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/22/nyregion/00nyvirus-remotelearning1/00nyvirus-remotelearning1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Uber and Lyft Drivers Win Ruling on Unemployment Benefits](/2020/07/28/business/economy/lyft-uber-drivers-unemployment.html)
+    ## [How 2 New York Schools Became Models for Coping in a Pandemic](/2020/07/31/nyregion/nyc-homeless-children-school.html)
     
-    A federal judge’s decision in New York is a key victory in efforts
-    to secure the protections extended to other
-    workers.
+    Vulnerable children need creative solutions, educators say: “The
+    entire system has missed something if they don’t rethink what the
+    fall semester looks
+    like.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Noam
-    Scheiber</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Eliza
+    Shapiro</span></span>
     
     </div>
 
-3.  ### New York Today
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Kelly/Reuters</span>](https://static01.nyt.com/images/2020/07/28/nyregion/28nytoday1/merlin_174711024_2d59b471-a29f-4e66-99a4-3539e5a3315f-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    The Office of Governor Ned
+    Lamont</span>](https://static01.nyt.com/images/2020/07/31/nyregion/31ctvirus-outbreaks1/31ctvirus-outbreaks1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [‘Black Lives Matter’ Art Outside Trump Tower Is Being Vandalized](/2020/07/28/nyregion/blm-trump-tower.html)
+    ## [In Ultra-Wealthy Greenwich, Teen Parties Lead to Jump in Virus Cases](/2020/07/31/nyregion/greenwich-ct-coronavirus-covid-parties.html)
     
-    In five incidents, people have thrown paint on the bright-yellow
-    street display on Fifth Avenue. Each time, city workers have
-    restored the
-    lettering.
+    Many of those exposed were seniors who had just finished their final
+    year at two elite private
+    schools.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Juliana
-    Kim</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mihir
+    Zaveri</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Kathy
-    Mendez</span>](https://static01.nyt.com/images/2020/07/27/nyregion/27nymayhem3/27nymayhem3-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
+    Yoon for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/nyregion/30njprisons1/30njprisons1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Two Teenagers Are Among 8 Killed on Deadly Day in New York City](/2020/07/27/nyregion/nyc-shootings-weekend.html)
+    ## [About 20% of N.J. Prisoners Could Be Freed to Avoid Virus](/2020/07/30/nyregion/New-jersey-inmate-release-Covid.html)
     
-    The spate of shootings on Sunday came as the city wrestles with a
-    spike unlike anything it has seen in
-    decades.
+    Believed to be the first Covid-19 bill of its kind, the legislation
+    could free more than 3,000 New Jersey prisoners who are within a
+    year of
+    release.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Gold</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tracey
+    Tully</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/23/nyregion/00nyvirus-mtaHPpromoSTILL/merlin_174525393_b656e88d-90e5-444d-b74e-a6bd5d9c93a5-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Theo
+    Wargo/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/30/nyregion/30njvirus-rise1/30njvirus-rise1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Transit Workers Were N.Y.C.’s Pandemic Lifeline. These 3 Paid a Price.](/interactive/2020/07/26/nyregion/nyc-covid-19-mta-transit-workers.html)
+    ## [Virus Cases Are Rising in N.J., Spurred by Young Partygoers at the Shore](/2020/07/30/nyregion/coronavirus-cases-nj.html)
     
-    As train and bus operators served a city under siege, their ranks
-    were battered. Now, as riders trickle back to public transit,
-    workers are alarmed by the prospect of a second wave as they
-    continue to cope with the trauma from the initial
-    outbreak.
+    “The numbers are setting off alarms,” Gov. Philip Murphy
+    said.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jonah Markowitz</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Christina
-    Goldbaum</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tracey
+    Tully</span></span>
     
     </div>
 
@@ -410,23 +409,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/nyregion/nypd-protester-van.html)
+    [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/nyregion/28nyunrest-protester5/28nyunrest-protester5-thumbWide-v5.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## N.Y.P.D.’s Use of Unmarked Van in Arrest Draws Parallels to Portland
+    ## How to Stay Safer on Mass Transit
     
-    Videos of the arrest, shared widely on social media, were met with
-    intense criticism and calls for an explanation from the police.
+    Timing your trip strategically, using contactless payments and not
+    eating onboard are some of the things to keep in mind.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
+    By <span class="css-1n7hynb">Katherine
+    Cusumano</span>
     
     </div>
     
@@ -444,24 +443,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/nyregion/niels-h-lauersen-dead.html)
+    [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/27Lauersen1/27Lauersen1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Niels Lauersen, Fallen Fertility Doctor to the Stars, Dies at 84
+    ## Coronavirus Live Updates: Infections Swamp the U.S., Which Recorded 42% of All Its Cases in July
     
-    He treated celebrities like Celine Dion and Foxy Brown before he was
-    undone by malpractice suits and a prison sentence for insurance
-    fraud.
+    Thousands in Berlin protest Germany’s coronavirus measures. The
+    virus is picking up speed in the Midwest. A summer camp in Georgia
+    apologizes for hosting a retreat after hundreds who attended were
+    infected.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Penelope
-    Green</span>
     
     </div>
     
@@ -479,23 +476,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/arts/design/met-museum-wangechi-mutu.html)
+    [](/2020/07/31/health/coronavirus-children-camp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/arts/28mutu-item1/28mutu-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Met Museum Acquires Two Sculptures by Wangechi Mutu
+    ## The Coronavirus Infected Hundreds at a Georgia Summer Camp
     
-    The new additions are from the series that is on display on the
-    museum’s Fifth Avenue facade.
+    The camp took precautions but did not require campers to wear masks,
+    the C.D.C. reported. Singing and cheering may have helped spread the
+    virus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Libbey</span>
+    By <span class="css-1n7hynb">Roni Caryn
+    Rabin</span>
     
     </div>
     
@@ -513,26 +511,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
+    [](/2020/07/31/obituaries/roland-johnson-overlooked.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/realestate/28stuck1/merlin_174134913_4bc3de01-e25c-4c09-aecf-20631ed58fbd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-01/00overlooked-johnson-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Sheltering</span>
+    ## Overlooked No More: Roland Johnson, Who Fought to Shut Down Institutions for the Disabled
     
-    ## Making a Move During the Pandemic? Not So Fast
-    
-    As New York cautiously reopens in the shadow of a potential second
-    wave of infections, home buyers and sellers are racing to complete
-    the almost impossible task of closing on time and safely moving.
+    He survived 13 years of neglect and abuse, including sexual assault,
+    at the notorious Pennhurst State School and Hospital outside
+    Philadelphia before emerging as a champion for the disabled.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tripp
-    Whetsell</span>
+    By <span class="css-1n7hynb">Glenn
+    Rifkin</span>
     
     </div>
     
@@ -550,22 +546,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/world/coronavirus-covid-19.html)
+    [](/2020/07/31/nyregion/nello-liquor-license-suspended.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/nyregion/31nyvirus-nello1/31nyvirus-nello1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: Trump Falsely Claims Much of U.S. ‘Corona Free’ as 21 States Face ‘Red Zone’ Outbreaks
+    ## Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining
     
-    A national teachers’ union said teachers may strike as a “last
-    resort” if they don’t feel safe. Pilgrims to Mecca are finding a
-    reconfigured
-    hajj.
+    The Upper East Side restaurant was accused of serving eight people
+    inside, violating New York’s orders.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael
+    Gold</span>
     
     </div>
     
@@ -583,24 +580,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/nyregion/hamptons-chainsmokers-concert-social-distancing.html)
+    [](/2020/07/31/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/nyregion/27nyvirus-hamptons1/27nyvirus-hamptons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Chainsmokers Concert in Hamptons Is Under Fire Over Social Distancing
+    ## A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington
     
-    The state’s health commissioner opened an inquiry after video
-    footage of the concert showed crowds of people standing close
-    together.
+    California became the first state to reach 500,000 total coronavirus
+    cases. Once the site of a major outbreak, Italy now offers lessons
+    for keeping the virus in
+    check.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
     
     </div>
     
@@ -618,23 +613,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/world/coronavirus-covid-19.html)
+    [](/2020/07/31/nyregion/nyc-power-con-edison.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/nyregion/31nytoday/31nytoday-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Research Boosts Evidence of Masks’ Utility, Some Experts Say
+    ### <span class="css-m70j1g">New York Today</span>
     
-    Masks have long been known to help stop infected people from
-    spreading the virus, but some research suggests they also protect
-    the uninfected. President Trump shared a video with misinformation
-    about the
-    virus.
+    ## On a Hot Day, 96,000 New Yorkers Are Asked to Conserve Power
+    
+    Over the past month, New Yorkers have been urged to limit
+    air-conditioning use in an effort to prevent blackouts and
+    brownouts. 
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Juliana
+    Kim</span>
     
     </div>
     
@@ -652,26 +650,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/nyregion/nyc-midtown-manhattan-coronavirus.html)
+    [](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/nyregion/27nytoday/merlin_174828966_25d532f1-65d9-4313-8dcb-5d5508f72082-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">New York Today</span>
+    ### <span class="css-m70j1g">Domestic Lives</span>
     
-    ## The Uncertain Future of Midtown
+    ## A Rockaway Life
     
-    Midtown Manhattan faces an economic catastrophe, a cascade of loss
-    upon loss in the city's corporate heart that threatens to alter its
-    identity. 
+    Rockaway Beach has a land’s-end bacchanalian spirit, but it is also
+    a place where you can get to know people just by being there.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
+    By <span class="css-1n7hynb">Diane
+    Cardwell</span>
     
     </div>
     
@@ -689,23 +686,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/nyregion/coronavirus-small-business-nyc.html)
+    [](/2020/07/31/health/covid-contact-tracing-tests.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/17/nyregion/00nyvirus-oldbusiness/00nyvirus-oldbusiness-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## These Businesses Lasted Decades. The Virus Closed Them for Good.
+    ## Contact Tracing Is Failing in Many States. Here’s Why.
     
-    The pandemic has wiped out the longstanding anchors of New York
-    neighborhoods.
+    Inadequate testing and protracted delays in producing results have
+    crippled tracking and hampered efforts to contain major outbreaks.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Troy
-    Closson</span>
+    By <span class="css-1n7hynb">Jennifer Steinhauer <span>and</span>
+    Abby
+    Goodnough</span>
     
     </div>
     
@@ -723,24 +721,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/nyregion/roy-den-hollander-judge.html)
+    [](/2020/07/30/arts/design/american-museum-of-natural-history-reopen-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/25/nyregion/26nj-judge-promo/26nj-judge-promo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/30amnh-item/merlin_160099131_78da8533-6717-4533-838c-d3d0823968d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Inside the Violent and Misogynistic World of Roy Den Hollander
+    ## American Museum of Natural History Announces September Reopening
     
-    He was known for his hatred of women and his frivolous lawsuits.
-    Then he killed the son of a New Jersey federal judge before taking
-    his own life, officials said.
+    The museum said it is planning to reopen on Sept. 9, pending
+    permission from state and city officials.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicole Hong, Mihir Zaveri
-    <span>and</span> William K. Rashbaum</span>
+    By <span class="css-1n7hynb">Sarah Bahr</span>
     
     </div>
     

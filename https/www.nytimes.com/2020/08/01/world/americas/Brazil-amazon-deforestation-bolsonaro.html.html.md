@@ -233,8 +233,8 @@ Casado</span>
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">10:04 a.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

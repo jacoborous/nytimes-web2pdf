@@ -168,166 +168,24 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jesse
-    D. Garrabrant/NBAE, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/29/sports/29nba-stein-1/29nba-stein-1-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Morry
+    Gash/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/sports/01virus-mlb/merlin_175167699_2397f43a-6037-4988-a7c2-4be1e5e600c3-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/29/sports/29nba-stein-1/29nba-stein-1-thumbStandard.jpg)](/2020/07/29/sports/basketball/nba-restart-lou-williams.html)
+    [![](https://static01.nyt.com/images/2020/08/01/sports/01virus-mlb/01virus-mlb-thumbStandard.jpg)](/2020/08/01/sports/baseball/coronavirus-cardinals.html)
     
     </div>
     
-    ### marc stein on basketball
+    ## [More Games Postponed With 4 More Coronavirus Cases for Cardinals](/2020/08/01/sports/baseball/coronavirus-cardinals.html)
     
-    ## [8 Factors in the N.B.A.’s Return That May Upend Expectations](/2020/07/29/sports/basketball/nba-restart-lou-williams.html)
-    
-    In this week’s newsletter, Marc Stein discusses a threat to the
-    Lakers’ championship hopes, Lou Williams and the latest in his quest
-    for the perfect cup of
-    coffee.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marc
-    Stein</span></span>
-    
-    </div>
-
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-        Urso/Tampa Bay Times, via Associated
-        Press</span>](https://static01.nyt.com/images/2020/07/28/sports/28onfootball-1/28onfootball-1-threeByTwoMediumAt2X-v2.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/07/28/sports/28onfootball-1/28onfootball-1-thumbStandard-v2.jpg)](/2020/07/29/sports/football/nfl-mlb-opting-out.html)
-        
-        </div>
-        
-        ### on pro football
-        
-        ## [M.L.B.’s Botched Return Could Be a Warning for the N.F.L.](/2020/07/29/sports/football/nfl-mlb-opting-out.html)
-        
-        Baseball’s coronavirus outbreak is a cautionary tale for a
-        league returning without sequestering players. It may be too
-        late for the N.F.L. to change
-        plans.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ken
-        Belson</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bob
-        Levey/Getty
-        Images</span>](https://static01.nyt.com/images/2020/07/29/sports/29astros-dodgersWEB1/merlin_175056600_d66dcea2-8ed0-48b7-a7f9-3fd420984c53-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/07/29/sports/29astros-dodgersWEB1/merlin_175056600_d66dcea2-8ed0-48b7-a7f9-3fd420984c53-thumbStandard.jpg)](/2020/07/29/sports/baseball/dodgers-astros-fight.html)
-        
-        </div>
-        
-        ## [Benches Clear in First Astros-Dodgers Game Since Cheating Revelations](/2020/07/29/sports/baseball/dodgers-astros-fight.html)
-        
-        The Dodgers lost to the Astros in the 2017 World Series and were
-        not pleased to learn about Houston’s cheating scheme that year.
-        When they faced off Tuesday, things got
-        testy.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Victor
-        Mather</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-        Lang/USA Today Sports, via
-        Reuters</span>](https://static01.nyt.com/images/2020/07/28/sports/28mlb-virus1/28mlb-virus1-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/07/28/sports/28mlb-virus1/28mlb-virus1-thumbStandard.jpg)](/2020/07/28/sports/baseball/marlins-outbreak-mlb-coronavirus.html)
-        
-        </div>
-        
-        ### On Baseball
-        
-        ## [Miami Marlins Outbreak Wreaks Havoc on M.L.B. Schedule](/2020/07/28/sports/baseball/marlins-outbreak-mlb-coronavirus.html)
-        
-        M.L.B. announced that the Marlins would not play games until
-        Monday, and the ripple effects altered the plans of five teams
-        and sent a sense of unease throughout the
-        league.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Tyler
-        Kepner</span></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Hill for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/sports/29weightofgold-1/29weightofgold-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Michael Phelps Says Olympic System Neglects Mental Health](/2020/07/29/sports/olympics/michael-phelps-documentary-weight-of-gold.html)
-    
-    In “The Weight of Gold,” Phelps presents a stark picture of the
-    mental wear and tear Olympians
-    endure.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Futterman</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kathy
-    Willens/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/29/sports/29nhl-islesrangers/29nhl-islesrangers-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Divergent Paths Bring Rangers and Islanders to Same Postseason Start](/2020/07/29/sports/hockey/new-york-rangers-islanders-playoffs.html)
-    
-    The two teams were going in opposite directions when the N.H.L.’s
-    regular season was halted in mid-March. Both will try to speed into
-    playoff mode, starting with an exhibition game on
-    Wednesday.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Allan
-    Kreda</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mitchell
-    Leff/Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/27/sports/27marlins1/merlin_174925695_2c3ee74d-33d8-4cca-b2ff-c900ad78a9f1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Miami Marlins Outbreak Postpones 2 Games and Rocks M.L.B.’s Return](/2020/07/27/sports/baseball/marlins-game-canceled.html)
-    
-    Four days after baseball restarted its long-delayed season, a wave
-    of positive coronavirus tests cast the league’s plans into serious
-    doubt.
+    Three staffers and one player for the St. Louis Cardinals tested
+    positive for the virus, prompting the postponement of a game
+    Saturday and a doubleheader Sunday against the Brewers in
+    Milwaukee.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Tyler
@@ -335,39 +193,178 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/27/reader-center/soccer-fathers-son-poster/soccer-fathers-son-poster-videoLarge.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
+        Edelheit for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/01/sports/01wnba-rookies01/merlin_175183137_b22e2977-41eb-491c-884a-3bd474e94826-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/01/sports/01wnba-rookies01/01wnba-rookies01-thumbStandard.jpg)](/2020/08/01/sports/basketball/sabrina-ionescu-injury.html)
+        
+        </div>
+        
+        ## [W.N.B.A. Rookie Showdown Halted by Ionescu Injury](/2020/08/01/sports/basketball/sabrina-ionescu-injury.html)
+        
+        Sabrina Ionescu, who was selected with the top draft pick by the
+        Liberty, sprained her left ankle in a game against the Atlanta
+        Dream.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Gina
+        Mizell</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reginald
+        Thomas II/San Antonio
+        Spurs</span>](https://static01.nyt.com/images/2020/08/02/sports/00nba-pattymills-1/merlin_174856419_0f49b851-2eee-49b0-a7c0-ea3c416a8179-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/02/sports/00nba-pattymills-1/00nba-pattymills-1-thumbStandard.jpg)](/2020/07/31/sports/basketball/spurs-patty-mills.html)
+        
+        </div>
+        
+        ## [‘The Better I Got in Sports, the Worse the Racism Got’](/2020/07/31/sports/basketball/spurs-patty-mills.html)
+        
+        Patty Mills, a key reserve for the San Antonio Spurs, said he
+        developed an emotional shield from a lifetime of racial abuse,
+        but he is using the platform of the N.B.A.’s restart to speak
+        out against
+        racism.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Marc
+        Stein</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+        Pensinger/Getty
+        Images</span>](https://static01.nyt.com/images/2020/07/29/sports/29SKELETON-top-1/merlin_174528426_06653e10-f239-4dc0-ad27-840a38122d93-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/07/29/sports/29SKELETON-top-1/29SKELETON-top-1-thumbStandard.jpg)](/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
+        
+        </div>
+        
+        ## [This Sledding Team Trained Hard for Gold in 2010. Some Members Regret It.](/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
+        
+        In skeleton, the headfirst Olympic sledding sport, the
+        opportunity for unlimited training on the track can be a huge
+        advantage. But Canadian Olympians who had such access believe it
+        was bad for their
+        brains.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Matthew
+        Futterman</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Mone/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/sports/31virus-cardinals-print/merlin_175093647_f37c4703-1fdf-4469-aa74-3eefabee1c04-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Fathers, Sons and Soccer: Reflections on the Family Business](/2020/07/28/sports/soccer/erling-haaland-gio-reyna-thuram.html)
+    ## [St. Louis Cardinals Postpone Game After Two Players Test Positive for Virus](/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html)
     
-    Erling Haaland, Gio Reyna, Marcus Thuram and their famous fathers
-    discuss lineage, legacy and the weight of carrying a famous name on
-    the back of your
-    jersey.
+    Baseball’s outbreak spreads to a third major league clubhouse, but
+    Major League Baseball said the Cardinals’ game on Saturday will go
+    ahead as
+    planned.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Rory
-    Smith</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tyler
+    Kepner</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yong
-    Kim/The Philadelphia Inquirer, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/28/sports/28yankees1/28yankees1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
+    Cavaretta/South Florida Sun-Sentinel, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/sports/31brown-suspension-print/merlin_172890783_97953c39-f485-4d1c-8ccf-7f92169815a0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Another Yankees-Phillies Game Is Postponed Over Virus Concerns](/2020/07/28/sports/baseball/yankees-phillies-postponed.html)
+    ## [Antonio Brown Suspended Eight Games by the N.F.L.](/2020/07/31/sports/football/antonio-brown-suspension-nfl.html)
     
-    An outbreak of the coronavirus among the Miami Marlins, who played
-    at the Phillies’ ballpark over the weekend, forced the Yankees and
-    Phillies to call off their game for the second straight
-    day.
+    The All-Pro receiver was penalized for his role in a January dispute
+    at his home and for sending threatening tests to a woman who had
+    accused him of sexual
+    misconduct.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Wagner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ken
+    Belson</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeff
+    Vinnick/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/01/sports/01nhl-edmonton1-print/merlin_175138452_9486317d-6b51-411a-a58b-933de68b92ca-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Edmonton, ‘City of Champions,’ Readies for a Hockey Marathon](/2020/08/01/sports/hockey/edmonton-nhl-playoffs.html)
+    
+    The N.H.L. chose the small-market, hockey-mad city as one of two
+    “hub cities” — along with Toronto — to host its
+    playoffs.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Carol
+    Schram</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ashley
+    Landis/USA Today Sports, via
+    Reuters</span>](https://static01.nyt.com/images/2020/07/31/sports/31nba-returnsWEB1/merlin_175137366_d5661bcf-71e1-4749-a5c8-1dfd3152b43a-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Momentous First Night Back for the N.B.A.](/2020/07/31/sports/basketball/nba-opening-night.html)
+    
+    Close games, social justice protests and a principal role for Rudy
+    Gobert,
+    again.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Marc
+    Stein</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lee
+    Smith/Action Images, via
+    Reuters</span>](https://static01.nyt.com/images/2020/07/31/sports/31nfl-leeds1/31nfl-leeds1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [San Francisco 49ers Look to Increase Stake in Leeds United](/2020/07/31/sports/soccer/leeds-united-san-francisco-49ers.html)
+    
+    The N.F.L. team, which has owned a piece of the soccer team since
+    2018, is in talks to increase its investment now that Leeds is
+    returning to the Premier
+    League.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tariq
+    Panja</span></span>
     
     </div>
 
@@ -379,95 +376,96 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jae
-    C. Hong/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/28/sports/28odds01/merlin_174986928_baf826ef-c3a0-45cb-bbec-c84cee725cce-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+    Solomon for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/sports/00mlb-empty-2/00mlb-empty-2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How Does the Coronavirus Affect Sports Betting?](/2020/07/28/sports/coronavirus-sports-betting.html)
+    ## [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
     
-    No more home-field advantage, and some teams have better shots at a
-    title given changes to playoff
-    formats.
+    Players, coaches and analysts of all stripes are watching this
+    season’s games to see what effect — if any — the absence of fans has
+    on the games
+    themselves.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Victor
-    Mather</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Robert
+    O’Connell</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
-    Brandon/Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/27/sports/27YANKEES/merlin_174934632_138159e1-f761-49f9-b64c-b74e86811b32-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laurence
+    Kesterson/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/02/sports/28collegehoops-recruiting-1/28collegehoops-recruiting-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [After Marlins’ Outbreak, Yankees Stay Inside and Wait for Phillies](/2020/07/27/sports/baseball/coronavirus-yankees-marlins-phillies.html)
+    ## [No Summer Tournaments Means More Recruits Committing to Colleges](/2020/07/30/sports/ncaabasketball/college-basketball-recruiting.html)
     
-    The positive coronavirus tests for the Miami Marlins disrupted the
-    first road trip of the season for the Yankees, who were scheduled to
-    play in Philadelphia on Monday
-    night.
+    Villanova has already received verbal commitments from enough
+    players to build most of a starting lineup for future
+    seasons.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Wagner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Zagoria</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
-    Baptist/NBAE, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/26/sports/26nba-bubble-1/26nba-bubble-1-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
+    Lussier/NBAE, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/14/sports/14sideline-pettis/14sideline-pettis-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [For the N.B.A., a Long, Strange Road Trip to the Finals](/2020/07/27/sports/basketball/coronavirus-nba-season-bubble-disney-world.html)
+    ## [A W.N.B.A. Coach Heard a Call to Feed the Hungry. She’s Answering It.](/2020/07/30/sports/basketball/wnba-bridget-pettis.html)
     
-    The league has transported 22 of its 30 teams to a complex in Disney
-    World in Florida to play out the season in a worsening pandemic. Can
-    it succeed without the virus piercing the
-    bubble?
+    Bridget Pettis, a former W.N.B.A. player and coach, is sitting out
+    this season and focusing on teaching her community in Phoenix about
+    gardening and healthy
+    eating.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marc
-    Stein</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Gillian R.
+    Brassil</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26sledhead-promo-1595770337210/26sledhead-promo-1595770337210-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabrice
+    Coffrini/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/30/sports/30fifa1/merlin_171965208_18dd7869-3444-4ed7-bd40-2d738c33e827-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Sledding Athletes Are Taking Their Lives. Did High-Speed Crashes Damage Their Brains?](https://www.nytimes.com/2020/07/26/sports/olympics/olympics-bobsled-suicide-brain-injuries.html)
+    ## [FIFA President Gianni Infantino Faces Criminal Investigation](/2020/07/30/sports/soccer/fifa-gianni-infantino-investigation.html)
     
-    Not long ago, Pavle Jovanovic was among the world’s top bobsledders.
-    In retirement, he battled mental illness and substance abuse. Were
-    brain injuries the cause of his demise and that of others in his
-    sport?
+    A new inquiry takes aim at undisclosed meetings with a Swiss
+    official leading investigations into soccer
+    corruption.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tariq
+    Panja</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Agence
-    France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/27/sports/27OLYMPICS1980-2/27OLYMPICS1980-2-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ashley
+    Landis/Associated
+    Press</span>](https://static01.nyt.com/images/2020/07/30/sports/30virus-bubbles1/merlin_175084758_6b939c67-508f-4795-b6e9-3adb40cdc8c3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [That Almost Apology for the 1980 Olympic Boycott Helps. A Little.](/2020/07/27/sports/olympics/1980-boycott.html)
+    ## [‘Bubbles’ Are Working. But How Long Can Sports Stay Inside?](/2020/07/30/sports/basketball/sports-bubble-nba-mlb.html)
     
-    In the past 40 years, the would-be Olympians of the summer of 1980
-    have heard a lot of words, but not a full-throated mea culpa for a
-    boycott that accomplished very
-    little.
+    The restricted, campuslike environments used by soccer and pro
+    basketball have proved (mostly) impervious to the coronavirus. But
+    not every league fits inside
+    one.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Futterman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Andrew
+    Keh</span></span>
     
     </div>
 
@@ -527,23 +525,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/sports/horse-racing/diane-crump.html)
+    [](/2020/07/31/sports/baseball/john-mcnamara-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/29/multimedia/29sp-resilience-crump3/29sp-resilience-crump3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/01/obituaries/01McNamara-obit1/McNamara1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Jockeys Know the ‘Pick Yourself Up’ Mantra Well
+    ## John McNamara, Red Sox Skipper in ’86 Series Loss, Dies at 88
     
-    Diane Crump, who in 1970 became the first woman to ride in the
-    Kentucky Derby, has proved resilient in her career.
+    He led six big league teams with some success, but he’s best
+    remembered for questionable managerial moves in a crushing (for
+    Boston) sixth game against the Mets.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kerry
-    Hannon</span>
+    By <span class="css-1n7hynb">Richard
+    Sandomir</span>
     
     </div>
     
@@ -561,26 +560,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/well/move/blood-sugar-diet-foods-workouts-exercise-muscles.html)
+    [](/2020/07/31/sports/soccer/soccer-baseball.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/well/physed-runner/physed-runner-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/sports/31rorynewsletter-cheslea/merlin_174969222_6eca17f3-ef34-4a6b-85a3-ecbaeeabbd63-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Phys Ed</span>
+    ### <span class="css-m70j1g">Rory Smith On Soccer</span>
     
-    ## Is Your Blood Sugar Undermining Your Workouts?
+    ## Embracing the Value in Scarcity
     
-    Eating a diet high in sugar and processed foods could dent our
-    long-term health in part by changing how well our bodies respond to
-    exercise.
+    Major League Baseball is busy worrying that a 60-game season is not
+    long enough. But that hand-wringing might offer an insight into why
+    elite soccer is such a global phenomenon.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gretchen
-    Reynolds</span>
+    By <span class="css-1n7hynb">Rory
+    Smith</span>
     
     </div>
     
@@ -598,26 +597,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/movies/love-basketball-viewing-party.html)
+    [](/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/24/arts/23weekend-watch-loveandbasketball/23weekend-watch-loveandbasketball-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Your Weekend Watch With Tony and Manohla</span>
+    ### <span class="css-m70j1g">Ties</span>
     
-    ## The Director Gina Prince-Bythewood Has Always Had Game
+    ## Gambling on College Football Almost Fixed My Dysfunctional Family
     
-    Our readers and critic revisited “Love & Basketball,” the director’s
-    feature debut about a Black girl who plays ball, falls in love and
-    carves out her own path to happiness.
+    If Covid takes the football season away from us, we’re in danger of
+    losing the bond we’ve taken so many years to build.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Manohla
-    Dargis</span>
+    By <span class="css-1n7hynb">Mike
+    Evans</span>
     
     </div>
     
@@ -635,24 +633,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/us/politics/trump-yankees-fauci.html)
+    [](/interactive/2020/07/31/briefing/troops-baseball-louie-gohmert-news-quiz.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/us/politics/27dc-trumpyankees/27dc-trumpyankees-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/us/politics/31newsquiz-germany/29dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Announced, Then Canceled, a Yankees Pitch. Both Came as a Surprise.
+    ## News Quiz: U.S. Troops, Baseball, Louie Gohmert
     
-    The president’s announcement that he would pitch at Yankee Stadium
-    on Aug. 15 startled the team’s officials, who had not scheduled such
-    an event.
+    Did you follow the headlines this week?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Noah
-    Weiland</span>
+    Compiled by <span class="css-1n7hynb">Will Dudding, Anna Schaverien
+    <span>and</span> Jessica
+    Anderson</span>
     
     </div>
     
@@ -670,24 +667,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/sports/hockey/eddie-shack-feisty-wing-for-powerful-maple-leafs-dies-at-83.html)
+    [](/2020/07/30/sports/coronavirus-sec-schedule.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/obituaries/27Shack-sub/27Shack-sub-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/sports/30collegefootball/merlin_164191302_f199e0e3-0deb-4c75-beac-cc367da17c0b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Eddie Shack, Feisty Wing for Powerful Maple Leafs, Dies at 83
+    ## SEC Becomes Latest College Football League to Shrink Schedule
     
-    He helped Toronto win four Stanley Cups in the ’60s, his pugnacity
-    earning love in Toronto (and, no surprise, hatred in rival
-    Montreal).
+    The Southeastern Conference, the most influential league in college
+    football, said it would delay the start of its season and have its
+    teams play only within the conference.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Richard
-    Goldstein</span>
+    By <span class="css-1n7hynb">Billy
+    Witz</span>
     
     </div>
     
@@ -705,24 +702,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/sports/hockey/nhl-awards-restart-postseason.html)
+    [](/2020/07/30/sports/olympics/ben-jipcho-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/sports/27nhl-takeaways-1/27nhl-takeaways-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/obituaries/02jipcho-obit2/30jipcho-sub2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## N.H.L. Award Races Bode Well for a Compelling Restart
+    ## Ben Jipcho, a Runner Who Sacrificed Himself for a Teammate, Dies at 77
     
-    When hockey’s postseason starts this weekend, finalists for the
-    league’s top awards — like Edmonton’s Leon Draisaitl — will get a
-    long-delayed chance to shine.
+    At the 1968 Summer Olympics, he set a blistering early pace in the
+    1,500-meter race to help his teammate beat the American Jim Ryun.
+    Jipcho finished 10th.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew
-    Knoll</span>
+    By <span class="css-1n7hynb">Richard
+    Sandomir</span>
     
     </div>
     
@@ -740,25 +737,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/sports/baseball/mlb-season.html)
+    [](/2020/07/30/sports/basketball/nba-knicks-coach-tom-thibodeau.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/26/sports/26mlbweb1/26mlbweb1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/sports/30nba-knicks-1/merlin_175113222_2bb4fcab-d54d-4491-b79e-714031be6065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Baseball</span>
+    ## Thibodeau Calls Knicks Job a ‘Dream Come True’
     
-    ## An All-Day Journey Through Baseball’s Weird New Season
-    
-    Deserved or not, the first weekend of M.L.B. brought some familiar,
-    comforting scenes — as well as plenty of bizarre ones.
+    Tom Thibodeau was announced as the latest coach of the Knicks on
+    Thursday. Eight different people have filled the role since 2011.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tyler
-    Kepner</span>
+    By <span class="css-1n7hynb">Sopan
+    Deb</span>
     
     </div>
     
@@ -776,24 +771,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/sports/baseball/trump-yankees-pitch-deblasio.html)
+    [](/2020/07/30/sports/basketball/clippers-lakers.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/26/sports/26yankees-trump1/merlin_14892049_472e4165-d2e5-4a9f-901d-66df3e579084-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/sports/30nba-live-lebron2/merlin_175136385_8e2fe731-44d7-4e7a-b945-a6179d7fa2c1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Backs Out of Throwing Pitch at Yankees Game
+    ## The Lakers Hold On to Beat the Clippers in Thriller
     
-    After saying he would do the ceremonial honor at a game on Aug. 15,
-    causing a stir on social media, the president tweeted he would skip
-    it to focus on combating the pandemic.
+    LeBron James defended both Paul George and Kawhi Leonard on the
+    Clippers’ final possession. Zion Williamson played in the first game
+    of the night’s doubleheader, but the Pelicans missed a game-winner
+    at the buzzer against Utah.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James
-    Wagner</span>
+    By <span class="css-1n7hynb">Sopan Deb <span>and</span> Gillian R.
+    Brassil</span>
     
     </div>
     
@@ -811,25 +807,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/sports/soccer/houston-dash-nwsl.html)
+    [](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/26/sports/26nwsl3/merlin_174974700_bf0956f1-54ff-4de8-81db-b9d3b3d88c10-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">N.W.S.L. Challenge Cup</span>
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    ## Houston Beats Chicago to Win N.W.S.L. Title
+    ## The 1964 Olympics Certified a New Japan, in Steel and on the Screen
     
-    The Dash won the Challenge Cup final, the culmination of a monthlong
-    tournament held behind closed doors in Utah.
+    The world’s elite athletes would have been in Tokyo right now if not
+    for the coronavirus pandemic. When they went half a century ago,
+    they discovered a capital transformed by design.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
+    By <span class="css-1n7hynb">Jason
+    Farago</span>
     
     </div>
     
@@ -847,25 +844,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/sports/soccer/premier-league-decision-day.html)
+    [](/2020/07/30/sports/baseball/phillies-blue-jays-postponed-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/26/sports/26onsoccer-grealishjubo/26onsoccer-grealishjubo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/sports/30mlb-phillies-print/merlin_175021935_709311e3-5617-46a8-8aef-4c594192807e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Soccer</span>
+    ## Phillies-Blue Jays Games Postponed After 2 Staff Members Test Positive
     
-    ## The Premier League Calls It a Year, 352 Strange Days After It Began
-    
-    A remarkable year in England ended with Aston Villa saved, Watford
-    and Bournemouth relegated and the big clubs pretty much where
-    everyone expected them to be.
+    A Phillies coach and clubhouse attendant tested positive, leading to
+    more disorder in M.L.B.’s schedule.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Rory Smith</span>
+    By <span class="css-1n7hynb">Tyler Kepner</span>
     
     </div>
     

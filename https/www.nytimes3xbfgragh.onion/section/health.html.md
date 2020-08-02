@@ -546,21 +546,21 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Macdougall/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
+    Heisler/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Thousands March Against Virus Measures in Berlin](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
+    ## [Is the Subway Risky? It May Be Safer Than You Think](/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
     
-    An estimated 17,000 people defied social-distancing and mask
-    requirements in a protest supported by neo-Nazi groups, conspiracy
-    theorists as well as Germans who said they were fed up with the
-    restrictions.
+    New studies in Europe and Asia suggest that riding public
+    transportation is not a major source of transmission for the
+    coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reuters</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Christina
+    Goldbaum</span></span>
     
     </div>
 
@@ -616,6 +616,41 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    
+    Her near-total face transplant in 2008 was the most complex at the
+    time. She was the fourth patient in the world to undergo such a
+    procedure.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bryan
+    Pietsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
@@ -624,11 +659,12 @@ story](#after-mid2)
     
     </div>
     
-    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
+    ## Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
     
     Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the
-    Midwest.
+    virus is picking up speed in the Midwest. A summer camp in Georgia
+    apologizes for hosting a retreat after hundreds who attended were
+    infected.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -642,7 +678,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -677,7 +713,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -711,7 +747,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -746,7 +782,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -779,7 +815,76 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Ties</span>
+    
+    ## Gambling on College Football Almost Fixed My Dysfunctional Family
+    
+    If Covid takes the football season away from us, we’re in danger of
+    losing the bond we’ve taken so many years to build.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike
+    Evans</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/31/well/live/31healthquiz-07312020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Weekly Health Quiz: Covid, Weight Gain and Intermittent Fasting
+    
+    Test your knowledge of this week’s health news.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Toby
+    Bilanow</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -814,7 +919,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -837,109 +942,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Philip
-    Galanes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Fauci to Testify Before Congress on Coronavirus Response
-    
-    Federal U.S. jobless benefits are set to expire after lawmakers
-    failed to make a deal. Herman Cain died after being hospitalized
-    with the
-    virus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/health/covid-19-vaccine-monkeys.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Johnson & Johnson’s Coronavirus Vaccine Protects Monkeys, Study Finds
-    
-    It’s the second study in a week to report promising results in
-    monkeys for a vaccine candidate. But the real test will come with
-    human trials that are now underway.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carl
-    Zimmer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/upshot/coronavirus-republican-voting.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As Covid Has Become a Red-State Problem, Too, Have Attitudes Changed?
-    
-    There’s still a persistent partisan gap in the level of concern and
-    in mask wearing.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Robert Gebeloff</span>
+    By <span class="css-1n7hynb">Philip Galanes</span>
     
     </div>
     

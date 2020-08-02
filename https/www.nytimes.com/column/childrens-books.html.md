@@ -161,94 +161,93 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-thumbStandard.jpg)](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
+    [![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbStandard.jpg)](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
     
     </div>
     
-    ## [Monsters vs. Aliens](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
+    ## [For Two Teenagers on Election Day, the Political Gets Personal](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
     
-    In “Sia Martinez and the Moonlit Beginning of Everything,” a
-    Mexican-American girl lights candles in the desert for her deported
-    mother. Then a spacecraft
-    arrives.
+    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
+    out since age 7 helps a drummer make his voice
+    heard.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Abby
-    Sher</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Nicola
+    Yoon</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/books/review/26-BKS-SMITH-KIDS/26-BKS-SMITH-KIDS-videoLarge-v3.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/26/books/review/26-BKS-SMITH-KIDS/26-BKS-SMITH-KIDS-thumbStandard-v4.jpg)](/2020/07/24/books/review/hilary-mckay-the-time-of-green-magic.html)
+    [![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbStandard.jpg)](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
     
     </div>
     
-    ## [When a Bookish Girl’s Imagination (Truly\!) Takes Flight](/2020/07/24/books/review/hilary-mckay-the-time-of-green-magic.html)
+    ## [Tank Tops and Short Shorts and Bears, Oh My\!](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
     
-    With nods to Narnia, Hogwarts, E. Nesbit and Frances Hodgson
-    Burnett, Hilary McKay’s “The Time of Green Magic” is a love letter
-    to the literary
-    canon.
+    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
+    code is more terrifying than the bears wandering through its
+    woods.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah Harrison
-    Smith</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
+    Mathieu</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pete
-        Oswald</span>](https://static01.nyt.com/images/2020/07/19/books/review/19Kids-Cummings-3/19Kids-Cummings-3-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [3 Picture Books: How to Hike, Camp, Relax in the Great Outdoors](/2020/07/11/books/picture-books-the-camping-trip-jennifer-k-mann.html)
+        ## [Monsters vs. Aliens](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/19/books/review/19Kids-Cummings-3/19Kids-Cummings-3-thumbStandard.jpg)](/2020/07/11/books/picture-books-the-camping-trip-jennifer-k-mann.html)
+        [![](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-thumbStandard.jpg)](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
         
         </div>
         
-        For families ready to roam free, these visually-driven stories
-        celebrate the physical joys of wide-open
-        spaces.
+        In “Sia Martinez and the Moonlit Beginning of Everything,” a
+        Mexican-American girl lights candles in the desert for her
+        deported mother. Then a spacecraft
+        arrives.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Pat
-        Cummings</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Abby
+        Sher</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-        Cunha</span>](https://static01.nyt.com/images/2020/07/04/books/review/12PictureThis-11/12PictureThis-11-videoLarge-v2.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [8 Picture Books That Let Young Minds Wonder and Wander on Their Own](/2020/07/04/books/picture-books-miyakoshi-akiko-i-dream-of-a-journey.html)
+        ## [A Native American Coming-of-Age and the Uses of Enchantment](/2020/07/31/books/review/the-brave-james-bird.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/04/books/review/12PictureThis-11/12PictureThis-11-thumbStandard.jpg)](/2020/07/04/books/picture-books-miyakoshi-akiko-i-dream-of-a-journey.html)
+        [![](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbStandard.jpg)](/2020/07/31/books/review/the-brave-james-bird.html)
         
         </div>
         
-        These journeys of the imagination explore what it means to be
-        human.
+        In James Bird’s “The Brave,” a boy bullied for his numeric mind
+        undergoes a metamorphosis when he’s sent to live on a
+        reservation with his Native American
+        mother.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-        Krauss</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">David
+        Treuer</span></span>
         
         </div>
 
@@ -379,24 +378,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/the-brave-james-bird.html)
+    [](/2020/07/24/books/review/hilary-mckay-the-time-of-green-magic.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/26/books/review/26-BKS-SMITH-KIDS/26-BKS-SMITH-KIDS-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Native American Coming-of-Age and the Uses of Enchantment
+    ## When a Bookish Girl’s Imagination (Truly\!) Takes Flight
     
-    In James Bird’s “The Brave,” a boy bullied for his numeric mind
-    undergoes a metamorphosis when he’s sent to live on a reservation
-    with his Native American mother.
+    With nods to Narnia, Hogwarts, E. Nesbit and Frances Hodgson
+    Burnett, Hilary McKay’s “The Time of Green Magic” is a love letter
+    to the literary canon.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    Treuer</span>
+    By <span class="css-1n7hynb">Sarah Harrison
+    Smith</span>
     
     </div>
     

@@ -207,10 +207,10 @@ interface could — and should — look like,” a colleague said.
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
 engineer and researcher William English testing the first computer
 mouse, a device envisioned by his colleague Douglas Engelbart. It was
-unveiled in
-1968.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>via
+unveiled in 1968.
+</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>via
 SRI
-International</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/Obit-English1/merlin_175064223_d65d496f-ad90-40fe-bdb3-fb8df215ffc1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+International</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/obituaries/02English-obit1/merlin_175064223_d65d496f-ad90-40fe-bdb3-fb8df215ffc1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -314,12 +314,10 @@ struggled to explain his vision to others.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">At a time
 when only specialists used computers, entering and retrieving
-information through punched cards, typewriters and print-outs, Mr.
-English helped envisioned a machine that anyone could use simply by
-manipulating images on a screen.
-</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>via
+information through punched cards, typewriters and
+print-outs,</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>via
 English
-family</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31English-02/31English-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+family</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/obituaries/02English-obit2/31English-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

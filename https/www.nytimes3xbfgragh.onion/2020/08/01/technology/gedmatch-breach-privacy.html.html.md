@@ -232,8 +232,8 @@ Murphy</span>](https://www.nytimes3xbfgragh.onion/by/heather-murphy)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">9:48 a.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -241,7 +241,7 @@ Murphy</span>](https://www.nytimes3xbfgragh.onion/by/heather-murphy)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

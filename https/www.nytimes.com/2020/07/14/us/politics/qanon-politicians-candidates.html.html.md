@@ -1,0 +1,723 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes.com/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">The
+QAnon Candidates Are Here. Trump Has Paved Their
+Way.</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3evRNxM</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# The QAnon Candidates Are Here. Trump Has Paved Their Way.
+
+</div>
+
+The conspiracy theorists accuse Democrats and even fellow Republicans of
+being beholden to a cabal of bureaucrats, pedophiles and Satanists.
+President Trump has cheered them on.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Marjorie
+Taylor Greene, left, a Republican House candidate in Georgia who has
+expressed support for QAnon, talked with attendees at her watch party in
+Rome, Ga., last
+month. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Olivia
+Morley/The Rome News-Tribune, via Associated
+Press</span></span></span>](https://static01.nyt.com/images/2020/07/13/us/politics/00qanon-candidates1/merlin_173640276_e6359af2-2468-4ad0-9adf-251c995c5c17-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Matthew
+Rosenberg</span>](https://www.nytimes.com/by/matthew-rosenberg) and
+[<span class="css-1baulvz last-byline" itemprop="name">Jennifer
+Steinhauer</span>](https://www.nytimes.com/by/jennifer-steinhauer)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    July 14,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A Republican Senate candidate recently declared herself “one of the
+thousands of digital soldiers” in service of QAnon, a [convoluted
+pro-Trump conspiracy
+theory](https://www.nytimes.com/2018/08/01/us/politics/what-is-qanon.html)
+about a “deep state” of child-molesting Satanist traitors plotting
+against the president. A congressional candidate in Colorado who [made
+approving comments about
+QAnon](https://www.nytimes.com/2020/06/30/us/lauren-boebert-colorado.html)
+bested a five-term Republican incumbent in a primary last month.
+
+And then there is Marjorie Taylor Greene, a Georgia Republican who is
+perhaps the most unabashedly pro-QAnon candidate for Congress and has
+drawn a positive tweet from [President
+Trump](https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html).
+She recently declared that QAnon was “a once-in-a-lifetime opportunity
+to take this global cabal of Satan-worshiping pedophiles out.”
+
+More than two years after QAnon, which the F.B.I. has labeled a
+potential domestic terrorism threat, emerged from [the troll-infested
+corners of the
+internet](https://www.nytimes.com/2018/08/01/us/politics/what-is-qanon.html),
+the movement’s supporters are morphing from keyboard warriors into
+political candidates. They have been urged on by Mr. Trump, whose own
+espousal of conspiracy theories and continual railing against the
+political establishment have cleared a path for QAnon candidates.
+
+And even as party leaders publicly distance themselves from the
+movement, they are quietly supporting some QAnon-linked candidates —
+demonstrating the thin line they are trying to walk between radical
+elements among their base and the moderate voters they need to win over.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Precisely how many candidates are running under the banner of QAnon is
+somewhat open to interpretation — estimates range to more than a dozen,
+with many more defeated in primaries — and nearly all are expected to
+lose in November. Some candidates have clear connections to the movement
+and use its language and hashtags on social media and in real-world
+appearances.
+
+Scores more have cherry-picked [some of the movement’s
+themes](https://www.nytimes.com/2020/02/09/us/politics/qanon-trump-conspiracy-theory.html),
+such as claims that Jews, and especially the financier George Soros, are
+controlling the political system and vaccines; assertions that the risk
+from the coronavirus is vastly overstated; or racist theories about
+former President Barack Obama. Many have appeared on QAnon-themed
+podcasts and in news outlets. On Monday Jeff Sessions, caught in a tight
+race to reclaim his former Senate seat in Alabama, recycled an old QAnon
+meme about himself in a Twitter post.
+
+All of the candidates, though, present a fresh headache for Republican
+leaders. They were already struggling to distance the party from
+conspiracy theories steeped in racist and anti-Semitic messaging. Now
+they must contend with candidates whose online beliefs have inspired
+real-world violence, including [the killing of a mob
+boss](https://www.nytimes.com/2019/07/21/nyregion/gambino-shooting-anthony-comello-frank-cali.html).
+
+It is a development that threatens to further alienate the kinds of
+traditional Republican voters who typically care about lowering taxes,
+not chasing imaginary Satanists from the government. Democrats are eager
+to pounce.
+
+“We will point it out loudly and clearly,” said Representative Cheri
+Bustos of Illinois, who leads the Democratic Congressional Campaign
+Committee. “The moral of the story is the Republican Party is silent on
+all of this.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Yet Republican leaders also cannot afford to turn off voters who share
+those conspiratorial views if they hope to retain the Senate and retake
+the House. So while the party has publicly sought to keep its distance
+from most QAnon candidates, campaign finance filings show that some have
+clearly won its tacit backing.
+
+In April, Representative Jim Jordan of Ohio, a high-profile lawmaker and
+a favorite of the president, donated $2,000 to Ms. Greene’s campaign. A
+political action committee with which Mr. Jordan is associated, the
+House Freedom Fund, gave her thousands of dollars more.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">President
+Trump and Angela Stanton-King, right, during a news conference with
+African-American supporters at the White House in February. Ms.
+Stanton-King has repeatedly posted QAnon content and hashtags
+online. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Chip
+Somodevilla/Getty
+Images</span></span>](https://static01.nyt.com/images/2020/07/13/us/politics/00qanon-candidates2/merlin_169672641_c2c4465b-bc1d-45d0-a9d7-08db4e8f64aa-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A month earlier, the Republican National Committee gave $2,200 to Angela
+Stanton-King, a House candidate in Georgia who has [repeatedly posted
+QAnon content and obscure
+hashtags](https://www.instagram.com/tv/B930CqOgc9I/?utm_source=ig_web_copy_link),
+such as “\#trusttheplan.” The Georgia Republican Party gave an
+additional $2,800 to Ms. Stanton-King, who [was pardoned this
+year](https://www.nytimes.com/2020/02/18/us/politics/trump-pardons.html)
+by Mr. Trump for her role in a car-theft ring. She is expected to be
+roundly defeated in her heavily Democratic district.
+
+Ms. Stanton-King has since denied believing in any QAnon conspiracies.
+Yet in recent days she was again tweeting about “[global elite
+pedophiles](https://twitter.com/theangiestanton/status/1281894309093167106?s=20),”
+as well as a new conspiracy theory involving a purported
+[child-trafficking
+ring](https://twitter.com/theangiestanton/status/1281799576350076930?s=20)
+run by an online furniture retailer.
+
+Few of the QAnon candidates appear to share any formal ties with one
+another, beyond mostly being Republicans. But as they move onto ballots
+this fall, the candidates and their fellow travelers are increasingly
+taking on the trappings of a discrete political movement, though one
+with incoherent ideas whose adherents typically focus on wild
+accusations, not policy changes.
+
+In recent weeks QAnon followers, including a Republican Senate
+candidate, have begun to publicly pledge allegiance to the movement,
+posting videos of themselves reciting what they are calling the digital
+soldier oath. On social media, where the conspiracy theory first took
+root, QAnon candidates and followers often amplify one another.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A favored topic of the candidates on social media is Mr. Trump. From
+February to June, QAnon candidates quoted, retweeted or replied to Mr.
+Trump roughly 2,000 times.
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In many instances, they sought to spread a core tenet of the QAnon
+conspiracy: that Mr. Trump, backed by the military, ran for office to
+save Americans from a so-called deep state filled with child-abusing,
+devil-worshiping bureaucrats. Backing the president’s enemies are
+prominent Democrats who, in some telling, extract hormones from
+children’s blood.
+
+The president, for his part, has [repeatedly retweeted QAnon
+supporters](https://www.politico.com/news/2020/07/12/trump-tweeting-qanon-followers-357238),
+and cheered on candidates who openly support the conspiracy theory, such
+as Ms. Greene of Georgia.
+
+“A big winner. Congratulations\!” [Mr. Trump
+tweeted](https://twitter.com/realDonaldTrump/status/1271428819296157697?s=20)
+after Ms. Greene, whose ads have been banned by Facebook for violating
+the platform’s terms of service, placed first in the Republican primary
+in a deeply conservative corner of northwestern Georgia. But she failed
+to clear the 50 percent mark and is now the favorite in a [runoff
+election](https://www.nytimes.com/2020/06/17/us/marjorie-taylor-greene-georgia.html)
+for the Republican nomination in district long held by the party.
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The movement defies easy political labels, and its adherents include a
+smattering of Democrats and independents. Mostly, what unites it is a
+hatred of the establishment.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“It’s not like a QAnon supporter went down a path where they got into
+George Bush and then started to read Ronald Reagan’s speeches, and then
+bought Milton Friedman’s ‘Capitalism and Freedom,’ and then believed in
+satanic baby eaters,” said Joseph Uscinski, a professor at the
+University of Miami [who studies fringe
+groups](https://www.joeuscinski.com/). “It doesn’t work like that.”
+
+Mr. Trump “won by saying that he wanted to drain the swamp,” Dr.
+Uscinski said. “By doing that, he essentially built a coalition of
+people with anti-establishment views.” Those who believe in QAnon, the
+professor added, “are probably the most extreme part of that coalition.”
+
+In Western Colorado late last month, Lauren Boebert, a gun-rights
+activist who has made approving comments about QAnon, beat a five-term
+Republican incumbent and will now defend the sprawling district in
+November. In recent weeks she told the [QAnon-aligned web show “Steel
+Truth](https://www.washingtonpost.com/politics/gun-rights-activist-defeats-five-term-gop-congressman-in-colorado-primary/2020/06/30/2ffb8736-bb3d-11ea-80b9-40ece9a701dc_story.html?itid=lk_inline_manual_8)”
+that “everything I’ve heard of Q — I hope this is real.”
+
+In a recent interview, Ms. Boebert said she was not a follower of the
+group. But, she added, “I don’t believe that’s a radical notion to want
+to get rid of people trying to undermine the president of the United
+States.”
+
+In Southern California, Mike Cargile, who is challenging an incumbent
+Democrat for a House seat, includes \#WWG1WGA in his Twitter bio, a
+shortened version of the QAnon motto “Where We Go One We Go All.” He has
+repeated many of the group’s [racist theories about Mr.
+Obama](https://www.lamag.com/citythinkblog/mike-cargile-qanon/) and
+Black Americans.
+
+In an emailed response to questions, Mr. Cargile said that he sought
+only to discover the truth and that Americans needed to resist
+“Marxists’ efforts to deceive and divide.”
+
+He said “we’ll see” what becomes of the QAnon theories. But, he added,
+all Americans should be alarmed by the efforts of the president’s
+opponents in Washington, “and even more so when we discover that the
+saboteurs and propagators are the very men and women tasked with
+safeguarding our system of Justice.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In Oregon, the Republicans’ [long-shot Senate
+candidate](https://www.nytimes.com/2020/05/20/us/oregon-senate-perkins-qanon.html),
+Jo Rae Perkins, [posted a video in
+May](https://www.opb.org/news/article/jo-rae-perkins-qanon-oregon-republican-senate-nominee/)
+declaring, “I stand with Q and the team.”
+
+She followed up with another video in late June in which she faced the
+camera and took the QAnon digital soldier oath. The oath is lifted from
+the pledge taken by senators at their swearing-in, with one small
+addition tacked on at the end, the letters “WWG1WGA.”
+
+Though the precise origins of the oath are murky, it spread from
+hard-core QAnon followers and into Republican ranks in a matter of
+weeks, illustrating how adherents of the conspiracy have enmeshed
+themselves — and their theories — in conservative circles.
+
+There appear to be vague references to the oath on social media and
+internet message boards going back to early June. But it took off on
+June 24 after a so-called Q drop — that is, a post by the person
+purporting to be Q, the originator of the movement who claims to be a
+high-ranking official with access to top-secret information. The post
+was on 8kun, a new message board that has quickly become a home for all
+flavors of conspiracy theorists and extremists, especially QAnon
+followers.
+
+Under the subject line “Digital Soldiers: Take the Oath and Serve Your
+Country,” the user laid out the text of the oath. The user then added:
+“Take the oath. Mission forward. Q.”
+
+It quickly gained traction outside QAnon circles. Among the most recent
+people to take the oath was Michael T. Flynn, the president’s first
+national security adviser, who is expected to soon begin campaigning for
+Mr. Trump. He posted [a video on Twitter over the July 4
+weekend](https://www.cnn.com/2020/07/07/politics/michael-flynn-qanon-video/index.html)with
+guests reciting the oath and intoning the phrase “where we go one, we go
+all.”
+
+His lawyer said Mr. Flynn, whose case on a charge of lying to the F.B.I.
+[remains in
+limbo](https://www.nytimes.com/2020/07/09/us/politics/michael-flynn-appeals-court.html?referringSource=articleShare),
+was interpreting the works of a 16th-century poet, though she did not
+specify which bard he was referring to. Soon after the tweet, Mr. Flynn
+made his Twitter account private, limiting who could see the video.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+How far QAnon candidates can go remains an open question; the vast
+majority of Republican voters have shown little inclination to buy into
+the movement’s wildest claims. Yet some of its themes are now a regular
+feature of conservative political discourse, and even candidates who
+only espouse parts of QAnon’s racist, anti-Semitic and violent
+conspiracies could pose real threats if elected.
+
+“It is really more like flat-earth adherents who have a different way to
+interpret the world, which colors everything they see,” said Alice E.
+Marwick, a **** principal researcher at the Center for Information,
+Technology and Public Life at the University of North Carolina, Chapel
+Hill.
+
+No matter how many of the candidates win, their mere presence on the
+political scene is helping to further spread a conspiracy that, at its
+core, sees the government as a dangerous enemy.
+
+The latest example of how deeply QAnon themes have become embedded in
+Republican politics came on Monday when Mr. Sessions, the former
+attorney general who is running to reclaim his former Senate seat in
+Alabama, recycled an old QAnon meme about himself, “Sessions Activated.”
+
+The “Sessions Activated” meme first became popular in 2018 when Mr.
+Sessions was still attorney general, and QAnon followers thought he was
+going to lead the prosecutions of deep-state bureaucrats and their
+Democratic backers. But after he resigned later that year, the meme
+faded away.
+
+Mr. Sessions grabbed the meme off the shelf this week, tweeting it just
+before he faced a primary election against an opponent who has led in
+polls. His post has since been retweeted nearly 9,000 times.
+
+Ben Decker contributed reporting.
+
+*Follow Matthew Rosenberg on Twitter*
+[*@AllMattNYT*](https://twitter.com/allmattnyt)*.*
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -243,9 +243,8 @@ keeping the virus in check.
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 31, 2020Updated Aug. 1, 2020,
-    <span class="css-epvm6">3:09 a.m.
-    ET</span>
+    July 31,
+    2020
     
     </div>
 
@@ -253,7 +252,7 @@ keeping the virus in check.
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -690,7 +689,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <thead>
 <tr class="header">
 <th><h3 id="united-states" class="heading-label svelte-47k53u">United States ›</h3></th>
-<th><h3 id="on-july-31" class="svelte-47k53u">On July 31</h3></th>
+<th><h3 id="on-aug.-1" class="svelte-47k53u">On Aug. 1</h3></th>
 <th><h3 id="day-change" class="svelte-47k53u">14-day change</h3></th>
 <th><h3 id="trend" class="svelte-47k53u">Trend</h3></th>
 </tr>
@@ -698,8 +697,8 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td><h4 id="section" class="svelte-47k53u">67,746</h4></td>
-<td><h4 id="section-1" class="svelte-47k53u">–3%</h4></td>
+<td><h4 id="section" class="svelte-47k53u">58,183</h4></td>
+<td><h4 id="section-1" class="svelte-47k53u">–5%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart chart-0 show-chart svelte-l6qvn7">
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
@@ -713,7 +712,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td><h4 id="section-2" class="svelte-47k53u">1,424</h4></td>
+<td><h4 id="section-2" class="svelte-47k53u">1,054</h4></td>
 <td><h4 id="section-3" class="svelte-47k53u">+60%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart deaths-chart chart-0 show-chart svelte-l6qvn7">
@@ -789,22 +788,6 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 <div class="chart mini-chart state-chart chart-3 rising-falling-chart show-chart svelte-l6qvn7">
 
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mo.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
-
 [](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
 
 <div class="line-chart-wrapper svelte-l6qvn7">
@@ -819,55 +802,23 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
+<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Mo.</span>
+
+</div>
+
 <div class="chart mini-chart state-chart chart-5 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mass.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Miss.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Md.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-8 rising-falling-chart show-chart svelte-l6qvn7">
 
 [](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
@@ -883,7 +834,71 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
+<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Mass.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Neb.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-8 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">P.R.</span>
+
+</div>
+
 <div class="chart mini-chart state-chart chart-9 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Miss.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
 
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
@@ -899,25 +914,9 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Ky.</span>
-
-</div>
-
 <div class="chart mini-chart state-chart chart-11 rising-falling-chart show-chart svelte-l6qvn7">
 
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
 <div class="line-chart-wrapper svelte-l6qvn7">
 
@@ -927,7 +926,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<span class="state-name svelte-l6qvn7">Neb.</span>
+<span class="state-name svelte-l6qvn7">Ill.</span>
 
 </div>
 
@@ -948,7 +947,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <div class="media-holder">
 
 ![US coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ede29db66044639aecd12edb0a3b7696a30be7e6/images/orphan_usa-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -963,7 +962,7 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ede29db
 <div class="media-holder">
 
 ![Worldwide coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ede29db66044639aecd12edb0a3b7696a30be7e6/images/orphan_world-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -1056,19 +1055,20 @@ him.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T18:23:51.652Z
+Updated 2020-08-02T07:13:03.337Z
 
 </div>
 
 </div>
 
-  - [Top officials work to break impasse over jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
-  - [The virus picks up dangerous speed in the Midwest, and in areas
-    that had seen
-    success.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
+  - [The U.S. reels as July cases more than double the total of any
+    other
+    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
 
 <div class="briefing-block-footer">
 

@@ -229,8 +229,8 @@ McCabe</span>](https://www.nytimes3xbfgragh.onion/by/david-mccabe)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">1:48 p.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

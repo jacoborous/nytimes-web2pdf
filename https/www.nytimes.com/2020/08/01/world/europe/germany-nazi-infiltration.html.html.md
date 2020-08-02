@@ -241,8 +241,8 @@ Bennhold</span>](https://www.nytimes.com/by/katrin-bennhold)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">9:44 a.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -250,7 +250,7 @@ Bennhold</span>](https://www.nytimes.com/by/katrin-bennhold)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -477,8 +477,8 @@ Another regular was Frank Thiel, a champion in handgun competitions and
 sought-after tactical shooting instructor for police and military units
 across Germany.
 
-In the fall of 2015, as hundreds of thousand of asylum seekers from wars
-in Syria, Iraq and Afghanistan arrived in Germany, the men were
+In the fall of 2015, as hundreds of thousands of asylum seekers from
+wars in Syria, Iraq and Afghanistan arrived in Germany, the men were
 appalled. In their eyes, Germany faced a potential invasion from
 terrorists, a possible breakdown of its welfare system, maybe even
 unrest.
@@ -661,8 +661,8 @@ prepping.’’
 
 <div class="css-53u6y8">
 
-And, he said, they had already seen one system collapse. “You learn how
-to read between the lines. It’s an advantage.”
+And, he said, they had seen one system collapse. “You learn how to read
+between the lines. It’s an advantage.”
 
 Through 2016, as hundreds of thousands more migrants arrived in Germany
 and a number of Islamist terrorist attacks took place in Europe, the
@@ -715,7 +715,7 @@ in what had become a concentrated cell within Nordkreuz.
 
 Among the others present were two men now under investigation on
 suspicion of plotting terrorism. Under German law, they cannot be fully
-named. One was Haik J., who like Mr. Gross was a police officer. Another
+named. One was Haik J., who like Mr. Gross was police officer. Another
 was a lawyer and local politician, Jan Henrik H. Both declined to speak
 with me.
 
@@ -789,7 +789,7 @@ Much in the file came from publicly available sources. But there were
 also handwritten notes with information obtained from a police computer.
 
 As they drank coffee at the truck stop, Jan Henrik H. turned the
-conversation to “the people in the file,” who he said were “harmful” to
+conversation to “the people in the file,” whom he said were “harmful” to
 the state and needed to be “done away with,” Mr. Schelski later told the
 police.
 
@@ -872,8 +872,8 @@ Welters for The New York Times</span></span>
 
 He said he wasn’t too concerned. But in June 2018, Mr. Böhringer was
 called to the police station. The homes of two Nordkreuz members had
-recently been raided, one of them a police officer based in his
-hometown: Haik J., who had been at the truck stop meeting.
+recently been raided, one of them a policeman based in his hometown:
+Haik J., who had been at the truck stop meeting.
 
 “They showed me a handmade sketch of my home,” Mr. Böhringer said. “‘Do
 you recognize this?’ they had asked.”
@@ -888,7 +888,7 @@ harm me.”
 “They didn’t just want to survive Day X, they wanted to kill their
 enemies,” he said. “It was concrete, what they were planning.”
 
-## Meeting With Marko
+## Meeting with Marko
 
 The first time I knocked on Mr. Gross’s door, in the village of Banzkow,
 about an hour’s drive from the shooting range, we ended up talking

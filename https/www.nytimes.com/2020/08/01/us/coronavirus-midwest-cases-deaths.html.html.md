@@ -269,8 +269,8 @@ Fuller</span>](https://www.nytimes.com/by/thomas-fuller)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">1:54 p.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -278,7 +278,7 @@ Fuller</span>](https://www.nytimes.com/by/thomas-fuller)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -306,12 +306,11 @@ Fuller</span>](https://www.nytimes.com/by/thomas-fuller)
 
 <div class="css-53u6y8">
 
-CHICAGO —<span class="css-8l6xbc evw5hdy0"> </span>First, the Pacific
-Northwest and the Northeast were hit hardest as the coronavirus tore
-through the nation. Then it surged across the South. Now the virus is
-again picking up dangerous speed in much of the Midwest — and in cities
-from Mississippi to Florida to California that thought they had already
-seen the worst of it.
+CHICAGO — First, the Pacific Northwest and the Northeast were hit
+hardest as the coronavirus tore through the nation. Then it surged
+across the South. Now the virus is again picking up dangerous speed in
+much of the Midwest — and in states from Mississippi to Florida to
+California that thought they had already seen the worst of it.
 
 As the United States rides what amounts to a second wave of cases, with
 daily new infections leveling off at an alarming higher mark, there is a
@@ -348,10 +347,10 @@ than 1,400 cases a day, up from about 800 at the start of July.
 “We’re at a danger point,” Mr. Pritzker said in Peoria County, where the
 total number of cases has doubled in the last month.
 
-Gone is any sense that the country may soon get a hold of the pandemic.
-Instead, the seven-day average for new infections hovered around 65,000
-for two weeks. Progress in some states has been mostly offset by growing
-outbreaks in parts of the South and the Midwest.
+Gone is any sense that the country may soon gain control of the
+pandemic. Instead, the seven-day average for new infections hovered
+around 65,000 for two weeks. Progress in some states has been mostly
+offset by growing outbreaks in parts of the South and the Midwest.
 
 </div>
 
@@ -415,19 +414,20 @@ unclear.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T18:23:51.652Z
+Updated 2020-08-02T06:51:12.403Z
 
 </div>
 
 </div>
 
-  - [Top officials work to break impasse over jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
-  - [The virus picks up dangerous speed in the Midwest, and in areas
-    that had seen
-    success.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
+  - [The U.S. reels as July cases more than double the total of any
+    other
+    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
 
 <div class="briefing-block-footer">
 
@@ -471,8 +471,7 @@ battling a wave of infections in and around Melbourne. Hong Kong, Israel
 and Spain are also fighting second waves.
 
 None of those places has an infection rate as high as the United States,
-which has the most cases and deaths in the world, more than the next two
-hardest-hit countries — Brazil and England — combined.
+which has the most cases and deaths in the world.
 
 In American communities that saw improvement in June, such as Milwaukee
 County in Wisconsin, there was a widespread feeling of relief, said Dr.
@@ -582,8 +581,11 @@ That the virus is now present in the evergreen forests of the
 northeastern corner of the state is testament to its inexorable spread,
 say the county’s residents. Alturas, the only incorporated city in Modoc
 County, is so isolated that its high school football team must drive as
-long as five hours to reach its
-opponents.
+long as five hours to reach its opponents.
+
+“We all felt very safe for a while,” said Juan Ledezma, the owner of a
+thrift shop on Main Street in Alturas. “Right now, it’s a little bit
+scary.”
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -723,10 +725,6 @@ Updated July 27, 2020
 
 </div>
 
-“We all felt very safe for a while,” said Juan Ledezma, the owner of a
-thrift shop on Main Street in Alturas. “Right now, it’s a little bit
-scary.”
-
 Businesses across the country have abandoned their own plans to return
 to normal in light of the virus’s resurgence.
 
@@ -809,9 +807,9 @@ of deaths a day. In more than half of states, outbreaks continue to
 grow.
 
 In Missouri and Oklahoma, cases have grown to alarming levels, with both
-states now averaging more than 1,000 each day. And in Maryland and Rhode
-Island, daily case numbers are ticking upward again after periods of
-sustained progress.
+states now averaging more than 1,000 each day. And in Maryland, daily
+case numbers are ticking upward again after periods of sustained
+progress.
 
 </div>
 
@@ -820,6 +818,12 @@ sustained progress.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The Northeast, once the virus’s biggest hot spot, has improved
+considerably since its peak in April, when the region suffered more than
+any other region of the country. Yet cases are now increasing slightly
+in New Jersey, Rhode Island and Massachusetts, as residents move around
+more freely and gather more frequently in groups.
 
 Across the country, deaths from the coronavirus continue to rise. The
 country was averaging about 500 per day at the start of July. Over the
@@ -840,7 +844,7 @@ day. They were fatigued about being cooped up in their house and being
 away from people.”
 
 People there have been coping with the lulls and peaks of a physical,
-emotional, economical and logistical crisis from an invisible foe nearly
+emotional, fiscal and logistical crisis from an invisible foe nearly
 three years after surviving Hurricane Harvey, one of the worst disasters
 in American history.
 

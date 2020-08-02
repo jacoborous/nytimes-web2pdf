@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -62,31 +63,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-opinion" class="section css-15h4p1b e9abtgs0">
 
@@ -229,21 +205,22 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Rudoff/Sipa, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/31/opinion/31feds-promo2/merlin_174687471_3f161da7-b02b-4a94-89a2-d597dadb4374-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Samuel
+    Corum for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Federal Agents Don’t Need Army Fatigues](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+    ### Maureen Dowd
     
-    If you’re an officer of the law, dress like one. Leave the
-    soldiering to
-    soldiers.
+    ## [Double, Double, Trump’s Toil, Our Trouble](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    
+    Demon sperm meets alien D.N.A., as President Trump
+    teeters.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
-    Board</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maureen
+    Dowd</span></span>
     
     </div>
 
@@ -283,20 +260,22 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    George
-    Haddad</span>](https://static01.nyt.com/images/2020/07/28/opinion/28oster/28oster-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+    Wiseman</span>](https://static01.nyt.com/images/2020/08/02/opinion/sunday/02bruni/02bruni-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Will Schools Do When a Teacher Gets Covid-19?](/2020/07/28/opinion/coronavirus-schools-reopening.html)
+    ### Frank Bruni
     
-    Cases are inevitable. Schools need to plan
-    now.
+    ## [How to Go to College During a Pandemic](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
+    
+    Students at Minerva spend four years entirely online. Is this the
+    future of higher
+    education?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Emily
-    Oster</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Frank
+    Bruni</span></span>
     
     </div>
 
@@ -306,62 +285,24 @@ Society](/section/opinion/gender-and-society)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christoph
-    Burgstedt/Science Photo Library, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/30/opinion/30iwasaki/30iwasaki-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Woody
+    Harrington</span>](https://static01.nyt.com/images/2020/08/02/opinion/01Voting/01Voting-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Scared That Covid-19 Immunity Won’t Last? Don’t Be](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
+    ## [Voting by Mail Is Crucial for Democracy](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
     
-    Dropping antibody counts aren’t a sign that our immune system is
-    failing against the coronavirus, nor an omen that we can’t develop a
-    viable
-    vaccine.
+    Especially amid the pandemic, it’s the surest path to a more
+    inclusive, more accurate and more secure
+    election.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Akiko Iwasaki</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Ruslan
-    Medzhitov</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
+    Board</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yawar
-    Nazir/Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/31/opinion/31Moyo/31Moyo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [3 Things to Make the World Immediately Better After Covid-19](/2020/07/31/opinion/coronavirus-economy.html)
-    
-    The crisis could be a catalyst for overhauling the economic world
-    order.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dambisa
-    Moyo</span></span>
-    
-    </div>
-
-3.  ### Roger Cohen
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ammar
-    Awad/Reuters</span>](https://static01.nyt.com/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Less Impossible Israeli-Palestinian Peace](/2020/07/31/opinion/israeli-palestinian-peace.html)
-    
-    The two-state idea is comatose but not
-    dead.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Roger
-    Cohen</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
     Deal/Redux</span>](https://static01.nyt.com/images/2020/07/29/opinion/00lewis/00lewis-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -378,19 +319,58 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brendan
-    Mcdermid/Reuters</span>](https://static01.nyt.com/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-videoLarge.jpg)
+3.  ### Gail Collins
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    Archive/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/02/opinion/30collins1/30collins1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Let’s End the Wait for Coronavirus Test Results. Here’s How.](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
+    ## [100 Years of Voting Hasn’t Done What We Thought It Would](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
     
-    States should look to New York’s
-    strategies.
+    The unfinished business of the women’s
+    vote.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew M.
-    Cuomo</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Gail
+    Collins</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    George
+    Haddad</span>](https://static01.nyt.com/images/2020/07/28/opinion/28oster/28oster-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [What Will Schools Do When a Teacher Gets Covid-19?](/2020/07/28/opinion/coronavirus-schools-reopening.html)
+    
+    Cases are inevitable. Schools need to plan
+    now.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Emily
+    Oster</span></span>
+    
+    </div>
+
+5.  ### Paul Krugman
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeff
+    Dean/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/27/opinion/27krugmanWeb/27krugmanWeb-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Cult of Selfishness Is Killing America](/2020/07/27/opinion/us-republicans-coronavirus.html)
+    
+    The right has made irresponsible behavior a key
+    principle.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Paul
+    Krugman</span></span>
     
     </div>
 
@@ -484,6 +464,73 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31feds-promo2/31feds-promo2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Federal Agents Don’t Need Army Fatigues
+    
+    If you’re an officer of the law, dress like one. Leave the
+    soldiering to soldiers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/opinion/israeli-palestinian-peace.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Less Impossible Israeli-Palestinian Peace
+    
+    The two-state idea is comatose but not dead.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roger
+    Cohen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
     
     <div class="css-79elbk">
@@ -511,7 +558,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -545,7 +592,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -580,13 +627,48 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/john-lewis-trump-election-2020.html)
+    [](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/30iwasaki/30iwasaki-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scared That Covid-19 Immunity Won’t Last? Don’t Be
+    
+    Dropping antibody counts aren’t a sign that our immune system is
+    failing against the coronavirus, nor an omen that we can’t develop a
+    viable vaccine.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Akiko Iwasaki <span>and</span> Ruslan
+    Medzhitov</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
     
     <div class="css-79elbk">
     
@@ -614,7 +696,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -648,127 +730,28 @@ story](#after-mid1)
     
     </div>
 
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/john-lewis-legacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30lewis1/merlin_128348066_40469054-04f5-42bc-bfec-2928f224ab45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John Lewis Believed America Would Survive Trump
-    
-    He told us to keep the faith. It’s not easy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michelle
-    Goldberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/mitch-mcconnell-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/30econ/30econ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mitch McConnell Could Rescue Millions. What Is He Waiting For?
-    
-    The economy is in dire shape. Millions of Americans are about to
-    lose federal aid. The Senate is going on vacation.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/trump-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30krugmanWeb/30krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Nightmare on Pennsylvania Avenue
-    
-    Trump is the kind of boss who can’t do the job — and won’t go away.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul
-    Krugman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/biden-fdr.html)
+    [](/2020/07/31/opinion/coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30brooksWeb/30brooksWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31Moyo/31Moyo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Future of American Liberalism
+    ## 3 Things to Make the World Immediately Better After Covid-19
     
-    What Biden can learn from F.D.R.
+    The crisis could be a catalyst for overhauling the economic world
+    order.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David Brooks</span>
+    By <span class="css-1n7hynb">Dambisa Moyo</span>
     
     </div>
     

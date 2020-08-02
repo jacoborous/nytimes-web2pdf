@@ -204,8 +204,8 @@ With Disabilities Act, passed 30 years ago.
 
 <div class="css-bn0qp euiyums0">
 
-Aug. 1, 2020, <span class="css-epvm6">12:00 p.m.
-ET</span>
+Aug. 1,
+2020
 
 <div class="css-4xjgmj">
 

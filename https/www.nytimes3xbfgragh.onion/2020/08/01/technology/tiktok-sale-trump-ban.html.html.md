@@ -244,8 +244,8 @@ Lohr</span>](https://www.nytimes3xbfgragh.onion/by/steve-lohr)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">12:52 p.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -253,7 +253,7 @@ Lohr</span>](https://www.nytimes3xbfgragh.onion/by/steve-lohr)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -309,10 +309,8 @@ according to the person with knowledge of the matter, who spoke on the
 condition of anonymity because the discussions are confidential.
 
 Microsoft and other companies have been in talks to buy TikTok, but a
-deal has not yet been reached, the person added. The proposed divestment
-would not necessarily affect the company’s operations outside the United
-States. TikTok has offices and users around the globe. It has said it
-has 100 million users in the United States.
+deal has not yet been reached, the person added. Many of the parties are
+waiting for Mr. Trump to take action, one of the people said.
 
 </div>
 
@@ -321,6 +319,11 @@ has 100 million users in the United States.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The proposed divestment would not necessarily affect the company’s
+operations outside the United States. TikTok has offices and users
+around the globe. It has said it has 100 million users in the United
+States.
 
 “While we do not comment on rumors or speculation, we are confident in
 the long-term success of TikTok,” a company representative said on
@@ -350,10 +353,6 @@ global following. And in the process, ByteDance, which was founded in
 recently valued at around $100 billion, according to the research firm
 PitchBook.
 
-But TikTok’s rise to prominence has coincided with a deepening rift
-between the United States and China over technology, trade, human rights
-and much else.
-
 </div>
 
 </div>
@@ -361,6 +360,10 @@ and much else.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+But TikTok’s rise to prominence has coincided with a deepening rift
+between the United States and China over technology, trade, human rights
+and much else.
 
 In a [video
 message](https://twitter.com/tiktok_us/status/1289565422350553091)

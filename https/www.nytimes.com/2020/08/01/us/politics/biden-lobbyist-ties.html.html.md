@@ -118,6 +118,7 @@ Ties</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -330,8 +331,14 @@ Thrush</span>](https://www.nytimes.com/by/glenn-thrush)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">12:54 p.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 1,
+    2020
+    
+    </div>
 
   - 
     
@@ -348,6 +355,7 @@ Thrush</span>](https://www.nytimes.com/by/glenn-thrush)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -538,7 +546,7 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc
 
 Mr. Ricchetti spent years as a registered lobbyist, and through a
 company called [Ricchetti Consulting
-Group](https://www.documentcloud.org/documents/7010940-Biden-s-Campaign-Chairman-Formed-a-Consulting.html),
+Group](https://www.documentcloud.org/documents/7010940-Biden-s-Campaign-Chairman-Formed-a-Consulting.html)
 is being paid by both [the Biden
 campaign](https://docquery.fec.gov/cgi-bin/fecimg/?202007209260662530)
 and AT\&T, his only corporate client over the last nine years. Anita
@@ -577,7 +585,7 @@ in which major corporate and foreign players hire former officials as
 consultants, or as legal counsel, allowing them to use their connections
 and expertise, while avoiding the notoriety and disclosure requirements
 that come with formal lobbying. This phenomenon was exacerbated by Mr.
-Obama’s lobbying policy
+Obama’s lobbying policy.
 
 Mr. Biden’s more liberal challengers for the Democratic presidential
 nomination, Senators Bernie Sanders of Vermont and Elizabeth Warren of
@@ -676,7 +684,7 @@ secured for the company’s New York operations as a senator, a claim Mr.
 Ricchetti has denied.
 
 But Mr. Ricchetti, whose discursive and regular-guy style mirrors Mr.
-Biden’s, remained persona non grata in the Obama White House even after
+Biden’s, was viewed with skepticism in the Obama White House even after
 he had satisfied the two-year lobbying cooling-off period required by
 Mr. Obama’s policy. When Mr. Biden settled on Mr. Ricchetti to help run
 his office in late 2011, the White House aides Jim Messina and David
@@ -712,11 +720,12 @@ and possibly a future administration.
 Jake Sullivan, who has been helping to develop the Biden campaign’s
 policy positions and moderating
 virtual[](https://secure.joebiden.com/onlineactions/uss1zC2ZQEyvAQGK-wIhVw2?attr=100631128&fbclid=IwAR0g9AVpZyY6_2T5hARYM4AKJ9crM1ftzQ7e_ebEB1KxpYvAOG6-d6Huwcc)fund-raising[events](https://secure.joebiden.com/onlineactions/rQ8rSBiMhU-jvj_wE2bO0A2?attr=100631128&fbclid=IwAR2BvgVknJAr9orxEvwJ24qLH_pl1oqZ4itbFMSZj2hSuDZNxO-zJ2Ce-MM),
-resigned this year from a[job at the consulting firm Macro Advisory
+resigned this year from a[part-time job at the consulting firm Macro
+Advisory
 Partners](https://prospect.org/world/biden-adviser-jake-sullivan-gig-with-uber/).
-At the firm, he had worked with the ride-hailing company Uber to try to
-pre-empt an effort in California to classify the company’s drivers as
-full-time employees.
+At the firm, he had negotiated with labor leaders on behalf of the
+ride-hailing company Uber to try to exempt its drivers from being
+classified as full-time employees in California.
 
 On Saturday, Antony J. Blinken, a deputy secretary of state in the Obama
 administration who is running Mr. Biden’s foreign policy operation,

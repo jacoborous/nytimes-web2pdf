@@ -392,7 +392,27 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    vía Getty Images
+    Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Linsey C. Marr</span>
+    
+    ## [Sí, el coronavirus está en el aire](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
+    
+    La transmisión por aerosoles es importante, y quizá sea mucho más
+    relevante de lo que hemos podido comprobar hasta
+    ahora.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Linsey C.
+    Marr</span></span>
+    
+    </div>
+
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
     Chs/EPA vía
     Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
     
@@ -413,7 +433,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
     de Argentina/EPA vía
     Shutterstock</span>](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
     
@@ -436,47 +456,23 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
-    Cotti</span>](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Roberto Herrscher</span>
-    
-    ## [Las enseñanzas de educar durante la pandemia](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
-    
-    He sido profesor universitario durante más de dos décadas, y estos
-    meses de enseñar durante la pandemia me han hecho entender que la
-    educación ha cambiado para
-    siempre.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Roberto
-    Herrscher</span></span>
-    
-    </div>
-
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
-        Loureiro Fernandez para The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26Barrera-ES/merlin_170314122_3f1b8858-af1c-45e6-bbd1-e9a4e30fba75-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
+        Cotti</span>](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Alberto Barrera Tyszka</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Roberto Herrscher</span>
         
-        ## [Teoría y práctica del odio](/es/2020/07/26/espanol/opinion/nicmer-evans-venezuela.html)
+        ## [Las enseñanzas de educar durante la pandemia](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
         
-        Hace tres años, el gobierno de Nicolás Maduro instauró una ley
-        contra el odio, un instrumento legal para promover la tolerancia
-        en Venezuela. Pero en la práctica se convirtió en lo contrario:
-        una forma eficaz para ejercer la violencia del Estado en contra
-        de cualquier
-        disidencia.
+        He sido profesor universitario durante más de dos décadas, y
+        estos meses de enseñar durante la pandemia me han hecho entender
+        que la educación ha cambiado para
+        siempre.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Alberto
-        Barrera
-        Tyszka</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Roberto
+        Herrscher</span></span>
         
         </div>
     

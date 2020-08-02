@@ -98,11 +98,32 @@ story](#after-top)
 
 ## Highlights
 
-1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
-    Saman/Magnum, for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-jumbo.jpg)
+1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
+    Price for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-jumbo-v2.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Feature
+    
+    ## [Pollution Is Killing Black Americans. This Community Fought Back.](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
+    
+    African-Americans are 75 percent more likely than others to live
+    near facilities that produce hazardous waste. Can a grass-roots
+    environmental-justice movement make a
+    difference?
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Linda
+    Villarosa</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
+    Saman/Magnum, for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Feature
     
@@ -119,7 +140,7 @@ story](#after-top)
     
     </div>
 
-2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Daniel
     Barreto</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-videoLarge.jpg)
     
@@ -139,44 +160,23 @@ story](#after-top)
     
     </div>
 
-3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Ori
-    Toor</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-videoLarge.jpg)
+4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Tomi
+    Um</span>](https://static01.nyt.com/images/2020/08/02/magazine/02Ethicist/02Ethicist-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Studies Show
+    ### The Ethicist
     
-    ## [Why Is There No Consensus About Reopening Schools?](/2020/07/29/magazine/schools-reopening-covid.html)
+    ## [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
     
-    Here’s what we know: With too many variables and too few studies,
-    schools lack the tools and data they need to balance education and
-    health.
-    
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kim
-    Tingley</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
-    Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
-    stylist: Rebecca
-    Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-eat/02mag-eat-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Eat
-    
-    ## [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
-    
-    These crispy-silky croquettes rise to the restaurant level of
-    cooking we’ve been
-    missing.
+    The magazine’s Ethicist columnist on balancing workplace safety
+    against personal privacy, and
+    more.
     
     <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
-    Hamilton</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
+    Appiah</span></span>
     
     </div>
 
@@ -186,47 +186,28 @@ story](#after-top)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Screenland
+1.  ### Eat
     
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    illustration by Chris
-    Burnett</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘I May Destroy You’ Is Perfect TV for an Anxious World](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
-    
-    The HBO drama about trauma is possibly the most emblematic show of
-    2020.
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carina
-    Chocano</span></span>
-    
-    </div>
-
-2.  ### Feature
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
-    Price for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-videoLarge.jpg)
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
+    Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
+    stylist: Rebecca
+    Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-eat/02mag-eat-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Pollution Is Killing Black Americans. This Community Fought Back.](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
+    ## [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
     
-    African-Americans are 75 percent more likely than others to live
-    near facilities that produce hazardous waste. Can a grass-roots
-    environmental-justice movement make a
-    difference?
+    These crispy-silky croquettes rise to the restaurant level of
+    cooking we’ve been
+    missing.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Linda
-    Villarosa</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
+    Hamilton</span></span>
     
     </div>
 
-3.  ### Talk
+2.  ### Talk
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
     Doumbouya for The New York
@@ -245,42 +226,60 @@ story](#after-top)
     
     </div>
 
-4.  ### The Ethicist
+3.  ### Diagnosis
     
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Tomi
-    Um</span>](https://static01.nyt.com/images/2020/08/02/magazine/02Ethicist/02Ethicist-videoLarge.jpg)
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    illustration by Ina
+    Jang</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
+    ## [His Face, Hands and Feet Swelled Up. What Was Going On?](/2020/07/30/magazine/urticaria-multiforme.html)
     
-    The magazine’s Ethicist columnist on balancing workplace safety
-    against personal privacy, and
-    more.
+    The young boy’s grandmother saw strange red lines snaking around his
+    body. Could this be an allergic reaction? A rare autoimmune
+    disease?
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
-    Appiah</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa Sanders,
+    M.D.</span></span>
     
     </div>
 
-5.  ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meridith
-    Kohut for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/26/magazine/26mag-Migration-Images/26mag-Migratiion-Images-videoLarge.jpg)
+4.  ### Letter of Recommendation
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Great Climate Migration Has Begun](/interactive/2020/07/23/magazine/climate-migration.html)
+    ## [The Strange Lure of Other People’s Photos](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
     
-    New research suggests climate change will cause humans to move in
-    unprecedented numbers. The Times Magazine partnered with ProPublica
-    and data scientists to understand
-    how.
+    When I consider all that these people lived through — world wars,
+    the Depression, epidemics with no medicine — I’m given a far longer
+    view.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Abrahm
-    Lustgarten</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Bill
+    Shapiro</span></span>
+    
+    </div>
+
+5.  ### Screenland
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    illustration by Chris
+    Burnett</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘I May Destroy You’ Is Perfect TV for an Anxious World](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
+    
+    The HBO drama about trauma is possibly the most emblematic show of
+    2020.
+    
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Carina
+    Chocano</span></span>
     
     </div>
 
@@ -340,6 +339,188 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/magazine/behind-the-cover-environmental-justice.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/magazine/31mag-btc-promo/31mag-btc-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Issue 8.2.20</span>
+    
+    ## Behind the Cover: Environmental Justice
+    
+    A look at how Black communities shoulder a disproportionate burden
+    of the nation’s pollution and how a neighborhood in Philadelphia
+    fought
+    back.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/black-soldiers-wwii-racism.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/multimedia/30ww2-black-soldiers-returning/30ww2-black-soldiers-returning-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Beyond The World War II We Know</span>
+    
+    ## Returning From War, Returning to Racism
+    
+    After fighting overseas, Black soldiers faced violence and
+    segregation at home. Many, like Lewis W. Matthews, were forced to
+    take menial jobs. Although he managed to push through racism, that
+    wasn’t an option for many.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexis
+    Clark</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/poem-beatific.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-poem-1/02mag-poem-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Poem: Beatific
+    
+    Respect for the other whom you do not know, but with a slightest
+    stretch of mind, imagine you do. A poem that shrinks the distance
+    between us.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tracy K. Smith <span>and</span> Naomi
+    Shihab
+    Nye</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/judge-john-hodgman-on-having-tsa-precheck-when-your-fiancee-doesnt.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Bonus Advice From Judge John Hodgman</span>
+    
+    ## Judge John Hodgman on Having TSA PreCheck When Your Fiancée Doesn’t
+    
+    Should you get extra time at the food court or go through the line
+    for regular people?
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Hodgman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/magazine/schools-reopening-covid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Studies Show</span>
+    
+    ## Why Is There No Consensus About Reopening Schools?
+    
+    Here’s what we know: With too many variables and too few studies,
+    schools lack the tools and data they need to balance education and
+    health.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kim
+    Tingley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/magazine/how-to-stop-biting-your-nails.html)
     
     <div class="css-79elbk">
@@ -370,7 +551,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -404,7 +585,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -441,7 +622,42 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/23/magazine/climate-migration.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-Migration-Images/26mag-Migratiion-Images-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Great Climate Migration Has Begun
+    
+    New research suggests climate change will cause humans to move in
+    unprecedented numbers. The Times Magazine partnered with ProPublica
+    and data scientists to understand how.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Abrahm
+    Lustgarten</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -463,217 +679,7 @@ story](#after-mid1)
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Noah Gallagher
-    Shannon</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/22/magazine/zambia-kariba-dam.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-zambia/26mag-zambia-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Learning From the Kariba Dam
-    
-    Climate change and neglect have brought the mammoth structure at the
-    border of Zambia and Zimbabwe to the brink of calamity — a crisis
-    prefigured in the dam’s troubling colonial history.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Namwali
-    Serpell</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/21/magazine/louisiana-coast-engineering.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-plaquemines/26mag-plaquemines-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Destroying a Way of Life to Save Louisiana
-    
-    The state’s $50 billion plan to re-engineer its coastline may wash
-    some fishing communities off the map.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nathaniel
-    Rich</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/21/magazine/teenage-activist-climate-change.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-margolin/26mag-margolin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Teenagers at the End of the World
-    
-    Young climate activists like Jamie Margolin are building a movement
-    while growing up — planning mass protests from childhood bedrooms
-    and during school.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Brooke
-    Jarvis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/magazine/behind-the-cover-why-covid-19-is-winning.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/17/magazine/17mag-btc-promo/17mag-btc-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Issue 7.19.20</span>
-    
-    ## Behind the Cover: Why Covid-19 Is Winning
-    
-    A look at the crisis in Texas — and the story it tells about public
-    health in
-    America.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/magazine/colin-powell-iraq-war.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/magazine/19mag-iraq-3/19mag-iraq-3-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Feature</span>
-    
-    ## Colin Powell Still Wants Answers
-    
-    In 2003, he made the case for invading Iraq to halt its weapons
-    programs. The analysts who provided the intelligence now say it was
-    doubted inside the C.I.A. at the time.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Robert
-    Draper</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/magazine/poem-the-bodys-uncontested-need-to-devour-an-explanation.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/magazine/19mag-poem-1/19mag-poem-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Poem: The Body’s Uncontested Need to Devour: An Explanation
-    
-    We stayed inside so long. The moss is calling us. A poem's lush
-    language invites us to feel close to something elemental again.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Major Jackson <span>and</span> Naomi
-    Shihab Nye</span>
+    By <span class="css-1n7hynb">Noah Gallagher Shannon</span>
     
     </div>
     
@@ -749,33 +755,31 @@ story](#after-mid2)
 
 <div class="issue-promo">
 
-[](https://www.nytimes.com/issue/magazine/2020/07/24/the-72620-issue)
+[](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
 
 <div class="promo-image">
 
 ![Current
-cover](https://static01.nyt.com/images/2020/07/26/magazine/26mag-cover-type/26mag-cover-type-blog480.jpg)
+cover](https://static01.nyt.com/images/2020/08/02/magazine/02mag-cover-type/02mag-cover-type-blog480.jpg)
 
 </div>
 
 <div class="promo-text">
 
-[](https://www.nytimes.com/issue/magazine/2020/07/24/the-72620-issue)
+[](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
 
-## The 7.26.20 Issue
+## The 8.2.20 Issue
 
-In this issue, Abrahm Lustgarten on modeling how billions of people may
-migrate because of climate change; Namwalii Serpell on how a massive dam
-at the border of Zambia and Zimbabwe is failing; Brooke Jarvis on young
-climate activists organizing international protests from childhood
-bedrooms and during school; Nathaniel Rich on Louisiana's $50 billion
-plan to re-engineer its coast line; and Noah Gallagher Shannon on the
-monster storms of northern Argentina.
+In this issue, Linda Villarosa on how Black Americans shoulder a
+disproprtionate burden of the nation's pollution and how a community in
+Philadelphia fought back; Helen Macdonald on what swifts, birds that
+never come down, can teach us about the future; Robert F. Worth on how
+Iraq became a kleptocracy; and more.
 
 [<span class="secondary-headline">Read this
-issue</span>](https://www.nytimes.com/issue/magazine/2020/07/24/the-72620-issue)
+issue</span>](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
 [<span class="secondary-headline">Read our previous
-issue</span>](https://www.nytimes.com/issue/magazine/2020/07/17/the-71920-issue)
+issue</span>](https://www.nytimes.com/issue/magazine/2020/07/24/the-72620-issue)
 [<span class="secondary-headline">See all past
 issues</span>](https://www.nytimes.com/interactive/2020/07/02/magazine/past-issues-sunday-magazine.html)
 

@@ -267,7 +267,7 @@ story](#after-mid1)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     SRI
-    International</span>](https://static01.nyt.com/images/2020/07/30/obituaries/Obit-English1/Obit-English1-videoLarge.jpg)
+    International</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -381,6 +381,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s Going On With TikTok? Here’s What We Know
+    
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all here.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David
+    McCabe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/technology/gedmatch-breach-privacy.html)
     
     <div class="css-79elbk">
@@ -409,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -444,7 +478,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -479,7 +513,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -514,7 +548,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -550,7 +584,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -586,7 +620,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -623,7 +657,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -657,7 +691,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -681,42 +715,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Cecilia Kang <span>and</span> David
     McCabe</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## Titans of Tech Testify in Their Trust-Me Suits
-    
-    It’s a tongue twister, but also a strategy. Jeff Bezos, Mark
-    Zuckerberg, Tim Cook and Sundar Pichai appeared before Congress and
-    dressed the part.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Vanessa Friedman</span>
     
     </div>
     

@@ -167,7 +167,34 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    Illustration by Tony Cenicola/The New York Times. Trump: Doug
+    Mills/The New York
+    Times.</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbStandard.jpg)](/2020/08/01/us/politics/trump-books.html)
+    
+    </div>
+    
+    ### News Analysis
+    
+    ## [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](/2020/08/01/us/politics/trump-books.html)
+    
+    A large club of Trump administration evictees have turned their
+    bracingly bad experiences into a new genre: political revenge
+    literature.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Lyall</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
     Schukar for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
     
@@ -192,85 +219,56 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
-    Ratje/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/31/multimedia/31dc-postal/merlin_172107963_a2c16fe7-bd41-4b56-8445-524d4cce31e7-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.nyt.com/images/2020/07/31/multimedia/31dc-postal/31dc-postal-thumbStandard.jpg)](/2020/07/31/us/politics/trump-usps-mail-delays.html)
-    
-    </div>
-    
-    ## [Mail Delays Fuel Concern Trump Is Undercutting Postal System Ahead of Voting](/2020/07/31/us/politics/trump-usps-mail-delays.html)
-    
-    The president’s long campaign against the Postal Service is
-    intersecting with his assault on mail-in voting amid concerns that
-    he has politicized oversight of the
-    agency.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael D. Shear</span>,
-    <span class="css-1baulvz" itemprop="name">Hailey Fuchs</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
-    Vogel</span></span>
-    
-    </div>
-
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Terry
-    Ratzlaff for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
+    Bell for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    ## [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbLarge.jpg)](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbLarge.jpg)](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
     
     </div>
     
-    House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus and
-    calls for racial
-    justice.
+    Brian Murphy’s office compiled reports of protesters and journalists
+    who were covering the Trump administration’s response to unrest in
+    Portland, Ore., last
+    month.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Catie
-    Edmondson</span></span>
+    <span class="css-1baulvz" itemprop="name">Zolan Kanno-Youngs</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Goldman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by Tony Cenicola/The New York Times. Trump: Doug
-    Mills/The New York
-    Times.</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### News Analysis
-    
-    ## [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](/2020/08/01/us/politics/trump-books.html)
+    ## [Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbLarge.jpg)](/2020/08/01/us/politics/trump-books.html)
+    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbLarge.jpg)](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
     
     </div>
     
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
+    than 21 years of service took effect on Saturday, the same day his
+    sharply critical op-ed of the president was
+    published.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Lyall</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Eric
+    Schmitt</span></span>
     
     </div>
 
@@ -330,6 +328,111 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
+    
+    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
+    than 21 years of service took effect on Saturday, the same day his
+    sharply critical op-ed of the president was published.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Eric
+    Schmitt</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists
+    
+    Brian Murphy’s office compiled reports of protesters and journalists
+    who were covering the Trump administration’s response to unrest in
+    Portland, Ore., last month.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Adam
+    Goldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s Going On With TikTok? Here’s What We Know
+    
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all here.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David
+    McCabe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
     
     <div class="css-79elbk">
@@ -359,7 +462,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -396,7 +499,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -430,7 +533,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -447,8 +550,7 @@ story](#after-mid1)
     ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
     
     House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus and
-    calls for racial justice.
+    voters reject President Trump’s handling of the coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -465,7 +567,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -500,7 +602,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -535,7 +637,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -561,113 +663,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
     Herndon</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/business/trump-financial-disclosure.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Better Year for Trump’s Family Business (Last Year, That Is)
-    
-    In 2019, the Trump Organization showed improvement over the previous
-    year. But the company’s minimum reported revenues still fell short
-    of the president’s first year in office, his new financial
-    disclosure shows.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben Protess, Steve Eder
-    <span>and</span> Michael H.
-    Keller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/politics/white-house-congress-relief-plan-jobless-aid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-virus-cong/merlin_175160493_fd20e84b-c6d8-43b4-8450-d1067875391b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## White House and Congress Clash on Relief Plan as Jobless Aid Expires
-    
-    President Trump and Democrats blamed each other for the lapse of
-    $600-per-week federal unemployment benefits, risking further
-    economic pain and a voter backlash for failing to act.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/politics/trump-coronavirus-testing.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-virus-hearing/merlin_175159080_b6d984cc-ecd9-412a-9c63-9fe3fb62b4cf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump’s Coronavirus Testing Chief Concedes a Lag in Test Results
-    
-    With the reopening plans of schools and businesses hinging on rapid
-    test results, the Trump administration’s testing czar says a two- to
-    three-day turnaround “is not possible.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sheryl Gay Stolberg <span>and</span>
-    Katherine J. Wu</span>
     
     </div>
     
