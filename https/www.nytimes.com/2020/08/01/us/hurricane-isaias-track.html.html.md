@@ -224,12 +224,12 @@ story](#after-sponsor)
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 2, 2020, 2:14 a.m.
+<span class="css-1656jku">Aug. 2, 2020, 4:03 a.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 2, 2020, 2:14
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 2, 2020, 4:03
 a.m.
 ET</span>
 

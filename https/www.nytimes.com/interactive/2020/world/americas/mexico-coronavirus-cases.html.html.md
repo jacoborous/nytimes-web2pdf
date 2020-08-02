@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 1, 2020, 8:06 P.M. E.T.
+Times</span>Updated August 2, 2020, 12:18 A.M. E.T.
 
 </div>
 
@@ -311,7 +311,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 40.88436982738236%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -324,44 +324,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2903225806451613%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2820512820512822%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.29032258064516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.153846153846157%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.38461538461539%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.25641025641026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 80%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.48717948717949%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.03225806451613%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 99.35897435897436%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 99.03846153846155%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 87.74617437421882%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -394,7 +400,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-424,637
+434,193
 
 </div>
 
@@ -410,7 +416,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-46,688
+47,472
 
 </div>
 
@@ -451,10 +457,10 @@ news
 
 </div>
 
-There have been at least 424,600 cases of the coronavirus in Mexico,
+There have been at least 434,100 cases of the coronavirus in Mexico,
 according to the [National Agency of Science and
-Technology](https://coronavirus.gob.mx/datos/). As of Saturday evening,
-46,688 people had
+Technology](https://coronavirus.gob.mx/datos/). As of Sunday morning,
+47,472 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -842,44 +848,11 @@ gathered.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 76.35374793095295%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">2,000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 52.70749586190589%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">4,000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 29.061243792858832%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">6,000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 5.414991723811781%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">8,000
+<span class="count-label svelte-bw547y">5,000
 cases</span>
 
 </div>
@@ -888,44 +861,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2903225806451613%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2820512820512822%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.29032258064516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.153846153846157%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.38461538461539%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.25641025641026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 80%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.48717948717949%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.03225806451613%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 99.35897435897436%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 99.03846153846155%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 87.74617437421882%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -999,44 +978,50 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2903225806451613%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2820512820512822%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.29032258064516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.153846153846157%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.38461538461539%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.64516129032258%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.25641025641026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 80%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.48717948717949%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 61.61290322580645%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 99.35897435897436%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 61.21794871794872%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 24.516129032258064%; top: 98.62511457378552%">
+<div class="pancake-point svelte-11ba04d" style="left: 24.35897435897436%; top: 98.62511457378552%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

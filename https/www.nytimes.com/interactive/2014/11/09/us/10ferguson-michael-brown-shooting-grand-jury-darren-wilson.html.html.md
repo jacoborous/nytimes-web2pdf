@@ -1,0 +1,494 @@
+<div id="suggestions" class="suggestions messenger nocontent robots-nocontent" style="display:none;">
+
+<div class="message-bed">
+
+<div class="message-container last-message-container">
+
+<div class="message">
+
+<span class="message-content"> **<span class="message-title">NYTimes.com
+no longer supports Internet Explorer 9 or earlier. Please upgrade your
+browser.</span> [LEARN MORE
+»](http://www.nytimes.com/content/help/site/ie9-support.html)
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="shell" class="shell">
+
+<div class="container">
+
+<div class="quick-navigation button-group">
+
+**<span class="button-text">Sections</span>
+
+**<span class="button-text">Home</span>
+
+**<span class="button-text">Search</span>
+
+</div>
+
+<div class="branding">
+
+## [<span class="visually-hidden">The New York Times</span>](http://www.nytimes.com/)
+
+</div>
+
+<div class="story-meta">
+
+###### <span class="kicker-label"> [U.S.](https://www.nytimes.com/section/us) </span> <span class="pipe">|</span>Tracking the Events in the Wake of Michael Brown’s Shooting
+
+</div>
+
+<div class="user-tools">
+
+<div id="sharetools-masthead" class="sharetools theme-classic sharetools-masthead" data-aria-label="tools" data-role="group" data-shares="facebook,twitter,email,show-all,save" data-url="https://www.nytimes.com/interactive/2014/11/09/us/10ferguson-michael-brown-shooting-grand-jury-darren-wilson.html" data-title="Tracking the Events in the Wake of Michael Brown’s Shooting" data-author="" data-media="https://static01.nyt.com/images/icons/t_logo_291_black.png" data-description="Updates on the events in Ferguson, Mo., following the shooting of Michael Brown, an unarmed teenager, by a police officer on Aug. 9." data-publish-date="November 10, 2014">
+
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+
+</div>
+
+</div>
+
+<div class="user-tools-button-group button-group">
+
+Log In
+
+**<span class="button-text">0</span>
+
+**<span class="button-text">Settings</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="search-flyout-panel flyout-panel">
+
+**<span class="visually-hidden">Close search</span>
+
+## Site Search Navigation
+
+<div class="control">
+
+<div class="label-container visually-hidden">
+
+Search NYTimes.com
+
+</div>
+
+<div class="field-container">
+
+**<span id="clear-search-input" class="visually-hidden">Clear this text
+input</span>
+
+<div class="auto-suggest" style="display: none;">
+
+</div>
+
+Go
+
+</div>
+
+</div>
+
+</div>
+
+<div id="notification-modals" class="notification-modals">
+
+</div>
+
+<span class="story-short-url"><https://nyti.ms/1Emw1Um></span>
+
+<div class="nocontent robots-nocontent">
+
+1.  
+    
+    <div class="loader loader-t-logo-32x32-ecedeb-ffffff">
+    
+    <span class="visually-hidden">Loading...</span>
+    
+    </div>
+
+<div class="ribbon-navigation-container">
+
+<span class="visually-hidden">See next articles</span>
+
+<div class="arrow arrow-right">
+
+<div class="arrow-conceal">
+
+</div>
+
+</div>
+
+<span class="visually-hidden">See previous
+articles</span>
+
+<div class="arrow arrow-left">
+
+<div class="arrow-conceal">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Navigation
+
+## Site Mobile Navigation
+
+<div id="navigation-edge" class="navigation-edge">
+
+</div>
+
+<div id="page" class="page">
+
+<div id="TopAd" class="ad top-ad nocontent robots-nocontent">
+
+<div class="accessibility-ad-header">
+
+Advertisement
+
+</div>
+
+</div>
+
+<div id="main" class="main" data-role="main">
+
+<div class="story-meta">
+
+<div class="kicker-container">
+
+## <span class="kicker-label"> [U.S.](https://www.nytimes.com/section/us) </span>
+
+<div id="sharetools-interactive" class="sharetools theme-classic sharetools-interactive" data-aria-label="tools" data-role="group" data-shares="show-all|Share" data-url="https://www.nytimes.com/interactive/2014/11/09/us/10ferguson-michael-brown-shooting-grand-jury-darren-wilson.html" data-title="Tracking the Events in the Wake of Michael Brown’s Shooting" data-author="" data-media="https://static01.nyt.com/images/icons/t_logo_291_black.png" data-description="Updates on the events in Ferguson, Mo., following the shooting of Michael Brown, an unarmed teenager, by a police officer on Aug. 9." data-publish-date="November 10, 2014">
+
+<div class="ad sharetools-inline-article-ad hidden nocontent robots-nocontent">
+
+</div>
+
+</div>
+
+</div>
+
+# Tracking the Events in the Wake of Michael Brown’s Shooting
+
+<div class="story-meta-footer interactive-meta-footer">
+
+<div class="interactive-byline">
+
+<span class="timestamp">UPDATED </span>Nov. 24, 2014
+
+</div>
+
+<span class="summary-text">Updates on the events in Ferguson, Mo.,
+following the shooting of Michael Brown, an unarmed teenager, by a
+police officer on Aug.
+9.</span>
+
+</div>
+
+</div>
+
+<div id="10ferguson-michael-brown-shooting-grand-jury-darren-wilson" class="interactive-graphic">
+
+<div id="nytmm">
+
+</div>
+
+<div id="timeline_plain_text" style="color:white">
+
+Michael Brown Is Shot Michael Brown, 18, is shot and killed by a police
+officer in Ferguson, Mo. According to reports, Mr. Brown was walking
+down the middle of Canfield Drive with a friend, Dorian Johnson, when
+the officer stopped his Chevy Tahoe to order them to the sidewalk.
+Within seconds, the encounter turned into a physical struggle, as the
+officer and Mr. Brown became entangled through the open driver-side
+window of the police vehicle. How that encounter began is in dispute,
+though most accounts agree that shots were fired while the officer was
+in the vehicle. At some point, Mr. Brown broke away. The officer then
+got out of the vehicle and fired at Mr. Brown, whose actions at the
+point are also in dispute. Some witnesses later said that Mr. Brown
+appeared to be surrendering with his hands in the air as he was hit with
+the fatal gunshots. Others say that Mr. Brown was moving toward the
+officer when he was killed. What is not in dispute is that Mr. Brown was
+unarmed. His body would lie in the street for four hours. Angry
+Residents Take to the Streets Residents outraged by the shooting take to
+the streets, and a portion of West Florissant Avenue becomes a staging
+area for protests. “Hands up, don’t shoot” and “No justice, no peace”
+become rallying cries. As early protests turn increasingly violent, the
+police respond with heavy-handed tactics – including military-style
+weapons and equipment -- that seem only to ratchet up the unrest.
+Eventually, both sides would make efforts to reduce the tension of the
+protests, which continued daily. F.B.I. Opens Civil Rights Investigation
+The Federal Bureau of Investigation opens a civil rights inquiry into
+the shooting of Mr. Brown. A State Trooper Steps In Hours after
+President Obama denounces the actions of both police and protesters in
+Ferguson, Gov. Jay Nixon orders the Missouri State Highway Patrol to
+take over security operations. Alarm has been rising across the country
+at images of a mostly white police force, in a predominantly
+African-American community, aiming military-style weapons at protesters
+and firing tear gas and rubber bullets. Appointed by Mr. Nixon, Capt.
+Ronald S. Johnson of the highway patrol immediately signals a change in
+approach. Troopers are ordered to remove tear-gas masks while armored
+vehicles and police cars are taken away. The tactics work for a short
+time before unrest returns. A curfew is later imposed. At times,
+Governor Nixon is jeered or shouted down as he tries to reassure
+residents and urge an end to the violence. Officer Involved in Shooting
+Is Identified Almost a week after the shooting of Mr. Brown, the officer
+who shot him is identified as Darren Wilson, who has five years of
+police experience. The release of the name is followed by series of
+incomplete accounts by Thomas Jackson, the Ferguson police chief. These
+accounts sowed confusion about whether Officer Wilson knew that the
+teenager was a suspect in a robbery at a local convenience store that
+took place moments before the shooting. Brown's Family Releases Autopsy
+Details A preliminary private autopsy [shows that Mr. Brown was shot at
+least six
+times,](http://stlouis.cbslocal.com/2014/08/17/report-michael-brown-autopsy-shows-teen-was-struck-at-least-6-times/)
+including twice in the head. Dr. Michael M. Baden, a former chief New
+York City medical examiner who conducted the autopsy for the family,
+says one bullet entered the top of Mr. Brown’s skull, suggesting that
+his head was bent forward when it struck him and caused a fatal injury.
+Dr. Baden says Mr. Brown was also shot four times in the right arm, and
+that all the bullets were fired into his front. This is the first time
+that some of the critical information resulting in Mr. Brown’s death has
+been made public, but the release of the preliminary autopsy results
+does little to explain the circumstances surrounding the shooting.
+National Guard Is Ordered to Ferguson After a curfew fails to quiet the
+streets, Governor Nixon brings in the National Guard, though in the
+limited role of protecting the police command post. Hours later, he
+lifts the curfew. The National Guard is ordered to withdraw in four
+days. Accounts of Shooting Differ As a county grand jury prepared to
+hear evidence, witnesses interviewed by investigators provide sharply
+conflicting accounts of the shooting. Some seem to agree on how the
+fatal altercation initially unfolded: with a struggle between Officer
+Wilson and Mr. Brown. Officer Wilson was inside his patrol car at the
+time, while Mr. Brown, who was unarmed, was leaning in through an open
+window. Many witnesses also agreed on what happened next: Officer
+Wilson’s firearm went off inside the car, Mr. Brown ran away, the
+officer got out of his car and began firing toward Mr. Brown, and then
+Mr. Brown stopped and turned to face the officer. But accounts of the
+crucial moments that followed differ sharply. Some witnesses say that
+Mr. Brown moved toward Officer Wilson, possibly in a threatening manner,
+when he was shot. Others say that Mr. Brown was not moving and that he
+might have even had his hands up. Protesters Descend on Ferguson Driven
+in part by posts on Twitter and other social media outlets, protesters
+from across the country descend on Ferguson, transforming a purely local
+protest into a center of national activism. The new protesters include
+rap and hip-hop stars as well as veterans of the Occupy Wall Street
+movement. While they are welcomed by some in Ferguson, others are deeply
+suspicious of their motives and question their behavior. Attorney
+General Arrives and Promises Full Inquiry Promising a full and fair
+investigation, Attorney General Eric H. Holder Jr. arrives in St. Louis
+to meet with community leaders and federal investigators. While in
+Missouri, he tries to reassure Ferguson residents about the
+investigation into Michael Brown’s death and says he understands why
+many black Americans do not trust the police. While he promises a full
+inquiry, Mr. Holder also tries to temper expectations that charges will
+be filed. Mourning and Calls for Action at Brown's Funeral Thousands pay
+their respects to Mr. Brown. Infused with Scripture and song, the
+funeral is a mix of intimate reflections and national policy plans.
+Relatives reminisce in choked voices about Mr. Brown’s wide smile as a
+picture from his high school graduation flashes on two wide screens, as
+leaders urge those gathered to memorialize his life by carrying forward
+a vocal, strong and unified effort to seek change across the country.
+Justice Department Opens Inquiry The Justice Department announces that
+it will open a broad civil rights investigation that will examine
+whether the Ferguson police have a history of discrimination or misuse
+of force beyond the Michael Brown case. The inquiry is in addition to
+the F.B.I. civil rights investigation that is looking specifically into
+the shooting of Mr. Brown. Ferguson Leaders Try to Reach Out Responding
+to complaints that the Ferguson police are out of touch with the
+African-American community, the City Council agrees to establish a
+citizen review board to provide guidance. In addition, the council
+announces sweeping changes to its court system, which had been
+criticized as unfairly targeting low-income blacks, who had become
+trapped in a cycle of unpaid tickets and arrest warrants. Young black
+men in Ferguson and surrounding cities routinely find themselves passed
+from jail to jail as they are picked up on warrants for unpaid fines,
+one of the many simmering issues in the city. Ferguson Police Chief
+Apologizes Thomas Jackson, the Ferguson police chief, issues a stark
+apology to the family of Michael Brown, saying in a [videotaped
+statement](http://vimeo.com/107139488) that he was sorry for the death
+of Mr. Brown and for the four hours that his body lay in the street
+after he was fatally shot. “I want to say this to the Brown family. No
+one who has not experienced the loss of a child can understand what
+you’re feeling,” he said, facing the camera and standing in front of
+an American flag. “I am truly sorry for the loss of your son. I’m also
+sorry that it took so long to remove Michael from the street. The time
+that it took involved very important work on the part of investigators
+who were trying to collect evidence and gain a true picture of what
+happened that day. But it was just too long, and I’m truly sorry for
+that.” A Shift in Police Oversight of Protests The St. Louis County
+Police Department takes control of security surrounding protests in
+Ferguson, Mo. Chief Thomas Jackson of the Ferguson Police Department
+asked the county to step in, citing a “lack of manpower and resources”
+at the disposal of the relatively small Ferguson police force, said
+Brian Schellman, a spokesman for the county police. The Ferguson police
+had been criticized for their heavy-handed tactics in dealing with
+protesters. Call for Review of Police Tactics and Training Speaking to
+mayors and police chiefs gathered in Little Rock, Ark., Attorney General
+Eric H. Holder Jr. says the Justice Department is working with major
+police associations to conduct a broad review of policing tactics,
+techniques and training. The review is intended to “help the field
+swiftly confront emerging threats, better address persistent challenges,
+and thoroughly examine the latest tools and technologies to enhance the
+safety and the effectiveness of law enforcement.” Criticism of the Use
+of Military-Style Equipment by Police Images of violent clashes between
+officers in full body armor, with military-style equipment, pointing
+guns at residents in Ferguson protesting the shooting of Michael Brown,
+leads to calls for the demilitarization of local police forces around
+the country. At a Senate hearing in Washington, the Department of
+Homeland Security tried to ease criticism of the program by reminding
+lawmakers that the use of the equipment had been instrumental in the
+capture of suspects after the 2013 Boston Marathon bombing. A 'Weekend
+of Resistance' Thousands of people take part in events around the St.
+Louis area to protest the killing of Mr. Brown and to raise awareness of
+police treatment of African-Americans. During one event, some younger
+protesters, part of a group that had appeared night after night for
+sometimes rowdy protests, called out to the older faces on the stage,
+criticizing older activists for not being radical enough. During one
+protest, Cornell William Brooks, the president of the N.A.A.C.P., and
+the professor and author Cornel West were among 43 people arrested
+outside the Ferguson Police Department. Policeman Offers His Account
+Police Officer Darren Wilson, who fatally shot Mr. Brown, tells
+investigators that he was pinned in his vehicle and in fear for his life
+as he struggled over his gun with Mr. Brown, said government officials
+briefed on the federal civil rights investigation. Officer Wilson, in
+the first public account of his testimony, says that Mr. Brown reached
+for the gun during a scuffle. The gun was fired twice in the car.
+Officer Wilson told the authorities that Mr. Brown had punched and
+scratched him repeatedly, leaving swelling on his face and cuts on his
+neck. The officer’s version contradicts some witness accounts, and does
+not explain why, after he emerged from his vehicle, he fired at Mr.
+Brown multiple times. Governor Activates National Guard Gov. Jay Nixon
+declares a state of emergency, allowing him to activate the Missouri
+National Guard in preparation for the grand jury's decision on whether
+to indict Officer Wilson. He also mobilized the National Guard in
+August. The declaration adds to the mounting tension over the
+announcement of the decision, which officials maintain is expected in
+mid- to late November. At this point, many in Ferguson say they expect
+the grand jury to decide against indicting the Ferguson officer, Darren
+Wilson, and they anticipate a show of anger and protest afterward. Some
+protesters say that calling up the Guard before a grand jury decision
+was an antagonistic move that presumed that demonstrations would be
+violent. “My hope and expectation is that peace will prevail,” Mr. Nixon
+said after announcing the decision. “But I have a responsibility to plan
+for any contingency that might arise.” No Charges Against Ferguson
+Officer in Michael Brown Shooting The grand jury decided to not indict
+Darren Wilson. Protesters have been mobilizing for weeks and the St.
+Louis area in general has been cloaked in anxiety for months as it has
+waited for a decision by the grand jury, which is made up of nine whites
+and three
+blacks.
+
+</div>
+
+</div>
+
+<div id="related-coverage" class="section related-coverage nocontent robots-nocontent">
+
+<div class="nocontent robots-nocontent">
+
+## More on NYTimes.com
+
+</div>
+
+</div>
+
+<div id="BottomAd" class="ad bottom-ad nocontent robots-nocontent">
+
+<div class="accessibility-ad-header">
+
+Advertisement
+
+</div>
+
+</div>
+
+</div>
+
+## Site Information Navigation
+
+  - [©
+    <span itemprop="copyrightYear">2020</span><span itemprop="copyrightHolder provider sourceOrganization" itemscope="" itemtype="http://schema.org/Organization" itemid="http://www.nytimes.com"><span itemprop="name">
+    The New York Times
+    Company</span></span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+  - [Home](https://www.nytimes.com)
+  - [Search](https://www.nytimes.com/search/)
+  - Accessibility concerns? Email us at <accessibility@nytimes.com>. We
+    would love to hear from you.
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [Your Ad
+    Choices](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy#pp)
+  - [Privacy](https://help.nytimes.com/hc/en-us/articles/115014892108-Privacy-policy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+
+## Site Information Navigation
+
+  - [Site Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Site
+    Feedback](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us?redir=myacc)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+<div id="Inv1" class="ad inv1-ad hidden">
+
+</div>
+
+<div id="Inv2" class="ad inv2-ad hidden">
+
+</div>
+
+<div id="Inv3" class="ad inv3-ad hidden">
+
+</div>
+
+<div id="ab1" class="ad ab1-ad hidden">
+
+</div>
+
+<div id="ab2" class="ad ab2-ad hidden">
+
+</div>
+
+<div id="ab3" class="ad ab3-ad hidden">
+
+</div>
+
+<div id="prop1" class="ad prop1-ad hidden">
+
+</div>
+
+<div id="prop2" class="ad prop2-ad hidden">
+
+</div>
+
+<div id="Anchor" class="ad anchor-ad hidden">
+
+</div>
+
+<div id="ADX_CLIENTSIDE" class="ad adx-clientside-ad hidden">
+
+</div>

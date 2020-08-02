@@ -546,21 +546,22 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
-    Heisler/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
+    Dhaliwal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is the Subway Risky? It May Be Safer Than You Think](/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
+    ## [Less Sex, More Viewers: Pandemic Boosts Mexico’s Flagging Telenovelas](/2020/08/02/world/americas/mexico-tv-virus-telenovela.html)
     
-    New studies in Europe and Asia suggest that riding public
-    transportation is not a major source of transmission for the
-    coronavirus.
+    Dismissed as too old-fashioned to compete with streaming services,
+    the melodramas have seen viewership surge as Mexicans seek the
+    familiar in times of
+    distress.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Christina
-    Goldbaum</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Natalie
+    Kitroeff</span></span>
     
     </div>
 

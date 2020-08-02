@@ -363,7 +363,7 @@ unions](https://www.nytimes.com/2020/07/29/us/teacher-union-school-reopening-cor
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T06:58:18.835Z
+Updated 2020-08-02T07:42:09.613Z
 
 </div>
 

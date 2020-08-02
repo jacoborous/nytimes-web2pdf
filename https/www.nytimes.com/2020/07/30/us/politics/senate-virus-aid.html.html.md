@@ -368,7 +368,7 @@ Friday.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T07:42:09.613Z
+Updated 2020-08-02T10:04:29.623Z
 
 </div>
 

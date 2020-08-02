@@ -345,7 +345,7 @@ kingdom.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T07:11:27.880Z
+Updated 2020-08-02T07:42:09.613Z
 
 </div>
 

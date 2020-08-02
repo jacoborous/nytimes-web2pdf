@@ -194,46 +194,19 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbStandard.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
-    
-    </div>
-    
-    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
-    
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential
-    ticket.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Flegenheimer</span></span>
-    
-    </div>
-
-<!-- end list -->
-
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
     Bell for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    <div class="css-1hyfx7x">
     
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbLarge.jpg)](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbStandard.jpg)](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
     
     </div>
+    
+    ## [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
     
     Brian Murphy’s office compiled reports of protesters and journalists
     who were covering the Trump administration’s response to unrest in
@@ -247,7 +220,9 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+<!-- end list -->
+
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
     Schaff/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-videoLarge.jpg)
     
@@ -269,6 +244,31 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Eric
     Schmitt</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+    Schukar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbLarge.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    
+    </div>
+    
+    Despite their disparate backgrounds, the Illinois Democrat has
+    carved out a public life most evocative of the man she could join on
+    the presidential
+    ticket.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Flegenheimer</span></span>
     
     </div>
 

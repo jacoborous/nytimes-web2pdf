@@ -412,7 +412,7 @@ forward.”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T01:29:11.393Z
+Updated 2020-08-02T10:04:29.623Z
 
 </div>
 
@@ -421,10 +421,11 @@ Updated 2020-08-02T01:29:11.393Z
   - [The U.S. reels as July cases more than double the total of any
     other
     month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
-  - [Top officials work to break impasse over jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
 
 <div class="briefing-block-footer">
 

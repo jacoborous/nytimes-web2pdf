@@ -1,0 +1,540 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes.com/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Congress
+Presses Military Leaders on Suspected Russian
+Bounties</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3egH5Lk</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Congress Presses Military Leaders on Suspected Russian Bounties
+
+</div>
+
+Two House hearings grappled with a C.I.A. assessment that Russia offered
+payments to kill American troops in Afghanistan — and White House
+inaction on the months-old judgment.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Gen. Mark
+A. Milley, the chairman of the Joint Chiefs of staff, and Defense
+Secretary Mark T. Esper, left, testified at a House Armed Services
+Committee hearing on
+Thursday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Pool
+photo by Greg
+Nash</span></span></span>](https://static01.nyt.com/images/2020/07/09/us/politics/09dc-intel/09dc-intel-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Charlie
+Savage</span>](https://www.nytimes.com/by/charlie-savage) and
+[<span class="css-1baulvz last-byline" itemprop="name">Eric
+Schmitt</span>](https://www.nytimes.com/by/eric-schmitt)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    July 9,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+WASHINGTON — The top American military officer delivered the Pentagon’s
+strongest public expression of concern to date on Thursday about the
+C.I.A.’s assessment that [Russia offered bounties to Afghan
+militants](https://www.nytimes.com/2020/07/29/us/politics/trump-putin-bounties.html)
+for killing American troops, even as former top intelligence and
+military leaders questioned the Trump administration’s inaction.
+
+The current and former officials testified at a pair of House hearings
+as lawmakers grappled with the continuing fallout from the disclosure of
+the intelligence assessment. Gen. Mark A. Milley, the chairman of the
+Joint Chiefs of Staff, and Defense Secretary Mark T. Esper testified in
+front of the Armed Services Committee, and former national security
+officials before the Foreign Affairs Committee.
+
+“If in fact there’s bounties, I am an outraged general,” said General
+Milley, who served three tours in Afghanistan. “If, in fact, there’s
+bounties directed by the government of Russia or any of their
+institutions to kill American soldiers, that’s a big deal. That’s a real
+big deal.”
+
+He also said that while the government so far lacks proof that any
+Russian bounties caused specific military casualties, “we are still
+looking.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“We’re not done,” he continued. “We’re going to run this thing to
+ground.”
+
+General Milley’s comments stood in contrast to efforts by the Trump
+administration to dismiss the C.I.A.’s judgment and to justify the White
+House’s failure to authorize any response to Moscow by downplaying the
+assessment as uncorroborated. After The New York Times first reported on
+the suspected bounties on June 26, [President Trump deemed the matter a
+“hoax.”](https://twitter.com/realDonaldTrump/status/1278284552679624705)
+
+“It is outrageous to me that we ask our servicemen and women to put
+their lives in danger for our peace and security, and yet the
+administration won’t believe a credible piece of intelligence putting
+bounties on their heads,” Representative Gregory W. Meeks, Democrat of
+New York, said at the foreign affairs hearing. “How was Congress never
+briefed until the claim was leaked to the press at great risk to
+whistle-blowers?”
+
+Based on intelligence that included accounts from interrogated detainees
+and electronic intercepts of data showing payments from a bank account
+linked to Russia’s military intelligence agency, the G.R.U., to the
+Taliban, the C.I.A. concluded that Russia had escalated its support to
+the Taliban to include financial incentives for killing Americans and
+other coalition troops.
+
+The C.I.A. — as well as analysts at the National Counterterrorism Center
+— expressed medium or moderate confidence in that conclusion. The
+National Security Agency, which puts greater stock in surveillance
+intercepts, was more skeptical, officials have said.
+
+The White House initially denied that Mr. Trump had been briefed, but
+did not deny a subsequent Times report that the intelligence was
+included in his written daily briefing in late February. But Mr. Trump
+often chooses not to read his written briefing, and White House aides
+later stressed to lawmakers that a C.I.A. official who delivers his oral
+briefings did not bring it up.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Michael J. Morell, a former acting C.I.A. director, portrayed that as
+scapegoating in testimony to the Foreign Affairs Committee. He pointed
+out that the briefer is the lowest-ranking person in the room during the
+president’s regular intelligence briefings, and said the national
+security adviser, the C.I.A. director, the director of national
+intelligence or the White House chief of staff could also have brought
+the suspicions about Russian bounties to the president’s attention. He
+also noted that Mr. Esper receives a copy of the written President’s
+Daily Brief.
+
+Mr. Morell also disputed the White House’s suggestion that an
+intelligence assessment had to be unanimously backed by intelligence
+agencies to be taken seriously. In previous administrations, he said, if
+the intelligence community assessed such information at any level of
+confidence, officials would have told both the president and
+congressional leaders immediately about that judgment and any dissent.
+If the confidence level were low, he said, an administration would seek
+more information before acting, while a medium- or high-level assessment
+would most likely result in a response.
+
+“You never have certainty in intelligence,” Mr. Morell added.
+
+John W. Nicholson Jr., a retired general who led coalition forces in
+Afghanistan from 2016 to the middle of 2018, testified before the
+Foreign Affairs Committee that Russia grew bolder over his tenure.
+Afghan governors, he said, brought him weapons and other military
+equipment and said Russians had provided them to the Taliban.
+
+General Nicholson [talked about Russian support for the Taliban
+publicly](https://www.bbc.com/news/world-asia-43500299) while still in
+that role, and he said on Thursday that it was important to respond to
+such findings — including by going public with accusations to elicit a
+response from Russia.
+
+“It may just be denial, but you’ve got it on their radar screen,” he
+said. “They know they’re being watched. They know you’re pushing back.
+So these kinds of actions are extremely important. And of course, the
+higher up you go, the more powerful the response is.”
+
+Later, pressed by a Republican lawmaker, Representative Lee Zeldin of
+New York, to comment on leaks of classified intelligence, General
+Nicholson noted that they were unhelpful — his comments were [garbled in
+the live video](https://www.youtube.com/watch?v=9m_qt2lPmvU) of the
+hearing that was conducted remotely because of the pandemic — but then
+praised the hearing itself. He said that drawing attention to the
+American suspicions of the bounty plot could cause the Russians “to dial
+down what they are doing.”
+
+The ranking Republican on the Foreign Affairs Committee, Representative
+Michael McCaul of Texas, said the government needed to take the
+intelligence seriously given Russia’s track record. He criticized Mr.
+Trump’s idea of inviting Russia to rejoin the economic alliance known as
+the Group of 7, and noted that the administration already had legal
+authority to impose new sanctions.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“While it’s not news that Moscow has provided the Taliban with weapons
+and other support,” Mr. McCaul said, “Russia paying bounties for the
+murder of American service members would be an unacceptable escalation.
+If true, the administration, in my judgment, must take swift and certain
+action to hold the Putin regime accountable.”
+
+The tone was different in the Armed Services Committee hearing, where
+several Republicans sought to play down the significance of the
+intelligence assessment, pointing to a lack of concrete evidence linking
+Russian payments to specific American combat casualties.
+
+Early in that hearing, a Republican asked Mr. Esper if he had ever
+received a briefing that included the word “bounties” in connection with
+killing American troops, and he said he had not. But later, under
+skeptical questioning from Democrats, he acknowledged that he had been
+briefed in February about intelligence that Russia was making “payments”
+to Taliban-linked militants for killing American troops.
+
+Commanders in the region heard about the reports a month earlier, Mr.
+Esper said, and had taken steps to safeguard American troops, who he
+noted were already at the “highest levels” of force protection given
+they were operating in a combat zone. Still, he stressed, the
+intelligence was uncorroborated.
+
+The discussion at both hearings repeatedly returned to Russia’s broad
+range of misbehavior, such as election interference and disinformation
+campaigns as well as its suspected covert support for the Taliban that
+the C.I.A. now thinks has escalated to offering bounties to incentivize
+more frequent attacks amid peace talks.
+
+The issue now, General Milley said, is what should or could be done to
+push back — through steps like diplomatic protests, the imposition of
+new economic sanctions or other forms of pressure.
+
+“Some of that is done,” General Milley said. “Are we doing as much as we
+could or should? Perhaps not.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

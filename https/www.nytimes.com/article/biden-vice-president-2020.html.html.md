@@ -323,8 +323,8 @@ Burns</span>](https://www.nytimes.com/by/alexander-burns)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">7:11 a.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

@@ -70,7 +70,7 @@ index](#site-index)
 <div class="css-nhmgdh">
 
 <span class="css-1dv1kvn" data-aria-live="polite">Showing 10 out of
-19,564 results for:</span><span class="css-1dv1kvn"></span>
+19,586 results for:</span><span class="css-1dv1kvn"></span>
 
 <div class="css-aoqhyj">
 
@@ -149,7 +149,8 @@ Sort by RelevanceSort by NewestSort by Oldest
 
 <div class="css-mu1xy5" data-role="form" data-test-id="type">
 
-<span class="css-1ly73wi e1tej78p0">Refine results via </span>Type
+<span class="css-1ly73wi e1tej78p0">Refine results via
+    </span>Type
 
 <div class="css-leco5r" data-test-id="search-multi-select-caret">
 
@@ -181,33 +182,21 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    New
-    York
+    Europe
     
-    [](/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html?searchResultPosition=1)
+    [](/reuters/2020/08/02/world/europe/02reuters-thailand-redbull.html?searchResultPosition=1)
     
-    #### Is the Subway Risky? It May Be Safer Than You Think
+    #### Thai PM Orders Deeper Look Into Death of Witness in Red Bull Hit-And-Run Case
     
-    New studies in Europe and Asia suggest that riding public
-    transportation is not a major source of transmission for the
-    coronavirus.
+    Thailand's prime minister has ordered a second autopsy be conducted
+    after the death of a key witness in a deadly hit-and-run case linked
+    to the heir to the Red Bull energy drink fortune, amid public anger
+    that the charges were dropped.
     
-    By Christina Goldbaum
-    
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
+    By
+    Reuters
     
     </div>
-    
-    <span class="css-h4mf4">PRINT EDITION</span>Riding Subway Might Not
-    Pose Inordinate Risk<span class="css-1t2tqhf">|</span>August 2,
-    2020, Page
-    A1
-    
-    </div>
-    
-    ![](https://static01.nyt.com/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -221,29 +210,20 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    New
-    York
+    Briefing
     
-    [](/2020/08/02/nyregion/metropolitan-diary.html?searchResultPosition=2)
+    [](/2020/08/02/briefing/midwest-school-reopenings-summer-gardens.html?searchResultPosition=2)
     
-    #### ‘As I Started to Walk Away, the Second Man Reached Out His Hand’
+    #### Midwest, School Reopenings, Summer Gardens: Your Weekend Briefing
     
-    Giving directions, a noisy Chinatown dining room and more reader
-    tales of New York City in this week’s Metropolitan Diary.
+    Here’s what you need to know about the week’s top stories.
     
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
+    By Remy Tumin and Elijah
+    Walker
     
     </div>
     
-    <span class="css-h4mf4">PRINT
-    EDITION</span><span class="css-bc0f0m"></span>August 2, 2020, Page
-    MB6
-    
-    </div>
-    
-    ![](https://static01.nyt.com/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/briefing/02weekend-briefing-slide-RI7T/02weekend-briefing-slide-RI7T-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -257,21 +237,31 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Africa
+    Business
     
-    [](/aponline/2020/08/02/world/africa/ap-af-virus-outbreak-toxic-stigma.html?searchResultPosition=3)
+    [](/2020/08/02/business/brinkerhoff-racing-child-trafficking.html?searchResultPosition=3)
     
-    #### In Africa, Stigma Surrounding Coronavirus Hinders Response
+    #### Driving Across the Globe to Fight Child Trafficking
     
-    After 23 days in quarantine in Uganda — far longer than required —
-    Jimmy Spire Ssentongo walked free in part because of a cartoon he
-    drew. It showed a bound prisoner begging for liberation after
-    multiple negative tests, while a health minister demanded to know
-    where he was hiding the virus.
+    Renée Brinkerhoff has been on a quest, on almost every continent, to
+    use racing “as a platform to do something about” a global scourge.
+    Next stop, Antarctica.
     
-    By The Associated Press
+    By Mercedes Lilienthal
+    
+    <span class="css-bc0f0m"></span>
+    
+    <div class="css-1rq7uyl">
     
     </div>
+    
+    <span class="css-h4mf4">PRINT
+    EDITION</span><span class="css-bc0f0m"></span>August 3,
+    2020
+    
+    </div>
+    
+    ![](https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -288,15 +278,14 @@ Sort by RelevanceSort by NewestSort by Oldest
     Asia
     Pacific
     
-    [](/reuters/2020/08/02/world/asia/02reuters-health-coronavirus-japan.html?searchResultPosition=4)
+    [](/aponline/2020/08/02/world/asia/ap-as-skorea-heavy-rain.html?searchResultPosition=4)
     
-    #### Tokyo Confirms 292 New Coronavirus Cases on Sunday: NHK
+    #### Heavy Rain Hammers South Korea, Leaving 6 Dead, 7 Missing
     
-    Tokyo confirmed 292 new coronavirus infections on Sunday, after
-    cases rose by more than 400 in the past two days, public broadcaster
-    NHK said.
+    Torrential rain pounded most of South Korea on Sunday, leaving six
+    people dead and seven others missing, officials said.
     
-    By Reuters
+    By The Associated Press
     
     </div>
     
@@ -311,13 +300,13 @@ Sort by RelevanceSort by NewestSort by Oldest
     ### Advertisement
     
     [Continue reading the main
-    story](#after-mid106)
+    story](#after-mid748)
     
-    <div id="mid106" class="ad mid106-wrapper" style="text-align:center;height:100%;display:block">
+    <div id="mid748" class="ad mid748-wrapper" style="text-align:center;height:100%;display:block">
     
     </div>
     
-    <div id="after-mid106">
+    <div id="after-mid748">
     
     </div>
     
@@ -331,15 +320,15 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Hockey
+    Olympics
     
-    [](/reuters/2020/08/02/sports/hockey/02reuters-icehockey-nhl-wpg.html?searchResultPosition=5)
+    [](/reuters/2020/08/02/sports/olympics/02reuters-athletics-usa-lyles-coleman.html?searchResultPosition=5)
     
-    #### Jets Lose Scheifele to Leg Injury Early vs. Flames
+    #### Athletics: Lyles Says Coleman Must Be More Responsible After Missed Tests
     
-    Winnipeg Jets top-line center Mark Scheifele suffered a leg injury
-    in his team's qualifying round Game 1 loss to the Calgary Flames 4-1
-    on Saturday.
+    World 200 metres champion Noah Lyles has said fellow American
+    sprinter Christian Coleman must show more responsibility after he
+    was provisionally suspended for breaching whereabouts rules.
     
     By
     Reuters
@@ -358,19 +347,18 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Baseball
+    Africa
     
-    [](/reuters/2020/08/02/sports/baseball/02reuters-baseball-mlb-roundup.html?searchResultPosition=6)
+    [](/reuters/2020/08/02/world/africa/02reuters-nigeria-security-boko-haram-cameroon.html?searchResultPosition=6)
     
-    #### MLB Roundup: Judge Homers Again, Yankees Sink Red Sox
+    #### Suspected Boko Haram Militants Kill at Least 13 in Cameroon
     
-    Aaron Judge homered for a career-high fourth straight game, Gio
-    Urshela hit his first career grand slam and the New York Yankees
-    continued their hot start to the abbreviated season with a 5-2
-    victory over the visiting Boston Red Sox on Saturday night.
+    Suspected militants from Islamist group Boko Haram killed at least
+    13 people and wounded eight others in a grenade attack in northern
+    Cameroon on Sunday, a security source and a local official told
+    Reuters.
     
-    By
-    Reuters
+    By Reuters
     
     </div>
     
@@ -386,17 +374,20 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Hockey
+    Asia
+    Pacific
     
-    [](/reuters/2020/08/02/sports/hockey/02reuters-icehockey-nhl-roundup.html?searchResultPosition=7)
+    [](/reuters/2020/08/02/world/asia/02reuters-india-liquor.html?searchResultPosition=7)
     
-    #### NHL Roundup: Petry, Habs Upend Penguins in OT
+    #### Indian Police Crackdown on Illegal Liquor Suppliers After 86 Die
     
-    Jeff Petry scored at 13:57 of overtime as the Montreal Canadiens
-    opened their qualifying series with an upset win over the Pittsburgh
-    Penguins in Toronto on Saturday night.
+    Indian police raided rural hamlets and made arrests to break up a
+    bootlegging cartel on Sunday, after 86 people died from consuming
+    illegally-produced alcohol this week in the northwestern state of
+    Punjab, officials said.
     
-    By Reuters
+    By
+    Reuters
     
     </div>
     
@@ -412,20 +403,31 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Asia
-    Pacific
+    Americas
     
-    [](/reuters/2020/08/02/world/asia/02reuters-health-coronavirus-australia.html?searchResultPosition=8)
+    [](/2020/08/02/world/americas/mexico-tv-virus-telenovela.html?searchResultPosition=8)
     
-    #### Australia's Victoria Declares Disaster, Sets Curfew to Curb COVID-19
+    #### Less Sex, More Viewers: Pandemic Boosts Mexico’s Flagging Telenovelas
     
-    Australia's Victoria state declared a disaster on Sunday and imposed
-    a nightly curfew for the capital Melbourne as part of its harshest
-    movement restrictions to date to contain a resurgent COVID-19.
+    Dismissed as too old-fashioned to compete with streaming services,
+    the melodramas have seen viewership surge as Mexicans seek the
+    familiar in times of distress.
     
-    By Reuters
+    By Natalie Kitroeff
+    
+    <span class="css-bc0f0m"></span>
+    
+    <div class="css-1rq7uyl">
     
     </div>
+    
+    <span class="css-h4mf4">PRINT
+    EDITION</span><span class="css-bc0f0m"></span>August 3,
+    2020
+    
+    </div>
+    
+    ![](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -439,20 +441,30 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Asia
-    Pacific
+    Books
     
-    [](/aponline/2020/08/02/world/asia/ap-as-afghanistan.html?searchResultPosition=9)
+    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html?searchResultPosition=9)
     
-    #### Afghan Troops Kill Senior Islamic State Militant
+    #### It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
     
-    The Afghan intelligence service says it has killed a high ranking
-    official with the Islamic State affiliate in an operation in eastern
-    Afghanistan.
+    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
+    is coming to Audible ahead of a film adaptation with Julianne Moore.
     
-    By The Associated Press
+    By Elisabeth Egan
+    
+    <span class="css-bc0f0m"></span>
+    
+    <div class="css-1rq7uyl">
     
     </div>
+    
+    <span class="css-h4mf4">PRINT
+    EDITION</span><span class="css-bc0f0m"></span>August 10,
+    2020
+    
+    </div>
+    
+    ![](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -466,21 +478,30 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Asia
-    Pacific
+    Real
+    Estate
     
-    [](/reuters/2020/08/02/world/asia/02reuters-health-coronavirus-philippines.html?searchResultPosition=10)
+    [](/2020/08/02/realestate/homes-that-sold-for-around-600000.html?searchResultPosition=10)
     
-    #### Philippines to Update COVID-19 Strategy as Healthcare Workers Seek 'Timeout'
+    #### Homes That Sold for Around $600,000
     
-    The Philippines' health department vowed on Sunday to update its
-    game plan against COVID-19 within a week and sought to beef up the
-    healthcare workforce in the capital Manila, where medical
-    frontliners are calling for reviving strict lockdowns.
+    Recent residential sales in New York City and the region.
     
-    By Reuters
+    By C. J. Hughes
+    
+    <span class="css-bc0f0m"></span>
+    
+    <div class="css-1rq7uyl">
     
     </div>
+    
+    <span class="css-h4mf4">PRINT
+    EDITION</span><span class="css-bc0f0m"></span>August 2,
+    2020
+    
+    </div>
+    
+    ![](https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

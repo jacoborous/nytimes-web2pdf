@@ -82,9 +82,8 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-Live Updates: Infections Swamp the U.S., Which Recorded 42% of All Its
-Cases in
+<span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Infections
+Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in
 July</span>
 
 </div>
@@ -191,6 +190,8 @@ story](#after-top)
 
 </div>
 
+<div>
+
 <div id="sponsor-wrapper" class="css-1hyfx7x">
 
 <div id="sponsor-slug" class="css-19vbshk">
@@ -212,32 +213,13 @@ story](#after-sponsor)
 
 </div>
 
-<div class="css-14oxmzc edomiq20">
-
-<div class="css-40v4b6">
-
-<span class="css-sgss5">LIVE UPDATES</span>
-
-</div>
-
-<span>Updated </span>
-
-<div class="css-ki347z">
-
-<span class="css-1656jku">Aug. 2, 2020, 2:51 a.m.
-ET</span><span class="css-xwx5dt"></span>
-
-</div>
-
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 2, 2020, 2:51
-a.m.
-ET</span>
+<div class="css-186x18t">
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Coronavirus Live Updates: Infections Swamp the U.S., Which Recorded 42% of All Its Cases in July<span class="css-8l6xbc evw5hdy0"> </span>
+# Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July<span class="css-8l6xbc evw5hdy0"> </span>
 
 </div>
 
@@ -245,13 +227,48 @@ Thousands in Berlin protest Germany’s coronavirus measures. The virus is
 picking up speed in the Midwest. A summer camp in Georgia apologizes for
 hosting a retreat after hundreds who attended were infected.
 
-<div class="css-192lewg e1oheyly0">
+<div class="css-18e8msd">
 
-Right Now
+<div class="css-vp77d3 epjyd6m0">
 
-Officials struggling to contain an outbreak in Melbourne announced
-stricter measures, including an 8 p.m.
-curfew.
+<div class="css-1baulvz">
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 2, 2020,
+    <span class="css-epvm6">3:42 a.m.
+    ET</span>
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
 
 </div>
 
@@ -300,20 +317,7 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/01/business/01virus
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-34047410" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The U.S. reels as July cases more than double the total of any other
-month.
+## The U.S. reels as July cases more than double the total of any other month.
 
 The United States recorded more than 1.9 million new infections in July,
 nearly 42 percent of the more than 4.5 million cases reported nationwide
@@ -374,7 +378,8 @@ and Spain are also fighting second waves.
 <div class="css-53u6y8">
 
 None of those places has an infection rate as high as the one in the
-United States, which has the most cases and deaths in the world.
+United States, which has the most cases and deaths in the
+world.
 
 </div>
 
@@ -388,20 +393,7 @@ United States, which has the most cases and deaths in the world.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-780ec966" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Top U.S. officials work to break an impasse over the federal jobless
-benefit.
+## Top U.S. officials work to break an impasse over the federal jobless benefit.
 
 </div>
 
@@ -595,8 +587,8 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td><h4 id="section-2" class="svelte-47k53u">58,183</h4></td>
-<td><h4 id="section-3" class="svelte-47k53u">–5%</h4></td>
+<td><h4 id="section" class="svelte-47k53u">58,183</h4></td>
+<td><h4 id="section-1" class="svelte-47k53u">–5%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart chart-0 show-chart svelte-l6qvn7">
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
@@ -610,8 +602,8 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td><h4 id="section-4" class="svelte-47k53u">1,054</h4></td>
-<td><h4 id="section-5" class="svelte-47k53u">+60%</h4></td>
+<td><h4 id="section-2" class="svelte-47k53u">1,054</h4></td>
+<td><h4 id="section-3" class="svelte-47k53u">+60%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart deaths-chart chart-0 show-chart svelte-l6qvn7">
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
@@ -886,20 +878,7 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-2bc8948" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Its outbreak untamed, Melbourne goes into even greater
-lockdown.
+## Its outbreak untamed, Melbourne goes into even greater lockdown.
 
 </div>
 
@@ -928,8 +907,8 @@ lockdown.
 </div>
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Police
-officers patrolling Melbourne this week, where a curfew between 8 p.m.
-and 5 a.m. will go into effect on
+officers patrolling in Melbourne, Australia, where a curfew from 8 p.m.
+to 5 a.m. went into effect on
 Sunday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>William
 West/Agence France-Presse — Getty Images</span></span>
 
@@ -941,11 +920,11 @@ West/Agence France-Presse — Getty Images</span></span>
 
 <div class="css-53u6y8">
 
-Officials in Melbourne, Australia’s second-largest city, on Sunday
-[announced the country’s strictest restrictions on
-movement](https://www.premier.vic.gov.au/statement-changes-melbournes-restrictions)
-so far in an effort to stem an outbreak that is still raging despite a
-lockdown that began four weeks ago.
+Officials in Melbourne, Australia’s second-largest city, [announced
+stricter
+measures](https://www.premier.vic.gov.au/statement-changes-melbournes-restrictions)
+on Sunday in an effort to stem an outbreak that is still raging despite
+a lockdown that began four weeks ago.
 
 For six weeks starting Sunday, residents of metropolitan Melbourne will
 be under curfew from 8 p.m. to 5 a.m. except for purposes of work or
@@ -967,6 +946,65 @@ limited to one hour per person per day, both within five kilometers of
 home. Public gatherings are limited to two people, including household
 members.
 
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-08-02T10:04:29.623Z
+
+</div>
+
+</div>
+
+  - [The U.S. reels as July cases more than double the total of any
+    other
+    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
+  - [Top U.S. officials work to break an impasse over the federal
+    jobless
+    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
+  - [Its outbreak untamed, Melbourne goes into even greater
+    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Markets](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 In explaining the new measures, Premier Daniel Andrews said that the
 high rate of community transmission, including 671 new cases reported in
 the state of Victoria on Sunday, suggested the virus was even more
@@ -984,19 +1022,7 @@ metropolitan Melbourne, and 123 deaths.
 
 Global roundup
 
-## 
-
-<div id="link-25930521" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Thousands in Berlin protest Germany’s coronavirus measures.
+## Thousands in Berlin protest Germany’s coronavirus measures.
 
 </div>
 
@@ -1134,20 +1160,7 @@ Here are some other developments from around the globe:
     self-quarantine in accordance with Norway’s public health
     regulations.
 
-## 
-
-<div id="link-71e54361" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Another U.S. lawmaker tests positive for the
-coronavirus.
+## Another U.S. lawmaker tests positive for the coronavirus.
 
 </div>
 
@@ -1244,21 +1257,7 @@ dozens more have entered voluntary isolation because of exposure,
 according to a tally from Republicans on the House Administration
 Committee.
 
-## 
-
-<div id="link-1e0cb5f3" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Florida, already reeling from the virus, faces a new threat from
-Tropical Storm
-Isaias.
+## Florida, already reeling from the virus, faces a new threat from Tropical Storm Isaias.
 
 </div>
 
@@ -1347,7 +1346,8 @@ cases since mid-June — were closely monitoring the storm.
 Earlier, the storm hit the Bahamas as it is grappling with a [rapid
 increase](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
 in the number of coronavirus infections that has only accelerated in
-recent days, in what health officials are calling a second wave.
+recent days, in what health officials are calling a second
+wave.
 
 </div>
 
@@ -1361,21 +1361,7 @@ recent days, in what health officials are calling a second wave.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-45c905e3" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-A golfer tests positive midway through a PGA Tour event, withdrawing
-while tied for second
-place.
+## A golfer tests positive midway through a PGA Tour event, withdrawing while tied for second place.
 
 </div>
 
@@ -1468,7 +1454,8 @@ people, including 18 players, test positive since last Sunday.
 And the Boston Red Sox announced that starting pitcher Eduardo
 Rodriguez, 27, who had been infected before the start of the season,
 will not play this year after developing myocarditis, or inflammation of
-the heart.
+the
+heart.
 
 </div>
 
@@ -1482,20 +1469,7 @@ the heart.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-3c2701e2" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The YMCA in Georgia apologizes for hosting a summer camp after hundreds
-who attended were infected.
+## The YMCA in Georgia apologizes for hosting a summer camp after hundreds who attended were infected.
 
 The hosts of a summer camp in Georgia said over the weekend that they
 regretted hosting the lakeside retreat in June, after health officials
@@ -1556,23 +1530,10 @@ it is now reporting an [average of more than 3,000 cases and 45
 deaths](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 each day.
 
-U.S. Roundup
+U.S.
+Roundup
 
-## 
-
-<div id="link-5aef751b" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Maryland contact-tracing data offers clues as to where people may have
-gotten the
-virus.
+## Maryland contact-tracing data offers clues as to where people may have gotten the virus.
 
 </div>
 
@@ -1687,7 +1648,476 @@ Here are some other developments from around the United States:
     situation has been stark in the Navajo
     Nation](https://www.nytimes.com/2020/04/09/us/coronavirus-navajo-nation.html),
     where high infection rates have created a crisis in the largest
-    reservation in the United States.
+    reservation in the United
+States.
+
+## A wealthy Indian family is betting big on a coronavirus vaccine.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Technicians
+from a German company installing a new high-speed vaccine assembly line
+on the Serum Institute’s campus in Pune,
+India.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Atul
+Loke for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+[The Serum Institute](https://www.seruminstitute.com/index.php), which
+started out years ago as a horse farm and is exclusively controlled by a
+small and fabulously rich Indian family, is doing what few other
+companies in the race for a vaccine are doing: mass-producing hundreds
+of millions of doses of a vaccine candidate
+that<span class="css-8l6xbc evw5hdy0"> </span>might not even work.
+
+But if it does, Adar Poonawalla, Serum’s chief executive and the only
+child of the company’s founder, will become one of the most tugged-at
+men in the world. He will have what everyone wants, possibly in greater
+quantities before anyone
+else.
+
+<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div class="css-eb027h">
+
+[](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+### The Coronavirus Outbreak ›
+
+#### Frequently Asked Questions
+
+Updated July 27, 2020
+
+  - #### Should I refinance my mortgage?
+    
+      - [It could be a good
+        idea,](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        because mortgage rates have [never been
+        lower.](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Refinancing requests have pushed mortgage applications to some
+        of the highest levels since 2008, so be prepared to get in line.
+        But defaults are also up, so if you’re thinking about buying a
+        home, be aware that some lenders have tightened their standards.
+
+  - #### What is school going to look like in September?
+    
+      - It is unlikely that many schools will return to a normal
+        schedule this fall, requiring the grind of [online
+        learning](https://www.nytimes.com/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        [makeshift child
+        care](https://www.nytimes.com/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        and [stunted
+        workdays](https://www.nytimes.com/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        to continue. California’s two largest public school districts —
+        Los Angeles and San Diego — said on July 13, that [instruction
+        will be remote-only in the
+        fall](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        citing concerns that surging coronavirus infections in their
+        areas pose too dire a risk for students and teachers. Together,
+        the two districts enroll some 825,000 students. They are the
+        largest in the country so far to abandon plans for even a
+        partial physical return to classrooms when they reopen in
+        August. For other districts, the solution won’t be an
+        all-or-nothing approach. [Many
+        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
+        including the nation’s largest, New York City, are devising
+        [hybrid
+        plans](https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        that involve spending some days in classrooms and other days
+        online. There’s no national policy on this yet, so check with
+        your municipal school system regularly to see what is happening
+        in your community.
+
+  - #### Is the coronavirus airborne?
+    
+      - The coronavirus [can stay aloft for hours in tiny droplets in
+        stagnant
+        air](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        infecting people as they inhale, mounting scientific evidence
+        suggests. This risk is highest in crowded indoor spaces with
+        poor ventilation, and may help explain super-spreading events
+        reported in meatpacking plants, churches and restaurants. [It’s
+        unclear how often the virus is
+        spread](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        via these tiny droplets, or aerosols, compared with larger
+        droplets that are expelled when a sick person coughs or sneezes,
+        or transmitted through contact with contaminated surfaces, said
+        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
+        released even when a person without symptoms exhales, talks or
+        sings, according to Dr. Marr and more than 200 other experts,
+        who [have outlined the evidence in an open letter to the World
+        Health
+        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
+
+  - #### What are the symptoms of coronavirus?
+    
+      - Common symptoms [include fever, a dry cough, fatigue and
+        difficulty breathing or shortness of
+        breath.](https://www.nytimes.com/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Some of these symptoms overlap with those of the flu, making
+        detection difficult, but runny noses and stuffy sinuses are less
+        common. [The C.D.C. has
+        also](https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        added chills, muscle pain, sore throat, headache and a new loss
+        of the sense of taste or smell as symptoms to look out for. Most
+        people fall ill five to seven days after exposure, but symptoms
+        may appear in as few as two days or as many as 14 days.
+
+  - #### Does asymptomatic transmission of Covid-19 happen?
+    
+      - So far, the evidence seems to show it does. A widely cited
+        [paper](https://www.nature.com/articles/s41591-020-0869-5)
+        published in April suggests that people are most infectious
+        about two days before the onset of coronavirus symptoms and
+        estimated that 44 percent of new infections were a result of
+        transmission from people who were not yet showing symptoms.
+        Recently, a top expert at the World Health Organization stated
+        that transmission of the coronavirus by people who did not have
+        symptoms was “very rare,” [but she later walked back that
+        statement.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
+
+<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+
+</div>
+
+</div>
+
+<div class="css-6mllg9">
+
+</div>
+
+<div class="css-pmm6ed">
+
+<span class="css-5gimkt"></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Mr. Poonawalla’s vaccine assembly lines are being readied to crank out
+500 doses a minute, and his phone rings endlessly.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+National health ministers, prime ministers and other heads of state (he
+wouldn’t say who) and friends he hasn’t heard from in years have been
+calling him, he said, begging for the first batches.
+
+“I’ve had to explain to them that, ‘Look I can’t just give it to you
+like this,’” he said.
+
+The Serum Institute finds itself in the middle of an extremely
+competitive and murky endeavor. To get the vaccine out as soon as
+possible, vaccine developers say they need Serum’s mammoth assembly
+lines — each year, it churns out 1.5 billion doses of other vaccines,
+mostly for poor countries, more than any other company.
+
+Half of the world’s children have been vaccinated with Serum’s products.
+Scale is its specialty. Just the other day, Mr. Poonawalla received a
+shipment of 600 million glass vials.
+
+But right now it’s not entirely clear how much of the coronavirus
+vaccine that Serum will mass-produce will be kept by India or who will
+fund its
+production.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## South Korea arrests the leader of a church where the virus spread rapidly.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Lee Man-hee
+apologized at a news conference in March after his Shincheonji Church of
+Jesus was at the center of South Korea’s first big coronavirus
+cluster.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Pool
+photo</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The leader of a secretive religious sect in South Korea was arrested
+early on Saturday on charges of embezzling church money and conspiring
+to impede efforts to fight the coronavirus.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The rapid spread of the virus this winter among worshipers of the
+Shincheonji Church of Jesus in Daegu, a city in the southeast, briefly
+made South Korea home to the world’s largest coronavirus outbreak
+outside China. As of Friday, more than a third of the 14,300 coronavirus
+cases known to the government were members of Shincheonji or their
+contacts.
+
+Prosecutors say that [Lee
+Man-hee,](https://www.nytimes.com/2020/03/02/world/asia/coronavirus-south-korea-shincheonji.html?searchResultPosition=1)
+the church’s founder, failed to fully disclose the number of worshipers
+and their gathering places. Seven church officials were indicted last
+month on the same charge.
+
+Mr. Lee, 88, has also been accused of embezzling 5.6 billion won, or
+$4.7 million, from church funds to build a luxurious “peace palace”
+north of Seoul. The church has broadly denied all the charges against
+him. He could face years in prison if convicted.
+
+Intense criticism from the South Korean public [forced Mr. Lee to
+apologize](https://www.nytimes.com/2020/03/02/world/asia/coronavirus-south-korea-shincheonji.html)
+in March.
+
+In a statement on Saturday, the church said that Mr. Lee had never
+intended to hamper efforts to control the epidemic, and that he had only
+expressed concern over the scale of government demands for worshipers’
+data.
+
+“He has emphasized the importance of disease control and urged the
+church members to cooperate with the authorities,” the church said. “We
+will do our best to let the truth be known through trial.”
+
+But parents who accused the church of luring and brainwashing their
+children with its unorthodox teachings welcomed his arrest on Saturday,
+calling Mr. Lee a “religious con
+artist.”
+
+## European stocks gain a sudden allure as the region pins down the virus better than most places.
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000007261096" data-slug="EuroStocks" style="max-width:600px">
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Europe has a bad reputation with investors. For years, asset managers
+and bank strategists have characterized the region by its [anemic growth
+rate](https://qz.com/1544961/the-euro-zone-economy-is-back-on-familiar-ground-slow-grinding-growth/)
+and shaky political union.
+
+Now a crisis has turned into an unlikely investment opportunity, as the
+region appears to have handled the pandemic better than some other parts
+of the world. In the past few months, [European assets have staged a
+comeback](https://www.nytimes.com/2020/07/30/business/europes-markets-are-having-a-moment.html).
+
+The euro this week rose to its highest level in more than two years
+against the U.S. dollar, and the region’s benchmark index, the Stoxx
+600, is set for a second straight month of gains greater than those of
+the S\&P 500 index, in dollar terms, according to data from FactSet.
+
+The most important reason for this upswing, analysts say, is that Europe
+is recording far fewer new cases of the coronavirus. There are still
+occasional spikes in Europe, and there are some early signs that the
+infection rate is starting to level off in the United States. But there
+are [about 65,000 new cases each
+day](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?campaign_id=154&emc=edit_cb_20200728&instance_id=20725&nl=coronavirus-briefing&regi_id=137662381&segment_id=34584&te=1&user_id=72eee90673e6857ae5a6e83e1981a59a)
+in the United States, compared with [fewer
+than 10,000](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) across
+the Atlantic.
+
+Another significant reason for the increase is politics. When European
+leaders reached an agreement last week on [a 750 billion euro, or $888
+billion, recovery
+fund](https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html),
+it wasn’t the size of the deal that impressed investors, but the fact
+that it happened after four long nights of negotiations.
+
+The decision to raise money collectively and give grants to the
+countries hit hardest by the pandemic indicated that there is some
+political will left to further the project that created the euro two
+decades ago, despite the exit of Britain from the European Union,
+[budget fights with
+Italy](https://www.ft.com/content/92ec7bc4-9d8f-11e9-9c06-a4640c9feebb)
+and concerns about the [dismantling of democracy in
+Hungary](https://www.nytimes.com/2020/06/16/world/europe/hungary-coronavirus-orban.html).
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## A school opened in Indiana. It had to quarantine people within hours.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A student at
+Greenfield Central Junior High School in Indiana tested positive for the
+coronavirus on Thursday, the first day back in
+classrooms.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>AJ
+Mast for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+One of the first school districts in the United States to reopen did not
+even make it a day before it had grapple with the issue facing everyone
+trying to get students back into classrooms: What happens when someone
+comes to school infected with the coronavirus?
+
+Hours into classes on Thursday, a call from the county health department
+notified Greenfield Central Junior High School in Indiana that a student
+had tested positive.
+
+Administrators began an emergency protocol, isolating the student and
+ordering everyone who had come into close contact with the person,
+including other students, to quarantine for 14 days. It is unclear
+whether anyone else got infected.
+
+“We knew it was a when, not if,” said Harold E. Olin, superintendent of
+the Greenfield-Central Community School Corporation, but he was “very
+shocked it was on Day 1.”
+
+Hundreds of school districts across the country have [reversed
+course](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html)
+on reopening plans in recent weeks in response to rises in infections.
+Of the nation’s 25 largest school districts, all but six have announced
+they will start remotely. [Despite strong objections from teachers’
+unions](https://www.nytimes.com/2020/07/29/us/teacher-union-school-reopening-coronavirus.html),
+some in places like Florida and Texas are hoping to open classrooms
+after a few weeks if infection rates fall.
 
 </div>
 
@@ -1705,19 +2135,7 @@ Here are some other developments from around the United States:
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-5091a0bf" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-New York colleges scramble to comply with state quarantine rules.
+## New York colleges scramble to comply with state quarantine rules.
 
 Colleges and universities across New York are enacting hasty plans to
 meet state requirements for students arriving from out of state as the
@@ -1727,14 +2145,6 @@ With many schools poised to begin in-person instruction in just one
 month, some of the state’s larger institutions have been forced to put
 together complex plans to house students from regions currently fighting
 major coronavirus outbreaks.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Plans for letting students back on campus revolve around [an order made
 by Gov. Andrew Cuomo in
@@ -1765,26 +2175,21 @@ Columbia University [said](https://roomselection.housing.columbia.edu/)
 it would arrange to have meals delivered to dormitories, according to
 its website.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Since the list of states identified by the governor’s order is informed
 by seven-day rolling averages of new infections, new outbreaks in
 previously stable states could still force students to make last-minute
-travel and housing arrangements to quarantine before classes begin.
+travel and housing arrangements to quarantine before classes
+begin.
 
-## 
-
-<div id="link-7b12537b" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Ten people in India die from drinking hand sanitizer after liquor sales
-are
-stopped.
+## Ten people in India die from drinking hand sanitizer after liquor sales are stopped.
 
 </div>
 
@@ -1813,8 +2218,8 @@ stopped.
 </div>
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Medical
-workers testing for coronavirus in New Delhi on Friday. India recorded
-57,118 coronavirus infections on Saturday, bringing its total to 1.7
+workers testing for coronavirus in New Delhi on Friday. India reported
+54,735 coronavirus infections on Sunday, bringing its total to 1.75
 million.
 </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Manish
 Swarup/Associated Press</span></span>
@@ -1831,23 +2236,15 @@ Since the southern Indian state of Andhra Pradesh closed liquor stores
 as part of lockdown restrictions about two weeks ago, at least 10 people
 have died after consuming alcohol-based hand sanitizer, the police said.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The Indian government started easing a national lockdown in late May.
 But many states have reimposed some restrictions, including Andhra
 Pradesh, where nearly 50,000 new coronavirus cases [have been reported
 in the last
 week](https://www.nytimes.com/interactive/2020/world/asia/india-coronavirus-cases.html#cases).
 
-India recorded 57,118 coronavirus infections on Saturday, the country’s
-health ministry said, bringing its total to 1.7 million. More than
-36,000 people have died.
+India reported 54,735 coronavirus infections on Sunday, the country’s
+health ministry said, bringing its total to 1.75 million. More than
+37,000 people have died.
 
 The police in the state said some people who lost access to legal liquor
 started mixing cheap hand sanitizer with water from roadside taps, soft
@@ -1858,6 +2255,14 @@ In the town of Kurichedu, a man begging at a temple complained of a
 burning sensation in his stomach, and died as he was being taken to a
 hospital. Then the number of people complaining of a burning sensation
 in their stomach started rising, the police said.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 “All of them died after consuming sanitizer,” said Siddharth Kaushal,
 the district’s top police officer. “We are wondering who told these
@@ -1877,30 +2282,10 @@ After India’s strict national lockdown lifted in May, reopened liquor
 stores were swamped with so many customers that the [police in some
 cities had to control the
 crowds](https://news.yahoo.com/chaos-outside-liquor-stores-india-eases-virus-lockdown-112326078.html),
-according to Agence France-Presse.
+according to Agence
+France-Presse.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-1f3726f7" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The F.D.A. approves new antibody
-tests.
+## The F.D.A. approves new antibody tests.
 
 </div>
 
@@ -1963,6 +2348,14 @@ get them off the market. There is not yet a scientific consensus as to
 what level of antibodies are needed to confer immunity, or how long such
 immunity might last.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 The two new Covid-19 serology tests, the ADVIA Centaur COV2G and
 Attelica COV2G, are from Siemens.
 
@@ -1977,19 +2370,7 @@ antibodies may tell us about potential immunity, but today’s
 authorizations give us additional tools to evaluate those antibodies as
 we continue to research and study this virus.”
 
-## 
-
-<div id="link-29f9a92d" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Controlling screen time in the face of a pandemic.
+## Controlling screen time in the face of a pandemic.
 
 With remote work, remote school, remote camp and everything else remote,
 screens are dominating our lives. Here are some ways of thinking about
