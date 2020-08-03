@@ -229,17 +229,54 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Rudoff/Sipa, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31feds-promo2/merlin_174687471_3f161da7-b02b-4a94-89a2-d597dadb4374-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kin
+    Cheung/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Federal Agents Don’t Need Army Fatigues](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+    ## [Why Did Hong Kong Delay Its Election — by a Year?](/2020/08/02/opinion/hong-kong-election-china.html)
     
-    If you’re an officer of the law, dress like one. Leave the
-    soldiering to
-    soldiers.
+    The government blames the pandemic. More likely, it was afraid to
+    lose.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Fernando
+    Cheung</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
+    Byrne/PA Images via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Kara Swisher
+    
+    ## [There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up](/2020/08/02/opinion/02tik-tok-china-trump.html)
+    
+    Microsoft wants to buy the Chinese app, and the administration needs
+    to get out of the
+    way.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kara
+    Swisher</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    Reynolds/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Congress, Test Thyself](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+    
+    Lawmakers are essential workers. They should start acting like it
+    and protect themselves and the other people who work on Capitol
+    Hill.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">The Editorial
@@ -247,7 +284,88 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustrations
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02BlowSub/merlin_175186998_91e49e66-d4c6-43ad-b1ff-dc5be89c1d0f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Charles M. Blow
+    
+    ## [Trump Forecasts His Own Fraud](/2020/08/02/opinion/trump-2020-election.html)
+    
+    In the president’s world, he is never to blame for
+    failure.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Charles M.
+    Blow</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Bryce Covert
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Caballero-Reynolds/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Covert/02Covert-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Biden’s Quietly Radical Care Plan](/2020/08/02/opinion/biden-child-care.html)
+    
+    The candidate is talking about child care and elder care in the same
+    breath, and making them part of his economic package. Both changes
+    are long
+    overdue.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Bryce
+    Covert</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+    McCauley</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [When Utility Money Talks](/2020/08/02/opinion/utility-corruption-energy.html)
+    
+    Corruption scandals in Ohio and Illinois reveal an unsavory
+    underside to the politics of
+    energy.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Justin
+    Gillis</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+    Szagola/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02glanvillepromo/02glanvillepromo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Baseball Is Playing for Its Life, and Ours](/2020/08/02/opinion/baseball-coronavirus-Marlins.html)
+    
+    An outbreak of infections soon after reopening has struck a blow at
+    more than just the
+    Marlins.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Doug
+    Glanville</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustrations
     by Xia
     Gordon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-videoLarge.jpg)
     
@@ -265,132 +383,22 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Vivek
-    Singh for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/31peer4/31peer4-videoLarge-v3.jpg)
+5.  ### Maureen Dowd
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Samuel
+    Corum for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Friendship, a Pandemic and a Death Beside the Highway](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
+    ## [Double, Double, Trump’s Toil, Our Trouble](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
     
-    How a photograph of a young man cradling his dying friend sent me on
-    a journey across
-    India.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Basharat
-    Peer</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    George
-    Haddad</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/opinion/28oster/28oster-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [What Will Schools Do When a Teacher Gets Covid-19?](/2020/07/28/opinion/coronavirus-schools-reopening.html)
-    
-    Cases are inevitable. Schools need to plan
-    now.
+    Demon sperm meets alien D.N.A., as President Trump
+    teeters.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Emily
-    Oster</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christoph
-    Burgstedt/Science Photo Library, via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30iwasaki/30iwasaki-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Scared That Covid-19 Immunity Won’t Last? Don’t Be](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
-    
-    Dropping antibody counts aren’t a sign that our immune system is
-    failing against the coronavirus, nor an omen that we can’t develop a
-    viable
-    vaccine.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Akiko Iwasaki</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Ruslan
-    Medzhitov</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yawar
-    Nazir/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31Moyo/31Moyo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [3 Things to Make the World Immediately Better After Covid-19](/2020/07/31/opinion/coronavirus-economy.html)
-    
-    The crisis could be a catalyst for overhauling the economic world
-    order.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dambisa
-    Moyo</span></span>
-    
-    </div>
-
-3.  ### Roger Cohen
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ammar
-    Awad/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Less Impossible Israeli-Palestinian Peace](/2020/07/31/opinion/israeli-palestinian-peace.html)
-    
-    The two-state idea is comatose but not
-    dead.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Roger
-    Cohen</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-    Deal/Redux</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/00lewis/00lewis-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [John Lewis: Together, You Can Redeem the Soul of Our Nation](/2020/07/30/opinion/john-lewis-civil-rights-america.html)
-    
-    Though I may not be here with you, I urge you to answer the highest
-    calling of your heart and stand up for what you truly
-    believe.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Lewis</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brendan
-    Mcdermid/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Let’s End the Wait for Coronavirus Test Results. Here’s How.](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
-    
-    States should look to New York’s
-    strategies.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew M.
-    Cuomo</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maureen
+    Dowd</span></span>
     
     </div>
 
@@ -450,6 +458,173 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/opinion/letters/voting-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/world/09VIRUS-VOTINGLAWSUITS01-inyt/merlin_173278590_c52556cf-1848-4748-bdd6-dac02de7382b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## To Ensure That Our Election Is Fair and Open
+    
+    Readers urge vigilance against threats to the democratic
+    process.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/letters/virus-education.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/opinion/22green1/merlin_174805344_a9f138d7-63cb-4a6b-956c-ba8704fc3ec8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Do Learning Pods Endanger Equality?
+    
+    Readers discuss closed schools, pods and
+    inequities.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/01Voting/01Voting-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Voting by Mail Is Crucial for Democracy
+    
+    Especially amid the pandemic, it’s the surest path to a more
+    inclusive, more accurate and more secure election.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Double, Double, Trump’s Toil, Our Trouble
+    
+    Demon sperm meets alien D.N.A., as President Trump teeters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maureen
+    Dowd</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/02bruni/02bruni-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Go to College During a Pandemic
+    
+    Students at Minerva spend four years entirely online. Is this the
+    future of higher education?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frank
+    Bruni</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/opinion/letters/disability-law.html)
     
     <div class="css-79elbk">
@@ -478,7 +653,74 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31feds-promo2/31feds-promo2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Federal Agents Don’t Need Army Fatigues
+    
+    If you’re an officer of the law, dress like one. Leave the
+    soldiering to soldiers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/opinion/israeli-palestinian-peace.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Less Impossible Israeli-Palestinian Peace
+    
+    The two-state idea is comatose but not dead.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roger
+    Cohen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -511,7 +753,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -530,245 +772,9 @@ story](#after-mid1)
     ## Why the Virus Is Getting the Better of Us
     
     Readers outline the mistakes made that have caused new cases to soar
-    and suggest better
-    approaches.
+    and suggest better approaches.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/letters/trump-election.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30TRUMP-ANALYSIS/30TRUMP-ANALYSIS-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## So Trump Wants to Postpone the Election
-    
-    One reader views the floating of the idea as “a measure of how
-    desperate he is to stay in power.” Also: Maskless shoppers;
-    uncertain in
-    Australia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/john-lewis-trump-election-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John Lewis Was the Anti-Trump
-    
-    The president doesn’t seem to know what democracy is; the
-    congressman embodied it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/trump-nixon-authoritarianism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30JohnDean2/30JohnDean2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Has Been Comparing Himself to Nixon. That’s Hooey.
-    
-    The former president could only dream of wielding the police powers
-    Mr. Trump has seized for himself.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">John W.
-    Dean</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/john-lewis-legacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30lewis1/merlin_128348066_40469054-04f5-42bc-bfec-2928f224ab45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John Lewis Believed America Would Survive Trump
-    
-    He told us to keep the faith. It’s not easy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michelle
-    Goldberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/mitch-mcconnell-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/30econ/30econ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mitch McConnell Could Rescue Millions. What Is He Waiting For?
-    
-    The economy is in dire shape. Millions of Americans are about to
-    lose federal aid. The Senate is going on vacation.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/trump-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30krugmanWeb/30krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Nightmare on Pennsylvania Avenue
-    
-    Trump is the kind of boss who can’t do the job — and won’t go away.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul
-    Krugman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/biden-fdr.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30brooksWeb/30brooksWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Future of American Liberalism
-    
-    What Biden can learn from F.D.R.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David Brooks</span>
     
     </div>
     

@@ -55,8 +55,7 @@ Review](https://www.nytimes3xbfgragh.onion/section/opinion/sunday)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-sunday" class="section css-15h4p1b e9abtgs0">
 
@@ -152,6 +176,143 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/sunday-review/horse-crazy-nir-language.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/02nir-print/02nir-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">news analysis</span>
+    
+    ## To Break a Horse, and a Woman
+    
+    How do prey animals stay safe in a world out to get them? And how
+    would I?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Maslin
+    Nir</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/01Voting/01Voting-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Voting by Mail Is Crucial for Democracy
+    
+    Especially amid the pandemic, it’s the surest path to a more
+    inclusive, more accurate and more secure election.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Double, Double, Trump’s Toil, Our Trouble
+    
+    Demon sperm meets alien D.N.A., as President Trump teeters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maureen
+    Dowd</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/02bruni/02bruni-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Go to College During a Pandemic
+    
+    Students at Minerva spend four years entirely online. Is this the
+    future of higher education?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frank
+    Bruni</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
     
     <div class="css-79elbk">
@@ -180,163 +341,29 @@ story](#after-sponsor)
     
     </div>
 
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/opinion/sunday/republican-convention-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/opinion/25convention_virtual/25convention_virtual-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Pandemic Could Make Political Conventions Less Terrible
-    
-    The president did America a favor, in more ways than one, by
-    canceling much of this year’s Republican National Convention.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/opinion/sunday/abortion-racism-margaret-sanger.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/26douthat1/26douthat1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Ghost of Margaret Sanger
-    
-    Planned Parenthood and the complexities of anti-racism.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/opinion/sunday/trump-lies.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/sunday/26bruni/26bruni-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Donald Trump Is the Best Ever President in the History of the Cosmos
-    
-    That’s no more fantastical than the rest of his re-election
-    campaign.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Frank
-    Bruni</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/opinion/sunday/portland-protest-federal-troops.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/26kristof2/merlin_174823974_38af76d5-f3db-46e3-b9a6-01e3ec05bb9b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## In Portland’s So-Called War Zone, It’s the Troops Who Provide the Menace
-    
-    If President Trump is actually trying to establish order, he is
-    stunningly incompetent.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas
-    Kristof</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 6.  
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/opinion/sunday/portland-protests-white.html)
+    [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/25jackson1/merlin_174705171_8f925c80-a093-4aa2-80cb-c60cc9db99aa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Who Gets to Be a ‘Naked Athena’?
+    ## John Lewis Was the Anti-Trump
     
-    On weirdness, whiteness and federal agents in Portland.
+    The president doesn’t seem to know what democracy is; the
+    congressman embodied it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mitchell S.
-    Jackson</span>
+    By <span class="css-1n7hynb">Jamelle
+    Bouie</span>
     
     </div>
     
@@ -354,23 +381,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/opinion/sunday/aoc-yoho-trump-2020.html)
+    [](/2020/07/30/opinion/sunday/tech-congress-hearings-facebook.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/opinion/25dowd1/merlin_174871467_262be276-8ecc-4d40-bf98-66e9c5d37d40-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30OMara1-Sub/30OMara1-Sub-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A.O.C. and the Jurassic Jerks
+    ## The Last Days of the Tech Emperors?
     
-    For the Cave Man President and his party, clubbing women is not a
-    path to victory.
+    Congress was once filled with “Atari Democrats.” This week's
+    hearings showed their transformation into trust busters.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maureen
-    Dowd</span>
+    By <span class="css-1n7hynb">Margaret
+    O’Mara</span>
     
     </div>
     
@@ -388,23 +415,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/opinion/sunday/coronavirus-kids-school.html)
+    [](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/sunday/25opreaders-kids/25opreaders-kids-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/30collins1/30collins1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Online School Is Not the End of the World’
+    ## 100 Years of Voting Hasn’t Done What We Thought It Would
     
-    Students tell us how they feel about the prospect of returning to
-    the classroom.
+    The unfinished business of the women’s vote.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lora
-    Kelley</span>
+    By <span class="css-1n7hynb">Gail
+    Collins</span>
     
     </div>
     
@@ -422,22 +448,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/opinion/sunday/joe-biden-2020.html)
+    [](/2020/07/29/opinion/sunday/food-covid-quarantine-clay.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/sunday/26CottleCover/26CottleCover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/29Ackermann-06/29Ackermann-06-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Just How Far Will Joe Biden Go?
+    ### <span class="css-m70j1g">opinion</span>
     
-    He’s not listening to Twitter. So who does have the candidate’s ear?
+    ## I Cured My Pandemic Anxiety by Making Tiny Food Out of Clay
+    
+    The subtle pleasures of trying to make one small piece of the world
+    just right.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michelle
-    Cottle</span>
+    By <span class="css-1n7hynb">Rebecca
+    Ackermann</span>
     
     </div>
     
@@ -455,23 +484,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/sunday-review/reopening-schools-coronavirus.html)
+    [](/2020/07/27/opinion/sunday/coronavirus-medicine-blackness.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/sunday/26darville-print/26darville-print-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/opinion/27tweedy1/merlin_172498455_97141459-151b-48f8-951a-905b7791b1e5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">news analysis</span>
+    ## Medical Schools Have Historically Been Wrong on Race
     
-    ## Reopening Schools Is Way Harder Than It Should Be
-    
-    So is leaving them closed. Now what do we do?
+    While the blatant horrors of the past are gone, the ideas that
+    fueled race-based medicine stubbornly linger. We can change.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Darville</span>
+    By <span class="css-1n7hynb">Damon Tweedy</span>
     
     </div>
     

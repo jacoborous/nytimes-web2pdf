@@ -176,6 +176,110 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/world/middleeast/israel-Netanyahus-son-tweets.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02israel-netanyahu/02israel-netanyahu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Israeli Court Rebukes Prime Minister’s Son Over Harassing Protest Leaders
+    
+    Yair Netanyahu tweeted the addresses and phone numbers of three men
+    who led protests against his father’s administration. All three said
+    they later received death threats.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam
+    Rasgon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/world/middleeast/uae-nuclear-Barakah.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01uae-nuclear/01uae-nuclear-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.A.E. Becomes First Arab Nation to Open a Nuclear Power Plant
+    
+    The launch is raising concerns about the growing number of nuclear
+    programs in the volatile Middle East.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Vivian
+    Yee</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/world/middleeast/iran-jamshid-sharmahd-arrested-kingdom-assembly.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01iran/01iran-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Iran Says It Detained Leader of California-Based Exile Group
+    
+    The detained man, Jamshid Sharmahd of the Kingdom Assembly of Iran,
+    is accused of planning attacks on Iran, including a 2008 one that
+    killed 14 and injured 200.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/world/middleeast/100000007268443/iran-united-states-nuclear-program-negotiation.html)
     
     <div class="css-79elbk">
@@ -207,7 +311,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +347,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -278,7 +382,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +418,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -324,7 +428,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30dc-missile/merlin_169431351_f193efcd-892c-48e5-af70-d8f474fcb776-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-missile-print/merlin_169431351_f193efcd-892c-48e5-af70-d8f474fcb776-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -350,7 +454,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +488,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -406,113 +510,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Vivian
-    Yee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/middleeast/darfur-sudan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28darfur/merlin_174229890_2075153e-3d25-422a-b09e-9fd8a5165e02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Dictator Who Waged War on Darfur Is Gone, but the Killing Goes On
-    
-    The ouster of Sudan’s longtime ruler last year stoked hopes for
-    peace in brutalized Darfur. But violence has surged amid fresh
-    accusations against Sudan’s security forces.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Declan
-    Walsh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/sports/soccer/paris-fc-bahrain.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/sports/29soccer-paris1/29soccer-paris1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bahrain Buys Into Paris F.C., With Plans to Use It as a Billboard
-    
-    The kingdom’s investment has made it the latest Gulf country to try
-    to improve its nation’s image by attaching it to a European soccer
-    club.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tariq
-    Panja</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/world/middleeast/west-bank-protest-activists.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28westbank/28westbank-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Palestinians, Slammed for Suppressing Dissent, Free Protest Organizers
-    
-    The activists, charged with violating coronavirus regulations
-    forbidding mass gatherings, were released on bail after being held
-    for a week.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam Rasgon <span>and</span> Mohammed
-    Najib</span>
+    By <span class="css-1n7hynb">Vivian Yee</span>
     
     </div>
     

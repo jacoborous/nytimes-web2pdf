@@ -234,7 +234,7 @@ Advertisers
 
 </div>
 
-<div id="g-ai0-4" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:16.5537%;margin-top:-14.4px;right:94.182%;width:55px;">
+<div id="g-ai0-4" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:16.5537%;margin-top:-14.4px;right:93.6819%;width:55px;">
 
 $15
 
@@ -242,19 +242,19 @@ million
 
 </div>
 
-<div id="g-ai0-5" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:39.954%;margin-top:-7.2px;right:94.0916%;width:36px;">
+<div id="g-ai0-5" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:39.954%;margin-top:-7.2px;right:93.5916%;width:36px;">
 
 10
 
 </div>
 
-<div id="g-ai0-6" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:63.4286%;margin-top:-7.2px;right:94.11%;width:29px;">
+<div id="g-ai0-6" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:63.4286%;margin-top:-7.2px;right:93.6099%;width:29px;">
 
 5
 
 </div>
 
-<div id="g-ai0-7" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:86.9031%;margin-top:-7.2px;right:94.1249%;width:29px;">
+<div id="g-ai0-7" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:86.9031%;margin-top:-7.2px;right:93.6248%;width:29px;">
 
 0
 
@@ -335,7 +335,7 @@ Spenders
 
 </div>
 
-<div id="g-ai1-4" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:44.6421%;margin-top:-13.3px;right:91.0491%;width:52px;">
+<div id="g-ai1-4" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:44.6421%;margin-top:-13.3px;right:89.5537%;width:52px;">
 
 $10
 
@@ -343,37 +343,37 @@ million
 
 </div>
 
-<div id="g-ai1-5" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:67.0466%;margin-top:-6.7px;right:91.0285%;width:28px;">
+<div id="g-ai1-5" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:67.0466%;margin-top:-6.7px;right:89.5356%;width:28px;">
 
 5
 
 </div>
 
-<div id="g-ai1-6" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:85.2669%;margin-top:-14.7px;right:91.0325%;width:28px;">
+<div id="g-ai1-6" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:85.2669%;margin-top:-14.7px;right:89.5397%;width:28px;">
 
 0
 
 </div>
 
-<div id="g-ai1-7" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:36.0083%;width:44px;">
+<div id="g-ai1-7" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:37.1%;width:44px;">
 
 MAR
 
 </div>
 
-<div id="g-ai1-8" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:62.0216%;width:43px;">
+<div id="g-ai1-8" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:62.6793%;width:43px;">
 
 MAY
 
 </div>
 
-<div id="g-ai1-9" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:88.0364%;width:45px;">
+<div id="g-ai1-9" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:88.2588%;width:45px;">
 
 JULY
 
 </div>
 
-<div id="g-ai1-10" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:10.4478%;width:40px;">
+<div id="g-ai1-10" class="g-Layer_4 g-aiAbs g-aiPointText" style="top:94.7144%;margin-top:-14.7px;left:11.9403%;width:40px;">
 
 JAN
 
@@ -509,8 +509,9 @@ congressional
 hearing](https://www.nytimes3xbfgragh.onion/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html)
 this past week and in [repeated
 meetings](https://www.nytimes3xbfgragh.onion/2020/06/23/business/media/facebook-ad-boycott.html)
-between ad industry representatives and Facebook leaders. In the face of
-the pressure, Facebook released the results of [a civil rights
+between ad industry representatives and Facebook leaders. Facebook,
+which said it is working with industry groups like the Global Alliance
+for Responsible Media, released the results of [a civil rights
 audit](https://www.nytimes3xbfgragh.onion/2020/07/08/technology/facebook-civil-rights-audit.html)
 last month and agreed to hire [a civil rights
 executive](https://www.nytimes3xbfgragh.onion/2020/07/07/technology/facebook-ad-boycott-civil-rights.html).

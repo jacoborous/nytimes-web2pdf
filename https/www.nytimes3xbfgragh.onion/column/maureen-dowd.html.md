@@ -211,7 +211,7 @@ and others. Her column appears every Sunday.
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/columnists/trump-coronavirus-herman-cain.html)
+    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
     
     <div class="css-79elbk">
     

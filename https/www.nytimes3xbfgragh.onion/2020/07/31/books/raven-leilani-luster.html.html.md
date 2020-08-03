@@ -114,7 +114,7 @@ Leilani in Brooklyn. For the protagonist of her book, “Luster,” she
 said, “I didn’t want her to be a pristine, neatly moral
 character.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Miranda
 Barnes for The New York
-Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/28Leilani2/merlin_174680631_f882380e-9e51-4c9f-8118-b556736003c8-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/28Leilani2/28Leilani2-articleLarge-v4.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

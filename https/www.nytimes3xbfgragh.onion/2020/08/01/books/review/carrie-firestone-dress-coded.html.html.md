@@ -247,8 +247,8 @@ Mathieu</span>
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">12:51 p.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

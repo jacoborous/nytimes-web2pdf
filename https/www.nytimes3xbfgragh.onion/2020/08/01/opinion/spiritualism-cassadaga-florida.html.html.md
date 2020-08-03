@@ -182,7 +182,7 @@ Ms. Gerard is a novelist.
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -1139,11 +1139,11 @@ Pat.
 
 **X. START BELIEVING THE STORIES**
 
-The Rev. Lori Carter was the camp’s volunteer P.R. director and had been
-my invisible guide over these last three days in Cassadaga. She lived
-steps away from the bookstore, on the first floor of Harmony Hall. I had
-scheduled a reading with her, and was planning to ask her to bless a
-deck of tarot cards I had bought recently. I asked her if she had any
+Lori Carter was the camp’s volunteer P.R. director and a medium, and had
+been my invisible guide over these last three days in Cassadaga. She
+lived steps away from the bookstore, on the first floor of Harmony Hall.
+I had scheduled a reading with her, and was planning to ask her to bless
+a deck of tarot cards I had bought recently. I asked her if she had any
 experience with them, and she told me that she kept a deck in her car
 for personal use, but that the certified psychics of Cassadaga were
 trained not to need tools.

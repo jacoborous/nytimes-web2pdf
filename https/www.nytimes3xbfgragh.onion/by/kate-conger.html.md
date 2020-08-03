@@ -166,6 +166,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
+    <span>and</span> Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/technology/twitter-hack-arrest.html)
     
     <div class="css-79elbk">
@@ -195,7 +231,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -229,7 +265,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -265,7 +301,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -300,7 +336,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -335,7 +371,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -371,7 +407,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -407,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -442,7 +478,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -466,40 +502,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Nathaniel Popper <span>and</span> Kate
     Conger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/technology/twitter-hack-investigation.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/business/16twitter/16twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Twitter Struggles to Unpack a Hack Within Its Walls
-    
-    Even some basic questions about how an array of Twitter’s most
-    popular accounts were taken over remain unanswered.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Sheera Frenkel
-    <span>and</span> Kate Conger</span>
     
     </div>
     

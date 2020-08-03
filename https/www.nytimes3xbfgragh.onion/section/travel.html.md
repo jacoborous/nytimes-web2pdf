@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-travel" class="section css-15h4p1b e9abtgs0">
 
@@ -591,6 +615,40 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Stay Safer on Mass Transit
+    
+    Timing your trip strategically, using contactless payments and not
+    eating onboard are some of the things to keep in mind.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katherine
+    Cusumano</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/style/randonautica-app.html)
     
     <div class="css-79elbk">
@@ -620,7 +678,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -651,7 +709,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -685,7 +743,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -722,7 +780,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -757,7 +815,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -791,7 +849,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -825,7 +883,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -860,7 +918,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -882,42 +940,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Niraj
-    Chokshi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/26/us/hurricane-douglas-hawaii.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26xp-douglas-pix/26xp-douglas-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hurricane Douglas Grazes Hawaiian Islands With Strong Winds and Rain
-    
-    Forecasters predicted three to six inches of rain on the main
-    islands, possibly contributing to flash flooding and landslides.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryan Pietsch <span>and</span>
-    Christina Morales</span>
+    By <span class="css-1n7hynb">Niraj Chokshi</span>
     
     </div>
     

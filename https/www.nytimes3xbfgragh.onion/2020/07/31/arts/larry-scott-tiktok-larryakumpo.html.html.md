@@ -209,7 +209,7 @@ TikTok experience … nice.
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Larry
 Scott’s TikTok videos are maybe the most calming thing on the internet
 and, on some days, maybe the only calming thing on the
-internet.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31akumpo1/31akumpo1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+internet.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31akumpo1/31akumpo1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

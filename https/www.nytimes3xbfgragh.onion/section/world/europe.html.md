@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-europe" class="section css-15h4p1b e9abtgs0">
 
@@ -176,6 +152,179 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/briefing/vaccine-race-donald-trump-spacex.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03ambriefing-europe-promo/03ambriefing-europe-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Your Monday Briefing
+    
+    Vaccine race, Donald Trump, SpaceX: Here’s what you need to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabella
+    Kwai</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/europe/russia-trials-vaccine-October.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/00russia-vaccine01/00russia-vaccine01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Russia Sets Mass Vaccination for October After Shortened Trial
+    
+    The announcement raised concerns that Russia would begin
+    inoculations and declare victory in the race for a coronavirus
+    vaccine without fully testing its product.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Andrew E.
+    Kramer</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/snooker-world-championship.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.
+    
+    The world snooker championship welcomed spectators last week, part
+    of a pilot program that offered hope to other events eager to follow
+    suit. A few hours later, the government pulled the plug.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Crouse</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/europe/genoa-Morandi-bridge-replacement.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03genoa-new-bridge-sub2/03genoa-new-bridge-sub2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## As Genoa Inaugurates New Bridge, the Feeling Is Bittersweet
+    
+    Built in less than two years to replace the collapsed Morandi
+    bridge, the new span is already a point of pride for Italy. But
+    residents fear it will not be enough to revive their aging port
+    city.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gaia
+    Pianigiani</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/europe/uk-conservative-lawmaker-arrest.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02uk-rape01/02uk-rape01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Conservative U.K. Lawmaker Is Arrested Over Rape Accusations
+    
+    The arrest of the lawmaker, who has not been publicly identified,
+    poses problems for the government of Prime Minister Boris Johnson.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Benjamin
+    Mueller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
     
     <div class="css-79elbk">
@@ -208,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +392,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -278,13 +427,13 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/russia-moscow-coronaviru.html)
+    [](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
     
     <div class="css-79elbk">
     
@@ -315,7 +464,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -337,183 +486,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tariq
-    Panja</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31heatwave/merlin_175001865_05582ad2-bf6c-4d4f-acee-82bf1880bac9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Scorching Temperatures Bake Middle East Amid Eid al-Adha Celebrations
-    
-    Record high temperatures were recorded in Baghdad and Damascus, and
-    experts warned of the effects of prolonged heat waves as the planet
-    warms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Falih Hassan <span>and</span> Elian
-    Peltier</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/soccer/soccer-baseball.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/sports/31rorynewsletter-cheslea/merlin_174969222_6eca17f3-ef34-4a6b-85a3-ecbaeeabbd63-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Rory Smith On Soccer</span>
-    
-    ## Embracing the Value in Scarcity
-    
-    Major League Baseball is busy worrying that a 60-game season is not
-    long enough. But that hand-wringing might offer an insight into why
-    elite soccer is such a global phenomenon.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rory
-    Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/europe/italy-coronavirus-reopening.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/31virus-italy/31virus-italy-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Italy Turned Around Its Coronavirus Calamity
-    
-    After a stumbling start, the country has gone from being a global
-    pariah to a model — however imperfect — of viral containment that
-    holds lessons for its neighbors and for the United States.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason
-    Horowitz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31phillipson1/31phillipson1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## An Artist Having Fun While Waiting for Catastrophe
-    
-    Heather Phillipson’s works make viewers smile, but underneath their
-    bright, over-the-top exteriors are dark, urgent messages.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alex
-    Marshall</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29uk-biden/29uk-biden-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.K. Officials’ New Trump Dilemma: What if He Loses?
-    
-    If Joe Biden wins the November election, Britain would face a
-    president who opposed Brexit, would look out for Ireland, and may
-    have little interest in a trade deal.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mark Landler</span>
+    By <span class="css-1n7hynb">Tariq Panja</span>
     
     </div>
     

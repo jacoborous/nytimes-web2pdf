@@ -176,6 +176,155 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/world/americas/guyana-president-ali-oil.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02guyana/merlin_169986186_c1231a6a-b3e4-45de-8a61-b70ca5d3e8b3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Guyana Swears In New Leader, Resolving Struggle Over Oil Wealth
+    
+    Mohamed Irfaan Ali will manage the flow of billions in new oil
+    revenues, which are reshaping the small South American country and
+    heightened a standoff after elections in March.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nafeeza Yahya-Sakur <span>and</span>
+    Anatoly
+    Kurmanaev</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/americas/mexico-el-marro-capture.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02mexico2/merlin_170327064_c214ce7c-82c0-4a6b-ab03-3dc20289260d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence
+    
+    While the arrest of José Antonio Yépez delivers a major blow to a
+    cartel, analysts say officials lack a cohesive strategy against
+    debilitating crime.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Azam
+    Ahmed</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/americas/mexico-tv-virus-telenovela.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/world/00mexico-melodrama/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Less Sex, More Viewers: Pandemic Boosts Mexico’s Flagging Telenovelas
+    
+    Dismissed as too old-fashioned to compete with streaming services,
+    the melodramas have seen viewership surge from Mexicans seeking the
+    familiar in a distressing time.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Natalie Kitroeff</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71
+    
+    A singer, songwriter and producer, Mr. Víctor also worked to bring
+    theater, music and dance lessons to underprivileged communities. He
+    died of Covid-19.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sandra E.
+    Garcia</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
     
     <div class="css-79elbk">
@@ -206,7 +355,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -241,7 +390,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +426,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -313,7 +462,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -350,7 +499,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -370,154 +519,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Joshua Rapp
-    Learn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/canada/justin-trudeau-we-charity.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/30trudeau4/merlin_175124229_55283d52-744e-4720-8333-ab6448f70f57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Cool Trudeau Rebuffs Conflict Charges. Will Canadians Buy His Story?
-    
-    There was no corruption, just a government working to save lives
-    during a pandemic. That’s the message the prime minister delivered
-    to skeptical lawmakers, and to Canadians.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catherine
-    Porter</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/world/americas/lead-poisoning-children.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29children-leadpoisoning/29children-leadpoisoning-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## One in Three Children Have Unacceptably High Lead Levels, Study Says
-    
-    “Children around the world are being poisoned by lead on a massive
-    and previously unrecognized scale,” according to the study, a
-    collaboration of UNICEF and Pure Earth, an advocacy group.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rick
-    Gladstone</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/world/americas/united-nations-portland-protests.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29un-protest/merlin_174823956_d754649b-e487-4dcd-968a-ea82b04851fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.N. Panel Takes Aim at Heavy-Handed Police Tactics at Protests
-    
-    The comments by the United Nations Human Rights Committee come as
-    the Trump administration faces growing criticism for deploying
-    federal agents to confront Black Lives Matter protesters.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nick
-    Cumming-Bruce</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/world/americas/latin-america-democracy-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00latam-top/00latam-top-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Latin America Is Facing a ‘Decline of Democracy’ Under the Pandemic
-    
-    The coronavirus is battering Latin American health systems and
-    economies. It is also threatening the region’s fragile political
-    freedoms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Anatoly Kurmanaev</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/07/29/espanol/america-latina/democracia-america-latina-pandemia.html "Read in Spanish")
+    By <span class="css-1n7hynb">Joshua Rapp Learn</span>
     
     </div>
     

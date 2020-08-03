@@ -745,7 +745,7 @@ situation worse.
 Many of those federal agents aren’t easily recognizable as law
 enforcement officials, nor do they act like them. Even the [military is
 concerned](https://www.washingtonpost.com/national-security/2020/07/22/cbp-military-camouflage-uniforms/)
-about the public confusion sewn into society when heavily armed federal
+about the public confusion sown into society when heavily armed federal
 agents dress like soldiers. All the more reason that the federal agents
 on the streets of American cities be required to wear uniforms that
 clearly identify themselves and their civilian agency.

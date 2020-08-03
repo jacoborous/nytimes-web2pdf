@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-science" class="section css-15h4p1b e9abtgs0">
 
@@ -140,23 +164,23 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/EPA,
-    via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
+    Ingalls/NASA, via Agence France-Presse \&mdash; Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts01/01sci-astronauts01-thumbStandard.jpg)](/2020/08/01/science/nasa-spacex-astronauts.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbStandard.jpg)](/2020/08/02/science/spacex-astronauts-splashdown.html)
     
     </div>
     
-    ## [SpaceX Crew Dragon to Bring 2 NASA Astronauts Home](/2020/08/01/science/nasa-spacex-astronauts.html)
+    ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
     
-    Bob Behnken and Doug Hurley are getting ready to splash down after
-    two months in
-    orbit.
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since
+    1975.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kenneth
@@ -164,31 +188,55 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
-    Raff for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/Nasa
+    Via
+    Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbStandard.jpg)](/2020/08/01/science/Covid-bats.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbStandard.jpg)](/2020/08/02/science/spacex-nasa-return.html)
     
     </div>
     
-    ## [Can Humans Give Coronavirus to Bats, and Other Wildlife?](/2020/08/01/science/Covid-bats.html)
+    ## [NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975](/2020/08/02/science/spacex-nasa-return.html)
     
-    Federal agencies suggest caution in U.S. bat research to avoid
-    transmitting the novel coronavirus to
-    wildlife.
+    Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf of
+    Mexico in the Crew Dragon
+    spacecraft.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Gorman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
+    Chang</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
+        Raff for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Can Humans Give Coronavirus to Bats, and Other Wildlife?](/2020/08/01/science/Covid-bats.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbStandard.jpg)](/2020/08/01/science/Covid-bats.html)
+        
+        </div>
+        
+        Federal agencies suggest caution in U.S. bat research to avoid
+        transmitting the novel coronavirus to
+        wildlife.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">James
+        Gorman</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
         Sorokin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
@@ -211,29 +259,6 @@ Outbreak](/news-event/coronavirus)
         Lockwood</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-        Warner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Lizard Popsicles, Anyone?](/2020/07/31/science/lizards-liolaemus-argentina.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-thumbStandard.jpg)](/2020/07/31/science/lizards-liolaemus-argentina.html)
-        
-        </div>
-        
-        The coolest reptiles on the planet occasionally freeze
-        solid.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joshua
-        Rapp
-    Learn</span></span>
-        
-        </div>
 
 </div>
 
@@ -241,7 +266,23 @@ Outbreak](/news-event/coronavirus)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Trilobites
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Warner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Lizard Popsicles, Anyone?](/2020/07/31/science/lizards-liolaemus-argentina.html)
+    
+    The coolest reptiles on the planet occasionally freeze
+    solid.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joshua Rapp
+    Learn</span></span>
+    
+    </div>
+
+2.  ### Trilobites
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artokoloro,
     via
@@ -261,7 +302,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
     A.
     Widder</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/science/30TB-ANGLERFISH1/30TB-ANGLERFISH1-videoLarge.jpg)
     
@@ -279,7 +320,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
@@ -295,7 +336,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
     Webster/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
     
@@ -311,24 +352,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Franz
     Lidz</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/University
-    of
-    Arizona</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARS-JEZERO1/merlin_175006794_4356ac65-099d-47d0-aa04-33516549667b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How NASA Found the Ideal Hole on Mars to Land In](/2020/07/28/science/nasa-jezero-perseverance.html)
-    
-    Jezero crater, the destination of the Perseverance rover, is a
-    promising place to look for evidence of extinct Martian
-    life.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-    Chang</span></span>
     
     </div>
 
@@ -356,6 +379,102 @@ story](#after-mid1)
 <div id="after-mid1">
 
 </div>
+
+</div>
+
+<div class="section 5-band css-jhqenn ep7jkp60">
+
+## [Trilobites](/column/trilobites)
+
+[More in Trilobites
+    »](/column/trilobites)
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirsten
+    Fisher</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/00SCI-MOSS3/00SCI-MOSS3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [This Moss Uses Quartz as a Parasol](/2020/07/29/science/moss-quartz-biology-syntrichia.html)
+    
+    In the Mojave Desert, a translucent crystal offers bryophytes
+    much-needed respite from the heat of the
+    sun.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sabrina
+    Imbler</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
+    Bailey/VWPics/Universal Images Group, via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Can Trees Live Forever? New Kindling for an Immortal Debate](/2020/07/27/science/trees-immortality.html)
+    
+    Some trees can live for thousands of years, but we may not be around
+    long enough to really know whether they can die of old
+    age.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Cara
+    Giaimo</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+    Hawkins/Nature Picture Library, via
+    Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/21TB-BATS/21TB-BATS-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Vampire Bats Self-Isolate, Too](/2020/07/22/science/vampire-bats-viruses.html)
+    
+    When these mammals are ill, they have fewer interactions with family
+    and friends, a new study suggests. “It’s like us,” said one
+    researcher.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Waldstein</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Nature’s Noisiest Liars Carry Secrets in Their Calls](/2020/07/21/science/mammals-vocal-learning.html)
+    
+    Many mammals that have loud calls to deceive other animals seem to
+    have a particular learning style in
+    common.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joshua
+    Sokol</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karen
+    Osborn,
+    Smithsonian</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/16TB-ULTRABLACKFISH1/16TB-ULTRABLACKFISH1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Ultra-Black Fish Disappear in the Deepest Seas](/2020/07/16/science/ultra-black-fish.html)
+    
+    Researchers have found fish that absorb more than 99.9 percent of
+    the light that hits their
+    skin.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
 
 </div>
 
@@ -388,19 +507,88 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/coronavirus-covid-19.html)
+    [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: $600-a-Week Lifeline for Jobless Expires as Officials Convene on Capitol Hill
+    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
     
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the
-    Midwest.
+    “We need to do a better job next time” of securing the area, the
+    NASA administrator, Jim Bridenstine, said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
+    Waller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/health/dr-birx-coronavirus-phase.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Birx Says U.S. Epidemic Is in a ‘New Phase’
+    
+    She and other top health officials in the Trump administration warn
+    states of a deepening spread of the coronavirus, in both rural and
+    urban areas.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Benedict
+    Carey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/coronavirus-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Birx Warns That U.S. Epidemic Is in a ‘New Phase’
+    
+    College are preparing to welcome students back to a complicated
+    campus setting. India’s home minister tests
+    positive.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -414,7 +602,109 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    
+    Her near-total face transplant in 2008 was the most complex at the
+    time. She was the fourth patient in the world to undergo such a
+    procedure.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bryan
+    Pietsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/science/nasa-spacex-astronauts.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
+    
+    Bob Behnken and Doug Hurley are getting ready to splash down after
+    two months in orbit.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/world/coronavirus-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
+    
+    Thousands in Berlin protest Germany’s coronavirus measures. The
+    virus is picking up speed in the Midwest. A summer camp in Georgia
+    apologizes for hosting a retreat after hundreds who attended were
+    infected.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +738,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -483,7 +773,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -520,7 +810,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -541,188 +831,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maria
-    Cramer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A $600-a-Week Lifeline for Unemployed Americans Expires After an Impasse in Washington
-    
-    California became the first state to reach 500,000 total coronavirus
-    cases. Once the site of a major outbreak, Italy now offers lessons
-    for keeping the virus in
-    check.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/health/covid-contact-tracing-tests.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Contact Tracing Is Failing in Many States. Here’s Why.
-    
-    Inadequate testing and protracted delays in producing results have
-    crippled tracking and hampered efforts to contain major outbreaks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jennifer Steinhauer <span>and</span>
-    Abby
-    Goodnough</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/health/coronavirus-children.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Children May Carry Coronavirus at High Levels, Study Finds
-    
-    The research does not prove that infected children are contagious,
-    but it should influence the debate about reopening schools, some
-    experts said.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/climate/sea-level-inland-floods.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Rising Seas Could Menace Millions Beyond Shorelines, Study Finds
-    
-    As climate change raises sea levels, storm surges and high tides
-    will push farther inland, a team of researchers says.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Brad
-    Plumer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/climate/bangladesh-floods.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Inequity at the boiling point</span>
-    
-    ## A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.
-    
-    The country’s latest calamity illustrates a striking inequity of our
-    time: The people least responsible for climate change are among
-    those most hurt by its consequences.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Somini Sengupta <span>and</span>
-    Julfikar Ali Manik</span>
+    By <span class="css-1n7hynb">Maria Cramer</span>
     
     </div>
     

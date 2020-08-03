@@ -383,6 +383,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/business/mortgages-affordable-housing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31smallmortgages1/merlin_174909417_6801b90c-d375-4a5d-b3af-ca9f1e0da20e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Where a Little Mortgage Goes a Long Way
+    
+    Affordable homes can be hard to buy because lenders don’t make much
+    money on small loans. But programs to encourage homeownership can
+    help buyers build wealth.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
     
     <div class="css-79elbk">
@@ -412,7 +447,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +483,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -482,7 +517,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -516,7 +551,44 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Feature</span>
+    
+    ## Pollution Is Killing Black Americans. This Community Fought Back.
+    
+    African-Americans are 75 percent more likely than others to live
+    near facilities that produce hazardous waste. Can a grass-roots
+    environmental-justice movement make a difference?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Linda
+    Villarosa</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -553,7 +625,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -589,7 +661,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -624,7 +696,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -646,79 +718,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marie
-    Fazio</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/us/storms-douglas-hanna-gonzalo.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/us/politics/25xp-storm-douglas/merlin_174949353_e9901bc2-490b-4188-a4b5-0ec535e7e2b4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 3 Storms Churn Across the Atlantic and Pacific Oceans
-    
-    Hurricane Douglas is headed for Hawaii and Hurricane Hanna made
-    landfall in Texas on Saturday. Gonzalo was downgraded to a tropical
-    depression, forecasters said.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Derrick Bryson
-    Taylor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/us/climate-change-green-new-deal-covid-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/23ihw-wright/23ihw-wright-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">In Her Words</span>
-    
-    ## How Covid-19 Made it Easier to Talk About Climate Change
-    
-    Rhiana Gunn-Wright, a climate policy director and architect of the
-    Green New Deal, explains the connections between the pandemic and
-    the climate crisis.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emma Goldberg</span>
+    By <span class="css-1n7hynb">Marie Fazio</span>
     
     </div>
     

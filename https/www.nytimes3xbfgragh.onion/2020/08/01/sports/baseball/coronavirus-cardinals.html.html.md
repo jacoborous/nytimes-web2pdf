@@ -82,8 +82,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Baseball](/section/sports/baseball)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Another
-Game Postponed With 4 More Coronavirus Cases for
+<span class="css-17xtcya">[Baseball](/section/sports/baseball)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">More
+Games Postponed With 4 More Coronavirus Cases for
 Cardinals</span>
 
 </div>
@@ -189,13 +189,13 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Another Game Postponed With 4 More Coronavirus Cases for Cardinals
+# More Games Postponed With 4 More Coronavirus Cases for Cardinals
 
 </div>
 
 Three staffers and one player for the St. Louis Cardinals tested
 positive for the virus, prompting the postponement of a game Saturday
-against the Brewers in Milwaukee.
+and a doubleheader Sunday against the Brewers in Milwaukee.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -234,8 +234,8 @@ Kepner</span>](https://www.nytimes3xbfgragh.onion/by/tyler-kepner)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">1:07 p.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -243,7 +243,7 @@ Kepner</span>](https://www.nytimes3xbfgragh.onion/by/tyler-kepner)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -273,13 +273,16 @@ Kepner</span>](https://www.nytimes3xbfgragh.onion/by/tyler-kepner)
 Major League Baseball’s sputtering effort to play in a pandemic took
 another discouraging turn on Saturday when one St. Louis Cardinals
 player and three team staffers tested positive for the coronavirus,
-forcing the postponement of their game in Milwaukee [for the second day
-in a
-row](https://www.nytimes3xbfgragh.onion/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html).
+forcing [the postponement of their weekend series in
+Milwaukee](https://www.nytimes3xbfgragh.onion/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html).
 
-The test results and the postponement were confirmed by two people with
-direct knowledge who were not authorized to comment because M.L.B. had
-not made an official announcement.
+After deciding earlier Saturday to postpone the game for that night,
+M.L.B. announced several hours later that it had called off the Sunday
+doubleheader, meaning that the teams will not play any games in their
+series unless they can be made up elsewhere during the densely scheduled
+60-game season. The Cardinals’ Monday game in Detroit was also
+postponed, but the league said it would be made up as part of a
+doubleheader later in the week.
 
 The Cardinals, who also had two players receive positive tests on
 Friday, now have six positives in their traveling party and have become
@@ -287,7 +290,7 @@ the second team, with the Miami Marlins, to experience an outbreak less
 than two weeks into the truncated M.L.B. season. The Marlins have had 20
 people, including 18 players, test positive since last Sunday.
 
-With another Cardinals-Brewers postponement, six teams — comprising 20
+With the Cardinals-Brewers postponements, six teams — comprising 20
 percent of the league — have been shut down this weekend for reasons
 related to the virus. [The
 Marlins](https://www.nytimes3xbfgragh.onion/2020/07/28/sports/baseball/marlins-outbreak-mlb-coronavirus.html)
@@ -306,11 +309,12 @@ the Toronto Blue Jays, have also been off.
 
 <div class="css-53u6y8">
 
-The Phillies have had two positive tests (a coach and a clubhouse
-staffer) since playing the Marlins, but announced Saturday that they had
-no new positives for the second day in a row. They are scheduled — for
-now — to play the Yankees for four games this week, but the Marlins are
-paused indefinitely.
+The Phillies are scheduled for now to play the Yankees for four games
+this week, and M.L.B. said Saturday that the Marlins would play a
+four-game series with the Orioles in Baltimore starting Tuesday. The
+league also said that two of three cases among Phillies staffers were
+likely false positives, a welcome sign along with no Philadelphia
+players testing positive since playing the Marlins.
 
 The Marlins’ personnel who tested positive embarked on a bus trip from
 Philadelphia to Miami on Friday as the team scrambles to make trades and

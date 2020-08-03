@@ -186,6 +186,113 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
+    <span>and</span> Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/media/election-coverage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The media equation</span>
+    
+    ## How the Media Could Get the Election Story Wrong
+    
+    We may not know the results for days, and maybe weeks. So it’s time
+    to rethink “election night.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Smith</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    
+    Some retailers are turning to popular social media personalities to
+    detail post-pandemic protocols and boost the allure of visiting
+    their stores.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sapna
+    Maheshwari</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/business/media/facebook-boycott.html)
     
     <div class="css-79elbk">
@@ -215,7 +322,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -250,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +391,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -318,7 +425,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -354,7 +461,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -389,7 +496,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -413,109 +520,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shawn
-    McCreesh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/business/media/ellen-degeneres-apologizes.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30ELLEN-PRODUCER-01/30ELLEN-PRODUCER-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Ellen DeGeneres Apologizes to Staff Members as WarnerMedia Investigates Show
-    
-    The longtime host acknowledged that her talk show’s workplace was
-    not “a place of happiness” and vowed to take a more hands-on role.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicole
-    Sperling</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/business/media/oprah-magazine-breonna-taylor-cover.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/30Oprah-Mag-01/30Oprah-Mag-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Oprah Magazine Features Breonna Taylor on the Cover
-    
-    To highlight racism and police violence, O: The Oprah Magazine gives
-    its cover to someone other than its founder for the first time.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Marc
-    Tracy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/00eutech/00eutech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power
-    
-    The region’s lawmakers and regulators are taking direct aim at
-    Amazon, Facebook, Google and Apple in a series of proposed laws.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam Satariano</span>
+    By <span class="css-1n7hynb">Shawn McCreesh</span>
     
     </div>
     

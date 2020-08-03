@@ -186,6 +186,110 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    
+    The announcement came after the company consulted with President
+    Trump, who has threatened to ban the app and expressed national
+    security concerns about it in recent weeks.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    
+    Negotiators acknowledged some progress over the weekend, but said
+    they remained far apart on a number of issues.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
+    
+    Millions of dollars of Paycheck Protection Program loans went to
+    China-backed businesses in critical sectors, a study found.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
     
     <div class="css-79elbk">
@@ -214,7 +318,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +353,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +388,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -318,7 +422,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -352,7 +456,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -387,7 +491,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -410,112 +514,7 @@ story](#after-sponsor)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Patricia Cohen, Ben Casselman
-    <span>and</span> Gillian
-    Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/federal-reserve-meeting-interest-rates.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29DC-Fed-01/29DC-Fed-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Federal Reserve Leaves Rates Near Zero as Economic Recovery Sputters
-    
-    Federal Reserve officials made clear that they will work to bolster
-    the economy as the pandemic hurts business activity and the job
-    market.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeanna
-    Smialek</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29ceopay1/29ceopay1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little
-    
-    Some corporate bosses offered to cut their pay, but most did not.
-    Those who did gave up less than 10 percent of what they received
-    last year.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Peter
-    Eavis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/coronavirus-masks-stores-walmart.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30virus-retailmasks-sub/28virus-retailmasks-sub-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Wrinkle in Stores’ Mask Policies: Enforcement
-    
-    A number of large retailers have said that all customers must wear
-    masks, but some employees have been told they cannot force those who
-    refuse.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Corkery</span>
+    <span>and</span> Gillian Friedman</span>
     
     </div>
     

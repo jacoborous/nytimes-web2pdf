@@ -55,7 +55,8 @@ Tech](https://www.nytimes3xbfgragh.onion/section/technology/personaltech)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ Tech](https://www.nytimes3xbfgragh.onion/section/technology/personaltech)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-personaltech" class="section css-15h4p1b e9abtgs0">
 
@@ -484,7 +460,25 @@ story](#after-mid1)
 [More in Technology
     »](/section/technology)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
+    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Kellen
+    Browning</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
     Bureau/Agence France-Presse — Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
     
@@ -503,59 +497,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](/2020/07/31/technology/twitter-hack-arrest.html)
-    
-    The authorities arrested a 17-year-old who they said ran a scheme
-    that targeted the accounts of celebrities, including former
-    President Barack Obama and Elon Musk. Two others were also
-    charged.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
-    Popper</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Hey, You Free on Friday for a Meeting and a Bank Heist?’](/2020/07/31/business/video-game-meetings.html)
-    
-    Eager for an alternative to Zoom, executives are getting together in
-    video games, to bond, brainstorm or
-    rampage.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Segal</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenny
-    Brandenberger</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech/31ontech-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Amazon Wins Without Even Trying](/2020/07/31/technology/amazon-earnings.html)
-    
-    As America’s economy suffers, Big Tech does shockingly
-    well.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Shira
-    Ovide</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
     Naveed/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
     
@@ -570,6 +512,43 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">David
     McCabe</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [More Than 1,000 Companies Boycotted Facebook. Did It Work?](/2020/08/01/business/media/facebook-boycott.html)
+    
+    Major advertisers on Facebook reduced their spending by millions of
+    dollars in July, but not enough to significantly damage the
+    platform’s
+    revenue.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Tiffany Hsu</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Eleanor
+    Lutz</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Walter Banks for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [TikTok Ban? Creators and Fans Are Big Mad](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    
+    The uncertainty over the future of the wildly popular video app has
+    brought chaos to its user community — and to the entertainment and
+    advertising industries as
+    well.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Taylor
+    Lorenz</span></span>
     
     </div>
 
@@ -625,6 +604,40 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/obituaries/02English-obit1/Obit-English1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## William English, Who Helped Build the Computer Mouse, Dies at 91
+    
+    He was one of the computing pioneers who “showed what a computer
+    interface could — and should — look like,” a colleague said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Cade
+    Metz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
     
     <div class="css-79elbk">
@@ -655,7 +668,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -690,7 +703,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -727,7 +740,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -761,7 +774,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -796,7 +809,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -832,7 +845,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -866,7 +879,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -900,7 +913,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -922,41 +935,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/article/hbo-max-amazon-roku.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/27/business/27HBOMAX-01/merlin_165492429_49a08f20-2907-4c46-adce-8396a1e08182-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Do I Get HBO Max if I Already Have HBO?
-    
-    Almost 35 million people have HBO. But not all of them can get HBO
-    Max. Here’s what you need to know.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Edmund Lee</span>
+    By <span class="css-1n7hynb">Matt Richtel</span>
     
     </div>
     

@@ -142,13 +142,37 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
-    Bureau/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-jumbo.jpg)
     
     <div class="css-gjijuv">
     
+    ## [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
+    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Kellen
+    Browning</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
+    Bureau/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
     ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    
+    <div class="css-ajkwsy">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbStandard.jpg)](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    
+    </div>
     
     The Trump administration has said the video app poses security
     concerns because of its Chinese
@@ -161,75 +185,51 @@ Money](/section/your-money)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
+    Naveed/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](/2020/07/31/technology/twitter-hack-arrest.html)
+    ## [What’s Going On With TikTok? Here’s What We Know](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31twitter2-print/31twitter1-thumbStandard.jpg)](/2020/07/31/technology/twitter-hack-arrest.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbStandard.jpg)](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
     </div>
     
-    The authorities arrested a 17-year-old who they said ran a scheme
-    that targeted the accounts of celebrities, including former
-    President Barack Obama and Elon Musk. Two others were also
-    charged.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
-    Popper</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Hey, You Free on Friday for a Meeting and a Bank Heist?’](/2020/07/31/business/video-game-meetings.html)
-    
-    <div class="css-ajkwsy">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-thumbStandard-v2.jpg)](/2020/07/31/business/video-game-meetings.html)
-    
-    </div>
-    
-    Eager for an alternative to Zoom, executives are getting together in
-    video games, to bond, brainstorm or
-    rampage.
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all
+    here.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">David
-    Segal</span></span>
+    McCabe</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenny
-    Brandenberger</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech/31ontech-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ### on tech
-    
-    ## [Amazon Wins Without Even Trying](/2020/07/31/technology/amazon-earnings.html)
+    ## [More Than 1,000 Companies Boycotted Facebook. Did It Work?](/2020/08/01/business/media/facebook-boycott.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech/31ontech-thumbStandard.jpg)](/2020/07/31/technology/amazon-earnings.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbStandard.png)](/2020/08/01/business/media/facebook-boycott.html)
     
     </div>
     
-    As America’s economy suffers, Big Tech does shockingly
-    well.
+    Major advertisers on Facebook reduced their spending by millions of
+    dollars in July, but not enough to significantly damage the
+    platform’s
+    revenue.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Shira
-    Ovide</span></span>
+    <span class="css-1baulvz" itemprop="name">Tiffany Hsu</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Eleanor
+    Lutz</span></span>
     
     </div>
 
@@ -381,23 +381,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## TikTok Ban? Creators and Fans Are Big Mad
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    The uncertainty over the future of the wildly popular video app has
+    brought chaos to its user community — and to the entertainment and
+    advertising industries as well.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Taylor
+    Lorenz</span>
     
     </div>
     
@@ -410,6 +411,75 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
+    
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since 1975.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    
+    Some retailers are turning to popular social media personalities to
+    detail post-pandemic protocols and boost the allure of visiting
+    their stores.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sapna
+    Maheshwari</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -443,7 +513,42 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/technology/twitter-hack-arrest.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack
+    
+    The authorities arrested a 17-year-old who they said ran a scheme
+    that targeted the accounts of celebrities, including former
+    President Barack Obama and Elon Musk. Two others were also charged.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate Conger <span>and</span> Nathaniel
+    Popper</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -478,7 +583,42 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/technology/amazon-earnings.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech/31ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">on tech</span>
+    
+    ## Amazon Wins Without Even Trying
+    
+    As America’s economy suffers, Big Tech does shockingly well.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
     
     <div class="css-1cp3ece">
     
@@ -513,7 +653,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -548,7 +688,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -571,150 +711,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Daisuke Wakabayashi, Karen Weise, Jack
-    Nicas <span>and</span> Mike
-    Isaac</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/technology/big-tech-backlash.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30ontech/30ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">on tech</span>
-    
-    ## Big Tech’s Backlash Is Just Starting
-    
-    The congressional antitrust hearing showed that concerns about the
-    tech stars aren’t going away.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/technology/big-tech-ceos.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31roose/31roose-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Shift</span>
-    
-    ## Grilled by Lawmakers, Big Tech Turns Up the Gaslight
-    
-    It is less clear that tech executives’ strategy of evasive answers
-    will continue to work now that lawmakers have begun doing their
-    homework.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kevin
-    Roose</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/00eutech/00eutech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power
-    
-    The region’s lawmakers and regulators are taking direct aim at
-    Amazon, Facebook, Google and Apple in a series of proposed laws.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam
-    Satariano</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/reader-center/29TECHHEARING-A1/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Lawmakers, United in Their Ire, Lash Out at Big Tech’s Leaders
-    
-    The chiefs of Amazon, Apple, Google and Facebook faced withering
-    questions from Democrats about anti-competitive practices and from
-    Republicans about anti-conservative bias.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Cecilia Kang <span>and</span> David
-    McCabe</span>
+    Nicas <span>and</span> Mike Isaac</span>
     
     </div>
     

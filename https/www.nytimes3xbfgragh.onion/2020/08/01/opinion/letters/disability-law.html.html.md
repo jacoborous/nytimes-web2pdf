@@ -204,12 +204,12 @@ With Disabilities Act, passed 30 years ago.
 
 <div class="css-bn0qp euiyums0">
 
-Aug. 1, 2020, <span class="css-epvm6">12:00 p.m.
-ET</span>
+Aug. 1,
+2020
 
 <div class="css-4xjgmj">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -484,6 +484,29 @@ Wendy Ross
 Philadelphia  
 *The writer is the director of the Center for Autism and Neurodiversity
 at Jefferson Health.*
+
+**To the Editor:**
+
+Only one-half of 1 percent of children’s books include children with
+disabilities.
+
+Let that sink in. 0.5 percent.
+
+Talk about invisible\! People with disabilities are, too often,
+invisible. People with disabilities often can’t see *themselves*
+reflected in the content that they consume, especially in the books that
+they read.
+
+I’ve spent the past year researching inclusion in children’s literature
+and building a new organization, [Keepsake
+Tales](https://mykeepsaketales.com/), to flip the script on children’s
+publishing. We exist because we believe that every child is one of a
+kind and has intrinsic value. We’re creating the most personalized
+children’s books in the world so that every child can see *themselves*
+as the champion of their story and understand that *they matter*.
+
+Mike Vaggalis  
+Raleigh, N.C.
 
 </div>
 

@@ -159,7 +159,30 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-thumbStandard.jpg)](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+    
+    </div>
+    
+    ## [‘Immigration Nation’ Review: The Banality of Deportation](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+    
+    This Netflix documentary looks at the bureaucracy of immigration
+    enforcement — an intriguing investigation that probably won’t change
+    any
+    minds.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Hale</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -184,32 +207,32 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### critic’s notebook
+        
+        ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
+        
+        </div>
+        
+        On outlets from Hulu to Peacock to PBS, it’s the summer of the
+        trans-Atlantic
+        import.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Mike
+        Hale</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
-    
-    </div>
-    
-    ### critic’s notebook
-    
-    ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
-    
-    On outlets from Hulu to Peacock to PBS, it’s the summer of the
-    trans-Atlantic
-    import.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Hale</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
-        Cartwright/ABC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
+        Cartwright/ABC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -217,7 +240,7 @@ story](#after-sponsor)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbStandard.jpg)](/2020/07/31/arts/television/goldbergs-abc-stream.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbStandard.jpg)](/2020/07/31/arts/television/goldbergs-abc-stream.html)
         
         </div>
         
@@ -230,33 +253,6 @@ story](#after-sponsor)
         Murray</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-        illustration by Jennifer Ledbury/The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02truth-WEB/02truth-WEB-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Critic’s notebook
-        
-        ## [The Reconciliation Must Be Televised](/2020/07/30/arts/television/the-moment-racism-tv.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02truth-WEB/02truth-WEB-thumbStandard.jpg)](/2020/07/30/arts/television/the-moment-racism-tv.html)
-        
-        </div>
-        
-        What is the next step as America confronts its racism? A
-        broadcast spectacle, our critic writes, that could look like
-        court, a telethon, therapy, an Oprah show — and
-        more.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Wesley
-        Morris</span></span>
-        
-        </div>
 
 </div>
 
@@ -264,7 +260,28 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Watching
+1.  ### Critic’s notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    illustration by Jennifer Ledbury/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02truth-WEB/02truth-WEB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Reconciliation Must Be Televised](/2020/07/30/arts/television/the-moment-racism-tv.html)
+    
+    What is the next step as America confronts its racism? A broadcast
+    spectacle, our critic writes, that could look like court, a
+    telethon, therapy, an Oprah show — and
+    more.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Wesley
+    Morris</span></span>
+    
+    </div>
+
+2.  ### Watching
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30Watching-Muppets-Now/30Watching-Muppets-Now-videoLarge.jpg)
     
@@ -282,7 +299,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
     Mishina-Kunz for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02last-chance1/02last-chance1-videoLarge-v3.jpg)
     
@@ -301,7 +318,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     Hill/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28EMMYS-CONVO2/merlin_163951620_f1b96611-35ce-463f-9f90-41787acd5e33-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -320,7 +337,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
     via Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28EMMYS-SNUBS4/merlin_165673722_e416155d-ccbd-49b3-a550-1b775c971c0f-videoLarge.jpg)
     
@@ -334,23 +351,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Mike
     Hale</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Hill/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28emmys-livebriefing-watchment-swap/28emmys-livebriefing-watchment-swap-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Netflix Breaks HBO’s Record for the Most Emmy Nominations Ever](/2020/07/28/arts/television/emmy-nominations.html)
-    
-    “Watchmen” earned 26 nominations, the most of any show, and the
-    Television Academy gave newcomers Disney+ and Apple TV+ their first
-    nods.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Koblin</span></span>
     
     </div>
 
@@ -410,6 +410,147 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/arts/television/whats-on-tv-monday-immigration-nation-and-dora-and-the-lost-city-of-gold.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03tvcol-1/03tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Monday: ‘Immigration Nation’ and ‘Dora and the Lost City of Gold’
+    
+    A six-part docu-series about the Immigration and Customs Enforcement
+    agency is on Netflix. And a live-action adaptation of “Dora” arrives
+    on Hulu.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter
+    Libbey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Perry Mason</span>
+    
+    ## ‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday
+    
+    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
+    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
+    Alice.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sean T.
+    Collins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/arts/television/whats-on-tv-sunday-connected-and-the-spacex-landing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02tvcol-connected/02tvcol-connected-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Sunday: ‘Connected’ and the SpaceX Landing
+    
+    “Radiolab” journalist Latif Nasser hosts a new show on Netflix, and
+    the SpaceX craft makes its return to Earth.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lauren
+    Messman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/obituaries/wilford-brimley-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85
+    
+    Recognizable by his walrus mustache, the actor specialized in
+    playing cantankerous characters in “Absence of Malice,” “The
+    Natural” and other films.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">William
+    Grimes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/arts/television/whats-on-tv-saturday-seeing-america-with-megan-rapinoe-and-the-last-narc.html)
     
     <div class="css-79elbk">
@@ -438,7 +579,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -472,7 +613,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -509,7 +650,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -543,7 +684,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -577,7 +718,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -600,149 +741,6 @@ story](#after-mid1)
     watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/television/trevor-noah-trump-russia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30latenight/30latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Best of Late Night</span>
-    
-    ## Trevor Noah Thinks Trump Is ‘Oddly Chilled Out’ About Russia
-    
-    The president said he didn’t ask Vladimir Putin whether Russia paid
-    to have U.S. troops killed. The “Daily Show” host can see why that
-    talk would have been “super awkward.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Trish
-    Bendix</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/television/whats-on-tv-thursday-in-my-skin-and-the-birds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30tvcol-1/30tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s on TV Thursday: ‘In My Skin’ and ‘The Birds’
-    
-    A coming-of-age comedy series comes to Hulu. And a thriller from
-    Alfred Hitchcock is on TCM.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mariel
-    Wamsley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/movies/horror-she-dies-tomorrow-relic-amulet.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/23horror-isolation1/23horror-isolation1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## The Horror of Isolation
-    
-    Three new movies show why this cinematic genre is best suited to the
-    Covid-19 era, when isolation has become not just a way of life, but
-    necessary to avoid deaths.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason
-    Zinoman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Screenland</span>
-    
-    ## ‘I May Destroy You’ Is Perfect TV for an Anxious World
-    
-    The HBO drama about trauma is possibly the most emblematic show of
-    2020.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carina Chocano</span>
     
     </div>
     

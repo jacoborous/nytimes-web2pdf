@@ -163,11 +163,30 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
-    Barwick/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
+    Vucci/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Birx Says U.S. Epidemic Is in a ‘New Phase’](/2020/08/02/health/dr-birx-coronavirus-phase.html)
+    
+    She and other top health officials in the Trump administration warn
+    states of a deepening spread of the coronavirus, in both rural and
+    urban
+    areas.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Benedict
+    Carey</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
+    Barwick/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The Coronavirus Infected Hundreds at a Georgia Summer Camp](/2020/07/31/health/coronavirus-children-camp.html)
     
@@ -181,7 +200,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
     Sladky/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-videoLarge.jpg)
     
@@ -200,7 +219,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
     Belleme for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-videoLarge.jpg)
     
@@ -218,25 +237,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Paula
     Span</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joel
-    Saget/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-SANOFI1/31VIRUS-SANOFI1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Sanofi and GlaxoSmithKline Snag Biggest Coronavirus Vaccine Deal Yet](/2020/07/31/health/covid-19-vaccine-sanofi-gsk.html)
-    
-    The arrangement brings the Trump administration’s investment in
-    coronavirus vaccine projects to more than $8 billion. The head of
-    the federal effort is a former GSK
-    executive.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katie
-    Thomas</span></span>
     
     </div>
 
@@ -546,21 +546,26 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
-    Heisler/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02nyvirus-subway/merlin_173243304_7c0db049-d11d-4e86-89b8-1fce3576fe5e-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is the Subway Risky? It May Be Safer Than You Think](/2020/08/02/nyregion/nyc-subway-coronavirus-safety.html)
+    ## [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
-    New studies in Europe and Asia suggest that riding public
-    transportation is not a major source of transmission for the
-    coronavirus.
+    Operation Warp Speed has moved along at a rapid clip. But some
+    people involved in the process fear pressure to deliver an October
+    surprise for President
+    Trump.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Christina
-    Goldbaum</span></span>
+    <span class="css-1baulvz" itemprop="name">Sharon LaFraniere</span>,
+    <span class="css-1baulvz" itemprop="name">Katie Thomas</span>,
+    <span class="css-1baulvz" itemprop="name">Noah Weiland</span>,
+    <span class="css-1baulvz" itemprop="name">Peter Baker</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 
@@ -616,6 +621,38 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/world/coronavirus-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Birx Warns That U.S. Epidemic Is in a ‘New Phase’
+    
+    College are preparing to welcome students back to a complicated
+    campus setting. India’s home minister tests
+    positive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
     
     <div class="css-79elbk">
@@ -645,7 +682,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -655,7 +692,7 @@ story](#after-mid2)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -678,7 +715,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -713,7 +750,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -747,7 +784,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -782,7 +819,42 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/health/covid-19-vaccine-sanofi-gsk.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-SANOFI1/31VIRUS-SANOFI1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sanofi and GlaxoSmithKline Snag Biggest Coronavirus Vaccine Deal Yet
+    
+    The arrangement brings the Trump administration’s investment in
+    coronavirus vaccine projects to more than $8 billion. The head of
+    the federal effort is a former GSK executive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie
+    Thomas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
     
     <div class="css-1cp3ece">
     
@@ -792,7 +864,7 @@ story](#after-mid2)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -815,7 +887,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -851,7 +923,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -871,78 +943,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Toby
-    Bilanow</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/indonesia-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31virus-indonesia-1/31virus-indonesia-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## In Indonesia, False Virus Cures Pushed by Those Who Should Know Better
-    
-    In the absence of a unified message from the national government,
-    local officials and opportunists have filled the gap with
-    misinformation and quack remedies.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Richard C.
-    Paddock</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/style/masks-in-public-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2011/07/28/fashion/social_inline/social_inline-thumbWide-v6.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Social Q’s</span>
-    
-    ## How Can I (Kindly) Tell People to Wear Masks in Public?
-    
-    Our advice columnist tested a few possible lines. Here’s how that
-    went.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Philip Galanes</span>
+    By <span class="css-1n7hynb">Toby Bilanow</span>
     
     </div>
     

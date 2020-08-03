@@ -55,8 +55,7 @@ News](https://www.nytimes3xbfgragh.onion/section/us)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-us" class="section css-15h4p1b e9abtgs0">
 
@@ -131,105 +155,102 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    Widmer for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emily
+    Kask for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbStandard.jpg)](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-thumbStandard.jpg)](/2020/08/02/us/covid-college-reopening.html)
     
     </div>
     
-    ## [After Plummeting, the Virus Soars Back in the Midwest](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+    ## [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](/2020/08/02/us/covid-college-reopening.html)
     
-    States like Missouri, Illinois and Wisconsin are riding a
-    frustrating seesaw during the pandemic, with new coronavirus cases
-    rising again after apparent
-    progress.
+    Colleges are racing to reconfigure dorms, expand testing programs
+    and establish detailed social distancing rules. And then, what to do
+    about
+    sex?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Julie Bosman</span>,
-    <span class="css-1baulvz" itemprop="name">Manny Fernandez</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Thomas
-    Fuller</span></span>
+    <span class="css-1baulvz" itemprop="name">Anemona Hartocollis</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Shawn
+    Hubler</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
+        Martinez for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02storm-1/merlin_175215639_9253d98f-4c76-4648-9f8c-8436a3490656-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbStandard.jpg)](/2020/08/01/us/hurricane-isaias-track.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02storm-1/02storm-1-thumbStandard.jpg)](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
         
         </div>
         
-        ## [Isaias Live Updates: Storm Weakens as It Churns Toward Florida After Hitting Bahamas](/2020/08/01/us/hurricane-isaias-track.html)
+        ## [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
         
-        The tropical storm is expected to be upgraded to a hurricane
-        again overnight and may hit Florida’s coast, further testing a
-        state that has been battered by the coronavirus
-        pandemic.
+        The Florida coast was spared severe damage on Sunday, but much
+        of the Eastern Seaboard is threatened with flooding
+        rains.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Rebecca
+        Halleck</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/02/us/Hurricane-Isaias-track.html)
+        
+        </div>
+        
+        ## [Isaias Live Updates: Storm Grazes Florida and Takes Aim at the Carolinas](/2020/08/02/us/Hurricane-Isaias-track.html)
+        
+        Storm watches have been extended as far north as New England.
+        The storm is on a track to reach land on Monday, with heavy rain
+        and the potential for damaging
+        floods.
         
         <span class="css-me3p27"></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
-        Mast for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01virus-schools01/01virus-schools01-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cristobal
+        Herrera-Ulashkevich/EPA, via
+        Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02virus-floridastorm-1/merlin_175209375_a3ff0f8e-a302-461a-a795-c76e4cf3f1ab-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01virus-schools01/01virus-schools01-thumbStandard.jpg)](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02virus-floridastorm-1/merlin_175209375_a3ff0f8e-a302-461a-a795-c76e4cf3f1ab-thumbStandard.jpg)](/2020/08/02/us/florida-hurricane-isaias-coronavirus.html)
         
         </div>
         
-        ## [A School Reopens, and the Coronavirus Creeps In](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+        ### MIAMI JOURNAL
         
-        As more schools abandon plans for in-person classes, one that
-        opened in Indiana this week had to quarantine students within
-        hours.
+        ## [Florida’s Summer of Dread](/2020/08/02/us/florida-hurricane-isaias-coronavirus.html)
+        
+        The coronavirus had entrenched itself in communities from
+        Pensacola to Key West, killing more than 7,000 Floridians. Then
+        came Tropical Storm
+        Isaias.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Eliza Shapiro</span>,
-        <span class="css-1baulvz" itemprop="name">Giulia McDonnell Nieto
-        del Rio</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Shawn
-        Hubler</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
-        Lapetina for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbStandard.jpg)](/2020/08/01/us/eid-al-adha-coronavirus.html)
-        
-        </div>
-        
-        ### Race/Related
-        
-        ## [Celebrating Eid al-Adha Amid a Pandemic](/2020/08/01/us/eid-al-adha-coronavirus.html)
-        
-        With socially distanced gatherings now the norm, we talked to a
-        few people about how they planned to celebrate one of Islam’s
-        holiest
-        days.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Fahima
-        Haque</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Patricia
+        Mazzei</span></span>
         
         </div>
 
@@ -287,24 +308,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    [](/2020/08/02/us/politics/anthony-tata-pentagon-nomination.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02DC-TATA1/02DC-TATA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    ## Trump Pick for Pentagon Post Sidesteps Senate Ire for Different Defense Job
     
-    Her near-total face transplant in 2008 was the most complex at the
-    time. She was the fourth patient in the world to undergo such a
-    procedure.
+    A retired Army general whose inflammatory comments appeared to doom
+    his nomination was tapped for a job that does not require Senate
+    approval.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryan
-    Pietsch</span>
+    By <span class="css-1n7hynb">Eric
+    Schmitt</span>
     
     </div>
     
@@ -322,23 +343,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/trader-joes-jose-ming-joe-san.html)
+    [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trader Joe’s Defends Product Labels Criticized as Racist
+    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
     
-    The company had previously said the names of international-themed
-    products that were intended to promote inclusiveness, such as Trader
-    José and Trader Ming’s, “may now have the opposite effect.”
+    “We need to do a better job next time” of securing the area, the
+    NASA administrator, Jim Bridenstine, said.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allyson
+    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
     Waller</span>
     
     </div>
@@ -357,24 +377,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
+    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
     
-    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
-    than 21 years of service took effect on Saturday, the same day his
-    sharply critical op-ed of the president was published.
+    Operation Warp Speed has moved along at a rapid clip. But some
+    people involved in the process fear pressure to deliver an October
+    surprise for President Trump.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
+    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
+    Weiland, Peter Baker <span>and</span> Annie
+    Karni</span>
     
     </div>
     
@@ -392,25 +413,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    [](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists
+    ## In St. Louis, Testing Liberal Might Against a Democratic Fixture
     
-    Brian Murphy’s office compiled reports of protesters and journalists
-    who were covering the Trump administration’s response to unrest in
-    Portland, Ore., last month.
+    Cori Bush, an activist backed by the progressive group Justice
+    Democrats, is trying to unseat 10-term Representative William Lacy
+    Clay in a bid to turn protest-movement fervor into hard political
+    power.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Adam
-    Goldman</span>
+    By <span class="css-1n7hynb">Nicholas
+    Fandos</span>
     
     </div>
     
@@ -428,24 +449,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    [](/video/us/100000007269193/boats-circle-spacex-capsule.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    More than 500 cases and at least 75 hospitalizations have been
-    reported in the United States and Canada, the health authorities
-    said.
+    ## Several Private Boats Encroach on SpaceX Landing Zone
+    
+    Onlookers circled the SpaceX Crew Dragon capsule as it bobbed in the
+    water after its return to Earth, raising concerns about their
+    possible exposure to toxic propellant fumes from the spacecraft.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christina
-    Morales</span>
+    By
+    <span class="css-1n7hynb">NASA</span>
     
     </div>
     
@@ -463,23 +486,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since 1975.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
     
     </div>
     
@@ -497,24 +520,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
+    [](/video/us/100000007269118/spacex-splash-down.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/video/02vid-spacex-splash/02vid-spacex-splash-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Biden Faces Pressure From Left Over Influence Industry Ties
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Many of his aides and close allies are veteran Washington hands who
-    have profited from advising big corporations. The Sanders-Warren
-    wing of the party is not happy.
+    ## SpaceX’s Crew Dragon Splashes Down in Gulf of Mexico
+    
+    The capsule parachuted the NASA astronauts Robert L. Behnken and
+    Douglas G. Hurley back to Earth, landing in the Gulf of Mexico, off
+    the coast of Pensacola, Fla.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
-    Thrush</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -532,26 +557,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/eid-al-adha-coronavirus.html)
+    [](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Race/Related</span>
+    ## How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s
     
-    ## Celebrating Eid al-Adha Amid a Pandemic
-    
-    With socially distanced gatherings now the norm, we talked to a few
-    people about how they planned to celebrate one of Islam’s holiest
-    days.
+    The polarizing former sheriff of Maricopa County, a stylistic
+    doppelgänger to President Trump, is running for his old office in a
+    state where approval of both men has slid.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Fahima
-    Haque</span>
+    By <span class="css-1n7hynb">Hank
+    Stephenson</span>
     
     </div>
     
@@ -569,26 +592,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-books.html)
+    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
     
-    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
-    
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    Negotiators acknowledged some progress over the weekend, but said
+    they remained far apart on a number of issues.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Lyall</span>
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
     
     </div>
     
@@ -606,22 +626,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/science/nasa-spacex-astronauts.html)
+    [](/2020/08/02/us/apple-fire-ca.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-applefire-pix1/02xp-applefire-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
+    ## Apple Fire Leads to Evacuation Order for 7,000 in California
     
-    Bob Behnken and Doug Hurley are getting ready to splash down after
-    two months in orbit.
+    The wildfire, near the San Bernardino National Forest east of Los
+    Angeles, was burning out of control on Sunday morning.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth Chang</span>
+    By <span class="css-1n7hynb">Bryan Pietsch</span>
     
     </div>
     

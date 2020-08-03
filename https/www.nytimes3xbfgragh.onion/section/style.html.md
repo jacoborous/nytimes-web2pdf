@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
@@ -139,28 +163,46 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/fashion/31viralprotests-promo/31viralprotests-promo-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
+    Shrewsbury</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Why Protest Tactics Spread Like Memes](/2020/07/31/style/viral-protest-videos.html)
+    ### vows
     
-    When items like umbrellas and leaf blowers are subverted into
-    objects of resistance, they become very
-    shareable.
+    ## [Their Very Own Loving Story](/2020/07/31/fashion/weddings/Renee-Knake-and-Wallace-Jefferson-wed-tribute-to-Lovings-before-them.html)
+    
+    Renee Knake and Wallace B. Jefferson, both lawyers, are grateful to
+    Mildred Loving and Richard Loving for challenging interracial
+    marriage laws in the
+    1960s.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tracy Ma</span>,
-    <span class="css-1baulvz" itemprop="name">Natalie Shutler</span>,
-    <span class="css-1baulvz" itemprop="name">Jonah Engel
-    Bromwich</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Shane
-    O’Neill</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brianna
+    Holt</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Walter Banks for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [TikTok Ban? Creators and Fans Are Big Mad](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    
+    The uncertainty over the future of the wildly popular video app has
+    brought chaos to its user community — and to the entertainment and
+    advertising industries as
+    well.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Taylor
+    Lorenz</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     Illustration by The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-videoLarge.jpg)
     
@@ -178,7 +220,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
     Heimer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -195,13 +237,19 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Up Next
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
     Jalloh for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/31upnext-prince2/31upnext-prince2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Up Next
     
     ## [Yasmin Monet Prince, a New Action Heroine](/2020/08/01/style/yasmin-monet-prince-a-new-action-heroine.html)
     
@@ -214,13 +262,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Matija
     Medved</span>](https://static01.graylady3jvrrxbe.onion/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
@@ -237,7 +279,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
     Frustaci/EPA, via
     Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
     
@@ -255,7 +297,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
     Muroya</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -273,7 +315,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>National
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>National
     Museum of American
     History</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31suffrage-nativewomen-07/31suffrage-nativewomen-07-videoLarge.jpg)
     
@@ -290,27 +332,6 @@ story](#after-sponsor)
     <span class="css-1baulvz" itemprop="name">Cathleen D. Cahill</span>
     and <span class="css-1baulvz last-byline" itemprop="name">Sarah
     Deer</span></span>
-    
-    </div>
-
-5.  ### The Shindigger
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Barstool
-    Sports</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/oakImage-1596134764009/oakImage-1596134764009-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Trump White House Meets Its Match With Barstool Sports](/2020/07/31/style/trump-twitter-barstool-sports.html)
-    
-    Trump admits he regrets some tweets during this fratty, swampy
-    summer, as nostalgia surges for Trump’s first underdog campaign and
-    a more uncertain future
-    looms.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Shawn
-    McCreesh</span></span>
     
     </div>
 
@@ -1522,6 +1543,112 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok Ban? Creators and Fans Are Big Mad
+    
+    The uncertainty over the future of the wildly popular video app has
+    brought chaos to its user community — and to the entertainment and
+    advertising industries as well.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Taylor
+    Lorenz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
+    <span>and</span> Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    
+    Some retailers are turning to popular social media personalities to
+    detail post-pandemic protocols and boost the allure of visiting
+    their stores.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sapna
+    Maheshwari</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
     
     <div class="css-79elbk">
@@ -1550,7 +1677,7 @@ story](#after-mid6)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1560,7 +1687,7 @@ story](#after-mid6)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/00Remake-print/00Remake-RE2-lede-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -1584,7 +1711,7 @@ story](#after-mid6)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1618,7 +1745,7 @@ story](#after-mid6)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1654,7 +1781,7 @@ story](#after-mid6)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1664,7 +1791,7 @@ story](#after-mid6)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -1690,7 +1817,7 @@ story](#after-mid6)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1725,7 +1852,7 @@ story](#after-mid6)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1735,7 +1862,7 @@ story](#after-mid6)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31akumpo1/31akumpo1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31akumpo1/31akumpo1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -1748,112 +1875,7 @@ story](#after-mid6)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jon
-    Caramanica</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/fashion/italian-fashion-black-designers.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Italian Fashion Hasn’t Changed Enough, Black Designers Say
-    
-    A new letter sent by independent designers to fashion executives
-    demands reform, or at least a serious conversation about race.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jessica
-    Testa</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/style/randonautica-app.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What Is Randonautica Really About?
-    
-    An app that generates coordinates for adventurers claims to turn
-    your thoughts into reality. TikTok and YouTube creators want you to
-    believe it — but you shouldn’t.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lena
-    Wilson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31suffrage-nativewomen-07/31suffrage-nativewomen-07-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## In 1920, Native Women Sought the Vote. Here’s What They Seek Now.
-    
-    The 19th Amendment did not bring the right to vote to all Native
-    women, but two experts in a conversation said it did usher in the
-    possibility of change.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Cathleen D. Cahill <span>and</span>
-    Sarah Deer</span>
+    By <span class="css-1n7hynb">Jon Caramanica</span>
     
     </div>
     

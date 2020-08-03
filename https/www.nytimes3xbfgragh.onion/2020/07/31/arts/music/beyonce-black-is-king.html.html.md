@@ -118,6 +118,7 @@ Discuss</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -210,8 +211,8 @@ creative power.
 King: The Gift,” teamed the pop superstar with directors, choreographers
 and fashion
 designers.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Null/Parkwood
-Entertainment and Disney +, via Associated
-Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce3/merlin_175164408_4f5428a4-812f-4564-9e16-e2662dbd625c-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Entertainment and Disney+, via Associated
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce3/merlin_175164408_4f5428a4-812f-4564-9e16-e2662dbd625c-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -264,6 +265,7 @@ Tillet</span>](https://www.nytimes3xbfgragh.onion/by/salamishah-tillet)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -493,7 +495,7 @@ cappella.
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The fashion
 in “Black Is King” spans the famous and the little-known, as well as the
 globe.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Andrew
-White/Parkwood Entertainment via Disney +, via Associated
+White/Parkwood Entertainment via Disney+, via Associated
 Press</span></span>
 
 </div>
@@ -619,7 +621,7 @@ earrings.
 </div>
 
 <span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Andrew
-White/Parkwood Entertainment and Disney +, via Associated
+White/Parkwood Entertainment and Disney+, via Associated
 Press</span></span>
 
 </div>
@@ -892,8 +894,8 @@ knees.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Beyoncé’s dancing
-is luminous throughout “Black Is
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Beyoncé’s
+dancing is luminous throughout “Black Is
 King.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Null/Parkwood
 Entertainment via Disney +, via Associated Press</span></span>
 

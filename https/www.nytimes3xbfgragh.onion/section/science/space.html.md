@@ -157,13 +157,13 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/EPA,
-    via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA,
+    via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [SpaceX Crew Dragon to Bring 2 NASA Astronauts Home](/2020/08/01/science/nasa-spacex-astronauts.html)
+    ## [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](/2020/08/01/science/nasa-spacex-astronauts.html)
     
     Bob Behnken and Doug Hurley are getting ready to splash down after
     two months in
@@ -680,6 +680,108 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/us/flag-boat-SpaceX.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
+    
+    “We need to do a better job next time” of securing the area, the
+    NASA administrator, Jim Bridenstine, said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
+    Waller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
+    
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since 1975.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/science/spacex-nasa-return.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975
+    
+    Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf of
+    Mexico in the Crew Dragon spacecraft.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/24/us/rene-carpenter-dead.html)
     
     <div class="css-79elbk">
@@ -709,7 +811,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -751,7 +853,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -791,7 +893,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -825,7 +927,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -858,7 +960,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -894,7 +996,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -915,112 +1017,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley
-    Reed</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/23/science/mars-helicopter-nasa.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/science/00SCI-MARS-HELICOPTER5/00SCI-MARS-HELICOPTER5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mars Is About to Have Its ‘Wright Brothers Moment’
-    
-    As part of its next Mars mission, NASA is sending an experimental
-    helicopter to fly through the red planet’s thin atmosphere.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/22/science/meteorites-chondrites-chondrules.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/19/science/19TB-METEORITES2/merlin_173672094_cf5b9c43-b9a5-45b2-8872-80bb2b589100-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Trilobites</span>
-    
-    ## Small Worlds With Lava Oceans Might Have Given Us Meteorites
-    
-    Researchers propose a new model to explain the formation of most of
-    the meteorites that make it to Earth.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jonathan
-    O’Callaghan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/article/summer-solstice-meaning-sunset.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2018/06/21/science/21SOLSTICE/21SOLSTICE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Summer Solstice 2020 and the Search for Life in the Galaxy
-    
-    As you mark the longest day of the year, consider the debate among
-    astronomers over whether Earth’s tilt toward the sun helps make life
-    on our world and others possible.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shannon Hall</span>
+    By <span class="css-1n7hynb">Stanley Reed</span>
     
     </div>
     

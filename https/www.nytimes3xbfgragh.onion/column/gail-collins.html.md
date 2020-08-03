@@ -214,7 +214,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/19th-amendment-women-suffrage.html)
+    [](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
     
     <div class="css-79elbk">
     

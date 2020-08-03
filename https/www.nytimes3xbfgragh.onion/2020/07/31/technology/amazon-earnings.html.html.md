@@ -200,7 +200,7 @@ well.
 
 ![<span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>By
 Kenny
-Brandenberger</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech-BOXESvideostill/31ontech-BOXESvideostill-threeByTwoMediumAt2X.png)
+Brandenberger</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/01ontech1-print/31ontech-BOXESvideostill-threeByTwoMediumAt2X.png)
 
 <div class="css-18e8msd">
 

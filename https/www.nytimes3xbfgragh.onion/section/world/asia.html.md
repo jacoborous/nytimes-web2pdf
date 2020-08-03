@@ -176,6 +176,143 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/00china-hardliners-1/merlin_174541701_189de3ad-c3df-49d2-aff4-fd96d8fe02a6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Clean Up This Mess’: The Chinese Thinkers Behind Xi’s Hard Line
+    
+    Chinese academics have been honing the Communist Party’s
+    authoritarian response in Hong Kong, rejecting the liberal ideas of
+    their youth.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Chris
+    Buckley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/briefing/coronavirus-vaccine-india-us-tiktok-spacex.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/briefing/03ambriefing-asia-promo/03ambriefing-asia-slide-EI5E-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Vaccine, TikTok, SpaceX: Your Monday Briefing
+    
+    Here’s what you need to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carole
+    Landry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/asia/afghan-prison-attack-prisoners.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02afghan-prison-sub/02afghan-prison-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Militants Attack Afghan Prison as Brief Cease-Fire Expires
+    
+    The Islamic State reportedly took responsibility for an assault at a
+    time when releasing insurgents from prisons has become a major issue
+    in the Afghan peace process.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
+    Mashal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
+    
+    Millions of dollars of Paycheck Protection Program loans went to
+    China-backed businesses in critical sectors, a study found.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
     
     <div class="css-79elbk">
@@ -204,7 +341,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +376,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +411,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +446,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +481,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -368,148 +505,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shalini Venugopal
-    Bhagat</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/hong-kong-election-national-security-law.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31hk-crackdown-top/merlin_175152162_1fa5b592-489b-4b41-86b8-76274f3a02cf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## With Security Law as a Cudgel, Beijing Cracks Down on Hong Kong
-    
-    The spirit and the letter of the new law has been used to crush Hong
-    Kong’s opposition. In the latest blow to the pro-democracy movement,
-    the government postponed an election, citing the coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Keith Bradsher, Elaine Yu
-    <span>and</span> Steven Lee
-    Myers</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/hong-kong-election-delayed.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/00hongkong-election/00hongkong-election-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hong Kong Delays Election, Citing Coronavirus. The Opposition Isn’t Buying It.
-    
-    Pro-democracy politicians, who had hoped to ride widespread
-    discontent to big gains in the fall, saw the yearlong delay as an
-    attempt to thwart their momentum.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Austin
-    Ramzy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/hongkong-dining-lunch-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31virus-hk-lunch-1/merlin_175099506_52c8d8d4-24c6-470b-9b80-9f2f7e8c1cbb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hong Kong Bans Eating in Restaurants. And Then It Doesn’t.
-    
-    City officials did a quick U-turn in the face of public anger, after
-    viral photos showed workers eating lunch on curbs and bridges in the
-    hot sun.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Elaine
-    Yu</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/afghanistan-pakistan-border.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31afghan-pakistan-1/31afghan-pakistan-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Border Clashes With Pakistan Leave 15 Afghan Civilians Dead, Officials Say
-    
-    Anger over the closing of the border because of coronavirus fears
-    triggered demonstrations, and then artillery barrages.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Taimoor Shah <span>and</span> Mujib
-    Mashal</span>
+    By <span class="css-1n7hynb">Shalini Venugopal Bhagat</span>
     
     </div>
     

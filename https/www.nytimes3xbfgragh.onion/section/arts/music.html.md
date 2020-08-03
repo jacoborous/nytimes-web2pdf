@@ -158,14 +158,14 @@ story](#after-sponsor)
 ## Highlights
 
 1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney +, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+    White/Parkwood Entertainment and Disney+, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
     </div>
     
@@ -187,32 +187,58 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Blank
-    Generation
-    LLC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
+    Cappello</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-thumbStandard.jpg)](/2020/07/30/movies/blank-generation-amos-poe.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-thumbStandard.jpg)](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
     
     </div>
     
-    ## [His Film Is a Punk Classic, but the Credits Now Roll Without Him](/2020/07/30/movies/blank-generation-amos-poe.html)
+    ### The Playlist
     
-    Amos Poe lost control of his documentary about the music scene that
-    spawned artists like Blondie and Talking Heads after a dispute with
-    Ivan Kral, the guitarist who made the movie with
-    him.
+    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
+    
+    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
+    others.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Cara
-    Buckley</span></span>
+    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
+    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
+    Russonello</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Blank
+        Generation
+        LLC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [His Film Is a Punk Classic, but the Credits Now Roll Without Him](/2020/07/30/movies/blank-generation-amos-poe.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-thumbStandard.jpg)](/2020/07/30/movies/blank-generation-amos-poe.html)
+        
+        </div>
+        
+        Amos Poe lost control of his documentary about the music scene
+        that spawned artists like Blondie and Talking Heads after a
+        dispute with Ivan Kral, the guitarist who made the movie with
+        him.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Cara
+        Buckley</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
         Rittershaus/Salzburger
         Festspiele</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02Salzburg-preview-1/merlin_174868050_10b64ef7-0f15-43b1-8024-0197fd429525-videoLarge.jpg)
         
@@ -233,31 +259,6 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Ben
         Miller</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-videoLarge-v2.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Diary of a Song
-        
-        ## [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbStandard.jpg)](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
-        
-        </div>
-        
-        The singer and songwriter prefers a ballad. But collaborators
-        yanked her out of her comfort zone for “Kyoto,” a breakout from
-        her latest acclaimed album. Here’s how she made
-        it.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joe
-        Coscarelli</span></span>
         
         </div>
 
@@ -293,7 +294,26 @@ story](#after-mid1)
 [More in Classical Music
     »](/spotlight/classical-music-reviews)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
+    Kuykendal for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2019/08/29/obituaries/00fleisher1/00fleisher1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
+    
+    Unable to use his right hand, he performed pieces written for left
+    hand only, conducted and taught. After 30 years, he made a
+    triumphant two-handed
+    comeback.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Allan
+    Kozinn</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
     Matthews</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -308,7 +328,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
     T. Gellerson for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/30WITH-RENEEFLEMING-1/30WITH-RENEEFLEMING-1-videoLarge-v2.jpg)
     
@@ -326,7 +346,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sabrina
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sabrina
     Santiago for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02recently-viewed/02recently-viewed-videoLarge.jpg)
     
@@ -344,7 +364,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
     Dudelson/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/28silkroad-1/merlin_167834013_bb1938c2-53d3-488e-8433-37fe40396d86-videoLarge.jpg)
     
@@ -359,24 +379,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Zachary
     Woolfe</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Odd
-    Andersen/Agence France-Presse, via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/arts/24barenboim-1/24barenboim-1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Barenboim and Elgar: A Musical Love Story Continues](/2020/07/24/arts/music/barenboim-elgar.html)
-    
-    A fifth album in Daniel Barenboim’s Elgar cycle with the
-    Staatskapelle Berlin comes out on
-    Friday.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Allen</span></span>
     
     </div>
 
@@ -446,42 +448,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Billie Eilish’s Isolation Awakening, and 8 More New Songs
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/article/dominic-fike-at-first.html)
     
     <div class="css-79elbk">
@@ -510,7 +476,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -545,7 +511,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -580,7 +546,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -604,6 +570,43 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Alexis
     Soloski</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Diary of a Song</span>
+    
+    ## How Phoebe Bridgers (Begrudgingly) Writes a Rock Song
+    
+    The singer and songwriter prefers a ballad. But collaborators yanked
+    her out of her comfort zone for “Kyoto,” a breakout from her latest
+    acclaimed album. Here’s how she made it.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Joe
+    Coscarelli</span>
     
     </div>
     

@@ -1,0 +1,9 @@
+*.txt
+*.sh
+*.out
+*.pdf
+**/*.txt
+**/*.sh
+**/*.out
+**/*.pdf
+

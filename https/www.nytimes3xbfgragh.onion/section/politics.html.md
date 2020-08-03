@@ -167,110 +167,109 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbStandard.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/02dc-pppchina-thumbStandard.jpg)](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
     
     </div>
     
-    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    ## [U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
     
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential
-    ticket.
+    Millions of dollars of Paycheck Protection Program loans went to
+    China-backed businesses in critical sectors, a study
+    found.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Flegenheimer</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Rappeport</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
-    Ratje/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31dc-postal/merlin_172107963_a2c16fe7-bd41-4b56-8445-524d4cce31e7-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31dc-postal/31dc-postal-thumbStandard.jpg)](/2020/07/31/us/politics/trump-usps-mail-delays.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbStandard.jpg)](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     </div>
     
-    ## [Mail Delays Fuel Concern Trump Is Undercutting Postal System Ahead of Voting](/2020/07/31/us/politics/trump-usps-mail-delays.html)
+    ## [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
-    The president’s long campaign against the Postal Service is
-    intersecting with his assault on mail-in voting amid concerns that
-    he has politicized oversight of the
-    agency.
+    Operation Warp Speed has moved along at a rapid clip. But some
+    people involved in the process fear pressure to deliver an October
+    surprise for President
+    Trump.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael D. Shear</span>,
-    <span class="css-1baulvz" itemprop="name">Hailey Fuchs</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
-    Vogel</span></span>
+    <span class="css-1baulvz" itemprop="name">Sharon LaFraniere</span>,
+    <span class="css-1baulvz" itemprop="name">Katie Thomas</span>,
+    <span class="css-1baulvz" itemprop="name">Noah Weiland</span>,
+    <span class="css-1baulvz" itemprop="name">Peter Baker</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Terry
-    Ratzlaff for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
+    Fremson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    ## [Elizabeth Warren’s Evolution on Race Brought Her Here](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbLarge.jpg)](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/merlin_169475661_56e5eb41-8da5-4976-93c0-02227d8ec7cd-thumbLarge.jpg)](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
     
     </div>
     
-    House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus and
-    calls for racial
-    justice.
+    Ms. Warren, a racially progressive politician, is the only white
+    woman still under serious consideration to become Joe Biden’s
+    running
+    mate.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Catie
-    Edmondson</span></span>
+    <span class="css-1baulvz" itemprop="name">Lisa Lerer</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Sydney
+    Ember</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by Tony Cenicola/The New York Times. Trump: Doug
-    Mills/The New York
-    Times.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Zehbrauskas for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### News Analysis
-    
-    ## [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](/2020/08/01/us/politics/trump-books.html)
+    ## [How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbLarge.jpg)](/2020/08/01/us/politics/trump-books.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbLarge.jpg)](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
     
     </div>
     
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    The polarizing former sheriff of Maricopa County, a stylistic
+    doppelgänger to President Trump, is running for his old office in a
+    state where approval of both men has
+    slid.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Lyall</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Hank
+    Stephenson</span></span>
     
     </div>
 
@@ -330,23 +329,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/02/us/politics/anthony-tata-pentagon-nomination.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02DC-TATA1/02DC-TATA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## Trump Pick for Pentagon Post Sidesteps Senate Ire for Different Defense Job
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    A retired Army general whose inflammatory comments appeared to doom
+    his nomination was tapped for a job that does not require Senate
+    approval.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Eric
+    Schmitt</span>
     
     </div>
     
@@ -364,24 +364,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
+    [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Biden Faces Pressure From Left Over Influence Industry Ties
+    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
     
-    Many of his aides and close allies are veteran Washington hands who
-    have profited from advising big corporations. The Sanders-Warren
-    wing of the party is not happy.
+    “We need to do a better job next time” of securing the area, the
+    NASA administrator, Jim Bridenstine, said.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
-    Thrush</span>
+    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
+    Waller</span>
     
     </div>
     
@@ -399,26 +398,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-books.html)
+    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
     
-    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
-    
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    Operation Warp Speed has moved along at a rapid clip. But some
+    people involved in the process fear pressure to deliver an October
+    surprise for President Trump.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Lyall</span>
+    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
+    Weiland, Peter Baker <span>and</span> Annie
+    Karni</span>
     
     </div>
     
@@ -436,23 +434,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
+    ## TikTok Ban? Creators and Fans Are Big Mad
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
+    The uncertainty over the future of the wildly popular video app has
+    brought chaos to its user community — and to the entertainment and
+    advertising industries as well.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
+    By <span class="css-1n7hynb">Taylor
+    Lorenz</span>
     
     </div>
     
@@ -470,24 +469,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    [](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
+    ## In St. Louis, Testing Liberal Might Against a Democratic Fixture
     
-    House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus and
-    calls for racial justice.
+    Cori Bush, an activist backed by the progressive group Justice
+    Democrats, is trying to unseat 10-term Representative William Lacy
+    Clay in a bid to turn protest-movement fervor into hard political
+    power.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
-    Edmondson</span>
+    By <span class="css-1n7hynb">Nicholas
+    Fandos</span>
     
     </div>
     
@@ -505,24 +505,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    [](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Tammy Duckworth Is Nothing and Everything Like Joe Biden
+    ## How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s
     
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential ticket.
+    The polarizing former sheriff of Maricopa County, a stylistic
+    doppelgänger to President Trump, is running for his old office in a
+    state where approval of both men has slid.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Flegenheimer</span>
+    By <span class="css-1n7hynb">Hank
+    Stephenson</span>
     
     </div>
     
@@ -540,24 +540,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
+    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01dc-firststep/01dc-firststep-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned
+    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
     
-    Critics say the First Step Act is being applied too arbitrarily by
-    judges who are taking a hard line when it comes to revisiting
-    nonviolent drug sentences.
+    Negotiators acknowledged some progress over the weekend, but said
+    they remained far apart on a number of issues.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Hailey
-    Fuchs</span>
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
     
     </div>
     
@@ -575,26 +574,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
+    [](/2020/08/02/us/politics/kayleigh-mcenany.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01moments1/merlin_175045695_792fda51-d1e1-4b1b-87db-391f651713ec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-kayleigh-pix1/02dc-kayleigh-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ### <span class="css-m70j1g">White HOUse MEMO</span>
     
-    ## Trump’s Approval Rating, Biden V.P. Search: The Latest in the 2020 Race
+    ## Kayleigh McEnany Heckles the Press. Is That All?
     
-    President Trump’s more sober messaging on the coronavirus crisis
-    didn’t last long. For Joe Biden, the search for a running mate may
-    last a little longer.
+    President Trump does not always watch her briefings, and even his
+    allies say she risks being known more for “hitting the press with a
+    two-by-four” than advancing his priorities.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
-    Herndon</span>
+    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Maggie
+    Haberman</span>
     
     </div>
     
@@ -612,26 +611,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/business/trump-financial-disclosure.html)
+    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Better Year for Trump’s Family Business (Last Year, That Is)
+    ## Elizabeth Warren’s Evolution on Race Brought Her Here
     
-    In 2019, the Trump Organization showed improvement over the previous
-    year. But the company’s minimum reported revenues still fell short
-    of the president’s first year in office, his new financial
-    disclosure shows.
+    Ms. Warren, a racially progressive politician, is the only white
+    woman still under serious consideration to become Joe Biden’s
+    running mate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben Protess, Steve Eder
-    <span>and</span> Michael H.
-    Keller</span>
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
+    Ember</span>
     
     </div>
     
@@ -649,23 +646,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/us/politics/white-house-congress-relief-plan-jobless-aid.html)
+    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-virus-cong/merlin_175160493_fd20e84b-c6d8-43b4-8450-d1067875391b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## White House and Congress Clash on Relief Plan as Jobless Aid Expires
+    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
     
-    President Trump and Democrats blamed each other for the lapse of
-    $600-per-week federal unemployment benefits, risking further
-    economic pain and a voter backlash for failing to act.
+    Millions of dollars of Paycheck Protection Program loans went to
+    China-backed businesses in critical sectors, a study found.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily Cochrane</span>
+    By <span class="css-1n7hynb">Alan Rappeport</span>
     
     </div>
     

@@ -83,7 +83,7 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Science](/section/science)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">SpaceX
-Crew Dragon to Bring 2 NASA Astronauts
+Crew Dragon Departs, Carrying NASA Astronauts Toward
 Home</span>
 
 </div>
@@ -143,13 +143,13 @@ Home</span>
 
 [<span class="styln-title-wrap"><span class="css-1pje3qr">SpaceX’s</span><span class="css-1pje3qr">
 Astronaut
-Trip</span></span>](https://www.nytimes3xbfgragh.onion/2020/08/01/science/nasa-spacex-astronauts.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+Trip</span></span>](https://www.nytimes3xbfgragh.onion/2020/08/02/science/spacex-astronauts-splashdown.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [The Voyage
-    Home](https://www.nytimes3xbfgragh.onion/2020/08/01/science/nasa-spacex-astronauts.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [‘Thanks for Flying
+    SpaceX’](https://www.nytimes3xbfgragh.onion/2020/08/02/science/spacex-astronauts-splashdown.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Why NASA Picked
     SpaceX](https://www.nytimes3xbfgragh.onion/2020/05/26/science/spacex-launch-nasa.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Inside SpaceX’s
+  - [Inside the
     Capsule](https://www.nytimes3xbfgragh.onion/interactive/2020/05/26/science/spacex-nasa.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Meet the
     Astronauts](https://www.nytimes3xbfgragh.onion/2020/05/27/science/bob-behnken-doug-hurley.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
@@ -218,13 +218,12 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# SpaceX Crew Dragon to Bring 2 NASA Astronauts Home
+# SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
 
 </div>
 
 Bob Behnken and Doug Hurley are getting ready to splash down after two
-months in
-orbit.
+months in orbit.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -234,9 +233,13 @@ orbit.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>NASA/EPA,
-via
-Shutterstock</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts01/merlin_174995049_2c12a19d-5a92-4615-b582-a236222d7def-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Doug
+Hurley, left, and Bob Behnken, NASA astronauts, aboard the sealed SpaceX
+Crew Dragon capsule as they prepared to undock from the International
+Space Station on Saturday
+night.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>NASA,
+via Associated
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -267,8 +270,8 @@ Chang</span>](https://www.nytimes3xbfgragh.onion/by/kenneth-chang)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">3:30 p.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -276,7 +279,7 @@ Chang</span>](https://www.nytimes3xbfgragh.onion/by/kenneth-chang)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -303,37 +306,41 @@ Chang</span>](https://www.nytimes3xbfgragh.onion/by/kenneth-chang)
 
 <div class="css-53u6y8">
 
-If a hurricane does not get in the way, two astronauts who took the
-first commercial trip to orbit will return home on Sunday.
+Two astronauts who took the first commercial trip to orbit have left the
+International Space Station. They are scheduled to return home on
+Sunday.
 
-Two astronauts, Robert L. Behnken and Douglas G. Hurley, traveled to the
-International Space Station in May aboard a Crew Dragon capsule built
-and run by SpaceX, the private rocket company started by Elon Musk.
+The astronauts, Robert L. Behnken and Douglas G. Hurley, traveled to the
+space station in May aboard a Crew Dragon capsule built and run by
+SpaceX, the private rocket company started by Elon Musk.
 
-The Crew Dragon is scheduled to undock from the space station at about
-7:34 p.m. Eastern time on Saturday and splash down in the Gulf of Mexico
-off Pensacola, Fla., at 2:41 p.m. on Sunday, Jim Bridenstine, the NASA
-administrator, announced on Twitter.
+The Crew Dragon undocked from the space station at 7:35 p.m. Eastern
+time on Saturday, with brief thruster firings pushing the spacecraft
+back.
+
+As the capsule backed away from the station, Mr. Hurley thanked the
+current crew of the space station and the teams on the ground that
+helped manage their mission.
 
 </div>
 
 </div>
 
-<div class="css-nj25e3">
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
 
-> BREAKING: [@NASA](https://twitter.com/NASA?ref_src=twsrc%5Etfw) and
-> [@SpaceX](https://twitter.com/SpaceX?ref_src=twsrc%5Etfw) are
-> targeting Pensacola as the primary return location for Crew Dragon w/
-> [@Astro\_Doug](https://twitter.com/Astro_Doug?ref_src=twsrc%5Etfw) and
-> [@AstroBehnken](https://twitter.com/AstroBehnken?ref_src=twsrc%5Etfw)
-> from the
-> [@Space\_Station](https://twitter.com/Space_Station?ref_src=twsrc%5Etfw).
-> We are targeting undocking at 7:34 p.m. EDT today. Read more:
-> <https://t.co/Xdh8iIpLxz>
-> [pic.twitter.com/9p5TRMevAH](https://t.co/9p5TRMevAH)
-> 
-> — Jim Bridenstine (@JimBridenstine)
-> [August 1, 2020](https://twitter.com/JimBridenstine/status/1289617675572969472?ref_src=twsrc%5Etfw)
+<div class="css-53u6y8">
+
+“We look forward to splashdown tomorrow,” he said.
+
+If the weather conditions remain favorable, it will splash down in the
+Gulf of Mexico off Pensacola, Fla., at 2:48 p.m. on Sunday, NASA
+announced.
+
+</div>
+
+</div>
+
+<div>
 
 </div>
 
@@ -344,17 +351,10 @@ administrator, announced on Twitter.
 A safe return would open up more trips to and from orbit for future
 astronaut crews, and possibly space tourists, aboard the spacecraft.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Hurricane Isaias is forecast to sweep up along the Atlantic coast of
-Florida over the weekend. NASA and SpaceX have seven splashdown sites in
-the Gulf of Mexico and the Atlantic, but the track of Isaias ruled out
+[Isaias is forecast to sweep up along the Atlantic coast of
+Florida](https://www.nytimes3xbfgragh.onion/2020/08/01/us/hurricane-isaias-track.html)
+over the weekend. NASA and SpaceX have seven splashdown sites in the
+Gulf of Mexico and the Atlantic, but the track of the storm ruled out
 the three in the Atlantic.
 
 </div>
@@ -368,10 +368,6 @@ the three in the Atlantic.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-The departure could still be pushed back to Sunday night with a
-splashdown on Monday afternoon. NASA and SpaceX will make a final
-decision around 5 p.m. whether to proceed with the undocking.
 
 “We have confidence that the teams on the ground are, of course,
 watching that much more closely than we are,” Mr. Behnken said during a
@@ -389,12 +385,79 @@ in front of us.”
 
 ## How can I watch the return of the astronauts?
 
-[NASA Television](https://www.nasa.gov/multimedia/nasatv/#public)
-broadcast [a farewell ceremony on Saturday
-morning](https://twitter.com/NASA/status/1289548827012333570). Coverage
-of the undocking will begin at 5:15 p.m. and is to continue through
-splashdown. The coverage would be pushed back if weather delays the
-departure.
+[NASA Television](https://www.nasa.gov/multimedia/nasatv/#public)’s
+coverage of the undocking will continue through splashdown. You can
+watch it in the video player below.
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## What will happen after they leave the station?
+
+The capsule is now performing a series of burns to move away from the
+station and then line up with the splashdown site.
+
+For much of the trip, Mr. Behnken and Mr. Hurley will be sleeping. Their
+[schedule sets
+aside](https://twitter.com/NASA/status/1289245570565992449)a full night
+of rest.
+
+Any return journey that exceeds six hours has to be long enough for the
+crew to get some sleep between undocking and splashdown, Daniel Huot, a
+NASA spokesman, said in an email.
+
+Otherwise, because of the extended process that leads up to undocking,
+the crew would end up working more than 20 hours straight, “which is not
+safe for dynamic operations like water splashdown and recovery,” Mr.
+Huot said.
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Just before a final burn that will drop the Crew Dragon out of orbit on
+Sunday afternoon, it will jettison the bottom part of the spacecraft,
+known as the trunk, which will then burn up in the atmosphere.
+
+At re-entry, the Crew Dragon will be traveling at about 17,500 miles per
+hour. Two small parachutes will deploy at an altitude of 18,000 feet
+when the spacecraft has already been slowed by Earth’s atmosphere to
+about 350 miles per hour. The four main parachutes deploy at an altitude
+of about 6,000 feet.
+
+Once the capsule splashes in the water, it is expected to take 45 to 60
+minutes to pluck them out.
+
+## Why does Isaias affect the departure?
+
+The storm complicated where splashdown could take place. At the
+splashdown site, winds must be less than 10 miles per hour for the
+capsule to land safely. There are additional constraints on waves, rain
+and lightning. In addition, helicopters that take part in the recovery
+of the capsule must be able to fly and land safely.
+
+The first landing opportunity will aim for only the primary site,
+Pensacola. If weather there is inconsistent with the rules, the capsule
+and the astronauts will remain in orbit for another day or two, and
+managers will consider the backup site, which is Panama
+City.
 
 </div>
 
@@ -694,33 +757,14 @@ Mapbox, OpenStreetMap
 
 <div class="css-53u6y8">
 
-## Why does Hurricane Isaias affect the departure?
+## Is it safer to land on water or on land?
 
-The storm complicates when and where splashdown can take place. At the
-splashdown site, winds must be less than 10 miles per hour for the
-capsule to land safely. There are additional constraints on waves, rain
-and lightning. In addition, helicopters that take part in the recovery
-of the capsule must be able to fly and land safely.
+Spacecraft can safely return to Earth in either environment.
 
-The first landing opportunity will aim for only the primary site,
-Pensacola. If weather there is inconsistent with the rules, the capsule
-and the astronauts will remain in orbit for another day or two, and
-managers will consider the backup site, which is Panama City.
-
-## What will happen after they leave the station?
-
-After undocking on Saturday night, the spacecraft will perform a series
-of maneuvers, first firing the engines several times to move away from
-the space station and, a few hour hours later, to line up the spacecraft
-with the splashdown zone.
-
-For most of the trip, Mr. Behnken and Mr. Hurley will be sleeping. Their
-[schedule sets aside 10 hours of shut
-eye](https://twitter.com/NASA/status/1289245570565992449).
-
-Any return journey that exceeds six hours has to be long enough for the
-crew to get some sleep between undocking and splashdown, Daniel Huot, a
-NASA spokesman, said in an email.
+During the 1960s and 1970s, NASA’s Mercury, Gemini and Apollo capsules
+all splashed down in the ocean while Soviet capsules all ended their
+trips on land. Russia’s current Soyuz capsules continue to make ground
+landings, as do China’s astronaut-carrying Shenzhou capsules.
 
 </div>
 
@@ -730,36 +774,12 @@ NASA spokesman, said in an email.
 
 <div class="css-53u6y8">
 
-Otherwise, because of the extended process that leads up to undocking,
-the crew would end up working more than 20 hours straight, “which is not
-safe for dynamic operations like water splashdown and recovery,” Mr.
-Huot said.
-
-Just before a final burn that will drop the Crew Dragon out of orbit on
-Sunday afternoon, it will jettison the bottom part of the spacecraft,
-known as the trunk, which will then burn up in the atmosphere.
-
-At re-entry, the Crew Dragon will be traveling at about 17,500 miles per
-hour. Two small parachutes will deploy at an altitude of 18,000 feet
-when the spacecraft has already been slowed by Earth’s atmosphere to
-about 350 miles per hour. The four main parachutes deploy at an altitude
-of about 6,000 feet.
-
-Once the capsule splashes in the water, it is expected to take 45 to 60
-minutes to pluck them
-out.
-
-</div>
-
-</div>
-
-<div class="css-cfo9c3">
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
+When Boeing’s Starliner capsule begins carrying crews to the space
+station, it will return on land, in New Mexico. SpaceX had originally
+planned for the Crew Dragon to do ground landings, but decided that
+water landings, employed for the earlier version of Dragon for taking
+cargo, simplified the development of the
+capsule.
 
 ## Why is the return trip an important part of the Crew Dragon’s first flight?
 
@@ -806,6 +826,14 @@ Hurley](https://www.nytimes3xbfgragh.onion/2020/05/27/science/bob-behnken-doug-h
 who have been friends and colleagues since both were selected by NASA to
 be astronauts in 2000.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Both men have backgrounds as military test pilots and each has flown
 twice before on space shuttle missions, although this is the first time
 they have worked together on a mission. Mr. Hurley flew on the space
@@ -813,7 +841,116 @@ shuttle’s final mission in 2011.
 
 In 2015, they were among the astronauts chosen to work with Boeing and
 SpaceX on the commercial space vehicles that the companies were
-developing. In 2018, they were assigned to the first SpaceX flight.
+developing. In 2018, they were assigned to the first SpaceX
+flight.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>NASA,
+via Associated
+Press</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts02/merlin_175087110_502c4955-3a19-4af0-ae99-6828fd764386-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## What have the astronauts been doing aboard the space station?
+
+Originally, the mission was to last only up to two weeks, but Mr.
+Behnken and Mr. Hurley ended up with a longer and busier stay at the
+space station. Because of repeated delays by SpaceX and Boeing, NASA
+ended up short-handed, with only one astronaut, Christopher J. Cassidy,
+aboard the space station when the Crew Dragon and its two passengers
+docked.
+
+They stayed two months, helping Mr. Cassidy with space station chores.
+Mr. Behnken and Mr. Cassidy performed four spacewalks to complete the
+installation of new batteries on the space station. Mr. Hurley helped by
+operating the station’s robotic arm.
+
+The men have also been contributing to science experiments in low earth
+orbit. They assisted in [a study of water droplet
+formation](https://www.nasa.gov/mission_pages/station/research/behnken-hurley-science-scrapbook)
+in the low gravity environment of the space station using a shower head,
+and another that used fruit punch and foam to look at [how to manage
+fluids in space](https://www.youtube.com/watch?v=2Dzx6b6vSK4). They also
+[helped install new equipment inside the
+station](https://www.nasa.gov/mission_pages/station/research/behnken-hurley-science-scrapbook)
+that will be used in future scientific research.
+
+Mr. Cassidy will remain aboard the station with two Russian astronauts,
+Anatoly Ivanishin and Ivan Vagner. All three are to stay [on board
+through
+October](https://www.nasa.gov/sites/default/files/atoms/files/exp-63-summary.pdf)
+when another crew of one American and two Russian astronauts [will
+replace
+them](https://www.nasa.gov/press-release/nasa-astronaut-kate-rubins-crewmates-to-discuss-upcoming-spaceflight).
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## When are the next Crew Dragon flights, and who will they carry?
+
+The first operational flight of the Crew Dragon will launch no earlier
+than late September. It will take three NASA astronauts — Michael S.
+Hopkins, Victor J. Glover and Shannon Walker — and one Japanese
+astronaut, Soichi Noguchi, to the space station.
+
+The second operational flight, tentatively scheduled for February 2021,
+will carry two NASA astronauts, Robert S. Kimbrough and K. Megan
+McArthur; Akihiko Hoshide of Japan; and Thomas Pesquet of the European
+Space Agency.
+
+Ms. McArthur is married to Mr.
+Behnken.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>John
+Raoux/Associated Press</span></span>
 
 </div>
 

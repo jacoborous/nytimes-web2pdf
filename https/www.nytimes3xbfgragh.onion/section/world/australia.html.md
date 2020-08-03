@@ -192,6 +192,43 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/video/world/australia/100000007269116/coronavirus-restrictions-melbourne.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-briefing-melbourne/merlin_175141296_dccccb19-1179-4660-a45f-369462798c5f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Melbourne Tightens Lockdown as Virus Outbreak Spreads
+    
+    Premier Daniel Andrews of Victoria, Australia, said that starting on
+    Sunday, residents in the metropolitan Melbourne area will be under
+    curfew from 8 p.m. to 5 a.m.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By
+    <span class="css-1n7hynb">Reuters</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/world/australia/melbourne-schools-lessons-america.html)
     
     <div class="css-79elbk">
@@ -223,7 +260,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -259,7 +296,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -294,7 +331,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -335,7 +372,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -370,7 +407,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -406,7 +443,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -441,7 +478,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -482,7 +519,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -504,44 +541,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Besha
-    Rodell</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/realestate/the-most-popular-listings-of-june.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/realestate/15calculator-Redding-Conn/oakImage-1594235532228-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Calculator</span>
-    
-    ## The Most Popular Listings of June
-    
-    The most viewed listings in June included a luxurious farm retreat
-    in Connecticut and a private Australian island property for about $1
-    million.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Kolomatsky</span>
+    By <span class="css-1n7hynb">Besha Rodell</span>
     
     </div>
     

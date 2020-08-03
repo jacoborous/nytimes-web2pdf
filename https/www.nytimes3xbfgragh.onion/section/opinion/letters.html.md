@@ -146,6 +146,72 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/opinion/letters/voting-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/world/09VIRUS-VOTINGLAWSUITS01-inyt/merlin_173278590_c52556cf-1848-4748-bdd6-dac02de7382b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## To Ensure That Our Election Is Fair and Open
+    
+    Readers urge vigilance against threats to the democratic
+    process.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/letters/virus-education.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/opinion/22green1/merlin_174805344_a9f138d7-63cb-4a6b-956c-ba8704fc3ec8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Do Learning Pods Endanger Equality?
+    
+    Readers discuss closed schools, pods and
+    inequities.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/opinion/letters/disability-law.html)
     
     <div class="css-79elbk">
@@ -174,7 +240,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -208,7 +274,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +309,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +343,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +378,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +413,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -382,7 +448,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -403,75 +469,6 @@ story](#after-sponsor)
     Grandmothers agonize over whether it’s safe to attend a grandson’s
     wedding and relate the joys of sharing space and a journal with
     grandchildren.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/opinion/letters/trump-convention.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/23gop-convention/merlin_174881487_53836bf3-ff60-4417-81e6-129efa24429c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Why Trump Canceled the Convention
-    
-    Readers react to the change of plan. One says the president’s ego
-    was the motivation, not safety concerns. Also: Baseball’s mistake;
-    hope and despair; a tribute to Brooks
-    Brothers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/opinion/letters/protests-portland.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/26kristof2/merlin_174823974_38af76d5-f3db-46e3-b9a6-01e3ec05bb9b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Letters</span>
-    
-    ## As Federal Forces Confront Protesters
-    
-    Readers condemn President Trump’s use of armed forces in Portland,
-    Ore. One reader describes “a real war on American cities in a feeble
-    attempt to save his presidency.”
     
     <div class="css-1nqbnmb ea5icrr0">
     

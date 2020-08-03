@@ -140,15 +140,42 @@ Scene](/column/anatomy-of-a-scene)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney +, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jackson
+    Finter/IFC
+    Midnight</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/23horror-isolation1/23horror-isolation1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/23horror-isolation1/23horror-isolation1-thumbStandard.jpg)](/2020/07/29/movies/horror-she-dies-tomorrow-relic-amulet.html)
+    
+    </div>
+    
+    ### Critic’s Notebook
+    
+    ## [The Horror of Isolation](/2020/07/29/movies/horror-she-dies-tomorrow-relic-amulet.html)
+    
+    Three new movies show why this cinematic genre is best suited to the
+    Covid-19 era, when isolation has become not just a way of life, but
+    necessary to avoid
+    deaths.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jason
+    Zinoman</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    White/Parkwood Entertainment and Disney+, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/merlin_175156710_9a080074-027a-45b4-b8e5-62196ac030c8-jumbo.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
     </div>
     
@@ -170,55 +197,7 @@ Scene](/column/anatomy-of-a-scene)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
-    Maron</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-thumbStandard.jpg)](/2020/07/31/movies/marc-maron-lynn-shelton.html)
-    
-    </div>
-    
-    ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
-    
-    The comedian and podcaster reflects on his relationship with the
-    filmmaker and TV director who died unexpectedly in
-    May.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dave
-    Itzkoff</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robyn
-        Beck/Agence France-Presse — Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Beyoncé’s ‘Black Is King’ Is No Secret, but Still Comes With Mystery](/2020/07/30/arts/music/beyonce-black-is-king.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-thumbStandard.jpg)](/2020/07/30/arts/music/beyonce-black-is-king.html)
-        
-        </div>
-        
-        Her latest project is her first with Disney+: a visual album
-        connected to the music she oversaw for the “Lion King” remake.
-        And as usual, she’s captured fans’ attention by saying
-        little.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ben
-        Sisario</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -239,6 +218,29 @@ Scene](/column/anatomy-of-a-scene)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Mekado
         Murphy</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
+        Maron</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-thumbStandard.jpg)](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        
+        </div>
+        
+        The comedian and podcaster reflects on his relationship with the
+        filmmaker and TV director who died unexpectedly in
+        May.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dave
+        Itzkoff</span></span>
         
         </div>
 
@@ -284,24 +286,21 @@ Scene](/column/anatomy-of-a-scene)
     
     </div>
 
-3.  ### Critic’s Notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jackson
-    Finter/IFC
-    Midnight</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/23horror-isolation1/23horror-isolation1-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Columbia
+    Pictures</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/00brimley/00brimley-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Horror of Isolation](/2020/07/29/movies/horror-she-dies-tomorrow-relic-amulet.html)
+    ## [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](/2020/08/01/obituaries/wilford-brimley-dead.html)
     
-    Three new movies show why this cinematic genre is best suited to the
-    Covid-19 era, when isolation has become not just a way of life, but
-    necessary to avoid
-    deaths.
+    Recognizable by his walrus mustache, the actor specialized in
+    playing cantankerous characters in “Absence of Malice,” “The
+    Natural” and other
+    films.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Zinoman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">William
+    Grimes</span></span>
     
     </div>
 
@@ -323,23 +322,21 @@ Scene](/column/anatomy-of-a-scene)
     
     </div>
 
-5.  ### Your Weekend Watch With Tony and Manohla
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anuj
-    Shrestha</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31Weekend-Watch-LoveBasketball/31Weekend-Watch-LoveBasketball-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artisan
+    Home
+    Entertainment</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Director Gina Prince-Bythewood Has Always Had Game](/2020/07/28/movies/love-basketball-viewing-party.html)
+    ## [Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’](/2020/07/31/movies/comfort-viewing-terminator-2.html)
     
-    Our readers and critic revisited “Love & Basketball,” the director’s
-    feature debut about a Black girl who plays ball, falls in love and
-    carves out her own path to
-    happiness.
+    Killer robots may not seem like soothing fare, but unlike real life,
+    the world’s horrors come to an end when the movie
+    does.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Manohla
-    Dargis</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Nicolas
+    Rapold</span></span>
     
     </div>
 
@@ -399,6 +396,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    
+    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
+    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elisabeth
+    Egan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/movies/alan-parker-stream.html)
     
     <div class="css-79elbk">
@@ -428,7 +459,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -451,40 +482,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Noel
     Murray</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/comfort-viewing-terminator-2.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
-    
-    Killer robots may not seem like soothing fare, but unlike real life,
-    the world’s horrors come to an end when the movie does.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicolas
-    Rapold</span>
     
     </div>
     
@@ -676,23 +673,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
+    [](/2020/07/30/arts/music/beyonce-black-is-king.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Weekend Roundup</span>
+    ## Beyoncé’s ‘Black Is King’ Is No Secret, but Still Comes With Mystery
     
-    ## 7 Things to Do This Weekend
-    
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
+    Her latest project is her first with Disney+: a visual album
+    connected to the music she oversaw for the “Lion King” remake. And
+    as usual, she’s captured fans’ attention by saying little.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
     
     </div>
     
@@ -710,22 +708,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/movies/the-shadow-of-violence-review.html)
+    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/00shadow/merlin_174880476_ed5df9ba-41ba-4102-a934-f7b70a86736c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘The Shadow of Violence’ Review: Behold, the Bad Man (Again)
+    ### <span class="css-m70j1g">Weekend Roundup</span>
     
-    In this Irish gangster movie, an ex-boxer who works for a vicious
-    criminal enterprise risks destroying himself one blow at a time.
+    ## 7 Things to Do This Weekend
+    
+    How can you get your cultural fix when many arts institutions remain
+    closed? Our writers offer suggestions for what to listen to and
+    watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Manohla Dargis</span>
     
     </div>
     

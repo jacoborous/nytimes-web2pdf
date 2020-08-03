@@ -228,8 +228,8 @@ Lockwood</span>](https://www.nytimes3xbfgragh.onion/by/devi-lockwood)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - Aug. 1,
+    2020
 
   - 
     

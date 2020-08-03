@@ -184,6 +184,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Lady Macbeth in Appalachia, and Other Tales by an American Master
+    
+    With a new collection, “In the Valley,” Ron Rash revisits the
+    monstrous protagonist of “Serena” and plumbs the depths of Southern
+    hearts.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Janet
+    Maslin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
     
     <div class="css-79elbk">
@@ -213,7 +248,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -248,7 +283,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -282,7 +317,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -317,7 +352,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -351,7 +386,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -385,7 +420,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +455,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -455,7 +490,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -477,42 +512,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Parul
-    Sehgal</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/13/books/review-pew-catherine-lacey.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/books/14BOOKLACEY1/14BOOKLACEY1-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## In ‘Pew,’ a Mysterious Stranger Tests a Small Town’s Tolerance
-    
-    The genderless, racially ambiguous and seemingly mute narrator of
-    Catherine Lacey’s third novel makes the people of a Southern town
-    nervous.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Dwight Garner</span>
+    By <span class="css-1n7hynb">Parul Sehgal</span>
     
     </div>
     

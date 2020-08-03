@@ -206,7 +206,7 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
+[](/2020/08/02/podcasts/the-daily/on-female-rage.html)
 
 <div class="css-1g8bx4t">
 
@@ -216,13 +216,13 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 </div>
 
-[](/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
+[](/2020/08/02/podcasts/the-daily/on-female-rage.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## Listen to ‘The Daily’
+## Listen to ‘The Sunday Read’
 
 </div>
 
@@ -230,8 +230,8 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-8oysku e18972d71">
 
-A \#MeToo moment in the
-military.
+“I used to insist I didn’t get angry. Not
+anymore.”
 
 </div>
 
@@ -292,23 +292,23 @@ school.
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
+[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2018/10/03/opinion/the-argument-album-art/the-argument-album-art-square320-v3.png)
+![](https://static01.graylady3jvrrxbe.onion/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-square320.jpg)
 
 </div>
 
 </div>
 
-[](/2020/07/30/opinion/the-argument-authoritarianism-anne-applebaum.html)
+[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## Listen to ‘The Argument’
+## The Book Review Podcast
 
 </div>
 
@@ -316,8 +316,8 @@ school.
 
 <div class="css-8oysku e18972d71">
 
-Opinion columnists on the rise of
-authoritarianism.
+Anne Applebaum on the “seductive lure of
+authoritarianism.”
 
 </div>
 
@@ -379,220 +379,19 @@ authoritarianism.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+[](/2020/08/02/us/politics/coronavirus-vaccine.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>After Plummeting, the Virus Soars Back in Parts of U.S.</span>
+## <span>Scientists Worry About Political Influence Over Vaccine Project</span>
 
 </div>
 
-  - New coronavirus cases are picking up at a dangerous pace in much of
-    the Midwest, and in cities that thought they had seen the worst.
-  - There is a deepening national sense that the progress made in
-    fighting the pandemic is coming undone and that no patch of America
-    is
-safe.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/01/world/coronavirus-covid-19.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1rczz1p">
-
-LIVE
-
-</div>
-
-## Lawmakers Work to Break Impasse Over Aid as $600-a-Week Lifeline Expires
-
-</div>
-
-Top U.S. officials are meeting to discuss a virus relief package.
-Thousands in Berlin protested government-imposed restrictions. Here’s
-the
-latest.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1mnngwr eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div style="margin-bottom:15px">
-
-[](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-
-<div class="css-1g8bx4t">
-
-![Scientists at the Serum Institute in Pune, India, working on a
-bioreactor. Inside is a promising coronavirus vaccine candidate.
-<span class="credit">Atul Loke for The New York
-Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-threeByTwoMediumAt2X.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Indian Billionaires Bet Big on Head Start in Vaccine Race
-
-</div>
-
-The world’s largest vaccine producer has a plan to make hundreds of
-millions of doses of an unproven inoculation. It’s a big gamble.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-nmg095 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-d6yf64" data-aria-hidden="true">
-
-[](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-
-<div class="css-1g8bx4t">
-
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
-
-Scientists at the Serum Institute in Pune, India, working on a
-bioreactor. Inside is a promising coronavirus vaccine candidate.
-<span class="credit">Atul Loke for The New York Times</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>A School Reopens, and the Coronavirus Creeps In</span>
-
-</div>
-
-As more schools abandon plans for in-person classes, one that opened in
-Indiana this week had to quarantine students within hours.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/health/coronavirus-children-camp.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Virus Infected Hundreds at a Georgia Summer Camp
-
-</div>
-
-The camp took precautions but did not require campers to wear masks, the
-C.D.C. reported. Singing and cheering may have contributed to the
-spread.
+  - The coronavirus vaccine initiative in the United States, called
+    Operation Warp Speed, has moved along at a rapid clip.
+  - But scientists fear that White House pressure to deliver by the
+    election may compromise safety and
+effectiveness.
 
 <div>
 
@@ -622,12 +421,9 @@ spread.
 
 <div class="css-1xaqcky">
 
-[](/interactive/2020/07/29/us/schools-reopening-coronavirus.html)
-
 <div class="css-1g8bx4t">
 
-![<span class="credit">Yuliya Parshina-Kottas/The New York
-Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/reader-center/back-to-school-poster/back-to-school-poster-threeByTwoMediumAt2X.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/USA.svg)
 
 </div>
 
@@ -635,22 +431,111 @@ Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/reader-c
 
 <div class="css-1nl6p6m">
 
-[](/interactive/2020/07/29/us/schools-reopening-coronavirus.html)
+[](/2020/08/02/world/coronavirus-covid-19.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## What Back to School Might Look Like
+## Birx Warns That U.S. Epidemic Is in a ‘New Phase’
 
 </div>
 
-Here’s an illustrated guide to how schools will try to control the
-coronavirus when students return to their classrooms, this fall or in
+Dr. Deborah Birx urged Americans in hot spots to consider wearing a mask
+at home if they live with someone who is especially vulnerable. Here’s
 the
-future.
+latest.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1fgqvm0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/us/covid-college-reopening.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Virus Tests and Quarantines: Colleges Brace for an Uncertain Fall</span>
+
+</div>
+
+Colleges are racing to reconfigure dorms, expand testing programs and
+establish detailed social distancing rules.
 
 <div>
 
 <div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ws86q6 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Relief Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+
+</div>
+
+Negotiators acknowledged some progress over the weekend, but said they
+remained far apart on a number of
+issues.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -676,77 +561,7 @@ future.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ede29db66044639aecd12edb0a3b7696a30be7e6/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-[](/2020/08/01/world/europe/germany-nazi-infiltration.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’</span>
-
-</div>
-
-Germany has woken up to a problem of extremism in its special forces.
-But the threat of neo-Nazi infiltration of state institutions is much
-broader.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/01/world/europe/germany-nazi-infiltration.html)
-
-<div class="css-1g8bx4t">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:480px">
-
-</div>
-
-</div>
-
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
-
-A military accessory shop in Schwerin whose owner was part of the
-Nordkreuz group. <span class="credit">Gordon Welters for The New York
-Times</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -760,43 +575,7 @@ Times</span>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-96x60l eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>James Murdoch Resigns From Board of Rupert Murdoch’s News Corp</span>
-
-</div>
-
-“My resignation is due to disagreements over certain editorial content,”
-Mr. Murdoch wrote, severing his formal ties to his father’s media
-empire.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-96x60l eqveam60">
+<div class="css-bs48m0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -806,17 +585,17 @@ empire.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+[](/2020/08/02/technology/florida-teenager-twitter-hack.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
+## <span>From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path</span>
 
 </div>
 
-The Trump administration has said the video app poses security concerns
-because of its Chinese
-ownership.
+The teenage “mastermind” of the recent Twitter breach, who had a
+difficult family life, poured his energy into video games and
+cryptocurrency.
 
 <div>
 
@@ -830,17 +609,71 @@ ownership.
 
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+[](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## What’s going on with TikTok? Here’s what we know.
+## Microsoft Says It Will Continue to Pursue Purchase of TikTok
 
 </div>
+
+Microsoft said it had consulted with President Trump, clearing the way
+for a potential blockbuster deal with the app.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/style/tiktok-ban-threat-trump.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Uncertainty Over TikTok’s Future Unleashes Chaos on App
+
+</div>
+
+President Trump’s threat to ban the app inflamed its user community — as
+well as the entertainment and advertising industries.
 
 <div>
 
@@ -880,17 +713,17 @@ ownership.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+[](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Tammy Duckworth Is Nothing Like Joe Biden and Everything Like Him</span>
+## <span>Elizabeth Warren’s Evolution on Race Brought Her Here</span>
 
 </div>
 
-Despite their disparate backgrounds, the Illinois senator has carved out
-a public life evocative of the man she could join on the presidential
-ticket.
+Ms. Warren, a racially progressive politician, is the last white woman
+under serious consideration to become Joe Biden’s running
+mate.
 
 <div>
 
@@ -922,7 +755,7 @@ ticket.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+[](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
 
 <div class="css-1g8bx4t">
 
@@ -936,9 +769,9 @@ ticket.
 
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-Tammy Duckworth during her Senate campaign in 2016. Like Joseph R. Biden
-Jr., she is a reliable Democrat with moderate instincts.
-<span class="credit">Alyssa Schukar for The New York Times</span>
+Senator Elizabeth Warren made tackling racial disparities a central part
+of her political mission. <span class="credit">Ruth Fremson/The New York
+Times</span>
 
 </div>
 
@@ -956,17 +789,17 @@ Jr., she is a reliable Democrat with moderate instincts.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/us/politics/trump-books.html)
+[](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## In Trumpworld, the Grown-Ups All Left the Room, and Got Book Deals
+## Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s
 
 </div>
 
-A large club of Trump administration evictees have turned their
-bracingly bad experiences into a new genre: political revenge
-literature.
+The former sheriff of Maricopa County, a stylistic doppelgänger to
+President Trump, is running for his old office in a state where approval
+of both has slid.
 
 <div>
 
@@ -990,17 +823,17 @@ literature.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+[](/2020/08/02/business/media/election-coverage.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Suburban Voters Sour on G.O.P. in Battle for the House
+## How the Media Could Get the Election Story Wrong
 
 </div>
 
-Republicans are on the defensive in suburban strongholds as voters
-reject President Trump’s handling of the pandemic and calls for racial
-justice.
+We may not know the results for days, and maybe weeks. So it’s time to
+rethink “election night,” Ben Smith, our media columnist,
+writes.
 
 <div>
 
@@ -1034,11 +867,11 @@ justice.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/01/us/hurricane-isaias-track.html)
+[](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Hurricane Isaias Hits Bahamas and Churns Toward Florida</span>
+## <span>‘Clean Up This Mess’: The Chinese Thinkers Behind Xi’s Hard Line</span>
 
 </div>
 
@@ -1050,17 +883,14 @@ justice.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/01/us/hurricane-isaias-track.html)
+[](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
 
-The Category 1 storm may hit Florida’s coast, further testing a state
-that has been battered by the coronavirus pandemic. Follow updates
-here.
+Academics have been honing President Xi Jinping’s authoritarian response
+in Hong Kong, rejecting the liberal ideas of their youth.
 
-<div class="css-1slnf6i">
+<div>
 
 <div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
 
 </div>
 
@@ -1093,6 +923,8 @@ here.
 </div>
 
 <div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1qiat4j eqveam63">
 
@@ -1100,23 +932,17 @@ here.
 
 <div class="css-qvz0vj eqveam61">
 
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/briefing/11-of-our-best-weekend-reads.html)
+[](/interactive/2020/world/coronavirus-health-care-workers.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>11 of Our Best Weekend Reads</span>
+## <span>In Harm’s Way: Fighting the Summer Surge</span>
 
 </div>
 
-Mourning John Lewis. Advances in Alzheimer’s research. Sheep in Senegal.
-Ben & Jerry. And
-more.
+In the South and parts of the Southwest, health care workers are now
+battling outbreaks they hoped would never reach
+them.
 
 <div>
 
@@ -1130,63 +956,17 @@ more.
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="css-pwtn0q eqveam60">
+<div class="css-zmmks0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/31/briefing/11-of-our-best-weekend-reads.html)
-
 <div class="css-1g8bx4t">
 
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:177.77777777777777px">
-
-</div>
+<div>
 
 </div>
 
 <div class="css-e4gm3y">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/interactive/2020/07/31/briefing/troops-baseball-louie-gohmert-news-quiz.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Did you follow the headlines this week? Take our news quiz.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
 
 </div>
 
@@ -1226,14 +1006,7 @@ more.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/opinion/columnists/trump-coronavirus-herman-cain.html)
-
-<div class="css-dcl9ft">
-
-![Maureen
-Dowd](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/02/opinion/hong-kong-election-china.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1241,17 +1014,17 @@ Dowd](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/maureen-
 
 <div class="css-1dvlumo e18df3gd0">
 
-Maureen Dowd
+Fernando Cheung
 
 </div>
 
 </div>
 
-## Double, Double, Trump’s Toil, Our Trouble
+## Why Did Hong Kong Delay Its Election — by a Year?
 
 </div>
 
-Demon sperm meets alien D.N.A., as President Trump teeters.
+The government blames the pandemic. More likely, it was afraid to lose.
 
 <div>
 
@@ -1277,7 +1050,14 @@ Demon sperm meets alien D.N.A., as President Trump teeters.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
+[](/2020/08/02/opinion/02tik-tok-china-trump.html)
+
+<div class="css-dcl9ft">
+
+![Kara
+Swisher](https://static01.graylady3jvrrxbe.onion/images/2018/08/02/opinion/02swisher/02swisher-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1285,18 +1065,19 @@ Demon sperm meets alien D.N.A., as President Trump teeters.
 
 <div class="css-1dvlumo e18df3gd0">
 
-Sarah Gerard
+Kara Swisher
 
 </div>
 
 </div>
 
-## Talking to the Dead in the Sunshine State
+## There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up
 
 </div>
 
-I was searching for facts, for a lost friend, and for what couldn’t be
-explained.
+Microsoft wants to buy the Chinese app, and the administration needs to
+get out of the
+way.
 
 <div>
 
@@ -1314,11 +1095,11 @@ explained.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
+[](/2020/08/02/opinion/02tik-tok-china-trump.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1340,7 +1121,243 @@ explained.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/01/opinion/minerva-college-coronavirus.html)
+[](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+The Editorial Board
+
+</div>
+
+</div>
+
+## Congress, Test Thyself
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/opinion/trump-2020-election.html)
+
+<div class="css-dcl9ft">
+
+![Charles M.
+Blow](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/charles-m-blow/charles-m-blow-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Charles M. Blow
+
+</div>
+
+</div>
+
+## Trump Forecasts His Own Fraud
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/opinion/biden-child-care.html)
+
+<div class="css-dcl9ft">
+
+![Bryce
+Covert](https://static01.graylady3jvrrxbe.onion/images/2017/08/15/opinion/bryce-covert/bryce-covert-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Bryce Covert
+
+</div>
+
+</div>
+
+## Biden’s Quietly Radical Care Plan
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/opinion/utility-corruption-energy.html)
+
+<div class="css-dcl9ft">
+
+![Justin
+Gillis](https://static01.graylady3jvrrxbe.onion/images/2018/02/13/opinion/justin-gillis/justin-gillis-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Justin Gillis
+
+</div>
+
+</div>
+
+## When Utility Money Talks
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/sunday-review/horse-crazy-nir-language.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Sarah Maslin Nir
+
+</div>
+
+</div>
+
+## To Break a Horse, and a Woman
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/02/opinion/baseball-coronavirus-Marlins.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Doug Glanville
+
+</div>
+
+</div>
+
+## Baseball Is Playing for Its Life, and Ours
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Sarah Gerard
+
+</div>
+
+</div>
+
+## Talking to the Dead in the Sunshine State
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+
+<div class="css-dcl9ft">
+
+![Maureen
+Dowd](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Maureen Dowd
+
+</div>
+
+</div>
+
+## Double, Double, Trump’s Toil, Our Trouble
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
 
 <div class="css-dcl9ft">
 
@@ -1355,243 +1372,14 @@ Bruni](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/frank-b
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Frank Bruni
+Frank
+Bruni
 
 </div>
 
 </div>
 
 ## How to Go to College During a Pandemic
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-The Editorial Board
-
-</div>
-
-</div>
-
-## Federal Agents Don’t Need Army Fatigues
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/coronavirus-economy.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Dambisa Moyo
-
-</div>
-
-</div>
-
-## 3 Things to Make the World Immediately Better After Covid-19
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
-
-<div class="css-dcl9ft">
-
-![Basharat
-Peer](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/Basharat-Peer/Basharat-Peer-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Basharat Peer
-
-</div>
-
-</div>
-
-## A Friendship, a Pandemic and a Death Beside the Highway
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/28/opinion/coronavirus-schools-reopening.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Emily Oster
-
-</div>
-
-</div>
-
-## What Will Schools Do When a Teacher Gets Covid-19?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Akiko Iwasaki and Ruslan Medzhitov
-
-</div>
-
-</div>
-
-## Scared That Covid-19 Immunity Won’t Last? Don’t Be
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/trump-resign.html)
-
-<div class="css-dcl9ft">
-
-![Timothy
-Egan](https://static01.graylady3jvrrxbe.onion/images/2018/05/11/opinion/timothy-egan/timothy-egan-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Timothy Egan
-
-</div>
-
-</div>
-
-## Trump, Please Quit Before You’re Fired
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/31/opinion/israeli-palestinian-peace.html)
-
-<div class="css-dcl9ft">
-
-![Roger
-Cohen](https://static01.graylady3jvrrxbe.onion/images/2014/11/01/opinion/cohen-circular/cohen-circular-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Roger Cohen
-
-</div>
-
-</div>
-
-## The Less Impossible Israeli-Palestinian Peace
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/30/opinion/john-lewis-civil-rights-america.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-John
-Lewis
-
-</div>
-
-</div>
-
-## Together, You Can Redeem the Soul of Our Nation
 
 </div>
 
@@ -1623,74 +1411,36 @@ Lewis
 
 <div>
 
-<div class="css-15poin4">
+<div class="css-1xaqcky">
 
-[](/2020/07/30/arts/television/the-moment-racism-tv.html)
+[](/interactive/2020/07/29/us/schools-reopening-coronavirus.html)
+
+<div class="css-1g8bx4t">
+
+![<span class="credit">Yuliya Parshina-Kottas/The New York
+Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/reader-center/back-to-school-poster/back-to-school-poster-threeByTwoMediumAt2X.png)
+
+</div>
+
+</div>
+
+<div class="css-1nl6p6m">
+
+[](/interactive/2020/07/29/us/schools-reopening-coronavirus.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-<div class="css-hb0qj3">
-
-The Great Read
+## <span>What Back to School Might Look Like</span>
 
 </div>
 
-## <span>The Reconciliation Must Be Televised</span>
-
-</div>
-
-</div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-7douaa eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/07/30/arts/television/the-moment-racism-tv.html)
-
-What is America’s next step in confronting its racism? A broadcast
-spectacle, our critic writes, that could look like court, a telethon, an
-Oprah show — and
-more.
+Here’s an illustrated guide to how schools will try to control the
+coronavirus when students return to their classrooms, this fall or in
+the future.
 
 <div>
 
 <div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-7douaa eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/07/30/arts/television/the-moment-racism-tv.html)
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:145.33333333333334px">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -1718,17 +1468,17 @@ more.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/31/books/raven-leilani-luster.html)
+[](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Raven Leilani, a Flâneur Who Is Going Places
+## The Most Soothing Man on TikTok
 
 </div>
 
-The novelist’s debut, “Luster,” is winning accolades for its unfiltered
-depiction of sex, failure and a Black woman adrift in work and
-life.
+By slowing down and soaking it all in, Larry Scott makes the TikTok
+experience …
+nice.
 
 <div>
 
@@ -1746,7 +1496,7 @@ life.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/31/books/raven-leilani-luster.html)
+[](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
 
 <div class="css-1g8bx4t">
 
@@ -1780,17 +1530,17 @@ life.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
+[](/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One
+## The Groundbreaking Scientist Who Risked All in Pursuit of His Beliefs
 
 </div>
 
-Interest in fractional investments has grown as the pandemic has forced
-more people to spend time at home, but advisers say the strategy has
-risks.
+“A Dominant Character,” by Samanth Subramanian, recounts the turbulent
+life of J.B.S. Haldane, the great British biologist and political
+activist.
 
 <div>
 
@@ -1808,7 +1558,7 @@ risks.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
+[](/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
 
 <div class="css-1g8bx4t">
 
@@ -1874,6 +1624,10 @@ story](#after-dfp-ad-mid1-large)
 </div>
 
 <div class="css-19tmjl7">
+
+<div>
+
+</div>
 
 </div>
 
