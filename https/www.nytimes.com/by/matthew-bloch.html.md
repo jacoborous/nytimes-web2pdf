@@ -173,13 +173,13 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/us/hurricane-isaias-tracker-map-promo-1596209917104/hurricane-isaias-tracker-map-promo-1596209917104-thumbWide-v6.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/us/hurricane-isaias-tracker-map-promo-1596209917104/hurricane-isaias-tracker-map-promo-1596209917104-thumbWide-v10.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ## Hurricane Isaias Tracking Map
     
-    Follow the storm’s path as it approaches the Florida coast.
+    Follow the storm’s path as it moves north along the Atlantic Coast.
     
     <div class="css-1nqbnmb ea5icrr0">
     

@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -472,6 +472,105 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="bernaldina-josé-pedro" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/30Pedro/30Pedro-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Bernaldina José Pedro
+
+<div class="g-meta">
+
+<span>d. Boa Vista, Brazil</span>
+
+</div>
+
+<div class="g-summ">
+
+Leader among the Indigenous
+Macuxi
+
+</div>
+
+</div>
+
+</div>
+
+<div id="john-eric-swing" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# John Eric Swing
+
+<div class="g-meta">
+
+<span>d. Fountain Valley, Calif. </span>
+
+</div>
+
+<div class="g-summ">
+
+Champion of
+Filipino-Americans
+
+</div>
+
+</div>
+
+</div>
+
+<div id="victor-victor-" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Victor Victor
+
+<div class="g-meta">
+
+<span>d. Santo Domingo, Dominican Republic</span>
+
+</div>
+
+<div class="g-summ">
+
+Beloved musician of the Dominican
+Republic
+
+</div>
+
+</div>
+
+</div>
+
 <div id="dr-eddie-negrón" class="g-obit">
 
 <div class="g-flex-wrapper-image">
@@ -562,106 +661,7 @@ songwriter
 
 <div class="g-summ">
 
-Teacher and social
-worker
-
-</div>
-
-</div>
-
-</div>
-
-<div id="hugh-freyer" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Hugh Freyer
-
-<div class="g-meta">
-
-<span>d. Bronx, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Banker executive and devoted poker
-player
-
-</div>
-
-</div>
-
-</div>
-
-<div id="renada-mcguire" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/27McGuire/27McGuire-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Renada McGuire
-
-<div class="g-meta">
-
-<span>d. Jacksonville, Fla.</span>
-
-</div>
-
-<div class="g-summ">
-
-Home health
-aide
-
-</div>
-
-</div>
-
-</div>
-
-<div id="katherine-b-hoffman" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/27Hoffman/27Hoffman-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Katherine B. Hoffman
-
-<div class="g-meta">
-
-<span>d. Tallahassee, Fla.</span>
-
-</div>
-
-<div class="g-summ">
-
-Chemistry professor and champion of F.S.U. women
+Teacher and social worker
 
 </div>
 

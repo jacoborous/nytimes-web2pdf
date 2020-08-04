@@ -184,6 +184,40 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Google Pixel 4A Review: At $350, a Win for Those on a Budget
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brian X.
+    Chen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
     
     <div class="css-79elbk">
@@ -212,7 +246,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -247,7 +281,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -281,7 +315,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -315,7 +349,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +383,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -383,7 +417,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -418,7 +452,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -458,7 +492,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -487,39 +521,6 @@ story](#after-sponsor)
     
     [Leer en
     español](https://www.nytimes3xbfgragh.onion/es/2020/04/22/espanol/ciencia-y-tecnologia/ipad-pandemia.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/04/15/technology/personaltech/virus-essential-tech.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/business/15Techfix-illo/15Techfix-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Virus Revealed Our Essential Tech (and Weeded Out the Excess)
-    
-    A computer with a good internet connection, communication apps and
-    entertainment are the only tech we really need, ever.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Brian X. Chen</span>
     
     </div>
     

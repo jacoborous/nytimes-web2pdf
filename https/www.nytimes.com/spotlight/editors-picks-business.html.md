@@ -357,40 +357,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/17/technology/airbnb-coronavirus-layoffs-.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Airbnb Was Like a Family, Until the Layoffs Started
-    
-    What happens when a kumbaya office culture meets the business
-    realities of a pandemic?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Erin
-    Griffith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/07/02/business/covid-economy-parents-kids-career-homeschooling.html)
     
     <div class="css-79elbk">
@@ -426,7 +392,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -461,7 +427,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -496,7 +462,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -531,7 +497,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -566,7 +532,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -601,7 +567,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -635,7 +601,7 @@ story](#after-mid1)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -657,7 +623,43 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate Conger</span>
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/05/28/business/renters-background-checks.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/05/31/business/00markup-renters1/00markup-renters1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Automated Background Checks Freeze Out Renters
+    
+    Algorithms that scan everything from terror watch lists to eviction
+    records spit out flawed tenant screening reports. And almost nobody
+    is watching.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lauren Kirchner <span>and</span>
+    Matthew Goldstein</span>
     
     </div>
     

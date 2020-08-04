@@ -214,6 +214,12 @@ story](#after-sponsor)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">

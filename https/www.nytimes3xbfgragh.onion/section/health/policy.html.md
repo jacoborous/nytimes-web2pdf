@@ -176,6 +176,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/24/us/nadine-taub-feminist-lawyer-dead.html)
     
     <div class="css-79elbk">
@@ -205,7 +240,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +274,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +310,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +345,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +380,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +414,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -413,7 +448,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -449,7 +484,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -471,41 +506,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/08/upshot/health-jobs-plummeting-virus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/08/upshot/08up-margot-health-1-1588947283404/08up-margot-health-1-1588947283404-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why 1.4 Million Health Jobs Have Been Lost During a Huge Health Crisis
-    
-    The industry used to be recession-proof. Not anymore. The
-    postponement of elective procedures has crushed the bottom line.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Margot Sanger-Katz</span>
+    By <span class="css-1n7hynb">Sam Roberts</span>
     
     </div>
     

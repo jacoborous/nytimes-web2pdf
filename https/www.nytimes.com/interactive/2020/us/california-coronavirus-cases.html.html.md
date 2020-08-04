@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 3, 2020, 9:07 P.M.
 E.T.
 
 </div>
@@ -404,7 +404,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-515,937
+522,192
 
 </div>
 
@@ -420,7 +420,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-9,399
+9,500
 
 </div>
 
@@ -455,50 +455,21 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-At least 34 new coronavirus deaths and 6,430 new cases were were
-reported in California on Aug. 2. Over the past week, there have been an
-average of 8,086 cases per day, a decrease of 11 percent from the
-average two weeks earlier.
+At least 34 new coronavirus deaths and 6,430 new cases were reported in
+California on Aug. 2. Over the past week, there have been an average of
+8,086 cases per day, a decrease of 11 percent from the average two weeks
+earlier.
 
-As of Monday morning, there have been at least 515,900 cases and 9,399
+As of Monday evening, there have been at least 522,100 cases and 9,500
 deaths in California since the beginning of the pandemic, according to a
-New York Times database.
-
-The total [U.S. death toll
-surpassed 150,000](https://www.nytimes.com/2020/07/29/us/coronavirus-deaths-150000.html)
-on Wednesday, far eclipsing predictions made by President Trump and
-leading experts. And even these figures are likely to be undercounts,
-experts say.
-
-In California, which shut down early and initially appeared to have the
-virus in check, rising cases and deaths have [felt maddening for
-residents](https://www.nytimes.com/2020/07/30/us/coronavirus-california-health-equity.html)
-who believe they’re taking the threat seriously. More than 70 percent of
-Californians say people should always wear masks in public, [the latest
-statewide
-survey](https://www.ppic.org/press-release/most-californians-worry-about-illness-and-finances-due-to-covid-19-overwhelming-majority-believe-masks-should-be-worn-in-public/)
-by the nonprofit Public Policy Institute of California showed.
-
-“The thing that makes me optimistic is that the people who are trying to
-address the pandemic are realizing we can’t just put out nice public
-health announcements,” said Dr. Kirsten Bibbins-Domingo, the vice dean
-for population health and health equity at the School of Medicine at
-U.C. San Francisco.
-
-“There are big structural factors that make it challenging to control,
-and when things are challenging in one part of our community, the entire
-community can’t really do the things it wants to do and open up,” Dr.
-Bibbins-Domingo said. She also noted that rural areas in California have
-had to airlift coronavirus patients to other counties, making it harder
-to control the spread of the virus and endangering a major economic
-driver for the
-state.
+New York Times
+database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
 
@@ -935,9 +906,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>California </span></td>
-<td><span>515,937 </span></td>
-<td><span>1,306 </span></td>
-<td><span>9,399 </span></td>
+<td><span>522,192 </span></td>
+<td><span>1,322 </span></td>
+<td><span>9,500 </span></td>
 <td><span>24 </span></td>
 <td><span>56,599 </span></td>
 <td><span>143 </span></td>
@@ -954,13 +925,13 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/california.svg" alt="California heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/california.svg" alt="California heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Kern </span></td>
-<td><span>20,796 </span></td>
-<td><span>2,310 </span></td>
+<td><span>21,162 </span></td>
+<td><span>2,351 </span></td>
 <td><span>144 </span></td>
 <td><span>16 </span></td>
 <td><span>3,886 </span></td>
@@ -968,7 +939,7 @@ in last<br />
 <td><span>21 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/kern.svg" alt="Kern heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/kern.svg" alt="Kern heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -982,13 +953,13 @@ in last<br />
 <td><span>9 </span></td>
 <td><span>6 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/kings.svg" alt="Kings heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/kings.svg" alt="Kings heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Merced </span></td>
-<td><span>4,285 </span></td>
-<td><span>1,543 </span></td>
+<td><span>4,422 </span></td>
+<td><span>1,592 </span></td>
 <td><span>50 </span></td>
 <td><span>18 </span></td>
 <td><span>1,040 </span></td>
@@ -996,13 +967,13 @@ in last<br />
 <td><span>23 </span></td>
 <td><span>8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/merced.svg" alt="Merced heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/merced.svg" alt="Merced heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Colusa </span></td>
-<td><span>327 </span></td>
-<td><span>1,518 </span></td>
+<td><span>335 </span></td>
+<td><span>1,555 </span></td>
 <td><span>4 </span></td>
 <td><span>19 </span></td>
 <td><span>62 </span></td>
@@ -1010,27 +981,27 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>9 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/colusa.svg" alt="Colusa heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/colusa.svg" alt="Colusa heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Tulare </span></td>
-<td><span>9,520 </span></td>
-<td><span>2,042 </span></td>
-<td><span>178 </span></td>
-<td><span>38 </span></td>
+<td><span>9,745 </span></td>
+<td><span>2,090 </span></td>
+<td><span>189 </span></td>
+<td><span>41 </span></td>
 <td><span>1,210 </span></td>
 <td><span>260 </span></td>
 <td><span>10 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/tulare.svg" alt="Tulare heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/tulare.svg" alt="Tulare heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Fresno </span></td>
-<td><span>15,448 </span></td>
-<td><span>1,546 </span></td>
+<td><span>15,759 </span></td>
+<td><span>1,577 </span></td>
 <td><span>138 </span></td>
 <td><span>14 </span></td>
 <td><span>2,582 </span></td>
@@ -1038,21 +1009,21 @@ in last<br />
 <td><span>26 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/fresno.svg" alt="Fresno heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/fresno.svg" alt="Fresno heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Madera </span></td>
-<td><span>2,103 </span></td>
-<td><span>1,337 </span></td>
-<td><span>30 </span></td>
-<td><span>19 </span></td>
+<td><span>2,123 </span></td>
+<td><span>1,349 </span></td>
+<td><span>32 </span></td>
+<td><span>20 </span></td>
 <td><span>379 </span></td>
 <td><span>241 </span></td>
 <td><span>11 </span></td>
 <td><span>7 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/madera.svg" alt="Madera heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/madera.svg" alt="Madera heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1066,35 +1037,35 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/mono.svg" alt="Mono heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/mono.svg" alt="Mono heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Stanislaus </span></td>
-<td><span>9,221 </span></td>
-<td><span>1,675 </span></td>
-<td><span>112 </span></td>
-<td><span>20 </span></td>
+<td><span>9,277 </span></td>
+<td><span>1,685 </span></td>
+<td><span>126 </span></td>
+<td><span>23 </span></td>
 <td><span>1,227 </span></td>
 <td><span>223 </span></td>
 <td><span>22 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/stanislaus.svg" alt="Stanislaus heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/stanislaus.svg" alt="Stanislaus heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>San Joaquin </span></td>
-<td><span>11,807 </span></td>
-<td><span>1,549 </span></td>
-<td><span>168 </span></td>
-<td><span>22 </span></td>
+<td><span>11,937 </span></td>
+<td><span>1,566 </span></td>
+<td><span>180 </span></td>
+<td><span>24 </span></td>
 <td><span>1,460 </span></td>
 <td><span>192 </span></td>
 <td><span>58 </span></td>
 <td><span>8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_06/san_joaquin.svg" alt="San Joaquin heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_06/san_joaquin.svg" alt="San Joaquin heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1115,10 +1086,19 @@ and deaths that were reported in the last seven days.</span>
 
 </div>
 
+For five months, officials in Modoc had hoped that the county’s
+isolation in the northeastern corner of the state would spare it from
+the virus — it had been the last county in the state without any
+confirmed cases. But Modoc is not an island.
+
+Last week, a couple in Alturas [tested
+positive](https://www.nytimes.com/2020/08/03/us/california-coronavirus-modoc-county.html).
+Now the message seems clear: If the virus made it to Modoc County, where
+the closest big town is a two-hour drive, it’s everywhere in California.
+
 Sign up for our [California Today
 newsletter](https://www.nytimes.com/newsletters/california-today), for
-top news and features from across one of America’s largest and most
-dynamic states.
+top news and features from across the state.
 
 The New York Times is engaged in a comprehensive effort to track details
 about every reported case in the United States, collecting information
@@ -1551,33 +1531,34 @@ State by
 ## <span class="g-balancer" data-id="12">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
-growing.](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
 It seems that there are [four factors that most likely play a
-role](https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html):
+role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
 how much you touch your face afterwards.
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
-steps](https://www.nytimes.com/article/prepare-for-coronavirus.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show®ion=TOP_BANNER&context=storyline_menu#link-56871453):
+steps](https://www.nytimes.com/article/prepare-for-coronavirus.html):
 
 <div class="g-container g-list-circle">
 
 Keep your distance from others. Stay at least six feet away from people
 outside your household as much as possible.
 
+Wear a mask outside your home. A mask protects others from your germs,
+and it protects you from infection as well. The more people who wear
+masks, the more we all stay safer.
+
 Wash your hands often. Anytime you come in contact with a surface
 outside your home, scrub with soap for at least 20 seconds, rinse and
 then dry your hands with a clean towel.
 
-Avoid touching your face. The virus primarily spreads when contaminated
-hands touch our nose or mouth or eyes. Try to keep your hands away from
-your face unless you have just recently washed them.
-
-Wear a mask outside your home. A mask protects others from any potential
-infection from you. The more people who wear masks, the more we all stay
-safer.
+Avoid touching your face. The virus can spread when our hands come into
+contact with the virus, and we touch our nose, mouth or eyes. Try to
+keep your hands away from your face unless you have just recently washed
+them.
 
 </div>
 

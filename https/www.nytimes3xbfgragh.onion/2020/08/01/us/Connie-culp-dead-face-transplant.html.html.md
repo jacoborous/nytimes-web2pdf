@@ -193,8 +193,9 @@ story](#after-sponsor)
 
 </div>
 
-Her near-total face transplant in 2008 was the most complex at the time.
-She was the fourth patient in the world to undergo such a procedure.
+Her near-total transplant in 2008 was at the time the most complex one
+ever performed. She was the fourth patient in the world to undergo such
+a procedure.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -209,7 +210,7 @@ Culp at the Cleveland Clinic in 2009. She was the longest-living face
 transplant recipient in the world, a hospital official
 said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Amy
 Sancetta/Associated
-Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-connieculp-pix1/merlin_175200339_febffdf5-1c8c-47cb-96b2-27c133295c8d-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/multimedia/01xp-connieculp-pix1/merlin_175200339_febffdf5-1c8c-47cb-96b2-27c133295c8d-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -232,7 +233,7 @@ Pietsch</span>](https://www.nytimes3xbfgragh.onion/by/bryan-pietsch)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1,
+    Published Aug. 1, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -241,7 +242,7 @@ Pietsch</span>](https://www.nytimes3xbfgragh.onion/by/bryan-pietsch)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -269,25 +270,24 @@ Pietsch</span>](https://www.nytimes3xbfgragh.onion/by/bryan-pietsch)
 <div class="css-53u6y8">
 
 Connie Culp, the first patient in the United States to receive a face
-transplant, died on Wednesday at the Cleveland Clinic, which had
-performed her procedure in 2008. She was 57.
+transplant, died on Wednesday at the Cleveland Clinic, where her
+procedure was performed in 2008. She was 57.
 
 The cause was an infection unrelated to her transplant, a spokeswoman
-for the hospital said.
+for the hospital said. She said Ms. Culp had been the longest-living
+face transplant patient in the world.
 
-Ms. Culp was the longest-living face transplant patient in the world,
-the spokeswoman said.
+Dr. Frank Papay, chairman of the Cleveland Clinic’s Dermatology and
+Plastic Surgery Institute, said of Ms. Culp, “Her decision to undergo a
+sometimes-daunting procedure is an enduring gift for all of humanity.”
 
-“She was a great pioneer and her decision to undergo a
-sometimes-daunting procedure is an enduring gift for all of humanity,”
-said Dr. Frank Papay, chairman of the Cleveland Clinic’s Dermatology and
-Plastic Surgery Institute.
-
-Dr. Papay was part of the surgical team that performed Ms. Culp’s
-[23-hour
-operation](https://www.nytimes3xbfgragh.onion/2008/12/18/health/s18face.html)
-in 2008, which replaced her damaged face with that of a recently
-deceased woman.
+Dr. Papay was part of the surgical team that performed the operation,
+replacing Ms. Culp’s damaged face with that of a recently deceased
+woman. Lasting 23 hours, it was the most extensive and complicated face
+transplant [at the
+time](https://www.nytimes3xbfgragh.onion/2008/12/17/health/17face.html).
+Three face transplants had been done before hers: two in France and one
+in China.
 
 </div>
 
@@ -296,78 +296,80 @@ deceased woman.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-It was the most extensive and complicated face transplant [at the
-time](https://www.nytimes3xbfgragh.onion/2008/12/17/health/17face.html).
-Three face transplants had been done before Ms. Culp’s: two in France
-and one in China.
 
 A Cleveland Clinic ethics committee had approved such a procedure only
-in 2004, the first such committee to do so. Dr. Eric
-Kodish,<span class="css-8l6xbc evw5hdy0"> </span>then the chairman of
-the clinic’s bioethics department, [told The New York
+in 2004, the first such committee to do so. Dr. Eric Kodish, then the
+chairman of the clinic’s bioethics department, [told The New York
 Times](https://www.nytimes3xbfgragh.onion/2008/12/18/health/s18face.html)
-after the transplant that Ms. Culp had undergone psychological testing
-before the surgery.
+that before the transplant Ms. Culp had undergone psychological testing,
+in which she was asked whether it was she or a family member who wanted
+the transplant. She was also asked how she felt about the prospect of
+living with the face of someone who had died.
 
-She was asked whether it was she or a family member who wanted the
-transplant, and about how she felt about living with the face from a
-dead person, Dr. Kodish said.
+Most of her face had been damaged when she was shot by her husband,
+Thomas Culp, in 2004; her wounds had left her unable to breathe or eat
+on her own.
 
-Ms. Culp was shot by her husband, Thomas Culp, in 2004, damaging most of
-her face and leaving her unable to breathe or eat on her own. Her
-husband, with whom she had a common-law marriage, according to [The
+Her husband, with whom she had a common-law marriage, according to [The
 Plain
-Dealer](https://www.cleveland.com/healthfit/2010/11/woman_who_underwent_first_near.html),
-was sentenced to seven years in prison for aggravated attempted murder
-and released in 2011.
+Dealer](https://www.cleveland.com/healthfit/2010/11/woman_who_underwent_first_near.html)
+of Cleveland, was sentenced to seven years in prison for aggravated
+attempted murder and released in 2011.
 
-After shooting his wife, Mr. Culp turned the shotgun on himself but only
-lost a few teeth and some of the vision in his left eye. He still looked
-the same, Ms. Culp told The Plain Dealer.
+After shooting his wife, Mr. Culp turned the shotgun on himself but lost
+only a few teeth and some vision in his left eye.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-She said she had forgiven her husband. “I still love my husband,” she
-told “[Good Morning
+Ms. Culp said she had forgiven her husband. “I still love my husband,”
+she told the ABC program “[Good Morning
 America](https://abcnews.go.com/Health/MindMoodNews/story?id=7535591)”
 in 2009. “I forgave him the day he did it. I have to.”
 
-Around 40 such surgeries have been done worldwide since Ms. Culp’s, said
-Dr. Thomas Romo III, director of facial plastic and reconstructive
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+About 40 such surgeries have been performed worldwide since Ms. Culp’s,
+said Dr. Thomas Romo III, director of facial plastic and reconstructive
 surgery at Lenox Hill Hospital and Manhattan Eye, Ear and Throat
 Hospital.
 
-[Her procedure was immediately
-successful](https://www.nytimes3xbfgragh.onion/2008/12/18/health/s18face.html)
-and Ms. Culp’s body did not reject the transplant, though she needed to
-take anti-rejection drugs for the rest of her
-life.<span class="css-8l6xbc evw5hdy0"> </span>The drugs suppress a
-patient’s immune system to prevent it from rejecting the transplant but
-also make the person more susceptible to infections.
-
-Most face transplant procedures are related to gunshot wounds or
-accidents involving animals, Dr. Romo said.
+[Her procedure was
+successful](https://www.nytimes3xbfgragh.onion/2008/12/18/health/s18face.html),
+and for the rest of her life she needed to take drugs to prevent her
+immune system from rejecting the transplant. The drugs, however, make
+the recipient more susceptible to infections.
 
 Charla Nash, who received a full face transplant in 2011 after being
-mauled by her friend’s pet chimpanzee in Stamford, Conn., [was
+mauled by [a friend’s pet
+chimpanzee](https://abcnews.go.com/US/sandra-herold-owner-chimp-travis-mauled-charla-nash-dies/story?id=10740652)
+in Stamford, Conn., [was
 hospitalized](https://www.nytimes3xbfgragh.onion/2016/05/06/nyregion/chimpanzee-attack-victim-who-got-face-transplant-is-hospitalized.html)
 in 2016 after she participated in a trial to determine if transplant
 patients could be weaned off the anti-rejection drugs.
 
-Face transplants are more than just cosmetic improvements for patients,
-Dr. Romo said. After successful transplants, most patients are able to
-speak, eat and otherwise live a more normal life.
+Most face transplant procedures are necessitated by gunshot wounds or
+accidents involving animals, Dr. Romo said.
 
-If not for the surgery, Ms. Culp would not have been able to smile or
-talk, Dr. Romo said, adding that face transplants can have positive
-psychological effects for patients.
+After successful transplants, most patients are able to speak, eat and
+otherwise live a more normal life. If not for the surgery, Ms. Culp
+would not have been able to smile or talk, Dr. Romo said, adding that
+face transplants can have positive psychological effects for patients.
+
+She was chosen for the experimental surgery because of her optimism and
+willingness to follow medical orders, according to a [2010
+profile](https://www.cleveland.com/healthfit/2010/11/woman_who_underwent_first_near.html)
+of her in The Plain Dealer, which described her as having been “a
+hard-working, fun-loving, Harley-riding, thumb-wrestling, small-town
+Ohio woman.”
+
+Ms. Culp and her husband ran a drywall, painting and wallpapering
+business before they bought a restaurant and bar in 2004. She often
+worked there from the early morning until late at night, The Plain
+Dealer reported.
 
 </div>
 
@@ -377,25 +379,17 @@ psychological effects for patients.
 
 <div class="css-53u6y8">
 
-Ms. Culp is “a milestone in medical history, and will be forever,” he
-said.
+After spending six years in hospitals and nursing homes, she returned to
+her home in coal-mining country in southeastern Ohio, where a daughter,
+Alicia, helped care for her, the newspaper said. She also had a son,
+Steven. Complete information on her survivors was not available.
 
-She was chosen for the experimental surgery because of her optimism and
-willingness to follow medical orders, according to a [2010
-profile](https://www.cleveland.com/healthfit/2010/11/woman_who_underwent_first_near.html)
-in The Plain Dealer.
-
-Ms. Culp and her husband previously ran a drywall, painting and
-wallpapering business before they bought a restaurant and bar in 2004,
-where she often worked from the early morning until late at night, The
-Plain Dealer reported.
-
-She was born on March 26, 1963. Details about survivors were not
-immediately available.
+Connie Wagoner was born on March 26, 1963, and grew up in eastern Ohio,
+near the Pennsylvania border.
 
 At a news conference [unveiling her new
 face](https://www.nytimes3xbfgragh.onion/2009/05/06/science/06face.html)
-in 2009, Ms. Culp asked others to be kind to people with facial
+in 2009, Ms. Culp asked that others be kind to people with facial
 disfigurements.
 
 “Don’t judge people who don’t look the same as you do,” she said.

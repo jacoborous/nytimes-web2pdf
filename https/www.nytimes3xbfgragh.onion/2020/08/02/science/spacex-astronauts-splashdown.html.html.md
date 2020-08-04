@@ -391,7 +391,7 @@ onto the moon and then ultimately onto Mars.”
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Bob
 Behnken and Doug Hurley were the first NASA astronauts to fly to and
-from orbit in a spacecraft built and managed by private company,
+from orbit in a spacecraft built and managed by the private company
 SpaceX.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>NASA/Via
 Reuters</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-splashdown-inside/merlin_175234710_19b643b6-2c86-4344-9acf-e971b5f239c3-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 

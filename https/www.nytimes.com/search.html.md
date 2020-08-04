@@ -70,7 +70,7 @@ index](#site-index)
 <div class="css-nhmgdh">
 
 <span class="css-1dv1kvn" data-aria-live="polite">Showing 10 out of
-19,586 results for:</span><span class="css-1dv1kvn"></span>
+19,358 results for:</span><span class="css-1dv1kvn"></span>
 
 <div class="css-aoqhyj">
 
@@ -149,8 +149,7 @@ Sort by RelevanceSort by NewestSort by Oldest
 
 <div class="css-mu1xy5" data-role="form" data-test-id="type">
 
-<span class="css-1ly73wi e1tej78p0">Refine results via
-    </span>Type
+<span class="css-1ly73wi e1tej78p0">Refine results via </span>Type
 
 <div class="css-leco5r" data-test-id="search-multi-select-caret">
 
@@ -182,16 +181,16 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Europe
+    Asia
+    Pacific
     
-    [](/reuters/2020/08/02/world/europe/02reuters-thailand-redbull.html?searchResultPosition=1)
+    [](/reuters/2020/08/04/world/asia/04reuters-australia-sailors-sos.html?searchResultPosition=1)
     
-    #### Thai PM Orders Deeper Look Into Death of Witness in Red Bull Hit-And-Run Case
+    #### Giant SOS on Pacific Isle Leads to Rescue of Three Stranded Sailors
     
-    Thailand's prime minister has ordered a second autopsy be conducted
-    after the death of a key witness in a deadly hit-and-run case linked
-    to the heir to the Red Bull energy drink fortune, amid public anger
-    that the charges were dropped.
+    Three Micronesian sailors stranded on a remote Pacific island drew a
+    giant SOS message in the sand to attract the attention of rescuers,
+    who found them three days after they went missing at sea.
     
     By
     Reuters
@@ -210,20 +209,22 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Briefing
+    Australia
     
-    [](/2020/08/02/briefing/midwest-school-reopenings-summer-gardens.html?searchResultPosition=2)
+    [](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html?searchResultPosition=2)
     
-    #### Midwest, School Reopenings, Summer Gardens: Your Weekend Briefing
+    #### What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion
     
-    Here’s what you need to know about the week’s top stories.
+    Melbourne, Australia’s second-largest city, is becoming a case study
+    in handling a second wave of infections. There are lots of
+    unanswered questions.
     
-    By Remy Tumin and Elijah
-    Walker
+    By Damien
+    Cave
     
     </div>
     
-    ![](https://static01.nyt.com/images/2020/08/02/briefing/02weekend-briefing-slide-RI7T/02weekend-briefing-slide-RI7T-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -237,31 +238,21 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Business
+    Asia
+    Pacific
     
-    [](/2020/08/02/business/brinkerhoff-racing-child-trafficking.html?searchResultPosition=3)
+    [](/reuters/2020/08/04/world/asia/04reuters-afghanistan-jirga.html?searchResultPosition=3)
     
-    #### Driving Across the Globe to Fight Child Trafficking
+    #### Afghan Grand Assembly on Fate of Hundreds of Taliban Prisoners Set for Friday
     
-    Renée Brinkerhoff has been on a quest, on almost every continent, to
-    use racing “as a platform to do something about” a global scourge.
-    Next stop, Antarctica.
+    Afghanistan will convene a grand assembly of elders, known as the
+    loya jirga, in Kabul on Friday to decide the fate of hundreds of
+    prisoners the Taliban insist should be released before entering
+    peace talks with the government.
     
-    By Mercedes Lilienthal
-    
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
+    By Reuters
     
     </div>
-    
-    <span class="css-h4mf4">PRINT
-    EDITION</span><span class="css-bc0f0m"></span>August 3,
-    2020
-    
-    </div>
-    
-    ![](https://static01.nyt.com/images/2020/08/02/business/02wheels-1/02wheels-1-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -278,14 +269,16 @@ Sort by RelevanceSort by NewestSort by Oldest
     Asia
     Pacific
     
-    [](/aponline/2020/08/02/world/asia/ap-as-skorea-heavy-rain.html?searchResultPosition=4)
+    [](/reuters/2020/08/04/world/asia/04reuters-health-coronavirus-vietnam.html?searchResultPosition=4)
     
-    #### Heavy Rain Hammers South Korea, Leaving 6 Dead, 7 Missing
+    #### Vietnam Capital Short of Test Kits as National Coronavirus Cases Climb
     
-    Torrential rain pounded most of South Korea on Sunday, leaving six
-    people dead and seven others missing, officials said.
+    Vietnam reported 10 new COVID-19 infections and two deaths on
+    Tuesday, lifting its total cases to 652, with eight dead, as the
+    capital Hanoi said it was running short of the rapid testing kits
+    being used to keep a new outbreak at bay.
     
-    By The Associated Press
+    By Reuters
     
     </div>
     
@@ -300,13 +293,13 @@ Sort by RelevanceSort by NewestSort by Oldest
     ### Advertisement
     
     [Continue reading the main
-    story](#after-mid748)
+    story](#after-mid192)
     
-    <div id="mid748" class="ad mid748-wrapper" style="text-align:center;height:100%;display:block">
+    <div id="mid192" class="ad mid192-wrapper" style="text-align:center;height:100%;display:block">
     
     </div>
     
-    <div id="after-mid748">
+    <div id="after-mid192">
     
     </div>
     
@@ -320,15 +313,15 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Olympics
+    Europe
     
-    [](/reuters/2020/08/02/sports/olympics/02reuters-athletics-usa-lyles-coleman.html?searchResultPosition=5)
+    [](/reuters/2020/08/04/world/europe/04reuters-belarus-election-president-russia.html?searchResultPosition=5)
     
-    #### Athletics: Lyles Says Coleman Must Be More Responsible After Missed Tests
+    #### President of Belarus Says Oil Disputes With Russia Cost Budget $700 Million
     
-    World 200 metres champion Noah Lyles has said fellow American
-    sprinter Christian Coleman must show more responsibility after he
-    was provisionally suspended for breaching whereabouts rules.
+    Belarusian President Alexander Lukashenko said on Tuesday his
+    country's budget had been deprived of 1.5 billion Belarusian roubles
+    ($700 million) due to oil disputes with Russia.
     
     By
     Reuters
@@ -347,18 +340,18 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Africa
+    Business
     
-    [](/reuters/2020/08/02/world/africa/02reuters-nigeria-security-boko-haram-cameroon.html?searchResultPosition=6)
+    [](/reuters/2020/08/04/business/04reuters-adidas-ceo.html?searchResultPosition=6)
     
-    #### Suspected Boko Haram Militants Kill at Least 13 in Cameroon
+    #### Adidas Extends CEO Rorsted's Contract for Five Years
     
-    Suspected militants from Islamist group Boko Haram killed at least
-    13 people and wounded eight others in a grenade attack in northern
-    Cameroon on Sunday, a security source and a local official told
-    Reuters.
+    German sportswear firm Adidas on Tuesday said its supervisory board
+    had extended the contract of Chief Executive Kasper Rorsted until
+    July 31, 2026.
     
-    By Reuters
+    By
+    Reuters
     
     </div>
     
@@ -374,20 +367,17 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Asia
-    Pacific
+    U.S.
     
-    [](/reuters/2020/08/02/world/asia/02reuters-india-liquor.html?searchResultPosition=7)
+    [](/aponline/2020/08/04/us/ap-5-things-to-know-today.html?searchResultPosition=7)
     
-    #### Indian Police Crackdown on Illegal Liquor Suppliers After 86 Die
+    #### 5 Things to Know for Today
     
-    Indian police raided rural hamlets and made arrests to break up a
-    bootlegging cartel on Sunday, after 86 people died from consuming
-    illegally-produced alcohol this week in the northwestern state of
-    Punjab, officials said.
+    Your daily look at late-breaking news, upcoming events and the
+    stories that will be talked about today:
     
-    By
-    Reuters
+    By The Associated
+    Press
     
     </div>
     
@@ -403,31 +393,21 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Americas
+    Arts
     
-    [](/2020/08/02/world/americas/mexico-tv-virus-telenovela.html?searchResultPosition=8)
+    [](/reuters/2020/08/04/arts/04reuters-britain-royals-meghan.html?searchResultPosition=8)
     
-    #### Less Sex, More Viewers: Pandemic Boosts Mexico’s Flagging Telenovelas
+    #### Britain's Royal Family Wish Meghan Happy Birthday Amid Rift
     
-    Dismissed as too old-fashioned to compete with streaming services,
-    the melodramas have seen viewership surge as Mexicans seek the
-    familiar in times of distress.
+    Britain's royal family wished happy birthday to Meghan, the Duchess
+    of Sussex, wife of Prince Harry, via Twitter on Tuesday in a show of
+    friendliness after a rocky period that saw the couple move to the
+    United States.
     
-    By Natalie Kitroeff
-    
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
+    By
+    Reuters
     
     </div>
-    
-    <span class="css-h4mf4">PRINT
-    EDITION</span><span class="css-bc0f0m"></span>August 3,
-    2020
-    
-    </div>
-    
-    ![](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -441,30 +421,21 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Books
+    Europe
     
-    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html?searchResultPosition=9)
+    [](/reuters/2020/08/04/world/europe/04reuters-europe-migrants-greece.html?searchResultPosition=9)
     
-    #### It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    #### Greece Sees Fewer Migrant Arrivals From Turkey, Partly Due to Pandemic, Minister Says
     
-    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
-    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    Greece has seen fewer migrants and refugees arriving from Turkey,
+    numbering in the hundreds in the last four months, mainly due to
+    increased border checks and partly due to the coronavirus pandemic,
+    a government minister said on Tuesday.
     
-    By Elisabeth Egan
-    
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
-    
-    </div>
-    
-    <span class="css-h4mf4">PRINT
-    EDITION</span><span class="css-bc0f0m"></span>August 10,
-    2020
+    By
+    Reuters
     
     </div>
-    
-    ![](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -478,30 +449,20 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Real
-    Estate
+    Business
     
-    [](/2020/08/02/realestate/homes-that-sold-for-around-600000.html?searchResultPosition=10)
+    [](/reuters/2020/08/04/business/04reuters-grab-strategy.html?searchResultPosition=10)
     
-    #### Homes That Sold for Around $600,000
+    #### Grab Expands Finance Business With Consumer Loans Services, Wealth Management
     
-    Recent residential sales in New York City and the region.
+    Grab, Southeast Asia's biggest ridehailing firm, deepened its
+    finance sector push on Tuesday by announcing that it will offer
+    consumer loans services in Singapore and roll-out wealth management
+    products in the fast-growing but crowded sector.
     
-    By C. J. Hughes
-    
-    <span class="css-bc0f0m"></span>
-    
-    <div class="css-1rq7uyl">
+    By Reuters
     
     </div>
-    
-    <span class="css-h4mf4">PRINT
-    EDITION</span><span class="css-bc0f0m"></span>August 2,
-    2020
-    
-    </div>
-    
-    ![](https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

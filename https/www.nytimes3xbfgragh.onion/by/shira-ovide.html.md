@@ -174,6 +174,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03ontech/03ontech-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">on tech</span>
+    
+    ## The Strange Saga of TikTok
+    
+    The chief executive of a big tech company negotiated directly with
+    the U.S. president over an app. Say what?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/technology/amazon-earnings.html)
     
     <div class="css-79elbk">
@@ -203,7 +239,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +275,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -264,7 +300,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -300,7 +336,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -336,7 +372,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +408,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -443,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -463,42 +499,6 @@ story](#after-mid1)
     
     Technology doesn’t have to cure the coronavirus to be an enabler for
     good.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/technology/us-china-technology.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27ontech/21ontech-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">on tech</span>
-    
-    ## Beware the ‘But China’ Excuses
-    
-    Just because U.S. politicians and tech giants are blaming China,
-    doesn’t mean we should be scared.
     
     <div class="css-1nqbnmb ea5icrr0">
     

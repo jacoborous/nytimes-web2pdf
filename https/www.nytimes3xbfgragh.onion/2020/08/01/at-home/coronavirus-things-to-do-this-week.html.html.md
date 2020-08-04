@@ -260,8 +260,14 @@ Moss</span>](https://www.nytimes3xbfgragh.onion/by/hilary-moss)
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">10:00 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 1,
+    2020
+    
+    </div>
 
   - 
     
@@ -302,11 +308,12 @@ are Eastern). Note that events are subject to change after publication.*
 ## Monday
 
 The **multimedia artist** **[Tony
-Oursler](https://www.nytimes3xbfgragh.onion/2015/06/09/t-magazine/tony-oursler-home-studio-tour.html)**<span class="css-8l6xbc evw5hdy0">
-</span>explores how technology touches humanity through blends ofpieces
-that blend video, painting and collage. In his mesmerizing exhibition
-**“Magical Variations,”** , he Mr. Ourslerwraps in everything from 5G
-conspiracy theories to “The Legend of Sleepy Hollow.”  
+Oursler](https://www.nytimes3xbfgragh.onion/2015/06/09/t-magazine/tony-oursler-home-studio-tour.html)**
+explores how technology touches humanity through pieces that blend
+video, painting and collage. In his mesmerizing exhibition **“Magical
+Variations,”** on Lehmann Maupin gallery’s website, Mr. Oursler wraps in
+everything from 5G conspiracy theories to “The Legend of Sleepy
+Hollow.”  
   
 **When** Through Aug. 16  
 **Where**

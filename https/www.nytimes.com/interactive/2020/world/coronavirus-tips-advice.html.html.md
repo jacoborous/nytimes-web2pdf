@@ -254,7 +254,7 @@ Work](https://www.nytimes.com/interactive/2020/06/25/burst/how-to-get-the-most-o
 
 <div class="g-question">
 
-### Can You Get Covid-19 Again? It’s Very Unlikely, Experts Say
+### Can you get covid-19 again? It’s very unlikely, experts say.
 
 <div class="g-icon">
 
@@ -482,10 +482,10 @@ Now](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.htm
 
 In the beginning, the coronavirus seemed like it was primarily a
 respiratory illness — many patients had fever and chills, were weak and
-tired, and coughed a lot. The sickest people had pneumonia or acute
-respiratory distress syndrome — which caused their blood oxygen levels
-to plummet — and received supplemental oxygen. In severe cases, they
-were placed on ventilators to help them breathe.
+tired, and coughed a lot. Those who seemed sickest had pneumonia or
+acute respiratory distress syndrome — which caused their blood oxygen
+levels to plummet — and received supplemental oxygen. In severe cases,
+they were placed on ventilators to help them breathe.
 
 By now, doctors have identified many more symptoms and syndromes. (And
 some people don’t show many symptoms at all.) In April, [the C.D.C.
@@ -4347,8 +4347,8 @@ States have set their own rules for eligibility and benefits, which are
 generally calculated as a percentage of your income over the past year,
 up to a certain maximum. Some states are more generous than others, but
 unemployment typically replaces about 45 percent of your lost income.
-Under the plan, eligible workers are getting an extra $600 per week on
-top of their state benefit.
+Eligible workers had been getting an extra $600 per week on top of their
+state benefit, but that expired at the end of July
 
 One important note: You might not have to lose your job to qualify. If
 you’re quarantined or have been furloughed — and you’re not being paid

@@ -205,7 +205,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/09/us/coronavirus-testing-promo-1594341213685/coronavirus-testing-promo-1594341213685-thumbWide-v28.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/09/us/coronavirus-testing-promo-1594341213685/coronavirus-testing-promo-1594341213685-thumbWide-v29.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     

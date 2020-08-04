@@ -209,7 +209,7 @@ July 30,
 
 <div class="css-4xjgmj">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -263,7 +263,7 @@ by John Lewis (Op-Ed, July 30):
 Working in Montgomery, Ala., I have walked on the trails that many of
 our civil rights heroes forged and I have listened to the stories of
 unspeakable violence but also unimaginable courage. But I have never
-felt compelled to act — not until May 25. George Floyd was my Emmitt
+felt compelled to act — not until May 25. George Floyd was my Emmett
 Till. In those [8 minutes and 46
 seconds](https://www.nytimes3xbfgragh.onion/2020/06/18/us/george-floyd-timing.html),
 I heard the cries of my ancestors that came before me and the cries of

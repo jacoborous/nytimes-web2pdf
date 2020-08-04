@@ -89,8 +89,9 @@ Sympathy?</span>
 
 </div>
 
-<span class="css-ap5cru">Ivan Kramskoi’s “Inconsolable Grief” (1884).
-HIP/Art Resource, NY</span>
+<span class="css-ap5cru">Ivan Kramskoi’s “Inconsolable Grief” (1884) is
+in the collection of the State Tretyakov Gallery in Moscow. HIP/Art
+Resource</span>
 
 </div>
 
@@ -140,8 +141,9 @@ discover what remains to be found,” writes one of our advice columnists.
 <div class="css-nwzfg5 e1gnum310">
 
 <span class="css-1f9pvn2 t-magazine">Ivan Kramskoi’s “Inconsolable
-Grief” (1884). HIP/Art Resource,
-NY</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span></span></span></span>
+Grief” (1884) is in the collection of the State Tretyakov Gallery in
+Moscow. HIP/Art
+Resource</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span></span></span></span>
 
 </div>
 

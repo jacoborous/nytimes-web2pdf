@@ -388,7 +388,7 @@ goes.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-83281" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-80633" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -398,26 +398,23 @@ goes.
 
 #### Sports and the Virus
 
-Updated July 31, 2020
+Updated Aug. 3, 2020
 
 Here’s what’s happening as the world of sports slowly comes back to
 life:
 
-  -   - The [N.B.A.
-        returned](https://www.nytimes3xbfgragh.onion/2020/07/30/sports/basketball/clippers-lakers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup),
-        and the Lakers held on to beat the Clippers in a thriller. Zion
-        Williamson played in the first game of the night for the
-        Pelicans.
-      - Players, coaches and analysts are watching this season’s
-        baseball games [to see what
-        effect](https://www.nytimes3xbfgragh.onion/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
-        the absence of fans has.
-      - With no summer tournaments to play in, top high school
-        basketball stars are [committing to colleges
-        earlier](https://www.nytimes3xbfgragh.onion/2020/07/30/sports/ncaabasketball/college-basketball-recruiting.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
-        Villanova is one of the beneficiaries.
+  -   - On all but the two biggest courts, automated line calls [will
+        replace human
+        judges](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        at the U.S. Open to reduce the number of people on site during
+        the pandemic.
+      - Mets star Yoenis Cespedes is healthy, but [has decided to opt
+        out](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of the 2020 baseball season for Covid-related reasons.
+      - Britain tried to bring fans back to indoor sports. [It lasted a
+        day](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/snooker-world-championship.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
 
-<div id="styln-survey-component-83281" class="styln-survey-component">
+<div id="styln-survey-component-80633" class="styln-survey-component">
 
 </div>
 

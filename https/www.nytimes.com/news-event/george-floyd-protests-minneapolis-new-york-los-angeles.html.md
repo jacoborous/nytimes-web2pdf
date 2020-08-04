@@ -171,7 +171,32 @@ custody in Minneapolis, Minnesota on May 25,
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
+    Trinca for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/us/00Portland-protests-3/00Portland-protests-3-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/02/us/00Portland-protests-3/00Portland-protests-3-thumbStandard.jpg)](/2020/08/02/us/portland-protests-.html)
+    
+    </div>
+    
+    ## [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](/2020/08/02/us/portland-protests-.html)
+    
+    While protests around the federal courthouse have remained calm for
+    three consecutive nights, Portland police officers chased
+    demonstrators through the streets near a local
+    precinct.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Baker</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
     Yang for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/23/us/00floyd-memorial1/00floyd-memorial1-videoLarge-v2.jpg)
     
@@ -196,30 +221,30 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/us/28umbrellaman/28umbrellaman-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/us/28umbrellaman/28umbrellaman-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Minneapolis Police Link ‘Umbrella Man’ to White Supremacy Group](/2020/07/28/us/umbrella-man-identified-minneapolis.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/28/us/28umbrellaman/28umbrellaman-thumbStandard.jpg)](/2020/07/28/us/umbrella-man-identified-minneapolis.html)
+        
+        </div>
+        
+        A search warrant affidavit seeks cellphone records for a man the
+        police believe smashed store windows with a sledgehammer to
+        provoke racial
+        unrest.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Neil
+        MacFarquhar</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/28/us/28umbrellaman/28umbrellaman-thumbStandard.jpg)](/2020/07/28/us/umbrella-man-identified-minneapolis.html)
-    
-    </div>
-    
-    ## [Minneapolis Police Link ‘Umbrella Man’ to White Supremacy Group](/2020/07/28/us/umbrella-man-identified-minneapolis.html)
-    
-    A search warrant affidavit seeks cellphone records for a man the
-    police believe smashed store windows with a sledgehammer to provoke
-    racial
-    unrest.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neil
-    MacFarquhar</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/us/26PROTESTS-7/26PROTESTS-7-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/us/26PROTESTS-7/26PROTESTS-7-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -243,28 +268,6 @@ custody in Minneapolis, Minnesota on May 25,
         Goldmacher</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/us/24xp-unrest-statue/merlin_174895539_e010bd67-2843-489f-b6f9-d9af49c25677-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Christopher Columbus Statues Removed From 2 Chicago Parks](/2020/07/24/us/christopher-columbus-chicago.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/24/us/24xp-unrest-statue/merlin_174895539_e010bd67-2843-489f-b6f9-d9af49c25677-thumbStandard.jpg)](/2020/07/24/us/christopher-columbus-chicago.html)
-        
-        </div>
-        
-        Crews removed statues of the explorer from Grant Park and Arrigo
-        Park early on
-        Friday.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Christine
-        Hauser</span></span>
-        
-        </div>
 
 </div>
 
@@ -272,7 +275,23 @@ custody in Minneapolis, Minnesota on May 25,
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeff
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/us/24xp-unrest-statue/merlin_174895539_e010bd67-2843-489f-b6f9-d9af49c25677-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Christopher Columbus Statues Removed From 2 Chicago Parks](/2020/07/24/us/christopher-columbus-chicago.html)
+    
+    Crews removed statues of the explorer from Grant Park and Arrigo
+    Park early on
+    Friday.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Christine
+    Hauser</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeff
     Chiu/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/17/us/politics/00carenact1/merlin_174335079_c1ee386b-c5b9-4f6e-b7be-1d9d15246dd8-videoLarge.jpg)
     
@@ -291,7 +310,7 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
     Trinca for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/21/us/21unrest-portland03/21unrest-portland03-videoLarge.jpg)
     
@@ -310,7 +329,7 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tyler
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tyler
     Lariviere/Chicago Sun-Times, via Associated
     Press</span>](https://static01.nyt.com/images/2020/07/20/us/20dc-unrest-feds/20dc-unrest-feds-videoLarge.jpg)
     
@@ -331,26 +350,6 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/17/nyregion/nypd-protest-force-1594677753223-print/nypd-protest-force-1594677753223-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [N.Y.P.D. Says It Used Restraint During Protests. Here’s What the Videos Show.](/interactive/2020/07/14/nyregion/nypd-george-floyd-protests.html)
-    
-    Police officials say there were “isolated cases” of inappropriate
-    force. But 64 videos show many attacks on protesters that appear
-    unwarranted.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Allison McCann</span>,
-    <span class="css-1baulvz" itemprop="name">Blacki Migliozzi</span>,
-    <span class="css-1baulvz" itemprop="name">Andy Newman</span>,
-    <span class="css-1baulvz" itemprop="name">Larry Buchanan</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Aaron
-    Byrd</span></span>
-    
-    </div>
-
 </div>
 
 </div>
@@ -361,26 +360,7 @@ custody in Minneapolis, Minnesota on May 25,
 
 ## Unrest in Portland
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
-    Trinca for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/us/00Portland-protests-3/00Portland-protests-3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police](/2020/08/02/us/portland-protests-.html)
-    
-    While protests around the federal courthouse have remained calm for
-    three consecutive nights, Portland police officers chased
-    demonstrators through the streets near a local
-    precinct.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Baker</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
     Bell for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-videoLarge.jpg)
     
@@ -400,7 +380,7 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
     Vucci/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-unrest-dhs/merlin_174842688_96e4e7ac-cc49-4672-ae63-4048294c934d-videoLarge.jpg)
     
@@ -420,7 +400,7 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
     Trinca for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/30/us/portland-mapping-unrest-1596155031199/portland-mapping-unrest-1596155031199-videoLarge-v2.jpg)
     
@@ -439,7 +419,7 @@ custody in Minneapolis, Minnesota on May 25,
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
     photo by Chip
     Somodevilla</span>](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-factcheck/merlin_175047399_b3585e8c-15fa-42ae-8114-3e728edcce27-videoLarge.jpg)
     
@@ -454,6 +434,26 @@ custody in Minneapolis, Minnesota on May 25,
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Linda
     Qiu</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mason
+    Trinca for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Federal Agencies Agree to Withdraw From Portland, With Conditions](/2020/07/29/us/protests-portland-federal-withdrawal.html)
+    
+    Gov. Kate Brown of Oregon said the teams would begin a withdrawal on
+    Thursday. Federal officials cautioned that they would withdraw only
+    when they were confident the federal courthouse could be
+    secured.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Mike Baker</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Zolan
+    Kanno-Youngs</span></span>
     
     </div>
 

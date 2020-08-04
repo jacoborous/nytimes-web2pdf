@@ -404,7 +404,7 @@ residents.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T05:55:16.339Z
+Updated 2020-08-04T04:02:32.475Z
 
 </div>
 

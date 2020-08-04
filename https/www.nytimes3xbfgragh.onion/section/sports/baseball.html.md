@@ -210,11 +210,116 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">on baseball</span>
+    
+    ## As the Virus Spreads Through M.L.B., So Does Frustration
+    
+    Series have been postponed, teams have been quarantined and road
+    trips have been rerouted in a season that has been defined above all
+    by its precariousness.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tyler
+    Kepner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03yankees-1/03yankees-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.
+    
+    Judge has hit home runs in five consecutive games, and he’s done it
+    without one of his favorite tools: the video replay room.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">James
+    Wagner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/sports/baseball/indians-team-names-mascots.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/sports/04Mascot-print-1/31mascot-spokane2-print-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why One Team Named the Indians Won’t Be Changing Its Name
+    
+    A minor league team in Spokane, Wash., has steadfastly stood by its
+    nickname with the support of the local Native American community.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David
+    Waldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/merlin_175096953_c4eb53d3-68c2-4cda-9770-cbfd9a1f9b8a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/02mlb-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -239,7 +344,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +380,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +415,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +450,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -382,7 +487,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -417,7 +522,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -439,111 +544,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Robert
-    O’Connell</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/basketball/sports-bubble-nba-mlb.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/sports/30virus-bubbles1/merlin_175084758_6b939c67-508f-4795-b6e9-3adb40cdc8c3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Bubbles’ Are Working. But How Long Can Sports Stay Inside?
-    
-    The restricted, campuslike environments used by soccer and pro
-    basketball have proved (mostly) impervious to the coronavirus. But
-    not every league fits inside one.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Andrew
-    Keh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/baseball/phillies-blue-jays-postponed-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/sports/30mlb-phillies-print/merlin_175021935_709311e3-5617-46a8-8aef-4c594192807e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Phillies-Blue Jays Games Postponed After 2 Staff Members Test Positive
-    
-    A Phillies coach and clubhouse attendant tested positive, leading to
-    more disorder in M.L.B.’s schedule.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler
-    Kepner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/players-opt-out.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/sports/30missing-zimmerman/merlin_173950401_83c6e99d-03a4-4021-be1e-a680aebda54e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Sports Are Back. Here Are Some Athletes Who Are Not.
-    
-    Ryan Zimmerman, David Price, Buster Posey, Carlos Vela and Wilson
-    Chandler are among the players who are opting out of playing this
-    summer because of health concerns.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Victor Mather</span>
+    By <span class="css-1n7hynb">Robert O’Connell</span>
     
     </div>
     

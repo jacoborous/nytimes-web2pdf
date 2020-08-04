@@ -359,7 +359,7 @@ now.”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T06:59:59.801Z
+Updated 2020-08-04T07:05:52.634Z
 
 </div>
 

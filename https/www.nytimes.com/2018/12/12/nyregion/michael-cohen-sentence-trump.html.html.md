@@ -362,30 +362,7 @@ prosecutors in Manhattan said he deserved around four years.
 
 Judge Pauley had the final say. The judge said Mr. Cohen’s assistance to
 the special counsel’s office, though useful, did not “wipe the slate
-clean,” and a “significant term” of prison was
-justified.
-
-</div>
-
-</div>
-
-<div class="css-1sngw6j">
-
-[](https://www.nytimes.com/interactive/2018/08/21/us/mueller-trump-charges.html)
-
-<div class="css-1eoytci">
-
-![](https://static01.nyt.com/images/2018/08/22/us/mueller-trump-charges-promo-1534968452597/mueller-trump-charges-promo-1534968452597-articleLarge-v7.jpg)
-
-</div>
-
-<div class="css-1rha1bf">
-
-## Roger Stone and Everyone Charged in the 2016 Election Investigations
-
-Roger J. Stone Jr., one of six Trump advisers convicted in cases
-stemming from the investigation by the special counsel, was sentenced to
-more than three years in prison.
+clean,” and a “significant term” of prison was justified.
 
 </div>
 

@@ -211,7 +211,7 @@ long enough to really know whether they can die of old age.
 800-year-old Douglas fir on Vancouver Island,
 Canada.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Matthew
 Bailey/VWPics/Universal Images Group, via Getty
-Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/27TB-IMMORTALTREES1/merlin_174998949_eac0e99d-5dc3-4fe0-be67-64b8419c6538-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/27TB-IMMORTALTREES1/merlin_174998949_eac0e99d-5dc3-4fe0-be67-64b8419c6538-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

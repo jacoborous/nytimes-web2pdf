@@ -118,6 +118,7 @@ Sin</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -205,14 +206,20 @@ Garner</span>](https://www.nytimes3xbfgragh.onion/by/dwight-garner)
 
 </div>
 
-  - July 31,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 3,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -223,6 +230,7 @@ Garner</span>](https://www.nytimes3xbfgragh.onion/by/dwight-garner)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -241,7 +249,7 @@ Garner</span>](https://www.nytimes3xbfgragh.onion/by/dwight-garner)
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>.</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>.</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -452,7 +460,7 @@ In her novel “Americanah,” Chimamanda Ngozi Adichie suggested that
 Like Racial Disorder Syndrome. And we could have different categories
 for sufferers of this syndrome: mild, medium and acute.”
 
-Wilkerson has written a closely-argued book that largely avoids the word
+Wilkerson has written a closely argued book that largely avoids the word
 “racism,” yet stares it down with more humanity and rigor than nearly
 all but a few books in our literature.
 

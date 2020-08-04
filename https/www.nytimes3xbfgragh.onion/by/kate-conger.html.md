@@ -166,6 +166,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve ads.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
     
     <div class="css-79elbk">
@@ -196,7 +230,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -231,7 +265,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -265,7 +299,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -301,7 +335,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -336,7 +370,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -371,7 +405,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -407,7 +441,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -443,7 +477,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -465,43 +499,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/technology/twitter-hackers-interview.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/business/17twitter/merlin_161161320_11215742-9ce6-4748-a87a-d905b1324c4b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hackers Tell the Story of the Twitter Attack From the Inside
-    
-    Several people involved in the events that took down Twitter this
-    week spoke with The Times, giving the first account of what happened
-    as a pursuit of Bitcoin spun out of control.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nathaniel Popper <span>and</span> Kate
-    Conger</span>
+    By <span class="css-1n7hynb">Kate Conger</span>
     
     </div>
     

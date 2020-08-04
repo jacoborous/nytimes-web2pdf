@@ -176,6 +176,76 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/middleeast/israel-syria-border.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03israel-border1a/03israel-border1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Israel Says It Hit Bombers on Syrian Boundary
+    
+    The military released grainy, edited footage of the ambush of what
+    it said were four militants planting explosives in the area, amid
+    heightened tensions along Israel’s northern frontiers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel
+    Kershner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/world/middleeast/israel-Netanyahus-son-tweets.html)
     
     <div class="css-79elbk">
@@ -205,7 +275,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +309,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +344,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +381,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +417,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -382,7 +452,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -418,7 +488,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -441,76 +511,7 @@ story](#after-sponsor)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Thomas Gibbons-Neff <span>and</span>
-    Mujib
-    Mashal</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/soccer/saudi-arabia-newcastle-united.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/15/world/15soccer-newcastle-1/merlin_172582179_8f1911ea-3758-44b8-b326-34ab35ba63ce-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Saudi Arabia Withdraws Bid to Buy Newcastle United
-    
-    The proposed takeover of a Premier League club had drawn criticism
-    from human rights groups and an important television partner.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tariq
-    Panja</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/middleeast/pilgrims-hajj-mecca-coronavirus-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/30hajj01dipt/30hajj01dipt-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Pilgrims, Fewer and Socially Distanced, Arrive in Mecca for Annual Hajj
-    
-    The coronavirus pandemic has curtailed the annual pilgrimage to the
-    holy city of Mecca in Saudi Arabia, limiting the number of people
-    and barring people from outside the kingdom.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Vivian Yee</span>
+    Mujib Mashal</span>
     
     </div>
     

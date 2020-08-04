@@ -6622,7 +6622,7 @@ Tamir Kalifa for The New York Times
 
 <div class="g-text-wrap">
 
-  - <span>Anna Maria Ruiz</span>, <span>E.R. Nurse</span>
+  - <span>Anna Maria Ruiz</span>, <span>I.C.U. Nurse</span>
   - Austin, Texas
   - July 10
 
@@ -6656,8 +6656,10 @@ of stress and debilitation during this entire situation. I feel safer in
 my scrubs than I do in my everyday street clothes.
 
 But now with the racial tension, I feel that even as a nurse, I am seen
-as “one of them” or a “rioter,” regardless of my
-attire.
+as “one of them” or a “rioter,” regardless of my attire.
+
+An earlier version of this article misstated Ms. Ruiz’s
+title.
 
 </div>
 
@@ -6960,7 +6962,7 @@ I remember bragging to my elderly parents that I felt Tucson had been
 spared from the virus since we had relatively low numbers in the
 beginning of May.
 
-Then our Governor reopened the state too soon. Young people flocked to
+Then our governor reopened the state too soon. Young people flocked to
 the bars in Phoenix and went rafting in big groups on the Salt River.
 Temperatures climbed above 100 degrees and people went indoors more.
 Then our numbers spiked.

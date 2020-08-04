@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 3, 2020, 9:07 P.M.
 E.T.
 
 </div>
@@ -390,7 +390,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-90,835
+91,705
 
 </div>
 
@@ -406,7 +406,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-3,515
+3,523
 
 </div>
 
@@ -441,7 +441,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -452,7 +452,7 @@ Maryland on Aug. 2. Over the past week, there have been an average of
 933 cases per day, an increase of 31 percent from the average two weeks
 earlier.
 
-As of Monday morning, there have been at least 90,835 cases and 3,515
+As of Monday evening, there have been at least 91,705 cases and 3,523
 deaths in Maryland since the beginning of the pandemic, according to a
 New York Times
 database.
@@ -892,9 +892,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Maryland </span></td>
-<td><span>90,835 </span></td>
-<td><span>1,502 </span></td>
-<td><span>3,515 </span></td>
+<td><span>91,705 </span></td>
+<td><span>1,517 </span></td>
+<td><span>3,523 </span></td>
 <td><span>58 </span></td>
 <td><span>6,529 </span></td>
 <td><span>108 </span></td>
@@ -911,13 +911,13 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/maryland.svg" alt="Maryland heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/maryland.svg" alt="Maryland heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>City of Baltimore </span></td>
-<td><span>11,591 </span></td>
-<td><span>1,953 </span></td>
+<td><span>11,762 </span></td>
+<td><span>1,982 </span></td>
 <td><span>413 </span></td>
 <td><span>70 </span></td>
 <td><span>1,224 </span></td>
@@ -925,13 +925,13 @@ in last<br />
 <td><span>13 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/city_of_baltimore.svg" alt="City of Baltimore heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/city_of_baltimore.svg" alt="City of Baltimore heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Worcester </span></td>
-<td><span>589 </span></td>
-<td><span>1,127 </span></td>
+<td><span>612 </span></td>
+<td><span>1,171 </span></td>
 <td><span>19 </span></td>
 <td><span>36 </span></td>
 <td><span>88 </span></td>
@@ -939,13 +939,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/worcester.svg" alt="Worcester heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/worcester.svg" alt="Worcester heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Talbot </span></td>
-<td><span>366 </span></td>
-<td><span>984 </span></td>
+<td><span>368 </span></td>
+<td><span>990 </span></td>
 <td><span>4 </span></td>
 <td><span>11 </span></td>
 <td><span>58 </span></td>
@@ -953,13 +953,13 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/talbot.svg" alt="Talbot heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/talbot.svg" alt="Talbot heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Baltimore County </span></td>
-<td><span>12,197 </span></td>
-<td><span>1,474 </span></td>
+<td><span>12,423 </span></td>
+<td><span>1,502 </span></td>
 <td><span>551 </span></td>
 <td><span>67 </span></td>
 <td><span>1,253 </span></td>
@@ -967,13 +967,13 @@ in last<br />
 <td><span>26 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/baltimore_county.svg" alt="Baltimore County heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/baltimore_county.svg" alt="Baltimore County heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Prince George’s </span></td>
-<td><span>23,195 </span></td>
-<td><span>2,551 </span></td>
+<td><span>23,332 </span></td>
+<td><span>2,566 </span></td>
 <td><span>743 </span></td>
 <td><span>82 </span></td>
 <td><span>1,184 </span></td>
@@ -981,13 +981,13 @@ in last<br />
 <td><span>12 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/prince_george_s.svg" alt="Prince George’s heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/prince_george_s.svg" alt="Prince George’s heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Dorchester </span></td>
-<td><span>351 </span></td>
-<td><span>1,099 </span></td>
+<td><span>352 </span></td>
+<td><span>1,102 </span></td>
 <td><span>5 </span></td>
 <td><span>16 </span></td>
 <td><span>34 </span></td>
@@ -995,13 +995,13 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/dorchester.svg" alt="Dorchester heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/dorchester.svg" alt="Dorchester heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Anne Arundel </span></td>
-<td><span>6,967 </span></td>
-<td><span>1,203 </span></td>
+<td><span>7,016 </span></td>
+<td><span>1,211 </span></td>
 <td><span>217 </span></td>
 <td><span>37 </span></td>
 <td><span>579 </span></td>
@@ -1009,13 +1009,13 @@ in last<br />
 <td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/anne_arundel.svg" alt="Anne Arundel heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/anne_arundel.svg" alt="Anne Arundel heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Calvert </span></td>
-<td><span>620 </span></td>
-<td><span>670 </span></td>
+<td><span>636 </span></td>
+<td><span>687 </span></td>
 <td><span>28 </span></td>
 <td><span>30 </span></td>
 <td><span>84 </span></td>
@@ -1023,13 +1023,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/calvert.svg" alt="Calvert heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/calvert.svg" alt="Calvert heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Charles </span></td>
-<td><span>1,880 </span></td>
-<td><span>1,152 </span></td>
+<td><span>1,911 </span></td>
+<td><span>1,171 </span></td>
 <td><span>91 </span></td>
 <td><span>56 </span></td>
 <td><span>148 </span></td>
@@ -1037,13 +1037,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/charles.svg" alt="Charles heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/charles.svg" alt="Charles heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Howard </span></td>
-<td><span>3,628 </span></td>
-<td><span>1,114 </span></td>
+<td><span>3,666 </span></td>
+<td><span>1,126 </span></td>
 <td><span>106 </span></td>
 <td><span>33 </span></td>
 <td><span>295 </span></td>
@@ -1051,7 +1051,7 @@ in last<br />
 <td><span>4 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_24/howard.svg" alt="Howard heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_24/howard.svg" alt="Howard heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1539,33 +1539,34 @@ State by
 ## <span class="g-balancer" data-id="12">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
-growing.](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
 It seems that there are [four factors that most likely play a
-role](https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html):
+role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
 how much you touch your face afterwards.
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
-steps](https://www.nytimes.com/article/prepare-for-coronavirus.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show®ion=TOP_BANNER&context=storyline_menu#link-56871453):
+steps](https://www.nytimes.com/article/prepare-for-coronavirus.html):
 
 <div class="g-container g-list-circle">
 
 Keep your distance from others. Stay at least six feet away from people
 outside your household as much as possible.
 
+Wear a mask outside your home. A mask protects others from your germs,
+and it protects you from infection as well. The more people who wear
+masks, the more we all stay safer.
+
 Wash your hands often. Anytime you come in contact with a surface
 outside your home, scrub with soap for at least 20 seconds, rinse and
 then dry your hands with a clean towel.
 
-Avoid touching your face. The virus primarily spreads when contaminated
-hands touch our nose or mouth or eyes. Try to keep your hands away from
-your face unless you have just recently washed them.
-
-Wear a mask outside your home. A mask protects others from any potential
-infection from you. The more people who wear masks, the more we all stay
-safer.
+Avoid touching your face. The virus can spread when our hands come into
+contact with the virus, and we touch our nose, mouth or eyes. Try to
+keep your hands away from your face unless you have just recently washed
+them.
 
 </div>
 

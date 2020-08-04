@@ -416,7 +416,7 @@ trucks.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T06:59:59.801Z
+Updated 2020-08-04T07:33:06.428Z
 
 </div>
 

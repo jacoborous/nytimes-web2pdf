@@ -1147,20 +1147,19 @@ come.’”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T01:11:03.026Z
+Updated 2020-08-04T05:55:16.339Z
 
 </div>
 
 </div>
 
-  - [Birx, criticized by Trump, is defended by Fauci on the pandemic’s
-    spread.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4e40df05)
+  - [Fauci defends Birx after she is criticized by
+    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
   - [Trump derides Democrats as lawmakers and administration officials
     try to break stimulus
     impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
-  - [As some students and teachers go back to school in the U.S.,
-    they’re bringing the virus with
-    them.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4c85ed64)
+  - [The deadline for 2020 census counting has been moved up by a
+    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
 
 <div class="briefing-block-footer">
 

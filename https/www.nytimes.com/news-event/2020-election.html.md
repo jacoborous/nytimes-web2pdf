@@ -211,9 +211,9 @@ story](#after-subheader)
 
   - 
     
-    <div id="live_container" class="nytslm_li_loud">
+    <div id="default_container" class="nytslm_li_loud">
     
-    <div id="live" class="nytslm_li_live_loud">
+    <div id="default" class="nytslm_li_default_loud">
     
     </div>
     
@@ -323,10 +323,9 @@ Newsletter](https://www.nytimes.com/newsletters/politics)
 
 ### The Latest
 
-President Trump’s long campaign against the Postal Service is
-intersecting with his assault on mail-in voting. [Voting rights groups
-say it is a recipe for
-disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html)
+President Trump again assails mail-in voting, [claiming without evidence
+that the process is plagued by
+fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html).
 
 </div>
 
@@ -339,7 +338,7 @@ women](https://www.nytimes.com/article/biden-vice-president-2020.html)
 who have been under consideration to be Joe Biden’s running mate, and
 why each might be chosen — and might not be.
 
-Last updated July 31,
+Last updated Aug. 3,
 2020
 
 </div>
@@ -361,7 +360,7 @@ contenders.
 
 <div class="headshot-wrapper" style="background:#1a80c4; ">
 
-![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/23b1e09ad2e359ff3482bf1434942c4a30d7063a/headshots/biden.png)
+![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/biden.png)
 
 </div>
 
@@ -378,7 +377,7 @@ Democrat
 
 <div class="headshot-wrapper" style="background:#cf222c; ">
 
-![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/23b1e09ad2e359ff3482bf1434942c4a30d7063a/headshots/trump.png)
+![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/trump.png)
 
 </div>
 
@@ -419,104 +418,104 @@ Republican
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-thumbStandard-v2.jpg)](/2020/08/03/us/elections/biden-vs-trump.html)
+    [![](https://static01.nyt.com/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-thumbStandard.jpg)](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
     
     </div>
     
-    ## [2020 Election Live Updates: Obama Endorses 118 Candidates, Hoping to Tip Scales in Key States](/2020/08/03/us/elections/biden-vs-trump.html)
+    ## [D.A. Is Investigating Trump and His Company Over Fraud, Filing Suggests](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
     
-    Six weeks after New York’s primary, undecided races highlight the
-    challenges the nation faces ahead of the general election. The Trump
-    campaign resumed its television ads after a break to reassess its
-    strategy.
+    The office of the district attorney, Cyrus R. Vance Jr., made the
+    disclosure in a new court filing arguing Mr. Trump’s accountants
+    should turn over his tax
+    returns.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">William K. Rashbaum</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Benjamin
+    Weiser</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
-    Fremson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03warren-race1/merlin_169475661_56e5eb41-8da5-4976-93c0-02227d8ec7cd-thumbStandard.jpg)](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbStandard.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     </div>
     
-    ## [Elizabeth Warren’s Evolution on Race Brought Her Here](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
     
-    Ms. Warren, a racially progressive politician, is one of a handful
-    of white women still under serious consideration to become Joe
-    Biden’s running
-    mate.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls,
+    N.Y.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Lisa Lerer</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Sydney
-    Ember</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    B. Thomas for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
-    ## [In St. Louis, Testing Liberal Might Against a Democratic Fixture](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    ### On Politics With Lisa Lerer
+    
+    ## [Why Biden Won’t Find His Biden](/2020/08/03/us/politics/joe-biden-vp.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbLarge.jpg)](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    [![](https://static01.nyt.com/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbLarge-v2.png)](/2020/08/03/us/politics/joe-biden-vp.html)
     
     </div>
     
-    Cori Bush, an activist backed by the progressive group Justice
-    Democrats, is trying to unseat 10-term Representative William Lacy
-    Clay in a bid to turn protest-movement fervor into hard political
-    power.
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were
+    “simpatico.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
-    Fandos</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa
+    Lerer</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
+    Jarrus for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbLarge.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     </div>
     
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential
-    ticket.
+    The Michigan Democrat is facing a rematch against a challenger who
+    says she hasn’t done enough for her district in
+    Detroit.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Flegenheimer</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
+    Gray</span></span>
     
     </div>
 
@@ -576,25 +575,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## D.A. Is Investigating Trump and His Company Over Fraud, Filing Suggests
+    ## Trump Again Assails Mail-In Voting
     
-    The office of the district attorney, Cyrus R. Vance Jr., made the
-    disclosure in a new court filing arguing Mr. Trump’s accountants
-    should turn over his tax returns.
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">William K. Rashbaum <span>and</span>
-    Benjamin
-    Weiser</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -607,6 +605,74 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/tata-pentagon.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
+    
+    The president sidestepped Congress when it became clear that his
+    nominee for a top Defense Department position would not win Senate
+    approval.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Helene
+    Cooper</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/elections/biden-vs-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03elections-briefing-trump-top/merlin_175275168_1ebc9de7-c419-4b57-a9f8-72c282befd31-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Attacking Mail-In Voting, Trump Suggests Rerunning a New York Race
+    
+    Former President Barack Obama endorsed 118 candidates, hoping to tip
+    the scales in key battlegrounds. Primary races in several states on
+    Tuesday have the attention of national party
+    leaders.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +706,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -675,7 +741,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -711,7 +777,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -747,7 +813,42 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Elizabeth Warren’s Evolution on Race Brought Her Here
+    
+    Ms. Warren, a racially progressive politician, is one of a handful
+    of white women still under serious consideration to become Joe
+    Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
+    Ember</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -782,7 +883,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -806,112 +907,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
     Thrush</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01moments1/merlin_175045695_792fda51-d1e1-4b1b-87db-391f651713ec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News Analysis</span>
-    
-    ## Trump’s Approval Rating, Biden V.P. Search: The Latest in the 2020 Race
-    
-    President Trump’s more sober messaging on the coronavirus crisis
-    didn’t last long. For Joe Biden, the search for a running mate may
-    last a little longer.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
-    Herndon</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/supreme-court-trump-border-wall.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-scotus/merlin_169246947_dae8850a-dea7-4044-9afb-212e6287d838-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Supreme Court Lets Trump Keep Building His Border Wall
-    
-    The court refused to lift a year-old stay notwithstanding an appeals
-    court ruling that the construction was unlawful.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam
-    Liptak</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/americas/brazil-trump-ethanol-chapman.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/world/31brazil/merlin_175082043_1d8c79a7-ecda-45a1-be27-2a6be6ea4144-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Lawmakers ‘Alarmed’ by Reports U.S. Envoy Told Brazil It Could Help Re-elect Trump
-    
-    The House Foreign Affairs Committee has begun an inquiry into
-    multiple reports in the Brazilian media that the U.S. ambassador was
-    framing negotiations over ethanol tariffs in partisan terms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ernesto Londoño, Manuela Andreoni
-    <span>and</span> Letícia Casado</span>
     
     </div>
     

@@ -2,6 +2,29 @@
 
 <div class="App">
 
+<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+
+<div class="css-tpyegx">
+
+<div class="css-17vh6q6">
+
+The Times and your Data
+
+</div>
+
+<div class="css-1mhyh9y">
+
+## Main Menu
+
+[Privacy F.A.Q.](/privacy)[Privacy
+Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
+
+</div>
+
+</div>
+
+</div>
+
 <div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
 
 <div class="Privacy">
@@ -445,8 +468,8 @@ information, or use what we already have differently. If there is a
 significant or material change in the way we handle your personal
 information, we will notify you as detailed below.
 
-<span class="css-1l8t0id">Back to
-top</span>
+[Back to
+top](app)
 
 </div>
 
@@ -646,8 +669,8 @@ performance, create advertising interest-based segments or compile
 survey results. We can use and disclose this aggregated or de-identified
 information for any purpose, unless an applicable law says otherwise.
 
-<span class="css-1l8t0id">Back to
-top</span>
+[Back to
+top](app)
 
 </div>
 
@@ -757,7 +780,7 @@ engage in the matched ads process described
     distribution formats. Your public activities could thus appear on
     other websites, blogs or feeds.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -896,7 +919,7 @@ It works differently if you subscribed via Apple’s App Store or Google
 Play. Register with us to access the Account area, and contact Apple or
 Google for your transaction history.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -935,7 +958,7 @@ There are rare situations when we request this information
 political leanings)</span>, but you can decline to answer. Outside those
 situations we would prefer you never share that information with us.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -978,7 +1001,7 @@ When deciding how long to keep your information, we consider:
 Rather than delete your data, we might de-identify it by removing
 identifying details.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -1010,7 +1033,7 @@ them. Do not share your password with anyone.
 If you have reason to believe your interaction with us is no longer
 secure, notify us immediately.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -1043,8 +1066,8 @@ collected information from your child in a manner not permitted by law,
 contact us at <privacy@NYTimes.com>. We will remove the data to the
 extent required by applicable laws.
 
-<span class="css-1l8t0id">Back to
-top</span>
+[Back to
+top](app)
 
 </div>
 
@@ -1091,7 +1114,7 @@ In certain situations, the courts, law enforcement agencies, regulatory
 agencies or security authorities in those countries might be entitled to
 access your personal information.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -1141,7 +1164,7 @@ of the following:
     business within The New York Times Company; (3) to prevent fraud;
     and (4) to conduct our marketing activities.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -1170,8 +1193,8 @@ do not control (and are not responsible for) third party content or
 privacy practices. Any personal data you provide to them is not covered
 by this Privacy Policy.
 
-<span class="css-1l8t0id">Back to
-top</span>
+[Back to
+top](app)
 
 </div>
 
@@ -1206,8 +1229,8 @@ can stop using the Times Services.
 After we post any changes on this page, your continued use of Times
 Services is subject to the updated Privacy Policy.
 
-<span class="css-1l8t0id">Back to
-top</span>
+[Back to
+top](app)
 
 </div>
 
@@ -1266,7 +1289,7 @@ Wirecutter Services, Wirecutter, Inc. is referred to in this Privacy
 Policy as included in “The Times,” “we” or “our.” In this Privacy
 Policy, Wirecutter Services are included under “Times Services.”
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -1303,33 +1326,6 @@ Policy](/privacy/privacy-policy)[Cookie
 Policy](/privacy/cookie-policy)[California
 Notice](/privacy/california-notice)[Terms of
 Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
-
-</div>
-
-</div>
-
-<div>
-
-<div class="css-3lzwik" data-role="dialog" data-aria-modal="false">
-
-<div class="css-tpyegx">
-
-<div class="css-k8p5d3">
-
-The Times and your Data
-
-</div>
-
-<div class="css-1mhyh9y">
-
-## Main Menu
-
-[Privacy F.A.Q.](/privacy)[Privacy
-Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
-
-</div>
-
-</div>
 
 </div>
 

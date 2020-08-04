@@ -157,9 +157,33 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
+    Auringer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-thumbStandard.jpg)](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    
+    </div>
+    
+    ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous
+    work.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Rubin</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     White/Parkwood Entertainment and Disney+, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/merlin_175156710_9a080074-027a-45b4-b8e5-62196ac030c8-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
@@ -187,58 +211,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
-    Cappello</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-jumbo.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-thumbStandard.jpg)](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    </div>
-    
-    ### The Playlist
-    
-    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
-    others.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Blank
-        Generation
-        LLC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [His Film Is a Punk Classic, but the Credits Now Roll Without Him](/2020/07/30/movies/blank-generation-amos-poe.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02blank-gen1/02blank-gen1-thumbStandard.jpg)](/2020/07/30/movies/blank-generation-amos-poe.html)
-        
-        </div>
-        
-        Amos Poe lost control of his documentary about the music scene
-        that spawned artists like Blondie and Talking Heads after a
-        dispute with Ivan Kral, the guitarist who made the movie with
-        him.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Cara
-        Buckley</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
         Rittershaus/Salzburger
         Festspiele</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02Salzburg-preview-1/merlin_174868050_10b64ef7-0f15-43b1-8024-0197fd429525-videoLarge.jpg)
         
@@ -259,6 +232,33 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Ben
         Miller</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
+        Cappello</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### The Playlist
+        
+        ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31playlist/31playlist-thumbStandard.jpg)](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
+        
+        </div>
+        
+        Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
+        others.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
+        <span class="css-1baulvz" itemprop="name">Jon Caramanica</span>
+        and
+        <span class="css-1baulvz last-byline" itemprop="name">Giovanni
+        Russonello</span></span>
         
         </div>
 
@@ -296,15 +296,15 @@ story](#after-mid1)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
     Kuykendal for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2019/08/29/obituaries/00fleisher1/00fleisher1-videoLarge.jpg)
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/00fleisher1/00fleisher1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
+    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist Using One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
     
     Unable to use his right hand, he performed pieces written for left
-    hand only, conducted and taught. After 30 years, he made a
-    triumphant two-handed
+    hand only, conducted and taught. Years later, he made a triumphant
+    two-handed
     comeback.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
@@ -413,6 +413,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Charts</span>
+    
+    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
+    
+    The singer and songwriter’s surprise album had the equivalent of
+    846,000 sales in the United States, a total beaten only by her own
+    last two LPs.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/arts/music/malik-b-dead.html)
     
     <div class="css-79elbk">
@@ -442,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -476,7 +513,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -511,7 +548,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -546,7 +583,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -581,7 +618,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -618,7 +655,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -652,7 +689,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -691,7 +728,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -712,42 +749,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Glenn
-    Kenny</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/arts/music/the-go-gos-documentary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30go-gos/30go-gos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Go-Go’s Made History 38 Years Ago. There’s Still More to Their Story.
-    
-    A new documentary about the Los Angeles band explores the punk roots
-    that came before its pop sheen, and the power dynamics that led to
-    its split.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lindsay Zoladz</span>
+    By <span class="css-1n7hynb">Glenn Kenny</span>
     
     </div>
     

@@ -210,9 +210,8 @@ Shihab Nye</span>
     
     <div class="css-1ea1lzw e16638kd2">
     
-    Published July 30, 2020Updated Aug. 2, 2020,
-    <span class="css-epvm6">2:49 a.m.
-    ET</span>
+    Published July 30, 2020Updated Aug. 2,
+    2020
     
     </div>
 

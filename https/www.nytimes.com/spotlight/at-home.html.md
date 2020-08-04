@@ -124,9 +124,9 @@ story](#after-sponsor)
 
 <div class="section css-1vbo4s9">
 
-<div class="section capsule-content" data-id="100000007133866" data-uri="https://www.nytimes.com/2020/08/02/at-home-capsule.html">
+<div class="section capsule-content" data-id="100000007133866" data-uri="https://www.nytimes.com/2020/08/03/at-home-capsule.html">
 
-### **It is Monday.** We may be venturing outside, tentatively or with purpose, but with the virus still raging we’re still safest inside. **At Home** can help make that tolerable, even fun.
+### **It is Tuesday.** We may be venturing outside, tentatively or with purpose, but with the virus still raging we’re still safest inside. **At Home** can help make that tolerable, even fun.
 
 -----
 
@@ -134,11 +134,67 @@ story](#after-sponsor)
 
 <div class="css-18bsdtk epkadsg1">
 
-**Fine dining.** If you mix farro, chickpeas and sweet corn for a
-filling, you’ll get a textural summer salad. Making pizza on the grill
-is easier than you think — and lets you avoid a hot oven. And you should
-try these low-stress meals as we roll into
-August.
+**Remote learning.** Take a virtual trip to the remote schoolhouses of
+Magallanes, Chile’s largest but second least populated region. Many of
+them are led by a sole teacher who instructs multiple grade levels
+inside a single
+room.
+
+</div>
+
+<div class="css-23gypy epkadsg2">
+
+<div class="css-x96mvb e16ij5yr7">
+
+[](https://www.nytimes.com/2020/08/03/travel/remote-schools-patagonia.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1khrzdl e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+A Visit to 5 of Patagonia’s Most Remote Schoolhouses
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+Community life within the isolated villages of southern Chile is
+facilitated in part by an unlikely source: a network of rural schools.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+Aug. 3,
+2020
+
+</div>
+
+</div>
+
+<div class="css-f99wo4 e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-threeByTwoSmallAt2X.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+-----
+
+<div class="related-links-block css-l21bvc epkadsg3">
+
+<div class="css-18bsdtk epkadsg1">
+
+**Up stream.** Watch a documentary about Creem, the 1970s music magazine
+that was equal parts profound and profane. It’s no indie, but 1991’s
+“Terminator 2” is worth another look. But if you prefer something more
+recent, “Jojo Rabbit” is available for
+streaming.
 
 </div>
 
@@ -146,20 +202,57 @@ August.
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/03/arts/music/creem-magazine-documentary.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-Chewy Meets Crispy in This Summery Salad
+The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-This satisfying bowl gets its bite from farro, its crunch from spiced
-chickpeas, and its sweetness from roasted corn and slivered fennel.
+A new documentary traces the rise and fall of the irreverent,
+boundary-smashing music publication where Lester Bangs did some of his
+most famous work.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+Aug. 3,
+2020
+
+</div>
+
+</div>
+
+<div class="css-6rnapk e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-threeByTwoSmallAt2X-v2.jpg)
+
+</div>
+
+</div>
+
+<div class="css-xv2r4i e16ij5yr7">
+
+[](https://www.nytimes.com/2020/07/31/movies/comfort-viewing-terminator-2.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1jo6or8 e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+Killer robots may not seem like soothing fare, but unlike real life, the
+world’s horrors come to an end when the movie does.
 
 </div>
 
@@ -174,7 +267,7 @@ July 31,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-threeByTwoSmallAt2X.jpg)
+![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-threeByTwoSmallAt2X.jpg)
 
 </div>
 
@@ -182,19 +275,77 @@ July 31,
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/07/31/arts/television/new-to-stream-netflix.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-Make Pizza … On Your Grill
+The Best Movies and TV Shows Coming to Netflix, Amazon and More in
+August
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-Bear with us. We know this sounds bonkers, but it really does work.
+Every month, subscription streaming services add a new batch of titles
+to their libraries. Here are our picks for August.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+July 31,
+2020
+
+</div>
+
+</div>
+
+<div class="css-6rnapk e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/01/multimedia/01streamaugust1/merlin_175127256_c78e620b-ca85-4153-91c9-adee0a480817-threeByTwoSmallAt2X.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+-----
+
+<div class="related-links-block css-l21bvc epkadsg3">
+
+<div class="css-18bsdtk epkadsg1">
+
+**New rules.** Taking public transportation? No eating, no touching —
+and don’t forget a mask. The usual summer safety protocols for kids
+still apply, even during a pandemic. And take a look at these everyday
+objects made newly relevant in the time of
+coronavirus.
+
+</div>
+
+<div class="css-kjfhp0 epkadsg2">
+
+<div class="css-xv2r4i e16ij5yr7">
+
+[](https://www.nytimes.com/2020/08/01/at-home/coronavirus-public-transportation-subway.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1jo6or8 e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+How to Stay Safer on Mass Transit
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+Timing your trip strategically, using contactless payments and not
+eating onboard are some of the things to keep in mind.
 
 </div>
 
@@ -209,7 +360,7 @@ Aug. 1,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-grilledpizza1/02ah-grilledpizza1-threeByTwoSmallAt2X.jpg)
+![](https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-threeByTwoSmallAt2X.jpg)
 
 </div>
 
@@ -217,26 +368,26 @@ Aug. 1,
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/07/31/dining/low-key-cooking.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/03/well/family/children-summer-safety.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-Low-Key Cooking
+In This Pandemic Summer, Don’t Forget About Kids’ Other Risks
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-These recipes are simple and satisfying enough for those sweet and
-drowsy August days.
+Reinforcing summer safety with some of the special twists and dangers of
+this dangerous and twisty time.
 
 </div>
 
 <div class="css-x7rtpa e16638kd1">
 
-July 31,
+Aug. 3,
 2020
 
 </div>
@@ -245,110 +396,34 @@ July 31,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/03/dining/as-ginger-lime-chicken/as-ginger-lime-chicken-threeByTwoSmallAt2X.jpg)
+![](https://static01.nyt.com/images/2020/08/03/well/03klass-summer/03klass-summer-threeByTwoSmallAt2X.jpg)
 
 </div>
 
 </div>
-
-</div>
-
-</div>
-
------
-
-<div class="related-links-block css-l21bvc epkadsg3">
-
-<div class="css-18bsdtk epkadsg1">
-
-**Book club.** August is typically a sleepy month for book releases, but
-this one is an exception thanks to a book on race by Isabel Wilkerson, a
-debut novel by Raven Leilani and Stephenie Meyer’s retooling of
-“Twilight.”
-
-</div>
-
-<div class="css-23gypy epkadsg2">
-
-<div class="css-x96mvb e16ij5yr7">
-
-[](https://www.nytimes.com/2020/07/30/books/new-august-books.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1khrzdl e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-13 Books to Watch For in August
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
-examination of American racism, a biography of the drug kingpin El
-Chapo, and plenty more.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-July 30,
-2020
-
-</div>
-
-</div>
-
-<div class="css-f99wo4 e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-threeByTwoSmallAt2X.jpg)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
------
-
-<div class="related-links-block css-l21bvc epkadsg3">
-
-<div class="css-18bsdtk epkadsg1">
-
-**Here we go.** Pitch a tent in your living room, explore a local site …
-there are plenty of ways to have fun if you’re staying put. You should
-take a survey that helps weigh the risks of travel this year. And we
-have a guided tour of how schools may look this
-fall.
-
-</div>
-
-<div class="css-kjfhp0 epkadsg2">
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/07/24/parenting/summer-staycation-coronavirus.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/01/arts/design/virus-design-objects.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-Making the Most of a Pandemic Staycation
+The Strange Lives of Objects in the Coronavirus Era
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-Families who stayed put in cities during the pandemic are rediscovering
-new ways to appreciate their neighborhoods and even their homes.
+The pandemic has inspired a flurry of new and novel items — and given
+ordinary ones new meanings.
 
 </div>
 
 <div class="css-x7rtpa e16638kd1">
 
-July 24,
+Aug. 1,
 2020
 
 </div>
@@ -357,79 +432,7 @@ July 24,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/07/24/multimedia/24-par-vacation-city/24-par-vacation-city-threeByTwoSmallAt2X.jpg)
-
-</div>
-
-</div>
-
-<div class="css-xv2r4i e16ij5yr7">
-
-[](https://www.nytimes.com/interactive/2020/07/31/travel/coronavirus-travel-risk.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1jo6or8 e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-Should I Travel This Year?
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-Travel looks very different in 2020. Here are some questions to help you
-consider the risks to yourself and others if you take a trip.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-July 31,
-2020
-
-</div>
-
-</div>
-
-<div class="css-6rnapk e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-threeByTwoSmallAt2X-v2.jpg)
-
-</div>
-
-</div>
-
-<div class="css-xv2r4i e16ij5yr7">
-
-[](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1jo6or8 e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-What Back to School Might Look Like in the Age of Covid-19
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-An illustrated guide to how schools will try to control the coronavirus
-when students return to their classrooms, this fall or in the future.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-July 29,
-2020
-
-</div>
-
-</div>
-
-<div class="css-6rnapk e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/07/29/us/schools-reopening-coronavirus-image/schools-reopening-coronavirus-image-threeByTwoSmallAt2X-v2.png)
+![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -452,89 +455,88 @@ July 29,
 [More in How to Deal
     »](/spotlight/how-to-deal)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Heimer</span>](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
+    O'Hare for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Rich City Tykes Swell Schools in Hamptons and Hudson Valley](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
     
-    New York parents of means are seeking less congested classrooms near
-    their second — third? —
-    homes.
+    The answer largely depends on whether Medicare and private health
+    insurers will adequately cover virtual doctor visits once
+    coronavirus outbreaks
+    subside.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Williams</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Reed
+    Abelson</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/arts/02diary-project-kleon-02/02diary-project-kleon-02-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joohee
+    Yoon</span>](https://static01.nyt.com/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Unschooled Artists](/2020/07/31/arts/quarantine-parenting-art.html)
+    ## [How to Ace an Online Job Interview](/2020/08/03/business/online-job-interview-tips.html)
     
-    Taking lessons in creativity from my
-    kids.
+    A handful of classic techniques and some tips unique to the
+    work-from-home era can help you land that next
+    job.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Austin
-    Kleon</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Weed</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-videoLarge-v2.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>iStock</span>](https://static01.nyt.com/images/2020/07/29/smarter-living/commute-burst-promo/commute-burst-promo-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ## [Should I Travel This Year?](/interactive/2020/07/31/travel/coronavirus-travel-risk.html)
+    ## [Reclaim That Commute Time for Yourself](/interactive/2020/08/03/burst/reclaim-commute-time.html)
     
-    Travel looks very different in 2020. Here are some questions to help
-    you consider the risks to yourself and others if you take a
-    trip.
+    If you find yourself still working from home, here are some tips on
+    reclaiming the time you once spent commuting to and from the
+    office.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Sara Aridi</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Umi
-    Syam</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Anna
+    Goldfarb</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
+    Lam</span>](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+    ## [The Benefits of Talking to Strangers](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
     
-    The pandemic has inspired a flurry of new and novel items — and
-    given ordinary ones new
-    meanings.
+    Casual connections with people we encounter in the course of daily
+    life can give us the sense of belonging to a
+    community.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Peter
-    Arkle</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jane E.
+    Brody</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
-    Ukmar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fran
+    Caballero</span>](https://static01.nyt.com/images/2020/05/29/smarter-living/00sl-barter-promo/00sl-barter-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Rockaway Life](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
+    ## [Can’t Find It at the Store?](/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
     
-    Rockaway Beach has a land’s-end bacchanalian spirit, but it is also
-    a place where you can get to know people just by being
-    there.
+    How to make sure everyone gets what they need — and feels good about
+    it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Diane
-    Cardwell</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">A.C.
+    Shilton</span></span>
     
     </div>
 
@@ -547,7 +549,25 @@ July 29,
 [More in What to Eat
     »](/spotlight/what-to-eat)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kyle
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Con
+    Poulos for The New York Times. Food Stylist: Simon
+    Andrews.</span>](https://static01.nyt.com/images/2019/07/22/dining/aw-tomato-and-peach-salad-with-whipped-goat-cheese/merlin_157887927_dd555ee7-3af4-4efc-b3aa-dff8cbaba8bf-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Cooking as Craft](/2020/08/03/dining/cooking-as-craft.html)
+    
+    Brush up on the basics, or lean into something new, whether it’s
+    ginger-lime chicken or a pork schnitzel with quick
+    pickles.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sam
+    Sifton</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kyle
     Johnson for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-grilledpizza1/02ah-grilledpizza1-videoLarge.jpg)
     
@@ -564,7 +584,7 @@ July 29,
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Craig
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Craig
     Lee for The New York
     Times</span>](https://static01.nyt.com/images/2017/02/20/dining/20COOKING-FIELDDAY-POUNDCAKE2/20COOKING-FIELDDAY-POUNDCAKE2-videoLarge.jpg)
     
@@ -582,7 +602,7 @@ July 29,
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linda
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linda
     Xiao for The New York Times. Food Stylist: Monica
     Pierini.</span>](https://static01.nyt.com/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-videoLarge.jpg)
     
@@ -600,7 +620,7 @@ July 29,
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
     Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
     stylist: Rebecca
     Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-eat/02mag-eat-videoLarge.jpg)
@@ -616,24 +636,6 @@ July 29,
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sam
     Sifton</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
-    McAlpine</span>](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
-    
-    Skye McAlpine has made a name for herself serving bountiful meals to
-    large groups of friends. During lockdown, she’s discovered the joy
-    of cooking for just one or
-    two.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Isabel
-    Wilkinson</span></span>
     
     </div>
 
@@ -759,7 +761,79 @@ story](#after-mid1)
 [More in Pass the Time
     »](/spotlight/pass-the-time)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+    Rutter</span>](https://static01.nyt.com/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The (Virtual) Theatrical Fringe Moves Front and Center](/2020/08/03/theater/virtual-theater.html)
+    
+    Expanding content and experimenting with form, the avant-garde finds
+    a congenial new home online, as two recent offerings
+    demonstrate.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jesse
+    Green</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
+    Krulwich/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [What Is It Like to Watch Live Dance Again? Amazing](/2020/08/03/arts/dance/kaatsbaan-dance.html)
+    
+    Kaatsbaan hosts a welcome summer festival in the Hudson Valley,
+    where nature and dancers join forces to put on a
+    show.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Gia
+    Kourlas</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jodi
+    Levine for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-activity-flowers6/02ah-activity-flowers6-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Turn the News Into a Rose](/2020/08/01/at-home/coronavirus-paper-flowers.html)
+    
+    You can make paper flowers as elaborate or a simple as you’d like. A
+    simple bloom is a good place to
+    start.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jodi
+    Levine</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
+    Oktar Yalkin for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/arts/00anna-sale1/00anna-sale1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
+    
+    In her podcast, Anna Sale inspires her guests to share their darkest
+    thoughts and deepest secrets. The intimate conversations feel more
+    urgent than
+    ever.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Reggie
+    Ugwu</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Audible</span>](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -773,75 +847,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Elisabeth
     Egan</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jackson
-    Gibbs</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-calendar2-illo-web/02AH-calendar2-illo-web-mediumThreeByTwo440.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Spend Time with Shakespeare’s Family and Take a Master Class in Ballet](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
-    
-    As August arrives, you can learn how an author conjured Elizabethan
-    England and engage your children’s five senses in a mystery
-    game.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Adriana Balsamo</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Hilary
-    Moss</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
-    Cappello</span>](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
-    others.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leigh
-    Wells</span>](https://static01.nyt.com/images/2020/08/02/fashion/31NAMED-KAREN-art/00KAREN-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Brief History of ‘Karen’](/2020/07/31/style/karen-name-meme-history.html)
-    
-    In 1965, it was the third-most-popular baby name in the United
-    States. In 2018, it was the 635th — and today it’s even less
-    popular. How did Karens fall so
-    far?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Henry
-    Goldblatt</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/universal/07nytpresents-dominicfike/07nytpresents-dominicfike-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Are You Up on Dominic Fike Yet?’](/article/dominic-fike-at-first.html)
-    
-    The singer-songwriter-rapper’s new album, “What Could Possibly Go
-    Wrong,” drops on Friday. Watch how he landed a multimillion-dollar
-    record deal, a world tour and the arena-size expectations of the
-    pop-music industry in a new Times documentary on FX and Hulu.
-    
-    <span class="css-me3p27"></span>
     
     </div>
 

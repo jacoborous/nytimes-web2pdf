@@ -205,8 +205,8 @@ The coolest reptiles on the planet occasionally freeze solid.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A very
 cold female Liolaemus quilmes lizard in an experiment at California
-State University,
-Northridge.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Jason
+State University, Northridge.
+</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Jason
 Warner</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/merlin_173962470_d8c1a6b6-b309-4002-88ac-c64c519216f9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
@@ -226,14 +226,20 @@ Learn</span>
 
 </div>
 
-  - July 31,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 3,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -322,7 +328,7 @@ underground. (The lizards usually spend the night in burrows.)
 The team then tested the cold adaptations of six species from varying
 elevations. They found that some could survive cooling as low as 21.2
 degrees Fahrenheit, although Dr. Espinoza suspects that wild lizards can
-withstand colder temperatures. Liolaemus huasihuasicus, the species that
+withstand colder temperatures. Liolaemus huacahuasicus, the species that
 Dr. Halloy initially encountered, lives on a mountain about 1,640 feet
 higher than the highest species Dr. Espinoza looked at — a presumably
 colder area.
@@ -337,7 +343,7 @@ colder area.
 
 Dr. Halloy noted in a 1989
 [publication](https://scholarspace.manoa.hawaii.edu/bitstream/10125/1214/v43n2-170-184.pdf)
-that Liolaemus huasihuasicus could survive freezing at 14 degrees
+that Liolaemus huacahuasicus could survive freezing at 14 degrees
 Fahrenheit, but only when at an elevation of 13,944 feet; the lizards
 died when cooled to 26.6 degrees Fahrenheit at tests conducted at 1,476
 feet.

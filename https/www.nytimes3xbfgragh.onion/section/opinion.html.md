@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -63,6 +62,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-opinion" class="section css-15h4p1b e9abtgs0">
 
@@ -225,7 +249,110 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chip
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+    Tama/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Lamas/04Lamas-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Will Covid-19 Patients in Rural Areas Get the Care They Need?](/2020/08/04/opinion/covid-rural-hospitals.html)
+    
+    In one study, people admitted to hospitals with fewer than 50 I.C.U.
+    beds were three times more likely to
+    die.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Daniela J.
+    Lamas</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+    Zender</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Brazil’s Troll Army Moves Into the Streets](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
+    
+    President Jair Bolsonaro and his allies have seeded online hatred
+    against the institutions that defend democracy. Now the outrage is
+    spilling beyond the
+    internet.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Patrícia
+    Campos
+    Mello</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Damon
+    Winter/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Jamelle Bouie
+    
+    ## [Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    
+    Government of the minority, chosen by a minority, on behalf of a
+    minority, is not what Lincoln had in mind at
+    Gettysburg.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
+    Bouie</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Tim Wu
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Denis
+    Charlet/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05Wu/04Wu-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [What Years of Emails and Texts Reveal About Your Friendly Tech Companies](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+    
+    Theatrics distracted from the real payoff of the congressional
+    hearings: the subpoenaed
+    documents.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tim
+    Wu</span></span>
+    
+    </div>
+
+2.  ### THE STONE
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Mike McQuade; Photograph via Library of
+    Congress</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04stone/04stone-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [We Need a Monument to the Unknown America](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
+    
+    A memorial makes a statement about who is worth preserving. Why not
+    a sacred and beautiful
+    nothingness?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ed
+    Simon</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chip
     Somodevilla/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-videoLarge.jpg)
     
@@ -243,13 +370,33 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artur
+4.  ### Ross Douthat
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
+    Dill/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04douthatSub/04douthatSub-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Will the Tea Party Live Again?](/2020/08/04/opinion/trump-republicans-tea-party.html)
+    
+    The coronavirus relief debate has Republicans falling back into
+    pre-Trump
+    grooves.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ross
+    Douthat</span></span>
+    
+    </div>
+
+5.  ### Bret Stephens
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artur
     Widak/NurPhoto, via Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Bret Stephens
     
     ## [The Siren Song of ‘One State’](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
     
@@ -260,122 +407,6 @@ Society](/section/opinion/gender-and-society)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Bret
     Stephens</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
-    Beatty</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03wonder-edit/03wonder-edit-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Good News About What Human Genius Can Still Do](/2020/08/03/opinion/spacex-stonehenge-mars.html)
-    
-    There’s something uniquely compelling about our need to learn what
-    we can about the
-    universe.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
-    Board</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The conversation
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Trump Doesn’t Like What He Sees in the Crystal Ball](/2020/08/03/opinion/trump-biden-2020.html)
-    
-    Besides delaying the election, what else could alter his political
-    trajectory?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Gail Collins</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Bret
-    Stephens</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
-    Pennink/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/03deanWeb/03deanWeb-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
-    
-    Scientists need to show us the data. And that’s exactly what they’re
-    working
-    on.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Natalie
-    Dean</span></span>
-    
-    </div>
-
-3.  ### Margaret Renkl
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31renklWeb/31renklWeb-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Death of a Cat](/2020/08/03/opinion/feral-cat-dying.html)
-    
-    For weeks, I have been trying to understand my own tears in the
-    presence of a dying creature I did not
-    love.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Renkl</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Reynolds/EPA, via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Why Are So Many People on Capitol Hill Getting Infected?](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
-    
-    Lawmakers are essential workers. They should start acting like it
-    and protect themselves and the other people who work for
-    Congress.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
-    Board</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
-    Jose Sanchez/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Lovell1/merlin_175146375_96b5f246-7b90-4ab9-8501-cd53c0c0c636-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [I’m the Police Chief in Portland. Violence Isn’t the Answer.](/2020/08/03/opinion/portland-protests-police-chief.html)
-    
-    As a Black man and a public servant, I see that spectacle is
-    drowning out the voices that need to be heard to make positive
-    change.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Chuck
-    Lovell</span></span>
     
     </div>
 
@@ -435,6 +466,144 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Fixes2/04Fixes2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fixes</span>
+    
+    ## Using Telemedicine to Treat Opioid Addiction
+    
+    Getting medication long meant seeing a licensed provider. Now a
+    strategy for evading Covid-19 makes treatment available via the web.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tina
+    Rosenberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Hunter1/30Hunter1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Voting Isn’t Everything
+    
+    Stop minimizing the work of movements.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Daniel
+    Hunter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/spacex-stonehenge-mars.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03wonder-edit/03wonder-edit-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Good News About What Human Genius Can Still Do
+    
+    There’s something uniquely compelling about our need to learn what
+    we can about the universe.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/portland-protests-police-chief.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Lovell1/merlin_175146375_96b5f246-7b90-4ab9-8501-cd53c0c0c636-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## I’m the Police Chief in Portland. Violence Isn’t the Answer.
+    
+    As a Black man and a public servant, I see that spectacle is
+    drowning out the voices that need to be heard to make positive
+    change.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Chuck
+    Lovell</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/opinion/letters/nuclear-arms-treaty.html)
     
     <div class="css-79elbk">
@@ -463,7 +632,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -497,7 +666,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -530,7 +699,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -570,7 +739,43 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/trump-biden-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The conversation</span>
+    
+    ## Trump Doesn’t Like What He Sees in the Crystal Ball
+    
+    Besides delaying the election, what else could alter his political
+    trajectory?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
+    Stephens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -591,189 +796,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lina
-    Mounzer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
-    
-    Microsoft wants to buy the Chinese app, and the administration needs
-    to get out of the way.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kara
-    Swisher</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/trump-2020-election.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02BlowSub/merlin_175186998_91e49e66-d4c6-43ad-b1ff-dc5be89c1d0f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Forecasts His Own Fraud
-    
-    In the president’s world, he is never to blame for failure.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Charles M.
-    Blow</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/biden-child-care.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Covert/02Covert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden’s Quietly Radical Care Plan
-    
-    The candidate is talking about child care and elder care in the same
-    breath, and making them part of his economic package. Both changes
-    are long overdue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryce
-    Covert</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/hong-kong-election-china.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why Did Hong Kong Delay Its Election — by a Year?
-    
-    The government blames the pandemic. More likely, it was afraid to
-    lose.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Fernando
-    Cheung</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/utility-corruption-energy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## When Utility Money Talks
-    
-    Corruption scandals in Ohio and Illinois reveal an unsavory
-    underside to the politics of energy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Justin Gillis</span>
+    By <span class="css-1n7hynb">Lina Mounzer</span>
     
     </div>
     

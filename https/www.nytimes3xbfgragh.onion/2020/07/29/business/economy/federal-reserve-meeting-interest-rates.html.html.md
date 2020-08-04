@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -367,7 +367,7 @@ events.”
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -375,45 +375,43 @@ events.”
 
 <div class="briefing-block-update-time">
 
-[32h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[11h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
 
 <div>
 
-[Kodak’s chief executive was given stock options. Then the share price
-spiked 1,000
-percent.](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[The Chicago Fed president says it’s up to Congress to save the
+economy.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[35h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[11h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
 
 <div>
 
-[Fitch Ratings downgrades its outlook on U.S.
-debt.](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737
+Max.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[41h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[14h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>
 
 <div>
 
-[U.S. sanctions more Chinese officials over human rights violations as
-tensions
-flare](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[Small businesses got emergency loans, but not what they
+expected.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>
 
@@ -424,14 +422,14 @@ flare](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

@@ -119,6 +119,7 @@ Well.</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -147,7 +148,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -291,6 +292,7 @@ Belluck</span>](https://www.nytimes3xbfgragh.onion/by/pam-belluck)
         </div>
     
       - 
+      - 
     
     </div>
     
@@ -424,41 +426,42 @@ in.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T07:05:52.634Z
+Updated 2020-08-04T10:03:05.885Z
 
 </div>
 
 </div>
 
-  - [Fauci defends Birx after she is criticized by
-    Trump.](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
-  - [Trump derides Democrats as lawmakers and administration officials
-    try to break stimulus
-    impasse.](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
-  - [The deadline for 2020 census counting has been moved up by a
-    month.](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
+  - [‘Long days, long nights’: Washington prepares for a prolonged fight
+    over virus
+    relief.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+  - [Israel’s rocky reopening of its schools may be a lesson for the
+    U.S.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7af9fca0)
+  - [Hurricane Isaias arrives in North Carolina as officials along the
+    East Coast
+    scramble.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-33bf9168)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

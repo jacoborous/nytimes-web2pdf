@@ -135,25 +135,27 @@ Valley</span>
 
 <div>
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
 
 <div class="css-17ih8de interactive-body">
 
-<div id="scroll-container" class="css-1gj85ro">
+<div class="at-home-nav__innerContainer">
 
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+<div class="at-home-nav__title">
 
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+[At
+Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+  - [Take: A Literary Road
+    Trip](https://www.nytimes3xbfgragh.onion/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Cook: Smoky
+    Eggplant](https://www.nytimes3xbfgragh.onion/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Look Out: For
+    Moose](https://www.nytimes3xbfgragh.onion/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters’
+    Obsessions](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -268,8 +270,8 @@ Williams</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1, 2020Updated <span class="css-epvm6">1:55 p.m.
-    ET</span>
+    Published Aug. 1, 2020Updated Aug. 3,
+    2020
     
     </div>
 
@@ -314,10 +316,10 @@ Luckily for her, Ms. Lawrence and her husband, who works in finance, own
 a shingled, four-bedroom house in the Hamptons, where schools, she
 figured, may have a better chance at opening.
 
-So they registered their five-year old twin sons at the public
-elementary school in East Hampton, and are planning to continue living
-in their weekend home full-time. Her sons, she thought, would benefit
-from the fresh air, far from the stresses of the pandemic-stricken city.
+So they registered their 5-year old twin sons at the public elementary
+school in East Hampton, and are planning to continue to live in their
+weekend home full-time. Her sons, she thought, would benefit from the
+fresh air, far from the stresses of the pandemic-stricken city.
 
 “The decision is driven by knowing that schools in New York City will
 not be able to offer a full-time, in-school option,” Ms. Lawrence said,
@@ -352,7 +354,7 @@ School](https://www.ross.org/) in East Hampton, an elite K-12 private
 school founded by Courtney Sale Ross, the widow of Time Warner chief
 [Steven J.
 Ross](https://www.nytimes3xbfgragh.onion/1992/12/21/obituaries/the-creator-of-time-warner-steven-j-ross-is-dead-at-65.html),
-said administrators there have received a record number of applications
+said administrators there had received a record number of applications
 for the fall.
 
 “Due to the fear of Covid, there is a lot of uncertainty, and they’re
@@ -380,64 +382,6 @@ So far, registrations for its elementary school grades have doubled, to
 accommodate them, although we’re starting to really struggle,” Ms.
 O’Hearn said. “We have already gone to waiting lists in six different
 grades.”
-
-<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-01T19:54:00.494Z
-
-</div>
-
-</div>
-
-  - [Top officials work to break impasse over jobless
-    benefit.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
-  - [The virus picks up dangerous speed in the Midwest, and in areas
-    that had seen
-    success.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-<div class="briefing-block-briefinglinks">
-
-<span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 Affluent parents in the Hamptons are also applying to [Avenues: The
 World School](https://www.avenues.org/), a private school based in the
@@ -574,146 +518,7 @@ a consideration,” Ms. Scholz said. “People understand that there might
 be a fear of a second wave of coronavirus, and it does feel a lot more
 normal outside the city than inside it,” where [deserted office
 buildings](https://www.nytimes3xbfgragh.onion/2020/07/26/nyregion/nyc-coronavirus-time-life-building.html)and
-uncrowded subways are a stark reminder of the pandemic’s
-effects.
-
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
-
-<div class="css-a8d9oz">
-
-<div class="css-eb027h">
-
-[](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-
-### The Coronavirus Outbreak ›
-
-#### Frequently Asked Questions
-
-Updated July 27, 2020
-
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes3xbfgragh.onion/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
-  - #### What is school going to look like in September?
-    
-      - It is unlikely that many schools will return to a normal
-        schedule this fall, requiring the grind of [online
-        learning](https://www.nytimes3xbfgragh.onion/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        [makeshift child
-        care](https://www.nytimes3xbfgragh.onion/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        and [stunted
-        workdays](https://www.nytimes3xbfgragh.onion/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        to continue. California’s two largest public school districts —
-        Los Angeles and San Diego — said on July 13, that [instruction
-        will be remote-only in the
-        fall](https://www.nytimes3xbfgragh.onion/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        citing concerns that surging coronavirus infections in their
-        areas pose too dire a risk for students and teachers. Together,
-        the two districts enroll some 825,000 students. They are the
-        largest in the country so far to abandon plans for even a
-        partial physical return to classrooms when they reopen in
-        August. For other districts, the solution won’t be an
-        all-or-nothing approach. [Many
-        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
-        including the nation’s largest, New York City, are devising
-        [hybrid
-        plans](https://www.nytimes3xbfgragh.onion/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        that involve spending some days in classrooms and other days
-        online. There’s no national policy on this yet, so check with
-        your municipal school system regularly to see what is happening
-        in your community.
-
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes3xbfgragh.onion/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes3xbfgragh.onion/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes3xbfgragh.onion/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
-
-</div>
-
-</div>
-
-<div class="css-6mllg9">
-
-</div>
-
-<div class="css-pmm6ed">
-
-<span class="css-5gimkt"></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+uncrowded subways are a stark reminder of the pandemic’s effects.
 
 Schools in the Hudson Valley are also seeing a rise in enrollment.
 Administrators at the Rhinebeck Central School District, for example,
@@ -748,7 +553,7 @@ not to plunk down a small fortune for their children’s private school,
 Lycée[Francais de New York](https://www.lfny.org/), this fall.
 
 Instead, they moved up to their weekend house on 176 rustic acres near
-Elizaville, N.Y. in the Hudson Valley and plan to home-school their
+Elizaville, N.Y. ,in the Hudson Valley and plan to home-school their
 children, using a portion of the money they saved on private school for
 a part-time private tutor to help out.
 

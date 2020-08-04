@@ -509,6 +509,110 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">good question</span>
+    
+    ## How Hot is Too Hot?
+    
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to sweat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Randall
+    Munroe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Think Like an Epidemiologist
+    
+    Don’t worry, a little Bayesian analysis won’t hurt you.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Siobhan
+    Roberts</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/health/alzheimers-dementia-rates.html)
     
     <div class="css-79elbk">
@@ -538,7 +642,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -552,7 +656,7 @@ story](#after-mid1)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -571,7 +675,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -608,7 +712,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -643,7 +747,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -677,7 +781,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -712,7 +816,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -729,110 +833,7 @@ story](#after-mid1)
     ## Birx Warns That U.S. Epidemic Is in a ‘New Phase’
     
     Colleges are preparing to welcome students back to a complicated
-    campus setting. India’s home minister tests
-    positive.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
-    
-    Her near-total transplant in 2008 was at the time the most complex
-    one ever performed. She was the fourth patient in the world to
-    undergo such a procedure.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryan
-    Pietsch</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/science/nasa-spacex-astronauts.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
-    
-    Bob Behnken and Doug Hurley are getting ready to splash down after
-    two months in orbit.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
-    
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the Midwest. A summer camp in Georgia
-    apologizes for hosting a retreat after hundreds who attended were
-    infected.
+    campus setting. India’s home minister tests positive.
     
     <div class="css-1nqbnmb ea5icrr0">
     

@@ -1114,7 +1114,63 @@ story](#after-mid4)
 [More in Fashion
     »](/section/fashion)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
+    Alfiky/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    
+    Some retailers are turning to popular social media personalities to
+    detail post-pandemic protocols and boost the allure of visiting
+    their
+    stores.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sapna
+    Maheshwari</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
+    Frustaci/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Italian Fashion Hasn’t Changed Enough, Black Designers Say](/2020/07/31/fashion/italian-fashion-black-designers.html)
+    
+    A new letter sent by independent designers to fashion executives
+    demands reform, or at least a serious conversation about
+    race.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jessica
+    Testa</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bruce
+    Bennett/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+    
+    The department store, which traces its roots to 1826, was struggling
+    before the coronavirus hit. Its owner, the clothing rental start-up
+    Le Tote, also filed for
+    bankruptcy.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sapna
+    Maheshwari</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -1131,7 +1187,7 @@ story](#after-mid4)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
     Jose Sanchez/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/fashion/29unbuttoned-moms-1-SUB/merlin_174896520_00a3ac2a-7670-418a-82b1-8ee02d3f0437-videoLarge.jpg)
     
@@ -1146,63 +1202,6 @@ story](#after-mid4)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Vanessa
     Friedman</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by The New York Times; Google Street
-    View</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Close Look at a Fashion Supply Chain Is Not Pretty](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
-    
-    A new report on factories in Malaysia that create products for
-    Brooks Brothers, Levi’s, LL Bean and others examines the high prices
-    workers pay for their
-    jobs.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
-    Paton</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by The New York Times; via
-    Archive.org</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/23everlane-screengrabs-02/23everlane-screengrabs-02-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Everlane’s Promise of ‘Radical Transparency’ Unravels](/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
-    
-    Employees past and present are challenging management, saying the
-    company’s ethical image was an
-    illusion.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jessica Testa</span>,
-    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
-    Paton</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rozette
-    Rago for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/29VIRUS-SECONDHANDSHOPS-1/29VIRUS-SECONDHANDSHOPS-1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Secondhand Shoppers Worry About Their Favorite Local Spots](/2020/07/29/style/secondhand-clothes-coronavirus-safety.html)
-    
-    Sites like Poshmark and Thredup have thrived during the pandemic,
-    but your neighborhood thrift store is not doing so
-    well.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jessica
-    Schiffer</span></span>
     
     </div>
 
@@ -1681,6 +1680,40 @@ story](#after-mid7)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rich City Tykes Swell Schools in Hamptons and Hudson Valley
+    
+    New York parents of means are seeking less congested classrooms near
+    their second — third? — homes.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alex
+    Williams</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/25/at-home/coronavirus-learn-to-draw.html)
     
     <div class="css-79elbk">
@@ -1709,7 +1742,7 @@ story](#after-mid7)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1743,7 +1776,7 @@ story](#after-mid7)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1777,7 +1810,7 @@ story](#after-mid7)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1811,7 +1844,7 @@ story](#after-mid7)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1846,7 +1879,7 @@ story](#after-mid7)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1880,7 +1913,7 @@ story](#after-mid7)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1914,7 +1947,7 @@ story](#after-mid7)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1948,7 +1981,7 @@ story](#after-mid7)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1971,41 +2004,7 @@ story](#after-mid7)
     
     By <span class="css-1n7hynb">Claudio E. Cabrera, Laylah Amatullah
     Barrayn, Elias Williams, September Dawn Bottoms <span>and</span>
-    James
-    Estrin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/23/style/self-care/babyfoot-foot-peels.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/fashion/23BABYFOOT01/merlin_173802198_3f488e85-7ced-434f-bcfd-c23b8d5dd529-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Goodbye, Pedicures. Hello, Peels.
-    
-    With many spas closed, Baby Foot and other at-home foot peels are in
-    high demand.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lauren Mechling</span>
+    James Estrin</span>
     
     </div>
     

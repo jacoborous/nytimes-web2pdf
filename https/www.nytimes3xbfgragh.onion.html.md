@@ -206,7 +206,7 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
 
 <div class="css-1g8bx4t">
 
@@ -216,13 +216,13 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 </div>
 
-[](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## Listen to ‘The Daily”
+## Listen to ‘The Daily’
 
 </div>
 
@@ -230,8 +230,51 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-8oysku e18972d71">
 
-Wrongfully accused by an
-algorithm.
+Is America ready to vote by
+mail?
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ydsmmq">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-geek62">
+
+<div class="css-1d537rb e18972d70" media="[object Object]">
+
+[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-square320.jpg)
+
+</div>
+
+</div>
+
+[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
+
+<div class="css-8oysku e18972d71" type="1">
+
+<div class="css-1iexn6j e1voiwgp1">
+
+## The Book Review Podcast
+
+</div>
+
+</div>
+
+<div class="css-8oysku e18972d71">
+
+Anne Applebaum on the “seductive lure of
+authoritarianism.”
 
 </div>
 
@@ -284,49 +327,6 @@ school.
 
 </div>
 
-<div class="css-ydsmmq">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-geek62">
-
-<div class="css-1d537rb e18972d70" media="[object Object]">
-
-[](/2020/08/03/technology/tiktok-microsoft.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/05/14/business/ontech-nl-icon/ontech-nl-icon-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
-
-</div>
-
-</div>
-
-[](/2020/08/03/technology/tiktok-microsoft.html)
-
-<div class="css-8oysku e18972d71" type="1">
-
-<div class="css-1iexn6j e1voiwgp1">
-
-## ‘On Tech With Shira Ovide’
-
-</div>
-
-</div>
-
-<div class="css-8oysku e18972d71">
-
-The strange saga of
-TikTok.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 <div class="css-1y8l3jc">
@@ -367,6 +367,67 @@ TikTok.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+[](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Explosions Rock East Beirut</span>
+
+</div>
+
+  - Hundreds of people were injured when two blasts, the second much
+    larger, struck the waterfront of the Lebanese capital, shaking much
+    of the city.
+  - The cause of the explosions remains unclear, government officials
+    said. Here’s the
+latest.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+![Footage shows a powerful explosion and its aftermath in Beirut,
+Lebanon, on Tuesday. <span class="credit">Wael Hamzeh/EPA, via
+Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-videoSixteenByNine3000.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
 <div class="css-1aew2eb eqveam62">
 
 <div>
@@ -383,19 +444,20 @@ TikTok.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/world/coronavirus-covid-19.html)
+[](/2020/08/04/world/coronavirus-cases.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Fauci Supports Birx’s ‘New Phase’ Assessment After Trump Criticizes Her</span>
+## <span>N.Y.C. Health Commissioner Resigns Over Mayor’s Coronavirus Response</span>
 
 </div>
 
-  - In backing up Dr. Deborah Birx, Dr. Anthony Fauci indirectly put
-    himself at odds with President Trump, who had called her “pathetic.”
-  - Already, some schools that have opened for in-person classes have
-    had to impose quarantines or close temporarily because of
-    infections. Here’s the
+  - In her email to Mayor Bill de Blasio, Dr. Oxiris Barbot said that
+    the health department’s “expertise was not used to the degree it
+    could have been.”
+  - Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure. Here’s
+    the
 latest.
 
 <div class="css-1slnf6i">
@@ -424,7 +486,7 @@ latest.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/USA.svg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpvirus1/4hpvirus1-videoLarge.jpg)
 
 </div>
 
@@ -448,17 +510,17 @@ latest.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+[](/2020/08/03/business/how-schools-reopen.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
+## The United States Is Reopening Many of the Wrong Schools
 
 </div>
 
-As his team met with Democratic leaders to try to reach a deal,
-President Trump insulted Democrats and mused about short-circuiting the
-discussion.
+When it is safe enough to return to school, young children would benefit
+the most. Yet financial pressures are pushing colleges to reopen most
+rapidly.
 
 <div>
 
@@ -484,17 +546,17 @@ discussion.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+[](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+## What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion
 
 </div>
 
-As countries consider back-to-school strategies for the fall, a
-coronavirus outbreak at a Jerusalem high school offers a cautionary
-tale.
+Melbourne, Australia’s second-largest city, is becoming a case study in
+handling a second wave of infections. There are lots of unanswered
+questions.
 
 <div>
 
@@ -526,7 +588,7 @@ tale.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_usa-threeByTwoSmallAt2X.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -536,11 +598,13 @@ tale.
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1yoguk1 eqveam60">
+<div class="css-bs48m0 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -548,23 +612,25 @@ tale.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
+[](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>D.A. Is Investigating Trump and His Company Over Fraud, Filing Suggests</span>
+## <span>Politics Updates: What to Watch For in Today’s Primaries</span>
 
 </div>
 
-The Manhattan district attorney’s office made the disclosure in a court
-filing arguing President Trump’s accountants should turn over his tax
-returns.
+  - Arizona, Kansas, Michigan, Missouri and Washington State are
+    choosing nominees for Congress and local offices.
+  - Some Republicans aren’t thrilled about Kris Kobach’s Senate campaign
+    in Kansas. Follow updates
+here.
 
-<div>
+<div class="css-1slnf6i">
 
 <div class="css-na047m">
 
-</div>
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
 
 </div>
 
@@ -573,31 +639,6 @@ returns.
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
-
-<div class="css-1g8bx4t">
-
-![President Trump has asked a federal judge to invalidate a subpoena
-asking for eight years of his personal and corporate tax returns. 
-<span class="credit">Doug Mills/The New York
-Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -609,19 +650,24 @@ Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion
 
 <div class="css-1qj0wac eqveam61">
 
+<div class="css-1aew2eb eqveam62">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
+[](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Rashida Tlaib Won Her Last Primary by 900 Votes. How Will the Rematch Go?
+## How Karen Bass Rose in Politics to Become a V.P. Contender
 
 </div>
 
-The Michigan Democrat is fighting for her political life.
+The California congresswoman is barely known to many Americans, or even
+to many leading Democrats. Now she’s a top contender to be Joe Biden’s
+running
+mate.
 
 <div>
 
@@ -641,25 +687,34 @@ The Michigan Democrat is fighting for her political life.
 
 </div>
 
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
+[](/2020/08/04/us/politics/trump-john-lewis-axios.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Disputed Ballots Must Be Counted in N.Y. House Primary, Judge Rules
+## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
 
 </div>
 
-The race for the seat held by Representative Carolyn Maloney has become
-a symbol of potential problems with mail-in
-voting.
+President Trump was asked by an interviewer to reflect on the late
+congressman’s contributions to the civil rights movement. He talked up
+his own record
+instead.
 
 <div>
 
 <div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -681,49 +736,11 @@ voting.
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div>
-
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1fgqvm0 eqveam60">
+<div class="css-1yoguk1 eqveam60">
 
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/business/economy/trump-tiktok-china-business.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America</span>
-
-</div>
-
-President Trump’s interventions in company dealings based on his
-instincts are a departure from the arm’s-length approach of his
-predecessors.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
+<div class="css-qvz0vj eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -731,16 +748,44 @@ predecessors.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/technology/trump-tiktok-microsoft.html)
+[](/2020/08/04/us/isaias-storm-updates.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+## <span>Fires, Flooding and Tornadoes as Isaias Charges Over Land</span>
 
 </div>
 
-The president said he did not object to a potential acquisition of the
-Chinese-owned app, retreating from comments about banning the service.
+At least two people were killed after a tornado touched down in Bertie
+County, N.C., and caused significant damage to a neighborhood there.
+Here’s the
+latest.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Emergencies on two coasts — Hurricane Isaias and the Apple Fire — show the harsh reality of climate change.
+
+</div>
 
 <div>
 
@@ -757,6 +802,44 @@ Chinese-owned app, retreating from comments about banning the service.
 </div>
 
 </div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+<div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0">
+
+Isaias, now a tropical storm, made landfall as a hurricane in North
+Carolina and is causing widespread power outages as it cuts a path
+north. <span class="credit">Matt Slocum/Associated Press</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
 
 </div>
 
@@ -776,17 +859,23 @@ Chinese-owned app, retreating from comments about banning the service.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/03/us/isaias-storm-updates.html)
+[](/2020/08/04/dining/chef-restaurant-culture.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Hurricane Isaias Makes Landfall in North Carolina</span>
+<div class="css-hb0qj3">
+
+The Great Read
 
 </div>
 
-Forecasters warned of heavy rain and powerful winds as the storm travels
-up the East Coast. Flash floods and tornadoes are possible. Catch up on
-the latest.
+## <span>Twilight of the Imperial Chef</span>
+
+</div>
+
+The notion of the lone genius in the kitchen has long fostered culinary
+creativity — and restaurants marred by abuse. This may be the time for
+change.
 
 <div>
 
@@ -804,7 +893,7 @@ the latest.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/03/us/isaias-storm-updates.html)
+[](/2020/08/04/dining/chef-restaurant-culture.html)
 
 <div class="css-1g8bx4t">
 
@@ -816,11 +905,10 @@ the latest.
 
 </div>
 
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+<div class="section css-1xdhyk6 e2u1rkt0">
 
-Floodwaters rose in Myrtle Beach, S.C., on Monday.
-<span class="credit">Sean Rayford/Getty
-Images</span>
+<span class="credit">Ryan
+Garcia</span>
 
 </div>
 
@@ -839,26 +927,6 @@ Images</span>
 <div class="css-1nuzdmm e1aa0s8g0">
 
 <div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-upgn5b eqveam64">
-
-### Those We’ve Lost
-
-</div>
 
 <div class="css-1qiat4j eqveam63">
 
@@ -866,34 +934,21 @@ Images</span>
 
 <div class="css-qvz0vj eqveam61">
 
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+[](/2020/08/04/magazine/behrouz-boochani-australia.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71</span>
+## <span>He Was Detained for 7 Years. Now He’s Reclaiming His Identity.</span>
 
 </div>
 
-A singer, songwriter and producer, Mr. Víctor also worked to bring
-theater, music and dance lessons to underprivileged communities. He died
-of
-Covid-19.
+After he fled Iran’s Revolutionary Guard and exposed Australia’s
+offshore detention camps from the inside, what’s next for Behrouz
+Boochani?
 
 <div>
 
 <div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -907,17 +962,13 @@ Covid-19.
 
 <div class="css-1qj0wac eqveam61">
 
-<div class="css-1aew2eb eqveam62">
+[](/2020/08/04/magazine/behrouz-boochani-australia.html)
 
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-ws86q6 eqveam60">
 
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
-
-<div class="css-1g8bx4t">
+<div class="css-1ygu6hu eqveam61">
 
 <div class="css-zjzyr8">
 
@@ -927,72 +978,21 @@ Covid-19.
 
 </div>
 
+</div>
+
+</div>
+
+<div class="css-nmg095 eqveam60">
+
+<div class="css-1ygu6hu eqveam61">
+
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-The Dominican singer Víctor Víctor in an undated photo.
-<span class="credit">via Victor family</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/07/30/obituaries/waldemar-gonzalez-dead-coronavirus.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Waldemar Gonzalez, Social Worker Who Drew on His Own Life, Dies at 72
-
-</div>
-
-He grew up with an abusive father and carried that pain into adulthood
-before becoming “Dad 2.0.” He died of the
-virus.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/interactive/2020/obituaries/people-died-coronavirus-obituaries.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## The pandemic has taken an incalculable death toll. Here are some of those we’ve lost.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
+Behrouz Boochani’s book, “No Friend but the Mountains,” won the
+prestigious Victorian Prize for Literature in 2019 while he was still
+detained on Manus Island. <span class="credit">Birgit Krippner for The
+New York
+Times</span>
 
 </div>
 
@@ -1028,55 +1028,7 @@ virus.
 
 ### Opinion
 
-<div class="css-anz6u5">
-
-<div class="css-tub26b">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
-
-<div class="css-dcl9ft">
-
-![Paul
-Krugman](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-1dvlumo e18df3gd0">
-
-Paul Krugman
-
-</div>
-
-</div>
-
-## The Unemployed Stare Into the Abyss. Republicans Look Away.
-
-</div>
-
-The cruelty and ignorance of Trump and his allies are creating another
-gratuitous disaster.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<div class="css-dlmg09">
 
 <div class="css-tub26b">
 
@@ -1088,12 +1040,12 @@ gratuitous disaster.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+[](/2020/08/04/opinion/trump-2020-electoral-college.html)
 
 <div class="css-dcl9ft">
 
-![Michelle
-Cottle](https://static01.graylady3jvrrxbe.onion/images/2019/06/25/opinion/michelle-cottle-circular/michelle-cottle-circular-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+![Jamelle
+Bouie](https://static01.graylady3jvrrxbe.onion/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1103,19 +1055,19 @@ Cottle](https://static01.graylady3jvrrxbe.onion/images/2019/06/25/opinion/michel
 
 <div class="css-1dvlumo e18df3gd0">
 
-Michelle Cottle
+Jamelle Bouie
 
 </div>
 
 </div>
 
-## Disenchanted Seniors for Biden
+## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
 
 </div>
 
-The pandemic is particularly dangerous for older Americans, and Trump is
-losing their
-support.
+Government of the minority, chosen by a minority, on behalf of a
+minority, is not what Lincoln had in mind at
+Gettysburg.
 
 <div>
 
@@ -1133,11 +1085,11 @@ support.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+[](/2020/08/04/opinion/trump-2020-electoral-college.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/04bouie-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1154,6 +1106,186 @@ support.
 </div>
 
 <div class="css-dh19r0">
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/covid-rural-hospitals.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Daniela J. Lamas
+
+</div>
+
+</div>
+
+## ‘If I Hadn’t Been Transferred, I Would Have Died’
+
+</div>
+
+Conversations about death from Covid-19 revolve around patient
+characteristics. But hospitals matter, too.
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
+
+<div class="css-dcl9ft">
+
+![Paul
+Krugman](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Paul Krugman
+
+</div>
+
+</div>
+
+## The Unemployed Stare Into the Abyss. Republicans Look Away.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/trump-republicans-tea-party.html)
+
+<div class="css-dcl9ft">
+
+![Ross
+Douthat](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ross Douthat
+
+</div>
+
+</div>
+
+## Republicans Are Ready for the Don Draper Method
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Patrícia Campos Mello
+
+</div>
+
+</div>
+
+## Brazil’s Troll Army Moves Into the Streets
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ed Simon
+
+</div>
+
+</div>
+
+## We Need a Monument to the Unknown America
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+
+<div class="css-dcl9ft">
+
+![Michelle
+Cottle](https://static01.graylady3jvrrxbe.onion/images/2019/06/25/opinion/michelle-cottle-circular/michelle-cottle-circular-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Michelle Cottle
+
+</div>
+
+</div>
+
+## Disenchanted Seniors for Biden
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-tub26b">
 
@@ -1192,91 +1324,12 @@ Bret Stephens
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/opinion/spacex-stonehenge-mars.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-The Editorial Board
-
-</div>
-
-</div>
-
-## The Good News About What Human Genius Can Still Do
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/trump-biden-2020.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Gail Collins and Bret Stephens
-
-</div>
-
-</div>
-
-## Trump Doesn’t Like What He Sees in the Crystal Ball
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Natalie
-Dean
-
-</div>
-
-</div>
-
-## I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/feral-cat-dying.html)
+[](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
 
 <div class="css-dcl9ft">
 
-![Margaret
-Renkl](https://static01.graylady3jvrrxbe.onion/images/2017/04/08/opinion/margaret-renkl/margaret-renkl-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+![Tim
+Wu](https://static01.graylady3jvrrxbe.onion/images/2017/04/05/opinion/tim-wu/tim-wu-thumbLarge-v4.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1286,13 +1339,14 @@ Renkl](https://static01.graylady3jvrrxbe.onion/images/2017/04/08/opinion/margare
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Margaret Renkl
+Tim
+Wu
 
 </div>
 
 </div>
 
-## Death of a Cat
+## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
 
 </div>
 
@@ -1304,7 +1358,7 @@ Margaret Renkl
 
 <div class="css-6p6lnl">
 
-[](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+[](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1312,13 +1366,14 @@ Margaret Renkl
 
 <div class="css-tnu8m6 e18df3gd0">
 
-The Editorial Board
+Daniel
+Hunter
 
 </div>
 
 </div>
 
-## Why Are So Many People on Capitol Hill Getting Infected?
+## Voting Isn’t Everything
 
 </div>
 
@@ -1330,74 +1385,11 @@ The Editorial Board
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/opinion/portland-protests-police-chief.html)
+[](/2020/08/04/opinion/letters/trump-family.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Chuck Lovell
-
-</div>
-
-</div>
-
-## I’m the Police Chief in Portland. Violence Isn’t the Answer.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Alexander Keyssar
-
-</div>
-
-</div>
-
-## How Has the Electoral College Survived for This Long?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Elizabeth
-Drew
-
-</div>
-
-</div>
-
-## Scrap the Presidential Debates (and Not for Health Reasons)
+## How Trump’s Upbringing Molded His Personality
 
 </div>
 
@@ -1431,13 +1423,24 @@ Drew
 
 <div class="css-1xaqcky">
 
-[](/interactive/2020/07/30/world/asia/china-1950s-echoed-today.html)
+[](/2020/08/03/us/mask-protests-1918.html)
 
 <div class="css-1g8bx4t">
 
-![<span class="credit">Photo illustration by The New York Times;
-portraits by Richard Harrington, via Stephen Bulger
-Gallery</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/30-china-then-now-static-promo/30-china-then-now-static-promo-threeByTwoMediumAt2X-v2.jpg)
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:480px">
+
+</div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0">
+
+<span class="credit">Hamilton Henry Dobbin, via California State
+Library</span>
+
+</div>
 
 </div>
 
@@ -1445,16 +1448,17 @@ Gallery</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/
 
 <div class="css-1nl6p6m">
 
-[](/interactive/2020/07/30/world/asia/china-1950s-echoed-today.html)
+[](/2020/08/03/us/mask-protests-1918.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Hope, Despair, Control: The 1950s China My Father Saw, Echoed Today</span>
+## <span>The Mask Slackers of 1918</span>
 
 </div>
 
-William Stevenson was one of the first foreign correspondents to visit
-the People’s Republic of China. Decades later, his daughter visited too.
+As the influenza pandemic swept across the United States in 1918 and
+1919, masks took a role in political and cultural
+wars.
 
 <div>
 
@@ -1486,16 +1490,17 @@ the People’s Republic of China. Decades later, his daughter visited too.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/interactive/2020/08/03/magazine/padma-lakshmi-interview.html)
+[](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Padma Lakshmi Wants Us to Eat More Adventurously
+## A History of Hurricanes in America and the Devastation They Have Wrought
 
 </div>
 
-“There’s such a laziness about reaching for the thing that is most
-familiar.”
+In “A Furious Sky,” Eric Jay Dolin recounts 500 years of reckoning with
+the monster storms that come in off the Atlantic
+Ocean.
 
 <div>
 
@@ -1513,7 +1518,7 @@ familiar.”
 
 <div class="css-1qj0wac eqveam61">
 
-[](/interactive/2020/08/03/magazine/padma-lakshmi-interview.html)
+[](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
 
 <div class="css-1g8bx4t">
 
@@ -1547,17 +1552,18 @@ familiar.”
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/02/nyregion/metropolitan-diary.html)
+[](/2020/07/30/magazine/black-soldiers-wwii-racism.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## ‘As I Started to Walk Away, the Second Man Reached Out His Hand’
+## Returning From War, Returning to Racism
 
 </div>
 
-Giving directions, a noisy Chinatown dining room and more reader tales
-of New York City in this week’s Metropolitan
-Diary.
+After the war, Black soldiers faced violence and segregation at home.
+Lewis W. Matthews managed to push through racism, but that wasn’t an
+option for
+many.
 
 <div>
 
@@ -1575,7 +1581,7 @@ Diary.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/02/nyregion/metropolitan-diary.html)
+[](/2020/07/30/magazine/black-soldiers-wwii-racism.html)
 
 <div class="css-1g8bx4t">
 

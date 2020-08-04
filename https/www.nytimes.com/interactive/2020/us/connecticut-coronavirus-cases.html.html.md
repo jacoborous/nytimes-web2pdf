@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 3, 2020, 9:07 P.M.
 E.T.
 
 </div>
@@ -412,7 +412,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-49,810
+50,062
 
 </div>
 
@@ -428,7 +428,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-4,432
+4,437
 
 </div>
 
@@ -463,7 +463,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -473,7 +473,7 @@ No new coronavirus cases were reported in Connecticut on Aug. 2. Over
 the past week, there have been an average of 148 cases per day, an
 increase of 71 percent from the average two weeks earlier.
 
-As of Monday morning, there have been at least 49,810 cases and 4,432
+As of Monday evening, there have been at least 50,062 cases and 4,437
 deaths in Connecticut since the beginning of the pandemic, according to
 a New York Times
 database.
@@ -913,9 +913,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Connecticut </span></td>
-<td><span>49,810 </span></td>
-<td><span>1,397 </span></td>
-<td><span>4,432 </span></td>
+<td><span>50,062 </span></td>
+<td><span>1,404 </span></td>
+<td><span>4,437 </span></td>
 <td><span>124 </span></td>
 <td><span>1,034 </span></td>
 <td><span>29 </span></td>
@@ -932,27 +932,27 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/connecticut.svg" alt="Connecticut heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/connecticut.svg" alt="Connecticut heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Fairfield </span></td>
-<td><span>17,793 </span></td>
-<td><span>1,886 </span></td>
-<td><span>1,406 </span></td>
+<td><span>17,870 </span></td>
+<td><span>1,894 </span></td>
+<td><span>1,408 </span></td>
 <td><span>149 </span></td>
 <td><span>372 </span></td>
 <td><span>39 </span></td>
 <td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/fairfield.svg" alt="Fairfield heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/fairfield.svg" alt="Fairfield heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Tolland </span></td>
-<td><span>1,019 </span></td>
-<td><span>676 </span></td>
+<td><span>1,050 </span></td>
+<td><span>697 </span></td>
 <td><span>66 </span></td>
 <td><span>44 </span></td>
 <td><span>55 </span></td>
@@ -960,13 +960,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/tolland.svg" alt="Tolland heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/tolland.svg" alt="Tolland heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Hartford </span></td>
-<td><span>12,645 </span></td>
-<td><span>1,418 </span></td>
+<td><span>12,701 </span></td>
+<td><span>1,424 </span></td>
 <td><span>1,412 </span></td>
 <td><span>158 </span></td>
 <td><span>305 </span></td>
@@ -974,13 +974,13 @@ in last<br />
 <td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/hartford.svg" alt="Hartford heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/hartford.svg" alt="Hartford heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Windham </span></td>
-<td><span>693 </span></td>
-<td><span>593 </span></td>
+<td><span>712 </span></td>
+<td><span>610 </span></td>
 <td><span>15 </span></td>
 <td><span>13 </span></td>
 <td><span>35 </span></td>
@@ -988,12 +988,12 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/windham.svg" alt="Windham heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/windham.svg" alt="Windham heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Litchfield </span></td>
-<td><span>1,597 </span></td>
+<td><span>1,598 </span></td>
 <td><span>886 </span></td>
 <td><span>138 </span></td>
 <td><span>77 </span></td>
@@ -1002,27 +1002,27 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/litchfield.svg" alt="Litchfield heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/litchfield.svg" alt="Litchfield heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>New Haven </span></td>
-<td><span>13,041 </span></td>
-<td><span>1,526 </span></td>
-<td><span>1,101 </span></td>
+<td><span>13,086 </span></td>
+<td><span>1,531 </span></td>
+<td><span>1,104 </span></td>
 <td><span>129 </span></td>
 <td><span>157 </span></td>
 <td><span>18 </span></td>
 <td><span>6 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/new_haven.svg" alt="New Haven heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/new_haven.svg" alt="New Haven heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>New London </span></td>
-<td><span>1,402 </span></td>
-<td><span>529 </span></td>
+<td><span>1,414 </span></td>
+<td><span>533 </span></td>
 <td><span>103 </span></td>
 <td><span>39 </span></td>
 <td><span>40 </span></td>
@@ -1030,13 +1030,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/new_london.svg" alt="New London heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/new_london.svg" alt="New London heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Middlesex </span></td>
-<td><span>1,377 </span></td>
-<td><span>848 </span></td>
+<td><span>1,388 </span></td>
+<td><span>854 </span></td>
 <td><span>191 </span></td>
 <td><span>118 </span></td>
 <td><span>12 </span></td>
@@ -1044,7 +1044,7 @@ in last<br />
 <td><span>3 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_09/middlesex.svg" alt="Middlesex heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/heatmaps/nyt_world/usa/usa_09/middlesex.svg" alt="Middlesex heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1574,33 +1574,34 @@ State by
 ## <span class="g-balancer" data-id="12">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
-growing.](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
 It seems that there are [four factors that most likely play a
-role](https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html):
+role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
 how much you touch your face afterwards.
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
-steps](https://www.nytimes.com/article/prepare-for-coronavirus.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show®ion=TOP_BANNER&context=storyline_menu#link-56871453):
+steps](https://www.nytimes.com/article/prepare-for-coronavirus.html):
 
 <div class="g-container g-list-circle">
 
 Keep your distance from others. Stay at least six feet away from people
 outside your household as much as possible.
 
+Wear a mask outside your home. A mask protects others from your germs,
+and it protects you from infection as well. The more people who wear
+masks, the more we all stay safer.
+
 Wash your hands often. Anytime you come in contact with a surface
 outside your home, scrub with soap for at least 20 seconds, rinse and
 then dry your hands with a clean towel.
 
-Avoid touching your face. The virus primarily spreads when contaminated
-hands touch our nose or mouth or eyes. Try to keep your hands away from
-your face unless you have just recently washed them.
-
-Wear a mask outside your home. A mask protects others from any potential
-infection from you. The more people who wear masks, the more we all stay
-safer.
+Avoid touching your face. The virus can spread when our hands come into
+contact with the virus, and we touch our nose, mouth or eyes. Try to
+keep your hands away from your face unless you have just recently washed
+them.
 
 </div>
 

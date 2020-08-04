@@ -209,7 +209,7 @@ business that’s been in the same family for nearly 50 years.
 Fish Market in Harlem has been in Sterling Eric Strickland’s family for
 46 years. Mr. Strickland, right, who goes by Eric, runs the restaurant
 with his wife,
-Viola. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Lelanie
+Viola.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Lelanie
 Foster for The New York
 Times</span></span></span>](https://static01.nyt.com/images/2020/08/05/dining/05fishmarket1/05fishmarket1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 

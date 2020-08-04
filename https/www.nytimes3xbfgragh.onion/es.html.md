@@ -522,6 +522,49 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/03Mascarillas-ES-01/25virus-japan-masks-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Llevaremos cubrebocas por algún tiempo. ¿Por qué no hacerlos bonitos?
+    
+    Con purificadores motorizados, desinfectantes, tejidos transpirables
+    y estampados chic. Los protectores faciales han dejado de ser solo
+    productos descartables y baratos y ahora los hay para clientes más
+    exigentes
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Ben Dooley <span>y</span> Hisako
+    Ueno</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/27/business/fashion-masks-coronavirus.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/es/2020/08/03/espanol/cultura/victor-victor-murio-coronavirus.html)
     
     <div class="css-79elbk">
@@ -558,7 +601,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -600,7 +643,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -644,7 +687,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -677,7 +720,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -721,7 +764,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -764,7 +807,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -801,7 +844,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -841,7 +884,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -874,47 +917,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/29/espanol/cultura/vincent-van-gogh-raices-arbol.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/29VanGogh-ES-01/28van-gogh2-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## La última obra de Van Gogh esconde una pista sobre sus días finales
-    
-    Un investigador dice que ha descubierto la ubicación precisa donde
-    el artista pintó “Raíces de árbol”, que se cree fue la última obra
-    en la que trabajaba el día en que sufrió una herida mortal de bala.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Nina Siegal</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html "Read in English")
     
     </div>
     

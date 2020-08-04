@@ -361,7 +361,7 @@ added.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T03:42:45.304Z
+Updated 2020-08-04T07:33:06.428Z
 
 </div>
 
@@ -372,9 +372,8 @@ Updated 2020-08-04T03:42:45.304Z
   - [Trump derides Democrats as lawmakers and administration officials
     try to break stimulus
     impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
-  - [As some students and teachers go back to school in the U.S.,
-    they’re bringing the virus with
-    them.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4c85ed64)
+  - [The deadline for 2020 census counting has been moved up by a
+    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
 
 <div class="briefing-block-footer">
 

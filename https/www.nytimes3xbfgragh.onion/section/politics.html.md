@@ -324,6 +324,113 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.
+    
+    Mr. Wolf joined the Department of Homeland Security in its infancy
+    to help prevent another 9/11. Now he is helping President Trump use
+    it to achieve his political ambitions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Jesse
+    McKinley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    
+    At every step in her political career, the California congresswoman
+    had to be coaxed to run for a higher office. Now she’s a top
+    contender to be Joe Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
+    Jennifer
+    Medina</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/upshot/04up-medicaid-ballots/04up-medicaid-ballots-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Ballot Initiatives Changed the Game on Medicaid Expansion
+    
+    Missouri is the latest state where a nonprofit has helped put the
+    issue before voters, bypassing Republican officials. And the vote is
+    today.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Kliff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
@@ -353,7 +460,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -389,7 +496,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -416,6 +523,12 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -424,7 +537,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -460,7 +573,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -495,7 +608,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -530,7 +643,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -551,112 +664,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
-    
-    Republicans worry that if Kris Kobach, a polarizing figure in the
-    state, wins the nomination, it would pave the way for Democrats to
-    capture the seat and perhaps gain control of the Senate.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Glueck</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
-    
-    Members of a congressional oversight panel want to know how YRC
-    Worldwide won a $700 million loan from the Treasury Department.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
-    
-    The president said he did not object to a potential acquisition of
-    the Chinese-owned app, retreating from comments about banning the
-    service.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
-    Isaac</span>
+    By <span class="css-1n7hynb">Giovanni Russonello</span>
     
     </div>
     

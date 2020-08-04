@@ -218,7 +218,7 @@ story](#after-subheader)
     
     </div>
     
-    ## A Group of Pac-12 Football Players Opts Out of the Season
+    ## A Group of Pac-12 Football Players Threaten to Opt Out of the Season
     
     The athletes from 10 schools said they were dissatisfied with how
     their universities were handling the coronavirus, an approach they

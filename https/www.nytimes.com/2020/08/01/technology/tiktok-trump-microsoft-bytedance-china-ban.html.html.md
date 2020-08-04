@@ -233,9 +233,8 @@ McCabe</span>](https://www.nytimes.com/by/david-mccabe)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 3, 2020,
-    <span class="css-epvm6">11:02 a.m.
-    ET</span>
+    Published Aug. 1, 2020Updated Aug. 3,
+    2020
     
     </div>
 

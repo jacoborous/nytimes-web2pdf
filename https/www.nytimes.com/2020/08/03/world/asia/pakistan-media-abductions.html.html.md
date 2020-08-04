@@ -243,8 +243,9 @@ Abi-Habib</span>](https://www.nytimes.com/by/maria-abi-habib)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">2:40 a.m.
+    ET</span>
     
     </div>
 
@@ -252,7 +253,7 @@ Abi-Habib</span>](https://www.nytimes.com/by/maria-abi-habib)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -324,7 +325,7 @@ politicians look on helplessly, affecting concern and promising to
 investigate. Unable to uphold the rule of law as Imran Khan vowed to do,
 their authority erodes.”
 
-On July 21, the reporter, Mattiullah Jan, had just dropped off his wife
+On July 21, the reporter, Matiullah Jan, had just dropped off his wife
 at her job in an upscale neighborhood in Pakistan’s capital Islamabad
 when several men, some in plain clothes, others in counterterrorism
 police uniforms, dragged him from his car, bundled him into one of their

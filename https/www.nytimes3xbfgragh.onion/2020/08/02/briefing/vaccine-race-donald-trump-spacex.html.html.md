@@ -82,8 +82,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Briefing](/interactive/2018/briefing/global-morning-briefing-newsletter-signup.html)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Your
-Monday
+<span class="css-17xtcya">[Briefing](/interactive/2018/briefing/global-morning-briefing-newsletter-signup.html)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Vaccine
+Race, Donald Trump, SpaceX: Your Monday
 Briefing</span>
 
 </div>
@@ -189,11 +189,11 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Your Monday Briefing
+# Vaccine Race, Donald Trump, SpaceX: Your Monday Briefing
 
 </div>
 
-Vaccine race, Donald Trump, SpaceX: Here’s what you need to know.
+Here’s what you need to know.
 
 <div class="css-18e8msd">
 
@@ -220,9 +220,8 @@ Kwai</span>](https://www.nytimes3xbfgragh.onion/by/isabella-kwai)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 2, 2020Updated Aug. 3, 2020,
-    <span class="css-epvm6">12:05 a.m.
-    ET</span>
+    Aug. 2,
+    2020
     
     </div>
 
@@ -230,7 +229,7 @@ Kwai</span>](https://www.nytimes3xbfgragh.onion/by/isabella-kwai)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -256,6 +255,9 @@ Kwai</span>](https://www.nytimes3xbfgragh.onion/by/isabella-kwai)
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+(Want to get this briefing by email? Here’s the
+[sign-up](https://www.nytimes3xbfgragh.onion/morning-briefing).)
 
 > Good morning.
 > 
@@ -317,6 +319,14 @@ with a coronavirus vaccine that has yet to complete clinical trials. The
 announcement has raised international concerns that the country would
 inoculate the public without fully testing its product.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Officials said amid accelerated testing that approval would be expected
 this month — far earlier than the end-of-the-year date suggested by
 Western regulators. Winning the global race would be a symbol of
@@ -335,14 +345,6 @@ which might not even work. But if it does, Adar Poonawalla, the chief
 executive of Serum, will have what everyone wants — possibly in enormous
 quantities — before anyone else.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 **An American vaccine:** Earlier in the year, officials set an ambitious
 October deadline for a publicly available vaccine. Now, some involved in
 the project say they [fear political intervention to produce one ahead
@@ -354,6 +356,14 @@ again](https://www.nytimes3xbfgragh.onion/2020/08/01/world/europe/russia-moscow-
 seeking a return to normal life and willing to risk a coronavirus surge.
 “We are people, not robots, and want to have a life,” a bar patron (and
 doctor) said.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 **In other news:**
 
@@ -426,14 +436,6 @@ Biden Jr., [British officials are waking up to the unsettling
 prospect](https://www.nytimes3xbfgragh.onion/2020/07/31/world/europe/britain-biden-presidency-johnson.html)
 that Mr. Trump may be out of power next year.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 In Paris and Berlin, a Trump defeat would be welcomed given he has split
 alliances, threatened a trade war and tried to dismantle the European
 project. But in Mr. Biden, Britain would face a president who opposed
@@ -452,6 +454,14 @@ even as he avoids offending
 him.
 
 -----
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 ## 
 
@@ -508,14 +518,6 @@ intentional forest fires used for clearing — though environmentalists
 and foreign officials who have pressed Brazil on conservation matters
 worry that the actions are little more than damage control given the
 economy is in deep trouble.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 **Points of leverage:** Brazil’s poor environmental reputation has put
 two important foreign policy goals in jeopardy. One is a trade deal with
@@ -576,6 +578,14 @@ Welters for The New York Times</span></span>
 Germany has begun dealing with far-right networks that officials say are
 far more extensive than they had understood.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Our correspondent takes a look at the Northern Cross group, which had
 planned for “Day X” — a mythical moment when committed far-right
 extremists would [round up and kill political enemies and those
@@ -600,14 +610,6 @@ weekend](https://www.nytimes3xbfgragh.onion/2020/08/02/world/europe/uk-conservat
 after a former employee accused him of raping her, according to British
 news reports. The lawmaker, who has not been publicly identified, was
 released on bail.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 **New Middle East nuclear power:** On Saturday, the United Arab Emirates
 became [the first Arab country to open a nuclear power
@@ -665,6 +667,14 @@ of India is one of the few activists for L.G.B.T.Q. rights in the world
 with high-level royal ties. His journey from a lonely childhood to
 global advocacy included death threats and a disinheritance.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 **What we’re reading:** [This BBC exploration of England’s fascination
 with pineapples](https://www.bbc.com/news/uk-england-53432877), which
 involves novelty, scarcity and money. “Human nature doesn’t change very
@@ -715,14 +725,6 @@ salad](https://www.nytimes3xbfgragh.onion/2020/07/31/dining/farro-corn-chickpea-
 gets its bite from farro, its crunch from spiced chickpeas and its
 sweetness from roasted corn and slivered fennel.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 **Listen and watch:** [Beyoncé’s “Black Is
 King,”](https://www.nytimes3xbfgragh.onion/2020/07/31/arts/music/beyonce-black-is-king.html)
 released on Friday, is a visual album connected to Disney’s remake last
@@ -753,6 +755,14 @@ work in China after the Communist takeover.*
 *Here’s an excerpt from* [*an article she
 wrote*](https://www.nytimes3xbfgragh.onion/interactive/2020/07/30/world/asia/china-1950s-echoed-today.html)
 *about how much of what he described is still recognizable.*
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 My father left behind written notes and newspaper clippings, stacks of
 passports with visas, photos and transcripts from his first and
@@ -805,14 +815,6 @@ met Mao Zedong (whom he tapped on the shoulder from behind his camera,
 mistaking the chairman for a “humble courtier” blocking his shot) and
 Zhou Enlai, the premier and foreign minister at the time. But he also
 talked with factory workers, actors, newspaper editors and shop owners.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 He described being filled with hope for the human spirit he witnessed.
 But he also felt despair because a government-provided handler was never

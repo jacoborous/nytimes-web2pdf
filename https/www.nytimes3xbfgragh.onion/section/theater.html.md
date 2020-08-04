@@ -139,41 +139,134 @@ Opened](/reviews/theater/recently-opened)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
-    Scott Brauer for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+    Rutter</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-thumbStandard.jpg)](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-thumbStandard.jpg)](/2020/08/03/theater/virtual-theater.html)
     
     </div>
     
-    ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+    ### critic’s notebook
     
-    In this gay haven known for its nightlife, the crowds are smaller
-    this summer. And the nightclubs are closed. But by the pool, the
-    show goes
-    on.
+    ## [The (Virtual) Theatrical Fringe Moves Front and Center](/2020/08/03/theater/virtual-theater.html)
+    
+    Expanding content and experimenting with form, the avant-garde finds
+    a congenial new home online, as two recent offerings
+    demonstrate.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Laura
-    Collins-Hughes</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jesse
+    Green</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Everett
-    Collection</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02wildcat-1/02wildcat-1-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Screengrab</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/31egon-tichy-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02wildcat-1/02wildcat-1-thumbStandard.jpg)](/2020/07/31/theater/lucille-ball-wildcat.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/merlin_175151520_9b8a98e8-4844-4642-a435-ab9b0f71be1d-thumbStandard.jpg)](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
     
     </div>
+    
+    ### critic’s pick
+    
+    ## [Review: A Sci-Fi Classic Featuring a Multiverse of Stooges](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
+    
+    In “The 7th Voyage of Egon Tichy,” an experimental theater lab
+    operating from a closet adapts a timely tale about the solitude of
+    cramped
+    quarters.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jesse
+    Green</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+        Malmo/Auckland Theater
+        Company</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31streaming-theater-2/31streaming-theater-2-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Appointment Theater, Coming to a Screen Near You](/2020/07/30/theater/streaming-theater-online.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31streaming-theater-2/31streaming-theater-2-thumbStandard.jpg)](/2020/07/30/theater/streaming-theater-online.html)
+        
+        </div>
+        
+        A roundup of streaming theater: almost naked, kind of sacred,
+        sort of mysterious and
+        more.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Elisabeth
+        Vincentelli</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
+        Scott Brauer for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-thumbStandard.jpg)](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+        
+        </div>
+        
+        In this gay haven known for its nightlife, the crowds are
+        smaller this summer. And the nightclubs are closed. But by the
+        pool, the show goes
+        on.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Laura
+        Collins-Hughes</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mpi43/MediaPunch,
+    via
+    Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/03Max1/03Max1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
+    
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s
+    history.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sam
+    Roberts</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Everett
+    Collection</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02wildcat-1/02wildcat-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The ‘Wildcat’ Episode, or, Did Broadway Love Lucy?](/2020/07/31/theater/lucille-ball-wildcat.html)
     
@@ -187,81 +280,24 @@ Opened](/reviews/theater/recently-opened)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marly
-        Gallardo</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [How I Spent My Summer Vacation: Singing, Dancing, Knife Fighting](/2020/07/30/theater/theater-classes-at-home.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-thumbStandard-v2.jpg)](/2020/07/30/theater/theater-classes-at-home.html)
-        
-        </div>
-        
-        When actor training migrated online, our reporter gave herself
-        two weeks to learn as many theater skills — and knife skills —
-        as she
-        could.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Alexis
-        Soloski</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Screengrab</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/31egon-tichy-1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### critic’s pick
-        
-        ## [Review: A Sci-Fi Classic Featuring a Multiverse of Stooges](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/merlin_175151520_9b8a98e8-4844-4642-a435-ab9b0f71be1d-thumbStandard.jpg)](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
-        
-        </div>
-        
-        In “The 7th Voyage of Egon Tichy,” an experimental theater lab
-        operating from a closet adapts a timely tale about the solitude
-        of cramped
-        quarters.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jesse
-        Green</span></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Barrington Stage
-    Company</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/30berkshires-1/30berkshires-1-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marly
+    Gallardo</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The First Equity-Authorized Indoor Theater Is Moving Outdoors](/2020/07/30/theater/the-first-equity-authorized-indoor-theater-is-moving-outdoors.html)
+    ## [How I Spent My Summer Vacation: Singing, Dancing, Knife Fighting](/2020/07/30/theater/theater-classes-at-home.html)
     
-    A Barrington Stage Company production won the blessing of the
-    actors’ union, but was unable to get permission from Massachusetts
-    state
-    officials.
+    When actor training migrated online, our reporter gave herself two
+    weeks to learn as many theater skills — and knife skills — as she
+    could.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Paulson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alexis
+    Soloski</span></span>
     
     </div>
 
-2.  ### Critic’s Notebook
+4.  ### Critic’s Notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
     Pattison</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30londontheater1/merlin_175043616_18a2d694-efbd-4628-a6ec-f5b4a0b01764-videoLarge.jpg)
@@ -280,7 +316,7 @@ Opened](/reviews/theater/recently-opened)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marilena
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marilena
     Anastasiadou</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29greek-theate7/29greek-theate7-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -294,40 +330,6 @@ Opened](/reviews/theater/recently-opened)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Niki
     Kitsantonis</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Amphibian
-    Stage</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/27julia-pastrana-1/27julia-pastrana-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Review: Listening in the Dark to a Cruel Tale of ‘True History’](/2020/07/27/theater/true-history-julia-pastrana-review.html)
-    
-    Shaun Prendergast’s play, written to be performed in darkness, asks
-    audiences to imagine what the “ugliest woman in the world” looks
-    like.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Laura
-    Collins-Hughes</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26uncertain/26uncertain-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘In These Uncertain Times’ Review: Love, Loss and Zoom](/2020/07/26/theater/in-these-uncertain-times-review.html)
-    
-    Source Material presents a postmodern approach to talking about
-    grief and isolation in
-    quarantine.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Maya
-    Phillips</span></span>
     
     </div>
 
@@ -387,23 +389,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/theater/streaming-theater-online.html)
+    [](/2020/07/30/theater/the-first-equity-authorized-indoor-theater-is-moving-outdoors.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31streaming-theater-2/31streaming-theater-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/30berkshires-1/30berkshires-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Appointment Theater, Coming to a Screen Near You
+    ## The First Equity-Authorized Indoor Theater Is Moving Outdoors
     
-    A roundup of streaming theater: almost naked, kind of sacred, sort
-    of mysterious and more.
+    A Barrington Stage Company production won the blessing of the
+    actors’ union, but was unable to get permission from Massachusetts
+    state officials.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabeth
-    Vincentelli</span>
+    By <span class="css-1n7hynb">Michael
+    Paulson</span>
     
     </div>
     
@@ -490,6 +493,75 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/27/theater/true-history-julia-pastrana-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/27julia-pastrana-1/27julia-pastrana-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Review: Listening in the Dark to a Cruel Tale of ‘True History’
+    
+    Shaun Prendergast’s play, written to be performed in darkness, asks
+    audiences to imagine what the “ugliest woman in the world” looks
+    like.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Laura
+    Collins-Hughes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/26/theater/in-these-uncertain-times-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26uncertain/26uncertain-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘In These Uncertain Times’ Review: Love, Loss and Zoom
+    
+    Source Material presents a postmodern approach to talking about
+    grief and isolation in quarantine.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maya
+    Phillips</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/26/theater/the-persians-review-aeschylus.html)
     
     <div class="css-79elbk">
@@ -520,7 +592,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -555,7 +627,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -590,7 +662,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -624,7 +696,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -646,78 +718,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nancy
-    Coleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/theater/german-theater-post-lockdown.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/arts/23MUNICHTHEATER01/merlin_174796362_55a804cc-5e52-46e9-a39d-576895acb8d8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Theater Review</span>
-    
-    ## On Newly Reopened German Stages, Villainous Women Abound
-    
-    Theaters in Stuttgart, Munich and Leipzig are back to regular
-    programming, and with it numerous depictions of female tyrants and
-    murderers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">A. J.
-    Goldmann</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/arts/television/phyllis-somerville-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/obituaries/26Somerville-obit1/Somerville-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Phyllis Somerville, Busy Stage and Screen Actress, Dies at 76
-    
-    She specialized in supporting roles, including an attention-getting
-    recurring character in “The Big C.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Neil Genzlinger</span>
+    By <span class="css-1n7hynb">Nancy Coleman</span>
     
     </div>
     

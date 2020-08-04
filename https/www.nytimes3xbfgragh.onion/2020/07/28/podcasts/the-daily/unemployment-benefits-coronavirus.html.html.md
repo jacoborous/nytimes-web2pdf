@@ -1733,6 +1733,41 @@ Daily</span>
 
 <div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
 
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/06/24/business/03daily/24michigan-arrest1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 3, 2020<span>  <span class="css-orcm78">•</span> 
+28:13</span><span class="css-i5svdo">Wrongfully Accused by an
+Algorithm</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/02/podcasts/the-daily/on-female-rage.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 2, 2020<span class="css-i5svdo">The Sunday Read: ‘On Female
+Rage’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
 [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/us/politics/31daily/00dc-army-metoo-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
 
 <div class="css-14o8mz7 e1gfokfg2">
@@ -1758,7 +1793,8 @@ Military</span>
 
 <div class="css-1qq8bvn">
 
-July 30, 2020<span class="css-i5svdo">The Big Tech
+July 30, 2020<span>  <span class="css-orcm78">•</span> 
+35:19</span><span class="css-i5svdo">The Big Tech
 Hearing</span>
 
 </div>
@@ -1902,44 +1938,7 @@ Reopenings</span>
 <div class="css-1qq8bvn">
 
 July 21, 2020<span>  <span class="css-orcm78">•</span> 
-29:14</span><span class="css-i5svdo">The Vaccine Trust
-Problem</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/01/07/obituaries/20thedaily_lewis/00Lewis-John13-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/20/podcasts/the-daily/john-lewis.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-July 20, 2020<span>  <span class="css-orcm78">•</span> 
-38:56</span><span class="css-i5svdo">The Life and Legacy of John
-Lewis</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2018/05/05/magazine/31audm-image/05mag-lottery-image1-thumbLarge-v4.png)](https://www.nytimes3xbfgragh.onion/2020/07/19/podcasts/the-daily/lottery-winner-scam.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-July 19, 2020<span>  <span class="css-orcm78">•</span> 
-45:27</span><span class="css-i5svdo">The Sunday Read: ‘The Man Who
-Cracked the Lottery’</span>
+29:14</span><span class="css-i5svdo">The Vaccine Trust Problem</span>
 
 </div>
 

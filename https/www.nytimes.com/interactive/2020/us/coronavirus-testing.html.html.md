@@ -135,14 +135,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -228,7 +228,7 @@ publication, write to <letters@nytimes.com>.
 
 By [<span class="css-1baulvz last-byline" itemprop="name">Keith
 Collins</span>](https://www.nytimes.com/by/keith-collins)Updated August
-2,
+3,
 2020
 
 </div>
@@ -441,7 +441,7 @@ target.</span>
 
 <div class="g-svelte" data-component="11">
 
-An average of **790,000 people per day** were tested over the past week,
+An average of **785,000 people per day** were tested over the past week,
 according to data collected by [the Covid Tracking
 Project](https://covidtracking.com/), far below the current nationwide
 target of **1.8 million daily tests**. The target, which is based on a
@@ -517,14 +517,14 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-241
+239
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-241
+239
 </div>
 </div>
 </div></td>
@@ -551,6 +551,82 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Alabama</span> <span class="g-mobile svelte-10mr0te">Ala.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+176
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+176
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+15
+</div>
+<div class="g-mobile svelte-10mr0te">
+15
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">20%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+32
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+32
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">Arizona</span> <span class="g-mobile svelte-10mr0te">Ariz.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+167
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+167
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+16
+</div>
+<div class="g-mobile svelte-10mr0te">
+16
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">20%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+36
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+36
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
 <td><span class="g-desktop svelte-10mr0te">Mississippi</span> <span class="g-mobile svelte-10mr0te">Miss.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
@@ -567,10 +643,10 @@ Hospital<br />
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-15
+17
 </div>
 <div class="g-mobile svelte-10mr0te">
-15
+17
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">21%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -589,102 +665,26 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Alabama</span> <span class="g-mobile svelte-10mr0te">Ala.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-179
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-179
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-17
-</div>
-<div class="g-mobile svelte-10mr0te">
-17
-</div></td>
-<td><span class="g-pos g-red svelte-10mr0te">20%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-32
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-32
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Arizona</span> <span class="g-mobile svelte-10mr0te">Ariz.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-173
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-173
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-18
-</div>
-<div class="g-mobile svelte-10mr0te">
-18
-</div></td>
-<td><span class="g-pos g-red svelte-10mr0te">20%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-37
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-37
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Georgia</span> <span class="g-mobile svelte-10mr0te">Ga.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-245
+249
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-245
+249
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-21
+22
 </div>
 <div class="g-mobile svelte-10mr0te">
-21
+22
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">14%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -703,102 +703,26 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Florida</span> <span class="g-mobile svelte-10mr0te">Fla.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-249
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-249
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-23
-</div>
-<div class="g-mobile svelte-10mr0te">
-23
-</div></td>
-<td><span class="g-pos g-red svelte-10mr0te">19%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-42
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-42
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Missouri</span> <span class="g-mobile svelte-10mr0te">Mo.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-170
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-170
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-23
-</div>
-<div class="g-mobile svelte-10mr0te">
-23
-</div></td>
-<td><span class="g-pos g-red svelte-10mr0te">13%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-15
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-15
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
 <td><span class="g-desktop svelte-10mr0te">Arkansas</span> <span class="g-mobile svelte-10mr0te">Ark.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-241
+226
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-241
+226
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-24
+23
 </div>
 <div class="g-mobile svelte-10mr0te">
-24
+23
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">11%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -817,26 +741,64 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Idaho</span> <span class="g-mobile svelte-10mr0te">Idaho</span></td>
+<td><span class="g-desktop svelte-10mr0te">Missouri</span> <span class="g-mobile svelte-10mr0te">Mo.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-157
+167
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-157
+167
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-26
+24
 </div>
 <div class="g-mobile svelte-10mr0te">
-26
+24
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">13%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+15
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+15
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Idaho</span> <span class="g-mobile svelte-10mr0te">Idaho</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+152
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+152
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+24
+</div>
+<div class="g-mobile svelte-10mr0te">
+24
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">18%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -850,6 +812,120 @@ Hospital<br />
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 12
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">Nevada</span> <span class="g-mobile svelte-10mr0te">Nev.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+214
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+214
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+25
+</div>
+<div class="g-mobile svelte-10mr0te">
+25
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">16%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+37
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+37
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Florida</span> <span class="g-mobile svelte-10mr0te">Fla.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+239
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+239
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+27
+</div>
+<div class="g-mobile svelte-10mr0te">
+27
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">19%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+41
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+41
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">Texas</span> <span class="g-mobile svelte-10mr0te">Texas</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+201
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+201
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+28
+</div>
+<div class="g-mobile svelte-10mr0te">
+28
+</div></td>
+<td><span class="g-pos g-red svelte-10mr0te">13%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+35
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+35
 </div>
 </div>
 </div></td>
@@ -871,10 +947,10 @@ Hospital<br />
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-27
+29
 </div>
 <div class="g-mobile svelte-10mr0te">
-27
+29
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">14%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -897,22 +973,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-208
+201
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-208
+201
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-27
+29
 </div>
 <div class="g-mobile svelte-10mr0te">
-27
+29
 </div></td>
 <td><span class="g-pos g-red svelte-10mr0te">15%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -931,39 +1007,39 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Nevada</span> <span class="g-mobile svelte-10mr0te">Nev.</span></td>
+<td><span class="g-desktop svelte-10mr0te">Iowa</span> <span class="g-mobile svelte-10mr0te">Iowa</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-213
+155
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-213
+155
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-29
+33
 </div>
 <div class="g-mobile svelte-10mr0te">
-29
+33
 </div></td>
-<td><span class="g-pos g-red svelte-10mr0te">16%</span></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">10%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-37
+7
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-37
+7
 </div>
 </div>
 </div></td>
@@ -973,22 +1049,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-458
+477
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-458
+477
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-29
+34
 </div>
 <div class="g-mobile svelte-10mr0te">
-29
+34
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">9%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1007,132 +1083,18 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Tennessee</span> <span class="g-mobile svelte-10mr0te">Tenn.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-386
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-386
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-33
-</div>
-<div class="g-mobile svelte-10mr0te">
-33
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">9%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-21
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-21
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Texas</span> <span class="g-mobile svelte-10mr0te">Texas</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-223
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-223
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-34
-</div>
-<div class="g-mobile svelte-10mr0te">
-34
-</div></td>
-<td><span class="g-pos g-red svelte-10mr0te">12%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-36
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-36
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Iowa</span> <span class="g-mobile svelte-10mr0te">Iowa</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-170
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-170
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-34
-</div>
-<div class="g-mobile svelte-10mr0te">
-34
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">9%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-7
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-7
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Oklahoma</span> <span class="g-mobile svelte-10mr0te">Okla.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-291
+292
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-291
+292
 </div>
 </div>
 </div></td>
@@ -1158,19 +1120,57 @@ Hospital<br />
 </div>
 </div></td>
 </tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Nebraska</span> <span class="g-mobile svelte-10mr0te">Neb.</span></td>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">Tennessee</span> <span class="g-mobile svelte-10mr0te">Tenn.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-163
+382
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-163
+382
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+35
+</div>
+<div class="g-mobile svelte-10mr0te">
+35
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">9%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+21
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+21
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Nebraska</span> <span class="g-mobile svelte-10mr0te">Neb.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+166
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+166
 </div>
 </div>
 </div></td>
@@ -1197,26 +1197,64 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Utah</span> <span class="g-mobile svelte-10mr0te">Utah</span></td>
+<td><span class="g-desktop svelte-10mr0te">Colorado</span> <span class="g-mobile svelte-10mr0te">Colo.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-172
+130
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-172
+130
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-38
+39
 </div>
 <div class="g-mobile svelte-10mr0te">
-38
+39
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Utah</span> <span class="g-mobile svelte-10mr0te">Utah</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+165
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+165
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+41
+</div>
+<div class="g-mobile svelte-10mr0te">
+41
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">10%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1234,29 +1272,143 @@ Hospital<br />
 </div>
 </div></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Wisconsin</span> <span class="g-mobile svelte-10mr0te">Wis.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-227
+229
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-227
+229
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-39
+41
 </div>
 <div class="g-mobile svelte-10mr0te">
-39
+41
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+4
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+4
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">North Dakota</span> <span class="g-mobile svelte-10mr0te">N.D.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+209
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+209
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+42
+</div>
+<div class="g-mobile svelte-10mr0te">
+42
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">California</span> <span class="g-mobile svelte-10mr0te">Calif.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+316
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+316
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+46
+</div>
+<div class="g-mobile svelte-10mr0te">
+46
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+21
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+21
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Washington</span> <span class="g-mobile svelte-10mr0te">Wash.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+197
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+197
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+49
+</div>
+<div class="g-mobile svelte-10mr0te">
+49
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">5%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
@@ -1273,66 +1425,142 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Colorado</span> <span class="g-mobile svelte-10mr0te">Colo.</span></td>
+<td><span class="g-desktop svelte-10mr0te">Minnesota</span> <span class="g-mobile svelte-10mr0te">Minn.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-127
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-127
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-39
-</div>
-<div class="g-mobile svelte-10mr0te">
-39
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 6
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 6
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+51
+</div>
+<div class="g-mobile svelte-10mr0te">
+51
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">5%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
 </div>
 </div>
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">North Dakota</span> <span class="g-mobile svelte-10mr0te">N.D.</span></td>
+<td><span class="g-desktop svelte-10mr0te">South Dakota</span> <span class="g-mobile svelte-10mr0te">S.D.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-231
+128
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-231
+128
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-42
+55
 </div>
 <div class="g-mobile svelte-10mr0te">
-42
+55
 </div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">North Carolina</span> <span class="g-mobile svelte-10mr0te">N.C.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+285
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+285
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+55
+</div>
+<div class="g-mobile svelte-10mr0te">
+55
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+11
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+11
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Pennsylvania</span> <span class="g-mobile svelte-10mr0te">Pa.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+121
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+121
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+56
+</div>
+<div class="g-mobile svelte-10mr0te">
+56
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
@@ -1353,22 +1581,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-170
+167
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-170
+167
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-47
+57
 </div>
 <div class="g-mobile svelte-10mr0te">
-47
+57
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">8%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1387,216 +1615,26 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">South Dakota</span> <span class="g-mobile svelte-10mr0te">S.D.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-127
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-127
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-51
-</div>
-<div class="g-mobile svelte-10mr0te">
-51
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">North Carolina</span> <span class="g-mobile svelte-10mr0te">N.C.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-277
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-277
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-52
-</div>
-<div class="g-mobile svelte-10mr0te">
-52
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-11
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-11
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">California</span> <span class="g-mobile svelte-10mr0te">Calif.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-311
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-311
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-52
-</div>
-<div class="g-mobile svelte-10mr0te">
-52
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-21
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-21
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Washington</span> <span class="g-mobile svelte-10mr0te">Wash.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-193
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-193
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-52
-</div>
-<div class="g-mobile svelte-10mr0te">
-52
-</div></td>
-<td><span class="g-pos g-green svelte-10mr0te">5%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Minnesota</span> <span class="g-mobile svelte-10mr0te">Minn.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-13
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-13
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-54
-</div>
-<div class="g-mobile svelte-10mr0te">
-54
-</div></td>
-<td><span class="g-pos g-green svelte-10mr0te">5%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Maryland</span> <span class="g-mobile svelte-10mr0te">Md.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-246
+242
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-246
+242
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-55
+59
 </div>
 <div class="g-mobile svelte-10mr0te">
-55
+59
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1610,44 +1648,6 @@ Hospital<br />
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 9
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Pennsylvania</span> <span class="g-mobile svelte-10mr0te">Pa.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-123
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-123
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-57
-</div>
-<div class="g-mobile svelte-10mr0te">
-57
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
 </div>
 </div>
 </div></td>
@@ -1657,22 +1657,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-153
+151
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-153
+151
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-59
+60
 </div>
 <div class="g-mobile svelte-10mr0te">
-59
+60
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">8%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1691,44 +1691,6 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Virginia</span> <span class="g-mobile svelte-10mr0te">Va.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-199
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-199
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-60
-</div>
-<div class="g-mobile svelte-10mr0te">
-60
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-15
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-15
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Rhode Island</span> <span class="g-mobile svelte-10mr0te">R.I.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
@@ -1766,57 +1728,19 @@ Hospital<br />
 </div>
 </div></td>
 </tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Oregon</span> <span class="g-mobile svelte-10mr0te">Ore.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-134
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-134
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-62
-</div>
-<div class="g-mobile svelte-10mr0te">
-62
-</div></td>
-<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-6
-</div>
-</div>
-</div></td>
-</tr>
 <tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">Delaware</span> <span class="g-mobile svelte-10mr0te">Del.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-236
+234
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-236
+234
 </div>
 </div>
 </div></td>
@@ -1881,28 +1805,28 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Montana</span> <span class="g-mobile svelte-10mr0te">Mont.</span></td>
+<td><span class="g-desktop svelte-10mr0te">Oregon</span> <span class="g-mobile svelte-10mr0te">Ore.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-265
+132
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-265
+132
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-69
+65
 </div>
 <div class="g-mobile svelte-10mr0te">
-69
+65
 </div></td>
-<td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
@@ -1923,22 +1847,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-297
+301
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-297
+301
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-73
+67
 </div>
 <div class="g-mobile svelte-10mr0te">
-73
+67
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1952,6 +1876,158 @@ Hospital<br />
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 11
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">Virginia</span> <span class="g-mobile svelte-10mr0te">Va.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+195
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+195
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+68
+</div>
+<div class="g-mobile svelte-10mr0te">
+68
+</div></td>
+<td><span class="g-pos g-yellow svelte-10mr0te">6%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+15
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+15
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Montana</span> <span class="g-mobile svelte-10mr0te">Mont.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+275
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+275
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+75
+</div>
+<div class="g-mobile svelte-10mr0te">
+75
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+6
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="g-desktop svelte-10mr0te">New Hampshire</span> <span class="g-mobile svelte-10mr0te">N.H.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+92
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+92
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+82
+</div>
+<div class="g-mobile svelte-10mr0te">
+82
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+2
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+2
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">New Mexico</span> <span class="g-mobile svelte-10mr0te">N.M.</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+359
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+359
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+84
+</div>
+<div class="g-mobile svelte-10mr0te">
+84
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+7
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+7
 </div>
 </div>
 </div></td>
@@ -1973,10 +2049,10 @@ Hospital<br />
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-82
+88
 </div>
 <div class="g-mobile svelte-10mr0te">
-82
+88
 </div></td>
 <td><span class="g-pos g-yellow svelte-10mr0te">7%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -1995,102 +2071,26 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">New Mexico</span> <span class="g-mobile svelte-10mr0te">N.M.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-360
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-360
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-88
-</div>
-<div class="g-mobile svelte-10mr0te">
-88
-</div></td>
-<td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-8
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-8
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">New Hampshire</span> <span class="g-mobile svelte-10mr0te">N.H.</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-101
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-101
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-90
-</div>
-<div class="g-mobile svelte-10mr0te">
-90
-</div></td>
-<td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-2
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-2
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
 <td><span class="g-desktop svelte-10mr0te">Massachusetts</span> <span class="g-mobile svelte-10mr0te">Mass.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-168
+180
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-168
+180
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-112
+102
 </div>
 <div class="g-mobile svelte-10mr0te">
-112
+102
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">3%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2109,26 +2109,64 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">Hawaii</span> <span class="g-mobile svelte-10mr0te">Hawaii</span></td>
+<td><span class="g-desktop svelte-10mr0te">Alaska</span> <span class="g-mobile svelte-10mr0te">Alaska</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-102
+684
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-102
+684
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-119
+117
 </div>
 <div class="g-mobile svelte-10mr0te">
-119
+117
+</div></td>
+<td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num g-sm-spk svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+5
+</div>
+</div>
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="g-desktop svelte-10mr0te">Hawaii</span> <span class="g-mobile svelte-10mr0te">Hawaii</span></td>
+<td><div class="g-desktop svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+111
+</div>
+</div>
+</div>
+<div class="g-mobile svelte-10mr0te">
+<div class="g-spark-num svelte-4msxwm">
+<div class="g-table-num svelte-4msxwm">
+111
+</div>
+</div>
+</div></td>
+<td><div class="g-desktop svelte-10mr0te">
+125
+</div>
+<div class="g-mobile svelte-10mr0te">
+125
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">4%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2146,27 +2184,27 @@ Hospital<br />
 </div>
 </div></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><span class="g-desktop svelte-10mr0te">West Virginia</span> <span class="g-mobile svelte-10mr0te">W.Va.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-246
+240
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-246
+240
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-122
+127
 </div>
 <div class="g-mobile svelte-10mr0te">
-122
+127
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">3%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2184,19 +2222,19 @@ Hospital<br />
 </div>
 </div></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><span class="g-desktop svelte-10mr0te">Washington, D.C.</span> <span class="g-mobile svelte-10mr0te">D.C.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-494
+500
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-494
+500
 </div>
 </div>
 </div></td>
@@ -2218,44 +2256,6 @@ Hospital<br />
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
 13
-</div>
-</div>
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Alaska</span> <span class="g-mobile svelte-10mr0te">Alaska</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-686
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-686
-</div>
-</div>
-</div></td>
-<td><div class="g-desktop svelte-10mr0te">
-143
-</div>
-<div class="g-mobile svelte-10mr0te">
-143
-</div></td>
-<td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
-<td><div class="g-desktop svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
-</div>
-</div>
-</div>
-<div class="g-mobile svelte-10mr0te">
-<div class="g-spark-num g-sm-spk svelte-4msxwm">
-<div class="g-table-num svelte-4msxwm">
-5
 </div>
 </div>
 </div></td>
@@ -2265,22 +2265,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-254
+285
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-254
+285
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-174
+196
 </div>
 <div class="g-mobile svelte-10mr0te">
-174
+196
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2303,22 +2303,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-301
+299
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-301
+299
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-215
+213
 </div>
 <div class="g-mobile svelte-10mr0te">
-215
+213
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">2%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2337,77 +2337,77 @@ Hospital<br />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="g-desktop svelte-10mr0te">New York</span> <span class="g-mobile svelte-10mr0te">N.Y.</span></td>
+<td><span class="g-desktop svelte-10mr0te">Connecticut</span> <span class="g-mobile svelte-10mr0te">Conn.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-331
+274
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-331
+274
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-279
+252
 </div>
 <div class="g-mobile svelte-10mr0te">
-279
+252
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">1%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-3
+2
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-3
+2
 </div>
 </div>
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="g-desktop svelte-10mr0te">Connecticut</span> <span class="g-mobile svelte-10mr0te">Conn.</span></td>
+<td><span class="g-desktop svelte-10mr0te">New York</span> <span class="g-mobile svelte-10mr0te">N.Y.</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-329
+336
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-329
+336
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-301
+289
 </div>
 <div class="g-mobile svelte-10mr0te">
-301
+289
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">1%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-2
+3
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num g-sm-spk svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-2
+3
 </div>
 </div>
 </div></td>
@@ -2417,22 +2417,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-185
+184
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-185
+184
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-336
+375
 </div>
 <div class="g-mobile svelte-10mr0te">
-336
+375
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">1%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2455,22 +2455,22 @@ Hospital<br />
 <td><div class="g-desktop svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-171
+162
 </div>
 </div>
 </div>
 <div class="g-mobile svelte-10mr0te">
 <div class="g-spark-num svelte-4msxwm">
 <div class="g-table-num svelte-4msxwm">
-171
+162
 </div>
 </div>
 </div></td>
 <td><div class="g-desktop svelte-10mr0te">
-376
+382
 </div>
 <div class="g-mobile svelte-10mr0te">
-376
+382
 </div></td>
 <td><span class="g-pos g-green svelte-10mr0te">1%</span></td>
 <td><div class="g-desktop svelte-10mr0te">
@@ -2576,74 +2576,6 @@ reduce the spread of the virus.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Mississippi
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Miss.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-0 100% of target 15 --\>
-
-</div>
-
-<div class="g-block-dates svelte-clpqtm">
-
-<div style="flex:0.65">
-
-May 3
-
-</div>
-
-<div>
-
-Aug. 1
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-0 100% of target 15 --\>
-
-</div>
-
-<div class="g-block-dates svelte-clpqtm">
-
-<div style="flex:0.65">
-
-May 3
-
-</div>
-
-<div>
-
-Aug. 1
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
 Alabama
 
 </div>
@@ -2658,7 +2590,23 @@ Ala.
 
 <div class="g-chartspace">
 
-17 --\>
+0 100% of target 15 --\>
+
+</div>
+
+<div class="g-block-dates svelte-clpqtm">
+
+<div style="flex:0.65">
+
+May 4
+
+</div>
+
+<div>
+
+Aug. 2
+
+</div>
 
 </div>
 
@@ -2668,7 +2616,23 @@ Ala.
 
 <div class="g-chartspace">
 
-17 --\>
+0 100% of target 15 --\>
+
+</div>
+
+<div class="g-block-dates svelte-clpqtm">
+
+<div style="flex:0.65">
+
+May 4
+
+</div>
+
+<div>
+
+Aug. 2
+
+</div>
 
 </div>
 
@@ -2694,7 +2658,7 @@ Ariz.
 
 <div class="g-chartspace">
 
-18 --\>
+16 --\>
 
 </div>
 
@@ -2704,7 +2668,43 @@ Ariz.
 
 <div class="g-chartspace">
 
-18 --\>
+16 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Mississippi
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Miss.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+17 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+17 --\>
 
 </div>
 
@@ -2730,7 +2730,7 @@ Ga.
 
 <div class="g-chartspace">
 
-21 --\>
+22 --\>
 
 </div>
 
@@ -2740,7 +2740,7 @@ Ga.
 
 <div class="g-chartspace">
 
-21 --\>
+22 --\>
 
 </div>
 
@@ -2752,13 +2752,13 @@ Ga.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Florida
+Arkansas
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Fla.
+Ark.
 
 </div>
 
@@ -2802,42 +2802,6 @@ Mo.
 
 <div class="g-chartspace">
 
-23 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-23 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Arkansas
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Ark.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
 24 --\>
 
 </div>
@@ -2874,7 +2838,7 @@ Idaho
 
 <div class="g-chartspace">
 
-26 --\>
+24 --\>
 
 </div>
 
@@ -2884,79 +2848,7 @@ Idaho
 
 <div class="g-chartspace">
 
-26 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Kansas
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Kan.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-27 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-27 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-South Carolina
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-S.C.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-27 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-27 --\>
+24 --\>
 
 </div>
 
@@ -2982,6 +2874,114 @@ Nev.
 
 <div class="g-chartspace">
 
+25 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+25 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Florida
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Fla.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+27 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+27 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Texas
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Texas
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+28 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+28 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Kansas
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Kan.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
 29 --\>
 
 </div>
@@ -2993,6 +2993,78 @@ Nev.
 <div class="g-chartspace">
 
 29 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+South Carolina
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+S.C.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+29 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+29 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Iowa
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Iowa
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+33 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+33 --\>
 
 </div>
 
@@ -3011,114 +3083,6 @@ Louisiana
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
 La.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-29 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-29 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Tennessee
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Tenn.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-33 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-33 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Texas
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Texas
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-34 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-34 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Iowa
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Iowa
 
 </div>
 
@@ -3184,6 +3148,42 @@ Okla.
 
 <div class="g-state-name svelte-1wz7ou7">
 
+Tennessee
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Tenn.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+35 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+35 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
 Nebraska
 
 </div>
@@ -3209,78 +3209,6 @@ Neb.
 <div class="g-chartspace">
 
 37 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Utah
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Utah
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-38 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-38 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Wisconsin
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Wis.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-39 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-39 --\>
 
 </div>
 
@@ -3328,6 +3256,78 @@ Colo.
 
 <div class="g-state-name svelte-1wz7ou7">
 
+Utah
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Utah
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+41 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+41 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Wisconsin
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Wis.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+41 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+41 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
 North Dakota
 
 </div>
@@ -3364,114 +3364,6 @@ N.D.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Kentucky
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Ky.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-47 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-47 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-South Dakota
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-S.D.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-51 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-51 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-North Carolina
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-N.C.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-52 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-52 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
 California
 
 </div>
@@ -3486,7 +3378,7 @@ Calif.
 
 <div class="g-chartspace">
 
-52 --\>
+46 --\>
 
 </div>
 
@@ -3496,7 +3388,7 @@ Calif.
 
 <div class="g-chartspace">
 
-52 --\>
+46 --\>
 
 </div>
 
@@ -3522,7 +3414,7 @@ Wash.
 
 <div class="g-chartspace">
 
-52 --\>
+49 --\>
 
 </div>
 
@@ -3532,7 +3424,7 @@ Wash.
 
 <div class="g-chartspace">
 
-52 --\>
+49 --\>
 
 </div>
 
@@ -3558,7 +3450,7 @@ Minn.
 
 <div class="g-chartspace">
 
-54 --\>
+51 --\>
 
 </div>
 
@@ -3568,7 +3460,7 @@ Minn.
 
 <div class="g-chartspace">
 
-54 --\>
+51 --\>
 
 </div>
 
@@ -3580,13 +3472,49 @@ Minn.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Maryland
+South Dakota
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Md.
+S.D.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+55 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+55 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+North Carolina
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+N.C.
 
 </div>
 
@@ -3630,6 +3558,42 @@ Pa.
 
 <div class="g-chartspace">
 
+56 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+56 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Kentucky
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Ky.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
 57 --\>
 
 </div>
@@ -3652,13 +3616,13 @@ Pa.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Indiana
+Maryland
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Ind.
+Md.
 
 </div>
 
@@ -3688,13 +3652,13 @@ Ind.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Virginia
+Indiana
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Va.
+Ind.
 
 </div>
 
@@ -3749,42 +3713,6 @@ R.I.
 <div class="g-chartspace">
 
 60 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Oregon
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Ore.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-62 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-62 --\>
 
 </div>
 
@@ -3868,13 +3796,13 @@ Ohio
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Montana
+Oregon
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Mont.
+Ore.
 
 </div>
 
@@ -3882,7 +3810,7 @@ Mont.
 
 <div class="g-chartspace">
 
-69 --\>
+65 --\>
 
 </div>
 
@@ -3892,7 +3820,7 @@ Mont.
 
 <div class="g-chartspace">
 
-69 --\>
+65 --\>
 
 </div>
 
@@ -3918,7 +3846,7 @@ Ill.
 
 <div class="g-chartspace">
 
-73 --\>
+67 --\>
 
 </div>
 
@@ -3928,7 +3856,79 @@ Ill.
 
 <div class="g-chartspace">
 
-73
+67 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Virginia
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Va.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+68 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+68 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Montana
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Mont.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+75 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+75
 --\>
 
 </div>
@@ -3986,7 +3986,7 @@ Maine
 
 <div class="g-chartspace">
 
-0 100% of target 336 --\>
+0 100% of target 375 --\>
 
 </div>
 
@@ -3994,13 +3994,13 @@ Maine
 
 <div style="flex:0.65">
 
-May 3
+May 4
 
 </div>
 
 <div>
 
-Aug. 1
+Aug. 2
 
 </div>
 
@@ -4012,7 +4012,7 @@ Aug. 1
 
 <div class="g-chartspace">
 
-0 100% of target 336 --\>
+0 100% of target 375 --\>
 
 </div>
 
@@ -4020,51 +4020,15 @@ Aug. 1
 
 <div style="flex:0.65">
 
-May 3
+May 4
 
 </div>
 
 <div>
 
-Aug. 1
+Aug. 2
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Connecticut
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Conn.
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-301 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-301 --\>
 
 </div>
 
@@ -4090,7 +4054,7 @@ N.Y.
 
 <div class="g-chartspace">
 
-279 --\>
+289 --\>
 
 </div>
 
@@ -4100,7 +4064,43 @@ N.Y.
 
 <div class="g-chartspace">
 
-279 --\>
+289 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Connecticut
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Conn.
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+252 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+252 --\>
 
 </div>
 
@@ -4126,7 +4126,7 @@ Mich.
 
 <div class="g-chartspace">
 
-215 --\>
+213 --\>
 
 </div>
 
@@ -4136,7 +4136,7 @@ Mich.
 
 <div class="g-chartspace">
 
-215 --\>
+213 --\>
 
 </div>
 
@@ -4162,7 +4162,7 @@ N.J.
 
 <div class="g-chartspace">
 
-174 --\>
+196 --\>
 
 </div>
 
@@ -4172,43 +4172,7 @@ N.J.
 
 <div class="g-chartspace">
 
-174 --\>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-block svelte-1wz7ou7">
-
-<div class="g-state-name svelte-1wz7ou7">
-
-Alaska
-
-</div>
-
-<div class="g-state-name-mobile svelte-1wz7ou7">
-
-Alaska
-
-</div>
-
-<div class="g-desktop svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-143 --\>
-
-</div>
-
-</div>
-
-<div class="g-mobile svelte-1wz7ou7">
-
-<div class="g-chartspace">
-
-143 --\>
+196 --\>
 
 </div>
 
@@ -4270,7 +4234,7 @@ W.Va.
 
 <div class="g-chartspace">
 
-122 --\>
+127 --\>
 
 </div>
 
@@ -4280,7 +4244,7 @@ W.Va.
 
 <div class="g-chartspace">
 
-122 --\>
+127 --\>
 
 </div>
 
@@ -4306,7 +4270,7 @@ Hawaii
 
 <div class="g-chartspace">
 
-119 --\>
+125 --\>
 
 </div>
 
@@ -4316,7 +4280,43 @@ Hawaii
 
 <div class="g-chartspace">
 
-119 --\>
+125 --\>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-block svelte-1wz7ou7">
+
+<div class="g-state-name svelte-1wz7ou7">
+
+Alaska
+
+</div>
+
+<div class="g-state-name-mobile svelte-1wz7ou7">
+
+Alaska
+
+</div>
+
+<div class="g-desktop svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+117 --\>
+
+</div>
+
+</div>
+
+<div class="g-mobile svelte-1wz7ou7">
+
+<div class="g-chartspace">
+
+117 --\>
 
 </div>
 
@@ -4342,7 +4342,7 @@ Mass.
 
 <div class="g-chartspace">
 
-112 --\>
+102 --\>
 
 </div>
 
@@ -4352,7 +4352,7 @@ Mass.
 
 <div class="g-chartspace">
 
-112 --\>
+102 --\>
 
 </div>
 
@@ -4364,13 +4364,13 @@ Mass.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-New Hampshire
+Wyoming
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-N.H.
+Wyo.
 
 </div>
 
@@ -4378,7 +4378,7 @@ N.H.
 
 <div class="g-chartspace">
 
-90 --\>
+88 --\>
 
 </div>
 
@@ -4388,7 +4388,7 @@ N.H.
 
 <div class="g-chartspace">
 
-90 --\>
+88 --\>
 
 </div>
 
@@ -4414,7 +4414,7 @@ N.M.
 
 <div class="g-chartspace">
 
-88 --\>
+84 --\>
 
 </div>
 
@@ -4424,7 +4424,7 @@ N.M.
 
 <div class="g-chartspace">
 
-88 --\>
+84 --\>
 
 </div>
 
@@ -4436,13 +4436,13 @@ N.M.
 
 <div class="g-state-name svelte-1wz7ou7">
 
-Wyoming
+New Hampshire
 
 </div>
 
 <div class="g-state-name-mobile svelte-1wz7ou7">
 
-Wyo.
+N.H.
 
 </div>
 

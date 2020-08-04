@@ -264,9 +264,8 @@ Mandavilli</span>](https://www.nytimes.com/by/apoorva-mandavilli)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Publicado 31 de julio de 2020Actualizado 3 de agosto de 2020 a las
-    <span class="css-epvm6">09:48
-    ET</span>
+    Publicado 31 de julio de 2020Actualizado 3 de agosto de
+    2020
     
     </div>
 

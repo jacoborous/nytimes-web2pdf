@@ -151,28 +151,75 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-    Mottalini</span>](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-louisarmstrong-slide-EEFM/20tmag-louisarmstrong-slide-EEFM-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Bourne</span>](https://static01.nyt.com/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-louisarmstrong-slide-EEFM/20tmag-louisarmstrong-slide-EEFM-thumbStandard.jpg)](/2020/05/08/t-magazine/house-tours-coronavirus-distraction.html)
+    [![](https://static01.nyt.com/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-thumbStandard.jpg)](/2020/07/31/t-magazine/design-bothy-anstruther.html)
     
     </div>
     
-    ## [10 Eclectic Homes to Get Lost In](/2020/05/08/t-magazine/house-tours-coronavirus-distraction.html)
+    ## [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](/2020/07/31/t-magazine/design-bothy-anstruther.html)
     
-    Rooms that are not just different than those you’re self-isolating
-    in but unlike most others,
-        too.
+    Harriet Anstruther has transformed a former outbuilding on her farm
+    in the British countryside into a maximalist
+    retreat.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Aimee
+    Farrell</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
+2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+        J.
+        Ross</span>](https://static01.nyt.com/images/2020/07/06/t-magazine/6tmag-adler-slide-H6NA/6tmag-adler-slide-H6NA-threeByTwoMediumAt2X-v2.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/07/06/t-magazine/6tmag-adler-slide-H6NA/6tmag-adler-slide-H6NA-thumbStandard-v2.jpg)](/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
+        
+        </div>
+        
+        ## [Inside an Eclectic Retreat on Shelter Island](/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
+        
+        Jonathan Adler and Simon Doonan’s art- and design-filled summer
+        home is a place for both creativity and
+        downtime.
+        
+        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Max
+        Lakin</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+        Mottalini</span>](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-louisarmstrong-slide-EEFM/20tmag-louisarmstrong-slide-EEFM-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-louisarmstrong-slide-EEFM/20tmag-louisarmstrong-slide-EEFM-thumbStandard.jpg)](/2020/05/08/t-magazine/house-tours-coronavirus-distraction.html)
+        
+        </div>
+        
+        ## [10 Eclectic Homes to Get Lost In](/2020/05/08/t-magazine/house-tours-coronavirus-distraction.html)
+        
+        Rooms that are not just different than those you’re
+        self-isolating in but unlike most others,
+        too.
+        
+        <span class="css-me3p27"></span>
+        
+        </div>
+    
+    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
         of
         Bodha</span>](https://static01.nyt.com/images/2020/06/09/t-magazine/09tmag-incense-slide-MEVY/09tmag-incense-slide-MEVY-jumbo.jpg)
         
@@ -187,52 +234,7 @@ story](#after-sponsor)
         ## [Soothing Incense, Recommended by T Editors](/2020/06/09/t-magazine/best-incense.html)
         
         Scented smoke for the good of your space and state of
-        mind.
-        
-        <span class="css-me3p27"></span>
-        
-        </div>
-    
-    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alexis
-        Armanet</span>](https://static01.nyt.com/images/2019/09/03/t-magazine/03tmag-paphitis-slide-YXM5-tomcopy-copy/03tmag-paphitis-slide-YXM5-tomcopy-copy-threeByTwoMediumAt2X-v2.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2019/09/03/t-magazine/03tmag-paphitis-slide-YXM5-tomcopy-copy/03tmag-paphitis-slide-YXM5-tomcopy-copy-thumbStandard-v2.jpg)](/2020/05/21/t-magazine/redecorate-home-coronavirus.html)
-        
-        </div>
-        
-        ## [How to Refresh Your Home With Minimal Fuss](/2020/05/21/t-magazine/redecorate-home-coronavirus.html)
-        
-        From reconsidering your lighting to upgrading your bedding,
-        suggestions for making the space you’re isolating in feel new
-        again.
-        
-        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Tom
-        Delavan</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simon
-        Watson</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-4H6Q/13tmag-cultureimages-slide-4H6Q-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-4H6Q/13tmag-cultureimages-slide-4H6Q-thumbStandard-v2.jpg)](/interactive/2020/04/13/t-magazine/italian-fashion-design-houses.html)
-        
-        </div>
-        
-        ## [The Family-Run Italian Design Houses That Became Cultural Dynasties](/interactive/2020/04/13/t-magazine/italian-fashion-design-houses.html)
-        
-        For centuries, Italy has prized the art of fashion and furniture
-        design like no other country in the world, with generations
-        dedicated to traditional craftsmanship and
-    continuity.
+    mind.
         
         <span class="css-me3p27"></span>
         
@@ -244,7 +246,40 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Home and Work
+1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alexis
+    Armanet</span>](https://static01.nyt.com/images/2019/09/03/t-magazine/03tmag-paphitis-slide-YXM5-tomcopy-copy/03tmag-paphitis-slide-YXM5-tomcopy-copy-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How to Refresh Your Home With Minimal Fuss](/2020/05/21/t-magazine/redecorate-home-coronavirus.html)
+    
+    From reconsidering your lighting to upgrading your bedding,
+    suggestions for making the space you’re isolating in feel new
+    again.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tom
+    Delavan</span></span>
+    
+    </div>
+
+2.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simon
+    Watson</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-4H6Q/13tmag-cultureimages-slide-4H6Q-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Family-Run Italian Design Houses That Became Cultural Dynasties](/interactive/2020/04/13/t-magazine/italian-fashion-design-houses.html)
+    
+    For centuries, Italy has prized the art of fashion and furniture
+    design like no other country in the world, with generations
+    dedicated to traditional craftsmanship and
+    continuity.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ### Home and Work
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlotta
     Cardana</span>](https://static01.nyt.com/images/2020/04/08/t-magazine/design/viola-slide-Q7EE/viola-slide-Q7EE-videoLarge.jpg)
@@ -264,7 +299,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
+4.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
     Stackpole/The LIFE Picture Collection, via Getty
     Images</span>](https://static01.nyt.com/images/2020/05/17/lens/00-mrs-eames-04/00-mrs-eames-04-videoLarge.jpg)
     
@@ -282,7 +317,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+5.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
     Mottalini</span>](https://static01.nyt.com/images/2020/03/25/t-magazine/design/25tmag-alex-white-slide-KU09/25tmag-alex-white-slide-KU09-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -299,7 +334,15 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
     Mottalini</span>](https://static01.nyt.com/images/2020/03/16/t-magazine/16tmag-nakashima-slide-S9X5/16tmag-nakashima-slide-S9X5-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -317,7 +360,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  ### On Architecture
+2.  ### On Architecture
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/03/09/autossell/09tmag-lemoine/09tmag-lemoine-videoLarge.png)
     
@@ -336,15 +379,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alexis
+3.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alexis
     Armanet</span>](https://static01.nyt.com/images/2020/03/12/t-magazine/12tmag-pearson-slide-BZJQ-copy/12tmag-pearson-slide-BZJQ-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -363,7 +398,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ### By Design
+4.  ### By Design
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
     Mottalini</span>](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-louisarmstrong-slide-4FB3/20tmag-louisarmstrong-slide-4FB3-videoLarge-v2.jpg)
@@ -382,7 +417,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Making It
+5.  ### Making It
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     by Guido Castagnoli. Styled by Mary
@@ -400,38 +435,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nancy
     Hass</span></span>
-    
-    </div>
-
-4.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Rowat</span>](https://static01.nyt.com/images/2020/01/30/t-magazine/oakImage-1580415371326/oakImage-1580415371326-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In Nova Scotia, Homes as Wild as the Landscape Around Them](/2020/02/03/t-magazine/nova-scotia-architecture.html)
-    
-    Across the province’s cliffside fishing towns, Omar Gandhi’s
-    residential architecture is as austere and intense as the
-    environment for which it’s
-    built.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Snyder</span></span>
-    
-    </div>
-
-5.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2019/12/09/t-magazine/09tmag-25rooms-slide-9KFV-copy/09tmag-25rooms-slide-9KFV-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The 25 Rooms That Influence the Way We Design](/2019/12/09/t-magazine/25-rooms-influence-design.html)
-    
-    Three designers, two journalists and an interiors photographer
-    gathered at The New York Times to make a list of history’s most
-    enduring and significant spaces. Here are the results.
-    
-    <span class="css-me3p27"></span>
     
     </div>
 
@@ -585,23 +588,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/t-magazine/design-bothy-anstruther.html)
+    [](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## In a 19th-Century Cart House, a Designer Creates a Room of Her Own
+    ## A Home Inscribed With the History of Venice Beach
     
-    Harriet Anstruther has transformed a former outbuilding on her farm
-    in the British countryside into a maximalist retreat.
+    Within a storied Los Angeles studio complex, Karina Deyko and David
+    de Rothschild have built an eclectic, freewheeling space in which to
+    live and work.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Aimee
-    Farrell</span>
+    By <span class="css-1n7hynb">Alice
+    Newell-Hanson</span>
     
     </div>
     
@@ -827,40 +831,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/06/t-magazine/6tmag-adler-slide-H6NA/6tmag-adler-slide-H6NA-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Inside an Eclectic Retreat on Shelter Island
-    
-    Jonathan Adler and Simon Doonan’s art- and design-filled summer home
-    is a place for both creativity and downtime.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Max
-    Lakin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/07/09/t-magazine/robert-longo-quarantine-films.html)
     
     <div class="css-79elbk">
@@ -886,7 +856,7 @@ story](#after-mid1)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -910,7 +880,39 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Clem de Pressigny</span>
+    By <span class="css-1n7hynb">Clem de
+    Pressigny</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/02/t-magazine/kenzo-vans-tlist.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/01/t-magazine/01tmag-newsletter-slide-LL2I/01tmag-newsletter-slide-LL2I-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Three-course French meals for the home, a new Greek hotel — and
+    more.
+    
+    <div class="css-15yh6bw ea5icrr0">
     
     </div>
     

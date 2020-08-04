@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-health" class="section css-15h4p1b e9abtgs0">
 
@@ -549,19 +525,22 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Steinberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
+    West/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+    ## [What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
     
-    Don’t worry, a little Bayesian analysis won’t hurt
-    you.
+    Melbourne, Australia’s second-largest city, is becoming a case study
+    in handling a second wave of infections. There are lots of
+    unanswered
+    questions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
-    Roberts</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Damien
+    Cave</span></span>
     
     </div>
 
@@ -625,7 +604,7 @@ story](#after-mid2)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -855,6 +834,41 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    
+    More than 500 cases and at least 75 hospitalizations have been
+    reported in the United States and Canada, the health authorities
+    said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christina
+    Morales</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
@@ -882,7 +896,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -904,41 +918,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jeffrey
-    Gettleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/science/Covid-bats.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Can Humans Give Coronavirus to Bats, and Other Wildlife?
-    
-    Federal agencies suggest caution in U.S. bat research to avoid
-    transmitting the novel coronavirus to wildlife.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">James Gorman</span>
+    By <span class="css-1n7hynb">Jeffrey Gettleman</span>
     
     </div>
     

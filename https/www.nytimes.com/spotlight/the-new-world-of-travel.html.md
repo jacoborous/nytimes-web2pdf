@@ -211,7 +211,25 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
+    Walthall</span>](https://static01.nyt.com/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Road Trips are Great. Except for the Driving.](/2020/07/24/travel/virus-road-trip.html)
+    
+    I wasn’t looking for an exotic vacation, just a temporary reprieve
+    from compulsive news-watching and a dose of in-person fun with
+    family and
+    friends.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
+    Koch</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
     A. Mccoy/Getty
     Images</span>](https://static01.nyt.com/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-videoLarge.jpg)
     
@@ -230,7 +248,7 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -248,7 +266,13 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
     Lipton</span>](https://static01.nyt.com/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -270,13 +294,7 @@ story](#after-subheader)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
     M. Haffey/Getty
     Images</span>](https://static01.nyt.com/images/2020/07/16/travel/16-cruise-ban/16-cruise-ban-videoLarge.jpg)
     
@@ -295,7 +313,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moris
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moris
     Moreno for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/11/travel/09travel-flight-promo/09travel-flight-promo-videoLarge.jpg)
     
@@ -313,7 +331,7 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nyimas
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nyimas
     Laula for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/20/world/20virus-bali-tourism3/merlin_174306324_476c0e47-9059-4a49-ab85-264aa1f9a346-videoLarge.jpg)
     
@@ -333,7 +351,7 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Desiree
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Desiree
     Martin/Agence France-Presse — Getty
     Images</span>](https://static01.nyt.com/images/2020/08/14/world/spain01sub/spain01sub-videoLarge-v2.jpg)
     
@@ -352,7 +370,15 @@ story](#after-subheader)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Golightly</span>](https://static01.nyt.com/images/2020/07/14/travel/15alt-airbnb-1/oakImage-1594739793294-videoLarge.jpg)
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Golightly</span>](https://static01.nyt.com/images/2020/07/14/travel/15alt-airbnb-1/oakImage-1594739793294-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -368,15 +394,7 @@ story](#after-subheader)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Julia
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Julia
     Gunther for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/07/travel/07travel-hostels5/07travel-hostels5-videoLarge-v2.jpg)
     
@@ -395,7 +413,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ted
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ted
     Shaffrey/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/10/travel/10quarentine/merlin_174085854_8ae7efae-415f-409e-94f7-71b554aa1fb4-videoLarge.jpg)
     
@@ -413,7 +431,7 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Francisco
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Francisco
     Seco/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/02/travel/02travel-venice3/merlin_170044923_b665dd9c-cc2a-4327-992a-a7a8010dd41d-videoLarge.jpg)
     
@@ -432,7 +450,7 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
     W. Lee/The New York
     Times</span>](https://static01.nyt.com/images/2020/06/26/travel/26cruise-comeback2/merlin_173897511_f233f3c1-7b2f-40b2-833d-a1e455f082ba-videoLarge.jpg)
     
@@ -448,24 +466,6 @@ story](#after-subheader)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Frances
     Robles</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/25/travel/25road-trip-grid/25road-trip-grid-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Road Tripping While Black: Readers Respond](/2020/06/25/travel/road-tripping-while-black-readers-respond.html)
-    
-    Hitting the open road can be fraught for some black Americans, who
-    share their anxieties of racist targeting. For others, getting
-    behind the wheel is
-    freedom.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tariro Mzezewa</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Tacey
-    Rychter</span></span>
     
     </div>
 

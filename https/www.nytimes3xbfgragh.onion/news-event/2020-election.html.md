@@ -80,7 +80,7 @@ Advertisement
 [Continue reading the main
 story](#after-top)
 
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block">
 
 <div id="top" class="place-ad" data-position="top" data-size-key="top">
 
@@ -575,6 +575,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04whattowatch1/merlin_170318628_cc5fe952-825b-47c8-8354-897171b41804-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Today’s Primary Elections: What to Watch For
+    
+    Kris Kobach is competing in a Senate primary in Kansas that has
+    Republicans nervous, and Rashida Tlaib is hoping to hang on against
+    a Democratic challenger in a Michigan House race.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The New York
+    Times</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/us/politics/trump-mail-in-voting.html)
     
     <div class="css-79elbk">
@@ -604,7 +639,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -639,7 +674,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -672,7 +707,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -706,7 +741,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -741,7 +776,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -777,7 +812,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -813,7 +848,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -848,7 +883,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -870,43 +905,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden Faces Pressure From Left Over Influence Industry Ties
-    
-    Many of his aides and close allies are veteran Washington hands who
-    have profited from advising big corporations. The Sanders-Warren
-    wing of the party is not happy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
-    Thrush</span>
+    By <span class="css-1n7hynb">Eric Schmitt</span>
     
     </div>
     

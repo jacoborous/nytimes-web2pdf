@@ -584,6 +584,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/travel/remote-schools-patagonia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The World Through a Lens</span>
+    
+    ## A Visit to 5 of Patagonia’s Most Remote Schoolhouses
+    
+    Community life within the isolated villages of southern Chile is
+    facilitated in part by an unlikely source: a network of rural
+    schools.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Andria
+    Hautamaki</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
     
     <div class="css-79elbk">
@@ -609,7 +646,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -644,7 +681,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -679,7 +716,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -715,7 +752,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -749,7 +786,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -784,7 +821,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -820,7 +857,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -856,7 +893,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -877,43 +914,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Phoebe
-    Lett</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/travel/virus-vacation.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Vacation in the Summer of Covid-19
-    
-    Traveling during a pandemic requires lots of research, precision
-    planning and a willingness to play by new and very stringent rules.
-    For these writers, it still felt good to get away.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Eric Lipton, Christopher Solomon,
-    Sheila Marikar <span>and</span> Tariro Mzezewa</span>
+    By <span class="css-1n7hynb">Phoebe Lett</span>
     
     </div>
     

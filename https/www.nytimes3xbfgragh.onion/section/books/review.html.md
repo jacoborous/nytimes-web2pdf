@@ -166,9 +166,35 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aaron
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvie
+    Rosokoff</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Hirsch1/Hirsch1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbStandard.jpg)](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    
+    </div>
+    
+    ### Nonfiction
+    
+    ## [Morgan Jerkins Heads Down South in Search of Her Black Identity](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    
+    “Wandering in Strange Lands” traces the author’s ancestry — and the
+    history of African-American oppression — along the footsteps of the
+    Great
+    Migration.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Afua
+    Hirsch</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aaron
     Lowell
-    Denton</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/books/review/16Madrick-WEB/16Madrick-WEB-videoLarge.jpg)
+    Denton</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/books/review/16Madrick-WEB/16Madrick-WEB-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
@@ -192,31 +218,31 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Miller</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-jumbo.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+        Miller</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Fiction
+        
+        ## [Aimee Bender’s Latest Is a Proustian Reverie](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-thumbStandard.jpg)](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
+        
+        </div>
+        
+        In “The Butterfly Lampshade,” objects are as alive as human
+        beings.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Kevin
+        Brockmeier</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-thumbStandard.jpg)](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
-    
-    </div>
-    
-    ### Fiction
-    
-    ## [Aimee Bender’s Latest Is a Proustian Reverie](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
-    
-    In “The Butterfly Lampshade,” objects are as alive as human
-    beings.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kevin
-    Brockmeier</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gerald
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gerald
         Hebert/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Heilbrunn/merlin_11209316_2660760c-7462-4a8a-9032-e76095bdd0d5-videoLarge.jpg)
         
         <div class="css-10wtrbd">
@@ -240,31 +266,6 @@ story](#after-sponsor)
         Heilbrunn</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Milan
-        Zrnic</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-LIST-WEB/09-BKS-LIST-WEB-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Inside the List
-        
-        ## [Aminatou Sow and Ann Friedman Wrote a Big Best Seller](/2020/07/30/books/review/aminatou-sow-ann-friedman-big-friendship.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-LIST-WEB/09-BKS-LIST-WEB-thumbStandard.jpg)](/2020/07/30/books/review/aminatou-sow-ann-friedman-big-friendship.html)
-        
-        </div>
-        
-        In “Big Friendship,” the best friends and podcast co-hosts
-        rediscover their bond across a different kind of social
-        distance.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Lauren
-        Christensen</span></span>
-        
-        </div>
 
 </div>
 
@@ -272,7 +273,26 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### By the Book
+1.  ### Inside the List
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Milan
+    Zrnic</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-LIST-WEB/09-BKS-LIST-WEB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Aminatou Sow and Ann Friedman Wrote a Big Best Seller](/2020/07/30/books/review/aminatou-sow-ann-friedman-big-friendship.html)
+    
+    In “Big Friendship,” the best friends and podcast co-hosts
+    rediscover their bond across a different kind of social
+    distance.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Lauren
+    Christensen</span></span>
+    
+    </div>
+
+2.  ### By the Book
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
     Tamaki</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/review/02ByTheBook-Wilkerson/02ByTheBook-Wilkerson-videoLarge.jpg)
@@ -286,27 +306,6 @@ story](#after-sponsor)
     commentary.”
     
     <span class="css-me3p27"></span>
-    
-    </div>
-
-2.  ### Nonfiction
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Arthur
-    Tanner/Fox Photos, via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/28Weiner/28Weiner-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Groundbreaking Scientist Who Risked All in Pursuit of His Beliefs](/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
-    
-    “A Dominant Character,” by Samanth Subramanian, recounts the
-    turbulent life of J.B.S. Haldane, the great British biologist and
-    political
-    activist.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
-    Weiner</span></span>
     
     </div>
 
@@ -365,7 +364,28 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Fiction
+1.  ### Nonfiction
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Arthur
+    Tanner/Fox Photos, via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/28Weiner/28Weiner-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Groundbreaking Scientist Who Risked All in Pursuit of His Beliefs](/2020/07/28/books/review/a-dominant-character-haldane-samanth-subramanian.html)
+    
+    “A Dominant Character,” by Samanth Subramanian, recounts the
+    turbulent life of J.B.S. Haldane, the great British biologist and
+    political
+    activist.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
+    Weiner</span></span>
+    
+    </div>
+
+2.  ### Fiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Byron
@@ -385,7 +405,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ### Nonfiction
+3.  ### Nonfiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nishant
     Choksi</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/28Newman-HelpDesk/28Newman-HelpDesk-videoLarge.jpg)
@@ -404,7 +424,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Fiction
+4.  ### Fiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     Heads of
@@ -424,7 +444,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
     Kim</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/books/review/26ScandinavianNoir01/26ScandinavianNoir-mediumThreeByTwo440.jpg)
     
     <div class="css-10wtrbd">
@@ -438,27 +458,6 @@ story](#after-sponsor)
     <span class="css-1baulvz" itemprop="name">Tina Jordan</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Marilyn
     Stasio</span></span>
-    
-    </div>
-
-5.  ### Fiction
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    Heads of
-    State</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/books/review/26Lyall/26Lyall-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Lies That Bind, and Break, a Friendship](/2020/07/24/books/review/araminta-hall-imperfect-women.html)
-    
-    In Araminta Hall’s “Imperfect Women,” three old pals find they don’t
-    know one another quite as well as they once did. And then one of
-    them is
-    murdered.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Lyall</span></span>
     
     </div>
 
@@ -518,6 +517,78 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fiction</span>
+    
+    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    
+    In “Kings County,” David Goodwillie examines New York’s most
+    celebrated borough with an uncynical eye.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adelle
+    Waldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">nonfiction</span>
+    
+    ## Why the U.S. Dropped Atomic Bombs on Japan
+    
+    Marc Gallicchio’s “Unconditional” details debates in both Japan and
+    the United States to end World War II.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Richard J.
+    Samuels</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
     
     <div class="css-79elbk">
@@ -548,7 +619,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -584,7 +655,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -620,7 +691,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -657,7 +728,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -694,7 +765,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -731,7 +802,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -764,7 +835,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -780,70 +851,9 @@ story](#after-mid1)
     
     ## On Hamlet’s Origins and Other Letters to the Editor
     
-    Readers respond to recent issues of the Sunday Book
-    Review.
+    Readers respond to recent issues of the Sunday Book Review.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/books/review/memorial-drive-by-natasha-trethewey-an-excerpt.html)
-    
-    ## ‘Memorial Drive,’ by Natasha Trethewey: An Excerpt
-    
-    An excerpt from “Memorial Drive,” by Natasha
-    Trethewey
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/books/review/memorial-drive-natastha-trethewey.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/16/books/review/Laymon1/Laymon1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">nonfiction</span>
-    
-    ## In ‘Memorial Drive’ a Poet Evokes Her Childhood and Confronts Her Mother’s Murder
-    
-    The new memoir by the Pulitzer Prize-winning poet Natasha Trethewey
-    is an aching investigation of trauma and art.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kiese Makeba Laymon</span>
     
     </div>
     

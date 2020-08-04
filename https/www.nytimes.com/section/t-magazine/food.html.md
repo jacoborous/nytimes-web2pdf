@@ -151,34 +151,85 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
-    of
-    Dante</span>](https://static01.nyt.com/images/2020/05/28/t-magazine/dante-slide-0AFX/dante-slide-0AFX-threeByTwoMediumAt2X-v3.jpg)
+1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
+    McAlpine</span>](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/05/28/t-magazine/dante-slide-0AFX/dante-slide-0AFX-thumbStandard.jpg)](/2020/06/12/t-magazine/caffe-dante-nyc.html)
+    [![](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbStandard.jpg)](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
     
     </div>
     
-    ### The 212
+    ### One Good Meal
     
-    ## [The Italian Cafe Where New Yorkers Sample La Dolce Vita](/2020/06/12/t-magazine/caffe-dante-nyc.html)
+    ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
     
-    For generations, Caffé Dante served aperitivi to Manhattanites at
-    its sought-after sidewalk tables. Now, the reimagined version is
-    offering Negronis to
-    go.
+    Skye McAlpine has made a name for herself serving bountiful meals to
+    large groups of friends. During lockdown, she’s discovered the joy
+    of cooking for just one or
+    two.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reggie
-    Nadelson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Isabel
+    Wilkinson</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moira
+2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Patricia
+        Heal. Prop Stylist: Martin
+        Bourne</span>](https://static01.nyt.com/images/2020/07/14/t-magazine/14tmag-plague/14tmag-plague-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/07/14/t-magazine/14tmag-plague/14tmag-plague-thumbStandard.jpg)](/2020/07/16/t-magazine/eating-food-during-plague.html)
+        
+        </div>
+        
+        ## [What We Eat During a Plague](/2020/07/16/t-magazine/eating-food-during-plague.html)
+        
+        Over the past months, Americans have embraced comfort food with
+        a renewed fervor. But this isn’t the first time culinary habits
+        have shifted during a
+        pandemic.
+        
+        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Michael
+        Snyder</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
+        of
+        Dante</span>](https://static01.nyt.com/images/2020/05/28/t-magazine/dante-slide-0AFX/dante-slide-0AFX-threeByTwoMediumAt2X-v3.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/05/28/t-magazine/dante-slide-0AFX/dante-slide-0AFX-thumbStandard.jpg)](/2020/06/12/t-magazine/caffe-dante-nyc.html)
+        
+        </div>
+        
+        ### The 212
+        
+        ## [The Italian Cafe Where New Yorkers Sample La Dolce Vita](/2020/06/12/t-magazine/caffe-dante-nyc.html)
+        
+        For generations, Caffé Dante served aperitivi to Manhattanites
+        at its sought-after sidewalk tables. Now, the reimagined version
+        is offering Negronis to
+        go.
+        
+        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Reggie
+        Nadelson</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moira
         Tarmy</span>](https://static01.nyt.com/images/2020/06/19/t-magazine/19tmag-kamm/19tmag-kamm-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
@@ -202,50 +253,6 @@ story](#after-sponsor)
         Marino</span></span>
         
         </div>
-    
-    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
-        Floyd</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-NXLX/13tmag-cultureimages-slide-NXLX-threeByTwoMediumAt2X-v2.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-NXLX/13tmag-cultureimages-slide-NXLX-thumbStandard-v2.jpg)](/interactive/2020/04/13/t-magazine/enrique-olvera-chef.html)
-        
-        </div>
-        
-        ## [Enrique Olvera and His Culinary Heirs Have Changed How and What We Eat](/interactive/2020/04/13/t-magazine/enrique-olvera-chef.html)
-        
-        The influential chef has reconceived Mexican cuisine, both in
-        his own country and
-        beyond.
-        
-        <span class="css-me3p27"></span>
-        
-        </div>
-    
-    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sofía
-        Probert</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-olvera-recipe/13tmag-olvera-recipe-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-olvera-recipe/13tmag-olvera-recipe-thumbStandard.jpg)](/2020/04/13/t-magazine/enrique-olvera-vegetable-soup-recipe.html)
-        
-        </div>
-        
-        ## [Enrique Olvera’s Satisfying, Adaptable Vegetable Soup](/2020/04/13/t-magazine/enrique-olvera-vegetable-soup-recipe.html)
-        
-        The chef shares his recipe for a hearty broth-based dish,
-        inspired by the version his grandmother used to
-        make.
-        
-        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Merrell
-        Hambleton</span></span>
-        
-        </div>
 
 </div>
 
@@ -253,7 +260,39 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### One Good Meal
+1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+    Floyd</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-cultureimages-slide-NXLX/13tmag-cultureimages-slide-NXLX-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Enrique Olvera and His Culinary Heirs Have Changed How and What We Eat](/interactive/2020/04/13/t-magazine/enrique-olvera-chef.html)
+    
+    The influential chef has reconceived Mexican cuisine, both in his
+    own country and
+    beyond.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sofía
+    Probert</span>](https://static01.nyt.com/images/2020/04/13/t-magazine/13tmag-olvera-recipe/13tmag-olvera-recipe-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Enrique Olvera’s Satisfying, Adaptable Vegetable Soup](/2020/04/13/t-magazine/enrique-olvera-vegetable-soup-recipe.html)
+    
+    The chef shares his recipe for a hearty broth-based dish, inspired
+    by the version his grandmother used to
+    make.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Merrell
+    Hambleton</span></span>
+    
+    </div>
+
+3.  ### One Good Meal
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
     Johnson</span>](https://static01.nyt.com/images/2020/05/12/t-magazine/liz-lambert/liz-lambert-videoLarge-v2.jpg)
@@ -272,7 +311,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emma
+4.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emma
     Hardy</span>](https://static01.nyt.com/images/2020/05/17/t-magazine/17tmag-xian-slide-6UTN/17tmag-xian-slide-6UTN-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -289,7 +328,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### One Good Meal
+5.  ### One Good Meal
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
     Quitoriano</span>](https://static01.nyt.com/images/2020/03/10/t-magazine/10tmag-taseer-03/10tmag-taseer-03-videoLarge.jpg)
@@ -308,7 +347,15 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
     from top left: Aya Brackett; Scott J. Ross; George Etheredge; Yuki
     Sugiura</span>](https://static01.nyt.com/images/2020/03/18/t-magazine/18tmag-selfdispromo/18tmag-selfdispromo-videoLarge-v3.jpg)
     
@@ -324,7 +371,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  ### One Good Meal
+2.  ### One Good Meal
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joann
     Pai</span>](https://static01.nyt.com/images/2020/04/19/t-magazine/16tmag-kerzon/16tmag-kerzon-videoLarge.jpg)
@@ -343,15 +390,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+3.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     by Sharon Core. Food styling by Young Gun Lee. Prop styling by Maria
     Santana</span>](https://static01.nyt.com/images/2020/02/17/t-magazine/17tmag-banquets/17tmag-banquets-videoLarge.jpg)
     
@@ -370,7 +409,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ### The 212
+4.  ### The 212
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
     of Schaller &
@@ -391,7 +430,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Food Matters
+5.  ### Food Matters
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     by Patricia Heal. Food styling by Young Gun Lee. Prop styling by
@@ -410,45 +449,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ligaya
     Mishan</span></span>
-    
-    </div>
-
-4.  ### Cooking School
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
-    J.
-    Ross</span>](https://static01.nyt.com/images/2020/01/27/t-magazine/24tmag-phillip-lim/24tmag-phillip-lim-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How a Designer Learned to Cook Using Memory Alone](/2020/01/24/t-magazine/phillip-lim-shrimp-recipe.html)
-    
-    When Phillip Lim finally decided to put his kitchen to use, he
-    followed his nose back to the fragrant dishes of his
-    childhood.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marian
-    Bull</span></span>
-    
-    </div>
-
-5.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Copyright
-    Sharon Core. Courtesy of the artist and Yancey Richardson, New
-    York.</span>](https://static01.nyt.com/images/2020/02/20/t-magazine/20tmag-food/20tmag-food-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Banquets Are Back in Fashion. But Where Does All the Food Go?](/2020/02/21/t-magazine/fashion-banquet-food-waste.html)
-    
-    Extravagant tableaus of fruits and flowers have become popular
-    centerpieces for runway shows and photo shoots — and call for a new
-    kind of responsible clean
-    up.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marian
-    Bull</span></span>
     
     </div>
 
@@ -539,43 +539,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">One Good Meal</span>
-    
-    ## A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It
-    
-    Skye McAlpine has made a name for herself serving bountiful meals to
-    large groups of friends. During lockdown, she’s discovered the joy
-    of cooking for just one or two.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Isabel
-    Wilkinson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
     
     <div class="css-79elbk">
@@ -606,48 +569,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/t-magazine/eating-food-during-plague.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/14/t-magazine/14tmag-plague/14tmag-plague-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What We Eat During a Plague
-    
-    Over the past months, Americans have embraced comfort food with a
-    renewed fervor. But this isn’t the first time culinary habits have
-    shifted during a pandemic.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Snyder</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes.com/es/2020/07/23/t-magazine/comida-pandemia.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -678,7 +600,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -709,7 +631,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -743,7 +665,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -779,7 +701,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -814,7 +736,7 @@ story](#after-mid1)
     
     </div>
 
-10. 
+8.  
     
     <div class="css-1cp3ece">
     
@@ -835,7 +757,75 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence Fabricant</span>
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/05/31/world/europe/coronavirus-prawn-spain.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/05/28/world/00virus-spain-fish01sub/00virus-spain-fish01sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Turns a Spanish Sea Delicacy Back Into Daily Fare
+    
+    With high-end restaurants closed, the price of prawns has tumbled,
+    allowing fishmongers to pick up the shellfish at a discount and
+    offer them to a much broader clientele.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Raphael
+    Minder</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/05/29/at-home/coronavirus-how-to-make-limoncello.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/05/31/multimedia/31ah-limoncello1/31ah-limoncello1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## If You’ve Got Lemons, Make Limoncello
+    
+    You’ll also need alcohol, sugar and, most of all, patience.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adriana Balsamo</span>
     
     </div>
     

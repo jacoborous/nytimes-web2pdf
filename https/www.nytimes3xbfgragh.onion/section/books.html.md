@@ -507,25 +507,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    [](/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html)
     
-    <div class="css-79elbk">
+    ## ‘Wandering in Strange Lands,’ by Morgan Jerkins: An Excerpt
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Fiction</span>
-    
-    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
-    
-    In “Kings County,” David Goodwillie examines New York’s most
-    celebrated borough with an uncynical eye.
+    An excerpt from “Wandering in Strange Lands,” by Morgan
+    Jerkins
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adelle
-    Waldman</span>
     
     </div>
     
@@ -543,25 +532,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    [](/2020/08/04/books/review/life-of-a-klansman-by-edward-ball-an-excerpt.html)
     
-    <div class="css-79elbk">
+    ## ‘Life of a Klansman,’ by Edward Ball: An Excerpt
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">nonfiction</span>
-    
-    ## Why the U.S. Dropped Atomic Bombs on Japan
-    
-    Marc Gallicchio’s “Unconditional” details debates in both Japan and
-    the United States to end World War II.
+    An excerpt from “Life of a Klansman,” by Edward
+    Ball
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Richard J.
-    Samuels</span>
     
     </div>
     
@@ -579,26 +557,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ### <span class="css-m70j1g">feature</span>
     
-    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
+    ## Behrouz Boochani Just Wants to Be Free
     
-    “Wandering in Strange Lands” traces the author’s ancestry — and the
-    history of African-American oppression — along the footsteps of the
-    Great Migration.
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Afua
-    Hirsch</span>
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
     
     </div>
     
@@ -616,23 +594,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
+    [](/2020/08/04/books/review/fallout-hiroshima-hersey-lesley-m-m-blume.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Langewiesche1/04Langewiesche1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
-    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    ## The Reporter Who Told the World About the Bomb
+    
+    “Fallout,” by Lesley M.M. Blume, recounts how John Hersey revealed
+    the devastating toll of the atomic bomb on the citizens of
+    Hiroshima.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabeth
-    Egan</span>
+    By <span class="css-1n7hynb">William
+    Langewiesche</span>
     
     </div>
     
@@ -650,24 +631,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/james-silberman-dead.html)
+    [](/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Fischer1/04Fischer1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## James Silberman, Editor Who Nurtured Literary Careers, Dies at 93
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    At Random House and elsewhere, including his own Summit imprint, he
-    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
-    many others.
+    ## ‘Looking for Miss America’ Tells the History of the Legendary Pageant
+    
+    The new book by Margot Mifflin shows how the famous contest for
+    women reflected conflicting ideas about female beauty, ambition and
+    fame over the past 100 years.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Molly
+    Fischer</span>
     
     </div>
     
@@ -685,25 +668,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
+    [](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Gleick1/Gleick1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Tank Tops and Short Shorts and Bears, Oh My\!
+    ## This Is How It All Ends
     
-    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
-    code is more terrifying than the bears wandering through its woods.
+    In “The End of Everything,” the theoretical cosmologist Katie Mack
+    takes a look at the ultimate doom and destruction of our universe.
+    It’s not pretty.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer
-    Mathieu</span>
+    By <span class="css-1n7hynb">James
+    Gleick</span>
     
     </div>
     
@@ -721,25 +705,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
+    [](/2020/08/04/books/review/caste-isabel-wilkerson.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Appiah-COVER-Sub01/09Appiah-COVER-Sub01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## For Two Teenagers on Election Day, the Political Gets Personal
+    ## What Do America’s Racial Problems Have in Common With India and Nazi Germany?
     
-    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
-    out since age 7 helps a drummer make his voice heard.
+    In “Caste,” the journalist Isabel Wilkerson looks to other
+    countries’ histories to show how our racial order is founded on a
+    hierarchal structure of hereditary status.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicola
-    Yoon</span>
+    By <span class="css-1n7hynb">Kwame Anthony
+    Appiah</span>
     
     </div>
     
@@ -757,25 +742,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/crime-fiction-megan-miranda.html)
+    [](/2020/08/04/books/review/inferno-catherine-cho.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/review/02Stasio-Crime/02Stasio-Crime-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/books/review/Brooks1/Brooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Crime</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Stabbed in the Convent, Murdered in the Yard
+    ## A New Mother Chronicles Her Journey to Hell and Back
     
-    In the newest batch of crime novels, bodies accumulate at a rather
-    alarming rate.
+    In “Inferno,” Catherine Cho writes honestly of surviving postpartum
+    psychosis.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marilyn
-    Stasio</span>
+    By <span class="css-1n7hynb">Kim
+    Brooks</span>
     
     </div>
     
@@ -793,26 +778,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/the-system-robert-reich-break-em-up-zephyr-teachout.html)
+    [](/2020/08/04/books/review/tender-is-the-flesh-agustina-bazterrica.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/books/review/16Madrick-WEB/16Madrick-WEB-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/review/Kraus1/Kraus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ### <span class="css-m70j1g">Fiction</span>
     
-    ## Why the Working Class Votes Against Its Economic Interests
+    ## What if the Meat We Ate Was Human?
     
-    Two new books, Robert B. Reich’s “The System” and Zephyr Teachout’s
-    “Break ’Em Up,” examine the impact of economic inequality in
-    America.
+    Agustina Bazterrica’s dystopian second novel, “Tender Is the Flesh,”
+    uses cannibalism to highlight the inhumanity of factory farming.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jeff
-    Madrick</span>
+    By <span class="css-1n7hynb">Daniel
+    Kraus</span>
     
     </div>
     
@@ -830,25 +814,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
+    [](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/books/review/Kolbert/Kolbert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Monsters vs. Aliens
+    ## A History of Hurricanes in America and the Devastation They Have Wrought
     
-    In “Sia Martinez and the Moonlit Beginning of Everything,” a
-    Mexican-American girl lights candles in the desert for her deported
-    mother. Then a spacecraft arrives.
+    In “A Furious Sky,” Eric Jay Dolin recounts 500 years of reckoning
+    with the monster storms that come in off the Atlantic Ocean.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby Sher</span>
+    By <span class="css-1n7hynb">Elizabeth Kolbert</span>
     
     </div>
     

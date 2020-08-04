@@ -178,6 +178,82 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
     
     <div class="css-79elbk">
@@ -208,7 +284,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +319,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +351,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +387,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +418,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -373,7 +449,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -404,7 +480,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -424,71 +500,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Mike Isaac <span>and</span> Erin
     Griffith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-PROMO-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Handbook to Today’s Tech Hearing
-    
-    The C.E.O.s are likely to argue before Congress that their companies
-    aren’t anticompetitive. Here are the facts.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jack Nicas, Daisuke Wakabayashi, Karen
-    Weise <span>and</span> Mike
-    Isaac</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/business/twitter-earnings.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23markets-brf-twitter/merlin_173843364_3dcd71fb-9700-414d-abba-0fb2a44712d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Twitter’s user count surged but its revenue fell in the second quarter.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac</span>
     
     </div>
     

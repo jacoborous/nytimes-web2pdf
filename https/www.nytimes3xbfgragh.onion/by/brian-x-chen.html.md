@@ -176,6 +176,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">tech fix</span>
+    
+    ## Google Pixel 4A Review: At $350, a Win for Those on a Budget
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brian X.
+    Chen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
     
     <div class="css-79elbk">
@@ -206,7 +242,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +285,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -286,7 +322,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -322,7 +358,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -358,7 +394,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -394,7 +430,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -430,7 +466,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -466,7 +502,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -489,44 +525,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brian X.
-    Chen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/13/us/california-covid-testing-reopening.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/13/us/13restaurantcatoday/merlin_172438476_7afc6408-053d-4934-8548-a127f62bfbd6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">California Today</span>
-    
-    ## To Test or Not to Test?
-    
-    Wednesday: As California gradually allows businesses to reopen,
-    officials say there still isn’t enough testing to move more quickly.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jill Cowan <span>and</span> Brian X.
-    Chen</span>
+    By <span class="css-1n7hynb">Brian X. Chen</span>
     
     </div>
     

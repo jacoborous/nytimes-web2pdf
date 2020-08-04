@@ -237,7 +237,7 @@ It is separate from the newsroom.
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -280,8 +280,10 @@ Harrington</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/
 
 <div class="css-53u6y8">
 
-For a man who votes by mail himself, Donald Trump is strangely obsessed
-with the idea that it is the most dangerous method of casting a ballot.
+For a man who [votes by
+mail](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html)
+himself, Donald Trump is strangely obsessed with the idea that it is the
+most dangerous method of casting a ballot.
 
 The president was at it again this week. “Rigged Election,” he
 [tweeted](https://twitter.com/realDonaldTrump/status/1288602262567153664)

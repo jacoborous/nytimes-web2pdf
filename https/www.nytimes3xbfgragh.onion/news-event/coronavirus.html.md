@@ -189,7 +189,7 @@ Trump.
 
 ## Live Updates
 
-17 minutes
+41 minutes
     ago
 
 </div>
@@ -1070,7 +1070,26 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
 
 ## Reopening
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gil
+    Cohen-Magen/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Isabel Kershner</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Pam
+    Belluck</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
     Robison/The Northeast Mississippi Daily Journal, via Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-videoLarge.jpg)
     
@@ -1089,7 +1108,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
     Kwak/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-videoLarge.jpg)
     
@@ -1108,7 +1127,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Moneymaker for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-videoLarge.jpg)
     
@@ -1125,7 +1144,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
     J. Blue for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03Virus-View-01/merlin_171513666_77afb6d2-fcff-4e60-afd1-d509f326d13a-videoLarge.jpg)
     
@@ -1141,24 +1160,6 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Susan
     Dynarski</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
-    Heisler/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/09/nyregion/03nytoday-1/00nysubway-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Is Riding the Subway Safer Than Dining Indoors?](/2020/08/03/nyregion/nyc-subway-coronavirus.html)
-    
-    In major global cities where the pandemic has ebbed, it appears that
-    public transportation may not be as risky as nervous New Yorkers
-    believe.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mihir
-    Zaveri</span></span>
     
     </div>
 
@@ -1386,6 +1387,49 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     <div class="css-1l4spti">
     
+    [](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/03Mascarillas-ES-01/25virus-japan-masks-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Llevaremos cubrebocas por algún tiempo. ¿Por qué no hacerlos bonitos?
+    
+    Con purificadores motorizados, desinfectantes, tejidos transpirables
+    y estampados chic. Los protectores faciales han dejado de ser solo
+    productos descartables y baratos y ahora los hay para clientes más
+    exigentes
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Dooley <span>and</span> Hisako
+    Ueno</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/27/business/fashion-masks-coronavirus.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
     <div class="css-79elbk">
@@ -1413,7 +1457,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1449,7 +1493,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1484,7 +1528,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1518,7 +1562,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1553,7 +1597,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1588,7 +1632,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1624,7 +1668,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1658,7 +1702,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1680,44 +1724,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Scott
-    Reyburn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/30Pedro/30Pedro-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
-    
-    ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
-    
-    Ms. Pedro was a leader of Brazil’s Macuxi people and carried a
-    message of alarm for their fate to Pope Francis in 2018. She died of
-    the novel coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Astor</span>
+    By <span class="css-1n7hynb">Scott Reyburn</span>
     
     </div>
     

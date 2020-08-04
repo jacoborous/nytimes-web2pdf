@@ -238,8 +238,14 @@ Lorenz</span>](https://www.nytimes3xbfgragh.onion/by/taylor-lorenz)
 
 </div>
 
-  - Aug. 2,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 2,
     2020
+    
+    </div>
 
   - 
     
@@ -272,9 +278,10 @@ Lorenz</span>](https://www.nytimes3xbfgragh.onion/by/taylor-lorenz)
 
 <div class="css-53u6y8">
 
-It was a weekend of chaos on TikTok — unleashed on Friday night when
-President Trump said, while aboard Air Force One, that he might ban the
-video app.
+It was a weekend of chaos on
+[TikTok](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/trump-tiktok-microsoft.html)
+— unleashed on Friday night when President Trump said, while aboard Air
+Force One, that he might ban the video app.
 
 The surprise announcement sent influencers in droves onto livestreams to
 give possibly premature [teary and heartfelt
@@ -288,8 +295,9 @@ been removed by the service for violating nudity or profanity
 guidelines.
 
 Others tried to make light of the situation. Addison Easterling, 19, a
-TikTok star who dropped out of Louisiana State University to pursue a
-full-time influencer career, [posted a video of
+[TikTok](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/trump-tiktok-microsoft.html)
+star who dropped out of Louisiana State University to pursue a full-time
+influencer career, [posted a video of
 herself](https://vm.tiktok.com/J2T9X8K/) pretending to knock on the
 college’s doors to let her back in. “Me at LSU tomorrow,” she captioned
 it.
@@ -317,9 +325,10 @@ to American user data. TikTok and ByteDance have vehemently denied any
 relationship with the Chinese government.
 
 The president’s comments suggesting he would shut down TikTok in the
-United States stalled ByteDance’s negotiations to sell the app to
-Microsoft as a way to address the security concerns. On Sunday,
-[Microsoft said that it had resumed
+United States stalled [ByteDance’s negotiations to sell the app to
+Microsoft](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/tiktok-trump-sale-microsoft.html)
+as a way to address the security concerns. On Sunday, [Microsoft said
+that it had resumed
 talks](https://www.nytimes3xbfgragh.onion/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
 after consulting with the president, giving some hope to users that the
 app would survive.

@@ -195,7 +195,7 @@ story](#after-sponsor)
 </div>
 
 The All-Pro receiver was penalized for his role in a January dispute at
-his home and for sending threatening tests to a woman who had accused
+his home and for sending threatening texts to a woman who had accused
 him of sexual misconduct.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
@@ -243,7 +243,7 @@ Belson</span>](https://www.nytimes3xbfgragh.onion/by/ken-belson)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 31,
+    Published July 31, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -252,7 +252,7 @@ Belson</span>](https://www.nytimes3xbfgragh.onion/by/ken-belson)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

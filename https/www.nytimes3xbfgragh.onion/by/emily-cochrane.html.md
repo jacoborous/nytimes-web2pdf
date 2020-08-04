@@ -173,6 +173,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
+    
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
     
     <div class="css-79elbk">
@@ -201,7 +237,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -235,7 +271,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -270,7 +306,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +341,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -340,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -406,7 +442,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -441,7 +477,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -465,37 +501,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
     Tankersley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/07/27/business/stock-market-today-coronavirus/republicans-want-to-slash-600-unemployment-payments-to-200)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/opinion/27-markets-brf-unemploymentbenefits1/merlin_174978804_c5832afa-6529-4c64-9657-3b3cd83b56f1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Republicans want to slash $600 unemployment payments to $200.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
-    Cochrane</span>
     
     </div>
     

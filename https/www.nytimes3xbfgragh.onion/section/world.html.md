@@ -55,7 +55,8 @@ News](https://www.nytimes3xbfgragh.onion/section/world)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ News](https://www.nytimes3xbfgragh.onion/section/world)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-world" class="section css-15h4p1b e9abtgs0">
 
@@ -575,21 +551,20 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Philip
-    Cheung for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-briefing-negotiations/merlin_175270614_82064422-bea7-46e4-99fd-f10e541c14c2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Cases ‘Trending Down’ in California, Governor Says](/video/us/100000007271181/california-virus-cases-trend-down.html)
+    ## [Coronavirus Live Updates: Fight Over Aid Package Drags On](/2020/08/04/world/coronavirus-covid-19.html)
     
-    Gov. Gavin Newsom said on Monday that the total number of people
-    testing positive for the coronavirus was on the
-    decline.
+    Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure.
+    Israel’s troubled school reopenings could be a lesson for the
+    U.S.
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Associated
-    Press</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
@@ -974,6 +949,41 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/briefing/tiktok-spain-turkey.html)
     
     <div class="css-79elbk">
@@ -1001,7 +1011,41 @@ story](#after-mid3)
     
     </div>
 
-2.  
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/coronavirus-today.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Briefing: What Happened Today
+    
+    The school year is underway in some parts of the United States — and
+    we’re already seeing how fraught reopening classrooms can be.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1034,7 +1078,7 @@ story](#after-mid3)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1069,7 +1113,7 @@ story](#after-mid3)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1107,7 +1151,7 @@ story](#after-mid3)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1141,7 +1185,7 @@ story](#after-mid3)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1155,7 +1199,7 @@ story](#after-mid3)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -1174,7 +1218,7 @@ story](#after-mid3)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1211,7 +1255,7 @@ story](#after-mid3)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1235,75 +1279,7 @@ story](#after-mid3)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Apoorva
-    Mandavilli</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/briefing/vaccine-race-donald-trump-spacex.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03ambriefing-europe-promo/03ambriefing-europe-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Vaccine Race, Donald Trump, SpaceX: Your Monday Briefing
-    
-    Here’s what you need to know.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/americas/mexico-el-marro-capture.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02mexico2/merlin_170327064_c214ce7c-82c0-4a6b-ab03-3dc20289260d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence
-    
-    While the arrest of José Antonio Yépez delivers a major blow to a
-    cartel, analysts say officials lack a cohesive strategy against
-    debilitating crime.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Azam Ahmed</span>
+    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
     
     </div>
     

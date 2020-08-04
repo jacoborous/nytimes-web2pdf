@@ -273,11 +273,12 @@ Popper</span>](https://www.nytimes3xbfgragh.onion/by/nathaniel-popper)
 
 <div class="css-53u6y8">
 
-OAKLAND, Calif. — One by one, the celebrity Twitter accounts posted the
-same strange message: Send Bitcoin and they would send back double your
-money. Elon Musk. Bill Gates. Kanye West. Joseph R. Biden Jr. Former
-President Barack Obama. They, and dozens of others, were being hacked,
-and Twitter appeared powerless to stop it.
+OAKLAND, Calif. — One by one, the celebrity
+[Twitter](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+accounts posted the same strange message: Send Bitcoin and they would
+send back double your money. Elon Musk. Bill Gates. Kanye West. Joseph
+R. Biden Jr. Former President Barack Obama. They, and dozens of others,
+were being hacked, and Twitter appeared powerless to stop it.
 
 While some initially thought the hack was the work of professionals, it
 turns out the “mastermind” of one of the most high-profile hacks in

@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [What School May Look
     Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 3, 2020, 4:05 A.M.
 E.T.
 
 </div>
@@ -921,7 +921,7 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/michigan.svg" alt="Michigan heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/michigan.svg" alt="Michigan heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -935,7 +935,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/gogebic.svg" alt="Gogebic heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/gogebic.svg" alt="Gogebic heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -949,7 +949,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/menominee.svg" alt="Menominee heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/menominee.svg" alt="Menominee heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -963,7 +963,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/macomb.svg" alt="Macomb heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/macomb.svg" alt="Macomb heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -977,7 +977,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/tuscola.svg" alt="Tuscola heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/tuscola.svg" alt="Tuscola heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -991,7 +991,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/gladwin.svg" alt="Gladwin heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/gladwin.svg" alt="Gladwin heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1005,7 +1005,7 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/clinton.svg" alt="Clinton heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/clinton.svg" alt="Clinton heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1019,7 +1019,7 @@ in last<br />
 <td><span>20 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/wayne.svg" alt="Wayne heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/wayne.svg" alt="Wayne heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1033,7 +1033,7 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1047,7 +1047,7 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/van_buren.svg" alt="Van Buren heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/van_buren.svg" alt="Van Buren heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1061,7 +1061,7 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/671a36ed8a967e21218aaf46b7af97fd9e91aab5/build/heatmaps/nyt_world/usa/usa_26/monroe.svg" alt="Monroe heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/00ea66ab279385a09f83d46c32aed4189c2f88f0/build/heatmaps/nyt_world/usa/usa_26/monroe.svg" alt="Monroe heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>

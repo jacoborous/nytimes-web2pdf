@@ -268,8 +268,8 @@ Scene](/column/anatomy-of-a-scene)
     </div>
 
 2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
-    Ord/Getty Images; Roy Rochlin/Getty Images;
-    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
+    Ord/Getty Images; Roy Rochlin, via Getty
+    Images;</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -396,6 +396,76 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’
+    
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous work.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike
+    Rubin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
+    
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she says.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Concepción de
+    León</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
     
     <div class="css-79elbk">
@@ -424,7 +494,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -459,7 +529,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -493,7 +563,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -529,7 +599,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -563,7 +633,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -596,7 +666,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -633,7 +703,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -654,77 +724,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kristen Yoonsoo
-    Kim</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/music/beyonce-black-is-king.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Beyoncé’s ‘Black Is King’ Is No Secret, but Still Comes With Mystery
-    
-    Her latest project is her first with Disney+: a visual album
-    connected to the music she oversaw for the “Lion King” remake. And
-    as usual, she’s captured fans’ attention by saying little.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben
-    Sisario</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Weekend Roundup</span>
-    
-    ## 7 Things to Do This Weekend
-    
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
-    
-    <div class="css-1nqbnmb ea5icrr0">
+    By <span class="css-1n7hynb">Kristen Yoonsoo Kim</span>
     
     </div>
     

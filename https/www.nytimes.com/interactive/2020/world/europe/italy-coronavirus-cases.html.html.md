@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 4, 2020, 12:26 A.M.
 E.T.
 
 </div>
@@ -314,56 +314,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.32432432432432%; top: 26.71953637334147%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.13978494623656%; top: 26.71953637334147%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 60.378221747750494%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.31182795698925%; top: 61.76823024466764%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -399,7 +399,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-248,070
+248,229
 
 </div>
 
@@ -415,7 +415,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-35,154
+35,166
 
 </div>
 
@@ -450,16 +450,16 @@ available
 
 [Map](#map)[By region and province](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 248,000 confirmed cases of coronavirus in
+There have been at least 248,200 confirmed cases of coronavirus in
 Italy, according to the [Italian Department of Civil
-Protection](https://github.com/pcm-dpc/COVID-19). As of Monday morning,
-35,154 people had
+Protection](https://github.com/pcm-dpc/COVID-19). As of Tuesday morning,
+35,166 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -705,101 +705,101 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Veneto </span></td>
-<td><span>20,211 </span></td>
+<td><span>20,233 </span></td>
 <td><span>412 </span></td>
-<td><span>2,075 </span></td>
+<td><span>2,076 </span></td>
 <td><span>42 </span></td>
-<td><span>402 </span></td>
+<td><span>408 </span></td>
 <td><span>8 </span></td>
-<td><span>11 </span></td>
+<td><span>12 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Emilia-Romagna </span></td>
-<td><span>29,774 </span></td>
+<td><span>29,808 </span></td>
 <td><span>668 </span></td>
 <td><span>4,291 </span></td>
 <td><span>96 </span></td>
-<td><span>252 </span></td>
+<td><span>253 </span></td>
 <td><span>6 </span></td>
 <td><span>6 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Liguria </span></td>
-<td><span>10,236 </span></td>
-<td><span>660 </span></td>
-<td><span>1,567 </span></td>
-<td><span>101 </span></td>
-<td><span>86 </span></td>
-<td><span>6 </span></td>
-<td><span>1 </span></td>
-<td><span>&lt;1 </span></td>
-</tr>
-<tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Marche </span></td>
 <td><span>6,897 </span></td>
 <td><span>452 </span></td>
 <td><span>987 </span></td>
 <td><span>65 </span></td>
-<td><span>72 </span></td>
+<td><span>70 </span></td>
+<td><span>5 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+</tr>
+<tr class="odd">
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Trentino-Alto Adige </span></td>
+<td><span>7,715 </span></td>
+<td><span>719 </span></td>
+<td><span>697 </span></td>
+<td><span>65 </span></td>
+<td><span>49 </span></td>
 <td><span>5 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Trentino-Alto Adige </span></td>
-<td><span>7,707 </span></td>
-<td><span>719 </span></td>
-<td><span>697 </span></td>
-<td><span>65 </span></td>
-<td><span>44 </span></td>
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Liguria </span></td>
+<td><span>10,238 </span></td>
+<td><span>660 </span></td>
+<td><span>1,568 </span></td>
+<td><span>101 </span></td>
+<td><span>64 </span></td>
 <td><span>4 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
+<td><span>2 </span></td>
+<td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Lombardy </span></td>
-<td><span>96,312 </span></td>
-<td><span>957 </span></td>
-<td><span>16,815 </span></td>
+<td><span>96,337 </span></td>
+<td><span>958 </span></td>
+<td><span>16,818 </span></td>
 <td><span>167 </span></td>
-<td><span>391 </span></td>
+<td><span>382 </span></td>
 <td><span>4 </span></td>
-<td><span>14 </span></td>
+<td><span>17 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Friuli Venezia Giulia </span></td>
 <td><span>3,411 </span></td>
 <td><span>281 </span></td>
-<td><span>345 </span></td>
+<td><span>346 </span></td>
 <td><span>28 </span></td>
 <td><span>36 </span></td>
 <td><span>3 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
+<td><span>1 </span></td>
+<td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Molise </span></td>
-<td><span>475 </span></td>
-<td><span>155 </span></td>
+<td><span>477 </span></td>
+<td><span>156 </span></td>
 <td><span>23 </span></td>
 <td><span>8 </span></td>
-<td><span>9 </span></td>
+<td><span>8 </span></td>
 <td><span>3 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Abruzzo </span></td>
-<td><span>3,389 </span></td>
-<td><span>258 </span></td>
-<td><span>472 </span></td>
-<td><span>36 </span></td>
-<td><span>30 </span></td>
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Piedmont </span></td>
+<td><span>31,711 </span></td>
+<td><span>728 </span></td>
+<td><span>4,131 </span></td>
+<td><span>95 </span></td>
+<td><span>101 </span></td>
 <td><span>2 </span></td>
-<td><span>2 </span></td>
+<td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 </tbody>
@@ -904,56 +904,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.32432432432432%; top: 26.71953637334147%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.13978494623656%; top: 26.71953637334147%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 60.378221747750494%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.31182795698925%; top: 61.76823024466764%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1019,56 +1019,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.78378378378378%; top: 20.949432404540772%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.60215053763441%; top: 20.949432404540772%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 57.79153766769866%">
+<div class="pancake-point svelte-11ba04d" style="left: 46.774193548387096%; top: 57.79153766769866%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1333,33 +1333,34 @@ State by
 ## <span class="g-balancer" data-id="14">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
-growing.](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
 It seems that there are [four factors that most likely play a
-role](https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html):
+role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
 how much you touch your face afterwards.
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
-steps](https://www.nytimes.com/article/prepare-for-coronavirus.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show®ion=TOP_BANNER&context=storyline_menu#link-56871453):
+steps](https://www.nytimes.com/article/prepare-for-coronavirus.html):
 
 <div class="g-container g-list-circle">
 
 Keep your distance from others. Stay at least six feet away from people
 outside your household as much as possible.
 
+Wear a mask outside your home. A mask protects others from your germs,
+and it protects you from infection as well. The more people who wear
+masks, the more we all stay safer.
+
 Wash your hands often. Anytime you come in contact with a surface
 outside your home, scrub with soap for at least 20 seconds, rinse and
 then dry your hands with a clean towel.
 
-Avoid touching your face. The virus primarily spreads when contaminated
-hands touch our nose or mouth or eyes. Try to keep your hands away from
-your face unless you have just recently washed them.
-
-Wear a mask outside your home. A mask protects others from any potential
-infection from you. The more people who wear masks, the more we all stay
-safer.
+Avoid touching your face. The virus can spread when our hands come into
+contact with the virus, and we touch our nose, mouth or eyes. Try to
+keep your hands away from your face unless you have just recently washed
+them.
 
 </div>
 

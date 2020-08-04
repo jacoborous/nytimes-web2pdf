@@ -331,7 +331,7 @@ the 1970s.
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Roland
 with his niece in 1954. His mother tried to raise him at home but could
 not cope with his disruptive
-behavior. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>via
+behavior.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>via
 the Johnson
 family</span></span>](https://static01.nyt.com/images/2020/08/03/multimedia/03overlooked-johnson-02/00overlooked-johnson-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 

@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-sports" class="section css-15h4p1b e9abtgs0">
 
@@ -504,6 +528,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Summer Recreation? It’s Backordered
+    
+    Americans seeking outdoor getaways in the pandemic bought up all the
+    pools, tents, kayaks and trampolines.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Herrman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
     
     <div class="css-79elbk">
@@ -534,7 +592,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -569,7 +627,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -604,7 +662,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +698,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -674,7 +732,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -709,7 +767,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -744,7 +802,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -779,7 +837,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -803,42 +861,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Rory
-    Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/31virus-cardinals-print/merlin_175093647_f37c4703-1fdf-4469-aa74-3eefabee1c04-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## St. Louis Cardinals Postpone Game After Two Players Test Positive for Virus
-    
-    Baseball’s outbreak spreads to a third major league clubhouse, but
-    Major League Baseball said the Cardinals’ game on Saturday will go
-    ahead as planned.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler Kepner</span>
+    By <span class="css-1n7hynb">Rory Smith</span>
     
     </div>
     

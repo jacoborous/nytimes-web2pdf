@@ -182,32 +182,57 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Merrick
+    Morton/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbStandard.jpg)](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
     
     </div>
     
-    ### Critic’s Notebook
+    ### Perry Mason
     
-    ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
+    ## [‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
     
-    The Muppets were made of, by and for TV. Two new shows, “Muppets
-    Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO Max,
-    reimagine the media-savvy furry friends for a new
-    age.
+    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
+    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
+    Alice.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Poniewozik</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sean T.
+    Collins</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Critic’s Notebook
+        
+        ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
+        
+        </div>
+        
+        The Muppets were made of, by and for TV. Two new shows, “Muppets
+        Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO
+        Max, reimagine the media-savvy furry friends for a new
+        age.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">James
+        Poniewozik</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -230,29 +255,6 @@ story](#after-sponsor)
         Hale</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
-        Cartwright/ABC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Comfort Viewing: Why I Still Love ‘The Goldbergs’](/2020/07/31/arts/television/goldbergs-abc-stream.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbStandard.jpg)](/2020/07/31/arts/television/goldbergs-abc-stream.html)
-        
-        </div>
-        
-        The period sitcom about a Jewish family in the ’80s has for
-        seven seasons been a weekly gift of old-fashioned
-        zingers.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Noel
-        Murray</span></span>
-        
-        </div>
 
 </div>
 
@@ -260,7 +262,24 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Critic’s notebook
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
+    Cartwright/ABC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Comfort Viewing: Why I Still Love ‘The Goldbergs’](/2020/07/31/arts/television/goldbergs-abc-stream.html)
+    
+    The period sitcom about a Jewish family in the ’80s has for seven
+    seasons been a weekly gift of old-fashioned
+    zingers.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Noel
+    Murray</span></span>
+    
+    </div>
+
+2.  ### Critic’s notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     illustration by Jennifer Ledbury/The New York
@@ -278,24 +297,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Wesley
     Morris</span></span>
-    
-    </div>
-
-2.  ### Watching
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30Watching-Muppets-Now/30Watching-Muppets-Now-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How Much Watching Time Do You Have This Weekend?](/2020/07/30/arts/television/muppets-disney-errol-morris-first-person.html)
-    
-    The Muppets are back; also, check out an excellent but previously
-    hard-to-find Errol Morris
-    docu-series.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Lyons</span></span>
     
     </div>
 
@@ -410,6 +411,78 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04latenight/04latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Best of Late Night</span>
+    
+    ## Seth Meyers: After TikTok, Trump Could Ban Candy Crush
+    
+    “I’m almost certain Trump has no idea what TikTok is. I’m betting
+    TikTok was one of the answers he wrote on his cognitive test,” Seth
+    Meyers joked on Monday’s “Late Night.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Trish
+    Bendix</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
+    
+    Celebrities come together to honor the congressman. And “The Stand:
+    How One Gesture Shook the World” revisits an iconic image from the
+    1968 Summer Olympics.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lauren
+    Messman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/arts/television/whats-on-tv-monday-immigration-nation-and-dora-and-the-lost-city-of-gold.html)
     
     <div class="css-79elbk">
@@ -439,44 +512,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Perry Mason</span>
-    
-    ## ‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday
-    
-    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
-    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
-    Alice.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sean T.
-    Collins</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -510,7 +546,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -545,7 +581,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -579,7 +615,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -613,7 +649,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -650,7 +686,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -684,7 +720,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -705,42 +741,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil
-    Vigdor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Weekend Roundup</span>
-    
-    ## 7 Things to Do This Weekend
-    
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
-    
-    <div class="css-1nqbnmb ea5icrr0">
+    By <span class="css-1n7hynb">Neil Vigdor</span>
     
     </div>
     

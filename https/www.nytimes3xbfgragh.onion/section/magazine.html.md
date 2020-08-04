@@ -339,6 +339,116 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">feature</span>
+    
+    ## Behrouz Boochani Just Wants to Be Free
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/jobs-unemployment-ethics.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Ethicist/09Ethicist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Ethicist</span>
+    
+    ## Is It OK That I Haven’t Told My Parents I Was Fired?
+    
+    The magazine’s Ethicist columnist on why it can be hard to tell
+    family you’ve lost your job, whether to collect unemployment
+    benefits and more.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kwame Anthony
+    Appiah</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/condors-yurok-tribe.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Tip </span>
+    
+    ## How to Keep a Condor Wild
+    
+    Faced with such a strange big bird, you might find yourself
+    nervously talking baby talk. Don’t do that.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Malia
+    Wollan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/magazine/behind-the-cover-environmental-justice.html)
     
     <div class="css-79elbk">
@@ -368,7 +478,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -406,7 +516,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -442,7 +552,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -478,7 +588,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -514,7 +624,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -551,7 +661,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -574,113 +684,7 @@ story](#after-mid1)
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Malia
-    Wollan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/magazine/behind-the-cover-climate-migration.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/magazine/24mag-btc-promo/24mag-btc-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Issue 7.26.20</span>
-    
-    ## Behind the Cover: Climate Migration
-    
-    A look at how the rapidly changing global climate will make more
-    parts of the world less livable, areas where billions of people call
-    home.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24ww2-1948olympics-08/24ww2-1948olympics-08-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Beyond the World War II We know</span>
-    
-    ## At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports
-    
-    The 1948 Summer Games, the first held after the war, were a
-    celebration of improvisation, renewal and change, embodied in a
-    Dutch track star named Fanny Blankers-Koen.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeré
-    Longman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/23/magazine/climate-migration.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/magazine/26mag-Migration-Images/26mag-Migratiion-Images-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Great Climate Migration Has Begun
-    
-    New research suggests climate change will cause humans to move in
-    unprecedented numbers. The Times Magazine partnered with ProPublica
-    and data scientists to understand how.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Abrahm Lustgarten</span>
+    By <span class="css-1n7hynb">Malia Wollan</span>
     
     </div>
     

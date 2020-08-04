@@ -523,6 +523,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/dining/drinks/santa-teresa-rum.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-rum/03burner-rum-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## A Dark, Brooding Rum for Your Cocktails
+    
+    Santa Teresa in Venezuela has been making the liquor since 1796.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/dining/drinks/wine-school-assignment-zinfandel.html)
     
     <div class="css-79elbk">
@@ -554,7 +589,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -564,7 +599,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/08/dining/08Next-a/merlin_173938650_0f69f93f-76ba-44ec-b62a-5dc7c457e5ff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/dining/05Wine-School/05Wine-School-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -590,7 +625,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -633,7 +668,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -667,7 +702,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -704,7 +739,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -740,7 +775,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -775,7 +810,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -809,7 +844,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -830,43 +865,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Robert
-    Simonson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/dining/drinks/wine-school-assignment-verdicchio-di-matelica.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/08/dining/08Next-a/merlin_173938650_0f69f93f-76ba-44ec-b62a-5dc7c457e5ff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Wine School</span>
-    
-    ## Verdicchio di Matelica, to Discover or Revisit
-    
-    Italian whites have long been derided, but many, particularly
-    verdicchios, have the potential to make very good wines.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Eric Asimov</span>
+    By <span class="css-1n7hynb">Robert Simonson</span>
     
     </div>
     

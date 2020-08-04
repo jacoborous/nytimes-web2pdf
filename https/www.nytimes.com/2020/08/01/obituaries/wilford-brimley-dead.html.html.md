@@ -234,7 +234,7 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1,
+    Published Aug. 1, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -243,7 +243,7 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -276,8 +276,8 @@ niche playing cantankerous coots in “Absence of Malice,” “The Natural,”
 “Cocoon” and other films, died on Saturday in a hospital in St.
 George, Utah. He was 85.
 
-He had been sick for two months with a kidney ailment, said his agent,
-Lynda Bensky.
+He had been sick for two months with a kidney ailment, his agent, Lynda
+Bensky, said.
 
 Mr. Brimley had played the Walton Mountain resident Horace Brimley in a
 recurring role on the television series “The Waltons” when Michael
@@ -302,7 +302,7 @@ nearly steals the ending of ‘China Syndrome’ from Jane Fonda.”
 <div class="css-53u6y8">
 
 Mr. Brimley followed up with a small but memorable performance as a
-pugnacious district attorney in [“Absence of
+pugnacious assistant U.S. attorney in [“Absence of
 Malice”](https://www.youtube.com/watch?v=btqBJJF2yvE "Brimley in \"Absence of Malice\"")
 and with supporting roles in “The Natural,” as the put-upon manager of a
 losing baseball team, and “The Firm,” in which he played the sinister
@@ -435,10 +435,8 @@ too.
 
 Mr. Brimley’s first wife, the former Lynne Bagley, died in 2000. He is
 survived by his wife, Beverly, and three sons from his first marriage,
-James, John and William. Another son, Lawrence, died in
-infancy.<span class="css-8l6xbc evw5hdy0"> </span>Complete information
-on other survivors was not immediately
-available.<span class="css-8l6xbc evw5hdy0"> </span>
+James, John and William. Another son, Lawrence, died in infancy.
+Complete information on other survivors was not immediately available.
 
 As Mr. Howard noted, Mr. Brimley came by his
 [cussedness](https://www.youtube.com/watch?v=DLqX7Vi9yT8&list=PLy1Yuw2wBXtCMd3A4mbt2x4Z8ty3S_YFF "Brimley appearance on Craig Ferguson talk show")naturally.
@@ -447,10 +445,10 @@ Mercies,” Mr. Duvall recalled a set-to between Mr. Brimley and the
 director Bruce Beresford, who had made a suggestion about how Mr.
 Brimley might play the role of Harry.
 
-“Now look, let me tell you something, I’m Harry,” he recalled Mr.
+“Now, look, let me tell you something — I’m Harry,” he recalled Mr.
 Brimley telling Mr. Beresford. “Harry’s not over there, Harry’s not over
 here. Until you fire me or get another actor, I’m Harry, and whatever I
-do is fine ‘cause I’m Harry.”
+do is fine ’cause I’m Harry.”
 
 Aimee Ortiz contributed reporting.
 

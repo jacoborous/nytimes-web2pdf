@@ -405,9 +405,9 @@ plans.
 
 <div class="briefing-block-lb-items">
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[6h
+[10h
 ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
@@ -419,9 +419,9 @@ economy.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-co
 
 </div>
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[6h
+[10h
 ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
@@ -433,9 +433,9 @@ Max.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-corona
 
 </div>
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[9h
+[13h
 ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>

@@ -55,8 +55,7 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-realestate" class="section css-15h4p1b e9abtgs0">
 
@@ -848,6 +872,74 @@ story](#after-feat4)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">What I Love</span>
+    
+    ## Harris Faulkner, Working From Home in Shades of Blue
+    
+    The Fox News anchor’s mother gave her some decorating advice: ‘Just
+    make it beautiful.’ And she’s been trying.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Joanne
+    Kaufman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/slideshow/2020/08/04/realestate/things-dont-have-to-be-matchy-matchy-and-other-design-tips-from-harris-faulkners-mom.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Things Don’t Have to Be Matchy-Matchy’ and Other Design Tips From Harris Faulkner’s Mom
+    
+    The Fox News anchor’s mother gave her some decorating advice: ‘Just
+    make it beautiful.’ And she’s been
+    trying.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
     <div class="css-79elbk">
@@ -878,7 +970,7 @@ story](#after-feat4)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -912,7 +1004,7 @@ story](#after-feat4)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -944,7 +1036,7 @@ story](#after-feat4)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -979,7 +1071,7 @@ story](#after-feat4)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1011,7 +1103,7 @@ story](#after-feat4)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1043,7 +1135,7 @@ story](#after-feat4)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1075,7 +1167,7 @@ story](#after-feat4)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1092,77 +1184,7 @@ story](#after-feat4)
     ## On the Market in New York City
     
     This week’s properties are on in Greenwich Village, Cobble Hill and
-    on the Grand
-    Concourse.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/realestate/29IHH-NOVASCOTIA-slide-A0QU/29IHH-NOVASCOTIA-slide-A0QU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">International real estate</span>
-    
-    ## House Hunting in Nova Scotia: A Sprawling Seaside Villa for $2 Million
-    
-    The eastern Canadian province has managed to make up for the loss of
-    foreign buyers with more domestic transactions, staving off the
-    worst of the pandemic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alison
-    Gregor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/slideshow/2020/07/29/realestate/cape-cod-style-on-the-shores-of-nova-scotia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/29IHH-NOVASCOTIA-slide-CTJD/29IHH-NOVASCOTIA-slide-CTJD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Cape Cod Style on the Shores of Nova Scotia
-    
-    This five-bedroom seaside mansion, perched on a headland jutting
-    into Mahone Bay in Nova Scotia, Canada, is on the market for $2
-    million.
+    on the Grand Concourse.
     
     <div class="css-1nqbnmb ea5icrr0">
     

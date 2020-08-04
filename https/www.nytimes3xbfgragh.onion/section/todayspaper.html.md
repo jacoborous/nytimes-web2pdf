@@ -305,7 +305,7 @@ The Times in Print For
     
     ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/merlin_173915181_07142141-4223-42e6-bdb1-c68e7074a504-jumbo.jpg?quality=75&auto=webp&disable=upscale)
     
-    ## When Covid Subsided, Israel Reopened its Schools. It Didn’t Go Well.
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
     
     As countries consider back-to-school strategies for the fall, a
     coronavirus outbreak at a Jerusalem high school offers a cautionary
@@ -772,7 +772,7 @@ story](#after-mid1)
     
     [](/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
     
-    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic
+    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic
     
     <div class="css-9t0aj2 ea5icrr0">
     

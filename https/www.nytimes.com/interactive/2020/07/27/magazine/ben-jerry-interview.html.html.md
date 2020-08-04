@@ -103,7 +103,7 @@ Marchese</span>July 27,
     
     </div>
 
-  - *<span class="css-1dtr3u3">268</span>*
+  - *<span class="css-1dtr3u3">288</span>*
 
 </div>
 
@@ -125,7 +125,7 @@ supremacy.”
 </div>
 
 ![Close
-X](https://static01.nyt.com/newsgraphics/2020/07/09/talk/7eacc22702301977b10bd72218f39c2ef6f0c472/close.svg)
+X](https://static01.nyt.com/newsgraphics/2020/07/09/talk/a28b9c874788a9e2b60f2798087577317201a315/close.svg)
 
 </div>
 
@@ -274,7 +274,7 @@ and justice.
 
 <div class="g-ad rad-ad-wrapper">
 
-<div id="mid2" class="place-ad" data-position="mid">
+<div id="mid10" class="place-ad" data-position="mid">
 
 </div>
 
@@ -368,7 +368,7 @@ companies wanted to give me some ice cream, I would be all for it.
 
 <div class="g-ad rad-ad-wrapper">
 
-<div id="mid3" class="place-ad" data-position="mid">
+<div id="mid11" class="place-ad" data-position="mid">
 
 </div>
 
@@ -476,7 +476,7 @@ kick out of that.
 
 <div class="g-ad rad-ad-wrapper">
 
-<div id="mid4" class="place-ad" data-position="mid">
+<div id="mid12" class="place-ad" data-position="mid">
 
 </div>
 
@@ -538,7 +538,7 @@ conversations.*
 
 <div class="css-1oeie6n">
 
-Read 268
+Read 288
 Comments
 
 </div>

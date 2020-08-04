@@ -236,7 +236,7 @@ Ms. Nir is a Metro reporter.
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -406,7 +406,7 @@ fighting. I lay still.
 
 The man in my bedroom smelled like smoke amplified, like a thousand
 stubbed-out Marlboros. He wanted cash, jewels, electronics, stuff, he
-told me, and instructed me to lay prone as he ransacked my home. I would
+told me, and instructed me to lie prone as he ransacked my home. I would
 survive, I decided, by being the most helpful victim of all time.
 
 Confined to my bed, as he rooted around I told him how to find

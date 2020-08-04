@@ -172,6 +172,37 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/business/a-project-in-kentucky-aims-to-show-how-home-lending-can-build-wealth.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03-markets-brf-smallmortgages1/merlin_174909516_3093d403-6a93-4573-bf2a-504fdcd6ab76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A project in Kentucky aims to show how home lending can build wealth.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/business/mortgages-affordable-housing.html)
     
     <div class="css-79elbk">
@@ -201,7 +232,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +268,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +303,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +338,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +373,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -377,7 +408,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -412,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -467,41 +498,6 @@ story](#after-mid1)
     The attorney general there said her office needed more information
     about $39 million in transactions involving a small bank set up by
     Jeffrey Epstein.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew
-    Goldstein</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/11/business/goldman-sachs-1mdb-malaysia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/11/business/11goldmantalks1/merlin_168041151_f412add9-39c7-449c-81d6-bca7e6187ed3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Goldman Sachs Is Said to Try to Avoid Pleading Guilty in 1MDB Scandal
-    
-    The bank has asked the U.S. to review demands that any settlement
-    include a guilty plea to a felony charge, according to people
-    briefed on the matter.
     
     <div class="css-1nqbnmb ea5icrr0">
     

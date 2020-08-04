@@ -136,14 +136,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -239,7 +239,7 @@ Upshot
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated July 29, 2020, 8:47 A.M.
+Times</span>Updated Aug. 3, 2020, 8:11 A.M.
 E.T.
 
 </div>
@@ -374,38 +374,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 61.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 81.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 91%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 88.06451612903226%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 26.666666666666664%; top: 58.111191422947506%">
+<div class="pancake-point svelte-11ba04d" style="left: 25.806451612903224%; top: 58.111191422947506%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -476,31 +482,37 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 61.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 81.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 80.33333333333333%; top: 52.76162790697674%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 77.74193548387096%; top: 52.76162790697674%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Many
 deaths from unspecified
@@ -508,14 +520,14 @@ days</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 43.666666666666664%; top: 1.5988372093023173%">
+<div class="pancake-point svelte-11ba04d" style="left: 42.25806451612903%; top: 1.5988372093023173%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 17.333333333333332%; top: 92.24979235880399%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.774193548387096%; top: 92.24979235880399%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -639,38 +651,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 61.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 81.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 36.33333333333333%; top: 25.686059275521416%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 35.16129032258065%; top: 25.686059275521416%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 48.666666666666664%; top: 82.17901137769414%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.74193548387097%; top: 83.53370620110466%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -752,38 +770,44 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 40.666666666666664%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 61.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 81.33333333333333%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77%; top: 8.173076923076934%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Aug.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 74.51612903225806%; top: 8.173076923076934%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 28%; top: 33.714896214896214%">
+<div class="pancake-point svelte-11ba04d" style="left: 27.096774193548388%; top: 33.714896214896214%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -869,81 +893,81 @@ Per 1,000
 
 Lake City, Fla.
 
-flattening
+flat or decreasing
 
-1,661
+1,327
 
-23.56
+18.82
 
 2
-
-Bakersfield, Calif.
-
-flattening
-
-11,186
-
-12.47
-
-3
-
-Miami
-
-flat or decreasing
-
-68,711
-
-11.08
-
-4
-
-Lake Charles, La.
-
-flat or decreasing
-
-2,316
-
-11.02
-
-5
 
 Brownsville-Harlingen, Texas
 
 still growing
 
-4,602
+6,186
 
-10.86
+14.59
 
-6
+3
 
 Rio Grande City, Texas
 
-flattening
+still growing
 
-698
+851
 
-10.82
+13.19
 
-7
+4
+
+Bakersfield, Calif.
+
+flat or decreasing
+
+11,546
+
+12.88
+
+5
 
 Eagle Pass, Texas
 
 flat or decreasing
 
-614
+683
 
-10.50
+11.68
 
-8
+6
+
+Lake Charles, La.
+
+flat or decreasing
+
+2,253
+
+10.72
+
+7
 
 Victoria, Texas
 
 flat or decreasing
 
-1,007
+1,064
 
-10.11
+10.68
+
+8
+
+Miami
+
+flat or decreasing
+
+65,587
+
+10.58
 
 9
 
@@ -951,79 +975,79 @@ Corpus Christi, Texas
 
 flat or decreasing
 
-4,302
+4,453
 
-9.50
+9.83
 
 10
-
-Opelousas, La.
-
-flat or decreasing
-
-783
-
-9.46
-
-11
 
 Panama City, Fla.
 
 flat or decreasing
 
-1,880
+1,911
 
-9.33
+9.49
+
+11
+
+Opelousas, La.
+
+flat or decreasing
+
+746
+
+9.01
 
 12
+
+Laredo, Texas
+
+flat or decreasing
+
+2,461
+
+8.92
+
+13
 
 Yuma, Ariz.
 
 flat or decreasing
 
-1,943
+1,847
 
-9.16
-
-13
-
-Pensacola-Ferry Pass, Fla.
-
-flat or decreasing
-
-4,300
-
-8.69
+8.71
 
 14
-
-McAllen, Texas
-
-flat or decreasing
-
-7,495
-
-8.66
-
-15
 
 Hermiston-Pendleton, Ore.
 
 flat or decreasing
 
-763
+766
 
-8.58
+8.62
 
-523
+15
+
+Hanford-Corcoran, Calif.
+
+still growing
+
+1,173
+
+7.75
+
+529
 
 New York City area
 
 flat or decreasing
 
-9,768
+10,289
 
-0.49
+0.51
 
 <div class="bands svelte-1luzxc9">
 
@@ -1089,89 +1113,89 @@ Brownsville-Harlingen, Texas
 
 still growing
 
-197
+250
 
-0.46
+0.59
 
 2
-
-McAllen, Texas
-
-flattening
-
-348
-
-0.40
-
-3
-
-Yuma, Ariz.
-
-flat or decreasing
-
-79
-
-0.37
-
-4
-
-Gallup, N.M.
-
-flat or decreasing
-
-24
-
-0.33
-
-5
 
 Rio Grande City, Texas
 
 flat or decreasing
 
-21
+35
 
-0.33
+0.54
+
+3
+
+McAllen, Texas
+
+flat or decreasing
+
+372
+
+0.43
+
+4
+
+Yuma, Ariz.
+
+flat or decreasing
+
+75
+
+0.35
+
+5
+
+El Centro, Calif.
+
+still growing
+
+59
+
+0.32
 
 6
+
+Gallup, N.M.
+
+flat or decreasing
+
+22
+
+0.30
+
+7
 
 Show Low, Ariz.
 
 flat or decreasing
 
-34
+32
 
-0.31
-
-7
-
-Mason City, Iowa
-
-flattening
-
-15
-
-0.30
+0.29
 
 8
 
-Eagle Pass, Texas
+LaGrange, Ga.
 
 still growing
 
-16
+20
 
-0.27
+0.29
 
 9
 
-El Centro, Calif.
+Corpus Christi, Texas
 
-flat or decreasing
+still growing
 
-47
+128
 
-0.26
+0.28
 
 10
 
@@ -1179,69 +1203,69 @@ Orangeburg, S.C.
 
 flat or decreasing
 
-22
+23
 
-0.25
+0.26
 
 11
 
-Laredo, Texas
+Lufkin, Texas
 
 still growing
 
-69
+23
 
-0.25
+0.26
 
 12
 
-Corpus Christi, Texas
-
-still growing
-
-111
-
-0.25
-
-13
-
-Lufkin, Texas
-
-flat or decreasing
-
-19
-
-0.22
-
-14
-
-LaGrange, Ga.
+Gaffney, S.C.
 
 flat or decreasing
 
 15
 
-0.21
+0.26
+
+13
+
+Columbus, Miss.
+
+still growing
+
+15
+
+0.25
+
+14
+
+Payson, Ariz.
+
+still growing
+
+13
+
+0.24
 
 15
 
 Victoria, Texas
 
-still growing
+flat or decreasing
 
-21
+24
 
-0.21
+0.24
 
-316
+407
 
 New York City area
 
 flat or decreasing
 
-349
+212
 
-0.02
+0.01
 
 <div class="bands svelte-1luzxc9">
 
@@ -1350,163 +1374,163 @@ Change per 100k
 
 1
 
-Palestine, Texas
+Lake City, Fla.
 
-943
+1,647
 
-245
+1,327
 
-\-1202
+\-454
 
 2
 
-Huntsville, Texas
+San Angelo, Texas
 
-592
+1,256
 
-293
+882
 
-\-343
+\-312
 
 3
 
-Ontario, Ore.
+Huntsville, Texas
 
-405
+523
 
-257
+266
 
-\-273
+\-295
 
 4
 
-Victoria, Texas
+Waycross, Ga.
 
-1,265
+455
 
-1,007
+299
 
-\-259
+\-283
 
 5
 
-Show Low, Ariz.
+San Antonio
 
-862
+18,177
 
-624
+11,315
 
-\-215
+\-273
 
 6
 
-Charleston, S.C.
+Palestine, Texas
 
-6,111
+344
 
-4,637
+192
 
-\-187
+\-262
 
 7
 
-Morgantown, W.Va.
+Show Low, Ariz.
 
-482
+741
 
-249
+470
 
-\-166
+\-245
 
 8
 
-Scottsboro, Ala.
+McAllen, Texas
 
-283
+7,171
 
-202
+5,090
 
-\-157
+\-240
 
 9
 
-Cape Coral-Ft.Myers, Fla.
+El Centro, Calif.
 
-5,266
+1,240
 
-4,085
+878
 
-\-157
+\-199
 
 10
 
-Greenwood, S.C.
+Charleston, S.C.
 
-559
+5,241
 
-417
+3,756
 
-\-149
+\-189
 
 11
 
-Athens, Ohio
+Cape Coral-Ft.Myers, Fla.
 
-221
+4,292
 
-125
+2,963
 
-\-146
+\-176
 
 12
 
 Naples-Marco Island, Fla.
 
-2,875
+2,575
 
-2,338
+1,919
 
-\-142
+\-173
 
 13
 
-Corpus Christi, Texas
+Victoria, Texas
 
-4,931
+1,232
 
-4,302
+1,064
 
-\-139
+\-169
 
 14
 
-Dubuque, Iowa
+Lafayette, La.
 
-495
+4,417
 
-362
+3,649
 
-\-137
+\-157
 
 15
 
-Austin, Texas
+Orlando, Fla.
 
-9,310
+15,804
 
-6,567
+11,840
 
-\-127
+\-154
 
-216
+290
 
 New York City area
 
-9,428
+9,795
 
-9,768
+10,289
 
-1.7
+2.5
 
 <div class="bands svelte-1luzxc9">
 
@@ -1562,163 +1586,163 @@ Change per 100k
 
 1
 
-Marshall, Texas
-
-3
-
-\-8
-
-\-16.5
-
-2
-
-Nacogdoches, Texas
-
-9
-
-1
-
-\-12.2
-
-3
-
-Payson, Ariz.
-
-13
-
-7
-
-\-11.1
-
-4
-
-Yakima, Wash.
-
-39
-
-20
-
-\-7.6
-
-5
-
-Oxford, N.C.
-
-4
-
-0
-
-\-6.7
-
-6
-
-Farmington, N.M.
-
-11
-
-5
-
-\-4.8
-
-7
-
-Monroe, La.
-
-21
-
-13
-
-\-4.5
-
-8
-
-Natchez, Miss.
-
-5
-
-3
-
-\-3.9
-
-9
-
-Wilson, N.C.
-
-5
-
-2
-
-\-3.7
-
-10
-
-Vicksburg, Miss.
-
-5
-
-3
-
-\-3.6
-
-11
-
-Allentown, Pa.
-
-47
+St. George, Utah
 
 18
 
-\-3.4
+3
 
-12
-
-Harrisonburg, Va.
-
-6
+\-8.7
 
 2
 
-\-3.0
+Prescott, Ariz.
+
+40
+
+24
+
+\-6.9
+
+3
+
+Nacogdoches, Texas
+
+5
+
+1
+
+\-6.1
+
+4
+
+Eagle Pass, Texas
+
+16
 
 13
 
-Elkhart, Ind.
+\-5.1
 
-17
+5
+
+San Angelo, Texas
+
+15
+
+9
+
+\-5.0
+
+6
+
+Russellville, Ark.
 
 11
 
-\-2.9
+7
 
-14
+\-4.7
 
-Reno, Nev.
+7
+
+Orangeburg, S.C.
+
+27
 
 23
 
+\-4.6
+
+8
+
+Ocean City, N.J.
+
+9
+
+5
+
+\-4.3
+
+9
+
+Montgomery, Ala.
+
+46
+
+30
+
+\-4.3
+
 10
+
+McComb, Miss.
+
+10
+
+8
+
+\-3.9
+
+11
+
+Yakima, Wash.
+
+17
+
+9
+
+\-3.2
+
+12
+
+Albertville, Ala.
+
+15
+
+12
+
+\-3.1
+
+13
+
+Harrisonburg, Va.
+
+5
+
+1
+
+\-3.0
+
+14
+
+Gallup, N.M.
+
+24
+
+22
 
 \-2.8
 
 15
 
-Atlantic City, N.J.
+Goldsboro, N.C.
 
-16
+6
 
-9
+3
 
-\-2.6
+\-2.4
 
-45
+47
 
 New York City area
 
-571
+391
 
-349
+212
 
-\-1.1
+\-0.9
 
 <div class="bands svelte-1luzxc9">
 
@@ -1810,29 +1834,29 @@ Gallup, N.M.
 
 72,290
 
-3,934
+4,002
 
-54.42
+55.36
 
 2
-
-El Centro, Calif.
-
-181,827
-
-9,189
-
-50.54
-
-3
 
 Yuma, Ariz.
 
 212,128
 
-10,574
+11,148
 
-49.85
+52.55
+
+3
+
+El Centro, Calif.
+
+181,827
+
+9,409
+
+51.75
 
 4
 
@@ -1840,9 +1864,9 @@ Show Low, Ariz.
 
 110,445
 
-5,106
+5,271
 
-46.23
+47.73
 
 5
 
@@ -1850,9 +1874,9 @@ Marion, Ohio
 
 65,256
 
-2,836
+2,875
 
-43.46
+44.06
 
 6
 
@@ -1860,9 +1884,9 @@ Yakima, Wash.
 
 251,446
 
-10,268
+10,557
 
-40.84
+41.99
 
 7
 
@@ -1870,9 +1894,9 @@ Palestine, Texas
 
 58,057
 
-2,162
+2,209
 
-37.24
+38.05
 
 8
 
@@ -1880,39 +1904,39 @@ Sioux City, Iowa
 
 169,045
 
-6,121
+6,238
 
-36.21
+36.90
 
 9
-
-Huntsville, Texas
-
-87,220
-
-2,866
-
-32.86
-
-10
 
 Lake City, Fla.
 
 70,503
 
-2,285
+2,572
 
-32.41
+36.48
 
-11
+10
 
 Miami
 
 6.2 mil.
 
-193,604
+214,888
 
-31.23
+34.67
+
+11
+
+Huntsville, Texas
+
+87,220
+
+2,949
+
+33.81
 
 12
 
@@ -1920,29 +1944,29 @@ Victoria, Texas
 
 99,619
 
-3,033
+3,366
 
-30.45
+33.79
 
 13
 
-LaGrange, Ga.
+Rio Grande City, Texas
 
-70,034
+64,525
 
-2,109
+2,117
 
-30.11
+32.81
 
 14
 
-Albertville, Ala.
+Eagle Pass, Texas
 
-96,109
+58,485
 
-2,760
+1,852
 
-28.72
+31.67
 
 15
 
@@ -1950,19 +1974,19 @@ Lake Charles, La.
 
 210,080
 
-5,866
+6,607
 
-27.92
+31.45
 
-20
+26
 
 New York City area
 
 20.0 mil.
 
-529,197
+532,922
 
-26.49
+26.67
 
 <div class="bands svelte-1luzxc9">
 
@@ -2028,9 +2052,9 @@ Gallup, N.M.
 
 72,290
 
-216
+221
 
-2.99
+3.06
 
 2
 
@@ -2038,29 +2062,29 @@ New York City area
 
 20.0 mil.
 
-43,653
+43,675
 
-2.18
+2.19
 
 3
-
-Trenton-Princeton, N.J.
-
-369,811
-
-612
-
-1.65
-
-4
 
 Show Low, Ariz.
 
 110,445
 
-179
+188
 
-1.62
+1.70
+
+4
+
+Trenton-Princeton, N.J.
+
+369,811
+
+616
+
+1.67
 
 5
 
@@ -2068,9 +2092,9 @@ Albany, Ga.
 
 153,009
 
-243
+246
 
-1.59
+1.61
 
 6
 
@@ -2078,7 +2102,7 @@ Fairfield County, Conn.
 
 943,823
 
-1,403
+1,406
 
 1.49
 
@@ -2088,9 +2112,9 @@ Farmington, N.M.
 
 125,043
 
-178
+181
 
-1.42
+1.45
 
 8
 
@@ -2098,7 +2122,7 @@ Hartford, Conn.
 
 1.2 mil.
 
-1,665
+1,669
 
 1.38
 
@@ -2108,9 +2132,9 @@ Milledgeville, Ga.
 
 53,171
 
-71
+72
 
-1.34
+1.35
 
 10
 
@@ -2118,9 +2142,9 @@ Springfield, Mass.
 
 631,761
 
-816
+825
 
-1.29
+1.31
 
 11
 
@@ -2128,7 +2152,7 @@ New Haven, Conn.
 
 857,620
 
-1,099
+1,101
 
 1.28
 
@@ -2138,39 +2162,39 @@ Meridian, Miss.
 
 100,948
 
-125
+128
+
+1.27
+
+13
+
+Yuma, Ariz.
+
+212,128
+
+263
 
 1.24
 
-13
+14
 
 Boston
 
 4.9 mil.
 
-5,973
+6,034
 
-1.23
-
-14
-
-New Orleans
-
-1.3 mil.
-
-1,470
-
-1.16
+1.24
 
 15
 
-Detroit
+El Centro, Calif.
 
-4.3 mil.
+181,827
 
-4,980
+219
 
-1.15
+1.20
 
 <div class="bands svelte-1luzxc9">
 

@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 Por <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M. E.T.
+Times</span>Updated August 3, 2020, 6:07 P.M. E.T.
 
 </div>
 
@@ -317,11 +317,11 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 40.331992792104735%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">50.000
+<span class="count-label svelte-bw547y">5.000
 casos</span>
 
 </div>
@@ -330,50 +330,50 @@ casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2658227848101267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2738853503184713%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Marzo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.88607594936709%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.019108280254777%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Abril</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.87341772151899%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.12738853503185%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Mayo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.493670886075954%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.87261146496815%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Junio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.48101265822785%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.98089171974522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Julio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.10126582278481%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.72611464968152%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Ago.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.05063291139241%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.40764331210191%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">Nuevos
 casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.24050632911393%; top: 98.70588616367105%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">Promedio
 de 7 días</span>
@@ -406,7 +406,7 @@ Total de casos
 
 <div class="num svelte-9rb9hv">
 
-522.843
+522.165
 
 </div>
 
@@ -422,7 +422,7 @@ Muertes
 
 <div class="num svelte-9rb9hv">
 
-48.012
+47.746
 
 </div>
 
@@ -463,10 +463,10 @@ casos](#cases)[Consejos](#tips)[Últimas noticias
 
 </div>
 
-Ha habido por lo menos 522.800 casos confirmados de coronavirus en
+Ha habido por lo menos 522.100 casos confirmados de coronavirus en
 México, según el [Consejo Nacional de Ciencia y
-Tecnología](https://coronavirus.gob.mx/datos/). Hasta el martes en la
-mañana, 48.012 personas habían
+Tecnología](https://coronavirus.gob.mx/datos/). Hasta el lunes en la
+noche, 47.746 personas habían
 muerto.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -698,114 +698,114 @@ los últimos<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><span>Tamaulipas </span></td>
-<td><span>22,068 </span></td>
-<td><span>641 </span></td>
-<td><span>1,013 </span></td>
-<td><span>29 </span></td>
-<td><span>8,356 </span></td>
-<td><span>243 </span></td>
-<td><span>133 </span></td>
-<td><span>4 </span></td>
-</tr>
-<tr class="even">
-<td><span>San Luis Potosí </span></td>
-<td><span>14,072 </span></td>
-<td><span>518 </span></td>
-<td><span>545 </span></td>
-<td><span>20 </span></td>
-<td><span>6,148 </span></td>
-<td><span>226 </span></td>
-<td><span>141 </span></td>
-<td><span>5 </span></td>
-</tr>
-<tr class="odd">
-<td><span>Ciudad de México </span></td>
-<td><span>89,333 </span></td>
-<td><span>1,002 </span></td>
-<td><span>7,295 </span></td>
-<td><span>82 </span></td>
-<td><span>20,035 </span></td>
-<td><span>225 </span></td>
-<td><span>218 </span></td>
-<td><span>2 </span></td>
-</tr>
-<tr class="even">
-<td><span>Coahuila </span></td>
-<td><span>16,541 </span></td>
-<td><span>560 </span></td>
-<td><span>673 </span></td>
-<td><span>23 </span></td>
-<td><span>5,054 </span></td>
-<td><span>171 </span></td>
-<td><span>95 </span></td>
-<td><span>3 </span></td>
-</tr>
-<tr class="odd">
 <td><span>Baja California Sur </span></td>
-<td><span>5,121 </span></td>
-<td><span>719 </span></td>
+<td><span>5,175 </span></td>
+<td><span>727 </span></td>
 <td><span>182 </span></td>
 <td><span>26 </span></td>
-<td><span>1,213 </span></td>
-<td><span>170 </span></td>
-<td><span>34 </span></td>
-<td><span>5 </span></td>
+<td><span>1,080 </span></td>
+<td><span>152 </span></td>
+<td><span>57 </span></td>
+<td><span>8 </span></td>
 </tr>
 <tr class="even">
 <td><span>Tabasco </span></td>
-<td><span>23,842 </span></td>
-<td><span>995 </span></td>
-<td><span>2,011 </span></td>
+<td><span>23,751 </span></td>
+<td><span>992 </span></td>
+<td><span>2,002 </span></td>
 <td><span>84 </span></td>
-<td><span>3,861 </span></td>
-<td><span>161 </span></td>
-<td><span>180 </span></td>
-<td><span>8 </span></td>
+<td><span>3,417 </span></td>
+<td><span>143 </span></td>
+<td><span>294 </span></td>
+<td><span>12 </span></td>
 </tr>
 <tr class="odd">
-<td><span>Estado de México </span></td>
-<td><span>74,486 </span></td>
-<td><span>460 </span></td>
-<td><span>8,272 </span></td>
-<td><span>51 </span></td>
-<td><span>24,373 </span></td>
-<td><span>151 </span></td>
-<td><span>463 </span></td>
-<td><span>3 </span></td>
+<td><span>Tamaulipas </span></td>
+<td><span>21,977 </span></td>
+<td><span>639 </span></td>
+<td><span>1,012 </span></td>
+<td><span>29 </span></td>
+<td><span>4,808 </span></td>
+<td><span>140 </span></td>
+<td><span>216 </span></td>
+<td><span>6 </span></td>
 </tr>
 <tr class="even">
-<td><span>Sonora </span></td>
-<td><span>20,565 </span></td>
-<td><span>721 </span></td>
-<td><span>1,976 </span></td>
-<td><span>69 </span></td>
-<td><span>3,948 </span></td>
-<td><span>139 </span></td>
-<td><span>240 </span></td>
-<td><span>8 </span></td>
+<td><span>San Luis Potosí </span></td>
+<td><span>14,156 </span></td>
+<td><span>521 </span></td>
+<td><span>530 </span></td>
+<td><span>20 </span></td>
+<td><span>3,419 </span></td>
+<td><span>126 </span></td>
+<td><span>177 </span></td>
+<td><span>7 </span></td>
+</tr>
+<tr class="odd">
+<td><span>Yucatán </span></td>
+<td><span>10,813 </span></td>
+<td><span>516 </span></td>
+<td><span>887 </span></td>
+<td><span>42 </span></td>
+<td><span>2,320 </span></td>
+<td><span>111 </span></td>
+<td><span>138 </span></td>
+<td><span>7 </span></td>
+</tr>
+<tr class="even">
+<td><span>Coahuila </span></td>
+<td><span>16,468 </span></td>
+<td><span>557 </span></td>
+<td><span>663 </span></td>
+<td><span>22 </span></td>
+<td><span>2,975 </span></td>
+<td><span>101 </span></td>
+<td><span>138 </span></td>
+<td><span>5 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Nuevo León </span></td>
-<td><span>22,223 </span></td>
+<td><span>22,230 </span></td>
 <td><span>434 </span></td>
-<td><span>1,143 </span></td>
+<td><span>1,136 </span></td>
 <td><span>22 </span></td>
-<td><span>6,710 </span></td>
-<td><span>131 </span></td>
-<td><span>218 </span></td>
-<td><span>4 </span></td>
+<td><span>5,142 </span></td>
+<td><span>100 </span></td>
+<td><span>318 </span></td>
+<td><span>6 </span></td>
 </tr>
 <tr class="even">
-<td><span>Tlaxcala </span></td>
-<td><span>5,673 </span></td>
-<td><span>446 </span></td>
-<td><span>718 </span></td>
-<td><span>56 </span></td>
-<td><span>1,390 </span></td>
-<td><span>109 </span></td>
-<td><span>74 </span></td>
-<td><span>6 </span></td>
+<td><span>Ciudad de México </span></td>
+<td><span>89,526 </span></td>
+<td><span>1,004 </span></td>
+<td><span>7,263 </span></td>
+<td><span>81 </span></td>
+<td><span>8,446 </span></td>
+<td><span>95 </span></td>
+<td><span>342 </span></td>
+<td><span>4 </span></td>
+</tr>
+<tr class="odd">
+<td><span>Quintana Roo </span></td>
+<td><span>8,582 </span></td>
+<td><span>572 </span></td>
+<td><span>1,019 </span></td>
+<td><span>68 </span></td>
+<td><span>1,411 </span></td>
+<td><span>94 </span></td>
+<td><span>148 </span></td>
+<td><span>10 </span></td>
+</tr>
+<tr class="even">
+<td><span>Guanajuato </span></td>
+<td><span>23,811 </span></td>
+<td><span>407 </span></td>
+<td><span>1,014 </span></td>
+<td><span>17 </span></td>
+<td><span>5,452 </span></td>
+<td><span>93 </span></td>
+<td><span>192 </span></td>
+<td><span>3 </span></td>
 </tr>
 </tbody>
 </table>
@@ -855,44 +855,11 @@ reúnen.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 76.13279711684189%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">20.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 52.265594233683785%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">40.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 28.398391350525685%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">60.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 4.531188467367571%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">80.000
+<span class="count-label svelte-bw547y">5.000
 casos</span>
 
 </div>
@@ -901,50 +868,50 @@ casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2658227848101267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2738853503184713%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Marzo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.88607594936709%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.019108280254777%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Abril</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.87341772151899%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.12738853503185%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Mayo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.493670886075954%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.87261146496815%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Junio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.48101265822785%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.98089171974522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Julio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.10126582278481%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.72611464968152%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Ago.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.05063291139241%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.40764331210191%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">Nuevos
 casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.24050632911393%; top: 98.70588616367105%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">Promedio
 de 7 días</span>
@@ -1018,50 +985,50 @@ muertes</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.2658227848101267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.2738853503184713%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Marzo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.88607594936709%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 21.019108280254777%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Abril</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.87341772151899%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.12738853503185%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Mayo</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.493670886075954%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.87261146496815%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Junio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.48101265822785%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.98089171974522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Julio</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.10126582278481%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.72611464968152%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Ago.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.44303797468355%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.828025477707%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">Nuevas
 muertes</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 24.050632911392405%; top: 98.62511457378552%">
+<div class="pancake-point svelte-11ba04d" style="left: 24.203821656050955%; top: 98.62511457378552%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">Promedio
 de 7 días</span>

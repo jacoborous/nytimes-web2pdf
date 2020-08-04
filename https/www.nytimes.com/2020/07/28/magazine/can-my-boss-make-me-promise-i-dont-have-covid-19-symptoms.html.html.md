@@ -145,14 +145,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -349,42 +349,41 @@ comply.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T02:56:59.742Z
+Updated 2020-08-04T07:33:06.428Z
 
 </div>
 
 </div>
 
-  - [The U.S. reels as July cases more than double the total of any
-    other
-    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
-  - [Top U.S. officials work to break an impasse over the federal
-    jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
+  - [Fauci defends Birx after she is criticized by
+    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
+  - [Trump derides Democrats as lawmakers and administration officials
+    try to break stimulus
+    impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
+  - [The deadline for 2020 census counting has been moved up by a
+    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -476,7 +475,7 @@ too.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -488,7 +487,40 @@ too.
 
 #### Frequently Asked Questions
 
-Updated July 27, 2020
+Updated August 3, 2020
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes.com/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes.com/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
 
   - #### Should I refinance my mortgage?
     
@@ -551,34 +583,7 @@ Updated July 27, 2020
         Health
         Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
 
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes.com/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 

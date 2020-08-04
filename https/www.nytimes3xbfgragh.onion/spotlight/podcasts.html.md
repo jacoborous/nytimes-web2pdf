@@ -167,16 +167,18 @@ story](#after-subheader)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-copy-jumbo-v3.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/24/business/03daily/24michigan-arrest1-jumbo.jpg)
     
     <div class="css-gjijuv">
     
     ### The Daily
     
-    ## [The Sunday Read: ‘On Female Rage’](/2020/08/02/podcasts/the-daily/on-female-rage.html)
+    ## [Wrongfully Accused by an Algorithm](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
     
-    “I used to insist I didn’t get angry. Not
-    anymore.”
+    In what may be the first known case of its kind, a faulty facial
+    recognition match led to a Michigan man’s arrest for a crime he did
+    not
+    commit.
     
     <span class="css-me3p27"></span>
     
@@ -265,7 +267,20 @@ story](#after-mid1)
 [More in The Daily
     »](/column/the-daily)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Sunday Read: ‘On Female Rage’](/2020/08/02/podcasts/the-daily/on-female-rage.html)
+    
+    “I used to insist I didn’t get angry. Not
+    anymore.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -279,7 +294,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -292,7 +307,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -307,28 +322,14 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/28daily/23virus-uiexplain1-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/28daily/23virus-uiexplain1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ## [Why $600 Checks Are Tearing Republicans Apart](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
     
     As Republicans consider whether to extend weekly payments for those
-    without work during the pandemic, the election looms
-    large.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/27daily-hospitals/merlin_172404552_f4e79cbc-7bf0-488a-a220-9f945e56e065-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Mistakes New York Made](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
-    
-    An investigation into hospitals during the peak of the city’s
-    coronavirus outbreak exposed significant disparities in health care.
+    without work during the pandemic, the election looms large.
     
     <span class="css-me3p27"></span>
     
@@ -945,6 +946,38 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/27daily-hospitals/merlin_172404552_f4e79cbc-7bf0-488a-a220-9f945e56e065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Mistakes New York Made
+    
+    An investigation into hospitals during the peak of the city’s
+    coronavirus outbreak exposed significant disparities in health
+    care.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/26/podcasts/the-daily/the-accusation-the-sunday-read.html)
     
     <div class="css-79elbk">
@@ -970,7 +1003,7 @@ story](#after-mid4)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1005,7 +1038,7 @@ story](#after-mid4)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1037,7 +1070,7 @@ story](#after-mid4)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1070,7 +1103,7 @@ story](#after-mid4)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1101,7 +1134,7 @@ story](#after-mid4)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1118,39 +1151,7 @@ story](#after-mid4)
     ## The Science of School Reopenings
     
     Several countries have found ways to reopen schools safely. But can
-    the United
-    States?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/podcasts/the-daily/coronavirus-vaccine.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/science/21daily/00VIRUS-VAX-DOUBTS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Vaccine Trust Problem
-    
-    Why developing a coronavirus vaccine may be easier than persuading
-    people to get it.
+    the United States?
     
     <div class="css-1nqbnmb ea5icrr0">
     

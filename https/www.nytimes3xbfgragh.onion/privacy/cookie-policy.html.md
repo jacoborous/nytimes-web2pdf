@@ -2,6 +2,29 @@
 
 <div class="App">
 
+<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+
+<div class="css-tpyegx">
+
+<div class="css-17vh6q6">
+
+The Times and your Data
+
+</div>
+
+<div class="css-1mhyh9y">
+
+## Main Menu
+
+[Privacy F.A.Q.](/privacy)[Privacy
+Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
+
+</div>
+
+</div>
+
+</div>
+
 <div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
 
 <div class="HeroSection" data-aria-live="polite">
@@ -206,7 +229,7 @@ you. Any of the linked trackers may have certain interests and other
 demographic information attributed to it. That information is then used
 to determine which ad to show you.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -289,7 +312,7 @@ with third parties.
 We work with advertisers, ad agencies and other vendors to serve these
 ads. The ads served can include additional trackers.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -382,7 +405,7 @@ longer see ads. You will still receive other types of ads from these
 companies, and any type of ad from nonparticipating companies. The sites
 you visit may still collect your information for other purposes.
 
-<span class="css-1l8t0id">Back to top</span>
+[Back to top](app)
 
 </div>
 
@@ -431,33 +454,6 @@ Policy](/privacy/privacy-policy)[Cookie
 Policy](/privacy/cookie-policy)[California
 Notice](/privacy/california-notice)[Terms of
 Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
-
-</div>
-
-</div>
-
-<div>
-
-<div class="css-3lzwik" data-role="dialog" data-aria-modal="false">
-
-<div class="css-tpyegx">
-
-<div class="css-k8p5d3">
-
-The Times and your Data
-
-</div>
-
-<div class="css-1mhyh9y">
-
-## Main Menu
-
-[Privacy F.A.Q.](/privacy)[Privacy
-Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
-
-</div>
-
-</div>
 
 </div>
 

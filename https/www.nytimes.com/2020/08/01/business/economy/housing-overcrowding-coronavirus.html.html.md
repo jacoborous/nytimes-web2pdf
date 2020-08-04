@@ -84,14 +84,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -216,7 +216,7 @@ Dougherty</span>](https://www.nytimes.com/by/conor-dougherty)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1,
+    Published Aug. 1, 2020Updated Aug. 2,
     2020
     
     </div>
@@ -225,7 +225,7 @@ Dougherty</span>](https://www.nytimes.com/by/conor-dougherty)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -325,8 +325,8 @@ homes.
 </div>
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Shoes
-sitting outside Ms. Lorenzo’s home to disinfect. She confined herself to
-the closet for days to avoid spreading the virus to her
+sitting outside Karla Lorenzo’s home to disinfect. She confined herself
+to the closet for days to avoid spreading the virus to her
 children.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Brian
 L. Frank for The New York
 Times</span></span>
@@ -378,6 +378,10 @@ crowd together to stretch their budgets, home has its own risks.
 
 <div class="css-53u6y8">
 
+*\[Sign up* [*for California
+Today*](https://www.nytimes.com/newsletters/california-today)*, our
+daily newsletter from the Golden State.\]*
+
 For these families, a good amount of the response has included triaging
 a decades-old [shortage of affordable
 housing](https://reports.nlihc.org/gap#:~:text=The%20U.S.%20has%20a%20shortage,extremely%20low%2Dincome%20renter%20households.).
@@ -425,7 +429,7 @@ virus.”
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -433,45 +437,43 @@ virus.”
 
 <div class="briefing-block-update-time">
 
-[33h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[8h
+ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
 
 <div>
 
-[Kodak’s chief executive was given stock options. Then the share price
-spiked 1,000
-percent.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[The Chicago Fed president says it’s up to Congress to save the
+economy.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[36h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[9h
+ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
 
 <div>
 
-[Fitch Ratings downgrades its outlook on U.S.
-debt.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737
+Max.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[43h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[11h
+ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>
 
 <div>
 
-[U.S. sanctions more Chinese officials over human rights violations as
-tensions
-flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[Small businesses got emergency loans, but not what they
+expected.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>
 
@@ -482,14 +484,14 @@ flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coron
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -1185,7 +1187,7 @@ she said.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Saving on
-rent by sharing a home meant Ms. Lorenzo could spend more on her
+rent by sharing a home meant Karla Lorenzo could spend more on her
 children’s needs. But it also brought tensions with other tenants, along
 with the health risks of
 overcrowding.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Brian

@@ -437,7 +437,7 @@ attack.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T05:55:16.339Z
+Updated 2020-08-04T06:59:59.801Z
 
 </div>
 

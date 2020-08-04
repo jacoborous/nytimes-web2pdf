@@ -152,32 +152,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
-        Martinez for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02storm-1/merlin_175215639_9253d98f-4c76-4648-9f8c-8436a3490656-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02storm-1/02storm-1-thumbStandard.jpg)](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
-        
-        </div>
-        
-        ## [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
-        
-        The Florida coast was spared severe damage on Sunday, but much
-        of the Eastern Seaboard is threatened with flooding
-        rains.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Rebecca
-        Halleck</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
         Robison/The Northeast Mississippi Daily Journal, via Associated
         Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-threeByTwoMediumAt2X.jpg)
         
@@ -203,7 +178,7 @@ story](#after-sponsor)
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
         Rayford/Getty
         Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03isaias-01/03isaias-01-threeByTwoMediumAt2X.jpg)
         
@@ -226,6 +201,34 @@ story](#after-sponsor)
         <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
         <span class="css-1baulvz last-byline" itemprop="name">Lucy
         Tompkins</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+        Sonner/Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03alturascatoday/03alturascatoday-threeByTwoMediumAt2X-v2.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03alturascatoday/merlin_175074357_237ea6ee-554a-4856-95fb-f458b0b3ab44-thumbStandard.jpg)](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        
+        </div>
+        
+        ### California Today
+        
+        ## [The Last California County Without a Coronavirus Case](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        
+        Monday: The virus found its way into tiny, remote Modoc County.
+        Also: The Apple Fire prompted evacuations, and a successful
+        astronaut
+        return.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Thomas Fuller</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Jill
+        Cowan</span></span>
         
         </div>
 
@@ -283,6 +286,218 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.
+    
+    Mr. Wolf joined the Department of Homeland Security in its infancy
+    to help prevent another 9/11. Now he is helping President Trump use
+    it to achieve his political ambitions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Jesse
+    McKinley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    
+    At every step in her political career, the California congresswoman
+    had to be coaxed to run for a higher office. Now she’s a top
+    contender to be Joe Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
+    Jennifer
+    Medina</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    
+    Even though coronavirus cases have surged again, craft distilleries
+    say the business of making the disinfectant has become more
+    difficult.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/minneapolis-defund-police.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/00blackdefund-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Distrust of the Minneapolis Police, and Also the Effort to Defund Them
+    
+    Residents on Minneapolis’s North Side, which has a majority Black
+    population, have mixed opinions on the City Council’s effort to
+    significantly reduce the police force.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Eligon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Caribbean Dilemma
+    
+    Many islands are open to American travelers. Going could mean
+    bringing coronavirus to places ill-prepared to deal with it. Not
+    going could mean deepening economic woes. How do you choose?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nina
+    Burleigh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04whattowatch1/merlin_170318628_cc5fe952-825b-47c8-8354-897171b41804-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Today’s Primary Elections: What to Watch For
+    
+    Kris Kobach is competing in a Senate primary in Kansas that has
+    Republicans nervous, and Rashida Tlaib is hoping to hang on against
+    a Democratic challenger in a Michigan House race.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The New York
+    Times</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
     <div class="css-79elbk">
@@ -313,7 +528,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +561,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -380,7 +595,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -402,220 +617,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Pranshu
-    Verma</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/us/100000007271181/california-virus-cases-trend-down.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Coronavirus Cases ‘Trending Down’ in California, Governor Says
-    
-    Gov. Gavin Newsom said on Monday that the total number of people
-    testing positive for the coronavirus was on the decline.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Again Assails Mail-In Voting
-    
-    The president has been raging against voting by mail for several
-    months, claiming without evidence that the process is plagued by
-    fraud.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
-    
-    As his top advisers met with Democratic leaders to try to hash out a
-    compromise, President Trump hurled insults at Democrats and mused
-    aloud about short-circuiting the talks and acting on his own.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
-    <span>and</span> Jim
-    Tankersley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/us/100000007271090/north-carolina-isaias-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## N.C. Governor Tells Residents to ‘Take This Storm Seriously’
-    
-    Gov. Roy A. Cooper urged North Carolinians on Monday to properly
-    prepare for Tropical Storm Isaias.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/joe-biden-vp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
-    
-    ## Why Biden Won’t Find His Biden
-    
-    He would be wise to remember that Barack Obama didn’t pick him
-    simply because they were “simpatico.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/coronavirus-today.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Briefing: What Happened Today
-    
-    The school year is underway in some parts of the United States — and
-    we’re already seeing how fraught reopening classrooms can be.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jonathan Wolfe</span>
+    By <span class="css-1n7hynb">Pranshu Verma</span>
     
     </div>
     

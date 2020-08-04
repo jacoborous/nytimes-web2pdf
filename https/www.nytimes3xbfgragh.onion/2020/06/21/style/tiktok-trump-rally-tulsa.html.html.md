@@ -154,7 +154,7 @@ Rally</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -374,8 +374,9 @@ Trump’s](https://www.nytimes3xbfgragh.onion/2020/06/22/style/trump-tulsa-tie.h
 campaign promised huge crowds at his
 [rally](https://www.nytimes3xbfgragh.onion/2020/07/08/us/politics/trump-rally-portsmouth-new-hampshire.html)
 in Tulsa, Okla., on Saturday, but it failed to deliver. Hundreds of
-teenage TikTok users and K-pop fans say they’re at least partially
-responsible.
+teenage
+[TikTok](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/trump-tiktok-microsoft.html)
+users and K-pop fans say they’re at least partially responsible.
 
 Brad Parscale, the chairman of Mr. Trump’s re-election campaign, posted
 on Twitter on Monday that the campaign had fielded [more than a
@@ -551,29 +552,30 @@ action.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T01:26:45.732Z
+Updated 2020-08-04T01:23:51.312Z
 
 </div>
 
 </div>
 
-  - [Kamala Harris, a top vice-presidential contender, confronts double
-    standards.](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-29fdff45)
-  - [Karen Bass and Susan Rice are rising on Biden’s vice-presidential
-    shortlist.](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-13ec3d9c)
-  - [Trump says Russian bounties to kill U.S. troops ‘never took
-    place.’](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-49e9a016)
+  - [Trump assails mail-in voting anew, citing delays in declaring a
+    winner in a New York congressional
+    primary.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
+  - [Obama issues his first slate of 2020
+    endorsements.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
+  - [In a big shift, Trump is now encouraging mask-wearing in campaign
+    emails.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -837,7 +839,7 @@ reporting.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 3, 2020
 
   - 
     
@@ -845,10 +847,9 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes3xbfgragh.onion/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - President Trump again assails mail-in voting, [claiming without
+        evidence that the process is plagued by
+        fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

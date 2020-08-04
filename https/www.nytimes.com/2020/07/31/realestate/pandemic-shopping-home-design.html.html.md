@@ -281,8 +281,8 @@ Krueger</span>
 
 </div>
 
-  - July 31, 2020, <span class="css-epvm6">6:00 a.m.
-    ET</span>
+  - July 31,
+    2020
 
   - 
     

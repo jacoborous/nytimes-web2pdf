@@ -143,9 +143,9 @@ States</span>
 
   - 
     
-    <div id="live_container" class="nytslm_li_loud">
+    <div id="default_container" class="nytslm_li_loud">
     
-    <div id="live" class="nytslm_li_live_loud">
+    <div id="default" class="nytslm_li_default_loud">
     
     </div>
     
@@ -695,7 +695,7 @@ views.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-03T23:41:33.919Z
+Updated 2020-08-04T01:23:51.312Z
 
 </div>
 
@@ -706,9 +706,8 @@ Updated 2020-08-03T23:41:33.919Z
     primary.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
   - [Obama issues his first slate of 2020
     endorsements.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
-  - [On the left and the right, Tuesday’s primary contests have party
-    leaders paying
-    attention.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2340e8b5)
+  - [In a big shift, Trump is now encouraging mask-wearing in campaign
+    emails.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
 
 <div class="briefing-block-footer">
 
@@ -1551,7 +1550,7 @@ reporting.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 3, 2020
 
   - 
     
@@ -1559,9 +1558,9 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - The vice-presidential watch begins in earnest this week. [Follow
-        the latest updates
-        here.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - President Trump again assails mail-in voting, [claiming without
+        evidence that the process is plagued by
+        fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

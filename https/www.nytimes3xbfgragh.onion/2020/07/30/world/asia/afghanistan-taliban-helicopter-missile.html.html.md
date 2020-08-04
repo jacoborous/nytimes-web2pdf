@@ -211,7 +211,7 @@ graduation ceremony for new Afghan army soldiers in Kabul in February.
 The attacks raise new concerns for the Afghan
 military.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Rahmat
 Gul/Associated
-Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30dc-missile/merlin_169431351_f193efcd-892c-48e5-af70-d8f474fcb776-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-missile-print/merlin_169431351_f193efcd-892c-48e5-af70-d8f474fcb776-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

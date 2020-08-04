@@ -177,6 +177,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/school-closing-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## As the Coronavirus Comes to School, a Tough Choice: When to Close
+    
+    As schools in the South and the Midwest reopen this week, officials
+    must decide what steps to take as staff members and students test
+    positive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Mervosh <span>and</span> Shawn
+    Hubler</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/covid-college-reopening.html)
     
     <div class="css-79elbk">
@@ -207,7 +242,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -242,7 +277,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -278,7 +313,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +347,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -348,7 +383,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +419,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -455,7 +490,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -478,40 +513,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Shawn Hubler <span>and</span> Thomas
     Fuller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/28/us/coronavirus-college-towns.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/24/us/00virus-collegetowns01/00virus-collegetowns01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘We Could Be Feeling This for the Next Decade’: Virus Hits College Towns
-    
-    Opening bars and bringing back football teams have led to new
-    outbreaks. Communities that evolved around campuses face potentially
-    existential losses in population, jobs and revenue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shawn Hubler</span>
     
     </div>
     

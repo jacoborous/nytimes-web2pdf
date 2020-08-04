@@ -424,26 +424,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04latenight/04latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Best of Late Night</span>
+    ### <span class="css-m70j1g">feature</span>
     
-    ## Seth Meyers: After TikTok, Trump Could Ban Candy Crush
+    ## Behrouz Boochani Just Wants to Be Free
     
-    “I’m almost certain Trump has no idea what TikTok is. I’m betting
-    TikTok was one of the answers he wrote on his cognitive test,” Seth
-    Meyers joked on Monday’s “Late Night.”
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Trish
-    Bendix</span>
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
     
     </div>
     
@@ -461,24 +461,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
+    [](/2020/08/04/books/review/fallout-hiroshima-hersey-lesley-m-m-blume.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Langewiesche1/04Langewiesche1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    Celebrities come together to honor the congressman. And “The Stand:
-    How One Gesture Shook the World” revisits an iconic image from the
-    1968 Summer Olympics.
+    ## The Reporter Who Told the World About the Bomb
+    
+    “Fallout,” by Lesley M.M. Blume, recounts how John Hersey revealed
+    the devastating toll of the atomic bomb on the citizens of
+    Hiroshima.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren
-    Messman</span>
+    By <span class="css-1n7hynb">William
+    Langewiesche</span>
     
     </div>
     
@@ -496,24 +498,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
+    [](/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Fischer1/04Fischer1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    He was chairman of the Brooklyn Academy of Music and a benefactor of
-    St. Ann’s Warehouse. He and his wife also helped create a center for
-    women’s history.
+    ## ‘Looking for Miss America’ Tells the History of the Legendary Pageant
+    
+    The new book by Margot Mifflin shows how the famous contest for
+    women reflected conflicting ideas about female beauty, ambition and
+    fame over the past 100 years.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Molly
+    Fischer</span>
     
     </div>
     
@@ -531,25 +535,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/theater/virtual-theater.html)
+    [](/2020/08/04/books/review/caste-isabel-wilkerson.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Appiah-COVER-Sub01/09Appiah-COVER-Sub01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">critic’s notebook</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## The (Virtual) Theatrical Fringe Moves Front and Center
+    ## What Do America’s Racial Problems Have in Common With India and Nazi Germany?
     
-    Expanding content and experimenting with form, the avant-garde finds
-    a congenial new home online, as two recent offerings demonstrate.
+    In “Caste,” the journalist Isabel Wilkerson looks to other
+    countries’ histories to show how our racial order is founded on a
+    hierarchal structure of hereditary status.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jesse
-    Green</span>
+    By <span class="css-1n7hynb">Kwame Anthony
+    Appiah</span>
     
     </div>
     
@@ -567,24 +572,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/design/sothebys-sales.html)
+    [](/2020/08/04/books/review/inferno-catherine-cho.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/books/review/Brooks1/Brooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Sotheby’s Reports $2.5 Billion in Sales
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    The auction house says that figure reflects a “resilient” market
-    amid the coronavirus. But it represents a 25 percent decrease in
-    auction sales, analysts say.
+    ## A New Mother Chronicles Her Journey to Hell and Back
+    
+    In “Inferno,” Catherine Cho writes honestly of surviving postpartum
+    psychosis.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Scott
-    Reyburn</span>
+    By <span class="css-1n7hynb">Kim
+    Brooks</span>
     
     </div>
     
@@ -602,25 +608,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/dance/kaatsbaan-dance.html)
+    [](/2020/08/04/books/review/tender-is-the-flesh-agustina-bazterrica.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/review/Kraus1/Kraus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    ### <span class="css-m70j1g">Fiction</span>
     
-    ## What Is It Like to Watch Live Dance Again? Amazing
+    ## What if the Meat We Ate Was Human?
     
-    Kaatsbaan hosts a welcome summer festival in the Hudson Valley,
-    where nature and dancers join forces to put on a show.
+    Agustina Bazterrica’s dystopian second novel, “Tender Is the Flesh,”
+    uses cannibalism to highlight the inhumanity of factory farming.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gia
-    Kourlas</span>
+    By <span class="css-1n7hynb">Daniel
+    Kraus</span>
     
     </div>
     
@@ -638,26 +644,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
+    [](/2020/08/04/books/review/edmund-white-saint-from-texas.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Bird1/Bird1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The Charts</span>
+    ### <span class="css-m70j1g">Fiction</span>
     
-    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
+    ## Edmund White’s High-Octane Saga of Twin Sisters and 1950s Texas
     
-    The singer and songwriter’s surprise album had the equivalent of
-    846,000 sales in the United States, a total beaten only by her own
-    last two LPs.
+    White’s new novel, “A Saint From Texas,” traces the fates of Yvonne
+    — who marries a French nobleman — and Yvette, who becomes a nun.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Sisario</span>
+    By <span class="css-1n7hynb">Sarah
+    Bird</span>
     
     </div>
     
@@ -675,25 +680,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    [](/2020/08/04/books/review/migrations-charlotte-mcconaghy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Christie1/Christie1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Fiction</span>
     
-    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    ## ‘The Animals Are Dying. Soon We Will Be Alone Here.’
     
-    In “Kings County,” David Goodwillie examines New York’s most
-    celebrated borough with an uncynical eye.
+    In “Migrations,” Charlotte McConaghy’s visceral reimagining of
+    “Moby-Dick,” a young woman documents some of the world’s last
+    surviving seabirds.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adelle
-    Waldman</span>
+    By <span class="css-1n7hynb">Michael
+    Christie</span>
     
     </div>
     
@@ -711,24 +717,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    [](/2020/08/04/books/review/after-the-last-border-jessica-goudeau.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/books/review/Swartz1/Swartz1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    The best-selling author talks about her latest book, “Midnight Sun,”
-    which retells “Twilight” from the vampire’s perspective. Why now?
-    “Because I finished it,” she says.
+    ## The Story of Refugees in America Through the Gripping Tales of Two Women
+    
+    In “After the Last Border,” Jessica Goudeau offers a searing history
+    of this nation’s response to humanitarian crises while recounting
+    the stories of two refugees.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Concepción de
-    León</span>
+    By <span class="css-1n7hynb">Mimi
+    Swartz</span>
     
     </div>
     
@@ -746,24 +754,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    [](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Isaacson/04Isaacson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Why the U.S. Dropped Atomic Bombs on Japan
+    ## ‘Life of a Klansman’ Tells Ugly Truths About America, Past and Present
     
-    Marc Gallicchio’s “Unconditional” details debates in both Japan and
-    the United States to end World War II.
+    In his latest book, Edward Ball retraces an ancestor’s involvement
+    with the Ku Klux Klan in order to shed light on the country’s legacy
+    of white supremacy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Richard J. Samuels</span>
+    By <span class="css-1n7hynb">Walter Isaacson</span>
     
     </div>
     

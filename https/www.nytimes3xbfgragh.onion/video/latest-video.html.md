@@ -40,10 +40,99 @@
 
 <div>
 
-new video loaded: Thousands March Against Virus Measures in
-Berlin
+new video loaded: N.C. Governor Tells Residents to ‘Take This Storm
+Seriously’
 
 <div>
+
+<div class="css-1g7y0i5 e1drnplw0">
+
+<div class="css-1ceswkc e1drnplw1">
+
+</div>
+
+<div class="css-f2fzwx e1drnplw2">
+
+<div data-aria-labelledby="modal-title" data-role="region">
+
+<div id="modal-title" class="css-mln36k">
+
+transcript
+
+</div>
+
+<div class="css-pbq7ev">
+
+</div>
+
+<span>Back</span>
+
+<div class="css-f6lhej">
+
+<div class="css-1ialerq">
+
+<div class="css-1701swk">
+
+bars
+
+</div>
+
+<div>
+
+<div class="css-1t7yl1y">
+
+0:00/1:09
+
+</div>
+
+<div class="css-og85jy">
+
+\-1:09
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## N.C. Governor Tells Residents to ‘Take This Storm Seriously’
+
+#### Gov. Roy A. Cooper urged North Carolinians on Monday to properly prepare for Tropical Storm Isaias.
+
+</div>
+
+  -   
+    The status or category of a storm can be misleading. Whether it’s
+    labeled a tropical storm or a hurricane, you should take this storm
+    seriously and make sure your family is ready. That means taking care
+    of your pets, too. This storm threatens our coastline with storm
+    surge and damaging winds, but the inland areas are also at risk. Be
+    prepared for a lot of rain, as much as seven inches in some places.
+    Shelters will screen people for coronavirus symptoms. If someone has
+    Covid-19 or shows symptoms, they’ll be directed to a sheltering
+    option for isolation or medical attention. Shelters will have P.P.E.
+    and will honor social distancing. Now I know that North Carolinians
+    have had to dig deep in recent months to tap into our strength and
+    resilience during the pandemic, and that hasn’t been easy. But with
+    this storm on the way, we have to dig a little deeper. Let’s keep
+    each other safe from the wind and water, as well as from the
+virus.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
 
@@ -91,18 +180,18 @@ Berlin
 
 <div class="css-ggwicp">
 
-# <span>Thousands March Against Virus Measures in Berlin</span>
+# <span>N.C. Governor Tells Residents to ‘Take This Storm Seriously’</span>
 
 <div class="css-19m31ns">
 
-By Reuters<span class="css-1iknmmf">•</span>August 1,
+By The Associated Press<span class="css-1iknmmf">•</span>August 3,
 2020
 
 </div>
 
 </div>
 
-## An estimated 17,000 people defied social-distancing and mask requirements in a protest supported by neo-Nazi groups, conspiracy theorists as well as Germans who said they were fed up with the restrictions.
+## Gov. Roy A. Cooper urged North Carolinians on Monday to properly prepare for Tropical Storm Isaias.
 
 </div>
 
@@ -148,12 +237,129 @@ By Reuters<span class="css-1iknmmf">•</span>August 1,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-square320.png)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
+    
+    ### N.C. Governor Tells Residents to ‘Take This Storm Seriously’
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007270771/trump-tiktok-shutdown-microsoft.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:08</span>
+    
+    ### TikTok Must Be Sold or Risk Being Shutdown, Trump Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007269993/judge-salas-new-jersey.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03salas-1/03salas-1-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:39</span>
+    
+    ### ‘We Are Living Every Parent’s Worst Nightmare,’ Judge Salas Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/world/europe/100000007269932/who-coronavirus-briefing.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03virus-briefing-WHO/03virus-briefing-WHO-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:59</span>
+    
+    ### ‘There Is No Silver Bullet,’ W.H.O. Chief Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007269193/boats-circle-spacex-capsule.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:37</span>
+    
+    ### Several Private Boats Encroach on SpaceX Landing Zone
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007269118/spacex-splash-down.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/video/02vid-spacex-splash/02vid-spacex-splash-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:39</span>
+    
+    ### SpaceX’s Crew Dragon Splashes Down in Gulf of Mexico
+
+  - [](https://www.nytimes3xbfgragh.onion/video/world/australia/100000007269116/coronavirus-restrictions-melbourne.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-briefing-melbourne/merlin_175141296_dccccb19-1179-4660-a45f-369462798c5f-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:06</span>
+    
+    ### Melbourne Tightens Lockdown as Virus Outbreak Spreads
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007268938/isaias-florida.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:47</span>
+    
+    ### Strong Surf as Isaias Crawls Up Florida’s East Coast
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007268936/spacex-departs-international-space-station.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts/merlin_175216431_287c3773-da04-4003-9cbb-1318c4e80f6e-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:16</span>
+    
+    ### Astronauts Head Back to Earth Aboard SpaceX’s Crew Dragon
+
+  - [](https://www.nytimes3xbfgragh.onion/video/world/europe/100000007268465/coronavirus-protest-germany.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:39</span>
     
     ### Thousands March Against Virus Measures in Berlin
 
@@ -338,121 +544,6 @@ By Reuters<span class="css-1iknmmf">•</span>August 1,
     <span class="css-1xigvfz">1:15</span>
     
     ### Zuckerberg Deflects Question on Copying Competitors
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007263183/bezos-amazon-predatory-practices.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29vid-tech-hearing-2/29vid-tech-hearing-2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:36</span>
-    
-    ### Bezos Grilled About Amazon’s ‘Predatory Practices’
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007263148/google-data-privacy.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29vid-tech-hearing-1/29vid-tech-hearing-1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:26</span>
-    
-    ### ‘Very Easy For Users to Be In Control of Their Data,’ Google C.E.O. Says
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007262950/nypd-unmarked-van.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/28nyunrest-protester5/28nyunrest-protester5-square320-v5.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:29</span>
-    
-    ### N.Y.P.D. Pulls Protester Into Unmarked Van, Video Shows
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007262574/fed-powell-economy-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/world/29virus-briefing-vid-cover/merlin_168830211_32d0e4c5-cdab-4c3d-ab66-f861783004ee-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:30</span>
-    
-    ### Economy’s Path Forward Is ‘Extraordinarily Uncertain,’ Powell Says
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007262407/umbrella-man-minneapolis-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/28umbrellaman/28umbrellaman-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:58</span>
-    
-    ### Video Shows ‘Umbrella Man’ Smashing Windows in Minneapolis
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007262683/tempe-arizona-train-fire.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/multimedia/29xp-bridge/29xp-bridge-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:36</span>
-    
-    ### Video Shows Burning Freight Train on Arizona Bridge
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007262236/congress-tech-antitrust-hearings-live.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/29antitrust-vidcover/29hpantitrust-square320-v2.jpg)
-    
-    </div>
-    
-    ### Watch Live: Tech C.E.O.s Testify Before Congress
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007247238/tears-teacher.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/opdoc-tears-teacher-img-print/opdoc-tears-teacher-img-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">10:54</span>
-    
-    ### Tears Teacher
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007260487/watch-live-biden-delivers-speech-on-systemic-racism.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/politics/28elections-briefing-video-top/28elections-briefing-video-top-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:12</span>
-    
-    ### Biden Outlines How Economic Plan Would Address Systemic Racism
 
 </div>
 

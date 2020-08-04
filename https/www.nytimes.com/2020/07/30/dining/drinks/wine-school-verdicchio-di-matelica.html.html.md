@@ -232,9 +232,8 @@ School](/column/wine-school "Wine School")
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Tony
-Cenicola/The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/07/08/dining/08Next-a/merlin_173938650_0f69f93f-76ba-44ec-b62a-5dc7c457e5ff-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Pepe
+Serra</span></span></span>](https://static01.nyt.com/images/2020/08/05/dining/05Wine-School/05Wine-School-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

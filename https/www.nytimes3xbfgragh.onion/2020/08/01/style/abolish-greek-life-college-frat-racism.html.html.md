@@ -717,8 +717,8 @@ sororities want to leave them.
 In college student newspapers, some have criticized the Abolish Greek
 Life movement for painting fraternities and sororities with too broad a
 brush. “AGL is wrong to characterize every Greek chapter as
-irredeemable,” wrote Jared Baumann, a Vanderbilt student, in a
-Vanderbilt Hustler
+irredeemable,” wrote Jared Bauman, a Vanderbilt student, in a Vanderbilt
+Hustler
 [op-ed](https://vanderbilthustler.com/33363/featured/guest-editorial-how-abolish-greek-life-gets-it-wrong/),
 referring to the Abolish Greek Life movement. “My fraternity might not
 be perfect, but it’s a far cry from the image of abject depravity that

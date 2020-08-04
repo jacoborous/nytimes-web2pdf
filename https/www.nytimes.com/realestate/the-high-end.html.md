@@ -198,52 +198,54 @@ Home](https://nytimesads.gtspayments.com/)
     </div>
 
 2.  1.  <span class="css-1dv1kvn">Photo</span>
-        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
-        Nadia
-        Pillon</span>
-        <div class="css-1r9cexg">
-        <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/08/02/realestate/01Ask/01Ask-thumbStandard.jpg)](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
-        </div>
-        ### Ask Real Estate
-        ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
-        New York issued guidelines for how residential buildings should
-        safely operate — but there no consequences for failing to
-        comply.
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ronda
-        Kaysen</span></span>
-        </div>
-    2.  <span class="css-1dv1kvn">Photo</span>
-        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>
-        <div class="css-1r9cexg">
-        <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-thumbStandard.jpg)](/2020/07/31/realestate/pandemic-shopping-home-design.html)
-        </div>
-        ## [What Are We Buying for Our Homes During the Pandemic?](/2020/07/31/realestate/pandemic-shopping-home-design.html)
-        Sheltering in place may mean avoiding stores, but online
-        shopping for certain home-related items has
-        increased.
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Alyson
-        Krueger</span></span>
-        </div>
-    3.  <span class="css-1dv1kvn">Photo</span>
         <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
         Ukmar for The New York
         Times</span>
         <div class="css-1r9cexg">
         <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-thumbStandard.jpg)](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
+        [![](https://static01.nyt.com/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbStandard.jpg)](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
         </div>
-        ### Domestic Lives
-        ## [A Rockaway Life](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
-        Rockaway Beach has a land’s-end bacchanalian spirit, but it is
-        also a place where you can get to know people just by being
-        there.
+        ### What I Love
+        ## [Harris Faulkner, Working From Home in Shades of Blue](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+        The Fox News anchor’s mother gave her some decorating advice:
+        ‘Just make it beautiful.’ And she’s been
+        trying.
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Diane
-        Cardwell</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Joanne
+        Kaufman</span></span>
+        </div>
+    2.  <span class="css-1dv1kvn">Photo</span>
+        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
+        Photos</span>
+        <div class="css-1r9cexg">
+        <div class="css-1ox3lt4">
+        [![](https://static01.nyt.com/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbStandard.jpg)](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
+        </div>
+        ### What you Get
+        ## [$3 Million Homes in California](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
+        A Spanish-style retreat in Coronado, a midcentury-modern home in
+        Piedmont and a remodeled 1953 house in Los
+        Angeles.
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Angela
+        Serratore</span></span>
+        </div>
+    3.  <span class="css-1dv1kvn">Photo</span>
+        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+        Marks for The New York
+        Times</span>
+        <div class="css-1r9cexg">
+        <div class="css-1ox3lt4">
+        [![](https://static01.nyt.com/images/2020/08/03/realestate/03renters1/03renters1-thumbStandard.jpg)](/2020/08/03/realestate/coronavirus-roommate-renters.html)
+        </div>
+        ### renters
+        ## [The Challenge: Finding a Roommate During a Pandemic](/2020/08/03/realestate/coronavirus-roommate-renters.html)
+        With social distancing required, two new roommates discovered,
+        it’s a little like marrying someone before you
+        meet.
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Kim
+        Velsey</span></span>
         </div>
 
 </div>

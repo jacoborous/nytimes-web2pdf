@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-dance" class="section css-15h4p1b e9abtgs0">
 
@@ -157,9 +133,35 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
+    Krulwich/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-thumbStandard.jpg)](/2020/08/03/arts/dance/kaatsbaan-dance.html)
+    
+    </div>
+    
+    ### Critic’s Notebook
+    
+    ## [What Is It Like to Watch Live Dance Again? Amazing](/2020/08/03/arts/dance/kaatsbaan-dance.html)
+    
+    Kaatsbaan hosts a welcome summer festival in the Hudson Valley,
+    where nature and dancers join forces to put on a
+    show.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Gia
+    Kourlas</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
     Sadek for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02kaatsaban-1/02kaatsaban-1-videoLarge.jpg)
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02kaatsaban-1/02kaatsaban-1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -181,31 +183,31 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Beach Sessions Dance
-    Series</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/28beach-sessions-1/28beach-sessions-1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+        Beach Sessions Dance
+        Series</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/28beach-sessions-1/28beach-sessions-1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Trading Sand and Sea for TikTok Challenges](/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/28beach-sessions-1/28beach-sessions-1-thumbStandard.jpg)](/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
+        
+        </div>
+        
+        This year Beach Sessions, the annual series at Rockaway Beach,
+        will be dance challenges using scores created by contemporary
+        choreographers.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Gia
+        Kourlas</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/28beach-sessions-1/28beach-sessions-1-thumbStandard.jpg)](/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
-    
-    </div>
-    
-    ## [Trading Sand and Sea for TikTok Challenges](/2020/07/28/arts/dance/beach-sessions-rockaway-tiktok.html)
-    
-    This year Beach Sessions, the annual series at Rockaway Beach, will
-    be dance challenges using scores created by contemporary
-    choreographers.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gia
-    Kourlas</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laura
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laura
         Leon for The New York
         Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/27SPAIN-DELUZ-1/27SPAIN-DELUZ-1-videoLarge.jpg)
         
@@ -227,32 +229,6 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Marina
         Harss</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
-        Sadek for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26JASON-RODRIGUEZ-1/26JASON-RODRIGUEZ-1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### \#SpeakingIndAnce
-        
-        ## [Jason Rodriguez’s Vogue Family Values: Positivity, Trust, Love](/2020/07/24/arts/dance/jason-rodriguez-vogue-pose.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26JASON-RODRIGUEZ-1/26JASON-RODRIGUEZ-1-thumbStandard.jpg)](/2020/07/24/arts/dance/jason-rodriguez-vogue-pose.html)
-        
-        </div>
-        
-        The dancer and choreographer strives to empower a generation:
-        “If you’re not expressing your most confident self, you’re not
-        voguing.”
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Gia
-        Kourlas</span></span>
         
         </div>
 
@@ -585,6 +561,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/24/arts/dance/jason-rodriguez-vogue-pose.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26JASON-RODRIGUEZ-1/26JASON-RODRIGUEZ-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">\#SpeakingIndAnce</span>
+    
+    ## Jason Rodriguez’s Vogue Family Values: Positivity, Trust, Love
+    
+    The dancer and choreographer strives to empower a generation: “If
+    you’re not expressing your most confident self, you’re not voguing.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gia
+    Kourlas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/23/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
@@ -614,7 +626,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -649,7 +661,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -683,7 +695,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -705,45 +717,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia
-    Jacobs</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/theater/outdoor-theater-plays.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/arts/16outdoor-theater2/merlin_174528360_05883d8b-b066-4593-89c1-a330f66529fc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Playing Outside</span>
-    
-    ## Missing Theater Under the Stars (Even the Bugs and the Rain)
-    
-    Shakespeare in the Park and other outdoor venues are shut. But for
-    performers and directors, open-air memories are as sharp as the bite
-    of a mosquito.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nancy Coleman, Laura Collins-Hughes,
-    Scott Heller <span>and</span> Alexis Soloski</span>
+    By <span class="css-1n7hynb">Julia Jacobs</span>
     
     </div>
     

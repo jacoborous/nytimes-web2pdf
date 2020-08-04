@@ -206,9 +206,8 @@ popular titles in a bid to kindle players’ nostalgia.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Capcom
 released a remake of Resident Evil 2 last year. It proved so successful
-that the company released a remake of Resident Evil 3 in April and has
-plans to remake Resident Evil
-4.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Capcom</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
+that the company released a remake of Resident Evil 3 in
+April.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Capcom</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/00Remake-print/00Remake-RE2-lede-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -227,14 +226,20 @@ Khan</span>
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 3,
+    2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -580,9 +585,7 @@ they reused 20 percent of the art, it’s a 6 percent savings.”
 Resident Evil 3 was not the same breakout success that [Resident Evil 2
 was](https://venturebeat.com/2019/02/20/january-2019-npd-sales-down-as-kingdom-hearts-tops-charts/)
 in 2019, but it still landed at a respectable sixth place in April,
-according to NPD. Capcom did confirm that it shipped two million units,
-and it has already announced that Resident Evil 4 will be getting a
-remake.
+according to NPD. Capcom did confirm that it shipped two million units.
 
 Remastering and remaking have become so common that some studios are
 dedicated to bringing old games to modern hardware. Bluepoint Games in

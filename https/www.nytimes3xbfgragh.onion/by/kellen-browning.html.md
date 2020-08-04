@@ -167,6 +167,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    
+    Even though coronavirus cases have surged again, craft distilleries
+    say the business of making the disinfectant has become more
+    difficult.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
     
     <div class="css-79elbk">
@@ -197,7 +232,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -222,7 +257,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -253,7 +288,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +319,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -319,7 +354,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -354,7 +389,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -392,7 +427,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -426,7 +461,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -444,44 +479,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/09/us/berkeley-ca-police-department-reform.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/us/09berkeleycatoday/merlin_174374607_0c500fc4-42c8-4ab5-9007-b86805ca1319-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">California Today</span>
-    
-    ## How Berkeley Could Remove the Police From Traffic Stops
-    
-    Thursday: The city’s proposal appears to be the first of its kind in
-    the country. Also: A coronavirus update.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kellen Browning <span>and</span> Jill
-    Cowan</span>
+    By <span class="css-1n7hynb">Kellen Browning</span>
     
     </div>
     

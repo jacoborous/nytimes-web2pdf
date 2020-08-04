@@ -84,7 +84,7 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <span class="css-17xtcya">[College
 Football](/section/sports/ncaafootball)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">A
-Group of Pac-12 Football Players Opts Out of the
+Group of Pac-12 Football Players Threaten to Opt Out of the
 Season</span>
 
 </div>
@@ -190,7 +190,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# A Group of Pac-12 Football Players Opts Out of the Season
+# A Group of Pac-12 Football Players Threaten to Opt Out of the Season
 
 </div>
 
@@ -279,9 +279,9 @@ Witz</span>](https://www.nytimes3xbfgragh.onion/by/billy-witz)
 
 <div class="css-53u6y8">
 
-Thirteen Pac-12 Conference football players announced Sunday they were
-opting out of the coming season, saying they would not play until
-systemic inequities that have been highlighted by [college athletics’
+Thirteen Pac-12 Conference football players threatened Sunday to opt out
+of the coming season, saying they would not play until systemic
+inequities that have been highlighted by [college athletics’
 response](https://www.nytimes3xbfgragh.onion/2020/07/16/sports/ncaafootball/ncaa-guidelines-fall-sports.html)
 to [the coronavirus
 pandemic](https://www.nytimes3xbfgragh.onion/news-event/coronavirus)
@@ -415,7 +415,7 @@ schools.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-83281" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-80633" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -425,26 +425,23 @@ schools.
 
 #### Sports and the Virus
 
-Updated July 31, 2020
+Updated Aug. 3, 2020
 
 Here’s what’s happening as the world of sports slowly comes back to
 life:
 
-  -   - The [N.B.A.
-        returned](https://www.nytimes3xbfgragh.onion/2020/07/30/sports/basketball/clippers-lakers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup),
-        and the Lakers held on to beat the Clippers in a thriller. Zion
-        Williamson played in the first game of the night for the
-        Pelicans.
-      - Players, coaches and analysts are watching this season’s
-        baseball games [to see what
-        effect](https://www.nytimes3xbfgragh.onion/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
-        the absence of fans has.
-      - With no summer tournaments to play in, top high school
-        basketball stars are [committing to colleges
-        earlier](https://www.nytimes3xbfgragh.onion/2020/07/30/sports/ncaabasketball/college-basketball-recruiting.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
-        Villanova is one of the beneficiaries.
+  -   - On all but the two biggest courts, automated line calls [will
+        replace human
+        judges](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        at the U.S. Open to reduce the number of people on site during
+        the pandemic.
+      - Mets star Yoenis Cespedes is healthy, but [has decided to opt
+        out](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of the 2020 baseball season for Covid-related reasons.
+      - Britain tried to bring fans back to indoor sports. [It lasted a
+        day](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/snooker-world-championship.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
 
-<div id="styln-survey-component-83281" class="styln-survey-component">
+<div id="styln-survey-component-80633" class="styln-survey-component">
 
 </div>
 
@@ -489,7 +486,7 @@ in legal studies. “This isn’t some new idea out of left field.”
 
 <div class="css-53u6y8">
 
-Daltoso, one of three Cal players to opt out, said the idea took a
+Daltoso, one of three Cal players among the 13, said the idea took a
 foothold about a month ago during a Zoom call his teammates had in the
 wake of protests over the police killing of George Floyd in Minneapolis.
 As the discussions developed, they reached out to players around the
@@ -560,7 +557,7 @@ struggles.”
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Oregon’s
 Jevon Holland, a potential first-round pick in the N.F.L. draft, was
-among those who opted
+among those who threatened to opt
 out.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Abbie
 Parr/Getty Images</span></span>
 

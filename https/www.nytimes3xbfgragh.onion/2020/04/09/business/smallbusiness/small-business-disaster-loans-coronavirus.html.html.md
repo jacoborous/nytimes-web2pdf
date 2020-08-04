@@ -388,7 +388,7 @@ bills.
 
 <div class="briefing-block-update-time">
 
-[10h
+[12h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
 
 </div>
@@ -402,7 +402,7 @@ economy.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-mark
 
 <div class="briefing-block-update-time">
 
-[11h
+[13h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
 
 </div>
@@ -416,7 +416,7 @@ Max.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-t
 
 <div class="briefing-block-update-time">
 
-[14h
+[15h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
 
 </div>

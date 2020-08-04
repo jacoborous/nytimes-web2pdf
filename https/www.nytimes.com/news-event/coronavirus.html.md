@@ -189,7 +189,7 @@ Trump.
 
 ## Live Updates
 
-35 minutes
+an hour
     ago
 
 </div>
@@ -1384,6 +1384,39 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Think Like an Epidemiologist
+    
+    Don’t worry, a little Bayesian analysis won’t hurt you.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Siobhan
+    Roberts</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/us/100000007271181/california-virus-cases-trend-down.html)
     
     <div class="css-79elbk">
@@ -1414,7 +1447,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1449,7 +1482,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1483,7 +1516,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1518,7 +1551,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1553,7 +1586,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1589,7 +1622,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1623,7 +1656,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1658,7 +1691,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1682,50 +1715,7 @@ Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/58677
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Astor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/08/03/espanol/cultura/victor-victor-murio-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/03Victor-ES/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Los que hemos perdido</span>
-    
-    ## Víctor Víctor, conocido por el éxito ‘Mesita de Noche’, muere a los 71 años
-    
-    El cantante, compositor y productor también llevó clases de teatro,
-    música y danza a comunidades desfavorecidas. Murió de COVID-19.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sandra E. Garcia</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/08/01/obituaries/victor-victor-dead-coronavirus.html "Read in English")
+    By <span class="css-1n7hynb">Michael Astor</span>
     
     </div>
     

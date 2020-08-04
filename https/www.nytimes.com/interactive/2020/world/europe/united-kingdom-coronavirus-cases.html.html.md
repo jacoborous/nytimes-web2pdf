@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 1:51 A.M.
+Times</span>Updated August 3, 2020, 6:07 P.M.
 E.T.
 
 </div>
@@ -399,7 +399,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-304,695
+305,623
 
 </div>
 
@@ -415,7 +415,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-46,201
+46,210
 
 </div>
 
@@ -450,17 +450,23 @@ available
 
 [Map](#map)[By country and local area](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 304,600 confirmed cases of coronavirus in the
-United Kingdom, according to the British [public health
-authorities](https://coronavirus.data.gov.uk/). As of Monday morning,
-46,201 people had
-died.
+There have been at least 305,600 confirmed cases of coronavirus in the
+United Kingdom, according to [Public Health
+England](https://coronavirus.data.gov.uk/). As of Monday evening, 46,210
+people had died.
+
+The [Office for National
+Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
+also produces a weekly report on the number of deaths registered in the
+U.K. that mention Covid-19 on a death certificate. This figure is
+several thousand deaths higher than the reported daily death
+toll.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
 
@@ -697,9 +703,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>England </span></td>
-<td><span>262,746 </span></td>
-<td><span>469 </span></td>
-<td><span>41,589 </span></td>
+<td><span>263,602 </span></td>
+<td><span>471 </span></td>
+<td><span>41,598 </span></td>
 <td><span>74 </span></td>
 <td><span>4,887 </span></td>
 <td><span>9 </span></td>
@@ -708,7 +714,7 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Wales </span></td>
-<td><span>17,315 </span></td>
+<td><span>17,339 </span></td>
 <td><span>552 </span></td>
 <td><span>1,565 </span></td>
 <td><span>50 </span></td>
@@ -719,8 +725,8 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Northern Ireland </span></td>
-<td><span>5,948 </span></td>
-<td><span>328 </span></td>
+<td><span>5,988 </span></td>
+<td><span>331 </span></td>
 <td><span>556 </span></td>
 <td><span>31 </span></td>
 <td><span>57 </span></td>
@@ -730,8 +736,8 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Scotland </span></td>
-<td><span>18,676 </span></td>
-<td><span>343 </span></td>
+<td><span>18,694 </span></td>
+<td><span>344 </span></td>
 <td><span>2,491 </span></td>
 <td><span>46 </span></td>
 <td><span>125 </span></td>
@@ -1078,13 +1084,8 @@ States](https://www.nytimes.com/interactive/2020/04/28/us/coronavirus-death-toll
 and [in more than a dozen other
 countries](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
 have undercounted deaths during the coronavirus outbreak because of
-limited testing availability.
-
-The [Office of National
-Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
-is also tracking Covid-related deaths in the country as confirmed on
-death certificates, but its figures are delayed around two
-weeks.
+limited testing
+availability.
 
 ## <span class="g-balancer" data-id="9">Where You Can Find More Information</span>
 
@@ -1315,33 +1316,34 @@ State by
 ## <span class="g-balancer" data-id="14">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
-growing.](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html)
+growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
 It seems that there are [four factors that most likely play a
-role](https://www.nytimes.com/2020/03/02/health/coronavirus-how-it-spreads.html):
+role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
 how much you touch your face afterwards.
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
-steps](https://www.nytimes.com/article/prepare-for-coronavirus.html?action=click&pgtype=Article&state=default&module=styln-coronavirus&variant=show®ion=TOP_BANNER&context=storyline_menu#link-56871453):
+steps](https://www.nytimes.com/article/prepare-for-coronavirus.html):
 
 <div class="g-container g-list-circle">
 
 Keep your distance from others. Stay at least six feet away from people
 outside your household as much as possible.
 
+Wear a mask outside your home. A mask protects others from your germs,
+and it protects you from infection as well. The more people who wear
+masks, the more we all stay safer.
+
 Wash your hands often. Anytime you come in contact with a surface
 outside your home, scrub with soap for at least 20 seconds, rinse and
 then dry your hands with a clean towel.
 
-Avoid touching your face. The virus primarily spreads when contaminated
-hands touch our nose or mouth or eyes. Try to keep your hands away from
-your face unless you have just recently washed them.
-
-Wear a mask outside your home. A mask protects others from any potential
-infection from you. The more people who wear masks, the more we all stay
-safer.
+Avoid touching your face. The virus can spread when our hands come into
+contact with the virus, and we touch our nose, mouth or eyes. Try to
+keep your hands away from your face unless you have just recently washed
+them.
 
 </div>
 

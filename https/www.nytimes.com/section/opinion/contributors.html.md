@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -62,31 +63,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-opinion-contributors" class="section css-15h4p1b e9abtgs0">
 
@@ -170,6 +146,74 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Siren Song of ‘One State’
+    
+    A hopeless plan could dash hopes for a peaceful resolution between
+    Israelis and Palestinians.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bret
+    Stephens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disenchanted Seniors for Biden
+    
+    The pandemic is particularly dangerous for older Americans, and
+    Trump is losing their support.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michelle
+    Cottle</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/opinion/portland-protests-police-chief.html)
     
     <div class="css-79elbk">
@@ -199,7 +243,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +276,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -253,8 +297,14 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alexander
-    Keyssar</span>
+    By <span class="css-1n7hynb">Alexander Keyssar</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html "Read in Spanish")
     
     </div>
     
@@ -266,7 +316,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -300,7 +350,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -334,7 +384,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +394,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/opinion/03deanWeb/03deanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/opinion/03deanWeb/03deanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -368,7 +418,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -394,6 +444,12 @@ story](#after-sponsor)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -402,7 +458,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -424,81 +480,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryce
-    Covert</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/hong-kong-election-china.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why Did Hong Kong Delay Its Election — by a Year?
-    
-    The government blames the pandemic. More likely, it was afraid to
-    lose.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Fernando
-    Cheung</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/opinion/20200803/hong-kong-election-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200803/hong-kong-election-china/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/utility-corruption-energy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## When Utility Money Talks
-    
-    Corruption scandals in Ohio and Illinois reveal an unsavory
-    underside to the politics of energy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Justin Gillis</span>
+    By <span class="css-1n7hynb">Bryce Covert</span>
     
     </div>
     

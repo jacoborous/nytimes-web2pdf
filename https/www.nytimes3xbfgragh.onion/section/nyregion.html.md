@@ -410,6 +410,110 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/nyregion/04nytoday/merlin_175235661_a91a6f57-6403-4d23-ae6e-654918fe0621-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">New York Today</span>
+    
+    ## How Tropical Storm Isaias Will Affect New York
+    
+    The storm could bring two to four inches of rain across the region,
+    with coastal flooding and strong wind likely throughout Tuesday. 
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Troy
+    Closson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/coronavirus-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-briefing-negotiations/merlin_175270614_82064422-bea7-46e4-99fd-f10e541c14c2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Fight Over Aid Package Drags On
+    
+    Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure.
+    Israel’s troubled school reopenings could be a lesson for the
+    U.S.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/00POLICEDATA/merlin_174653094_a9ca17cb-5305-4a9c-907b-1b2caaadcd37-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.
+    
+    Mr. de Blasio has pointed to court delays and bail reform to explain
+    the surge in gun violence. But the N.Y.P.D.’s own numbers tell a
+    different story.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan
+    Feuer</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
     
     <div class="css-79elbk">
@@ -439,7 +543,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -474,7 +578,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -510,7 +614,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -524,7 +628,7 @@ story](#after-mid1)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -543,7 +647,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -579,7 +683,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -611,7 +715,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -633,109 +737,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">C. J.
-    Hughes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/nyregion/metropolitan-diary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02diary-illos-04/02diary-illos-04-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">METROPOLITAN DIARY</span>
-    
-    ## ‘As I Started to Walk Away, the Second Man Reached Out His Hand’
-    
-    Giving directions, a noisy Chinatown dining room and more reader
-    tales of New York City in this week’s Metropolitan
-    Diary.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How to Stay Safer on Mass Transit
-    
-    Timing your trip strategically, using contactless payments and not
-    eating onboard are some of the things to keep in mind.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katherine
-    Cusumano</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
-    
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the Midwest. A summer camp in Georgia
-    apologizes for hosting a retreat after hundreds who attended were
-    infected.
-    
-    <div class="css-1nqbnmb ea5icrr0">
+    By <span class="css-1n7hynb">C. J. Hughes</span>
     
     </div>
     

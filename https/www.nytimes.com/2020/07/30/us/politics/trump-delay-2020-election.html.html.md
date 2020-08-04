@@ -147,14 +147,14 @@ Down</span>
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -479,29 +479,31 @@ coronavirus.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T01:26:45.732Z
+Updated 2020-08-03T13:14:26.522Z
 
 </div>
 
 </div>
 
-  - [Kamala Harris, a top vice-presidential contender, confronts double
-    standards.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-29fdff45)
-  - [Karen Bass and Susan Rice are rising on Biden’s vice-presidential
-    shortlist.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-13ec3d9c)
-  - [Trump says Russian bounties to kill U.S. troops ‘never took
-    place.’](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-49e9a016)
+  - [The vice-presidential watch begins in earnest this
+    week.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2a2c5488)
+  - [Trump’s campaign returns to the airwaves in North Carolina,
+    Florida, Georgia and
+    Arizona.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-37287715)
+  - [Biden steps up his push to make Ohio competitive in November, with
+    help from Sherrod
+    Brown.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-33f706ee)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -819,10 +821,9 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - The vice-presidential watch begins in earnest this week. [Follow
+        the latest updates
+        here.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

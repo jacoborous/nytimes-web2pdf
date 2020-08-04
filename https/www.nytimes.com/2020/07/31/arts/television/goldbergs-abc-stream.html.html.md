@@ -133,6 +133,38 @@ Goldbergs’</span>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
 
+<div>
+
+<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="at-home-nav__innerContainer">
+
+<div class="at-home-nav__title">
+
+[At
+Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+  - [Take: A Literary Road
+    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Cook: Smoky
+    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Look Out: For
+    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters’
+    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div id="top-wrapper" class="css-1sy8kpn">
@@ -208,7 +240,7 @@ seasons been a weekly gift of old-fashioned zingers.
 Wendi McLendon-Covey, Jeff Garlin and George Segal in a scene from “The
 Goldbergs,” which is based on its creator’s childhood in a Philadelphia
 suburb.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Richard
-Cartwright/ABC</span></span></span>](https://static01.nyt.com/images/2020/07/31/arts/31comfort-goldbergs1/merlin_82047917_75c6c2ae-273e-478f-a891-7d18fa33a1b0-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Cartwright/ABC</span></span></span>](https://static01.nyt.com/images/2020/08/03/arts/31comfort-goldbergs1/merlin_82047917_75c6c2ae-273e-478f-a891-7d18fa33a1b0-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -231,9 +263,8 @@ Murray</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 31, 2020Updated Aug. 1, 2020,
-    <span class="css-epvm6">10:22 a.m.
-    ET</span>
+    July 31,
+    2020
     
     </div>
 
@@ -241,7 +272,7 @@ Murray</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
