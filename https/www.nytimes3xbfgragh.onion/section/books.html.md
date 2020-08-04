@@ -507,6 +507,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/books/review/betsy-bonner-the-book-of-atlantis-black.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04schaitkin/04schaitkin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Nonfiction</span>
+    
+    ## A Troubled Artist’s Death Proves as Unknowable as Her Life
+    
+    In “The Book of Atlantis Black,” Betsy Bonner attempts to solve the
+    mysterious fate of her troubled, enigmatic older sister.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexis
+    Schaitkin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html)
     
     ## ‘Wandering in Strange Lands,’ by Morgan Jerkins: An Excerpt
@@ -526,7 +562,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -551,7 +587,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -588,7 +624,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -625,7 +661,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -662,7 +698,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -699,7 +735,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -736,7 +772,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -772,7 +808,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -795,43 +831,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniel
-    Kraus</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/books/review/Kolbert/Kolbert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Nonfiction</span>
-    
-    ## A History of Hurricanes in America and the Devastation They Have Wrought
-    
-    In “A Furious Sky,” Eric Jay Dolin recounts 500 years of reckoning
-    with the monster storms that come in off the Atlantic Ocean.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Elizabeth Kolbert</span>
+    By <span class="css-1n7hynb">Daniel Kraus</span>
     
     </div>
     

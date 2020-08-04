@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
@@ -139,25 +163,61 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
+    and Claire Weiss for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03BACKORDER1/merlin_172496982_de7aa074-951d-4362-ba4c-5fe9eb17553e-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [The War on Frats](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
+    ## [Summer Recreation? It’s Backordered](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
     
-    Groups of fraternity brothers and sorority sisters are working to
-    kick their organizations off
-    campus.
+    Americans seeking outdoor getaways in the pandemic bought up all the
+    pools, tents, kayaks and
+    trampolines.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ezra
-    Marcus</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Herrman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
+    Tompkins for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Clickety Clack, Press-On Nails Are Back](/2020/08/04/style/self-care/press-on-nails.html)
+    
+    The onetime ’80s mass-market cheapie has gotten an artisanal upgrade
+    — just in time for quarantine home
+    manicures.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jackie
+    Snow</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
+    
+    Despite precautions, the coronavirus has swept through a number of
+    weddings, large and small, infecting guests and
+    vendors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
     Walter Banks for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
     
@@ -176,34 +236,41 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
-    and Claire Weiss for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-videoLarge.jpg)
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    Illustration by The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Summer Recreation? It’s Backordered](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    ## [The War on Frats](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
     
-    Americans seeking outdoor getaways in the pandemic bought up all the
-    pools, tents, kayaks and
-    trampolines.
+    Groups of fraternity brothers and sorority sisters are working to
+    kick their organizations off
+    campus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Herrman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ezra
+    Marcus</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
     Heimer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Rich City Tykes Swell Schools in Hamptons and Hudson Valley](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    ## [The Little Fraught Schoolhouse](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
     
     New York parents of means are seeking less congested classrooms near
-    their second — third? —
-    homes.
+    their second homes in the Hamptons and Hudson Valley. Not everyone
+    is happy about
+    this.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alex
@@ -211,13 +278,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Up Next
+3.  ### Up Next
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
     Jalloh for The New York
@@ -236,7 +297,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Matija
     Medved</span>](https://static01.graylady3jvrrxbe.onion/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
@@ -253,7 +314,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
     Frustaci/EPA, via
     Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
     
@@ -268,44 +329,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jessica
     Testa</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jonathan
-    Muroya</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [What Is Randonautica Really About?](/2020/07/31/style/randonautica-app.html)
-    
-    An app that generates coordinates for adventurers claims to turn
-    your thoughts into reality. TikTok and YouTube creators want you to
-    believe it — but you
-    shouldn’t.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lena
-    Wilson</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>National
-    Museum of American
-    History</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31suffrage-nativewomen-07/31suffrage-nativewomen-07-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In 1920, Native Women Sought the Vote. Here’s What’s Next.](/2020/07/31/style/19th-amendment-native-womens-suffrage.html)
-    
-    The 19th Amendment did not bring the right to vote to all Native
-    women, but two experts in a conversation said it did usher in the
-    possibility of
-    change.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Cathleen D. Cahill</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Deer</span></span>
     
     </div>
 
@@ -438,7 +461,25 @@ story](#after-mid1)
 [More in Love
     »](/section/fashion/weddings)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
+    
+    Despite precautions, the coronavirus has swept through a number of
+    weddings, large and small, infecting guests and
+    vendors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
     Shrewsbury</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -456,7 +497,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -472,7 +513,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
     A. Alvarado Jr. for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/fashion/24Vows-ModelActivist1/merlin_173908452_121834c5-2ab7-4830-bedd-1c85133e89a7-videoLarge.jpg)
     
@@ -491,7 +532,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Godeassi</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/fashion/00NOT-ENGAGED/00NOT-ENGAGED-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -505,23 +546,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caira
     Conner</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Matija
-    Medved</span>](https://static01.graylady3jvrrxbe.onion/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Love Letter: Making Room for More Love (and Sheep)](/2020/07/31/fashion/weddings/love-letter-newsletter-making-room-for-more-love-and-sheep.html)
-    
-    And, a legacy of “Loving”
-    continued.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Charanna
-    Alexander</span></span>
     
     </div>
 
@@ -1517,7 +1541,41 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+    [](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/realestate/04wirecutter-outdoors5/04wirecutter-outdoors5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 5 Things You Need to Upgrade Your Tiny Outdoor Space
+    
+    It’s never been more important to make your balcony, terrace, or
+    patch of cement cozy and hospitable. Here’s how.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Dorie
+    Chevlen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
     
     <div class="css-79elbk">
     
@@ -1547,7 +1605,7 @@ story](#after-mid6)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1582,7 +1640,7 @@ story](#after-mid6)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1616,7 +1674,7 @@ story](#after-mid6)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1651,7 +1709,7 @@ story](#after-mid6)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1686,7 +1744,7 @@ story](#after-mid6)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1722,7 +1780,7 @@ story](#after-mid6)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1757,7 +1815,7 @@ story](#after-mid6)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1791,7 +1849,7 @@ story](#after-mid6)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1812,41 +1870,7 @@ story](#after-mid6)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Imad
-    Khan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The War on Frats
-    
-    Groups of fraternity brothers and sorority sisters are working to
-    kick their organizations off campus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ezra Marcus</span>
+    By <span class="css-1n7hynb">Imad Khan</span>
     
     </div>
     

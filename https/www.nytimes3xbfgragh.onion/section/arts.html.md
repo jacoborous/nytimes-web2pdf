@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-arts" class="section css-15h4p1b e9abtgs0">
 
@@ -166,16 +142,114 @@ Culture](/spotlight/pop-culture)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
-    Auringer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leo
+    Villareal and Illuminate; James
+    Ewing</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-thumbStandard.jpg)](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-thumbStandard.jpg)](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
     
     </div>
+    
+    ## [Will Superblue Be the ‘Infinity Room’ Writ Large?](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    
+    Art objects are a bore. People want multisensory “experiences,” the
+    more immersive the better. With JR, James Turrell, teamLab and more,
+    a new business venture funded by Marc Glimcher and Laurene Powell
+    Jobs hopes to
+    deliver.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Frank
+    Rose</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jingyu
+    Lin for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04sam-jay1/04sam-jay1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbStandard.jpg)](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    
+    </div>
+    
+    ### On Comedy
+    
+    ## [Sam Jay: A Comic Who Belongs to No Camp](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    
+    With a deadpan glare, the stand-up takes shots at everyone and won’t
+    say something funny just for a laugh. Now she’s on the cusp of
+    breaking out, thanks to a Netflix
+    special.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jason
+    Zinoman</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04pulldown3/04pulldown3-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Turmoil After a Museum Deletes ‘Black Lives Matter’ From Postings](/2020/08/04/arts/design/seattle-childrens-museum.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
+        
+        </div>
+        
+        The director of the Seattle Children’s Museum faced a strike and
+        an internal inquiry after she edited staff postings, citing
+        fund-raising and other
+        concerns.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Julia
+        Jacobs</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/00alf1/00alf1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [A Black Pianist Helped Birth Bossa Nova. His Story Is Rarely Told.](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/00alf1/00alf1-thumbStandard.jpg)](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+        
+        </div>
+        
+        Johnny Alf has always been revered by Antônio Carlos Jobim and
+        João Gilberto, but his legacy remains obscure, even among
+        Brazilians.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Beatriz
+        Miranda</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
+    Auringer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
     
@@ -190,92 +264,66 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
-    Oktar Yalkin for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/00anna-sale1/merlin_174742218_9e2cdbb1-6ad7-4ce9-a241-9e02024a2048-jumbo.jpg)
+2.  ### Watching and Moving
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Baiano</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04watching-moving-1/merlin_175268094_4768a1a2-7273-42c8-9be6-9f4dea386647-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    <div class="css-1dqkjed">
+    ## [The Vail All-Stars, San Francisco Dreaming and Black Lives Matter](/2020/08/04/arts/dance/the-best-in-streaming-dance.html)
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/00anna-sale1/00anna-sale1-thumbStandard.jpg)](/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
-    
-    </div>
-    
-    ## [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
-    
-    In her podcast, Anna Sale inspires her guests to share their darkest
-    thoughts and deepest secrets. The intimate conversations feel more
-    urgent than
-    ever.
+    This week’s standouts in streaming dance, plus something to get the
+    kids involved and
+    moving.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reggie
-    Ugwu</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian
+    Seibert</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-        White/Parkwood Entertainment and Disney+, via Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
-        
-        </div>
-        
-        Six critics on the visual album rooted in her “Lion
-        King”-inspired record “The Gift,” a grand statement of
-        African-diaspora pride and creative
-        power.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
-        <span class="css-1baulvz" itemprop="name">Vanessa
-        Friedman</span>, <span class="css-1baulvz" itemprop="name">Gia
-        Kourlas</span>, <span class="css-1baulvz" itemprop="name">Wesley
-        Morris</span>, <span class="css-1baulvz" itemprop="name">Jon
-        Pareles</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
-        Tillet</span></span>
-        
-        </div>
+3.  ### Ask a TV critic
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [‘Immigration Nation’ Review: The Banality of Deportation](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-thumbStandard.jpg)](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
-        
-        </div>
-        
-        This Netflix documentary looks at the bureaucracy of immigration
-        enforcement — an intriguing investigation that probably won’t
-        change any
-        minds.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Mike
-        Hale</span></span>
-        
-        </div>
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+    Johnson/SundanceTV</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [After ‘The Good Fight,’ Try ‘The Split’](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    
+    Our television critic answers your questions and offers guidance on
+    what to watch
+    next.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Margaret
+    Lyons</span></span>
+    
+    </div>
 
-</div>
+4.  ### My TEN
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+    Cenicola/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09my10-battle-web/09my10-battle-web-mediumThreeByTwo440.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Robert Battle Keeps Going With Sarah Vaughan and Homegrown Tomatoes](/2020/08/04/arts/dance/robert-battle-favorites.html)
+    
+    The Alvin Ailey artistic director is hunkered down in Connecticut,
+    tending his vegetable garden and keeping his mood aloft with these
+    10
+    essentials.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kathryn
+    Shattuck</span></span>
+    
+    </div>
 
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Surfacing
+5.  ### Surfacing
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
     
@@ -291,80 +339,6 @@ Culture](/spotlight/pop-culture)
     <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Peter
     Arkle</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
-    Maron</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
-    
-    The comedian and podcaster reflects on his relationship with the
-    filmmaker and TV director who died unexpectedly in
-    May.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dave
-    Itzkoff</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
-    Scott Brauer for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
-    
-    In this gay haven known for its nightlife, the crowds are smaller
-    this summer. And the nightclubs are closed. But by the pool, the
-    show goes
-    on.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Laura
-    Collins-Hughes</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
-    Ord/Getty Images; Roy Rochlin, via Getty
-    Images;</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
-    
-    His 2011 “Contagion” and her new thriller “She Dies Tomorrow” have
-    added resonance now. “Why is this kind of imagery so compelling?”
-    Soderbergh
-    asked.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kyle
-    Buchanan</span></span>
-    
-    </div>
-
-5.  ### Critic’s Notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
-    
-    The Muppets were made of, by and for TV. Two new shows, “Muppets
-    Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO Max,
-    reimagine the media-savvy furry friends for a new
-    age.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Poniewozik</span></span>
     
     </div>
 
@@ -424,6 +398,142 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Rockettes’ ‘Christmas Spectacular’ Is Canceled
+    
+    MSG Entertainment, which owns Radio City Music Hall and manages the
+    Rockettes, cited the uncertainty of the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julia
+    Carmel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/books/review/betsy-bonner-the-book-of-atlantis-black.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04schaitkin/04schaitkin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Nonfiction</span>
+    
+    ## A Troubled Artist’s Death Proves as Unknowable as Her Life
+    
+    In “The Book of Atlantis Black,” Betsy Bonner attempts to solve the
+    mysterious fate of her troubled, enigmatic older sister.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexis
+    Schaitkin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Answering Your Questions About Taylor Swift’s ‘Folklore’
+    
+    Readers asked about Bon Iver, country music, Jack Antonoff and
+    more.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/movies/red-penguins-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04redpenguins/04redpenguins-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Red Penguins’ Review: A Rowdy Look at Post-Soviet Russia
+    
+    This new documentary tells the tale of the Americans who invested in
+    Russia’s premier hockey team in the early 1990s. Unsurprisingly,
+    things went awry.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Kenigsberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/magazine/behrouz-boochani-australia.html)
     
     <div class="css-79elbk">
@@ -455,7 +565,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -492,7 +602,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -529,7 +639,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -566,7 +676,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -602,7 +712,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -625,154 +735,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniel
-    Kraus</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/books/review/edmund-white-saint-from-texas.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Bird1/Bird1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Fiction</span>
-    
-    ## Edmund White’s High-Octane Saga of Twin Sisters and 1950s Texas
-    
-    White’s new novel, “A Saint From Texas,” traces the fates of Yvonne
-    — who marries a French nobleman — and Yvette, who becomes a nun.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah
-    Bird</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/books/review/migrations-charlotte-mcconaghy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Christie1/Christie1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Fiction</span>
-    
-    ## ‘The Animals Are Dying. Soon We Will Be Alone Here.’
-    
-    In “Migrations,” Charlotte McConaghy’s visceral reimagining of
-    “Moby-Dick,” a young woman documents some of the world’s last
-    surviving seabirds.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael
-    Christie</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/books/review/after-the-last-border-jessica-goudeau.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/books/review/Swartz1/Swartz1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Nonfiction</span>
-    
-    ## The Story of Refugees in America Through the Gripping Tales of Two Women
-    
-    In “After the Last Border,” Jessica Goudeau offers a searing history
-    of this nation’s response to humanitarian crises while recounting
-    the stories of two refugees.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mimi
-    Swartz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Isaacson/04Isaacson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Nonfiction</span>
-    
-    ## ‘Life of a Klansman’ Tells Ugly Truths About America, Past and Present
-    
-    In his latest book, Edward Ball retraces an ancestor’s involvement
-    with the Ku Klux Klan in order to shed light on the country’s legacy
-    of white supremacy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Walter Isaacson</span>
+    By <span class="css-1n7hynb">Daniel Kraus</span>
     
     </div>
     

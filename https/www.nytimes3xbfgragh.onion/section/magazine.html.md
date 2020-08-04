@@ -98,11 +98,73 @@ story](#after-top)
 
 ## Highlights
 
-1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
-    Doumbouya for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-jumbo.jpg)
+1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Birgit
+    Krippner for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-jumbo-v6.jpg)
     
     <div class="css-gjijuv">
+    
+    ### feature
+    
+    ## [Behrouz Boochani Just Wants to Be Free](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s
+    next?
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Megan K.
+    Stack</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Tomi
+    Um</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Ethicist/09Ethicist-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### The Ethicist
+    
+    ## [Is It OK That I Haven’t Told My Parents I Was Fired?](/2020/08/04/magazine/jobs-unemployment-ethics.html)
+    
+    The magazine’s Ethicist columnist on why it can be hard to tell
+    family you’ve lost your job, whether to collect unemployment
+    benefits and
+    more.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
+    Appiah</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by
+    Radio</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Tip
+    
+    ## [How to Keep a Condor Wild](/2020/08/04/magazine/condors-yurok-tribe.html)
+    
+    Faced with such a strange big bird, you might find yourself
+    nervously talking baby talk. Don’t do
+    that.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Malia
+    Wollan</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
+    Doumbouya for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Talk
     
@@ -117,13 +179,19 @@ story](#after-top)
     
     </div>
 
-2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
     Price for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [Pollution Is Killing Black Americans. This Community Fought Back.](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
     
@@ -132,19 +200,19 @@ story](#after-top)
     environmental-justice movement make a
     difference?
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Linda
     Villarosa</span></span>
     
     </div>
 
-3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
+2.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
     Saman/Magnum, for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [Inside the Iraqi Kleptocracy](/2020/07/29/magazine/iraq-corruption.html)
     
@@ -153,19 +221,19 @@ story](#after-top)
     at least $10 billion a year in hard
     currency.
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Robert F.
     Worth</span></span>
     
     </div>
 
-4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+3.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Daniel
     Barreto</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [The Mysterious Life of Birds Who Never Come Down](/2020/07/29/magazine/vesper-flights.html)
     
@@ -173,19 +241,13 @@ story](#after-top)
     us about the
     future?
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Helen
     Macdonald</span></span>
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The Ethicist
+4.  ### The Ethicist
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Tomi
@@ -205,7 +267,7 @@ story](#after-top)
     
     </div>
 
-2.  ### Eat
+5.  ### Eat
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
     Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
@@ -223,63 +285,6 @@ story](#after-top)
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
     Hamilton</span></span>
-    
-    </div>
-
-3.  ### Talk
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
-    Doumbouya for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-talk/02mag-talk-videoLarge-v5.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Ben & Jerry’s Radical Ice Cream Dreams](/interactive/2020/07/27/magazine/ben-jerry-interview.html)
-    
-    “There wasn’t any other business talking about dismantling white
-    supremacy.”
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Marchese</span></span>
-    
-    </div>
-
-4.  ### Diagnosis
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    illustration by Ina
-    Jang</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [His Face, Hands and Feet Swelled Up. What Was Going On?](/2020/07/30/magazine/urticaria-multiforme.html)
-    
-    The young boy’s grandmother saw strange red lines snaking around his
-    body. Could this be an allergic reaction? A rare autoimmune
-    disease?
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lisa Sanders,
-    M.D.</span></span>
-    
-    </div>
-
-5.  ### Letter of Recommendation
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Strange Lure of Other People’s Photos](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
-    
-    When I consider all that these people lived through — world wars,
-    the Depression, epidemics with no medicine — I’m given a far longer
-    view.
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Bill
-    Shapiro</span></span>
     
     </div>
 
@@ -339,116 +344,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">feature</span>
-    
-    ## Behrouz Boochani Just Wants to Be Free
-    
-    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
-    detention camps — from the inside. He survived, stateless, for seven
-    years. What’s next?
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Megan K.
-    Stack</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/magazine/jobs-unemployment-ethics.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Ethicist/09Ethicist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Ethicist</span>
-    
-    ## Is It OK That I Haven’t Told My Parents I Was Fired?
-    
-    The magazine’s Ethicist columnist on why it can be hard to tell
-    family you’ve lost your job, whether to collect unemployment
-    benefits and more.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kwame Anthony
-    Appiah</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/magazine/condors-yurok-tribe.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Tip </span>
-    
-    ## How to Keep a Condor Wild
-    
-    Faced with such a strange big bird, you might find yourself
-    nervously talking baby talk. Don’t do that.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Malia
-    Wollan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/07/31/magazine/behind-the-cover-environmental-justice.html)
     
     <div class="css-79elbk">
@@ -478,7 +373,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+2.  
     
     <div class="css-1cp3ece">
     
@@ -516,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -552,7 +447,80 @@ story](#after-mid1)
     
     </div>
 
-7.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Letter of Recommendation</span>
+    
+    ## The Strange Lure of Other People’s Photos
+    
+    When I consider all that these people lived through — world wars,
+    the Depression, epidemics with no medicine — I’m given a far longer
+    view.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bill
+    Shapiro</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/urticaria-multiforme.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Diagnosis</span>
+    
+    ## His Face, Hands and Feet Swelled Up. What Was Going On?
+    
+    The young boy’s grandmother saw strange red lines snaking around his
+    body. Could this be an allergic reaction? A rare autoimmune disease?
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lisa Sanders,
+    M.D.</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -588,7 +556,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -624,7 +592,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -661,7 +629,7 @@ story](#after-mid1)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -684,7 +652,43 @@ story](#after-mid1)
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Malia Wollan</span>
+    By <span class="css-1n7hynb">Malia
+    Wollan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/27/magazine/ben-jerry-interview.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-talk/02mag-talk-thumbWide-v5.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Talk</span>
+    
+    ## Ben & Jerry’s Radical Ice Cream Dreams
+    
+    “There wasn’t any other business talking about dismantling white
+    supremacy.”
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">David Marchese</span>
     
     </div>
     

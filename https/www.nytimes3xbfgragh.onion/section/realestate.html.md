@@ -164,103 +164,103 @@ Home](https://nytimesads.gtspayments.com/)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
-    Photos</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
+    Ukmar for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbStandard.jpg)](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbStandard.jpg)](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
     
     </div>
     
-    ### What you Get
+    ### What I Love
     
-    ## [$3 Million Homes in California](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
+    ## [Harris Faulkner, Working From Home in Shades of Blue](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
     
-    A Spanish-style retreat in Coronado, a midcentury-modern home in
-    Piedmont and a remodeled 1953 house in Los
-    Angeles.
+    The Fox News anchor’s mother gave her some decorating advice: ‘Just
+    make it beautiful.’ And she’s been
+    trying.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Angela
-    Serratore</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Joanne
+    Kaufman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
-    Marks for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03renters1/merlin_175089951_ad28cb14-0ee4-44c8-82eb-944ad75dd910-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sarah
+    Kobos</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/realestate/04wirecutter-outdoors5/04wirecutter-outdoors5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03renters1/03renters1-thumbStandard.jpg)](/2020/08/03/realestate/coronavirus-roommate-renters.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/realestate/04wirecutter-outdoors5/04wirecutter-outdoors5-thumbStandard.jpg)](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
     
     </div>
     
-    ### renters
+    ## [5 Things You Need to Upgrade Your Tiny Outdoor Space](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
     
-    ## [The Challenge: Finding a Roommate During a Pandemic](/2020/08/03/realestate/coronavirus-roommate-renters.html)
-    
-    With social distancing required, two new roommates discovered, it’s
-    a little like marrying someone before you
-    meet.
+    It’s never been more important to make your balcony, terrace, or
+    patch of cement cozy and hospitable. Here’s
+    how.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kim
-    Velsey</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dorie
+    Chevlen</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
-        Nadia
-        Pillon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/01Ask/01Ask-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
+        Photos</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Ask Real Estate
+        ### What you Get
         
-        ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+        ## [$3 Million Homes in California](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/01Ask/01Ask-thumbStandard.jpg)](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbStandard.jpg)](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
         
         </div>
         
-        New York issued guidelines for how residential buildings should
-        safely operate — but there no consequences for failing to
-        comply.
+        A Spanish-style retreat in Coronado, a midcentury-modern home in
+        Piedmont and a remodeled 1953 house in Los
+        Angeles.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ronda
-        Kaysen</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Angela
+        Serratore</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+        Marks for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03renters1/merlin_175089951_ad28cb14-0ee4-44c8-82eb-944ad75dd910-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### What’s selling now
+        ### renters
         
-        ## [Homes That Sold for Around $600,000](/2020/08/02/realestate/homes-that-sold-for-around-600000.html)
+        ## [The Challenge: Finding a Roommate During a Pandemic](/2020/08/03/realestate/coronavirus-roommate-renters.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-thumbStandard.jpg)](/2020/08/02/realestate/homes-that-sold-for-around-600000.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/realestate/03renters1/03renters1-thumbStandard.jpg)](/2020/08/03/realestate/coronavirus-roommate-renters.html)
         
         </div>
         
-        Recent residential sales in New York City and the
-        region.
+        With social distancing required, two new roommates discovered,
+        it’s a little like marrying someone before you
+        meet.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">C. J.
-        Hughes</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Kim
+        Velsey</span></span>
         
         </div>
 
@@ -270,7 +270,44 @@ Home](https://nytimesads.gtspayments.com/)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Domestic Lives
+1.  ### Ask Real Estate
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
+    Nadia
+    Pillon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/01Ask/01Ask-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+    
+    New York issued guidelines for how residential buildings should
+    safely operate — but there no consequences for failing to
+    comply.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ronda
+    Kaysen</span></span>
+    
+    </div>
+
+2.  ### What’s selling now
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Homes That Sold for Around $600,000](/2020/08/02/realestate/homes-that-sold-for-around-600000.html)
+    
+    Recent residential sales in New York City and the
+    region.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">C. J.
+    Hughes</span></span>
+    
+    </div>
+
+3.  ### Domestic Lives
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
     Ukmar for The New York
@@ -290,7 +327,7 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -303,47 +340,6 @@ Home](https://nytimesads.gtspayments.com/)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alyson
     Krueger</span></span>
-    
-    </div>
-
-3.  ### The Hunt
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
-    Sato and Ilya
-    Lachugin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/30Hunt-Sato-06/30Hunt-Sato-06-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Two People in One Small Studio? This Couple Figured They Could Manage](/interactive/2020/07/30/realestate/30hunt-sato.html)
-    
-    Two newlyweds leave their tiny rental for something affordable in
-    Hell’s Kitchen — maybe even a one-bedroom. Which of these options
-    would you
-    choose?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Joyce
-    Cohen</span></span>
-    
-    </div>
-
-4.  ### On the Market
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
-    Ukmar for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Homes for Sale in Brooklyn, Manhattan and the Bronx](/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
-    
-    This week’s properties are on in Cobble Hill, Greenwich Village and
-    on the Grand
-    Concourse.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Stefanos
-    Chen</span></span>
     
     </div>
 
@@ -374,7 +370,48 @@ Home](https://nytimesads.gtspayments.com/)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Economic View
+1.  ### The Hunt
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+    Sato and Ilya
+    Lachugin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/30Hunt-Sato-06/30Hunt-Sato-06-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Two People in One Small Studio? This Couple Figured They Could Manage](/interactive/2020/07/30/realestate/30hunt-sato.html)
+    
+    Two newlyweds leave their tiny rental for something affordable in
+    Hell’s Kitchen — maybe even a one-bedroom. Which of these options
+    would you
+    choose?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joyce
+    Cohen</span></span>
+    
+    </div>
+
+2.  ### On the Market
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
+    Ukmar for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Homes for Sale in Brooklyn, Manhattan and the Bronx](/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
+    
+    This week’s properties are on in Cobble Hill, Greenwich Village and
+    on the Grand
+    Concourse.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stefanos
+    Chen</span></span>
+    
+    </div>
+
+3.  ### Economic View
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     Illustration by Michael
@@ -394,7 +431,7 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-2.  ### On the Market
+4.  ### On the Market
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
     Hill
@@ -416,7 +453,7 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-3.  ### Calculator
+5.  ### Calculator
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/realestate/30calculator-1595950792622/30calculator-1595950792622-mediumThreeByTwo440.png)
     
@@ -431,47 +468,6 @@ Home](https://nytimesads.gtspayments.com/)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Michael
     Kolomatsky</span></span>
-    
-    </div>
-
-4.  ### IN THE GARDEN
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jessica
-    Norman/Untermyer Gardens
-    Conservancy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/29garden1/29garden1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [It’s Summertime, and the Gardening Should Be Easy, Right?](/2020/07/29/realestate/garden-summer-august-chores.html)
-    
-    Actually, there’s a lot you still need to do. Here’s a list to get
-    you
-    started.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Roach</span></span>
-    
-    </div>
-
-5.  ### Living in
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-    W. Lee/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/realestate/29LIVING-NORTHBERGEN-slide-J7BF/29LIVING-NORTHBERGEN-slide-J7BF-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [North Bergen, N.J.: Reasonably Priced and Minutes From Manhattan](/2020/07/29/realestate/north-bergen-nj-reasonably-priced-and-minutes-from-manhattan.html)
-    
-    Supporters praise the community’s young, culturally diverse
-    population and its (relatively) affordable housing. And then there
-    are the
-    views.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Lasky</span></span>
     
     </div>
 
@@ -606,7 +602,26 @@ story](#after-mid1)
 [More in Living In
     »](/column/living-in)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laura
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/realestate/29LIVING-NORTHBERGEN-slide-J7BF/29LIVING-NORTHBERGEN-slide-J7BF-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [North Bergen, N.J.: Reasonably Priced and Minutes From Manhattan](/2020/07/29/realestate/north-bergen-nj-reasonably-priced-and-minutes-from-manhattan.html)
+    
+    Supporters praise the community’s young, culturally diverse
+    population and its (relatively) affordable housing. And then there
+    are the
+    views.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Lasky</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laura
     Moss for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/realestate/22LIVING-HILLSDALE-slide-GYIQ/22LIVING-HILLSDALE-slide-GYIQ-videoLarge.jpg)
     
@@ -625,7 +640,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
     W. Lee/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/realestate/15LIVING-WESTVILLAGE-slide-1WKE/15LIVING-WESTVILLAGE-slide-1WKE-videoLarge.jpg)
     
@@ -644,7 +659,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/08/realestate/08LIVING-ISLANDHEIGHTS-slide-3J0V/08LIVING-ISLANDHEIGHTS-slide-3J0V-videoLarge.jpg)
     
@@ -663,7 +678,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/05/realestate/01LIVING-MAHOPAC-slide-B4FK/01LIVING-MAHOPAC-slide-B4FK-videoLarge.jpg)
     
@@ -678,25 +693,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Susan
     Hodara</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jane
-    Beiles for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/04/26/realestate/22LIVING-STONINGTONCT-slide-D2JA/22LIVING-STONINGTONCT-slide-D2JA-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Stonington, Conn.: A Waterfront Community With a Colonial Vibe](/2020/04/22/realestate/stonington-conn-a-waterfront-community-with-a-colonial-vibe.html)
-    
-    New Yorkers seeking respite from the city have long gravitated to
-    Connecticut’s easternmost shoreline town, with its 18th- and
-    19th-century
-    homes.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lisa
-    Prevost</span></span>
     
     </div>
 
@@ -872,25 +868,26 @@ story](#after-feat4)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+    [](/2020/08/04/business/robot-cleaning-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">What I Love</span>
+    ### <span class="css-m70j1g">Square Feet</span>
     
-    ## Harris Faulkner, Working From Home in Shades of Blue
+    ## For Robots, It’s a Time to Shine (and Maybe Disinfect)
     
-    The Fox News anchor’s mother gave her some decorating advice: ‘Just
-    make it beautiful.’ And she’s been trying.
+    The pandemic has turned cleaning and other mundane building tasks
+    into a challenge, stoking interest in machines as cost-effective
+    solutions.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Joanne
-    Kaufman</span>
+    By <span class="css-1n7hynb">Lisa
+    Prevost</span>
     
     </div>
     
@@ -948,9 +945,9 @@ story](#after-feat4)
     
     </div>
     
-    ### <span class="css-m70j1g">good question</span>
+    ### <span class="css-m70j1g">Igood question</span>
     
-    ## How Hot is Too Hot?
+    ## How Hot Is Too Hot?
     
     The human body can survive at surprisingly high temperatures, so
     long as you’re prepared to sweat.
