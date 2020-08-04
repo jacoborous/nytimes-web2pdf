@@ -164,7 +164,31 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kobe
+    University</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-thumbStandard.jpg)](/2020/08/03/science/beetle-frog-poop.html)
+    
+    </div>
+    
+    ### Trilobites
+    
+    ## [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](/2020/08/03/science/beetle-frog-poop.html)
+    
+    A researcher fed beetles to frogs. The encounter did not end as
+    expected.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
     Ingalls/NASA, via Agence France-Presse \&mdash; Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
     
@@ -188,31 +212,31 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/Nasa
-    Via
-    Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/Nasa
+        Via
+        Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975](/2020/08/02/science/spacex-nasa-return.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbStandard.jpg)](/2020/08/02/science/spacex-nasa-return.html)
+        
+        </div>
+        
+        Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf
+        of Mexico in the Crew Dragon
+        spacecraft.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Kenneth
+        Chang</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbStandard.jpg)](/2020/08/02/science/spacex-nasa-return.html)
-    
-    </div>
-    
-    ## [NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975](/2020/08/02/science/spacex-nasa-return.html)
-    
-    Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf of
-    Mexico in the Crew Dragon
-    spacecraft.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-    Chang</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
         Raff for The New York
         Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
         
@@ -235,30 +259,6 @@ Outbreak](/news-event/coronavirus)
         Gorman</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
-        Sorokin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Trilobites
-        
-        ## [How Woody Vines Do the Twist](/2020/08/01/science/vines-lianas-panama.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-thumbStandard.jpg)](/2020/08/01/science/vines-lianas-panama.html)
-        
-        </div>
-        
-        Slowly, scientists are learning how lianas quickly
-        climb.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Devi
-        Lockwood</span></span>
-        
-        </div>
 
 </div>
 
@@ -266,7 +266,25 @@ Outbreak](/news-event/coronavirus)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+1.  ### Trilobites
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
+    Sorokin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Woody Vines Do the Twist](/2020/08/01/science/vines-lianas-panama.html)
+    
+    Slowly, scientists are learning how lianas quickly
+    climb.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Devi
+    Lockwood</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
     Warner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -282,7 +300,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ### Trilobites
+3.  ### Trilobites
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artokoloro,
     via
@@ -302,7 +320,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
     A.
     Widder</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/science/30TB-ANGLERFISH1/30TB-ANGLERFISH1-videoLarge.jpg)
     
@@ -320,25 +338,9 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [NASA Launches Perseverance Rover, Capping Summer of Missions to Mars](/2020/07/30/science/nasa-mars-launch.html)
-    
-    The third and final mission to the red planet of the month lifted
-    off on
-    Thursday.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-    Chang</span></span>
-    
-    </div>
-
 5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
     Webster/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -408,7 +410,7 @@ story](#after-mid1)
 
 2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
     Bailey/VWPics/Universal Images Group, via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -426,7 +428,7 @@ story](#after-mid1)
 
 3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Hawkins/Nature Picture Library, via
-    Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/21TB-BATS/21TB-BATS-videoLarge.jpg)
+    Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/21TB-BATS/21TB-BATS-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -442,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -507,6 +509,146 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/health/alzheimers-dementia-rates.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Dementia on the Retreat in the U.S. and Europe
+    
+    Rates of dementia have steadily fallen over the past 25 years, a new
+    study finds. But the disease is increasingly common in some parts of
+    the world.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gina
+    Kolata</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/coronavirus-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03virus-briefing-fauci/merlin_175155375_a565045c-e0d8-4c45-96ec-718c6bf140c0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    
+    Counting for the 2020 census will end on Sept. 30, a month earlier
+    than previously announced, the Census Bureau said. Some U.S. schools
+    have begun to reopen, with fraught
+    results.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">GLOBAL HEALTH</span>
+    
+    ## ‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.
+    
+    Tuberculosis kills 1.5 million people each year. Lockdowns and
+    supply-chain disruptions threaten progress against the disease as
+    well as H.I.V. and malaria.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Apoorva
+    Mandavilli</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/health/covid-telemedicine-congress.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Is Telemedicine Here to Stay?
+    
+    The answer largely depends on whether Medicare and private health
+    insurers will adequately cover virtual doctor visits once
+    coronavirus outbreaks subside.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reed
+    Abelson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
@@ -535,7 +677,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -570,7 +712,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -584,9 +726,9 @@ story](#after-mid1)
     
     </div>
     
-    ## Coronavirus Live Updates: Birx Warns That U.S. Epidemic Is in a ‘New Phase’
+    ## Birx Warns That U.S. Epidemic Is in a ‘New Phase’
     
-    College are preparing to welcome students back to a complicated
+    Colleges are preparing to welcome students back to a complicated
     campus setting. India’s home minister tests
     positive.
     
@@ -602,7 +744,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -612,15 +754,15 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
     
-    Her near-total face transplant in 2008 was the most complex at the
-    time. She was the fourth patient in the world to undergo such a
-    procedure.
+    Her near-total transplant in 2008 was at the time the most complex
+    one ever performed. She was the fourth patient in the world to
+    undergo such a procedure.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -637,7 +779,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -671,7 +813,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -693,145 +835,6 @@ story](#after-mid1)
     infected.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/gedmatch-breach-privacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why a Data Breach at a Genealogy Site Has Privacy Experts Worried
-    
-    Nearly two-thirds of GEDmatch’s users opt out of helping law
-    enforcement. For a brief window this month, that didn’t matter.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Heather
-    Murphy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/health/coronavirus-children-camp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Coronavirus Infected Hundreds at a Georgia Summer Camp
-    
-    The camp took precautions but did not require campers to wear masks,
-    the C.D.C. reported. Singing and cheering may have helped spread the
-    virus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Roni Caryn
-    Rabin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The New Old Age</span>
-    
-    ## Should Youth Come First in Coronavirus Care?
-    
-    If medical rationing becomes necessary, some older adults are
-    prepared to step aside. But many have the opposite concern: that
-    they will be arbitrarily sent to the rear of the line.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paula
-    Span</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/health/coronavirus-covid-testing.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/multimedia/00xp-virus-ethics-pix/00xp-virus-ethics-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Covid-19 Tests Are in Short Supply. Should You Still Get One?
-    
-    Public health officials once suggested only people with symptoms
-    should be tested. Now some say getting one is a civic duty.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maria Cramer</span>
     
     </div>
     

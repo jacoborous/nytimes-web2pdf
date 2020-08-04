@@ -179,33 +179,84 @@ Reviews](/reviews/dining)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linda
-    Xiao for The New York Times. Food Stylist: Monica
-    Pierini.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
+    Moon for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03Chinatown1/03Chinatown1-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-thumbStandard.jpg)](/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03Chinatown1/03Chinatown1-thumbStandard.jpg)](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
     
     </div>
     
-    ### A Good Appetite
+    ### Critic’s Notebook
     
-    ## [Chewy Meets Crispy in This Summery Salad](/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html)
+    ## [Chinatown Is Coming Back, One Noodle at a Time](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
     
-    This satisfying bowl gets its bite from farro, its crunch from
-    spiced chickpeas, and its sweetness from roasted corn and slivered
-    fennel.
+    Restaurants in the Manhattan neighborhood suffered early in the
+    pandemic. Some are just now experimenting with outdoor
+    service.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Melissa
-    Clark</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Pete
+    Wells</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lelanie
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+        Burcham for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/30Navajo1/merlin_174907557_fa5e6075-b20f-41ba-867c-2dc7b20a4da9-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/30Navajo1/merlin_174907557_fa5e6075-b20f-41ba-867c-2dc7b20a4da9-thumbStandard.jpg)](/2020/08/03/dining/navajo-nation-food-coronavirus.html)
+        
+        </div>
+        
+        ## [For the Navajo Nation, a Fight for Better Food Gains New Urgency](/2020/08/03/dining/navajo-nation-food-coronavirus.html)
+        
+        As the pandemic has brought home the importance of the global
+        movement for food sovereignty, members are planting and
+        sharing.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Amelia
+        Nierenberg</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linda
+        Xiao for The New York Times. Food Stylist: Monica
+        Pierini.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/31Appe1/merlin_174968421_376ca7c2-8fbb-405b-95ab-a08b89e65471-thumbStandard.jpg)](/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html)
+        
+        </div>
+        
+        ### A Good Appetite
+        
+        ## [Chewy Meets Crispy in This Summery Salad](/2020/07/31/dining/farro-corn-chickpea-salad-recipe.html)
+        
+        This satisfying bowl gets its bite from farro, its crunch from
+        spiced chickpeas, and its sweetness from roasted corn and
+        slivered
+        fennel.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Melissa
+        Clark</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lelanie
         Foster for The New York
         Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/05fishmarket1/05fishmarket1-jumbo.jpg)
         
@@ -229,58 +280,6 @@ Reviews](/reviews/dining)
         Stewart</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
-        Cenicola/The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/08/dining/08Next-a/merlin_173938650_0f69f93f-76ba-44ec-b62a-5dc7c457e5ff-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/08/dining/08Next-a/merlin_173938650_0f69f93f-76ba-44ec-b62a-5dc7c457e5ff-thumbStandard.jpg)](/2020/07/30/dining/drinks/wine-school-verdicchio-di-matelica.html)
-        
-        </div>
-        
-        ### Wine School
-        
-        ## [What Is a Great Wine? Verdicchio di Matelica Has Some Ideas](/2020/07/30/dining/drinks/wine-school-verdicchio-di-matelica.html)
-        
-        This Italian white doesn’t necessarily follow the conventions of
-        greatness, but it raises questions worth
-        considering.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Eric
-        Asimov</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
-        Paulsen for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/28fare1/merlin_174758739_a4877efc-01ca-4572-83a6-9213dc8aab01-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/28fare1/merlin_174758739_a4877efc-01ca-4572-83a6-9213dc8aab01-thumbStandard.jpg)](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
-        
-        </div>
-        
-        ### Critic’s Notebook
-        
-        ## [The Pandemic Could End the Age of Midpriced Dining](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
-        
-        When Melbourne restaurants reopened after lockdown, owners got
-        creative, and dinner got far more
-        expensive.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Besha
-        Rodell</span></span>
-        
-        </div>
 
 </div>
 
@@ -288,7 +287,46 @@ Reviews](/reviews/dining)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joshua
+1.  ### Wine School
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pepe
+    Serra</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/05Wine-School/05Wine-School-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [What Is a Great Wine? Verdicchio di Matelica Has Some Ideas](/2020/07/30/dining/drinks/wine-school-verdicchio-di-matelica.html)
+    
+    This Italian white doesn’t necessarily follow the conventions of
+    greatness, but it raises questions worth
+    considering.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Eric
+    Asimov</span></span>
+    
+    </div>
+
+2.  ### Critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
+    Paulsen for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/28fare1/merlin_174758739_a4877efc-01ca-4572-83a6-9213dc8aab01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Pandemic Could End the Age of Midpriced Dining](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
+    
+    When Melbourne restaurants reopened after lockdown, owners got
+    creative, and dinner got far more
+    expensive.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Besha
+    Rodell</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joshua
     Lott for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/29virus-ever2/29virus-ever2-videoLarge.jpg)
     
@@ -307,7 +345,7 @@ Reviews](/reviews/dining)
     
     </div>
 
-2.  ### Wine School
+4.  ### Wine School
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
@@ -327,7 +365,7 @@ Reviews](/reviews/dining)
     
     </div>
 
-3.  ### From the Pantry
+5.  ### From the Pantry
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Melissa
     Clark/The New York
@@ -346,7 +384,15 @@ Reviews](/reviews/dining)
     
     </div>
 
-4.  ### off the menu
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### off the menu
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
     Speranza for The New York
@@ -366,7 +412,7 @@ Reviews](/reviews/dining)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
     Miller for The New York Times. Food Stylist: Rebecca
     Jurkevich.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/27yogurt/27yogurt-videoLarge.jpg)
     
@@ -383,15 +429,7 @@ Reviews](/reviews/dining)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     Scrivani for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/27Otto1/27Otto1-videoLarge.jpg)
     
@@ -409,7 +447,7 @@ Reviews](/reviews/dining)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tara
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tara
     Donne for The New York Times. Food Stylist: Chris
     Lanier.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/29Ribs4/29Ribs4-videoLarge-v2.jpg)
     
@@ -424,43 +462,6 @@ Reviews](/reviews/dining)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Steven
     Raichlen</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-    Miller for The New York Times. Food Stylist: Rebecca
-    Jurkevich</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/27Cherry/merlin_174807387_e7b67a2d-7147-4b55-90a3-108ee9cfdff8-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Cherries Belong in More Than Pie](/2020/07/24/dining/cherry-salad-recipe.html)
-    
-    Turn them into something savory, alongside charred scallions and
-    creamy raw
-    pistachios.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Angela
-    Dimayuga</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brittainy
-    Newman for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/dining/21Buford1/21Buford1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Zooming In on Bill Buford’s Latest Obsession](/2020/07/21/dining/bill-buford-dirt-book-chicken-recipe.html)
-    
-    The author spent more than a decade seeking the heart of French
-    cuisine for his new book, “Dirt.” But in quarantine, he just wants
-    to make the perfect
-    chicken.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Pete
-    Wells</span></span>
     
     </div>
 
@@ -540,6 +541,291 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/dining/martin-van-buren-high-school-cookbook.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-book/03burner-book-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## A Digital School Cookbook to Aid Families
+    
+    Martin Van Buren High School in Queens Village is raising money with
+    a collaborative digital cookbook.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/mexican-ice-cream.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-cream/03burner-cream-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## Horchata Ice Cream in a Store Near You
+    
+    Helados La Neta is High Road Craft’s new line of flavors including
+    coconut, avocado and lime, and rum raisin.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/new-york-biltong.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-meat/03burner-meat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## South African Jerky, and More, at New York Biltong
+    
+    The West Village store also ships nationwide.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/marcus-samuelsson-fried-chicken-delivery.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-bird/03burner-bird-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## Marcus Samuelsson’s Streetbird Delivers to Your Door
+    
+    The closed Harlem restaurant now offers a dinner of fried chicken,
+    waffles and sides.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/drinks/santa-teresa-rum.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-rum/03burner-rum-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## A Dark, Brooding Rum for Your Cocktails
+    
+    Santa Teresa in Venezuela has been making the liquor since 1796.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/dirt-candy-vegetarian-muffuletta.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-muff/03burner-muff-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Front Burner</span>
+    
+    ## Dirt Candy Returns With a Vegetarian Muffuletta
+    
+    The chef Amanda Cohen’s vegetarian restaurant on the Lower East Side
+    has reopened with a new menu.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/obituaries/john-swing-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31Swing/31Swing-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## John Eric Swing, a Filipino-American Community Builder, Dies at 48.
+    
+    Mr. Swing was a catalyst in the Historic Filipinotown neighborhood
+    of Los Angeles, a new center of food start-ups. He died of
+    complications of the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Leland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/dining/cooking-as-craft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2019/07/22/dining/aw-tomato-and-peach-salad-with-whipped-goat-cheese/merlin_157887927_dd555ee7-3af4-4efc-b3aa-dff8cbaba8bf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Cooking as Craft
+    
+    Brush up on the basics, or lean into something new, whether it’s
+    ginger-lime chicken or a pork schnitzel with quick pickles.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sam
+    Sifton</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/dining/what-to-cook-this-week.html)
     
     <div class="css-79elbk">
@@ -569,7 +855,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -589,282 +875,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Amelia
-    Nierenberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/at-home/newsletter.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30go-gos/30go-gos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">at home newsletter</span>
-    
-    ## This Week, Clean Your Stove
-    
-    Some straightforward advice for a reader who feels directionless
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/nyregion/nello-liquor-license-suspended.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/nyregion/31nyvirus-nello1/31nyvirus-nello1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Nello, Beloved by Rich New Yorkers, Is Dinged Over Illicit Indoor Dining
-    
-    The Upper East Side restaurant was accused of serving eight people
-    inside, violating New York’s orders.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael
-    Gold</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/dining/low-key-cooking.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/dining/as-ginger-lime-chicken/as-ginger-lime-chicken-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Low-Key Cooking
-    
-    These recipes are simple and satisfying enough for those sweet and
-    drowsy August days.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily
-    Weinstein</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/dining/what-to-cook-this-weekend.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-eat/02mag-eat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What to Cook This Weekend
-    
-    Let Gabrielle Hamilton’s latest recipe, for eggplant croquettes,
-    give your cooking new life.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
-    more.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/nyregion/coronavirus-nyc-tourism-restaurants.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Food Tourists Trickle In to New York’s Pandemic Dining Scene
-    
-    Visitors — as long as they don’t come from a quarantine state — are
-    enjoying the city’s rooftop bars and sidewalk restaurants.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alyson
-    Krueger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/at-home/newsletter.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/multimedia/29ah-newsletter-top/29ah-newsletter-top-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">At Home Newsletter</span>
-    
-    ## It’s Time to Head to the Woods
-    
-    Answering a reader’s question about what to do with vacation time
-    when standard travel seems problematic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">One Good Meal</span>
-    
-    ## A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It
-    
-    Skye McAlpine has made a name for herself serving bountiful meals to
-    large groups of friends. During lockdown, she’s discovered the joy
-    of cooking for just one or two.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Isabel Wilkinson</span>
+    By <span class="css-1n7hynb">Amelia Nierenberg</span>
     
     </div>
     

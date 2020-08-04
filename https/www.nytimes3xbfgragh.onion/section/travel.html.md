@@ -179,7 +179,26 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
+    Hautamaki</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### The World Through a Lens
+    
+    ## [A Visit to 5 of Patagonia’s Most Remote Schoolhouses](/2020/08/03/travel/remote-schools-patagonia.html)
+    
+    Community life within the isolated villages of southern Chile is
+    facilitated in part by an unlikely source: a network of rural
+    schools.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Andria
+    Hautamaki</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
     Air</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -197,7 +216,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
     Taylor for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
     
@@ -215,7 +234,13 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
     Abd El
     Ghany/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/travel/00Future-trips-virus01/00Future-trips-virus01-videoLarge.jpg)
     
@@ -234,13 +259,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The World Through a Lens
+2.  ### The World Through a Lens
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
@@ -260,7 +279,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
     Dominis/The LIFE Picture Collection, via Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26ah-dance2/26ah-dance2-videoLarge.jpg)
     
@@ -275,24 +294,6 @@ Go](/interactive/2020/travel/places-to-visit.html)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caterina
     Hrysomallis</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
-    Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Road Trips are Great. Except for the Driving.](/2020/07/24/travel/virus-road-trip.html)
-    
-    I wasn’t looking for an exotic vacation, just a temporary reprieve
-    from compulsive news-watching and a dose of in-person fun with
-    family and
-    friends.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
-    Koch</span></span>
     
     </div>
 
@@ -387,7 +388,25 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
+    Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Road Trips are Great. Except for the Driving.](/2020/07/24/travel/virus-road-trip.html)
+    
+    I wasn’t looking for an exotic vacation, just a temporary reprieve
+    from compulsive news-watching and a dose of in-person fun with
+    family and
+    friends.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
+    Koch</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
     A. Mccoy/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-videoLarge.jpg)
     
@@ -406,7 +425,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -424,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
     Lipton</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -443,25 +462,6 @@ story](#after-mid1)
     Marikar</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Tariro
     Mzezewa</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-    M. Haffey/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/travel/16-cruise-ban/16-cruise-ban-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Extending Cruise Ban, C.D.C. Slams Industry for Spreading Coronavirus](/2020/07/16/travel/coronavirus-cruise-ban-extended.html)
-    
-    In a scathing order extending the current “no sail” order on U.S.
-    cruise lines, the agency said it spent 38,000 hours managing the
-    outbreaks on
-    ships.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Frances
-    Robles</span></span>
     
     </div>
 
@@ -615,6 +615,43 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/insider/letting-their-cameras-transport-you.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/insider/03insider-lens-promo/03insider-lens-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Times Insider</span>
+    
+    ## Letting Their Cameras Transport You
+    
+    With some of the finest photojournalists as your guide, The World
+    Through a Lens series offers immersive escapes.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Stephen Hiltner <span>and</span>
+    Phaedra
+    Brown</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
     
     <div class="css-79elbk">
@@ -643,7 +680,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -678,7 +715,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -709,7 +746,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -743,7 +780,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -780,7 +817,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -815,7 +852,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -849,7 +886,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -883,7 +920,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -905,42 +942,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christopher
-    Mele</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/business/delta-airlines-bill-lentsch.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why Delta Is Leaving Middle Seats Empty During the Pandemic
-    
-    An executive for the airline explains its distancing practices and
-    approach to cleaning at a time when its biggest rivals are selling
-    all the seats they can.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Niraj Chokshi</span>
+    By <span class="css-1n7hynb">Christopher Mele</span>
     
     </div>
     

@@ -186,6 +186,256 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/27/nyregion/00nyvirus-smallbusiness/00nyvirus-smallbusiness-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## One-Third of New York’s Small Businesses May Be Gone Forever
+    
+    Small-business owners said they have exhausted federal and local
+    assistance and see no end in sight after months of sharp revenue
+    drops. Now, many are closing their shops and restaurants for good.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Men’s Wearhouse Owner Files for Bankruptcy
+    
+    Tailored Brands, known for its clothing chains Men’s Wearhouse and
+    JoS. A. Bank, struggled as the pandemic shut stores and consumer
+    demand for office attire dropped.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gillian
+    Friedman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    
+    The announcement came after the company consulted with President
+    Trump, who has threatened to ban the app and expressed national
+    security concerns about it in recent weeks.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    
+    Negotiators acknowledged some progress over the weekend, but said
+    they remained far apart on a number of issues.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
+    
+    Millions of dollars of Paycheck Protection Program loans went to
+    China-backed businesses in critical sectors, a study found.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
     
     <div class="css-79elbk">
@@ -214,7 +464,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +499,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -271,251 +521,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/gdp-2q-change-promo-1596113580367/gdp-2q-change-promo-1596113580367-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Collapse That Wiped Out 5 Years of Growth, With No Bounce in Sight
-    
-    The second-quarter contraction set a grim record, and it would have
-    been worse without government aid that is expiring.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben
-    Casselman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/business/economy/fed-talf-wall-street.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/business/29JPDC-FedProfit1-print/29DC-FedProfit-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Pimco’s Cayman-Based Hedge Fund Can Profit From the Fed’s Rescue
-    
-    Congress said borrowers in taxpayer-backed rescue programs had to be
-    from the United States. Wall Street has a workaround.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeanna
-    Smialek</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/virus-aid-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/us/politics/29dc-virus-cong2/merlin_175079799_6a0adc4a-89d0-434a-81a6-e4696eb8bcca-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As Trump Undercuts Aid Talks, White House Says Extra Jobless Benefits Will Lapse
-    
-    President Trump signaled that he was not interested in a broad
-    economic recovery package that would have to be negotiated with
-    Democrats, saying he preferred a narrower plan.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
-    Tankersley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/unemployment-benefits-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/business/29virus-cliff1/29virus-cliff1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## An Extra $600 a Week Kept Many Jobless Workers Afloat. Now What Will They Do?
-    
-    A supplement to unemployment benefits is at an end, and Congress is
-    deadlocked over new aid. For some, that means hunger, evictions or
-    bankruptcies.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Patricia Cohen, Ben Casselman
-    <span>and</span> Gillian
-    Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/federal-reserve-meeting-interest-rates.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/business/29DC-Fed-01/29DC-Fed-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Federal Reserve Leaves Rates Near Zero as Economic Recovery Sputters
-    
-    Federal Reserve officials made clear that they will work to bolster
-    the economy as the pandemic hurts business activity and the job
-    market.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeanna
-    Smialek</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/economy/ceo-pay-pandemic-layoffs.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/business/29ceopay1/29ceopay1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As the Pandemic Forced Layoffs, C.E.O.s Gave Up Little
-    
-    Some corporate bosses offered to cut their pay, but most did not.
-    Those who did gave up less than 10 percent of what they received
-    last year.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Peter
-    Eavis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/coronavirus-masks-stores-walmart.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/business/30virus-retailmasks-sub/28virus-retailmasks-sub-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Wrinkle in Stores’ Mask Policies: Enforcement
-    
-    A number of large retailers have said that all customers must wear
-    masks, but some employees have been told they cannot force those who
-    refuse.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Corkery</span>
+    By <span class="css-1n7hynb">Emily Cochrane</span>
     
     </div>
     

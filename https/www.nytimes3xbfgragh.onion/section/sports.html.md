@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-sports" class="section css-15h4p1b e9abtgs0">
 
@@ -164,21 +188,201 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
 
 <div id="collection-highlights-container" class="section css-18l1u7x e46isfb1">
 
-<div class="css-m1whxf ekkqrpp1">
+<div class="template-1 css-gfgt40 ekkqrpp1">
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
-    Solomon for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-mets/03mlb-mets-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+    Bello/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03yankees-1/merlin_175181169_127d39c2-665c-4eed-bb0c-1efbaaa25cf4-jumbo.jpg)
     
-    <div class="css-xbztij">
+    <div class="css-gjijuv">
     
-    <div class="css-1hyfx7x">
+    ## [Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-mets/03mlb-mets-thumbStandard.jpg)](/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html)
+    Judge has hit home runs in five consecutive games, and he’s done it
+    without one of his favorite tools: the video replay
+    room.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Wagner</span></span>
     
     </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+    Sladky/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### on baseball
+    
+    ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    
+    Series have been postponed, teams have been quarantined and road
+    trips have been rerouted in a season that has been defined above all
+    by its
+    precariousness.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tyler
+    Kepner</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kathy
+    Willens/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.](/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
+    
+    Morant, the star rookie for the Memphis Grizzlies, has become known
+    for dunking over any and everyone. “He really doesn’t care who’s
+    down there,” a teammate
+    said.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Scott
+    Cacciola</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
+    Kwak/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### on college football
+    
+    ## [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
+    
+    Kassidy Woods, a redshirt sophomore receiver at Washington State,
+    was concerned about the pandemic. The coach was sympathetic until he
+    learned he was joining a players’ rights
+    initiative.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Billy
+    Witz</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
+    Fremson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/sports/04Mascot-print-1/31mascot-spokane2-print-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Why One Team Named the Indians Won’t Be Changing Its Name](/2020/08/03/sports/baseball/indians-team-names-mascots.html)
+    
+    A minor league team in Spokane, Wash., has steadfastly stood by its
+    nickname with the support of the local Native American
+    community.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Waldstein</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Testa for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03gymnastics1-print/03gymnastics1-print-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Gymnasts Worldwide Push Back on Their Sport’s Culture of Abuse](/2020/08/03/sports/olympics/gymnastics-abuse-athlete-a.html)
+    
+    On Instagram and other social networks, gymnasts have tagged posts
+    with \#GymnastAlliance to share their own experiences in the wake of
+    a new documentary that highlights verbal and physical abuse by
+    coaches.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Juliet
+    Macur</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
+    C. Cox/USA Today Sports, via
+    Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03nba-redick01/03nba-redick01-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [After 100 Podcasts, JJ Redick Widens His Range](/2020/08/03/sports/jj-redick-podcast.html)
+    
+    The New Orleans Pelicans shooter is starting a new show and a
+    production company to develop more
+    podcasts.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Scott
+    Cacciola</span></span>
+    
+    </div>
+
+4.  ### On Tennis
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karsten
+    Moran for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03tennis-hawkeye/03tennis-hawkeye-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Automated Line Calls Will Replace Human Judges at U.S. Open](/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html)
+    
+    On all but the two biggest show courts, line calls will be made by
+    Hawk-Eye Live to reduce the number of people on site during the
+    pandemic.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Christopher
+    Clarey</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+    Anzuoni/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03xfl/03xfl-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Dwayne Johnson Part of XFL Ownership Bid](/2020/08/03/sports/football/xfl-the-rock-dwayne-johnson.html)
+    
+    The actor and former wrestler, who is known as the Rock, is part of
+    a group of investors that bought what remains of the XFL for $15
+    million, pending bankruptcy court
+    approval.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Victor
+    Mather</span></span>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+    Solomon for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-mets/03mlb-mets-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Mets’ Yoenis Cespedes Opts Out of 2020 Season](/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html)
     
@@ -193,106 +397,44 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-        Hefti/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02collegefootball-web-2/02collegefootball-web-2-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02collegefootball-web-2/02collegefootball-web-2-thumbStandard.jpg)](/2020/08/02/sports/ncaafootball/coronavirus-college-football-pac-12.html)
-        
-        </div>
-        
-        ## [A Group of Pac-12 Football Players Opts Out of the Season](/2020/08/02/sports/ncaafootball/coronavirus-college-football-pac-12.html)
-        
-        The athletes from 10 schools said they were dissatisfied with
-        how their universities were handling the coronavirus, an
-        approach they say prioritizes money over
-        safety.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Billy
-        Witz</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rob
-        Carr/Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/merlin_175096953_c4eb53d3-68c2-4cda-9770-cbfd9a1f9b8a-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/02mlb-thumbStandard.jpg)](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
-        
-        </div>
-        
-        ## [‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
-        
-        Major League Baseball’s commissioner put the onus on players to
-        behave more responsibly, but some players and health experts see
-        weaknesses in the league’s safety
-        protocols.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">James
-        Wagner</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
-        Mole</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-thumbStandard.jpg)](/2020/08/02/sports/snooker-world-championship.html)
-        
-        </div>
-        
-        ## [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](/2020/08/02/sports/snooker-world-championship.html)
-        
-        The world snooker championship welcomed spectators last week,
-        part of a pilot program that offered hope to other events eager
-        to follow suit. A few hours later, the government pulled the
-        plug.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Karen
-        Crouse</span></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Morry
-    Gash/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/01virus-mlb/merlin_175167699_2397f43a-6037-4988-a7c2-4be1e5e600c3-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rob
+    Carr/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/02mlb-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [More Games Postponed With 4 More Coronavirus Cases for Cardinals](/2020/08/01/sports/baseball/coronavirus-cardinals.html)
+    ## [‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
     
-    Three staffers and one player for the St. Louis Cardinals tested
-    positive for the virus, prompting the postponement of a game
-    Saturday and a doubleheader Sunday against the Brewers in
-    Milwaukee.
+    Major League Baseball’s commissioner put the onus on players to
+    behave more responsibly, but some players and health experts see
+    weaknesses in the league’s safety
+    protocols.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tyler
-    Kepner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Wagner</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
+    Mole</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](/2020/08/02/sports/snooker-world-championship.html)
+    
+    The world snooker championship welcomed spectators last week, part
+    of a pilot program that offered hope to other events eager to follow
+    suit. A few hours later, the government pulled the
+    plug.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Crouse</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
     Edelheit for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/01wnba-rookies01/merlin_175183137_b22e2977-41eb-491c-884a-3bd474e94826-videoLarge.jpg)
     
@@ -310,7 +452,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reginald
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reginald
     Thomas II/San Antonio
     Spurs</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/00nba-pattymills-1/merlin_174856419_0f49b851-2eee-49b0-a7c0-ea3c416a8179-videoLarge.jpg)
     
@@ -327,144 +469,6 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Marc
     Stein</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Pensinger/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/sports/29SKELETON-top-1/merlin_174528426_06653e10-f239-4dc0-ad27-840a38122d93-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [This Sledding Team Trained Hard for Gold in 2010. Some Members Regret It.](/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
-    
-    In skeleton, the headfirst Olympic sledding sport, the opportunity
-    for unlimited training on the track can be a huge advantage. But
-    Canadian Olympians who had such access believe it was bad for their
-    brains.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Futterman</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeff
-    Vinnick/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/01nhl-edmonton1-print/merlin_175138452_9486317d-6b51-411a-a58b-933de68b92ca-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Edmonton, ‘City of Champions,’ Readies for a Hockey Marathon](/2020/08/01/sports/hockey/edmonton-nhl-playoffs.html)
-    
-    The N.H.L. chose the small-market, hockey-mad city as one of two
-    “hub cities” — along with Toronto — to host its
-    playoffs.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carol
-    Schram</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ashley
-    Landis/USA Today Sports, via
-    Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/sports/31nba-returnsWEB1/merlin_175137366_d5661bcf-71e1-4749-a5c8-1dfd3152b43a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Momentous First Night Back for the N.B.A.](/2020/07/31/sports/basketball/nba-opening-night.html)
-    
-    Close games, social justice protests and a principal role for Rudy
-    Gobert,
-    again.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marc
-    Stein</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
-    Solomon for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/00mlb-empty-2/00mlb-empty-2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Baseball in Empty Stadiums Is Weird. How Will It Affect Outcomes?](/2020/07/31/sports/baseball/baseball-empty-stadiums-effects.html)
-    
-    Players, coaches and analysts of all stripes are watching this
-    season’s games to see what effect — if any — the absence of fans has
-    on the games
-    themselves.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Robert
-    O’Connell</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Laurence
-    Kesterson/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/28collegehoops-recruiting-1/28collegehoops-recruiting-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [No Summer Tournaments Means More Recruits Committing to Colleges](/2020/07/30/sports/ncaabasketball/college-basketball-recruiting.html)
-    
-    Villanova has already received verbal commitments from enough
-    players to build most of a starting lineup for future
-    seasons.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Zagoria</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
-    Lussier/NBAE, via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/sports/14sideline-pettis/14sideline-pettis-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A W.N.B.A. Coach Heard a Call to Feed the Hungry. She’s Answering It.](/2020/07/30/sports/basketball/wnba-bridget-pettis.html)
-    
-    Bridget Pettis, a former W.N.B.A. player and coach, is sitting out
-    this season and focusing on teaching her community in Phoenix about
-    gardening and healthy
-    eating.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gillian R.
-    Brassil</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ashley
-    Landis/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/sports/30virus-bubbles1/merlin_175084758_6b939c67-508f-4795-b6e9-3adb40cdc8c3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Bubbles’ Are Working. But How Long Can Sports Stay Inside?](/2020/07/30/sports/basketball/sports-bubble-nba-mlb.html)
-    
-    The restricted, campuslike environments used by soccer and pro
-    basketball have proved (mostly) impervious to the coronavirus. But
-    not every league fits inside
-    one.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew
-    Keh</span></span>
     
     </div>
 
@@ -524,6 +528,182 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Sydney Dispatch</span>
+    
+    ## Taking a Spear Into the Sea, and Washing Anxiety Away
+    
+    I kept seeing people in Sydney carry spearguns to and from the
+    ocean. To understand why, I held my breath and dived in.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/ncaafootball/coronavirus-college-football-pac-12.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02collegefootball-web-2/02collegefootball-web-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A Group of Pac-12 Football Players Threaten to Opt Out of the Season
+    
+    The athletes from 10 schools said they were dissatisfied with how
+    their universities were handling the coronavirus, an approach they
+    say prioritizes money over safety.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Billy
+    Witz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/sports/baseball/coronavirus-cardinals.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/01virus-mlb/merlin_175167699_2397f43a-6037-4988-a7c2-4be1e5e600c3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## More Games Postponed With 4 More Coronavirus Cases for Cardinals
+    
+    Three staffers and one player for the St. Louis Cardinals tested
+    positive for the virus, prompting the postponement of a game
+    Saturday and a doubleheader Sunday against the Brewers in Milwaukee.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tyler
+    Kepner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/sports/29SKELETON-top-1/merlin_174528426_06653e10-f239-4dc0-ad27-840a38122d93-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## This Sledding Team Trained Hard for Gold in 2010. Some Members Regret It.
+    
+    In skeleton, the headfirst Olympic sledding sport, the opportunity
+    for unlimited training on the track can be a huge advantage. But
+    Canadian Olympians who had such access believe it was bad for their
+    brains.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Futterman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/sports/hockey/edmonton-nhl-playoffs.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/sports/01nhl-edmonton1-print/merlin_175138452_9486317d-6b51-411a-a58b-933de68b92ca-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Edmonton, ‘City of Champions,’ Readies for a Hockey Marathon
+    
+    The N.H.L. chose the small-market, hockey-mad city as one of two
+    “hub cities” — along with Toronto — to host its playoffs.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carol
+    Schram</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/sports/soccer/leeds-united-san-francisco-49ers.html)
     
     <div class="css-79elbk">
@@ -553,7 +733,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -570,7 +750,7 @@ story](#after-mid1)
     ## Antonio Brown Suspended Eight Games by the N.F.L.
     
     The All-Pro receiver was penalized for his role in a January dispute
-    at his home and for sending threatening tests to a woman who had
+    at his home and for sending threatening texts to a woman who had
     accused him of sexual misconduct.
     
     <div class="css-1nqbnmb ea5icrr0">
@@ -588,7 +768,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -623,7 +803,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -660,7 +840,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -682,181 +862,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tyler
-    Kepner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/well/family/gambling-on-college-football-almost-fixed-my-dysfunctional-family.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31TIES-FOOTBALL-illo/31TIES-FOOTBALL-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Ties</span>
-    
-    ## Gambling on College Football Almost Fixed My Dysfunctional Family
-    
-    If Covid takes the football season away from us, we’re in danger of
-    losing the bond we’ve taken so many years to build.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike
-    Evans</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/31/briefing/troops-baseball-louie-gohmert-news-quiz.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/politics/31newsquiz-germany/29dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## News Quiz: U.S. Troops, Baseball, Louie Gohmert
-    
-    Did you follow the headlines this week?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Compiled by <span class="css-1n7hynb">Will Dudding, Anna Schaverien
-    <span>and</span> Jessica
-    Anderson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/coronavirus-sec-schedule.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/sports/30collegefootball/merlin_164191302_f199e0e3-0deb-4c75-beac-cc367da17c0b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## SEC Becomes Latest College Football League to Shrink Schedule
-    
-    The Southeastern Conference, the most influential league in college
-    football, said it would delay the start of its season and have its
-    teams play only within the conference.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Billy
-    Witz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/olympics/ben-jipcho-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/obituaries/02jipcho-obit2/30jipcho-sub2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Ben Jipcho, a Runner Who Sacrificed Himself for a Teammate, Dies at 77
-    
-    At the 1968 Summer Olympics, he set a blistering early pace in the
-    1,500-meter race to help his teammate beat the American Jim Ryun.
-    Jipcho finished 10th.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Richard
-    Sandomir</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/basketball/nba-knicks-coach-tom-thibodeau.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/sports/30nba-knicks-1/merlin_175113222_2bb4fcab-d54d-4491-b79e-714031be6065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Thibodeau Calls Knicks Job a ‘Dream Come True’
-    
-    Tom Thibodeau was announced as the latest coach of the Knicks on
-    Thursday. Eight different people have filled the role since 2011.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sopan Deb</span>
+    By <span class="css-1n7hynb">Tyler Kepner</span>
     
     </div>
     

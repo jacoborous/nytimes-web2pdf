@@ -1,9 +1,10 @@
 *.txt
 *.sh
 *.out
+*.log
 *.pdf
 **/*.txt
 **/*.sh
 **/*.out
 **/*.pdf
-
+**/*.log

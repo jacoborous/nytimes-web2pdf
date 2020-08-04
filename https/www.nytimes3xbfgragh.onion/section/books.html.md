@@ -167,13 +167,38 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-mediumThreeByTwo440.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mae
+    Astute/Walt Disney Television via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbStandard.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbStandard.jpg)](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    
+    </div>
+    
+    ## [Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she
+    says.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Concepción de
+    León</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-jumbo.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbStandard-v2.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
     
     </div>
     
@@ -191,32 +216,32 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-jumbo.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Books of The Times
+        
+        ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+        
+        </div>
+        
+        Wilkerson’s new book makes unsettling comparisons between
+        India’s treatment of its untouchables, Nazi Germany’s
+        treatment of Jews and America’s treatment of
+        African-Americans.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dwight
+        Garner</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
-    
-    </div>
-    
-    ### Books of The Times
-    
-    ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
-    
-    Wilkerson’s new book makes unsettling comparisons between India’s
-    treatment of its untouchables, Nazi Germany’s treatment of Jews and
-    America’s treatment of
-    African-Americans.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dwight
-    Garner</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
         Barnes for The New York
         Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/28Leilani2/28Leilani2-videoLarge-v4.jpg)
         
@@ -238,30 +263,7 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Concepción
         de
-        León</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [13 Books to Watch For in August](/2020/07/30/books/new-august-books.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-thumbStandard.jpg)](/2020/07/30/books/new-august-books.html)
-        
-        </div>
-        
-        Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
-        examination of American racism, a biography of the drug kingpin
-        El Chapo, and plenty
-        more.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joumana
-        Khatib</span></span>
+    León</span></span>
         
         </div>
 
@@ -290,7 +292,24 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [13 Books to Watch For in August](/2020/07/30/books/new-august-books.html)
+    
+    Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
+    examination of American racism, a biography of the drug kingpin El
+    Chapo, and plenty
+    more.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joumana
+    Khatib</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
     left: Ellie Smith for The New York Times; Tamara Gajic for The New
     York Times; Andrew Mangum for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-videoLarge.jpg)
@@ -307,22 +326,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alex
     Marshall</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/oakImage-1595952431918/oakImage-1595952431918-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Essential Tana French](/2020/07/29/books/the-essential-tana-french.html)
-    
-    If you want to brush up before her new novel arrives this fall,
-    here’s your
-    guide.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Janet
-    Maslin</span></span>
     
     </div>
 
@@ -504,6 +507,115 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fiction</span>
+    
+    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    
+    In “Kings County,” David Goodwillie examines New York’s most
+    celebrated borough with an uncynical eye.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adelle
+    Waldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">nonfiction</span>
+    
+    ## Why the U.S. Dropped Atomic Bombs on Japan
+    
+    Marc Gallicchio’s “Unconditional” details debates in both Japan and
+    the United States to end World War II.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Richard J.
+    Samuels</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Nonfiction</span>
+    
+    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
+    
+    “Wandering in Strange Lands” traces the author’s ancestry — and the
+    history of African-American oppression — along the footsteps of the
+    Great Migration.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Afua
+    Hirsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
     
     <div class="css-79elbk">
@@ -532,7 +644,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -542,7 +654,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -567,7 +679,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -603,7 +715,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -639,7 +751,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -675,7 +787,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -712,7 +824,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -736,114 +848,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby
-    Sher</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/the-brave-james-bird.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Children’s Books</span>
-    
-    ## A Native American Coming-of-Age and the Uses of Enchantment
-    
-    In James Bird’s “The Brave,” a boy bullied for his numeric mind
-    undergoes a metamorphosis when he’s sent to live on a reservation
-    with his Native American mother.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David
-    Treuer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/biography-of-resistance-muhammad-zaman-clean-james-hamblin-the-sensitives-oliver-broudy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/review/02Shortlist-Microscope/02Shortlist-Microscope-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Shortlist</span>
-    
-    ## New Books Take You Through the Microscope to the World of Pathogens
-    
-    Authors explore the way the invisible world impacts our lives, from
-    bacteria that are resistant to antibiotics to the beneficial
-    biodiversity on our skin.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rob
-    Dunn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/new-paperbacks.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/02PAPERROW-GRID/02PAPERROW-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## New in Paperback: ‘This Land Is Our Land’ and ‘Your House Will Pay’
-    
-    Six new paperbacks to check out this week.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jennifer Krauss</span>
+    By <span class="css-1n7hynb">Abby Sher</span>
     
     </div>
     

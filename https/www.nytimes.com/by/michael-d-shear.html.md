@@ -177,6 +177,111 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Again Assails Mail-In Voting
+    
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
+    
+    The Tennessee Valley Authority, an electric utility, quickly said it
+    would reconsider its move to shift some work to contractors outside
+    the United States.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/us/politics/trump-usps-mail-delays.html)
     
     <div class="css-79elbk">
@@ -207,7 +312,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +348,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +389,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -320,7 +425,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -362,7 +467,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -396,7 +501,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -417,113 +522,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/28/us/politics/trump-white-power-video-racism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/28/us/politics/28dc-trump-pix/28dc-trump-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Retweets Racist Video Showing Supporter Yelling ‘White Power’
-    
-    The president later deleted the tweet, which once again showed his
-    willingness to use social media to amplify some of the most hateful
-    commentary of some of his followers, even at a moment of unrest.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/us/politics/trump-monuments-executive-order.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/26/us/politics/26dc-trump/merlin_173824434_c1acd490-2a10-4b1a-94cf-2b5fe7d372b7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Issues Executive Order Targeting Vandalism Against Monuments
-    
-    The order also threatens to withhold funding from local governments
-    that fail to protect their own statues from vandals.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/us/politics/trump-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/26/us/politics/26dc-virus-trump1/merlin_173960877_c78f28bc-0466-4e9a-8747-34c0e1766857-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">White House memo</span>
-    
-    ## New Numbers Showing Coronavirus Spread Intrude on a White House in Denial
-    
-    Both President Trump and Vice President Pence seem oblivious to the
-    new chapter in the pandemic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D. Shear <span>and</span>
-    Maggie Haberman</span>
+    By <span class="css-1n7hynb">Michael D. Shear</span>
     
     </div>
     

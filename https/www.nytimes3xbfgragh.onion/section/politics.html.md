@@ -167,23 +167,22 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
+    Tripplaar/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/02dc-pppchina-thumbStandard.jpg)](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     </div>
     
-    ## [U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study
-    found.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury
+    Department.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alan
@@ -193,83 +192,79 @@ story](#after-sponsor)
 
 2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Moneymaker for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-videoLarge.jpg)
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbStandard.jpg)](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbStandard.jpg)](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     </div>
     
-    ## [Scientists Worry About Political Influence Over Coronavirus Vaccine Project](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    ## [With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President
-    Trump.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his
+    own.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Sharon LaFraniere</span>,
-    <span class="css-1baulvz" itemprop="name">Katie Thomas</span>,
-    <span class="css-1baulvz" itemprop="name">Noah Weiland</span>,
-    <span class="css-1baulvz" itemprop="name">Peter Baker</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Annie
-    Karni</span></span>
+    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span>,
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jim
+    Tankersley</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
-    Fremson/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Hanna/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Elizabeth Warren’s Evolution on Race Brought Her Here](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    ## [Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/merlin_169475661_56e5eb41-8da5-4976-93c0-02227d8ec7cd-thumbLarge.jpg)](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/3kansas-senate-thumbLarge.jpg)](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
     
     </div>
     
-    Ms. Warren, a racially progressive politician, is the only white
-    woman still under serious consideration to become Joe Biden’s
-    running
-    mate.
+    Republicans worry that if Kris Kobach, a polarizing figure in the
+    state, wins the nomination, it would pave the way for Democrats to
+    capture the seat and perhaps gain control of the
+    Senate.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Lisa Lerer</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Sydney
-    Ember</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Glueck</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
-    Zehbrauskas for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
+    Lamarque/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
+    ## [Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbLarge.jpg)](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbLarge.jpg)](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     </div>
     
-    The polarizing former sheriff of Maricopa County, a stylistic
-    doppelgänger to President Trump, is running for his old office in a
-    state where approval of both men has
-    slid.
+    Merritt Corrigan, the former deputy White House liaison for the U.S.
+    Agency for International Development, had drawn scrutiny shortly
+    after being named to the
+    position.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Hank
-    Stephenson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Pranshu
+    Verma</span></span>
     
     </div>
 
@@ -329,24 +324,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/anthony-tata-pentagon-nomination.html)
+    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02DC-TATA1/02DC-TATA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Pick for Pentagon Post Sidesteps Senate Ire for Different Defense Job
+    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
     
-    A retired Army general whose inflammatory comments appeared to doom
-    his nomination was tapped for a job that does not require Senate
-    approval.
+    Merritt Corrigan, the former deputy White House liaison for the U.S.
+    Agency for International Development, had drawn scrutiny shortly
+    after being named to the position.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
+    By <span class="css-1n7hynb">Pranshu
+    Verma</span>
     
     </div>
     
@@ -364,23 +359,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/flag-boat-SpaceX.html)
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
     
-    “We need to do a better job next time” of securing the area, the
-    NASA administrator, Jim Bridenstine, said.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -398,25 +395,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
     
     </div>
     
@@ -434,24 +430,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    [](/2020/08/03/us/politics/joe-biden-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok Ban? Creators and Fans Are Big Mad
+    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    The uncertainty over the future of the wildly popular video app has
-    brought chaos to its user community — and to the entertainment and
-    advertising industries as well.
+    ## Why Biden Won’t Find His Biden
+    
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were “simpatico.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
+    By <span class="css-1n7hynb">Lisa
+    Lerer</span>
     
     </div>
     
@@ -469,25 +466,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## In St. Louis, Testing Liberal Might Against a Democratic Fixture
+    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
     
-    Cori Bush, an activist backed by the progressive group Justice
-    Democrats, is trying to unseat 10-term Representative William Lacy
-    Clay in a bid to turn protest-movement fervor into hard political
-    power.
+    The Tennessee Valley Authority, an electric utility, quickly said it
+    would reconsider its move to shift some work to contractors outside
+    the United States.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -505,24 +501,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
+    [](/2020/08/03/us/politics/tata-pentagon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s
+    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
     
-    The polarizing former sheriff of Maricopa County, a stylistic
-    doppelgänger to President Trump, is running for his old office in a
-    state where approval of both men has slid.
+    The president sidestepped Congress when it became clear that his
+    nominee for a top Defense Department position would not win Senate
+    approval.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Hank
-    Stephenson</span>
+    By <span class="css-1n7hynb">Helene
+    Cooper</span>
     
     </div>
     
@@ -540,23 +536,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    [](/2020/08/03/us/politics/gun-control-voters.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    ## What Happened to the Young Voters Focused on Guns?
     
-    Negotiators acknowledged some progress over the weekend, but said
-    they remained far apart on a number of issues.
+    It’s not their top issue anymore, but many see it as a part of
+    other, larger concerns.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
+    By <span class="css-1n7hynb">Giovanni
+    Russonello</span>
     
     </div>
     
@@ -574,26 +570,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/kayleigh-mcenany.html)
+    [](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-kayleigh-pix1/02dc-kayleigh-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">White HOUse MEMO</span>
+    ## Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
     
-    ## Kayleigh McEnany Heckles the Press. Is That All?
-    
-    President Trump does not always watch her briefings, and even his
-    allies say she risks being known more for “hitting the press with a
-    two-by-four” than advancing his priorities.
+    Republicans worry that if Kris Kobach, a polarizing figure in the
+    state, wins the nomination, it would pave the way for Democrats to
+    capture the seat and perhaps gain control of the Senate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Maggie
-    Haberman</span>
+    By <span class="css-1n7hynb">Katie
+    Glueck</span>
     
     </div>
     
@@ -611,24 +605,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Elizabeth Warren’s Evolution on Race Brought Her Here
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
     
-    Ms. Warren, a racially progressive politician, is the only white
-    woman still under serious consideration to become Joe Biden’s
-    running mate.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
-    Ember</span>
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
     
     </div>
     
@@ -646,22 +639,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
     
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study found.
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alan Rappeport</span>
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
     
     </div>
     

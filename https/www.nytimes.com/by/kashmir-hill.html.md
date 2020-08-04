@@ -175,6 +175,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## This Tool Could Protect Your Photos From Facial Recognition
+    
+    Researchers at the University of Chicago want you to be able to post
+    selfies without worrying that the next Clearview AI will use them to
+    identify you.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kashmir
+    Hill</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/technology/blocking-the-tech-giants.html)
     
     <div class="css-79elbk">
@@ -204,7 +239,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +274,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +308,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +384,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -385,7 +420,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -455,7 +490,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -485,40 +520,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/01/20/reader-center/insider-clearview-ai.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/01/21/business/20clearviewinsider/merlin_167287032_8c2a60bc-42bf-422c-9a3d-e91604970898-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Unmasking a Company That Wants to Unmask Us All
-    
-    I reported on an app, created by the company Clearview AI, that can
-    identify people in seconds using a trove of photos collected from
-    across the web.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kashmir Hill</span>
     
     </div>
     

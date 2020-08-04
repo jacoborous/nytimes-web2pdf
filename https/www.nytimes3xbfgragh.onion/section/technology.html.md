@@ -142,94 +142,93 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03china-tiktok1/merlin_175185381_c1318e9d-923c-4ed2-a2a5-d3e4ba3556fe-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    The founder of ByteDance, Zhang Yiming, dreamed of building a global
+    tech company based in China. Then the geopolitical reality set
+    in.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kellen
-    Browning</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Raymond
+    Zhong</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
-    Bureau/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manjunath
+    Kiran/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    ## [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](/2020/08/03/technology/tiktok-microsoft-tweens.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbStandard.jpg)](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03microsoft1/03microsoft1-thumbStandard.jpg)](/2020/08/03/technology/tiktok-microsoft-tweens.html)
     
     </div>
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese
-    ownership.
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech
+    giant.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Raymond Zhong</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steve
-    Lohr</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Weise</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
-    Naveed/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What’s Going On With TikTok? Here’s What We Know](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/01tiktok-explainer-thumbStandard.jpg)](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbStandard.jpg)](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
     
     </div>
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all
-    here.
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve
+    ads.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    McCabe</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-videoLarge.png)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [More Than 1,000 Companies Boycotted Facebook. Did It Work?](/2020/08/01/business/media/facebook-boycott.html)
+    ### tech fix
+    
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbStandard.png)](/2020/08/01/business/media/facebook-boycott.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/03techfix1-thumbStandard.jpg)](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
     </div>
     
-    Major advertisers on Facebook reduced their spending by millions of
-    dollars in July, but not enough to significantly damage the
-    platform’s
-    revenue.
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tiffany Hsu</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Eleanor
-    Lutz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
@@ -381,6 +380,181 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease
+    
+    Despite the pandemic, the social media giant leased all the office
+    space in the former main post office at Penn Station in Midtown.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03ontech/03ontech-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">on tech</span>
+    
+    ## The Strange Saga of TikTok
+    
+    The chief executive of a big tech company negotiated directly with
+    the U.S. president over an app. Say what?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Shira
+    Ovide</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31fawkes4/31fawkes4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## This Tool Could Protect Your Photos From Facial Recognition
+    
+    Researchers at the University of Chicago want you to be able to post
+    selfies without worrying that the next Clearview AI will use them to
+    identify you.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kashmir
+    Hill</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/style/tiktok-ban-threat-trump.html)
     
     <div class="css-79elbk">
@@ -410,7 +584,43 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    
+    The teenage “mastermind” of the recent Twitter breach, who had a
+    difficult family life, poured his energy into video games and
+    cryptocurrency.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
+    <span>and</span> Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
     
     <div class="css-1cp3ece">
     
@@ -444,7 +654,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -479,239 +689,35 @@ story](#after-mid1)
     
     </div>
 
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/gedmatch-breach-privacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/00xp-GEDmatch-pix-sub/00xp-GEDmatch-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why a Data Breach at a Genealogy Site Has Privacy Experts Worried
-    
-    Nearly two-thirds of GEDmatch’s users opt out of helping law
-    enforcement. For a brief window this month, that didn’t matter.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Heather
-    Murphy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/twitter-hack-arrest.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack
-    
-    The authorities arrested a 17-year-old who they said ran a scheme
-    that targeted the accounts of celebrities, including former
-    President Barack Obama and Elon Musk. Two others were also charged.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kate Conger <span>and</span> Nathaniel
-    Popper</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
-    
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/amazon-earnings.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31ontech/31ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">on tech</span>
-    
-    ## Amazon Wins Without Even Trying
-    
-    As America’s economy suffers, Big Tech does shockingly well.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/style/randonautica-app.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What Is Randonautica Really About?
-    
-    An app that generates coordinates for adventurers claims to turn
-    your thoughts into reality. TikTok and YouTube creators want you to
-    believe it — but you shouldn’t.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lena
-    Wilson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/blocking-the-tech-giants.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/31Bigfive-illo/31Bigfive-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## I Tried to Live Without the Tech Giants. It Was Impossible.
-    
-    As lawmakers debate whether Apple, Google, Facebook, and Amazon are
-    monopolies, a reporter recalls her attempt to avoid interacting with
-    the companies.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kashmir
-    Hill</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/technology/tech-company-earnings-amazon-apple-facebook-google.html)
+    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/technology/30tech-earnings/oakImage-1596148409520-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Economy Is in Record Decline, but Not for the Tech Giants
+    ## What’s Going On With TikTok? Here’s What We Know
     
-    Even though the tech industry’s four biggest companies were stung by
-    a slowdown in spending, they reported a combined $28 billion in
-    profits on Thursday.
+    President Trump is talking about banning the app. TikTok may also
+    sell its U.S. operations. Let’s sort through it all here.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daisuke Wakabayashi, Karen Weise, Jack
-    Nicas <span>and</span> Mike Isaac</span>
+    By <span class="css-1n7hynb">David
+    McCabe</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

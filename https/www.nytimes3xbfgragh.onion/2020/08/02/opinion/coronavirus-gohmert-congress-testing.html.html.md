@@ -76,9 +76,9 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Congress,
-Test
-Thyself</span>
+<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Why
+Are So Many People on Capitol Hill Getting
+Infected?</span>
 
 </div>
 
@@ -194,12 +194,12 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Congress, Test Thyself
+# Why Are So Many People on Capitol Hill Getting Infected?
 
 </div>
 
 Lawmakers are essential workers. They should start acting like it and
-protect themselves and the other people who work on Capitol Hill.
+protect themselves and the other people who work for Congress.
 
 <div class="css-18e8msd">
 
@@ -230,7 +230,7 @@ It is separate from the newsroom.
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

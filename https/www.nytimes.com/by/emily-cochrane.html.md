@@ -173,6 +173,76 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
+    
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    
+    Negotiators acknowledged some progress over the weekend, but said
+    they remained far apart on a number of issues.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily
+    Cochrane</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     <div class="css-79elbk">
@@ -201,7 +271,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -236,7 +306,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -271,7 +341,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -306,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -341,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +442,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -407,7 +477,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -431,72 +501,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
     Tankersley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/07/27/business/stock-market-today-coronavirus/republicans-want-to-slash-600-unemployment-payments-to-200)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/27/opinion/27-markets-brf-unemploymentbenefits1/merlin_174978804_c5832afa-6529-4c64-9657-3b3cd83b56f1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Republicans want to slash $600 unemployment payments to $200.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
-    Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/26/us/politics/coronavirus-stimulus-bill-unemployment.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/us/politics/26dc-virus-cong/26dc-virus-cong-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Officials Float Idea of Narrow Bill to Extend Unemployment Benefits
-    
-    The proposal on the eve of Republicans’ unveiling of a larger aid
-    bill amounts to a concession that the two parties are unlikely to
-    reach a deal before benefits expire.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
-    Cochrane</span>
     
     </div>
     

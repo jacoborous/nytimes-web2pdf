@@ -248,7 +248,7 @@ Rappeport</span>](https://www.nytimes.com/by/alan-rappeport)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 31,
+    Published July 31, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -257,7 +257,7 @@ Rappeport</span>](https://www.nytimes.com/by/alan-rappeport)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -286,11 +286,14 @@ Rappeport</span>](https://www.nytimes.com/by/alan-rappeport)
 <div class="css-53u6y8">
 
 SAN FRANCISCO — TikTok, the Chinese-owned video app that has been under
-scrutiny from the Trump administration, is in talks to sell itself to
-Microsoft and other companies as President Trump weighs harsh actions
-against the business, including forcing TikTok to divorce itself from
-its parent company, ByteDance, said people with knowledge of the
-discussions.
+scrutiny from the Trump administration, is in talks to[sell itself to
+Microsoft](https://www.nytimes.com/2020/08/03/technology/tiktok-microsoft-tweens.html)
+and other companies as President Trump weighs harsh actions against the
+business, including forcing
+[TikTok](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html)
+to divorce itself from its parent company,
+[ByteDance](https://www.nytimes.com/2020/08/03/technology/tiktok-trump-sale-microsoft.html),
+said people with knowledge of the discussions.
 
 The powerful Committee on Foreign Investment in the United States, or
 Cfius, has been examining ByteDance’s 2017 purchase of Musical.ly, an

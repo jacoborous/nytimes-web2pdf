@@ -229,77 +229,78 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kin
-    Cheung/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joseph
+    Rushmore for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03krugmanWe/03krugmanWe-jumbo-v2.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Why Did Hong Kong Delay Its Election — by a Year?](/2020/08/02/opinion/hong-kong-election-china.html)
+    ### Paul Krugman
     
-    The government blames the pandemic. More likely, it was afraid to
-    lose.
+    ## [The Unemployed Stare Into the Abyss. Republicans Look Away.](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
+    
+    The cruelty and ignorance of Trump and his allies are creating
+    another gratuitous
+    disaster.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Fernando
-    Cheung</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Paul
+    Krugman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
-    Byrne/PA Images via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chip
+    Somodevilla/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Kara Swisher
+    ## [Disenchanted Seniors for Biden](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
     
-    ## [There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up](/2020/08/02/opinion/02tik-tok-china-trump.html)
-    
-    Microsoft wants to buy the Chinese app, and the administration needs
-    to get out of the
-    way.
+    The pandemic is particularly dangerous for older Americans, and
+    Trump is losing their
+    support.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kara
-    Swisher</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Michelle
+    Cottle</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Reynolds/EPA, via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artur
+    Widak/NurPhoto, via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Congress, Test Thyself](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+    ### Bret Stephens
     
-    Lawmakers are essential workers. They should start acting like it
-    and protect themselves and the other people who work on Capitol
-    Hill.
+    ## [The Siren Song of ‘One State’](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
+    
+    A hopeless plan could dash hopes for a peaceful resolution between
+    Israelis and
+    Palestinians.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Bret
+    Stephens</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
+    Beatty</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03wonder-edit/03wonder-edit-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Good News About What Human Genius Can Still Do](/2020/08/03/opinion/spacex-stonehenge-mars.html)
+    
+    There’s something uniquely compelling about our need to learn what
+    we can about the
+    universe.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">The Editorial
     Board</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02BlowSub/merlin_175186998_91e49e66-d4c6-43ad-b1ff-dc5be89c1d0f-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Charles M. Blow
-    
-    ## [Trump Forecasts His Own Fraud](/2020/08/02/opinion/trump-2020-election.html)
-    
-    In the president’s world, he is never to blame for
-    failure.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Charles M.
-    Blow</span></span>
     
     </div>
 
@@ -309,96 +310,96 @@ Society](/section/opinion/gender-and-society)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Bryce Covert
+1.  ### The conversation
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Caballero-Reynolds/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Covert/02Covert-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Biden’s Quietly Radical Care Plan](/2020/08/02/opinion/biden-child-care.html)
+    ## [Trump Doesn’t Like What He Sees in the Crystal Ball](/2020/08/03/opinion/trump-biden-2020.html)
     
-    The candidate is talking about child care and elder care in the same
-    breath, and making them part of his economic package. Both changes
-    are long
-    overdue.
+    Besides delaying the election, what else could alter his political
+    trajectory?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Bryce
-    Covert</span></span>
+    <span class="css-1baulvz" itemprop="name">Gail Collins</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Bret
+    Stephens</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
-    McCauley</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
+    Pennink/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/03deanWeb/03deanWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [When Utility Money Talks](/2020/08/02/opinion/utility-corruption-energy.html)
+    ## [I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
     
-    Corruption scandals in Ohio and Illinois reveal an unsavory
-    underside to the politics of
-    energy.
+    Scientists need to show us the data. And that’s exactly what they’re
+    working
+    on.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Justin
-    Gillis</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Natalie
+    Dean</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-    Szagola/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02glanvillepromo/02glanvillepromo-videoLarge.jpg)
+3.  ### Margaret Renkl
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31renklWeb/31renklWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Baseball Is Playing for Its Life, and Ours](/2020/08/02/opinion/baseball-coronavirus-Marlins.html)
+    ## [Death of a Cat](/2020/08/03/opinion/feral-cat-dying.html)
     
-    An outbreak of infections soon after reopening has struck a blow at
-    more than just the
-    Marlins.
+    For weeks, I have been trying to understand my own tears in the
+    presence of a dying creature I did not
+    love.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Doug
-    Glanville</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Margaret
+    Renkl</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustrations
-    by Xia
-    Gordon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    Reynolds/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Talking to the Dead in the Sunshine State](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
+    ## [Why Are So Many People on Capitol Hill Getting Infected?](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
     
-    I was searching for facts, for a lost friend, and for what couldn’t
-    be
-    explained.
+    Lawmakers are essential workers. They should start acting like it
+    and protect themselves and the other people who work for
+    Congress.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Gerard</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
+    Board</span></span>
     
     </div>
 
-5.  ### Maureen Dowd
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Samuel
-    Corum for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
+    Jose Sanchez/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Lovell1/merlin_175146375_96b5f246-7b90-4ab9-8501-cd53c0c0c636-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Double, Double, Trump’s Toil, Our Trouble](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    ## [I’m the Police Chief in Portland. Violence Isn’t the Answer.](/2020/08/03/opinion/portland-protests-police-chief.html)
     
-    Demon sperm meets alien D.N.A., as President Trump
-    teeters.
+    As a Black man and a public servant, I see that spectacle is
+    drowning out the voices that need to be heard to make positive
+    change.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Maureen
-    Dowd</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Chuck
+    Lovell</span></span>
     
     </div>
 
@@ -458,20 +459,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/opinion/letters/voting-election.html)
+    [](/2020/08/03/opinion/letters/nuclear-arms-treaty.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/world/09VIRUS-VOTINGLAWSUITS01-inyt/merlin_173278590_c52556cf-1848-4748-bdd6-dac02de7382b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/29Anderson/29Anderson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">letters</span>
     
-    ## To Ensure That Our Election Is Fair and Open
+    ## Senator Dianne Feinstein: Extending a Nuclear Arms Treaty
     
-    Readers urge vigilance against threats to the democratic
-    process.
+    The California senator urges the United States to renew the New
+    Start agreement. Also: Covid test results; disinfecting
+    classrooms.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -491,20 +493,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/opinion/letters/virus-education.html)
+    [](/2020/08/03/opinion/letters/selfishness-society.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/opinion/22green1/merlin_174805344_a9f138d7-63cb-4a6b-956c-ba8704fc3ec8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/27krugmanWeb-copy/27krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">letters</span>
     
-    ## Do Learning Pods Endanger Equality?
+    ## Selfishness in American Society Today
     
-    Readers discuss closed schools, pods and
-    inequities.
+    Readers, responding to a column by Paul Krugman, discuss whether
+    selfishness crosses party
+    lines.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -524,23 +527,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
+    [](/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/01Voting/01Voting-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03drew1/03drew1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Voting by Mail Is Crucial for Democracy
+    ## Let’s Scrap the Presidential Debates
     
-    Especially amid the pandemic, it’s the surest path to a more
-    inclusive, more accurate and more secure election.
+    They’ve become unrevealing quip contests.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">Elizabeth
+    Drew</span>
     
     </div>
     
@@ -558,22 +560,29 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    [](/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03keyssarWeb/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Double, Double, Trump’s Toil, Our Trouble
+    ## How Has the Electoral College Survived for This Long?
     
-    Demon sperm meets alien D.N.A., as President Trump teeters.
+    Resistance to eliminating it has long been connected to the idea of
+    white supremacy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maureen
-    Dowd</span>
+    By <span class="css-1n7hynb">Alexander Keyssar</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html "Read in Spanish")
     
     </div>
     
@@ -591,23 +600,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
+    [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/02bruni/02bruni-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04mounzer/03mounzer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How to Go to College During a Pandemic
+    ## We Lebanese Thought We Could Survive Anything. We Were Wrong.
     
-    Students at Minerva spend four years entirely online. Is this the
-    future of higher education?
+    The myth of their resilience helped the Lebanese function despite a
+    miserably corrupt and inept state. No longer.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Frank
-    Bruni</span>
+    By <span class="css-1n7hynb">Lina
+    Mounzer</span>
     
     </div>
     
@@ -625,23 +634,29 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/letters/disability-law.html)
+    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/opinion/sunday/11disability/11disability-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">letters</span>
+    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
     
-    ## Protecting the Rights of Those With Disabilities
-    
-    Readers discuss a series of articles about the impact of the
-    Americans With Disabilities Act, passed 30 years
-    ago.
+    Microsoft wants to buy the Chinese app, and the administration needs
+    to get out of the way.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kara
+    Swisher</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -659,23 +674,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
+    [](/2020/08/02/opinion/trump-2020-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31feds-promo2/31feds-promo2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02BlowSub/merlin_175186998_91e49e66-d4c6-43ad-b1ff-dc5be89c1d0f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Federal Agents Don’t Need Army Fatigues
+    ## Trump Forecasts His Own Fraud
     
-    If you’re an officer of the law, dress like one. Leave the
-    soldiering to soldiers.
+    In the president’s world, he is never to blame for failure.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">Charles M.
+    Blow</span>
     
     </div>
     
@@ -693,22 +707,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/israeli-palestinian-peace.html)
+    [](/2020/08/02/opinion/biden-child-care.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Covert/02Covert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Less Impossible Israeli-Palestinian Peace
+    ## Biden’s Quietly Radical Care Plan
     
-    The two-state idea is comatose but not dead.
+    The candidate is talking about child care and elder care in the same
+    breath, and making them part of his economic package. Both changes
+    are long overdue.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Roger
-    Cohen</span>
+    By <span class="css-1n7hynb">Bryce
+    Covert</span>
     
     </div>
     
@@ -726,22 +742,29 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
+    [](/2020/08/02/opinion/hong-kong-election-china.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Let’s End the Wait for Coronavirus Test Results. Here’s How.
+    ## Why Did Hong Kong Delay Its Election — by a Year?
     
-    States should look to New York’s strategies.
+    The government blames the pandemic. More likely, it was afraid to
+    lose.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew M.
-    Cuomo</span>
+    By <span class="css-1n7hynb">Fernando
+    Cheung</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -759,22 +782,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/letters/coronavirus-economy.html)
+    [](/2020/08/02/opinion/utility-corruption-energy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30virus-econ2e/30virus-econ2e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">letters</span>
+    ## When Utility Money Talks
     
-    ## Why the Virus Is Getting the Better of Us
-    
-    Readers outline the mistakes made that have caused new cases to soar
-    and suggest better approaches.
+    Corruption scandals in Ohio and Illinois reveal an unsavory
+    underside to the politics of energy.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Justin Gillis</span>
     
     </div>
     

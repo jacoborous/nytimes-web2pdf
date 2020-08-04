@@ -175,6 +175,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
+    
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
     
     <div class="css-79elbk">
@@ -205,7 +239,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -231,6 +265,12 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -239,7 +279,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +314,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +345,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -341,7 +381,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +412,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -435,7 +475,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -450,37 +490,6 @@ story](#after-mid1)
     </div>
     
     ## Steven Mnuchin says Congress should consider forgiving some small loans.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/07/17/business/stock-market-today-coronavirus/more-stimulus-should-go-to-the-hardest-hit-the-treasury-secretary-says)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/17/business/17markets-brf-mnuchin/17markets-brf-mnuchin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## More stimulus should go to the hardest hit, the Treasury secretary says.
     
     <div class="css-1nqbnmb ea5icrr0">
     

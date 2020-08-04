@@ -185,10 +185,10 @@ Bloch</span>](https://www.nytimes.com/by/matthew-bloch)July 31,
 
 <div class="g-story g-freebird g-max-limit" data-preview-slug="cyclone-isaias-tracking-map">
 
-Isaias was downgraded to a tropical storm Saturday after it swept
-through the Bahamas. It is expected to return to hurricane strength as
-it approaches Florida. Read our [latest coverage on the storm
-»](https://www.nytimes.com/2020/08/01/us/hurricane-isaias-track.html)
+Isaias regained hurricane status before moving into North Carolina.
+Heavy rainfall is predicted to cause flooding along the path of the
+storm. Read our [latest coverage
+»](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
 
 <div class="g-asset g-graphic key-template" style="max-width: 1050px">
 
@@ -233,15 +233,12 @@ Tropical storm </span>
 <div class="g-source">
 
 <span class="g-credit">Note: Times on the map are shown in Eastern Time.
-Source: [National Hurricane Center](https://www.nhc.noaa.gov/)</span>
+Source: [National Hurricane
+Center](https://www.nhc.noaa.gov/)</span>
 
 </div>
 
 </div>
-
-The storm is forecast to bring strong winds, heavy rain and high storm
-surges to the Florida coast this
-weekend.
 
 </div>
 

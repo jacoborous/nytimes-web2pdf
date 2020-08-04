@@ -175,6 +175,76 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
     
     <div class="css-79elbk">
@@ -205,7 +275,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +310,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +345,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -300,7 +370,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -331,7 +401,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +442,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +473,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -432,87 +502,6 @@ story](#after-mid1)
     <div class="css-185051n">
     
     [阅读简体中文版](https://cn.nytimes.com/business/20200723/coronavirus-globalization-jobs-supply-chain-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200723/coronavirus-globalization-jobs-supply-chain-china/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/business/china-us-trade-banned.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/business/21DC-Chinatrade-01/merlin_154469739_f653820d-ca16-4b51-a0c8-7f4153f23780-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Banned Chinese Companies Deny Allegations They Abused Uighurs
-    
-    Several firms that were blacklisted by the U.S. Commerce Department
-    said they had found no evidence of forced labor or other abuses.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana
-    Swanson</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/business/20200722/china-us-trade-banned/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200722/china-us-trade-banned/zh-h "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/business/economy/china-sanctions-uighurs-labor.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/business/20dc-china-trade-01/merlin_173817375_1eaad563-5d05-4776-b32e-c6081beed404-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Imposes Sanctions on 11 Chinese Companies Over Human Rights
-    
-    The move, which affects suppliers to major international brands such
-    as Apple, Ralph Lauren and Tommy Hilfiger, could force companies to
-    sever some ties to China.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana
-    Swanson</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/business/20200721/china-sanctions-uighurs-labor/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200721/china-sanctions-uighurs-labor/zh- "Read in Traditional Chinese")
     
     </div>
     

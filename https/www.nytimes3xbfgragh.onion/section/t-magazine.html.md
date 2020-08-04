@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -62,31 +63,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-t-magazine" class="section css-15h4p1b e9abtgs0">
 
@@ -156,31 +132,56 @@ Beauty](/section/t-magazine/fashion)
 
 ## Highlights
 
-1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Painart</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kate
+    Martin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-thumbStandard.jpg)](/2020/07/31/t-magazine/culture-therapist-grief.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-thumbStandard.jpg)](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
     
     </div>
     
-    ### Culture Therapist
+    ## [A Home Inscribed With the History of Venice Beach](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
     
-    ## [How Should I Respond to Overzealous Gestures of Sympathy?](/2020/07/31/t-magazine/culture-therapist-grief.html)
-    
-    “These people mire you in your sense of loss just as you are ready
-    to discover what remains to be found,” writes one of our advice
-    columnists.
+    Within a storied Los Angeles studio complex, Karina Deyko and David
+    de Rothschild have built an eclectic, freewheeling space in which to
+    live and
+    work.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Megan
-    O’Grady</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alice
+    Newell-Hanson</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Painart</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-thumbStandard.jpg)](/2020/07/31/t-magazine/culture-therapist-grief.html)
+        
+        </div>
+        
+        ### Culture Therapist
+        
+        ## [How Should I Respond to Overzealous Gestures of Sympathy?](/2020/07/31/t-magazine/culture-therapist-grief.html)
+        
+        “These people mire you in your sense of loss just as you are
+        ready to discover what remains to be found,” writes one of our
+        advice
+        columnists.
+        
+        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Megan
+        O’Grady</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
         Bourne</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
@@ -203,7 +204,7 @@ Beauty](/section/t-magazine/fashion)
         
         </div>
     
-    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
+    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
         McAlpine</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
@@ -228,28 +229,6 @@ Beauty](/section/t-magazine/fashion)
         Wilkinson</span></span>
         
         </div>
-    
-    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
-        Weaver</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbStandard.jpg)](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
-        
-        </div>
-        
-        ### The T List
-        
-        ## [The T List: Five Things We Recommend This Week](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
-        
-        Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
-        more.
-        
-        <span class="css-me3p27"></span>
-        
-        </div>
 
 </div>
 
@@ -257,7 +236,23 @@ Beauty](/section/t-magazine/fashion)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### True Believers
+1.  ### The T List
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
+    Weaver</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The T List: Five Things We Recommend This Week](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
+    
+    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
+    more.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
     of the
@@ -277,7 +272,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-2.  ### True Believers
+3.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nat
     Farbman/The Life Picture Collection/Getty
@@ -297,7 +292,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-3.  ### True Believers
+4.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
     of the artist and Garth Greenan Gallery,
@@ -316,7 +311,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-4.  ### True Believers
+5.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicholas
     Calcott</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-videoLarge.jpg)
@@ -335,7 +330,15 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-5.  ### True Believers
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nin
     Solis</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-videoLarge.jpg)
@@ -355,15 +358,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### True Believers
+2.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Weichia
     Huang/The Jewish
@@ -383,7 +378,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-2.  ### True Believers
+3.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tetsuya
     Miura</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/t-magazine/30tmag-nara-slide-67ZV/30tmag-nara-slide-67ZV-videoLarge.jpg)
@@ -402,7 +397,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-3.  ### True Believers
+4.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
     from top left: courtesy of the artist, Andrew Kreps Gallery, New
@@ -424,27 +419,6 @@ Beauty](/section/t-magazine/fashion)
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Andrew
     Russeth</span></span>
-    
-    </div>
-
-4.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Macdougall/Agence France-Presse/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/t-magazine/10tmag-art-01/10tmag-art-01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In a Time of Crisis, Is Art Essential?](/2020/07/20/t-magazine/museums-galleries-open-art.html)
-    
-    T’s 2020 summer art issue coincides with a breakdown of the status
-    quo, both in the art world and the real one. Not for nothing, we’ve
-    titled it “True
-    Believers.”
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">M.H.
-    Miller</span></span>
     
     </div>
 
@@ -797,6 +771,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/20/t-magazine/museums-galleries-open-art.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/t-magazine/10tmag-art-01/10tmag-art-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## In a Time of Crisis, Is Art Essential?
+    
+    T’s 2020 summer art issue coincides with a breakdown of the status
+    quo, both in the art world and the real one. Not for nothing, we’ve
+    titled it “True Believers.”
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">M.H.
+    Miller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/20/t-magazine/maya-stovall.html)
     
     <div class="css-79elbk">
@@ -827,7 +838,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -863,7 +874,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -904,7 +915,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -928,38 +939,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Lindsay
-    Talbot</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/t-magazine/margo-price-album-tlist.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/t-magazine/15tmag-tlist-slide-TBXG/15tmag-tlist-slide-TBXG-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Unisex jerkins, raw vinegars, classic sportswear — and more.
-    
-    <div class="css-15yh6bw ea5icrr0">
+    By <span class="css-1n7hynb">Lindsay Talbot</span>
     
     </div>
     

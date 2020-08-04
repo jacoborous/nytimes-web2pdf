@@ -165,103 +165,103 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbStandard.jpg)](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/03DC-Trump-CEO-01-thumbStandard.jpg)](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     </div>
     
-    ## [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either
+    party.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kellen
-    Browning</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
+    Shear</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bruce
-    Bennett/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+    Plavevski/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-thumbStandard.jpg)](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/merlin_175258689_6b3ad16b-c147-4a64-a7cf-7a84b8b5f0dc-thumbStandard.jpg)](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
     </div>
     
-    ## [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+    ## [Trump Reverses Course on TikTok, Opening Door to Microsoft Bid](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
-    The department store, which traces its roots to 1826, was struggling
-    before the coronavirus hit. Its owner, the clothing rental start-up
-    Le Tote, also filed for
-    bankruptcy.
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sapna
-    Maheshwari</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Isaac</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-        Drago for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SAND
+        Lab, University of
+        Chicago</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31fawkes4/31fawkes4-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Microsoft Says It’ll Continue Pursuit of TikTok](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+        ## [This Tool Could Protect Your Photos From Facial Recognition](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbStandard.jpg)](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31fawkes4/31fawkes4-thumbStandard.jpg)](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
         
         </div>
         
-        The announcement came after the company consulted with President
-        Trump, who has threatened to ban the app and expressed national
-        security concerns about it in recent
-        weeks.
+        Researchers at the University of Chicago want you to be able to
+        post selfies without worrying that the next Clearview AI will
+        use them to identify
+        you.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Mike Isaac</span>,
-        <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Maggie
-        Haberman</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Kashmir
+        Hill</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+        Ruvic/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### The media equation
-        
-        ## [How the Media Could Get the Election Story Wrong](/2020/08/02/business/media/election-coverage.html)
+        ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-thumbStandard.jpg)](/2020/08/02/business/media/election-coverage.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-thumbStandard.jpg)](/2020/08/03/technology/tiktok-bytedance-us-china.html)
         
         </div>
         
-        We may not know the results for days, and maybe weeks. So it’s
-        time to rethink “election
-        night.”
+        The founder of ByteDance, Zhang Yiming, dreamed of building a
+        global tech company based in China. Then the geopolitical
+        reality set
+        in.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ben
-        Smith</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Raymond
+        Zhong</span></span>
         
         </div>
 
@@ -271,96 +271,88 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Blackshire for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31smallmortgages1/merlin_174909417_6801b90c-d375-4a5d-b3af-ca9f1e0da20e-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nolwen
+    Cifuentes for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/00sba-disasterloan1/00sba-disasterloan1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Where a Little Mortgage Goes a Long Way](/2020/08/02/business/mortgages-affordable-housing.html)
+    ## [Small Businesses Got Emergency Loans, but Not What They Expected](/2020/08/03/business/small-business-loans-coronavirus.html)
     
-    Affordable homes can be hard to buy because lenders don’t make much
-    money on small loans. But programs to encourage homeownership can
-    help buyers build
-    wealth.
+    The S.B.A.’s disaster relief program allows for loans of up to $2
+    million. But now they’re capped at $150,000 — and agency officials
+    are saying little about
+    why.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Goldstein</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stacy
+    Cowley</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-videoLarge.jpg)
+2.  
     
     <div class="css-10wtrbd">
     
-    ## [U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    ## [Boeing 737 Max Moves One Step Closer to Flying Again](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus)
     
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study
-    found.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alan
-    Rappeport</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02deutsche-kushner/merlin_174921309_516ed7d8-a0d4-4b17-851f-226f2e4e12f1-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Deutsche Bank Opens Review Into Personal Banker to Trump and Kushner](/2020/08/02/business/kushner-deutsche-trump-rosemary-vrablic.html)
+    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
     
-    The bank will examine a 2013 transaction between the banker,
-    Rosemary Vrablic, and a company part-owned by Jared
-    Kushner.
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve
+    ads.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jesse Drucker</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Enrich</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Darren
-    Hauck/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/02speedway-print/02speedway1-videoLarge.jpg)
+4.  ### tech fix
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Marathon Is Selling Speedway Gas Stations to 7-Eleven’s Parent for $21 Billion](/2020/08/02/business/marathon-petroleum-speedway-7-11.html)
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
-    The largest U.S. independent refining company will get cash, and
-    7-Eleven will add 4,000 convenience
-    stores.
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Clifford
-    Krauss</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-    Alfiky/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    ## [Men’s Wearhouse Owner Files for Bankruptcy](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
     
-    Some retailers are turning to popular social media personalities to
-    detail post-pandemic protocols and boost the allure of visiting
-    their
-    stores.
+    Tailored Brands, known for its clothing chains Men’s Wearhouse and
+    JoS. A. Bank, struggled as the pandemic shut stores and consumer
+    demand for office attire
+    dropped.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sapna
-    Maheshwari</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Gillian
+    Friedman</span></span>
     
     </div>
 
@@ -557,23 +549,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/flag-boat-SpaceX.html)
+    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
+    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
     
-    “We need to do a better job next time” of securing the area, the
-    NASA administrator, Jim Bridenstine, said.
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
     
     </div>
     
@@ -591,23 +584,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    ## Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease
     
-    Negotiators acknowledged some progress over the weekend, but said
-    they remained far apart on a number of issues.
+    Despite the pandemic, the social media giant leased all the office
+    space in the former main post office at Penn Station in Midtown.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
     
     </div>
     
@@ -625,24 +618,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/Seed-packets-China-USA.html)
+    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/multimedia/03xp-seeds/01xp-seeds-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Identifies Some of the Mysterious Seeds Mailed From China
+    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
     
-    The 14 varieties identified include common ones, such as hibiscus,
-    morning glory and lavender. Still, experts warned recipients not to
-    plant them.
+    The Tennessee Valley Authority, an electric utility, quickly said it
+    would reconsider its move to shift some work to contractors outside
+    the United States.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -660,24 +653,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/health/dr-birx-coronavirus-phase.html)
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Birx Says U.S. Epidemic Is in a ‘New Phase’
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
     
-    She and other top health officials in the Trump administration warn
-    states of a deepening spread of the coronavirus, in both rural and
-    urban areas.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Benedict
-    Carey</span>
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
     
     </div>
     
@@ -695,25 +687,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/the-week-in-business-technology-companies-congress.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02WithInterest1-illo/02WithInterest1-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">with interest</span>
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    ## The Week in Business: Getting Rich Off the Pandemic
-    
-    Tech executives got grilled in Washington, but their wallets got the
-    last laugh.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Charlotte
-    Cowles</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -731,26 +722,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/brinkerhoff-racing-child-trafficking.html)
+    [](/2020/08/03/business/venture-fund-raising-is-alive-and-relatively-well.html)
     
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/02wheels1-print/02wheels-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Wheels</span>
-    
-    ## Driving Across the Globe to Fight Child Trafficking
-    
-    Renée Brinkerhoff has been on a quest, on almost every continent, to
-    use racing “as a platform to do something about” a global scourge.
-    Next stop, Antarctica.
+    ## Venture fund-raising is alive and (relatively) well.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mercedes
-    Lilienthal</span>
+    By <span class="css-1n7hynb">Michael J. de la
+    Merced</span>
     
     </div>
     
@@ -768,24 +747,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/trader-joes-jose-ming-joe-san.html)
+    [](/2020/08/03/business/how-schools-reopen.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03Virus-View-01/merlin_171513666_77afb6d2-fcff-4e60-afd1-d509f326d13a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trader Joe’s Defends Product Labels Criticized as Racist
+    ### <span class="css-m70j1g">economic View</span>
     
-    The company had previously said the names of international-themed
-    products that were intended to promote inclusiveness, such as Trader
-    José and Trader Ming’s, “may now have the opposite effect.”
+    ## The United States Is Reopening Many of the Wrong Schools
+    
+    When it is safe enough to return to school, young children would
+    benefit the most. Yet financial pressures are pushing colleges to
+    reopen most rapidly, an economist says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Susan
+    Dynarski</span>
     
     </div>
     
@@ -803,24 +784,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/business/media/facebook-boycott.html)
+    [](/2020/08/03/business/ceos-call-for-more-aid-for-small-businesses.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03-markets-brf-schultz1/03-markets-brf-schultz1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## More Than 1,000 Companies Boycotted Facebook. Did It Work?
-    
-    Major advertisers on Facebook reduced their spending by millions of
-    dollars in July, but not enough to significantly damage the
-    platform’s revenue.
+    ## C.E.O.s call for more aid for small businesses.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tiffany Hsu <span>and</span> Eleanor
-    Lutz</span>
+    By <span class="css-1n7hynb">Jason
+    Karaian</span>
     
     </div>
     
@@ -838,24 +815,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    [](/2020/08/03/business/a-project-in-kentucky-aims-to-show-how-home-lending-can-build-wealth.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03-markets-brf-smallmortgages1/merlin_174909516_3093d403-6a93-4573-bf2a-504fdcd6ab76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Red Onions Linked to Salmonella Outbreak, Officials Say
-    
-    More than 500 cases and at least 75 hospitalizations have been
-    reported in the United States and Canada, the health authorities
-    said.
+    ## A project in Kentucky aims to show how home lending can build wealth.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christina
-    Morales</span>
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
     
     </div>
     
@@ -873,23 +846,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/business/ivanka-trump-jared-kushner-financial-disclosure.html)
+    [](/2020/08/03/business/fed-official-says-a-hard-lockdown-could-get-virus-under-control.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01kushner/01kushner-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03-markets-brf-nealkashkari1/merlin_156806265_d6bc7e3a-54b8-43b1-8baf-eedf481bf218-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Ivanka Trump and Jared Kushner Report Income of at Least $36 Million in 2019
-    
-    The couple’s investments, mostly in real estate, were worth at least
-    $204 million and as much as $783 million.
+    ## Fed official says a ‘hard’ lockdown could get virus under control.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jesse Drucker <span>and</span> Robert
-    Gebeloff</span>
+    By <span class="css-1n7hynb">Jeanna Smialek</span>
     
     </div>
     

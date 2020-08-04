@@ -155,29 +155,24 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emily
-    Kask for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-thumbStandard.jpg)](/2020/08/02/us/covid-college-reopening.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/03/us/isaias-storm-updates.html)
     
     </div>
     
-    ## [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](/2020/08/02/us/covid-college-reopening.html)
+    ## [Hurricane Isaias Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
     
-    Colleges are racing to reconfigure dorms, expand testing programs
-    and establish detailed social distancing rules. And then, what to do
-    about
-    sex?
+    Isaias regained strength into a Category 1 hurricane on Monday
+    night, bringing heavy winds and rain to the East Coast. Flash
+    flooding and tornadoes are
+        possible.
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Anemona Hartocollis</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Shawn
-    Hubler</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
@@ -206,51 +201,55 @@ story](#after-sponsor)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+        Robison/The Northeast Mississippi Daily Journal, via Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/02/us/Hurricane-Isaias-track.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-thumbStandard.jpg)](/2020/08/03/us/school-closing-coronavirus.html)
         
         </div>
         
-        ## [Isaias Live Updates: Storm Grazes Florida and Takes Aim at the Carolinas](/2020/08/02/us/Hurricane-Isaias-track.html)
+        ## [As the Coronavirus Comes to School, a Tough Choice: When to Close](/2020/08/03/us/school-closing-coronavirus.html)
         
-        Storm watches have been extended as far north as New England.
-        The storm is on a track to reach land on Monday, with heavy rain
-        and the potential for damaging
-        floods.
+        As schools in the South and the Midwest reopen this week,
+        officials must decide what steps to take as staff members and
+        students test
+        positive.
         
-        <span class="css-me3p27"></span>
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Shawn
+        Hubler</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cristobal
-        Herrera-Ulashkevich/EPA, via
-        Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02virus-floridastorm-1/merlin_175209375_a3ff0f8e-a302-461a-a795-c76e4cf3f1ab-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+        Rayford/Getty
+        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03isaias-01/03isaias-01-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02virus-floridastorm-1/merlin_175209375_a3ff0f8e-a302-461a-a795-c76e4cf3f1ab-thumbStandard.jpg)](/2020/08/02/us/florida-hurricane-isaias-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03isaias-01/03isaias-01-thumbStandard.jpg)](/2020/08/03/us/isaias-east-coast-landfall.html)
         
         </div>
         
-        ### MIAMI JOURNAL
+        ## [East Coast Braces for Floods and Wind as Isaias Intensifies](/2020/08/03/us/isaias-east-coast-landfall.html)
         
-        ## [Florida’s Summer of Dread](/2020/08/02/us/florida-hurricane-isaias-coronavirus.html)
-        
-        The coronavirus had entrenched itself in communities from
-        Pensacola to Key West, killing more than 7,000 Floridians. Then
-        came Tropical Storm
-        Isaias.
+        A heavy soaking is expected in the Carolinas and Maryland, with
+        tropical storm warnings and watches in effect all the way up the
+        Eastern
+        Seaboard.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Patricia
-        Mazzei</span></span>
+        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Lucy
+        Tompkins</span></span>
         
         </div>
 
@@ -308,24 +307,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/anthony-tata-pentagon-nomination.html)
+    [](/2020/08/04/us/wyoming-hot-air-balloons-crash.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02DC-TATA1/02DC-TATA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Pick for Pentagon Post Sidesteps Senate Ire for Different Defense Job
+    ## 3 Hot Air Balloons in Wyoming Crash Into Ground
     
-    A retired Army general whose inflammatory comments appeared to doom
-    his nomination was tapped for a job that does not require Senate
-    approval.
+    “You didn’t know when it was going to stop,” said one passenger.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
+    By <span class="css-1n7hynb">Azi Paybarah <span>and</span> Alex
+    Traub</span>
     
     </div>
     
@@ -343,23 +340,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/flag-boat-SpaceX.html)
+    [](/2020/08/03/us/racism-massachusetts-grandfathering.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/multimedia/03xp-grandfathering/03xp-grandfathering-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
+    ## Massachusetts Court Won’t Use Term ‘Grandfathering,’ Citing Its Racist Origins
     
-    “We need to do a better job next time” of securing the area, the
-    NASA administrator, Jim Bridenstine, said.
+    The practice was “adopted by some states after the Civil War in an
+    effort to disenfranchise African-American voters,” the court noted.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Azi
+    Paybarah</span>
     
     </div>
     
@@ -377,25 +374,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    Merritt Corrigan, the former deputy White House liaison for the U.S.
+    Agency for International Development, had drawn scrutiny shortly
+    after being named to the position.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Pranshu
+    Verma</span>
     
     </div>
     
@@ -413,25 +409,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    [](/video/us/100000007271181/california-virus-cases-trend-down.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## In St. Louis, Testing Liberal Might Against a Democratic Fixture
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Cori Bush, an activist backed by the progressive group Justice
-    Democrats, is trying to unseat 10-term Representative William Lacy
-    Clay in a bid to turn protest-movement fervor into hard political
-    power.
+    ## Coronavirus Cases ‘Trending Down’ in California, Governor Says
+    
+    Gov. Gavin Newsom said on Monday that the total number of people
+    testing positive for the coronavirus was on the decline.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -449,26 +445,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007269193/boats-circle-spacex-capsule.html)
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Trump Again Assails Mail-In Voting
     
-    ## Several Private Boats Encroach on SpaceX Landing Zone
-    
-    Onlookers circled the SpaceX Crew Dragon capsule as it bobbed in the
-    water after its return to Earth, raising concerns about their
-    possible exposure to toxic propellant fumes from the spacecraft.
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">NASA</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -486,23 +480,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
     
-    Bob Behnken and Doug Hurley returned to Earth in the first water
-    landing by an American space crew since 1975.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -520,21 +516,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007269118/spacex-splash-down.html)
+    [](/video/us/100000007271090/north-carolina-isaias-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/video/02vid-spacex-splash/02vid-spacex-splash-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    ## SpaceX’s Crew Dragon Splashes Down in Gulf of Mexico
+    ## N.C. Governor Tells Residents to ‘Take This Storm Seriously’
     
-    The capsule parachuted the NASA astronauts Robert L. Behnken and
-    Douglas G. Hurley back to Earth, landing in the Gulf of Mexico, off
-    the coast of Pensacola, Fla.
+    Gov. Roy A. Cooper urged North Carolinians on Monday to properly
+    prepare for Tropical Storm Isaias.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -557,24 +552,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/arizona-election-joe-arpaio.html)
+    [](/2020/08/03/us/politics/joe-biden-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03arizona-arpaio1/03arizona-arpaio1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How Joe Arpaio’s Fate in Arizona Could Be a Window Into Trump’s
+    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    The polarizing former sheriff of Maricopa County, a stylistic
-    doppelgänger to President Trump, is running for his old office in a
-    state where approval of both men has slid.
+    ## Why Biden Won’t Find His Biden
+    
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were “simpatico.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Hank
-    Stephenson</span>
+    By <span class="css-1n7hynb">Lisa
+    Lerer</span>
     
     </div>
     
@@ -592,23 +588,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    [](/2020/08/03/us/coronavirus-today.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    ## Coronavirus Briefing: What Happened Today
     
-    Negotiators acknowledged some progress over the weekend, but said
-    they remained far apart on a number of issues.
+    The school year is underway in some parts of the United States — and
+    we’re already seeing how fraught reopening classrooms can be.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
     
     </div>
     
@@ -626,22 +622,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/apple-fire-ca.html)
+    [](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-applefire-pix1/02xp-applefire-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Apple Fire Leads to Evacuation Order for 7,000 in California
+    ## Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options
     
-    The wildfire, near the San Bernardino National Forest east of Los
-    Angeles, was burning out of control on Sunday morning.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls, N.Y.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryan Pietsch</span>
+    By <span class="css-1n7hynb">Annie Karni</span>
     
     </div>
     

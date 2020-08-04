@@ -166,33 +166,27 @@ Culture](/spotlight/pop-culture)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney+, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
+    Auringer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03creem1/03creem1-thumbStandard.jpg)](/2020/08/03/arts/music/creem-magazine-documentary.html)
     
     </div>
     
-    ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
     
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative
-    power.
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous
+    work.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
-    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>,
-    <span class="css-1baulvz" itemprop="name">Gia Kourlas</span>,
-    <span class="css-1baulvz" itemprop="name">Wesley Morris</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Salamishah
-    Tillet</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Rubin</span></span>
     
     </div>
 
@@ -221,7 +215,38 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+        White/Parkwood Entertainment and Disney+, via Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        </div>
+        
+        Six critics on the visual album rooted in her “Lion
+        King”-inspired record “The Gift,” a grand statement of
+        African-diaspora pride and creative
+        power.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
+        <span class="css-1baulvz" itemprop="name">Vanessa
+        Friedman</span>, <span class="css-1baulvz" itemprop="name">Gia
+        Kourlas</span>, <span class="css-1baulvz" itemprop="name">Wesley
+        Morris</span>, <span class="css-1baulvz" itemprop="name">Jon
+        Pareles</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+        Tillet</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -243,31 +268,6 @@ Culture](/spotlight/pop-culture)
         Hale</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
-        
-        <div class="css-10wtrbd">
-        
-        ### Surfacing
-        
-        ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbStandard.png)](/2020/08/01/arts/design/virus-design-objects.html)
-        
-        </div>
-        
-        The pandemic has inspired a flurry of new and novel items — and
-        given ordinary ones new
-        meanings.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Sophie Haigney</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Peter
-        Arkle</span></span>
-        
-        </div>
 
 </div>
 
@@ -275,7 +275,26 @@ Culture](/spotlight/pop-culture)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
+1.  ### Surfacing
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+    
+    The pandemic has inspired a flurry of new and novel items — and
+    given ordinary ones new
+    meanings.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Peter
+    Arkle</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
     Maron</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -292,7 +311,7 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
     Scott Brauer for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
     
@@ -311,9 +330,9 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
-    Ord/Getty Images; Roy Rochlin/Getty Images;
-    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
+    Ord/Getty Images; Roy Rochlin, via Getty
+    Images;</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -330,7 +349,7 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-4.  ### Critic’s Notebook
+5.  ### Critic’s Notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
     
@@ -346,23 +365,6 @@ Culture](/spotlight/pop-culture)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">James
     Poniewozik</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
-    Pictures</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Alan Parker, Versatile Film Director, Is Dead at 76](/2020/07/31/movies/alan-parker-versatile-film-director-is-dead-at-76.html)
-    
-    “Midnight Express” and “Mississippi Burning” brought him Oscar
-    nominations, and many of his other films, including “Fame,” were
-    acclaimed.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neil
-    Genzlinger</span></span>
     
     </div>
 
@@ -422,26 +424,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Perry Mason</span>
+    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
     
-    ## ‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday
-    
-    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
-    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
-    Alice.
+    Celebrities come together to honor the congressman. And “The Stand:
+    How One Gesture Shook the World” revisits an iconic image from the
+    1968 Summer Olympics.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sean T.
-    Collins</span>
+    By <span class="css-1n7hynb">Lauren
+    Messman</span>
     
     </div>
     
@@ -459,24 +459,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/arts/music/leon-fleisher-dead.html)
+    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/08/29/obituaries/00fleisher1/00fleisher1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two
+    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
     
-    Unable to use his right hand, he performed pieces written for left
-    hand only, conducted and taught. After 30 years, he made a
-    triumphant two-handed comeback.
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allan
-    Kozinn</span>
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
     
     </div>
     
@@ -494,24 +494,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    [](/2020/08/03/theater/virtual-theater.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lady Macbeth in Appalachia, and Other Tales by an American Master
+    ### <span class="css-m70j1g">critic’s notebook</span>
     
-    With a new collection, “In the Valley,” Ron Rash revisits the
-    monstrous protagonist of “Serena” and plumbs the depths of Southern
-    hearts.
+    ## The (Virtual) Theatrical Fringe Moves Front and Center
+    
+    Expanding content and experimenting with form, the avant-garde finds
+    a congenial new home online, as two recent offerings demonstrate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Janet
-    Maslin</span>
+    By <span class="css-1n7hynb">Jesse
+    Green</span>
     
     </div>
     
@@ -529,23 +530,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
-    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabeth
-    Egan</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -563,23 +565,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/arts/television/whats-on-tv-sunday-connected-and-the-spacex-landing.html)
+    [](/2020/08/03/arts/dance/kaatsbaan-dance.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02tvcol-connected/02tvcol-connected-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Sunday: ‘Connected’ and the SpaceX Landing
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    “Radiolab” journalist Latif Nasser hosts a new show on Netflix, and
-    the SpaceX craft makes its return to Earth.
+    ## What Is It Like to Watch Live Dance Again? Amazing
+    
+    Kaatsbaan hosts a welcome summer festival in the Hudson Valley,
+    where nature and dancers join forces to put on a show.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren
-    Messman</span>
+    By <span class="css-1n7hynb">Gia
+    Kourlas</span>
     
     </div>
     
@@ -597,23 +601,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/arts/lady-red-couture-dead.html)
+    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/obituaries/00ladyred/00ladyred-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43
+    ### <span class="css-m70j1g">The Charts</span>
     
-    A fixture in Los Angeles clubs who stood 7-foot-2 in heels, she also
-    co-hosted the L.G.B.T.Q. talk show “Hey Qween\!”
+    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
+    
+    The singer and songwriter’s surprise album had the equivalent of
+    846,000 sales in the United States, a total beaten only by her own
+    last two LPs.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Leland</span>
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
     
     </div>
     
@@ -631,26 +638,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ### <span class="css-m70j1g">Fiction</span>
     
-    ## Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71
+    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
     
-    A singer, songwriter and producer, Mr. Víctor also worked to bring
-    theater, music and dance lessons to underprivileged communities. He
-    died of Covid-19.
+    In “Kings County,” David Goodwillie examines New York’s most
+    celebrated borough with an uncynical eye.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sandra E.
-    Garcia</span>
+    By <span class="css-1n7hynb">Adelle
+    Waldman</span>
     
     </div>
     
@@ -668,24 +674,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/james-silberman-dead.html)
+    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## James Silberman, Editor Who Nurtured Literary Careers, Dies at 93
+    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
     
-    At Random House and elsewhere, including his own Summit imprint, he
-    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
-    many others.
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Concepción de
+    León</span>
     
     </div>
     
@@ -703,25 +709,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
+    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## Tank Tops and Short Shorts and Bears, Oh My\!
+    ## Why the U.S. Dropped Atomic Bombs on Japan
     
-    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
-    code is more terrifying than the bears wandering through its woods.
+    Marc Gallicchio’s “Unconditional” details debates in both Japan and
+    the United States to end World War II.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer
-    Mathieu</span>
+    By <span class="css-1n7hynb">Richard J.
+    Samuels</span>
     
     </div>
     
@@ -739,24 +745,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
+    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## For Two Teenagers on Election Day, the Political Gets Personal
+    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
     
-    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
-    out since age 7 helps a drummer make his voice heard.
+    “Wandering in Strange Lands” traces the author’s ancestry — and the
+    history of African-American oppression — along the footsteps of the
+    Great Migration.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicola Yoon</span>
+    By <span class="css-1n7hynb">Afua Hirsch</span>
     
     </div>
     
