@@ -153,108 +153,107 @@ Estate](https://www.nytimes.com/section/realestate)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Departamento
-    de Agricultura de Estados
-    Unidos</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noriko
+    Hayashi para The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/business/03Mascarillas-ES-01/25virus-japan-masks-1-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-thumbStandard.jpg)](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
+    [![](https://static01.nyt.com/images/2020/07/28/business/03Mascarillas-ES-01/00virus-japan-masks-1-thumbStandard.jpg)](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
     
     </div>
     
-    ## [Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
+    ## [Llevaremos cubrebocas por algún tiempo. ¿Por qué no hacerlos bonitos?](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
     
-    Las 14 variedades reconocidas incluyen plantas comunes como hibisco,
-    campanilla morada y lavanda. Aún así, los expertos advirtieron a los
-    destinatarios que no las
-    sembraran.
+    Con purificadores motorizados, desinfectantes, tejidos transpirables
+    y estampados chic. Los protectores faciales han dejado de ser solo
+    productos descartables y baratos y ahora los hay para clientes más
+    exigentes.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Allyson
-    Waller</span></span>
+    <span class="css-1baulvz" itemprop="name">Ben Dooley</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Hisako
+    Ueno</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
-    Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+    Zender</span>](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbStandard.jpg)](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+    [![](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-thumbStandard.jpg)](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
     
     </div>
     
     ### Comentario
     
-    ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+    ## [Por qué los brasileños deberían temer a la oficina de odio](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
     
-    Las clases medias mexicanas claudicaron de intentar atenderse en
-    hospitales públicos y los más pobres los usan pensando que ahí solo
-    van a morirse. Esto debe
-    cambiar.
+    El presidente Jair Bolsonaro, sus hijos y aliados han sembrado el
+    odio en línea contra las instituciones que defienden la democracia.
+    Ahora la indignación se está desbordando en la
+    calle.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Viri
-    Ríos</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Patrícia
+    Campos
+        Mello</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
-        Dhaliwal para The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Departamento
+        de Agricultura de Estados
+        Unidos</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
-        ## [Menos sexo, más audiencia: la pandemia reanima a las telenovelas mexicanas](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+        ## [Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-thumbStandard.jpg)](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+        [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-thumbStandard.jpg)](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
         
         </div>
         
-        Desdeñados por ser muy anticuados para competir con las series
-        transmitidas por internet, los melodramas televisivos recuperan
-        a un público ansioso que busca entretenimiento familiar y
-        reconfortante en tiempos de
-        incertidumbre.
+        Las 14 variedades reconocidas incluyen plantas comunes como
+        hibisco, campanilla morada y lavanda. Aún así, los expertos
+        advirtieron a los destinatarios que no las
+        sembraran.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Natalie
-        Kitroeff</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Allyson
+        Waller</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
-        Sura/EPA vía
-        Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+        Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [En El Salvador todos han negociado con las pandillas](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+        ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/01Martinez-ES-thumbStandard.jpg)](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+        [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbStandard.jpg)](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
         
         </div>
         
-        Dialogar con las pandillas ha sido una realidad en el país:
-        políticos de todos los colores lo han hecho por casi una
-        década, pero solo unos cuantos han sido perseguidos por
-        hacerlo. ¿Es una utopía transparentar esos
-        pactos?
+        Las clases medias mexicanas claudicaron de intentar atenderse en
+        hospitales públicos y los más pobres los usan pensando que ahí
+        solo van a morirse. Esto debe
+        cambiar.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Óscar
-        Martínez</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Viri
+        Ríos</span></span>
         
         </div>
 
@@ -318,19 +317,19 @@ Estate](https://www.nytimes.com/section/realestate)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kayana
-    Szymczak para The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/20/science/24virus-reinfection-ES-1/00VIRUS-REINFECTION1-videoLarge.jpg)
+4.  ### Salud
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tolga
+    Akmen/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/06/science/07aerosol-explainer-ES-01/06virus-aerosol-explainer01-sub-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [¿Podemos volver a infectarnos del coronavirus? Los expertos creen que es muy poco probable](/es/2020/07/24/espanol/ciencia-y-tecnologia/reinfeccion-coronavirus.html)
+    ## [El coronavirus se propaga por el aire: qué debes hacer ahora](/es/2020/07/08/espanol/ciencia-y-tecnologia/coronavirus-aire-aerosoles.html)
     
-    Los reportes de reinfección pueden ser casos de enfermedad
-    prolongada. Una disminución en los anticuerpos es normal después de
-    algunas semanas, y las personas están protegidas del coronavirus de
-    otras
-    maneras.
+    ¿Cómo protegerse de un virus que puede estar flotando en el
+    interior? Mejor ventilación, para empezar. Y no te quites el
+    cubrebocas.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Apoorva
@@ -388,7 +387,50 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    Archive/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Alexander Keyssar</span>
+    
+    ## [El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
+    
+    Aunque ha habido intentos recurrentes de reformar el complejo método
+    de elegir presidentes en ese país, las políticas raciales han tenido
+    un lugar protagónico en impedir
+    cambios.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alexander
+    Keyssar</span></span>
+    
+    </div>
+
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
+    Sura/EPA vía
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Óscar Martínez</span>
+    
+    ## [En El Salvador todos han negociado con las pandillas](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+    
+    Dialogar con las pandillas ha sido una realidad en el país:
+    políticos de todos los colores lo han hecho por casi una década,
+    pero solo unos cuantos han sido perseguidos por hacerlo. ¿Es una
+    utopía transparentar esos
+    pactos?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Óscar
+    Martínez</span></span>
+    
+    </div>
+
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
     Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -408,86 +450,45 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Ramos</span>
-    
-    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
-    
-    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
-    o trabajado en la región, conocemos bien de mandatarios que juegan
-    con los límites de su poder. Adiós al “excepcionalismo
-    estadounidense”.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jorge
-    Ramos</span></span>
-    
-    </div>
-
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
-    vía Getty Images
-    Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Linsey C. Marr</span>
-    
-    ## [Sí, el coronavirus está en el aire](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
-    
-    La transmisión por aerosoles es importante, y quizá sea mucho más
-    relevante de lo que hemos podido comprobar hasta
-    ahora.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Linsey C.
-    Marr</span></span>
-    
-    </div>
-
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
-        Cadena
-        Bejarano</span>](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+        Drago para The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Juan Villoro</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Ramos</span>
         
-        ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
+        ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
         
-        El hallazgo de un inmenso altar fúnebre azteca permite
-        reflexionar sobre las urgencias actuales sin fantasías atávicas
-        pero con un nítido sentido de la historia y los desafíos del
-        presente.
+        La democracia en Estados Unidos está a prueba. Quienes hemos
+        vivido o trabajado en la región, conocemos bien de mandatarios
+        que juegan con los límites de su poder. Adiós al
+        “excepcionalismo
+        estadounidense”.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Juan
-        Villoro</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jorge
+        Ramos</span></span>
         
         </div>
     
     2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
-        Archive/Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
+        vía Getty Images
+        Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Alexander Keyssar</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Linsey C. Marr</span>
         
-        ## [El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
+        ## [Sí, el coronavirus está en el aire](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
         
-        Aunque ha habido intentos recurrentes de reformar el complejo
-        método de elegir presidentes en ese país, las políticas
-        raciales han tenido un lugar protagónico en impedir
-        cambios.
+        La transmisión por aerosoles es importante, y quizá sea mucho
+        más relevante de lo que hemos podido comprobar hasta
+        ahora.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Alexander
-        Keyssar</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Linsey C.
+        Marr</span></span>
         
         </div>
 
@@ -517,6 +518,84 @@ story](#after-mid1)
 <div class="css-13mho3u">
 
 1.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/science/04Beetle-ES/03TB-BEETLE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Mundo animal</span>
+    
+    ## Hay dos formas de salir de la panza de una rana y este escarabajo eligió la más inesperada
+    
+    Un investigador alimentó unas ranas con escarabajos. La historia
+    parecía la conocida: cuando el depredador se come a la presa es el
+    fin. Pero este escarabajo encontró una vía alternativa.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Katherine Wu</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/03/science/beetle-frog-poop.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/04/espanol/coronavirus-bolsonaro-facebook.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">El times</span>
+    
+    ## ¿El coronavirus se transmite por el aire?
+    
+    Hay que prestar atención a los aerosoles.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Elda
+    Cantú</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
     
     <div class="css-1cp3ece">
     
@@ -558,7 +637,49 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Menos sexo, más audiencia: la pandemia reanima a las telenovelas mexicanas
+    
+    Desdeñados por ser muy anticuados para competir con las series
+    transmitidas por internet, los melodramas televisivos recuperan a un
+    público ansioso que busca entretenimiento familiar y reconfortante
+    en tiempos de incertidumbre.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Natalie Kitroeff</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/02/world/americas/mexico-tv-virus-telenovela.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
     
     <div class="css-1cp3ece">
     
@@ -600,7 +721,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -644,7 +765,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -677,7 +798,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -721,7 +842,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -764,157 +885,39 @@ story](#after-mid1)
     
     </div>
 
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## La tierra en préstamo: una gramática de la violencia en México
-    
-    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
-    sobre las urgencias actuales sin fantasías atávicas pero con un
-    nítido sentido de la historia y los desafíos del presente.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Juan
-    Villoro</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/30/espanol/opinion/john-lewis-derechos-civiles.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/00lewis/00lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John Lewis: Juntos, ustedes pueden recuperar el alma de Estados Unidos
-    
-    Aunque me haya ido, los animo a responder al llamado más elevado de
-    su corazón y a defender lo que realmente creen.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">John Lewis</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/29/espanol/estados-unidos/biden-vicepresidente.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/23/us/politics/29vpguide-ES-promo/merlin_173110821_c31a20b2-7096-4e01-9e02-a71f5bf4088c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Elecciones 2020</span>
-    
-    ## Joe Biden busca vicepresidenta y ellas son las 12 candidatas
-    
-    Esta es la lista de mujeres que han sido consideradas como
-    compañeras de fórmula por la campaña del virtual candidato
-    demócrata, Joe Biden. Este análisis reúne las ventajas y
-    desventajas de cada una.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Alexander Burns</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/article/biden-vice-president-2020.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/es/2020/07/29/espanol/cultura/vincent-van-gogh-raices-arbol.html)
+    [](/es/2020/07/30/espanol/opinion/usar-cubrebocas-politica.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/arts/29VanGogh-ES-01/28van-gogh2-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/opinion/28friedmanWeb/28friedmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## La última obra de Van Gogh esconde una pista sobre sus días finales
+    ### <span class="css-m70j1g">Comentario</span>
     
-    Un investigador dice que ha descubierto la ubicación precisa donde
-    el artista pintó “Raíces de árbol”, que se cree fue la última obra
-    en la que trabajaba el día en que sufrió una herida mortal de bala.
+    ## Si nuestros cubrebocas pudieran hablar
+    
+    ¿Cómo nos volvimos tan ineficaces para combatir al coronavirus? Los
+    arqueólogos del futuro que vinieran a excavar al país más rico del
+    mundo, encontrarían la clave en un artefacto sencillo: la
+    mascarilla.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Nina Siegal</span>
+    Por <span class="css-1n7hynb">Thomas L. Friedman</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html "Read in English")
+    English](https://www.nytimes.com/2020/07/28/opinion/coronavirus-masks.html "Read in English")
     
     </div>
     

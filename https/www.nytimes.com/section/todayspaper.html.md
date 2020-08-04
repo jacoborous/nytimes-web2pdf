@@ -772,7 +772,7 @@ story](#after-mid1)
     
     [](/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
     
-    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic
+    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic
     
     <div class="css-9t0aj2 ea5icrr0">
     

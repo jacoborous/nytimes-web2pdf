@@ -166,44 +166,47 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
-    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/merlin_175185381_c1318e9d-923c-4ed2-a2a5-d3e4ba3556fe-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
+    Wright for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
+    ### Square Feet
     
-    The founder of ByteDance, Zhang Yiming, dreamed of building a global
-    tech company based in China. Then the geopolitical reality set
-    in.
+    ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    
+    The pandemic has turned cleaning and other mundane building tasks
+    into a challenge, stoking interest in machines as cost-effective
+    solutions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Raymond
-    Zhong</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa
+    Prevost</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manjunath
-    Kiran/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
+    Lam/Reuters</span>](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    ## [Apple Replaces Phil Schiller as Its Top Marketing Executive](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/03microsoft1-thumbStandard.jpg)](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    [![](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-thumbStandard.jpg)](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
     
     </div>
     
-    Buying one of the largest and most influential social networks in
-    the country could change the perception of the tech
-    giant.
+    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
+    at the
+    company.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Karen
-    Weise</span></span>
+    <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
@@ -231,28 +234,28 @@ Money](/section/your-money)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ceylan
+    Maurer</span>](https://static01.nyt.com/images/2020/08/04/business/04ontech/04ontech-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### tech fix
+    ### on tech
     
-    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    ## [When Taming Big Tech Goes Wrong](/2020/08/04/technology/europe-big-tech.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/08/04/business/03techfix1/03techfix1-thumbStandard.jpg)](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    [![](https://static01.nyt.com/images/2020/08/04/business/04ontech/04ontech-thumbStandard.jpg)](/2020/08/04/technology/europe-big-tech.html)
     
     </div>
     
-    Yes, you can now pay less than $399 for a smartphone — and it won’t
-    stink.
+    What the United States can learn from Europe’s efforts to restrain
+    America’s tech
+    giants.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Shira
+    Ovide</span></span>
     
     </div>
 
@@ -288,7 +291,24 @@ story](#after-mid1)
 [More in Personal Technology
     »](/section/technology/personaltech)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     SRI
     International</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
     
@@ -306,7 +326,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.nyt.com/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -323,7 +343,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -339,7 +359,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
     Noronha</span>](https://static01.nyt.com/images/2020/08/01/travel/23aipassport/23aipassport-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -353,23 +373,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Debra
     Kamin</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/22/technology/personaltech/22TECHTIP_TOP/22TECHTIP_TOP-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Your Trusty Maps App Can Help You Navigate the Pandemic](/2020/07/22/technology/personaltech/maps-apps-coronavirus-pandemic.html)
-    
-    Apple and Google have added handy features for these uncertain
-    times.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">J. D.
-    Biersdorfer</span></span>
     
     </div>
 
@@ -404,6 +407,69 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/google-fitbit-europe.html)
+    
+    ## Google Faces European Inquiry Into Fitbit Acquisition
+    
+    Authorities are investigating how Google will use health and
+    wellness data collected from Fitbit’s fitness tracking devices.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    
+    Even though coronavirus cases have surged again, craft distilleries
+    say the business of making the disinfectant has become more
+    difficult.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     <div class="css-79elbk">
@@ -425,6 +491,12 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -433,7 +505,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -467,7 +539,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -502,7 +574,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -538,7 +610,81 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/tiktok-bytedance-us-china.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide
+    
+    The founder of ByteDance, Zhang Yiming, dreamed of building a global
+    tech company based in China. Then the geopolitical reality set in.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Raymond
+    Zhong</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/technology/20200804/tiktok-trump-sale-microsoft/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200804/tiktok-trump-sale-microsoft/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens
+    
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech giant.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Weise</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -573,7 +719,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -595,153 +741,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
-    
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen
-    Browning</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
-    
-    Bob Behnken and Doug Hurley returned to Earth in the first water
-    landing by an American space crew since 1975.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
-    
-    Some retailers are turning to popular social media personalities to
-    detail post-pandemic protocols and boost the allure of visiting
-    their stores.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s Going On With TikTok? Here’s What We Know
-    
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David
-    McCabe</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Taylor Lorenz</span>
     
     </div>
     

@@ -164,99 +164,99 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kobe
-    University</span>](https://static01.nyt.com/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+    Steinberg</span>](https://static01.nyt.com/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-thumbStandard.jpg)](/2020/08/03/science/beetle-frog-poop.html)
+    [![](https://static01.nyt.com/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbStandard.jpg)](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
     </div>
     
-    ### Trilobites
+    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
-    ## [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](/2020/08/03/science/beetle-frog-poop.html)
-    
-    A researcher fed beetles to frogs. The encounter did not end as
-    expected.
+    Don’t worry, a little Bayesian analysis won’t hurt
+    you.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
+    Roberts</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
-    Ingalls/NASA, via Agence France-Presse \&mdash; Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Randall
+    Munroe</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbStandard.jpg)](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    [![](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbStandard.jpg)](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
     </div>
     
-    ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    ### Igood question
     
-    Bob Behnken and Doug Hurley returned to Earth in the first water
-    landing by an American space crew since
-    1975.
+    ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to
+    sweat.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-    Chang</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Randall
+    Munroe</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/Nasa
-        Via
-        Reuters</span>](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kobe
+        University</span>](https://static01.nyt.com/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975](/2020/08/02/science/spacex-nasa-return.html)
+        ### Trilobites
+        
+        ## [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](/2020/08/03/science/beetle-frog-poop.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbStandard.jpg)](/2020/08/02/science/spacex-nasa-return.html)
+        [![](https://static01.nyt.com/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-thumbStandard.jpg)](/2020/08/03/science/beetle-frog-poop.html)
         
         </div>
         
-        Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf
-        of Mexico in the Crew Dragon
-        spacecraft.
+        A researcher fed beetles to frogs. The encounter did not end as
+        expected.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Katherine
+        J.
+        Wu</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
+        Ingalls/NASA, via Agence France-Presse \&mdash; Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbStandard.jpg)](/2020/08/02/science/spacex-astronauts-splashdown.html)
+        
+        </div>
+        
+        Bob Behnken and Doug Hurley returned to Earth in the first water
+        landing by an American space crew since
+        1975.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Kenneth
         Chang</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
-        Raff for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Can Humans Give Coronavirus to Bats, and Other Wildlife?](/2020/08/01/science/Covid-bats.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbStandard.jpg)](/2020/08/01/science/Covid-bats.html)
-        
-        </div>
-        
-        Federal agencies suggest caution in U.S. bat research to avoid
-        transmitting the novel coronavirus to
-        wildlife.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">James
-        Gorman</span></span>
         
         </div>
 
@@ -266,7 +266,25 @@ Outbreak](/news-event/coronavirus)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Trilobites
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
+    Raff for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Can Humans Give Coronavirus to Bats, and Other Wildlife?](/2020/08/01/science/Covid-bats.html)
+    
+    Federal agencies suggest caution in U.S. bat research to avoid
+    transmitting the novel coronavirus to
+    wildlife.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Gorman</span></span>
+    
+    </div>
+
+2.  ### Trilobites
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
     Sorokin/Alamy</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
@@ -284,7 +302,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
     Warner</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -300,7 +318,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ### Trilobites
+4.  ### Trilobites
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artokoloro,
     via
@@ -320,7 +338,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
     A.
     Widder</span>](https://static01.nyt.com/images/2020/07/30/science/30TB-ANGLERFISH1/30TB-ANGLERFISH1-videoLarge.jpg)
     
@@ -335,25 +353,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
     Wu</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Finnbarr
-    Webster/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Whence Came Stonehenge’s Stones? Now We Know](/2020/07/29/science/stonehenge-archaeology-sarsens.html)
-    
-    Last year archaeologists pinpointed the origin of many of the
-    ancient monument’s massive stones. A new study identifies the source
-    of the
-    rest.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Franz
-    Lidz</span></span>
     
     </div>
 
@@ -509,6 +508,178 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/style/college-coronavirus-hoax.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/fashion/04McLaughlin/04McLaughlin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Anonymous Professor Who Wasn’t
+    
+    A professor at Arizona State University does not exist.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonah Engel Bromwich <span>and</span>
+    Ezra
+    Marcus</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/health/coronavirus-immune-system.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scientists Uncover Biological Signatures of the Worst Covid-19 Cases
+    
+    Studies of patients with severe cases of Covid-19 show the immune
+    system lacks its usual coordinated response.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
+    
+    Twin emergencies on two coasts this week — Hurricane Isaias and the
+    Apple Fire — offer a preview of life in a warming world and the
+    steady danger of overlapping disasters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
+    Henry
+    Fountain</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/coronavirus-cases.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools
+    
+    Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure.
+    Israel’s troubled school reopenings could be a lesson for the
+    U.S.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/health/alzheimers-dementia-rates.html)
     
     <div class="css-79elbk">
@@ -538,7 +709,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -552,7 +723,7 @@ story](#after-mid1)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -571,7 +742,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -608,7 +779,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -643,7 +814,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -666,175 +837,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
     Waller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/health/dr-birx-coronavirus-phase.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Birx Says U.S. Epidemic Is in a ‘New Phase’
-    
-    She and other top health officials in the Trump administration warn
-    states of a deepening spread of the coronavirus, in both rural and
-    urban areas.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Benedict
-    Carey</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Birx Warns That U.S. Epidemic Is in a ‘New Phase’
-    
-    Colleges are preparing to welcome students back to a complicated
-    campus setting. India’s home minister tests
-    positive.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
-    
-    Her near-total transplant in 2008 was at the time the most complex
-    one ever performed. She was the fourth patient in the world to
-    undergo such a procedure.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryan
-    Pietsch</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/science/nasa-spacex-astronauts.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
-    
-    Bob Behnken and Doug Hurley are getting ready to splash down after
-    two months in orbit.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/coronavirus-covid-19.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
-    
-    Thousands in Berlin protest Germany’s coronavirus measures. The
-    virus is picking up speed in the Midwest. A summer camp in Georgia
-    apologizes for hosting a retreat after hundreds who attended were
-    infected.
-    
-    <div class="css-1nqbnmb ea5icrr0">
     
     </div>
     

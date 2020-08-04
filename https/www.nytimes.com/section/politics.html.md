@@ -169,17 +169,97 @@ story](#after-sponsor)
 
 1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbStandard.jpg)](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/03bass1-thumbStandard.jpg)](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
     
     </div>
     
+    ## [From Outsider to Insider: Karen Bass’s Unexpected Journey to Power](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    
+    At every step in her political career, the California congresswoman
+    had to be coaxed to run for a higher office. Now she’s a top
+    contender to be Joe Biden’s running
+    mate.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Adam Nagourney</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
+    Medina</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Albert
+    Cesare/The Montgomery Advertiser, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/04elections-briefing-lewis-thumbStandard.jpg)](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    
+    </div>
+    
+    ## [Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    
+    President Trump was asked by an interviewer to reflect on the late
+    congressman’s contributions to the civil rights movement. He talked
+    up his own record
+    instead.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Neil
+    Vigdor</span></span>
+    
+    </div>
+
+<!-- end list -->
+
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>T.J.
+    Kirkpatrick for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Meet the Official Accused of Helping Trump Politicize Homeland Security](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/04dc-unrest-dhs3-thumbLarge.jpg)](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    </div>
+    
+    Chad F. Wolf joined the Department of Homeland Security in its
+    infancy to help prevent another 9/11. Now he is helping President
+    Trump use it to achieve his political
+    ambitions.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Zolan Kanno-Youngs</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Jesse
+    McKinley</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
     ## [With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbLarge.jpg)](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    
+    </div>
     
     As his top advisers met with Democratic leaders to try to hash out a
     compromise, President Trump hurled insults at Democrats and mused
@@ -191,80 +271,6 @@ story](#after-sponsor)
     <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Jim
     Tankersley</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
-    Tripplaar/Alamy</span>](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    </div>
-    
-    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    Members of a congressional oversight panel want to know how YRC
-    Worldwide won a $700 million loan from the Treasury
-    Department.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alan
-    Rappeport</span></span>
-    
-    </div>
-
-<!-- end list -->
-
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
-    Jarrus for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
-    
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
-    
-    </div>
-    
-    The Michigan Democrat is facing a rematch against a challenger who
-    says she hasn’t done enough for her district in
-    Detroit.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
-    Gray</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
-    
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbLarge.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
-    
-    </div>
-    
-    The president and his aides are holding out hope for ambitious
-    convention programming, and have considered a return to Mount
-    Rushmore or a speech by Melania Trump from Seneca Falls,
-    N.Y.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Annie
-    Karni</span></span>
     
     </div>
 
@@ -324,6 +330,219 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/trump-immigration-wealth-test.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-publiccharge/merlin_159196191_d223a2ab-038a-4108-8f96-6f011215a5d6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Appeals Court Blocks Immigrant Wealth Test in the Northeast
+    
+    The federal court ruled that the Trump administration’s so-called
+    public charge rule for green card applicants could not go into
+    effect in New York, Connecticut and Vermont.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan
+    Kanno-Youngs</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    
+    President Trump was asked by an interviewer to reflect on the late
+    congressman’s contributions to the civil rights movement. He talked
+    up his own record instead.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
+    Vigdor</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/trump-prosecutors.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/04/20/us/onpolitics-speech-bubble-white-still/onpolitics-speech-bubble-white-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Politics</span>
+    
+    ## A Wider-Than-Thought Trump Investigation
+    
+    New York prosecutors may be circling the president’s business
+    practices: This is your morning tip sheet.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Giovanni
+    Russonello</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Meet the Official Accused of Helping Trump Politicize Homeland Security
+    
+    Chad F. Wolf joined the Department of Homeland Security in its
+    infancy to help prevent another 9/11. Now he is helping President
+    Trump use it to achieve his political ambitions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Jesse
+    McKinley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    
+    At every step in her political career, the California congresswoman
+    had to be coaxed to run for a higher office. Now she’s a top
+    contender to be Joe Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
+    Jennifer
+    Medina</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/upshot/04up-medicaid-ballots/04up-medicaid-ballots-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Ballot Initiatives Changed the Game on Medicaid Expansion
+    
+    Missouri is the latest state where a nonprofit has helped put the
+    issue before voters, bypassing Republican officials. And the vote is
+    today.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Kliff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
@@ -353,7 +572,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -389,7 +608,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -416,6 +635,12 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -424,7 +649,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -447,216 +672,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
-    
-    The Tennessee Valley Authority, an electric utility, quickly said it
-    would reconsider its move to shift some work to contractors outside
-    the United States.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/tata-pentagon.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
-    
-    The president sidestepped Congress when it became clear that his
-    nominee for a top Defense Department position would not win Senate
-    approval.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Helene
-    Cooper</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/gun-control-voters.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What Happened to the Young Voters Focused on Guns?
-    
-    It’s not their top issue anymore, but many see it as a part of
-    other, larger concerns.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
-    
-    Republicans worry that if Kris Kobach, a polarizing figure in the
-    state, wins the nomination, it would pave the way for Democrats to
-    capture the seat and perhaps gain control of the Senate.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Glueck</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
-    
-    Members of a congressional oversight panel want to know how YRC
-    Worldwide won a $700 million loan from the Treasury Department.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
-    
-    The president said he did not object to a potential acquisition of
-    the Chinese-owned app, retreating from comments about banning the
-    service.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
-    Isaac</span>
+    By <span class="css-1n7hynb">Lisa Lerer</span>
     
     </div>
     

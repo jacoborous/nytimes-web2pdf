@@ -159,15 +159,43 @@ Outbreak](/news-event/coronavirus)
 
 <div id="collection-highlights-container" class="section css-18l1u7x e46isfb1">
 
-<div class="template-1 css-gfgt40 ekkqrpp1">
+<div class="css-gfgt40 ekkqrpp1">
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
-    Dhaliwal for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/science/00VIRUS-GLOBAL4/merlin_174091218_11f51e9c-944b-4062-b5fd-9a77638d983f-jumbo.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NIAID</span>](https://static01.nyt.com/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-videoLarge.jpg)
     
-    <div class="css-gjijuv">
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-thumbStandard.jpg)](/2020/08/04/health/coronavirus-immune-system.html)
+    
+    </div>
+    
+    ## [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](/2020/08/04/health/coronavirus-immune-system.html)
+    
+    Studies of patients with severe cases of Covid-19 show the immune
+    system lacks its usual coordinated
+    response.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
+    Dhaliwal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-thumbStandard.jpg)](/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html)
+    
+    </div>
     
     ### GLOBAL HEALTH
     
@@ -184,45 +212,63 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-    O'Hare for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
+        O'Hare for The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbStandard-v2.jpg)](/2020/08/03/health/covid-telemedicine-congress.html)
+        
+        </div>
+        
+        The answer largely depends on whether Medicare and private
+        health insurers will adequately cover virtual doctor visits once
+        coronavirus outbreaks
+        subside.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Reed
+        Abelson</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
-    
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks
-    subside.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reed
-    Abelson</span></span>
-    
-    </div>
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+        Gallup/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Dementia on the Retreat in the U.S. and Europe](/2020/08/03/health/alzheimers-dementia-rates.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-thumbStandard.jpg)](/2020/08/03/health/alzheimers-dementia-rates.html)
+        
+        </div>
+        
+        Rates of dementia have steadily fallen over the past 25 years, a
+        new study finds. But the disease is increasingly common in some
+        parts of the
+        world.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Gina
+        Kolata</span></span>
+        
+        </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-    Gallup/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Dementia on the Retreat in the U.S. and Europe](/2020/08/03/health/alzheimers-dementia-rates.html)
-    
-    Rates of dementia have steadily fallen over the past 25 years, a new
-    study finds. But the disease is increasingly common in some parts of
-    the
-    world.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gina
-    Kolata</span></span>
-    
-    </div>
+</div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
     Vucci/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-videoLarge.jpg)
     
@@ -241,13 +287,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
     Barwick/Getty
     Images</span>](https://static01.nyt.com/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-videoLarge.jpg)
     
@@ -265,7 +305,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
     Sladky/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-videoLarge.jpg)
     
@@ -284,7 +324,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ### The New Old Age
+4.  ### The New Old Age
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
     Belleme for The New York
@@ -305,7 +345,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Behrouz
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Behrouz
     Mehri/Agence France-Presse — Getty
     Images</span>](https://static01.nyt.com/images/2020/07/27/science/00VIRUS-DIAMOND1/00VIRUS-DIAMOND1-videoLarge.jpg)
     
@@ -322,25 +362,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
     <span class="css-1baulvz last-byline" itemprop="name">James
     Glanz</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
-    Tama/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/01/science/30VIRUS-CHILDREN1/30VIRUS-CHILDREN1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Children May Carry Coronavirus at High Levels, Study Finds](/2020/07/30/health/coronavirus-children.html)
-    
-    The research does not prove that infected children are contagious,
-    but it should influence the debate about reopening schools, some
-    experts
-    said.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
-    Mandavilli</span></span>
     
     </div>
 
@@ -473,27 +494,43 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emily
-    Kask for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
+    Sanders for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/us/04virus-briefing-barbot/merlin_169909458_37bb416d-3b7e-47be-8566-346342ad86ce-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](/2020/08/02/us/covid-college-reopening.html)
+    ## [Coronavirus Live Updates: N.Y.C. Health Commissioner Resigns After Clashes with Mayor Over Response](/2020/08/04/world/coronavirus-cases.html)
     
-    Colleges are racing to reconfigure dorms, expand testing programs
-    and establish detailed social distancing rules. And then, what to do
-    about
-    sex?
+    Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure.
+    Israel’s troubled school reopenings could be a lesson for the
+    U.S.
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Anemona Hartocollis</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Shawn
-    Hubler</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
+    West/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    
+    Melbourne, Australia’s second-largest city, is becoming a case study
+    in handling a second wave of infections. There are lots of
+    unanswered
+    questions.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Damien
+    Cave</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
     Dawn Bottoms/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-videoLarge-v2.jpg)
     
@@ -511,57 +548,40 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-    O'Hare for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+    Sladky/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
+    ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
     
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks
-    subside.
+    Series have been postponed, teams have been quarantined, and road
+    trips have been rerouted in a season that has been defined above all
+    by its
+    precariousness.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reed
-    Abelson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tyler
+    Kepner</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
-    Belleme for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fred
+    R. Conrad/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Should Youth Come First in Coronavirus Care?](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
+    ## [The Rockettes’ ‘Christmas Spectacular’ Is Canceled](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
     
-    If medical rationing becomes necessary, some older adults are
-    prepared to step aside. But many have the opposite concern: that
-    they will be arbitrarily sent to the rear of the
-    line.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paula
-    Span</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Steinberg</span>](https://static01.nyt.com/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
-    
-    Don’t worry, a little Bayesian analysis won’t hurt
-    you.
+    MSG Entertainment, which owns Radio City Music Hall and manages the
+    Rockettes, cited the uncertainty of the
+    coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
-    Roberts</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julia
+    Carmel</span></span>
     
     </div>
 
@@ -617,6 +637,39 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/coronavirus-cases.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/04virus-briefing-barbot/merlin_169909458_37bb416d-3b7e-47be-8566-346342ad86ce-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: N.Y.C. Health Commissioner Resigns After Clashes with Mayor Over Response
+    
+    Tens of millions of Americans have lost crucial jobless benefits,
+    and lawmakers still can’t seem to agree on a relief measure.
+    Israel’s troubled school reopenings could be a lesson for the
+    U.S.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/world/coronavirus-covid-19.html)
     
     <div class="css-79elbk">
@@ -625,7 +678,7 @@ story](#after-mid2)
     
     </div>
     
-    ## Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
     
     Counting for the 2020 census will end on Sept. 30, a month earlier
     than previously announced, the Census Bureau said. Some U.S. schools
@@ -644,7 +697,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -678,7 +731,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -712,7 +765,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -746,7 +799,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -782,7 +835,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -814,7 +867,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -849,7 +902,42 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    
+    More than 500 cases and at least 75 hospitalizations have been
+    reported in the United States and Canada, the health authorities
+    said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christina
+    Morales</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -871,74 +959,6 @@ story](#after-mid2)
     infected.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
-    
-    The world’s largest vaccine producer, the Serum Institute, announced
-    a plan to make hundreds of millions of doses of an unproven
-    inoculation. It’s a gamble with a huge upside. And huge risks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeffrey
-    Gettleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/science/Covid-bats.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Can Humans Give Coronavirus to Bats, and Other Wildlife?
-    
-    Federal agencies suggest caution in U.S. bat research to avoid
-    transmitting the novel coronavirus to wildlife.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">James Gorman</span>
     
     </div>
     
