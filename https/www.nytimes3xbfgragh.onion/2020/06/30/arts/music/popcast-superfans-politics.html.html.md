@@ -299,6 +299,25 @@ of</span><span class="css-19zi9mh">Popcast</span>
 
 <div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
 
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/04/arts/music/taylor-swift-folklore-questions.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 4, 2020<span>  <span class="css-orcm78">•</span> 
+1:27:26</span><span class="css-i5svdo">Answering Your Questions About
+Taylor Swift’s
+‘Folklore’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
 [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/arts/27popcast/27popcast-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/27/arts/music/popcast-taylor-swift-folklore.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
 
 <div class="css-14o8mz7 e1gfokfg2">
@@ -493,26 +512,7 @@ Rhythm</span>
 
 April 30, 2020<span>  <span class="css-orcm78">•</span> 
 53:15</span><span class="css-i5svdo">The Triumphant Return of Fiona
-Apple, Pop Music
-Renegade</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/arts/15trolls2/15trolls2-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/19/arts/music/popcast-kids-music.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-April 19, 2020<span>  <span class="css-orcm78">•</span> 
-1:00:50</span><span class="css-i5svdo">Beyond ‘Trolls’ and ‘Frozen’:
-What Are Our Kids Listening To?</span>
+Apple, Pop Music Renegade</span>
 
 </div>
 

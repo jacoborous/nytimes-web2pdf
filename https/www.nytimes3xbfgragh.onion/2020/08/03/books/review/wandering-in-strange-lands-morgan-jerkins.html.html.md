@@ -249,14 +249,21 @@ Hirsch</span>
 
 </div>
 
-  - Aug. 3,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">6:12 a.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -303,6 +310,10 @@ direct, or simple. Instead the story of her personal heritage, and its
 erasure within her own family, reveals the reductive power of the white
 gaze to flatten the complexities of Black lineage. “I existed in that
 Black-white binary,” Jerkins writes, “because it was easier.”
+
+*\[ Read an excerpt from* [*“Wandering in Strange
+Lands.”*](https://www.nytimes3xbfgragh.onion/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html)
+*\]*
 
 Jerkins divides her heritage up geographically: the Lowcountry of
 Georgia and South Carolina, Creole Louisiana, Oklahoma and finally Los

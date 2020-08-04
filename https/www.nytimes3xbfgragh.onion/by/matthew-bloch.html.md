@@ -177,7 +177,7 @@ story](#after-mid1)
     
     </div>
     
-    ## Hurricane Isaias Tracking Map
+    ## Isaias Tracking Map
     
     Follow the storm’s path as it moves north along the Atlantic Coast.
     

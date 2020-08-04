@@ -135,14 +135,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -234,7 +234,7 @@ Mervosh</span>](https://www.nytimes3xbfgragh.onion/by/sarah-mervosh),
 <span class="css-1baulvz" itemprop="name">Yuriria Avila</span>,
 <span class="css-1baulvz" itemprop="name">Barbara Harvey</span> and
 <span class="css-1baulvz last-byline" itemprop="name">Alex Leeds
-Matthews</span>Updated July 31,
+Matthews</span>Updated Aug. 4,
 2020
 
 </div>
@@ -8570,11 +8570,12 @@ Oregon
 <div class="g-text-wrap">
 
 <span class="g-text">Gov. Kate Brown, a Democrat, started a three-phase
-regional reopening on May 15, but Ms. Brown said Phase 3 would not come
-until September at the earliest. Masks are required in both outdoor and
-indoor spaces, and indoor gatherings of more than 10 people are
-prohibited. Capacity for restaurants and bars was lowered July
-24.</span> <span class="g-link">[Read more
+regional reopening on May 15, but said Phase 3 would not come until
+September at the earliest. Masks are required in both outdoor and indoor
+spaces, and indoor gatherings of more than 10 people are prohibited.
+Capacity for restaurants and bars was lowered, and Ms. Brown recently
+rolled back reopenings in two counties because of growing positive test
+rates.</span> <span class="g-link">[Read more
 »](https://www.oregonlive.com/news/2020/07/oregon-gov-kate-brown-announces-new-mask-mandate-for-kids-earlier-bar-and-restaurant-closure-times.html)</span>
 
 </div>
@@ -8971,215 +8972,6 @@ Industries
 <div class="g-cat-text">
 
 Offices; Malls
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="g-state-SC" class="g-state g-cat-pausing" data-state="SC">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-South Carolina
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="South Carolina">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened April 20.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. Henry McMaster, a Republican, was among the
-last to issue a stay-at-home order and among the first to begin opening
-up his state, starting April 20 with retail stores. Mr. McMaster will
-allow movie theaters, concerts, race tracks or nightclubs to reopen
-starting August 3, but with a 50 percent capacity limit and mask
-requirement. Restaurants will be required to follow the same safety
-guidelines.</span> <span class="g-link">[Read more
-»](https://www.wbtv.com/2020/07/29/sc-governor-announces-targeted-mask-requirements-reopens-more-businesses/)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining; Bars
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Salons, barbershops, tattoo parlors, etc.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Museums, zoos, aquariums
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-Beaches, piers, docks, etc.; Gyms; Pools; Amusement parks, water parks
 
 </div>
 
@@ -14253,6 +14045,216 @@ Outdoor and recreation
 
 Golf courses, marinas, private campgrounds; Beaches; State parks; Public
 pools; Gyms
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="g-state-SC" class="g-state g-cat-reopened" data-state="SC">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+South Carolina
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="South Carolina">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened April 20.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Henry McMaster, a Republican, was among the
+last to issue a stay-at-home order and among the first to begin opening
+up his state, starting April 20 with retail stores. Mr. McMaster will
+allow movie theaters, concerts, race tracks or nightclubs to reopen
+starting August 3, but with a 50 percent capacity limit and a mask
+requirement. Restaurants will be required to follow the same safety
+guidelines.</span> <span class="g-link">[Read more
+»](https://www.wbtv.com/2020/07/29/sc-governor-announces-targeted-mask-requirements-reopens-more-businesses/)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurant dining; Bars
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Salons, barbershops, tattoo parlors, etc.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Museums, zoos, aquariums; Movie theaters, stadiums, festival parades,
+racetracks; Nightclubs
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+Beaches, piers, docks, etc.; Gyms; Pools; Amusement parks, water parks
 
 </div>
 

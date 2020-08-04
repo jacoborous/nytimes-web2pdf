@@ -349,9 +349,10 @@ hand over depositors’ cash and families struggle to buy imported
 essentials like diapers and laundry detergent.
 
 The government has long failed to provide sufficient electricity. But
-blackouts have grown so long that the din of traffic in Beirut, where
-about one-third of Lebanon’s 5.4 million people live, has been replaced
-by the roar of overworked generators.
+blackouts have grown so long that the din of traffic in
+[Beirut](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/beirut-explosion-blast.html),
+where about one-third of Lebanon’s 5.4 million people live, has been
+replaced by the roar of overworked generators.
 
 </div>
 

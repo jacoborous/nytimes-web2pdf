@@ -174,6 +174,71 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/live/2020/08/04/business/stock-market-today-coronavirus/loans-are-harder-to-get-even-as-interest-rates-are-low)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Loans are harder to get, even as interest rates are low.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tara Siegel
+    Bernard</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.
+    
+    Banks have tightened standards, becoming more choosy about their
+    borrowers and asking a lot of questions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tara Siegel
+    Bernard</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/business/unemployment-payments-change.html)
     
     <div class="css-79elbk">
@@ -204,7 +269,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -238,7 +303,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +338,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +374,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -337,7 +402,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +437,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -407,7 +472,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -428,75 +493,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tara Siegel
-    Bernard</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/article/coronavirus-stimulus-package-questions-answers.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/27/business/26virus-qa/26virus-qa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## F.A.Q. on Stimulus Checks, Unemployment and the Coronavirus Plan
-    
-    The $2 trillion relief package is sending money directly to
-    Americans, greatly expanding unemployment coverage and making a
-    number of other changes.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tara Siegel Bernard <span>and</span>
-    Ron
-    Lieber</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/covid-19-03-19/a-surge-in-layoffs-overwhelms-unemployment-offices)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/19/business/19virus-joblesscrush3/merlin_170648199_77cdc0b1-c443-4f70-8bda-310620e2e480-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A surge in layoffs overwhelms unemployment offices.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tiffany Hsu <span>and</span> Tara
-    Siegel Bernard</span>
+    By <span class="css-1n7hynb">Tara Siegel Bernard</span>
     
     </div>
     

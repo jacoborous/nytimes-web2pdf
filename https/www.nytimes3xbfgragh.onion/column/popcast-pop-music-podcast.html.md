@@ -190,6 +190,37 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Answering Your Questions About Taylor Swift’s ‘Folklore’
+    
+    Readers asked about Bon Iver, country music, Jack Antonoff and
+    more.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/27/arts/music/popcast-taylor-swift-folklore.html)
     
     <div class="css-79elbk">
@@ -216,7 +247,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -248,7 +279,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -280,7 +311,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +343,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +375,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -376,7 +407,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +439,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -440,7 +471,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -457,39 +488,7 @@ story](#after-sponsor)
     ## The Many Lives of Doja Cat
     
     The pop star took an extremely nonlinear path to No. 1, and
-    continues to push the boundaries of online
-    behavior.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/11/arts/music/popcast-tony-allen-florian-schneider.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/11/arts/11popcast1/11popcast1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Remembering Tony Allen and Florian Schneider, Two Pillars of Rhythm
-    
-    Thousands of miles apart, and with radically different tools, both
-    musicians were innovating.
+    continues to push the boundaries of online behavior.
     
     <div class="css-1nqbnmb ea5icrr0">
     

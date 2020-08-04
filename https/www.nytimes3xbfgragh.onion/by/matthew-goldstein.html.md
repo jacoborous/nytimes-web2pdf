@@ -172,6 +172,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/live/2020/08/04/business/stock-market-today-coronavirus/trading-in-kodak-shares-comes-under-scrutiny)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04markets-brf-kodak/merlin_92635288_b4435354-3c40-4e46-a1e0-c4356dc455b6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trading in Kodak shares comes under scrutiny.
+    
+    Trading in Kodak shares before a big announcement prompts a
+    regulatory probe, according to a news report, a day after Senator
+    Warren sought one
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/business/a-project-in-kentucky-aims-to-show-how-home-lending-can-build-wealth.html)
     
     <div class="css-79elbk">
@@ -197,7 +232,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +267,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -268,7 +303,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -303,7 +338,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -338,7 +373,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -373,7 +408,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -443,7 +478,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -466,42 +501,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Matthew Goldstein <span>and</span>
-    Katie
-    Benner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/15/business/virgin-islands-jeffrey-epstein-bank.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/15/business/15epstein/15epstein-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Virgin Islands Again Questions Epstein Estate Transactions
-    
-    The attorney general there said her office needed more information
-    about $39 million in transactions involving a small bank set up by
-    Jeffrey Epstein.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew Goldstein</span>
+    Katie Benner</span>
     
     </div>
     

@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 5:12 A.M.
+Times</span>Updated August 4, 2020, 5:31 P.M.
 E.T.
 
 </div>
@@ -399,7 +399,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-248,229
+248,419
 
 </div>
 
@@ -415,7 +415,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-35,166
+35,171
 
 </div>
 
@@ -450,16 +450,16 @@ available
 
 [Map](#map)[By region and province](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 248,200 confirmed cases of coronavirus in
+There have been at least 248,400 confirmed cases of coronavirus in
 Italy, according to the [Italian Department of Civil
-Protection](https://github.com/pcm-dpc/COVID-19). As of Tuesday morning,
-35,166 people had
+Protection](https://github.com/pcm-dpc/COVID-19). As of Tuesday
+afternoon, 35,171 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -704,10 +704,10 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Veneto </span></td>
-<td><span>20,233 </span></td>
-<td><span>412 </span></td>
-<td><span>2,076 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Veneto </span></td>
+<td><span>20,253 </span></td>
+<td><span>413 </span></td>
+<td><span>2,077 </span></td>
 <td><span>42 </span></td>
 <td><span>408 </span></td>
 <td><span>8 </span></td>
@@ -715,9 +715,9 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Emilia-Romagna </span></td>
-<td><span>29,808 </span></td>
-<td><span>668 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Emilia-Romagna </span></td>
+<td><span>29,850 </span></td>
+<td><span>669 </span></td>
 <td><span>4,291 </span></td>
 <td><span>96 </span></td>
 <td><span>253 </span></td>
@@ -726,8 +726,8 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Marche </span></td>
-<td><span>6,897 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Marche </span></td>
+<td><span>6,899 </span></td>
 <td><span>452 </span></td>
 <td><span>987 </span></td>
 <td><span>65 </span></td>
@@ -737,9 +737,9 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Trentino-Alto Adige </span></td>
-<td><span>7,715 </span></td>
-<td><span>719 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Trentino-Alto Adige </span></td>
+<td><span>7,723 </span></td>
+<td><span>720 </span></td>
 <td><span>697 </span></td>
 <td><span>65 </span></td>
 <td><span>49 </span></td>
@@ -748,9 +748,9 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Liguria </span></td>
-<td><span>10,238 </span></td>
-<td><span>660 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Liguria </span></td>
+<td><span>10,243 </span></td>
+<td><span>661 </span></td>
 <td><span>1,568 </span></td>
 <td><span>101 </span></td>
 <td><span>64 </span></td>
@@ -759,10 +759,10 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Lombardy </span></td>
-<td><span>96,337 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Lombardy </span></td>
+<td><span>96,381 </span></td>
 <td><span>958 </span></td>
-<td><span>16,818 </span></td>
+<td><span>16,819 </span></td>
 <td><span>167 </span></td>
 <td><span>382 </span></td>
 <td><span>4 </span></td>
@@ -770,8 +770,8 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Friuli Venezia Giulia </span></td>
-<td><span>3,411 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Friuli Venezia Giulia </span></td>
+<td><span>3,416 </span></td>
 <td><span>281 </span></td>
 <td><span>346 </span></td>
 <td><span>28 </span></td>
@@ -781,7 +781,7 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Molise </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Molise </span></td>
 <td><span>477 </span></td>
 <td><span>156 </span></td>
 <td><span>23 </span></td>
@@ -792,10 +792,10 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Piedmont </span></td>
-<td><span>31,711 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Piedmont </span></td>
+<td><span>31,719 </span></td>
 <td><span>728 </span></td>
-<td><span>4,131 </span></td>
+<td><span>4,132 </span></td>
 <td><span>95 </span></td>
 <td><span>101 </span></td>
 <td><span>2 </span></td>

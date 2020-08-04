@@ -148,14 +148,14 @@ Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=A
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes3xbfgragh.onion/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes3xbfgragh.onion/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes3xbfgragh.onion/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes3xbfgragh.onion/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes3xbfgragh.onion/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes3xbfgragh.onion/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -324,6 +324,25 @@ bars
 
 <span class="css-nxkttv">More episodes
 of</span><span class="css-19zi9mh">Popcast</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/04/arts/music/taylor-swift-folklore-questions.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 4, 2020<span>  <span class="css-orcm78">•</span> 
+1:27:26</span><span class="css-i5svdo">Answering Your Questions About
+Taylor Swift’s
+‘Folklore’</span>
 
 </div>
 
@@ -525,26 +544,7 @@ Rhythm</span>
 
 April 30, 2020<span>  <span class="css-orcm78">•</span> 
 53:15</span><span class="css-i5svdo">The Triumphant Return of Fiona
-Apple, Pop Music
-Renegade</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/arts/15trolls2/15trolls2-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/19/arts/music/popcast-kids-music.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-April 19, 2020<span>  <span class="css-orcm78">•</span> 
-1:00:50</span><span class="css-i5svdo">Beyond ‘Trolls’ and ‘Frozen’:
-What Are Our Kids Listening To?</span>
+Apple, Pop Music Renegade</span>
 
 </div>
 

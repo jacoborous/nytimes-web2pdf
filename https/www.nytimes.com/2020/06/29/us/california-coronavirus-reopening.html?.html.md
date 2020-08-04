@@ -424,21 +424,21 @@ run.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T21:18:49.389Z
+Updated 2020-08-04T22:25:13.336Z
 
 </div>
 
 </div>
 
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension that Republicans have
+    opposed.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2daa96b5)
   - [Novavax sees encouraging results from two studies of its
     experimental
     vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
   - [Public and private schools in Maryland and elsewhere are divided
     over in-person
     instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [The United Nations calls on policymakers to ‘plan thoroughly for
-    school
-    reopenings.’](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-50f7386d)
 
 <div class="briefing-block-footer">
 

@@ -350,7 +350,46 @@ By Reuters<span class="css-1iknmmf">•</span>August 2,
     
     ### How China Is Reshaping the Coronavirus Narrative
 
-  - <span class="css-1rpraga"></span>
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007272762/un-secretary-generational-catastrophe-schools-reopen.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-briefing-un/merlin_174338310_a5db87e5-45e5-4b44-a65b-b846a42948cf-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:31</span>
+    
+    ### U.N. Says Virus Causing ‘Largest Disruption of Education Ever’
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007271181/california-virus-cases-trend-down.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/03virus-briefing-ca-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:19</span>
+    
+    ### Coronavirus Cases ‘Trending Down’ in California, Governor Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/world/europe/100000007269932/who-coronavirus-briefing.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03virus-briefing-WHO/03virus-briefing-WHO-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:59</span>
+    
+    ### ‘There Is No Silver Bullet,’ W.H.O. Chief Says
+
+  - <span class="css-y16b1n"></span>
     
     <div class="css-1aetz0h">
     
@@ -506,45 +545,6 @@ By Reuters<span class="css-1iknmmf">•</span>August 2,
     <span class="css-1xigvfz">0:60</span>
     
     ### ‘Way Too Crowded’: Niagara Falls Boats Become Symbols of Virus Responses
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007250068/trump-says-virus-worse-before-better.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/21elections-briefing-trump/21elections-briefing-trump-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:34</span>
-    
-    ### Trump Says Pandemic ‘Will Get Worse Before It Gets Better’
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007250230/mcconnell-proposal-relief-package.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/autossell/21-virus-mcconnell/21-virus-mcconnell-square320.png)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:58</span>
-    
-    ### McConnell Lays Out Proposal for Next Stimulus Bill
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007247561/cuomo-coronavirus-warning.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/coronavirus-news-update)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/us/20cuomo-vid-promo/20cuomo-vid-promo-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:13</span>
-    
-    ### ‘Don’t Be Stupid,’ Cuomo Says
 
 </div>
 

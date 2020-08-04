@@ -281,6 +281,259 @@ bars
 
 </div>
 
+<div class="css-fnovkn e1gfokfg0">
+
+<span class="css-1ly73wi e1tej78p0">Previous</span>
+
+<div class="css-1s78rjm e1gfokfg1">
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-hoe9xz">
+
+<span class="css-nxkttv">More episodes
+of</span><span class="css-19zi9mh">Book
+Review</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/31pod-cover/31pod-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 31, 2020<span>  <span class="css-orcm78">•</span> 
+54:48</span><span class="css-i5svdo">The ‘Seductive Lure’ of
+Authoritarianism</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/books/24pod-cover/24pod-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 24, 2020<span class="css-i5svdo">The Yearning for the
+Unexplained</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/books/17podcover/08BOOKZELIZER1-thumbLarge.png)](https://www.nytimes3xbfgragh.onion/2020/07/17/books/review/podcast-julian-zelizer-burning-down-house-newt-gingrich-notes-silencing-lacy-crawford.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 17, 2020<span>  <span class="css-orcm78">•</span> 
+1:05:20</span><span class="css-i5svdo">Newt Gingrich and the Dawn of an
+Era</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/06/books/review/00Mendelsohn-utopia/00Mendelsohn-utopia-thumbLarge-v2.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/10/books/review/david-mitchell-utopia-avenue-daniel-mendelsohn-biggest-bluff-poker-maria-konnikova.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 10, 2020<span>  <span class="css-orcm78">•</span> 
+1:02:09</span><span class="css-i5svdo">David Mitchell’s Vast and Tangled
+Universe</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/03/books/03pod-cover/03pod-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+July 3, 2020<span>  <span class="css-orcm78">•</span> 
+56:09</span><span class="css-i5svdo">Jules Feiffer on His Long, Varied
+Career</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/06/26/books/26pod-cover/26pod-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/06/26/books/review/podcast-richard-haass-world-brief-introduction.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+June 26, 2020<span>  <span class="css-orcm78">•</span> 
+1:06:53</span><span class="css-i5svdo">A Short Guide to ‘The
+World’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/06/18/books/18pod-cover/18pod-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/06/18/books/review/andre-leon-talley-chiffon-trenches-claudia-rankine-jericho-brown-megha-majumdar-burning.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+June 18, 2020<span>  <span class="css-orcm78">•</span> 
+1:00:18</span><span class="css-i5svdo">André Leon Talley on ‘The Chiffon
+Trenches’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/06/12/books/12pod-cover/12pod-cover-thumbLarge.png)](https://www.nytimes3xbfgragh.onion/2020/06/12/books/review/podcast-stephen-fry-heroes-greek-myths.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+June 12, 2020<span>  <span class="css-orcm78">•</span> 
+1:01:50</span><span class="css-i5svdo">Stephen Fry on Reimagining the
+Greek
+Myths</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/06/07/books/review/05pod-art/05pod-art-thumbLarge-v2.jpg)](https://www.nytimes3xbfgragh.onion/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+June 5, 2020<span>  <span class="css-orcm78">•</span> 
+58:58</span><span class="css-i5svdo">A.O. Scott on the Work of Wallace
+Stegner</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/books/29podcast-cover/29podcast-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/29/books/review/podcast-enemy-of-all-mankind-piracy-steven-johnson-stephen-king-gilbert-cruz.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 29, 2020<span>  <span class="css-orcm78">•</span> 
+1:07:26</span><span class="css-i5svdo">A Manhunt on the 17th Century’s
+High
+Seas</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/22/books/22podcast-cover/22podcast-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/22/books/review/podcast-one-mighty-irresistible-tide-immigration-jia-lynn-yang-simplify-life-judith-newman.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 22, 2020<span>  <span class="css-orcm78">•</span> 
+59:29</span><span class="css-i5svdo">Immigration Reform, Past and
+Present</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/16/books/review/Kotlowitz2/Kotlowitz2-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/15/books/review/podcast-lauren-sandler-this-is-all-i-got-sarah-weinman-crime-fiction.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+May 15, 2020<span>  <span class="css-orcm78">•</span> 
+1:15:20</span><span class="css-i5svdo">One Young Mother and the
+Homelessness Crisis</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+<div class="css-1o3broy">
+
+[<span class="css-nxkttv">See All Episodes
+of</span><span class="css-cbc4vz">Book
+Review</span>](https://www.nytimes3xbfgragh.onion/column/book-review-podcast)
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1ly73wi e1tej78p0">Next</span>
+
+</div>
+
 </div>
 
 <div class="css-1tlsmx">

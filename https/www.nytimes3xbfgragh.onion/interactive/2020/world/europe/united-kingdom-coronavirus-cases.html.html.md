@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -450,7 +450,7 @@ available
 
 [Map](#map)[By country and local area](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -458,7 +458,7 @@ cases](#cases)[Tips](#tips)[Latest news
 
 There have been at least 305,600 confirmed cases of coronavirus in the
 United Kingdom, according to [Public Health
-England](https://coronavirus.data.gov.uk/). As of Tuesday morning,
+England](https://coronavirus.data.gov.uk/). As of Tuesday afternoon,
 46,210 people had died.
 
 The [Office for National
@@ -702,7 +702,7 @@ in last<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>England </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>England </span></td>
 <td><span>263,602 </span></td>
 <td><span>471 </span></td>
 <td><span>41,598 </span></td>
@@ -713,9 +713,9 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Wales </span></td>
-<td><span>17,339 </span></td>
-<td><span>552 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Wales </span></td>
+<td><span>17,361 </span></td>
+<td><span>553 </span></td>
 <td><span>1,565 </span></td>
 <td><span>50 </span></td>
 <td><span>169 </span></td>
@@ -724,7 +724,7 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Northern Ireland </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Northern Ireland </span></td>
 <td><span>5,988 </span></td>
 <td><span>331 </span></td>
 <td><span>556 </span></td>
@@ -735,7 +735,7 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Scotland </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Scotland </span></td>
 <td><span>18,694 </span></td>
 <td><span>344 </span></td>
 <td><span>2,491 </span></td>

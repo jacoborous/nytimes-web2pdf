@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 5:31 P.M.
 E.T.
 
 </div>
@@ -404,7 +404,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-15,055
+15,137
 
 </div>
 
@@ -420,7 +420,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-585
+587
 
 </div>
 
@@ -455,7 +455,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -465,7 +465,7 @@ At least 106 new cases were reported in Delaware on Aug. 3. Over the
 past week, there have been an average of 93 cases per day, a decrease of
 13 percent from the average two weeks earlier.
 
-As of Tuesday morning, there have been at least 15,055 cases and 585
+As of Tuesday afternoon, there have been at least 15,137 cases and 587
 deaths in Delaware since the beginning of the pandemic, according to a
 New York Times
 database.
@@ -905,9 +905,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Delaware </span></td>
-<td><span>15,055 </span></td>
-<td><span>1,546 </span></td>
-<td><span>585 </span></td>
+<td><span>15,137 </span></td>
+<td><span>1,554 </span></td>
+<td><span>587 </span></td>
 <td><span>60 </span></td>
 <td><span>649 </span></td>
 <td><span>67 </span></td>
@@ -924,27 +924,27 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/delaware.svg" alt="Delaware heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ef2840557a244fc41bff70f7811fa6bf69e7757b/build/heatmaps/nyt_world/usa/delaware.svg" alt="Delaware heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>New Castle </span></td>
-<td><span>6,938 </span></td>
-<td><span>1,242 </span></td>
-<td><span>287 </span></td>
-<td><span>51 </span></td>
+<td><span>6,994 </span></td>
+<td><span>1,252 </span></td>
+<td><span>289 </span></td>
+<td><span>52 </span></td>
 <td><span>378 </span></td>
 <td><span>68 </span></td>
 <td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_10/new_castle.svg" alt="New Castle heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ef2840557a244fc41bff70f7811fa6bf69e7757b/build/heatmaps/nyt_world/usa/usa_10/new_castle.svg" alt="New Castle heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Sussex </span></td>
-<td><span>5,673 </span></td>
-<td><span>2,422 </span></td>
+<td><span>5,685 </span></td>
+<td><span>2,427 </span></td>
 <td><span>191 </span></td>
 <td><span>82 </span></td>
 <td><span>144 </span></td>
@@ -952,13 +952,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_10/sussex.svg" alt="Sussex heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ef2840557a244fc41bff70f7811fa6bf69e7757b/build/heatmaps/nyt_world/usa/usa_10/sussex.svg" alt="Sussex heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Kent </span></td>
-<td><span>2,215 </span></td>
-<td><span>1,225 </span></td>
+<td><span>2,226 </span></td>
+<td><span>1,231 </span></td>
 <td><span>107 </span></td>
 <td><span>59 </span></td>
 <td><span>90 </span></td>
@@ -966,12 +966,12 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_10/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/ef2840557a244fc41bff70f7811fa6bf69e7757b/build/heatmaps/nyt_world/usa/usa_10/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Unknown </span></td>
-<td><span>229 </span></td>
+<td><span>232 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>

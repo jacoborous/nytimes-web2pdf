@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 5:12 A.M.
+Times</span>Updated August 4, 2020, 5:31 P.M.
 E.T.
 
 </div>
@@ -450,7 +450,7 @@ available
 
 [Map](#map)[By province](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -459,7 +459,7 @@ news
 There have been at least 191,200 confirmed cases of coronavirus in
 France, according to the [French
 government](https://dashboard.covid19.data.gouv.fr/). As of Tuesday
-morning, 30,294 people had died.
+afternoon, 30,294 people had died.
 
 National health authorities in France do not provide regional data for
 test-confirmed cases of the virus, but they do report regional data for
@@ -683,9 +683,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Guyane </span></td>
-<td><span>1,264 </span></td>
-<td><span>458 </span></td>
-<td><span>41 </span></td>
+<td><span>1,280 </span></td>
+<td><span>464 </span></td>
+<td><span>42 </span></td>
 <td><span>15 </span></td>
 <td><span>133 </span></td>
 <td><span>48 </span></td>
@@ -694,7 +694,7 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Mayotte </span></td>
-<td><span>463 </span></td>
+<td><span>464 </span></td>
 <td><span>187 </span></td>
 <td><span>28 </span></td>
 <td><span>11 </span></td>
@@ -704,10 +704,10 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Île-de-France </span></td>
-<td><span>39,744 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Île-de-France </span></td>
+<td><span>39,801 </span></td>
 <td><span>324 </span></td>
-<td><span>7,583 </span></td>
+<td><span>7,587 </span></td>
 <td><span>62 </span></td>
 <td><span>215 </span></td>
 <td><span>2 </span></td>
@@ -715,10 +715,10 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Hauts-de-France </span></td>
-<td><span>9,406 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Hauts-de-France </span></td>
+<td><span>9,422 </span></td>
 <td><span>155 </span></td>
-<td><span>1,918 </span></td>
+<td><span>1,919 </span></td>
 <td><span>32 </span></td>
 <td><span>73 </span></td>
 <td><span>1 </span></td>
@@ -726,10 +726,10 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Provence-Alpes-Côte d'Azur </span></td>
-<td><span>7,113 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Provence-Alpes-Côte d'Azur </span></td>
+<td><span>7,125 </span></td>
 <td><span>141 </span></td>
-<td><span>966 </span></td>
+<td><span>967 </span></td>
 <td><span>19 </span></td>
 <td><span>59 </span></td>
 <td><span>1 </span></td>
@@ -737,8 +737,8 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Pays de la Loire </span></td>
-<td><span>2,821 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Pays de la Loire </span></td>
+<td><span>2,826 </span></td>
 <td><span>73 </span></td>
 <td><span>477 </span></td>
 <td><span>12 </span></td>
@@ -748,8 +748,8 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Centre-Val de Loire </span></td>
-<td><span>2,946 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Centre-Val de Loire </span></td>
+<td><span>2,948 </span></td>
 <td><span>113 </span></td>
 <td><span>559 </span></td>
 <td><span>21 </span></td>
@@ -759,10 +759,10 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Grand Est </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Grand Est </span></td>
 <td><span>17,007 </span></td>
 <td><span>303 </span></td>
-<td><span>3,621 </span></td>
+<td><span>3,622 </span></td>
 <td><span>64 </span></td>
 <td><span>43 </span></td>
 <td><span>&lt;1 </span></td>
@@ -770,8 +770,8 @@ in last<br />
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Bourgogne-Franche-Comté </span></td>
-<td><span>5,144 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Bourgogne-Franche-Comté </span></td>
+<td><span>5,145 </span></td>
 <td><span>180 </span></td>
 <td><span>1,061 </span></td>
 <td><span>37 </span></td>
@@ -781,8 +781,8 @@ in last<br />
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Auvergne-Rhône-Alpes </span></td>
-<td><span>10,138 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Auvergne-Rhône-Alpes </span></td>
+<td><span>10,145 </span></td>
 <td><span>124 </span></td>
 <td><span>1,761 </span></td>
 <td><span>22 </span></td>

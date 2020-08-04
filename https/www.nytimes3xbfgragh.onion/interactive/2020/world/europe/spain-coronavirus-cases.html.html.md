@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 5:12 A.M.
+Times</span>Updated August 4, 2020, 5:31 P.M.
 E.T.
 
 </div>
@@ -399,7 +399,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-297,054
+302,814
 
 </div>
 
@@ -415,7 +415,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-28,472
+28,498
 
 </div>
 
@@ -450,16 +450,16 @@ available
 
 [Map](#map)[By province](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 297,000 confirmed cases of coronavirus in
+There have been at least 302,800 confirmed cases of coronavirus in
 Spain, according to the Spanish [Ministry of
 Health](https://www.mscbs.gob.es/profesionales/saludPublica/ccayes/alertasActual/nCov-China/situacionActual.htm).
-As of Tuesday morning, 28,472 people had
+As of Tuesday afternoon, 28,498 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -691,8 +691,8 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Aragón </span></td>
-<td><span>17,449 </span></td>
-<td><span>1,318 </span></td>
+<td><span>17,837 </span></td>
+<td><span>1,347 </span></td>
 <td><span>937 </span></td>
 <td><span>71 </span></td>
 <td><span>6,439 </span></td>
@@ -702,9 +702,9 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Cataluña </span></td>
-<td><span>80,568 </span></td>
-<td><span>1,059 </span></td>
-<td><span>5,687 </span></td>
+<td><span>83,079 </span></td>
+<td><span>1,092 </span></td>
+<td><span>5,703 </span></td>
 <td><span>75 </span></td>
 <td><span>4,955 </span></td>
 <td><span>65 </span></td>
@@ -713,8 +713,8 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span>País Vasco </span></td>
-<td><span>16,669 </span></td>
-<td><span>764 </span></td>
+<td><span>16,750 </span></td>
+<td><span>768 </span></td>
 <td><span>1,565 </span></td>
 <td><span>72 </span></td>
 <td><span>1,145 </span></td>
@@ -724,8 +724,8 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Navarra </span></td>
-<td><span>6,807 </span></td>
-<td><span>1,043 </span></td>
+<td><span>6,936 </span></td>
+<td><span>1,063 </span></td>
 <td><span>529 </span></td>
 <td><span>81 </span></td>
 <td><span>323 </span></td>
@@ -735,8 +735,8 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span>Murcia </span></td>
-<td><span>2,460 </span></td>
-<td><span>165 </span></td>
+<td><span>2,504 </span></td>
+<td><span>168 </span></td>
 <td><span>148 </span></td>
 <td><span>10 </span></td>
 <td><span>369 </span></td>
@@ -746,9 +746,9 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Madrid </span></td>
-<td><span>76,145 </span></td>
-<td><span>1,139 </span></td>
-<td><span>8,453 </span></td>
+<td><span>77,918 </span></td>
+<td><span>1,165 </span></td>
+<td><span>8,457 </span></td>
 <td><span>126 </span></td>
 <td><span>1,445 </span></td>
 <td><span>22 </span></td>
@@ -757,8 +757,8 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span>C. Valenciana </span></td>
-<td><span>13,840 </span></td>
-<td><span>277 </span></td>
+<td><span>13,974 </span></td>
+<td><span>280 </span></td>
 <td><span>1,437 </span></td>
 <td><span>29 </span></td>
 <td><span>1,067 </span></td>
@@ -768,8 +768,8 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Baleares </span></td>
-<td><span>2,612 </span></td>
-<td><span>218 </span></td>
+<td><span>2,739 </span></td>
+<td><span>229 </span></td>
 <td><span>224 </span></td>
 <td><span>19 </span></td>
 <td><span>236 </span></td>
@@ -779,8 +779,8 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span>Castilla y León </span></td>
-<td><span>20,484 </span></td>
-<td><span>852 </span></td>
+<td><span>20,643 </span></td>
+<td><span>859 </span></td>
 <td><span>2,799 </span></td>
 <td><span>116 </span></td>
 <td><span>429 </span></td>
@@ -790,8 +790,8 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Cantabria </span></td>
-<td><span>2,532 </span></td>
-<td><span>435 </span></td>
+<td><span>2,567 </span></td>
+<td><span>441 </span></td>
 <td><span>217 </span></td>
 <td><span>37 </span></td>
 <td><span>96 </span></td>

@@ -254,7 +254,7 @@ Work](https://www.nytimes3xbfgragh.onion/interactive/2020/06/25/burst/how-to-get
 
 <div class="g-question">
 
-### Can you get covid-19 again? It’s very unlikely, experts say.
+### I have antibodies. Am I now immune?
 
 <div class="g-icon">
 
