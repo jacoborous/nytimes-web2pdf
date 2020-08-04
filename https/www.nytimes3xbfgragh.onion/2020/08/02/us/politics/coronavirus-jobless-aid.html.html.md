@@ -267,8 +267,8 @@ Cochrane</span>](https://www.nytimes3xbfgragh.onion/by/emily-cochrane)
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">3:06 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

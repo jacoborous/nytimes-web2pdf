@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-arts" class="section css-15h4p1b e9abtgs0">
 
@@ -142,46 +166,138 @@ Culture](/spotlight/pop-culture)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney +, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/07/31/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
+    Auringer</span>](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [![](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-thumbStandard.jpg)](/2020/08/03/arts/music/creem-magazine-documentary.html)
     
     </div>
     
-    ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
     
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative
-    power.
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous
+    work.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
-    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>,
-    <span class="css-1baulvz" itemprop="name">Gia Kourlas</span>,
-    <span class="css-1baulvz" itemprop="name">Wesley Morris</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Salamishah
-    Tillet</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Rubin</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
-    Maron</span>](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
+    Oktar Yalkin for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/arts/00anna-sale1/merlin_174742218_9e2cdbb1-6ad7-4ce9-a241-9e02024a2048-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-thumbStandard.jpg)](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+    [![](https://static01.nyt.com/images/2020/08/03/arts/00anna-sale1/00anna-sale1-thumbStandard.jpg)](/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
     
     </div>
+    
+    ## [The Calm Voice Asking Thorny Questions in ‘Death, Sex & Money’](/2020/08/02/arts/anna-sale-death-sex-money-podcast.html)
+    
+    In her podcast, Anna Sale inspires her guests to share their darkest
+    thoughts and deepest secrets. The intimate conversations feel more
+    urgent than
+    ever.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Reggie
+    Ugwu</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+        White/Parkwood Entertainment and Disney+, via Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        </div>
+        
+        Six critics on the visual album rooted in her “Lion
+        King”-inspired record “The Gift,” a grand statement of
+        African-diaspora pride and creative
+        power.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
+        <span class="css-1baulvz" itemprop="name">Vanessa
+        Friedman</span>, <span class="css-1baulvz" itemprop="name">Gia
+        Kourlas</span>, <span class="css-1baulvz" itemprop="name">Wesley
+        Morris</span>, <span class="css-1baulvz" itemprop="name">Jon
+        Pareles</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+        Tillet</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.nyt.com/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [‘Immigration Nation’ Review: The Banality of Deportation](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/02/arts/02immigration-review/02immigration-review-thumbStandard.jpg)](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+        
+        </div>
+        
+        This Netflix documentary looks at the bureaucracy of immigration
+        enforcement — an intriguing investigation that probably won’t
+        change any
+        minds.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Mike
+        Hale</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Surfacing
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+    
+    The pandemic has inspired a flurry of new and novel items — and
+    given ordinary ones new
+    meanings.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Peter
+    Arkle</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
+    Maron</span>](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
     
@@ -195,63 +311,45 @@ Culture](/spotlight/pop-culture)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
-        Scott Brauer for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/01/arts/31ptown-7/31ptown-7-thumbStandard.jpg)](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
-        
-        </div>
-        
-        In this gay haven known for its nightlife, the crowds are
-        smaller this summer. And the nightclubs are closed. But by the
-        pool, the show goes
-        on.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Laura
-        Collins-Hughes</span></span>
-        
-        </div>
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
+    Scott Brauer for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
-        Ord/Getty Images; Roy Rochlin/Getty Images;
-        </span>](https://static01.nyt.com/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-thumbStandard-v2.jpg)](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
-        
-        </div>
-        
-        His 2011 “Contagion” and her new thriller “She Dies Tomorrow”
-        have added resonance now. “Why is this kind of imagery so
-        compelling?” Soderbergh
-        asked.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Kyle
-        Buchanan</span></span>
-        
-        </div>
+    <div class="css-10wtrbd">
+    
+    ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+    
+    In this gay haven known for its nightlife, the crowds are smaller
+    this summer. And the nightclubs are closed. But by the pool, the
+    show goes
+    on.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Laura
+    Collins-Hughes</span></span>
+    
+    </div>
 
-</div>
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
+    Ord/Getty Images; Roy Rochlin, via Getty
+    Images;</span>](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
+    
+    His 2011 “Contagion” and her new thriller “She Dies Tomorrow” have
+    added resonance now. “Why is this kind of imagery so compelling?”
+    Soderbergh
+    asked.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kyle
+    Buchanan</span></span>
+    
+    </div>
 
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Critic’s Notebook
+5.  ### Critic’s Notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
     
@@ -267,79 +365,6 @@ Culture](/spotlight/pop-culture)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">James
     Poniewozik</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
-    Pictures</span>](https://static01.nyt.com/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Alan Parker, Versatile Film Director, Is Dead at 76](/2020/07/31/movies/alan-parker-versatile-film-director-is-dead-at-76.html)
-    
-    “Midnight Express” and “Mississippi Burning” brought him Oscar
-    nominations, and many of his other films, including “Fame,” were
-    acclaimed.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neil
-    Genzlinger</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paramount
-    Pictures</span>](https://static01.nyt.com/images/2020/07/31/arts/31parker-streaming1/31parker-streaming1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Where to Stream Alan Parker’s Best Movies](/2020/07/31/movies/alan-parker-stream.html)
-    
-    Though he may not have stamped a specific style on his work, he
-    brought an intelligence and professionalism to each film, whether
-    musicals or dark
-    dramas.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Bailey</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
-    Black/Apple
-    TV+</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01streamaugust1/merlin_175127256_c78e620b-ca85-4153-91c9-adee0a480817-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Best Movies and TV Shows Coming to Netflix, Amazon and More in August](/2020/07/31/arts/television/new-to-stream-netflix.html)
-    
-    Every month, subscription streaming services add a new batch of
-    titles to their libraries. Here are our picks for
-    August.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Noel
-    Murray</span></span>
-    
-    </div>
-
-5.  ### The Playlist
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
-    Cappello</span>](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
-    others.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
     
     </div>
 
@@ -399,18 +424,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/arts/television/whats-on-tv-sunday-connected-and-the-spacex-landing.html)
+    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/arts/02tvcol-connected/02tvcol-connected-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Sunday: ‘Connected’ and the SpaceX Landing
+    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
     
-    “Radiolab” journalist Latif Nasser hosts a new show on Netflix, and
-    the SpaceX craft makes its return to Earth.
+    Celebrities come together to honor the congressman. And “The Stand:
+    How One Gesture Shook the World” revisits an iconic image from the
+    1968 Summer Olympics.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -433,23 +459,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/arts/lady-red-couture-dead.html)
+    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/obituaries/00ladyred/00ladyred-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43
+    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
     
-    A fixture in Los Angeles clubs who stood 7-foot-2 in heels, she also
-    co-hosted the L.G.B.T.Q. talk show “Hey Qween\!”
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Leland</span>
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
     
     </div>
     
@@ -467,26 +494,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+    [](/2020/08/03/theater/virtual-theater.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ### <span class="css-m70j1g">critic’s notebook</span>
     
-    ## Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71
+    ## The (Virtual) Theatrical Fringe Moves Front and Center
     
-    A singer, songwriter and producer, Mr. Víctor also worked to bring
-    theater, music and dance lessons to underprivileged communities. He
-    died of Covid-19.
+    Expanding content and experimenting with form, the avant-garde finds
+    a congenial new home online, as two recent offerings demonstrate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sandra E.
-    Garcia</span>
+    By <span class="css-1n7hynb">Jesse
+    Green</span>
     
     </div>
     
@@ -504,24 +530,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/james-silberman-dead.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## James Silberman, Editor Who Nurtured Literary Careers, Dies at 93
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    At Random House and elsewhere, including his own Summit imprint, he
-    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
-    many others.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -539,25 +565,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
+    [](/2020/08/03/arts/dance/kaatsbaan-dance.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    ## Tank Tops and Short Shorts and Bears, Oh My\!
+    ## What Is It Like to Watch Live Dance Again? Amazing
     
-    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
-    code is more terrifying than the bears wandering through its woods.
+    Kaatsbaan hosts a welcome summer festival in the Hudson Valley,
+    where nature and dancers join forces to put on a show.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer
-    Mathieu</span>
+    By <span class="css-1n7hynb">Gia
+    Kourlas</span>
     
     </div>
     
@@ -575,25 +601,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
+    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">The Charts</span>
     
-    ## For Two Teenagers on Election Day, the Political Gets Personal
+    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
     
-    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
-    out since age 7 helps a drummer make his voice heard.
+    The singer and songwriter’s surprise album had the equivalent of
+    846,000 sales in the United States, a total beaten only by her own
+    last two LPs.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicola
-    Yoon</span>
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
     
     </div>
     
@@ -611,23 +638,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/at-home/coronavirus-paper-flowers.html)
+    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-activity-flowers6/02ah-activity-flowers6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Turn the News Into a Rose
+    ### <span class="css-m70j1g">Fiction</span>
     
-    You can make paper flowers as elaborate or a simple as you’d like. A
-    simple bloom is a good place to start.
+    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    
+    In “Kings County,” David Goodwillie examines New York’s most
+    celebrated borough with an uncynical eye.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jodi
-    Levine</span>
+    By <span class="css-1n7hynb">Adelle
+    Waldman</span>
     
     </div>
     
@@ -645,23 +674,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
+    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-calendar2-illo-web/02AH-calendar2-illo-web-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Spend Time with Shakespeare’s Family and Take a Master Class in Ballet
+    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
     
-    As August arrives, you can learn how an author conjured Elizabethan
-    England and engage your children’s five senses in a mystery game.
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adriana Balsamo <span>and</span> Hilary
-    Moss</span>
+    By <span class="css-1n7hynb">Concepción de
+    León</span>
     
     </div>
     
@@ -679,23 +709,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/arts/design/virus-design-objects.html)
+    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Strange Lives of Objects in the Coronavirus Era
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    The pandemic has inspired a flurry of new and novel items — and
-    given ordinary ones new meanings.
+    ## Why the U.S. Dropped Atomic Bombs on Japan
+    
+    Marc Gallicchio’s “Unconditional” details debates in both Japan and
+    the United States to end World War II.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sophie Haigney <span>and</span> Peter
-    Arkle</span>
+    By <span class="css-1n7hynb">Richard J.
+    Samuels</span>
     
     </div>
     
@@ -713,22 +745,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
+    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Like Old Hollywood Movies, Video Games Get a Polish for New Audiences
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    Game publishers are digging through their vaults to remake or
-    remaster popular titles in a bid to kindle players’ nostalgia.
+    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
+    
+    “Wandering in Strange Lands” traces the author’s ancestry — and the
+    history of African-American oppression — along the footsteps of the
+    Great Migration.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Imad Khan</span>
+    By <span class="css-1n7hynb">Afua Hirsch</span>
     
     </div>
     

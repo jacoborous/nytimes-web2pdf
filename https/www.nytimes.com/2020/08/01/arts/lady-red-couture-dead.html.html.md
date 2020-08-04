@@ -208,9 +208,9 @@ co-hosted the L.G.B.T.Q. talk show “Hey Qween\!”
 breathe, I do everything in drag,” Lady Red Couture said in her audition
 tape for “RuPaul’s Drag Race.” She didn’t make the show, but she still
 loomed large on the Los Angeles drag
-circuit.  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Harry
+circuit.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Harry
 James
-Hanson</span></span></span>](https://static01.nyt.com/images/2020/07/28/obituaries/00ladyred/merlin_175015461_8055e454-898c-4072-8dc9-1547fb7d253c-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Hanson</span></span></span>](https://static01.nyt.com/images/2020/08/03/obituaries/00ladyred/merlin_175015461_8055e454-898c-4072-8dc9-1547fb7d253c-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -377,9 +377,9 @@ problems.”
 </div>
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Lady Red at
-a Los Angeles Film Festival party in 2011. “Everybody knew her and
+a Los Angeles Film Festival party in 2011. “Everybody knew her and
 looked up to her,” a fellow drag performer
-said,</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Craig
+said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Craig
 Barritt/WireImage</span></span>
 
 </div>

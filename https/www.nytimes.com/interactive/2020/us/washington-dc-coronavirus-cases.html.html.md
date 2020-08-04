@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -320,44 +320,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.285714285714285%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.03225806451613%; top: 1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 52.5974025974026%; top: 55.13859275053306%">
+<div class="pancake-point svelte-11ba04d" style="left: 52.25806451612903%; top: 55.13859275053306%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -390,7 +390,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-12,205
+12,274
 
 </div>
 
@@ -406,7 +406,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-585
+586
 
 </div>
 
@@ -440,17 +440,18 @@ available
 <div class="g-svelte" data-component="4">
 
 [New cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-At least 79 new cases were reported in the District of Columbia on Aug.
-1. Over the past week, there have been an average of 70 cases per day,
-an increase of 24 percent from the average two weeks earlier.
+At least 1 new coronavirus death and 69 new cases were reported in the
+District of Columbia on Aug. 2. Over the past week, there have been an
+average of 71 cases per day, an increase of 19 percent from the average
+two weeks earlier.
 
-As of Sunday morning, there have been at least 12,205 cases and 585
+As of Monday morning, there have been at least 12,274 cases and 586
 deaths in the District of Columbia since the beginning of the pandemic,
 according to a New York Times database.
 
@@ -529,44 +530,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.285714285714285%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.03225806451613%; top: 1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 52.5974025974026%; top: 55.13859275053306%">
+<div class="pancake-point svelte-11ba04d" style="left: 52.25806451612903%; top: 55.13859275053306%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -657,44 +658,44 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 43.83116883116883%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 43.54838709677419%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 54.54545454545455%; top: 63.1578947368421%">
+<div class="pancake-point svelte-11ba04d" style="left: 54.83870967741935%; top: 63.909774436090224%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

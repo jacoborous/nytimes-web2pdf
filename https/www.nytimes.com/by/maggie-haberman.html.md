@@ -175,6 +175,79 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    
+    The announcement came after the company consulted with President
+    Trump, who has threatened to ban the app and expressed national
+    security concerns about it in recent weeks.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/kayleigh-mcenany.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-kayleigh-pix1/02dc-kayleigh-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">White HOUse MEMO</span>
+    
+    ## Kayleigh McEnany Heckles the Press. Is That All?
+    
+    President Trump does not always watch her briefings, and even his
+    allies say she risks being known more for “hitting the press with a
+    two-by-four” than advancing his priorities.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/us/politics/trump-delay-2020-election.html)
     
     <div class="css-79elbk">
@@ -205,7 +278,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -241,7 +314,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +350,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +385,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +422,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -386,7 +459,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -422,7 +495,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -446,87 +519,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Maggie
     Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/us/politics/trump-portland-federal-agents.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/us/politics/21trump-ads1/merlin_174794250_8fc7f37e-e2aa-48a9-8341-0b37a7a0fda1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As Trump Pushes Into Portland, His Campaign Ads Turn Darker
-    
-    The Trump campaign is spending millions on ads that promote a dark
-    and exaggerated portrayal of Democratic-led cities, a tactic that
-    reinforces his “law and order’’ campaign message.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman, Nick Corasaniti
-    <span>and</span> Annie
-    Karni</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/21/espanol/estados-unidos/donald-trump-coronavirus-republicanos.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/us/politics/21trump-virus-ES-00/00trump-virus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Elecciones 2020</span>
-    
-    ## Trump desestima la crisis del coronavirus y los republicanos empiezan a romper filas
-    
-    El presidente estadounidense presiona a los estados para que
-    retornen rápido a la vida cotidiana y cada vez hay más líderes de su
-    partido que temen la devastación de la enfermedad y que los votantes
-    enojados busquen otro camino.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alexander Burns, Jonathan Martin
-    <span>and</span> Maggie Haberman</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/19/us/politics/republicans-contradict-trump-coronavirus.html "Read in English")
     
     </div>
     

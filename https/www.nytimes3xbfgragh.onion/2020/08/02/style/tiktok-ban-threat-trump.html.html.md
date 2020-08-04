@@ -238,8 +238,8 @@ Lorenz</span>](https://www.nytimes3xbfgragh.onion/by/taylor-lorenz)
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">7:54 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

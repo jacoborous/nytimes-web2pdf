@@ -175,6 +175,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Elizabeth Warren’s Evolution on Race Brought Her Here
+    
+    Ms. Warren, a racially progressive politician, is one of a handful
+    of white women still under serious consideration to become Joe
+    Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
+    Ember</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
     
     <div class="css-79elbk">
@@ -205,7 +240,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +275,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +310,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +344,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +381,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -383,7 +418,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -418,7 +453,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -453,7 +488,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -476,44 +511,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sydney
-    Ember</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/01/us/politics/joe-biden-tara-reade-morning-joe.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/01/us/politics/01BIDEN2/01BIDEN2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden Denies Tara Reade’s Assault Allegation: ‘It Never Happened’
-    
-    Joseph R. Biden Jr., in his first public address of a former Senate
-    aide’s accusation that he sexually assaulted her in 1993, called on
-    the National Archives to release any document related to the
-    allegation.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie Glueck, Lisa Lerer
-    <span>and</span> Sydney Ember</span>
+    By <span class="css-1n7hynb">Sydney Ember</span>
     
     </div>
     

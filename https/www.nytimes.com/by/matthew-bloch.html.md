@@ -173,7 +173,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/us/hurricane-isaias-tracker-map-promo-1596209917104/hurricane-isaias-tracker-map-promo-1596209917104-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/us/hurricane-isaias-tracker-map-promo-1596209917104/hurricane-isaias-tracker-map-promo-1596209917104-thumbWide-v6.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

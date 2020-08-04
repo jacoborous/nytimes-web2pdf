@@ -164,19 +164,119 @@ Home](https://nytimesads.gtspayments.com/)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
-    Ukmar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
+    Photos</span>](https://static01.nyt.com/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-thumbStandard.jpg)](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
+    [![](https://static01.nyt.com/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbStandard.jpg)](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
     
     </div>
     
-    ### Domestic Lives
+    ### What you Get
+    
+    ## [$3 Million Homes in California](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
+    
+    A Spanish-style retreat in Coronado, a midcentury-modern home in
+    Piedmont and a remodeled 1953 house in Los
+    Angeles.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Angela
+    Serratore</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+    Marks for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/realestate/03renters1/merlin_175089951_ad28cb14-0ee4-44c8-82eb-944ad75dd910-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/03/realestate/03renters1/03renters1-thumbStandard.jpg)](/2020/08/03/realestate/coronavirus-roommate-renters.html)
+    
+    </div>
+    
+    ### renters
+    
+    ## [The Challenge: Finding a Roommate During a Pandemic](/2020/08/03/realestate/coronavirus-roommate-renters.html)
+    
+    With social distancing required, two new roommates discovered, it’s
+    a little like marrying someone before you
+    meet.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kim
+    Velsey</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
+        Nadia
+        Pillon</span>](https://static01.nyt.com/images/2020/08/02/realestate/01Ask/01Ask-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Ask Real Estate
+        
+        ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/02/realestate/01Ask/01Ask-thumbStandard.jpg)](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+        
+        </div>
+        
+        New York issued guidelines for how residential buildings should
+        safely operate — but there no consequences for failing to
+        comply.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Ronda
+        Kaysen</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### What’s selling now
+        
+        ## [Homes That Sold for Around $600,000](/2020/08/02/realestate/homes-that-sold-for-around-600000.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/02/realestate/02selling-MANHATTAN/oakImage-1595085762699-thumbStandard.jpg)](/2020/08/02/realestate/homes-that-sold-for-around-600000.html)
+        
+        </div>
+        
+        Recent residential sales in New York City and the
+        region.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">C. J.
+        Hughes</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Domestic Lives
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
+    Ukmar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/31DOMESTIC-ROCKAWAY-slide-OJH5/31DOMESTIC-ROCKAWAY-slide-OJH5-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [A Rockaway Life](/2020/07/31/realestate/a-rockaway-beach-queens-life.html)
     
@@ -190,15 +290,9 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/31/realestate/31BESTSELLING-slide-8BT4/31BESTSELLING-slide-8BT4-thumbStandard.jpg)](/2020/07/31/realestate/pandemic-shopping-home-design.html)
-    
-    </div>
     
     ## [What Are We Buying for Our Homes During the Pandemic?](/2020/07/31/realestate/pandemic-shopping-home-design.html)
     
@@ -212,58 +306,67 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
-        Sato and Ilya
-        Lachugin</span>](https://static01.nyt.com/images/2020/08/02/realestate/30Hunt-Sato-06/30Hunt-Sato-06-videoLarge-v2.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### The Hunt
-        
-        ## [Two People in One Small Studio? This Couple Figured They Could Manage](/interactive/2020/07/30/realestate/30hunt-sato.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/02/realestate/30Hunt-Sato-06/30Hunt-Sato-06-thumbStandard-v2.jpg)](/interactive/2020/07/30/realestate/30hunt-sato.html)
-        
-        </div>
-        
-        Two newlyweds leave their tiny rental for something affordable
-        in Hell’s Kitchen — maybe even a one-bedroom. Which of these
-        options would you
-        choose?
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joyce
-        Cohen</span></span>
-        
-        </div>
+3.  ### The Hunt
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
-        Ukmar for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### On the Market
-        
-        ## [Homes for Sale in Brooklyn, Manhattan and the Bronx](/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-thumbStandard.jpg)](/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
-        
-        </div>
-        
-        This week’s properties are on in Cobble Hill, Greenwich Village
-        and on the Grand
-        Concourse.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Stefanos
-        Chen</span></span>
-        
-        </div>
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+    Sato and Ilya
+    Lachugin</span>](https://static01.nyt.com/images/2020/08/02/realestate/30Hunt-Sato-06/30Hunt-Sato-06-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Two People in One Small Studio? This Couple Figured They Could Manage](/interactive/2020/07/30/realestate/30hunt-sato.html)
+    
+    Two newlyweds leave their tiny rental for something affordable in
+    Hell’s Kitchen — maybe even a one-bedroom. Which of these options
+    would you
+    choose?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joyce
+    Cohen</span></span>
+    
+    </div>
+
+4.  ### On the Market
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
+    Ukmar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Homes for Sale in Brooklyn, Manhattan and the Bronx](/2020/07/30/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
+    
+    This week’s properties are on in Cobble Hill, Greenwich Village and
+    on the Grand
+    Concourse.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stefanos
+    Chen</span></span>
+    
+    </div>
+
+5.  ### Guide
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yasu
+    +
+    Junko</span>](https://static01.nyt.com/images/2019/04/16/autossell/serene-home_promo/serene-home_promo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How to Create a Serene Home](/interactive/2019/05/15/smarter-living/serene-home.html)
+    
+    Home should be relaxing, calming, an oasis. We’ll help you get
+    there.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tim
+    McKeough</span></span>
+    
+    </div>
+
+</div>
 
 </div>
 
@@ -351,34 +454,7 @@ Home](https://nytimesads.gtspayments.com/)
     
     </div>
 
-5.  ### Guide
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yasu
-    +
-    Junko</span>](https://static01.nyt.com/images/2019/04/16/autossell/serene-home_promo/serene-home_promo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How to Create a Serene Home](/interactive/2019/05/15/smarter-living/serene-home.html)
-    
-    Home should be relaxing, calming, an oasis. We’ll help you get
-    there.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tim
-    McKeough</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Living in
+5.  ### Living in
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
     W. Lee/The New York
@@ -396,88 +472,6 @@ Home](https://nytimesads.gtspayments.com/)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Julie
     Lasky</span></span>
-    
-    </div>
-
-2.  ### What you Get
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sarah
-    Szwajkos/Damn Rabbit
-    Studios</span>](https://static01.nyt.com/images/2020/07/29/realestate/29WYG-slide-YZ1F/29WYG-slide-YZ1F-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [$3 Million Homes in California, Illinois and Maine](/2020/07/29/realestate/3-million-homes-in-california-illinois-and-maine.html)
-    
-    A midcentury-modern house in Brentwood, a 1910 home outside Chicago
-    and a 28-acre seasonal camp on Mount Desert
-    Island.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Lasky</span></span>
-    
-    </div>
-
-3.  ### International real estate
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
-    Robichaud/Harbour Town
-    Photography</span>](https://static01.nyt.com/images/2020/07/29/realestate/29IHH-NOVASCOTIA-slide-A0QU/29IHH-NOVASCOTIA-slide-A0QU-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [House Hunting in Nova Scotia: A Sprawling Seaside Villa for $2 Million](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
-    
-    The eastern Canadian province has managed to make up for the loss of
-    foreign buyers with more domestic transactions, staving off the
-    worst of the
-    pandemic.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alison
-    Gregor</span></span>
-    
-    </div>
-
-4.  ### big ticket
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kate
-    Glicksberg for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/realestate/31ticket5/merlin_166359507_b95b0005-e6cc-453b-bd60-23ba2fb86809-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Duplex Sells for Almost $100 Million at 220 Central Park South](/2020/07/28/realestate/duplex-sells-for-almost-100-million-at-220-central-park-south.html)
-    
-    The condo, at the pinnacle of the limestone tower, is the year’s
-    most expensive sale. It was one of three big purchases there during
-    July.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Vivian
-    Marino</span></span>
-    
-    </div>
-
-5.  ### Sheltering
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karsten
-    Moran for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/realestate/28stuck1/28stuck1-videoLarge-v4.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Making a Move During the Pandemic? Not So Fast](/2020/07/28/realestate/buying-selling-moving-during-coronavirus.html)
-    
-    As New York cautiously reopens in the shadow of a potential second
-    wave of infections, home buyers and sellers are racing to complete
-    the almost impossible task of closing on time and safely
-    moving.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tripp
-    Whetsell</span></span>
     
     </div>
 
@@ -515,25 +509,7 @@ story](#after-mid1)
 [More in Ask Real Estate
     »](/column/ask-real-estate)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
-    Nadia
-    Pillon</span>](https://static01.nyt.com/images/2020/08/02/realestate/01Ask/01Ask-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
-    
-    New York issued guidelines for how residential buildings should
-    safely operate — but there no consequences for failing to
-    comply.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ronda
-    Kaysen</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
     Pillon</span>](https://static01.nyt.com/images/2020/07/26/realestate/25Ask-illo/25Ask-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -551,7 +527,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
     Pillon</span>](https://static01.nyt.com/images/2020/07/19/realestate/19ask/18ask-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -568,7 +544,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
     Pillon
     </span>](https://static01.nyt.com/images/2020/07/12/realestate/11Ask/11Ask-videoLarge.jpg)
     
@@ -586,7 +562,7 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
     Pillon</span>](https://static01.nyt.com/images/2020/07/05/realestate/04Ask/04Ask-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -596,6 +572,24 @@ story](#after-mid1)
     Noise complaints are often difficult to win, but there are some
     avenues to pursue that can
     work.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ronda
+    Kaysen</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nadia
+    Pillon</span>](https://static01.nyt.com/images/2020/06/28/realestate/27Ask-illo/27Ask-illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Can Dog Walkers and Nannies Come Into My Co-op Now?](/2020/06/29/realestate/coronavirus-phase-2-dog-walkers-nannies-co-op.html)
+    
+    New York City has begun the slow process of reopening, but that
+    doesn’t mean a return to normal. The next phase will look quite
+    different from the city we knew before the
+    shutdown.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ronda
@@ -878,6 +872,107 @@ story](#after-feat4)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease
+    
+    Despite the pandemic, the social media giant leased all the office
+    space in the former main post office at Penn Station in Midtown.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/slideshow/2020/08/03/realestate/what-you-get-for-3-million-in-california.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What You Get for $3 Million in California
+    
+    A Spanish-style retreat in Coronado, a midcentury-modern home in
+    Piedmont and a remodeled 1953 house in Los
+    Angeles.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/27/nyregion/00nyvirus-smallbusiness/00nyvirus-smallbusiness-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## One-Third of New York’s Small Businesses May Be Gone Forever
+    
+    Small-business owners said they have exhausted federal and local
+    assistance and see no end in sight after months of sharp revenue
+    drops. Now, many are closing their shops and restaurants for good.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/slideshow/2020/07/31/realestate/the-pandemics-top-sellers.html)
     
     <div class="css-79elbk">
@@ -904,7 +999,7 @@ story](#after-feat4)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -936,7 +1031,7 @@ story](#after-feat4)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -968,7 +1063,7 @@ story](#after-feat4)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1000,7 +1095,44 @@ story](#after-feat4)
     
     </div>
 
-5.  
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/realestate/29IHH-NOVASCOTIA-slide-A0QU/29IHH-NOVASCOTIA-slide-A0QU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">International real estate</span>
+    
+    ## House Hunting in Nova Scotia: A Sprawling Seaside Villa for $2 Million
+    
+    The eastern Canadian province has managed to make up for the loss of
+    foreign buyers with more domestic transactions, staving off the
+    worst of the pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alison
+    Gregor</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1032,165 +1164,30 @@ story](#after-feat4)
     
     </div>
 
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/slideshow/2020/07/29/realestate/what-you-get-for-3-million.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/realestate/29WYG-slide-Z9XY/29WYG-slide-Z9XY-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What You Get for $3 Million
-    
-    A midcentury-modern house in Los Angeles, a 1910 home outside
-    Chicago and a 28-acre seasonal camp on Mount Desert Island in
-    Maine.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/slideshow/2020/07/29/realestate/living-in-north-bergen-nj.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/realestate/29LIVING-NORTHBERGEN-slide-MXJF/29LIVING-NORTHBERGEN-slide-MXJF-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Living In ... North Bergen, N.J.
-    
-    Supporters praise the community’s young, culturally diverse
-    population and its (relatively) affordable housing. And then there
-    are the
-    views.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/business/recent-commercial-real-estate-transactions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/business/28trans/merlin_174675273_2a073869-060e-4e69-8a2e-b4d40405c474-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Recent Commercial Real Estate Transactions
-    
-    Recent commercial real estate transactions in New York.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sophia
-    June</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/business/malls-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/business/28Virus-Malls/merlin_174989943_7ad78d70-1827-49fa-b5c8-34f4c173aeb8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Square Feet</span>
-    
-    ## Malls Seek to Evolve as the Pandemic Hastens a Retail Overhaul
-    
-    Operators have spent billions positioning themselves for a future
-    with few or no department stores by reconfiguring their properties
-    for other options, including housing, health care and logistics.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joe
-    Gose</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/realestate/in-the-hamptons-the-architectural-equivalent-of-an-old-sports-car.html)
+    [](/2020/07/29/realestate/2-million-dollar-homes-for-sale-ca-me-il.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/realestate/28LOCATION-WATERMILL-slide-K1FD/28LOCATION-WATERMILL-slide-K1FD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/realestate/29WYG-slide-YZ1F/29WYG-slide-YZ1F-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Location</span>
+    ### <span class="css-m70j1g">What you Get</span>
     
-    ## In the Hamptons, the Architectural Equivalent of an Old Sports Car
+    ## $3 Million Homes in California, Illinois and Maine
     
-    The vintage Norman Jaffe house was in bad shape, but the new owners
-    were appalled by the suggestion that they should tear it down.
+    A midcentury-modern house in Brentwood, a 1910 home outside Chicago
+    and a 28-acre seasonal camp on Mount Desert Island.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tim McKeough</span>
+    By <span class="css-1n7hynb">Julie Lasky</span>
     
     </div>
     

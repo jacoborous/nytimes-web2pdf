@@ -167,108 +167,104 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by Tony Cenicola/The New York Times. Trump: Doug
-    Mills/The New York
-    Times.</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
+    Tripplaar/Alamy</span>](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbStandard.jpg)](/2020/08/01/us/politics/trump-books.html)
+    [![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     </div>
     
-    ### News Analysis
+    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
-    ## [In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals](/2020/08/01/us/politics/trump-books.html)
-    
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury
+    Department.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Lyall</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Rappeport</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
-    Bell for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbStandard.jpg)](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbStandard.jpg)](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     </div>
     
-    ## [Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    ## [With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
-    Brian Murphy’s office compiled reports of protesters and journalists
-    who were covering the Trump administration’s response to unrest in
-    Portland, Ore., last
-    month.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his
+    own.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Zolan Kanno-Youngs</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Goldman</span></span>
+    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span>,
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jim
+    Tankersley</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
+    Jarrus for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbLarge.jpg)](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     </div>
     
-    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
-    than 21 years of service took effect on Saturday, the same day his
-    sharply critical op-ed of the president was
-    published.
+    The Michigan Democrat is facing a rematch against a challenger who
+    says she hasn’t done enough for her district in
+    Detroit.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Eric
-    Schmitt</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
+    Gray</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Tammy Duckworth Is Nothing and Everything Like Joe Biden](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbLarge.jpg)](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbLarge.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     </div>
     
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential
-    ticket.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls,
+    N.Y.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Flegenheimer</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 
@@ -328,24 +324,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
+    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
     
-    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
-    than 21 years of service took effect on Saturday, the same day his
-    sharply critical op-ed of the president was published.
+    Merritt Corrigan, the former deputy White House liaison for the U.S.
+    Agency for International Development, had drawn scrutiny shortly
+    after being named to the position.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
+    By <span class="css-1n7hynb">Pranshu
+    Verma</span>
     
     </div>
     
@@ -363,25 +359,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
     
-    Brian Murphy’s office compiled reports of protesters and journalists
-    who were covering the Trump administration’s response to unrest in
-    Portland, Ore., last month.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Adam
-    Goldman</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -399,23 +395,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either party.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
+    Shear</span>
     
     </div>
     
@@ -433,24 +430,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
+    [](/2020/08/03/us/politics/joe-biden-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Biden Faces Pressure From Left Over Influence Industry Ties
+    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    Many of his aides and close allies are veteran Washington hands who
-    have profited from advising big corporations. The Sanders-Warren
-    wing of the party is not happy.
+    ## Why Biden Won’t Find His Biden
+    
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were “simpatico.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
-    Thrush</span>
+    By <span class="css-1n7hynb">Lisa
+    Lerer</span>
     
     </div>
     
@@ -468,26 +466,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-books.html)
+    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
     
-    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
-    
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    The Tennessee Valley Authority, an electric utility, quickly said it
+    would reconsider its move to shift some work to contractors outside
+    the United States.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Lyall</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -505,23 +501,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    [](/2020/08/03/us/politics/tata-pentagon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
+    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
+    The president sidestepped Congress when it became clear that his
+    nominee for a top Defense Department position would not win Senate
+    approval.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
+    By <span class="css-1n7hynb">Helene
+    Cooper</span>
     
     </div>
     
@@ -539,23 +536,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
+    [](/2020/08/03/us/politics/gun-control-voters.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/01dc-repubs1/00dc-repubs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Alienated by Trump, Suburban Voters Sour on G.O.P. in Battle for the House
+    ## What Happened to the Young Voters Focused on Guns?
     
-    House Republicans are on the defensive in suburban strongholds as
-    voters reject President Trump’s handling of the coronavirus.
+    It’s not their top issue anymore, but many see it as a part of
+    other, larger concerns.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
-    Edmondson</span>
+    By <span class="css-1n7hynb">Giovanni
+    Russonello</span>
     
     </div>
     
@@ -573,24 +570,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
+    [](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Tammy Duckworth Is Nothing and Everything Like Joe Biden
+    ## Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
     
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential ticket.
+    Republicans worry that if Kris Kobach, a polarizing figure in the
+    state, wins the nomination, it would pave the way for Democrats to
+    capture the seat and perhaps gain control of the Senate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Flegenheimer</span>
+    By <span class="css-1n7hynb">Katie
+    Glueck</span>
     
     </div>
     
@@ -608,24 +605,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/law-to-reduce-crack-cocaine-sentences-leaves-some-imprisoned.html)
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-firststep/01dc-firststep-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Law to Reduce Crack Cocaine Sentences Leaves Some Imprisoned
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
     
-    Critics say the First Step Act is being applied too arbitrarily by
-    judges who are taking a hard line when it comes to revisiting
-    nonviolent drug sentences.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Hailey
-    Fuchs</span>
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
     
     </div>
     
@@ -643,26 +639,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01moments1/merlin_175045695_792fda51-d1e1-4b1b-87db-391f651713ec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
     
-    ## Trump’s Approval Rating, Biden V.P. Search: The Latest in the 2020 Race
-    
-    President Trump’s more sober messaging on the coronavirus crisis
-    didn’t last long. For Joe Biden, the search for a running mate may
-    last a little longer.
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
-    Herndon</span>
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
     
     </div>
     

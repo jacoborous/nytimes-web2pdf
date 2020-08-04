@@ -241,9 +241,8 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 2, 2020,
-    <span class="css-epvm6">12:22 a.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -251,7 +250,7 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

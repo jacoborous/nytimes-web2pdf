@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -325,56 +325,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 3.1746031746031744%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 3.1578947368421053%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.51851851851852%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 18.421052631578945%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.92063492063492%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.73684210526316%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.79365079365079%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.526315789473685%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.19576719576719%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.84210526315789%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.06878306878306%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.63157894736841%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47089947089947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94736842105263%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.58730158730158%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.315789473684205%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.576719576719576%; top: 99.88612836438924%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.473684210526315%; top: 99.88612836438924%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -407,7 +407,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-116,599
+116,884
 
 </div>
 
@@ -423,7 +423,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-8,941
+8,945
 
 </div>
 
@@ -458,23 +458,23 @@ available
 
 [Map](#map)[By province](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 116,500 confirmed cases of coronavirus in
+There have been at least 116,800 confirmed cases of coronavirus in
 Canada, according to the [Public Health
 Agency](https://www.nytimes.com/interactive/2020/world/canada/canada-coronavirus-cases.html).
-As of Sunday morning, at least 8,941 people had
+As of Monday morning, at least 8,945 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
 
 ### Reported cases in Canada
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;canada&quot;,&quot;data_regions&quot;:&quot;nytgraphics.a9k71n9x&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.a9k71n9x&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.dgooin2n&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.0gbhbdp3&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.0gbhbdp3&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;canada&quot;,&quot;tileset&quot;:&quot;canada&quot;,&quot;data&quot;:&quot;CAN&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;canada&quot;,&quot;data_regions&quot;:&quot;nytgraphics.a9k71n9x&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.a9k71n9x&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.dgooin2n&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.0gbhbdp3&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.0gbhbdp3&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;canada&quot;,&quot;tileset&quot;:&quot;canada&quot;,&quot;data&quot;:&quot;CAN&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -711,35 +711,35 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Saskatchewan </span></td>
-<td><span>1,334 </span></td>
-<td><span>121 </span></td>
+<td><span>1,342 </span></td>
+<td><span>122 </span></td>
 <td><span>18 </span></td>
 <td><span>2 </span></td>
-<td><span>198 </span></td>
-<td><span>18 </span></td>
+<td><span>164 </span></td>
+<td><span>15 </span></td>
 <td><span>2 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Quebec </span></td>
-<td><span>59,458 </span></td>
-<td><span>728 </span></td>
-<td><span>5,678 </span></td>
+<td><span>59,599 </span></td>
+<td><span>730 </span></td>
+<td><span>5,681 </span></td>
 <td><span>70 </span></td>
-<td><span>1,044 </span></td>
-<td><span>13 </span></td>
+<td><span>1,016 </span></td>
 <td><span>12 </span></td>
+<td><span>14 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span>Ontario </span></td>
-<td><span>39,333 </span></td>
-<td><span>292 </span></td>
-<td><span>2,777 </span></td>
+<td><span>39,449 </span></td>
+<td><span>293 </span></td>
+<td><span>2,778 </span></td>
 <td><span>21 </span></td>
-<td><span>790 </span></td>
+<td><span>769 </span></td>
 <td><span>6 </span></td>
-<td><span>18 </span></td>
+<td><span>15 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
@@ -755,42 +755,42 @@ in last<br />
 </tr>
 <tr class="even">
 <td><span>Manitoba </span></td>
-<td><span>417 </span></td>
-<td><span>33 </span></td>
+<td><span>435 </span></td>
+<td><span>34 </span></td>
 <td><span>8 </span></td>
 <td><span>&lt;1 </span></td>
-<td><span>29 </span></td>
-<td><span>2 </span></td>
+<td><span>41 </span></td>
+<td><span>3 </span></td>
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Nova Scotia </span></td>
-<td><span>1,069 </span></td>
+<td><span>1,071 </span></td>
 <td><span>116 </span></td>
 <td><span>64 </span></td>
 <td><span>7 </span></td>
-<td><span>2 </span></td>
+<td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span>Newfoundland and Labrador </span></td>
-<td><span>266 </span></td>
-<td><span>51 </span></td>
-<td><span>3 </span></td>
-<td><span>&lt;1 </span></td>
-<td><span>1 </span></td>
-<td><span>&lt;1 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-</tr>
-<tr class="odd">
 <td><span>New Brunswick </span></td>
 <td><span>170 </span></td>
 <td><span>23 </span></td>
 <td><span>2 </span></td>
+<td><span>&lt;1 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+</tr>
+<tr class="odd">
+<td><span>Newfoundland and Labrador </span></td>
+<td><span>266 </span></td>
+<td><span>51 </span></td>
+<td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
@@ -893,56 +893,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 3.1746031746031744%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 3.1578947368421053%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.51851851851852%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 18.421052631578945%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.92063492063492%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.73684210526316%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.79365079365079%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.526315789473685%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.19576719576719%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.84210526315789%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.06878306878306%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.63157894736841%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47089947089947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94736842105263%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.58730158730158%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.315789473684205%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.576719576719576%; top: 99.88612836438924%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.473684210526315%; top: 99.88612836438924%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1016,56 +1016,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 3.1746031746031744%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 3.1578947368421053%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.51851851851852%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 18.421052631578945%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.92063492063492%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.73684210526316%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.79365079365079%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.526315789473685%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.19576719576719%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.84210526315789%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.06878306878306%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.63157894736841%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47089947089947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94736842105263%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.4021164021164%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.05263157894737%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 26.455026455026452%; top: 99.8069498069498%">
+<div class="pancake-point svelte-11ba04d" style="left: 26.31578947368421%; top: 99.8069498069498%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

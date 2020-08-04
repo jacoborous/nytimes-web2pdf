@@ -291,8 +291,9 @@ story](#after-sponsor)
 
 </div>
 
-Ms. Warren, a racially progressive politician, is the only white woman
-still under serious consideration to become Joe Biden’s running mate.
+Ms. Warren, a racially progressive politician, is one of a handful of
+white women still under serious consideration to become Joe Biden’s
+running mate.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -342,7 +343,8 @@ Ember</span>](https://www.nytimes3xbfgragh.onion/by/sydney-ember)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 2, 2020Updated <span class="css-epvm6">11:01 p.m.
+    Published Aug. 2, 2020Updated Aug. 3, 2020,
+    <span class="css-epvm6">12:32 a.m.
     ET</span>
     
     </div>
@@ -419,8 +421,8 @@ an explicit focus on racial justice.
 She has emerged, according to activists and organizers, as one of the
 most racially progressive white politicians in the country.
 
-She’s also the only white woman still under serious consideration to
-become [Joseph R. Biden
+She’s also one of a handful of white women still under serious
+consideration to become [Joseph R. Biden
 Jr.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/joe-biden.html)’s
 running mate, at a time when some Democratic leaders are pushing for
 more racial representation on their ticket.

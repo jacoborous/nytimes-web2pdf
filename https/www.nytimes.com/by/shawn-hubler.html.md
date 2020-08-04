@@ -177,6 +177,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/us/covid-college-reopening.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall
+    
+    Colleges are racing to reconfigure dorms, expand testing programs
+    and establish detailed social distancing rules. And then, what to do
+    about sex?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anemona Hartocollis <span>and</span>
+    Shawn
+    Hubler</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
     
     <div class="css-79elbk">
@@ -206,7 +242,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -242,7 +278,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +312,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +348,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -348,7 +384,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +420,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -419,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -453,7 +489,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -475,43 +511,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shawn
-    Hubler</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/us/coronavirus-florida-texas-bars-closing.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/28/us/28VIRUS-STATE-icehouse/28VIRUS-STATE-icehouse-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Leaders Re-examine U.S. Reopenings as Coronavirus Cases Hit Another Record
-    
-    Officials nationwide were rethinking their efforts to slow the
-    virus, which the nation’s top infectious disease expert said were
-    “not working.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Patricia Mazzei, Sarah Mervosh
-    <span>and</span> Shawn Hubler</span>
+    By <span class="css-1n7hynb">Shawn Hubler</span>
     
     </div>
     

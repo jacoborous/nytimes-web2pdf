@@ -2,6 +2,29 @@
 
 <div class="App">
 
+<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+
+<div class="css-tpyegx">
+
+<div class="css-17vh6q6">
+
+The Times and your Data
+
+</div>
+
+<div class="css-1mhyh9y">
+
+## Main Menu
+
+[Privacy F.A.Q.](/privacy)[Privacy
+Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
+
+</div>
+
+</div>
+
+</div>
+
 <div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
 
 <div class="Home">
@@ -388,33 +411,6 @@ Policy](/privacy/privacy-policy)[Cookie
 Policy](/privacy/cookie-policy)[California
 Notice](/privacy/california-notice)[Terms of
 Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
-
-</div>
-
-</div>
-
-<div>
-
-<div class="css-3lzwik" data-role="dialog" data-aria-modal="false">
-
-<div class="css-tpyegx">
-
-<div class="css-k8p5d3">
-
-The Times and your Data
-
-</div>
-
-<div class="css-1mhyh9y">
-
-## Main Menu
-
-[Privacy F.A.Q.](/privacy)[Privacy
-Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
-
-</div>
-
-</div>
 
 </div>
 

@@ -223,14 +223,14 @@ It is separate from the newsroom.
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">6:25 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -278,9 +278,9 @@ Shutterstock</span></span></span>](https://static01.graylady3jvrrxbe.onion/image
 <div class="css-53u6y8">
 
 Representative Louie Gohmert, Republican of Texas, is not the first
-member of Congress to test positive for Covid-19. At least 14 lawmakers,
-hailing from both parties and both chambers, are known to have either
-tested or been presumed positive for the coronavirus.
+member of Congress to test positive for the coronavirus. At least 14
+lawmakers, hailing from both parties and both chambers, are known to
+have either tested or been presumed positive for the coronavirus.
 
 But something about the diagnosis of Mr. Gohmert, who has belligerently
 flouted public health recommendations such as mask wearing and social
@@ -321,9 +321,9 @@ This sort of denial leads to unnecessary tragedy, as was driven home by
 the death of [Herman
 Cain](https://www.nytimes3xbfgragh.onion/2020/07/30/us/politics/herman-cain-dead.html).
 The former pizza magnate and Republican presidential candidate tested
-positive for Covid-19 nine days after attending President Trump’s June
-20 campaign rally in Tulsa, Okla. — where he was shown in a number of
-photos sitting close to other attendees without a mask.
+positive for the coronavirus nine days after attending President Trump’s
+June 20 campaign rally in Tulsa, Okla. — where he was shown in a number
+of photos sitting close to other attendees without a mask.
 
 Elected officials have a particular responsibility both to model
 responsible behavior during this pandemic and to take extra precautions
@@ -342,7 +342,7 @@ July 26. Representative Raúl Grijalva, Democrat of Arizona, has been
 self-quarantining as well, after chairing a hearing on July 28 that Mr.
 Gohmert attended, at times unmasked. On Saturday, [Mr. Grijalva
 announced](https://twitter.com/RepRaulGrijalva/status/1289637013394583553)
-that he had tested positive for Covid-19. **** Who knows how many other
+that he had tested positive for the virus. **** Who knows how many other
 people Mr. Gohmert may have potentially exposed?
 
 In response to the Gohmert news, congressional leaders reminded members

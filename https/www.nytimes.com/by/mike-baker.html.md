@@ -169,6 +169,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/us/portland-protests-.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/00Portland-protests-3/00Portland-protests-3-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## As Federal Agents Retreat in Portland, Protesters Return to Original Foe: Local Police
+    
+    While protests around the federal courthouse have remained calm for
+    three consecutive nights, Portland police officers chased
+    demonstrators through the streets near a local precinct.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike
+    Baker</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/us/protests-portland-federal-withdrawal.html)
     
     <div class="css-79elbk">
@@ -198,7 +233,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +269,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -270,7 +305,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -306,7 +341,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +377,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +414,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -413,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +482,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -470,43 +505,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Mike Baker, Thomas Fuller
-    <span>and</span> Sergio
-    Olmos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/us/seattle-protests-feds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/us/23UNREST-SEATTLE-durkan/merlin_174529029_bc10fbf9-be65-4068-87c6-414c528a0e22-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Feds Sending Tactical Team to Seattle, Expanding Presence Beyond Portland
-    
-    After outrage over the presence of federal agents in Portland, Ore.,
-    the Trump administration is sending a team to Seattle. Officials say
-    they will be on standby.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs, Adam Goldman
-    <span>and</span> Mike Baker</span>
+    <span>and</span> Sergio Olmos</span>
     
     </div>
     

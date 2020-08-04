@@ -175,6 +175,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    
+    Operation Warp Speed has moved along at a rapid clip. But some
+    people involved in the process fear pressure to deliver an October
+    surprise for President Trump.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
+    Weiland, Peter Baker <span>and</span> Annie
+    Karni</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
     
     <div class="css-79elbk">
@@ -206,7 +242,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -241,7 +277,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -285,7 +321,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +357,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -364,7 +400,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -405,7 +441,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -441,7 +477,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -478,7 +514,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -501,43 +537,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Maggie Haberman, Patricia Mazzei
-    <span>and</span> Annie
-    Karni</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/us/politics/trump-polls-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/us/politics/21trump-polling/21trump-polling-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Political Memo</span>
-    
-    ## Trump’s Remedy for Low Poll Numbers: Reminding People Polls Can Be Wrong
-    
-    And if surveys of likely voters don’t look promising, turn to other
-    measures. Like boat parades.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni</span>
+    <span>and</span> Annie Karni</span>
     
     </div>
     

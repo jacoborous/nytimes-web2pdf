@@ -229,8 +229,8 @@ Ms. Nir is a Metro reporter.
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">1:00 a.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

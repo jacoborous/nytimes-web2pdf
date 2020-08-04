@@ -270,6 +270,12 @@ Buckley</span>](https://www.nytimes3xbfgragh.onion/by/chris-buckley)
 
 </div>
 
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes3xbfgragh.onion/china/20200803/china-hong-kong-national-security-law/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/china/20200803/china-hong-kong-national-security-law/zh-hant/ "Read in Traditional Chinese")
+
+</div>
+
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">

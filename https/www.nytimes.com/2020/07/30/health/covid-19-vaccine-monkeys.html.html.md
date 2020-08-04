@@ -146,7 +146,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -241,7 +241,7 @@ vaccine at the Center for Virology and Vaccine Research at Beth Israel
 Deaconess Medical Center in
 Boston.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Tony
 Luong for The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.nyt.com/images/2020/08/03/science/30VIRUS-MONKEYS1/30VIRUS-MONKEYS1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -366,7 +366,7 @@ Health.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T07:42:09.613Z
+Updated 2020-08-02T17:52:35.962Z
 
 </div>
 
@@ -472,7 +472,7 @@ Barouch is a co-author of the Johnson & Johnson study. “It’s a very
 reassuring level of protection we saw,” he
 said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Tony
 Luong for The New York
-Times</span></span>](https://static01.nyt.com/images/2020/07/30/science/30VIRUS-MONKEYS2/30VIRUS-MONKEYS2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span>](https://static01.nyt.com/images/2020/08/03/science/30VIRUS-MONKEYS2/30VIRUS-MONKEYS2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

@@ -165,102 +165,103 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    L. Frank for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-thumbStandard.jpg)](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
+    [![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/03DC-Trump-CEO-01-thumbStandard.jpg)](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     </div>
     
-    ## [12 People in a 3-Bedroom House, Then the Virus Entered the Equation](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
+    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
-    Overcrowding, not density, has defined many coronavirus hot spots.
-    Service workers’ quarters skirting Silicon Valley are no
-    exception.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either
+    party.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Conor
-    Dougherty</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
+    Shear</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
-    Bureau/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+    Plavevski/EPA, via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbStandard.jpg)](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    [![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/merlin_175258689_6b3ad16b-c147-4a64-a7cf-7a84b8b5f0dc-thumbStandard.jpg)](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
     </div>
     
-    ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    ## [Trump Reverses Course on TikTok, Opening Door to Microsoft Bid](/2020/08/03/technology/trump-tiktok-microsoft.html)
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese
-    ownership.
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Raymond Zhong</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steve
-    Lohr</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Isaac</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-videoLarge.png)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SAND
+        Lab, University of
+        Chicago</span>](https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [More Than 1,000 Companies Boycotted Facebook. Did It Work?](/2020/08/01/business/media/facebook-boycott.html)
+        ## [This Tool Could Protect Your Photos From Facial Recognition](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbStandard.png)](/2020/08/01/business/media/facebook-boycott.html)
+        [![](https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-thumbStandard.jpg)](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
         
         </div>
         
-        Major advertisers on Facebook reduced their spending by millions
-        of dollars in July, but not enough to significantly damage the
-        platform’s
-        revenue.
+        Researchers at the University of Chicago want you to be able to
+        post selfies without worrying that the next Clearview AI will
+        use them to identify
+        you.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Tiffany Hsu</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Eleanor
-        Lutz</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Kashmir
+        Hill</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
-        Bedder/Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+        Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [James Murdoch Resigns From News Corp, Ending Role in Family Empire](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
+        ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-thumbStandard.jpg)](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
+        [![](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-thumbStandard.jpg)](/2020/08/03/technology/tiktok-bytedance-us-china.html)
         
         </div>
         
-        While his elder brother, Lachlan Murdoch, rises in the family
-        business, James Murdoch has grown more distant from his father’s
-        companies.
+        The founder of ByteDance, Zhang Yiming, dreamed of building a
+        global tech company based in China. Then the geopolitical
+        reality set
+        in.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Michael M.
-        Grynbaum</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Edmund
-        Lee</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Raymond
+        Zhong</span></span>
         
         </div>
 
@@ -270,101 +271,88 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/business/01kushner/01kushner-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nolwen
+    Cifuentes for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/00sba-disasterloan1/00sba-disasterloan1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Ivanka Trump and Jared Kushner Report Income of at Least $36 Million in 2019](/2020/08/01/business/ivanka-trump-jared-kushner-financial-disclosure.html)
+    ## [Small Businesses Got Emergency Loans, but Not What They Expected](/2020/08/03/business/small-business-loans-coronavirus.html)
     
-    The couple’s investments, mostly in real estate, were worth at least
-    $204 million and as much as $783
-    million.
+    The S.B.A.’s disaster relief program allows for loans of up to $2
+    million. But now they’re capped at $150,000 — and agency officials
+    are saying little about
+    why.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jesse Drucker</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Robert
-    Gebeloff</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stacy
+    Cowley</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-videoLarge.jpg)
+2.  
     
     <div class="css-10wtrbd">
     
-    ## [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](/2020/07/31/business/europe-economy-recovery-coronavirus.html)
+    ## [Boeing 737 Max Moves One Step Closer to Flying Again](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus)
     
-    European countries that have better contained the virus are poised
-    for speedier economic recovery than the United
-    States.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Peter S. Goodman</span>,
-    <span class="css-1baulvz" itemprop="name">Liz Alderman</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Jack
-    Ewing</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve
+    ads.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
+    
+    </div>
+
+4.  ### tech fix
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
     Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](/2020/07/31/technology/twitter-hack-arrest.html)
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
-    The authorities arrested a 17-year-old who they said ran a scheme
-    that targeted the accounts of celebrities, including former
-    President Barack Obama and Elon Musk. Two others were also
-    charged.
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
-    Popper</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
-4.  ### Wealth Matters
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
-    Masuike/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.nyt.com/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One](/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
+    ## [Men’s Wearhouse Owner Files for Bankruptcy](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
     
-    Interest in fractional investments has grown as the pandemic has
-    forced more people to spend time at home, but advisers say the
-    strategy has
-    risks.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paul
-    Sullivan</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Suzie
-    Howell for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/business/00virus-uk-cities-1/00virus-uk-cities-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In Britain, the Economic Comeback Is in the Suburbs](/2020/07/31/business/britain-economic-comeback-suburbs.html)
-    
-    Central London remains “very, very quiet” while shops and cafes
-    outside town centers are seeing a fragile
-    recovery.
+    Tailored Brands, known for its clothing chains Men’s Wearhouse and
+    JoS. A. Bank, struggled as the pandemic shut stores and consumer
+    demand for office attire
+    dropped.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Eshe
-    Nelson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Gillian
+    Friedman</span></span>
     
     </div>
 
@@ -561,24 +549,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/trader-joes-jose-ming-joe-san.html)
+    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trader Joe’s Defends Product Labels Criticized as Racist
+    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
     
-    The company had previously said the names of international-themed
-    products that were intended to promote inclusiveness, such as Trader
-    José and Trader Ming’s, “may now have the opposite effect.”
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
     
     </div>
     
@@ -596,24 +584,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    ## Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease
     
-    More than 500 cases and at least 75 hospitalizations have been
-    reported in the United States and Canada, the health authorities
-    said.
+    Despite the pandemic, the social media giant leased all the office
+    space in the former main post office at Penn Station in Midtown.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christina
-    Morales</span>
+    By <span class="css-1n7hynb">Matthew
+    Haag</span>
     
     </div>
     
@@ -631,23 +618,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-tva-sub/03dc-tva-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## Trump Dismisses 2 T.V.A. Board Members After Outsourcing Dispute
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    The Tennessee Valley Authority, an electric utility, quickly said it
+    would reconsider its move to shift some work to contractors outside
+    the United States.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -665,24 +653,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
     
-    The government has leveraged anger over the collapse of Genoa’s
-    Morandi Bridge to take back control of the nation’s highways. But
-    critics say the deal sends a troubling message to investors.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabetta
-    Povoledo</span>
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
     
     </div>
     
@@ -700,24 +687,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    The world’s largest vaccine producer, the Serum Institute, announced
-    a plan to make hundreds of millions of doses of an unproven
-    inoculation. It’s a gamble with a huge upside. And huge risks.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jeffrey
-    Gettleman</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -735,23 +722,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
+    [](/2020/08/03/business/venture-fund-raising-is-alive-and-relatively-well.html)
     
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/business/00Remake-RE2-lede/00Remake-RE2-lede-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Like Old Hollywood Movies, Video Games Get a Polish for New Audiences
-    
-    Game publishers are digging through their vaults to remake or
-    remaster popular titles in a bid to kindle players’ nostalgia.
+    ## Venture fund-raising is alive and (relatively) well.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Imad
-    Khan</span>
+    By <span class="css-1n7hynb">Michael J. de la
+    Merced</span>
     
     </div>
     
@@ -769,23 +747,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
+    [](/2020/08/03/business/how-schools-reopen.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03Virus-View-01/merlin_171513666_77afb6d2-fcff-4e60-afd1-d509f326d13a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The War on Frats
+    ### <span class="css-m70j1g">economic View</span>
     
-    Groups of fraternity brothers and sorority sisters are working to
-    kick their organizations off campus.
+    ## The United States Is Reopening Many of the Wrong Schools
+    
+    When it is safe enough to return to school, young children would
+    benefit the most. Yet financial pressures are pushing colleges to
+    reopen most rapidly, an economist says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ezra
-    Marcus</span>
+    By <span class="css-1n7hynb">Susan
+    Dynarski</span>
     
     </div>
     
@@ -803,26 +784,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/business/trump-financial-disclosure.html)
+    [](/2020/08/03/business/ceos-call-for-more-aid-for-small-businesses.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/06/30/multimedia/30trump-disclosure-2/merlin_173990283_6c753136-29ac-4140-acfa-4023fc3455fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03-markets-brf-schultz1/03-markets-brf-schultz1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Better Year for Trump’s Family Business (Last Year, That Is)
-    
-    In 2019, the Trump Organization showed improvement over the previous
-    year. But the company’s minimum reported revenues still fell short
-    of the president’s first year in office, his new financial
-    disclosure shows.
+    ## C.E.O.s call for more aid for small businesses.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben Protess, Steve Eder
-    <span>and</span> Michael H.
-    Keller</span>
+    By <span class="css-1n7hynb">Jason
+    Karaian</span>
     
     </div>
     
@@ -840,23 +815,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/business/kodak-ceo-stock-options.html)
+    [](/2020/08/03/business/a-project-in-kentucky-aims-to-show-how-home-lending-can-build-wealth.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/31virus-kodak-print/31virus-kodak-print-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03-markets-brf-smallmortgages1/merlin_174909516_3093d403-6a93-4573-bf2a-504fdcd6ab76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Kodak C.E.O. Got Stock Options Day Before News of Loan Sent Stock Soaring
-    
-    The stock options suddenly were worth about $50 million — the latest
-    instance of extraordinary good timing by corporate executives.
+    ## A project in Kentucky aims to show how home lending can build wealth.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jesse Drucker <span>and</span> Ellen
-    Gabler</span>
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
     
     </div>
     
@@ -874,23 +846,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/technology/tiktok-microsoft.html)
+    [](/2020/08/03/business/fed-official-says-a-hard-lockdown-could-get-virus-under-control.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/business/03-markets-brf-nealkashkari1/merlin_156806265_d6bc7e3a-54b8-43b1-8baf-eedf481bf218-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
-    
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
+    ## Fed official says a ‘hard’ lockdown could get virus under control.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan Rappeport</span>
+    By <span class="css-1n7hynb">Jeanna Smialek</span>
     
     </div>
     

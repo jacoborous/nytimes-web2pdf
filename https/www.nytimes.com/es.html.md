@@ -153,112 +153,108 @@ Estate](https://www.nytimes.com/section/realestate)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alejandro
-    Pagni/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Departamento
+    de Agricultura de Estados
+    Unidos</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-thumbStandard.jpg)](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
+    [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-thumbStandard.jpg)](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
     
     </div>
     
-    ### Negocios
+    ## [Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
     
-    ## [Las negociaciones de la deuda en Argentina ponen a prueba el capitalismo amigable](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
-    
-    BlackRock, la empresa más grande de manejo de inversiones del mundo,
-    se opone a un acuerdo que resolvería la deuda con Argentina, que
-    lucha contra la pobreza y la
-    pandemia.
+    Las 14 variedades reconocidas incluyen plantas comunes como hibisco,
+    campanilla morada y lavanda. Aún así, los expertos advirtieron a los
+    destinatarios que no las
+    sembraran.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz" itemprop="name">Peter S. Goodman</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Politi</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Allyson
+    Waller</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/01Ramos-ES-thumbStandard.jpg)](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbStandard.jpg)](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
     
     </div>
     
     ### Comentario
     
-    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
     
-    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
-    o trabajado en la región, conocemos bien de mandatarios que juegan
-    con los límites de su poder. Adiós al “excepcionalismo
-    estadounidense”.
+    Las clases medias mexicanas claudicaron de intentar atenderse en
+    hospitales públicos y los más pobres los usan pensando que ahí solo
+    van a morirse. Esto debe
+    cambiar.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Jorge
-    Ramos</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Viri
+    Ríos</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
-        Cadena
-        Bejarano</span>](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
+        Dhaliwal para The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-videoLarge.jpg)
+        
+        <div class="css-7l6h4f">
+        
+        ## [Menos sexo, más audiencia: la pandemia reanima a las telenovelas mexicanas](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-thumbStandard.jpg)](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+        
+        </div>
+        
+        Desdeñados por ser muy anticuados para competir con las series
+        transmitidas por internet, los melodramas televisivos recuperan
+        a un público ansioso que busca entretenimiento familiar y
+        reconfortante en tiempos de
+        incertidumbre.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+        <span class="css-1baulvz last-byline" itemprop="name">Natalie
+        Kitroeff</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
+        Sura/EPA vía
+        Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
+        ## [En El Salvador todos han negociado con las pandillas](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbStandard.jpg)](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
+        [![](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/01Martinez-ES-thumbStandard.jpg)](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
         
         </div>
         
-        El hallazgo de un inmenso altar fúnebre azteca permite
-        reflexionar sobre las urgencias actuales sin fantasías atávicas
-        pero con un nítido sentido de la historia y los desafíos del
-        presente.
+        Dialogar con las pandillas ha sido una realidad en el país:
+        políticos de todos los colores lo han hecho por casi una
+        década, pero solo unos cuantos han sido perseguidos por
+        hacerlo. ¿Es una utopía transparentar esos
+        pactos?
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Juan
-        Villoro</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Barton
-        Silverman/The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/28/us/politics/30dc-fred-Trump-ES-00/merlin_97610656_78a7876d-c54b-430a-a599-163bcf354205-videoLarge.jpg)
-        
-        <div class="css-7l6h4f">
-        
-        ## [Hijo de su padre: el presidente Donald Trump aprendió en casa a no mostrar aflicción](/es/2020/07/31/espanol/estados-unidos/fred-trump-donald-trump.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/28/us/politics/30dc-fred-Trump-ES-00/merlin_97610656_78a7876d-c54b-430a-a599-163bcf354205-thumbStandard.jpg)](/es/2020/07/31/espanol/estados-unidos/fred-trump-donald-trump.html)
-        
-        </div>
-        
-        Ya sea que enfrente la pérdida de un familiar o la muerte de
-        casi 150.000 estadounidenses en una pandemia creciente, el
-        mandatario estadounidense casi nunca exhibe empatía. Se lo
-        inculcó su
-        padre.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz" itemprop="name">Annie Karni</span> y
-        <span class="css-1baulvz last-byline" itemprop="name">Katie
-        Rogers</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Óscar
+        Martínez</span></span>
         
         </div>
 
@@ -392,7 +388,48 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Carrión</span>
+    
+    ## [Los algoritmos son los nuevos editores](/es/2020/08/02/espanol/opinion/facebook-amazon-instagram.html)
+    
+    ¿Qué tienen en común Instagram, YouTube, Facebook, Amazon, Weibo y
+    Twitter? No son solo redes sociales o plataformas: son los grandes
+    editores de nuestra
+    realidad.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jorge
+    Carrión</span></span>
+    
+    </div>
+
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+    Drago para The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Ramos</span>
+    
+    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    
+    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
+    o trabajado en la región, conocemos bien de mandatarios que juegan
+    con los límites de su poder. Adiós al “excepcionalismo
+    estadounidense”.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jorge
+    Ramos</span></span>
+    
+    </div>
+
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
     vía Getty Images
     Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
     
@@ -412,89 +449,45 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
-    Chs/EPA vía
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">David Jiménez</span>
-    
-    ## [Manual de comportamiento para expresidentes insoportables](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
-    
-    La incapacidad de algunos exmandatarios de España de aceptar su
-    jubilación viene en parte de una falta de cultura democrática.
-    Algunos países de Latinoamérica tienen el mismo
-    problema.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Jiménez</span></span>
-    
-    </div>
-
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
-    de Argentina/EPA vía
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz" itemprop="name">Marcelo J. García</span> y <span class="css-1baulvz last-byline" itemprop="name">Jordana Timerman</span>
-    
-    ## [¿Por qué no explota Argentina?](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
-    
-    Lecciones de 2001, una fuerte política social asistencialista y una
-    grieta política potente han alejado de momento otro estallido
-    social, pero solo una nueva política cooperativa podrá terminar de
-    disipar ese
-    fantasma.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Marcelo J. García</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Jordana
-    Timerman</span></span>
-    
-    </div>
-
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
-        Cotti</span>](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
+        Cadena
+        Bejarano</span>](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Roberto Herrscher</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Juan Villoro</span>
         
-        ## [Las enseñanzas de educar durante la pandemia](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
+        ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
         
-        He sido profesor universitario durante más de dos décadas, y
-        estos meses de enseñar durante la pandemia me han hecho entender
-        que la educación ha cambiado para
-        siempre.
+        El hallazgo de un inmenso altar fúnebre azteca permite
+        reflexionar sobre las urgencias actuales sin fantasías atávicas
+        pero con un nítido sentido de la historia y los desafíos del
+        presente.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Roberto
-        Herrscher</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Juan
+        Villoro</span></span>
         
         </div>
     
-    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brittainy
-        Newman/The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/28/opinion/28friedmanWeb/28friedmanWeb-videoLarge.jpg)
+    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+        Archive/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Thomas L. Friedman</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Alexander Keyssar</span>
         
-        ## [Si nuestros cubrebocas pudieran hablar](/es/2020/07/30/espanol/opinion/usar-cubrebocas-politica.html)
+        ## [El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
         
-        ¿Cómo nos volvimos tan ineficaces para combatir al coronavirus?
-        Los arqueólogos del futuro que vinieran a excavar al país más
-        rico del mundo, encontrarían la clave en un artefacto sencillo:
-        la
-        mascarilla.
+        Aunque ha habido intentos recurrentes de reformar el complejo
+        método de elegir presidentes en ese país, las políticas
+        raciales han tenido un lugar protagónico en impedir
+        cambios.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Thomas L.
-        Friedman</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Alexander
+        Keyssar</span></span>
         
         </div>
 
@@ -529,6 +522,134 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/es/2020/08/03/espanol/cultura/victor-victor-murio-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/27/obituaries/03Victor-ES/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Los que hemos perdido</span>
+    
+    ## Víctor Víctor, conocido por el éxito ‘Mesita de Noche’, muere a los 71 años
+    
+    El cantante, compositor y productor también llevó clases de teatro,
+    música y danza a comunidades desfavorecidas. Murió de COVID-19.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Sandra E. Garcia</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/01/obituaries/victor-victor-dead-coronavirus.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/02/espanol/estilos-de-vida/adopcion-orfanato.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/26/fashion/26MODERN-ORPHANAGE/26MODERN-ORPHANAGE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Modern Love</span>
+    
+    ## ¿Por qué me dejó ahí?
+    
+    Un joven regresa al orfanato en Vietnam que había tratado de olvidar
+    durante 25 años.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Kacey Vu Shap</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/24/style/modern-love-adoption-vietnam-why-did-she-leave-me-there.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Negocios</span>
+    
+    ## Las negociaciones de la deuda en Argentina ponen a prueba el capitalismo amigable
+    
+    BlackRock, la empresa más grande de manejo de inversiones del mundo,
+    se opone a un acuerdo que resolvería la deuda con Argentina, que
+    lucha contra la pobreza y la pandemia.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Peter S. Goodman <span>y</span> Daniel
+    Politi</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/31/business/argentina-debt.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/es/2020/07/31/espanol/elecciones-2020-trump-mexico-violencia.html)
     
     <div class="css-79elbk">
@@ -556,7 +677,51 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/31/espanol/estados-unidos/fred-trump-donald-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/28/us/politics/30dc-fred-Trump-ES-00/merlin_97610656_78a7876d-c54b-430a-a599-163bcf354205-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hijo de su padre: el presidente Donald Trump aprendió en casa a no mostrar aflicción
+    
+    Ya sea que enfrente la pérdida de un familiar o la muerte de casi
+    150.000 estadounidenses en una pandemia creciente, el mandatario
+    estadounidense casi nunca exhibe empatía. Se lo inculcó su padre.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Annie Karni <span>y</span> Katie
+    Rogers</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/28/us/politics/donald-fred-trump.html "Read in English")[Read
+    in
+    English](https://www.nytimes.com/2020/07/28/us/politics/donald-fred-trump.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -599,7 +764,84 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## La tierra en préstamo: una gramática de la violencia en México
+    
+    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
+    sobre las urgencias actuales sin fantasías atávicas pero con un
+    nítido sentido de la historia y los desafíos del presente.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Juan
+    Villoro</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/30/espanol/opinion/john-lewis-derechos-civiles.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/opinion/00lewis/00lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## John Lewis: Juntos, ustedes pueden recuperar el alma de Estados Unidos
+    
+    Aunque me haya ido, los animo a responder al llamado más elevado de
+    su corazón y a defender lo que realmente creen.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">John Lewis</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/07/30/opinion/john-lewis-civil-rights-america.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -643,7 +885,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -673,258 +915,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes.com/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/29/espanol/america-latina/democracia-america-latina-pandemia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/16/world/29LatAm-Democracy-Es-00/00latam-top-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## América Latina se enfrenta a un retroceso de la democracia durante la pandemia
-    
-    El coronavirus está perjudicando los sistemas de salud y las
-    economías de la región. También amenaza sus frágiles libertades
-    políticas.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Anatoly Kurmanaev</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/29/world/americas/latin-america-democracy-pandemic.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/29/espanol/ciencia-y-tecnologia/mision-marte-nasa.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/science/28MARSSAMPLE/28MARSSAMPLE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Traer rocas de Marte a la Tierra: nuestra maniobra interplanetaria más asombrosa
-    
-    La NASA y la Agencia Espacial Europea planean lanzar rocas de una
-    nave espacial a otra antes de que las muestras finalmente lleguen a
-    nuestro planeta en 2031.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Kenneth Chang</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/28/science/mars-sample-return-mission.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/mundo/vino-blanco-alsacia-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/world/28Francia-vino-ES/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Europa</span>
-    
-    ## Angustia, vino blanco y gel antibacterial
-    
-    La pandemia del coronavirus y los aranceles impuestos por el
-    gobierno de Donald Trump perjudicaron al mercado del vino francés.
-    Ahora el destino de la cosecha es convertirse en desinfectante para
-    manos.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Adam Nossiter</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/27/world/europe/france-alsace-wine-coronavirus.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/mundo/remesas-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/business/28Remesas-ES-1/00Remittances-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Migraron para sacar a sus familias de la pobreza. Ahora necesitan ayuda
-    
-    La pandemia ha deteriorado los salarios de los trabajadores
-    inmigrantes, quienes envían menos remesas a sus hogares. Esto podría
-    generar un aumento de la pobreza en varias partes del mundo, de
-    América Latina al sur de Asia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Peter S. Goodman</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/27/business/global-remittances-coronavirus.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/estilos-de-vida/reto-selfi-blanco-negro.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/27/fashion/28CHALLENGEACCEPTED-2-ES/27CHALLENGEACCEPTED-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## \#RetoAceptado: por qué algunas mujeres publican selfis en blanco y negro
-    
-    Una campaña que dice ser sobre “mujeres que apoyan a mujeres” ha
-    inundado Instagram con imágenes llamativas. Sin embargo, la
-    motivación detrás es poco clara.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Taylor Lorenz</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/27/style/challenge-accepted-instagram.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/28/espanol/mundo/lavanderia-taiwanesa-instagram.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/world/27Taiwan-Laundry-ES/24taiwan-laundry1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Asia</span>
-    
-    ## Él tiene 83, ella 84 y modelan la ropa que la gente olvida en su lavandería
-    
-    Los dueños de un centro de lavado en Taiwán se han convertido en
-    estrellas de Instagram por posar con prendas que los clientes
-    abandonan.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Chris Horton</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/24/world/asia/taiwan-octogenarian-couple-instagram-laundry.html "Read in English")
     
     </div>
     

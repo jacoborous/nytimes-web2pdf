@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -314,56 +314,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 4.18848167539267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 4.166666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.3717277486911%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.270833333333336%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.602094240837694%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.41666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.30890052356021%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.04166666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.53926701570681%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 67.1875%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.24607329842932%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.8125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47643979057591%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.95833333333334%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.81675392670157%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.63541666666667%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.21465968586387%; top: 74.20729178448893%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.958333333333336%; top: 74.20729178448893%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -450,7 +450,7 @@ available
 
 [Map](#map)[By province](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -458,7 +458,7 @@ news
 
 There have been at least 187,900 confirmed cases of coronavirus in
 France, according to the [French
-government](https://dashboard.covid19.data.gouv.fr/). As of Sunday
+government](https://dashboard.covid19.data.gouv.fr/). As of Monday
 morning, 30,265 people had died.
 
 National health authorities in France do not provide regional data for
@@ -471,7 +471,7 @@ died.
 
 ### Hospitalizations in France
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;france&quot;,&quot;data_regions&quot;:&quot;nytgraphics.0nggfcor&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.0nggfcor&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.1z5iv6ql&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.4ya7o8cx&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.4ya7o8cx&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;france&quot;,&quot;tileset&quot;:&quot;france&quot;,&quot;data&quot;:&quot;FRA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;Hospitalizations&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;france&quot;,&quot;data_regions&quot;:&quot;nytgraphics.0nggfcor&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.0nggfcor&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.1z5iv6ql&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.4ya7o8cx&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.4ya7o8cx&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;france&quot;,&quot;tileset&quot;:&quot;france&quot;,&quot;data&quot;:&quot;FRA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;Hospitalizations&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -885,56 +885,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 4.18848167539267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 4.166666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.3717277486911%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.270833333333336%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.602094240837694%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.41666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.30890052356021%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.04166666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.53926701570681%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 67.1875%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.24607329842932%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.8125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47643979057591%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.95833333333334%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.81675392670157%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.63541666666667%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.21465968586387%; top: 74.20729178448893%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.958333333333336%; top: 74.20729178448893%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1033,56 +1033,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 4.18848167539267%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 4.166666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.3717277486911%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.270833333333336%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.602094240837694%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.41666666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.30890052356021%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.04166666666667%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.53926701570681%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 67.1875%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 83.24607329842932%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.8125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.47643979057591%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.95833333333334%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 36.38743455497382%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 36.19791666666667%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 48.69109947643979%; top: 77.63045337895637%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.958333333333336%; top: 78.4145993726832%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

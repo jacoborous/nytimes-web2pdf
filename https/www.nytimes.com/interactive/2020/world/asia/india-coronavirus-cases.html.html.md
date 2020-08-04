@@ -135,7 +135,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -326,56 +326,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.0810810810810811%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.075268817204301%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.756756756756758%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.666666666666664%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.513513513513516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.33333333333333%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.72972972972973%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.46236559139785%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.48648648648648%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.12903225806451%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.70270270270271%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.25806451612902%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45945945945947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.9247311827957%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.64864864864866%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.11827956989247%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.91891891891892%; top: 98.80698103675098%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.70967741935483%; top: 98.80698103675098%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -408,7 +408,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-1.7 million+
+1.8 million+
 
 </div>
 
@@ -424,7 +424,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-37,364
+38,135
 
 </div>
 
@@ -459,15 +459,15 @@ available
 
 [Map](#map)[By state and union territory](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 1,750,700 confirmed cases of the coronavirus in
+There have been at least 1,803,600 confirmed cases of the coronavirus in
 India, according to the [Ministry of Health and
-Welfare](https://www.mohfw.gov.in/). As of Sunday morning, 37,364 people
+Welfare](https://www.mohfw.gov.in/). As of Monday morning, 38,135 people
 had
 died.
 
@@ -475,7 +475,7 @@ died.
 
 ### Reported cases in India
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;india&quot;,&quot;data_regions&quot;:&quot;nytgraphics.7cmsbr1k&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.7cmsbr1k&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.c1p9vnci&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.4uo0mjyu&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.4uo0mjyu&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;india&quot;,&quot;tileset&quot;:&quot;india&quot;,&quot;data&quot;:&quot;IND&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;40&quot;,&quot;max_radius_mobile&quot;:&quot;20&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;india&quot;,&quot;data_regions&quot;:&quot;nytgraphics.7cmsbr1k&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.7cmsbr1k&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.c1p9vnci&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.4uo0mjyu&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.4uo0mjyu&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;india&quot;,&quot;tileset&quot;:&quot;india&quot;,&quot;data&quot;:&quot;IND&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;40&quot;,&quot;max_radius_mobile&quot;:&quot;20&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -702,112 +702,112 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Andhra Pradesh </span></td>
-<td><span>150,209 </span></td>
-<td><span>304 </span></td>
-<td><span>1,407 </span></td>
+<td><span>158,764 </span></td>
+<td><span>321 </span></td>
+<td><span>1,474 </span></td>
 <td><span>3 </span></td>
-<td><span>61,538 </span></td>
-<td><span>125 </span></td>
-<td><span>422 </span></td>
+<td><span>62,466 </span></td>
+<td><span>126 </span></td>
+<td><span>433 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span>Dadra and Nagar Haveli and Daman and Diu </span></td>
-<td><span>1,145 </span></td>
-<td><span>471 </span></td>
-<td><span>2 </span></td>
-<td><span>&lt;1 </span></td>
-<td><span>285 </span></td>
-<td><span>117 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
+<td><span>Goa </span></td>
+<td><span>6,530 </span></td>
+<td><span>448 </span></td>
+<td><span>53 </span></td>
+<td><span>4 </span></td>
+<td><span>1,669 </span></td>
+<td><span>114 </span></td>
+<td><span>18 </span></td>
+<td><span>1 </span></td>
 </tr>
 <tr class="odd">
-<td><span>Goa </span></td>
-<td><span>6,193 </span></td>
-<td><span>425 </span></td>
-<td><span>48 </span></td>
-<td><span>3 </span></td>
-<td><span>1,507 </span></td>
-<td><span>103 </span></td>
-<td><span>15 </span></td>
-<td><span>1 </span></td>
+<td><span>Dadra and Nagar Haveli and Daman and Diu </span></td>
+<td><span>1,184 </span></td>
+<td><span>487 </span></td>
+<td><span>2 </span></td>
+<td><span>&lt;1 </span></td>
+<td><span>270 </span></td>
+<td><span>111 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 </tr>
 <tr class="even">
 <td><span>Andaman and Nicobar Islands </span></td>
-<td><span>636 </span></td>
-<td><span>167 </span></td>
-<td><span>7 </span></td>
+<td><span>734 </span></td>
+<td><span>193 </span></td>
+<td><span>8 </span></td>
 <td><span>2 </span></td>
-<td><span>346 </span></td>
-<td><span>91 </span></td>
-<td><span>7 </span></td>
+<td><span>410 </span></td>
+<td><span>108 </span></td>
+<td><span>8 </span></td>
 <td><span>2 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Puducherry </span></td>
-<td><span>3,606 </span></td>
-<td><span>289 </span></td>
-<td><span>51 </span></td>
+<td><span>3,806 </span></td>
+<td><span>305 </span></td>
+<td><span>52 </span></td>
 <td><span>4 </span></td>
-<td><span>952 </span></td>
-<td><span>76 </span></td>
-<td><span>13 </span></td>
-<td><span>1 </span></td>
+<td><span>1,020 </span></td>
+<td><span>82 </span></td>
+<td><span>12 </span></td>
+<td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span>Ladakh </span></td>
-<td><span>1,462 </span></td>
-<td><span>533 </span></td>
+<td><span>1,466 </span></td>
+<td><span>534 </span></td>
 <td><span>7 </span></td>
 <td><span>3 </span></td>
-<td><span>186 </span></td>
-<td><span>68 </span></td>
-<td><span>4 </span></td>
+<td><span>181 </span></td>
+<td><span>66 </span></td>
+<td><span>3 </span></td>
 <td><span>1 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Karnataka </span></td>
-<td><span>129,287 </span></td>
-<td><span>212 </span></td>
-<td><span>2,412 </span></td>
+<td><span>134,819 </span></td>
+<td><span>221 </span></td>
+<td><span>2,496 </span></td>
 <td><span>4 </span></td>
-<td><span>38,345 </span></td>
+<td><span>38,678 </span></td>
 <td><span>63 </span></td>
-<td><span>616 </span></td>
+<td><span>618 </span></td>
 <td><span>1 </span></td>
 </tr>
 <tr class="even">
 <td><span>Tamil Nadu </span></td>
-<td><span>251,738 </span></td>
-<td><span>349 </span></td>
-<td><span>4,034 </span></td>
+<td><span>257,613 </span></td>
+<td><span>357 </span></td>
+<td><span>4,132 </span></td>
 <td><span>6 </span></td>
-<td><span>45,001 </span></td>
-<td><span>62 </span></td>
-<td><span>625 </span></td>
+<td><span>43,890 </span></td>
+<td><span>61 </span></td>
+<td><span>638 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Maharashtra </span></td>
-<td><span>431,719 </span></td>
-<td><span>384 </span></td>
-<td><span>15,316 </span></td>
+<td><span>441,228 </span></td>
+<td><span>393 </span></td>
+<td><span>15,576 </span></td>
 <td><span>14 </span></td>
-<td><span>65,351 </span></td>
+<td><span>65,429 </span></td>
 <td><span>58 </span></td>
-<td><span>1,927 </span></td>
+<td><span>1,920 </span></td>
 <td><span>2 </span></td>
 </tr>
 <tr class="even">
 <td><span>Delhi </span></td>
-<td><span>136,716 </span></td>
-<td><span>814 </span></td>
-<td><span>3,989 </span></td>
+<td><span>137,677 </span></td>
+<td><span>820 </span></td>
+<td><span>4,004 </span></td>
 <td><span>24 </span></td>
-<td><span>7,185 </span></td>
-<td><span>43 </span></td>
-<td><span>183 </span></td>
+<td><span>7,071 </span></td>
+<td><span>42 </span></td>
+<td><span>177 </span></td>
 <td><span>1 </span></td>
 </tr>
 </tbody>
@@ -897,56 +897,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.0810810810810811%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.075268817204301%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.756756756756758%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.666666666666664%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.513513513513516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.33333333333333%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.72972972972973%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.46236559139785%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.48648648648648%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.12903225806451%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.70270270270271%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.25806451612902%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45945945945947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.9247311827957%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.64864864864866%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.11827956989247%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.91891891891892%; top: 98.80698103675098%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.70967741935483%; top: 98.80698103675098%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1042,56 +1042,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 1.0810810810810811%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 1.075268817204301%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.756756756756758%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.666666666666664%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.513513513513516%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.33333333333333%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.72972972972973%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.46236559139785%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.48648648648648%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.12903225806451%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.70270270270271%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.25806451612902%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45945945945947%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.9247311827957%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 74.32432432432432%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 73.9247311827957%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 29.18918918918919%; top: 99.95007488766849%">
+<div class="pancake-point svelte-11ba04d" style="left: 29.032258064516128%; top: 99.95007488766849%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

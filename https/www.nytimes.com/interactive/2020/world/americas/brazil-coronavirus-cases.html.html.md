@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -314,50 +314,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.5316455696202533%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.5157232704402515%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 22.151898734177216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 22.0125786163522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 41.139240506329116%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.880503144654085%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.75949367088608%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.37735849056604%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.74683544303798%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.24528301886792%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.36708860759494%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.74213836477988%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.15189873417722%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 96.54088050314465%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.607594936708864%; top: 94.4773514119433%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.36477987421384%; top: 94.4773514119433%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -406,7 +406,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-93,563
+94,104
 
 </div>
 
@@ -441,14 +441,14 @@ available
 
 [Map](#map)[By state](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 2,707,800 cases of the coronavirus in Brazil,
-according to data from state governments. As of Sunday morning, 93,563
+There have been at least 2,733,600 cases of the coronavirus in Brazil,
+according to data from state governments. As of Monday morning, 94,104
 people had died. President Jair Bolsonaro [announced on
 July 7](https://www.nytimes.com/2020/07/07/world/americas/brazil-bolsonaro-coronavirus.html)
 that he had tested positive for the
@@ -458,7 +458,7 @@ virus.
 
 ### Reported cases in Brazil
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;brazil&quot;,&quot;data_regions&quot;:&quot;nytgraphics.9md4v0e1&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.9md4v0e1&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.84wh9kcf&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.13gvtk89&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.13gvtk89&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;brazil&quot;,&quot;tileset&quot;:&quot;brazil&quot;,&quot;data&quot;:&quot;BRA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;brazil&quot;,&quot;data_regions&quot;:&quot;nytgraphics.9md4v0e1&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.9md4v0e1&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.84wh9kcf&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.13gvtk89&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.13gvtk89&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;brazil&quot;,&quot;tileset&quot;:&quot;brazil&quot;,&quot;data&quot;:&quot;BRA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -686,112 +686,112 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Roraima </span></td>
-<td><span>32,723 </span></td>
-<td><span>5,761 </span></td>
+<td><span>33,151 </span></td>
+<td><span>5,837 </span></td>
 <td><span>513 </span></td>
 <td><span>90 </span></td>
-<td><span>3,329 </span></td>
-<td><span>586 </span></td>
+<td><span>3,322 </span></td>
+<td><span>585 </span></td>
 <td><span>40 </span></td>
 <td><span>7 </span></td>
 </tr>
 <tr class="even">
 <td><span>Distrito Federal </span></td>
-<td><span>107,922 </span></td>
-<td><span>3,656 </span></td>
-<td><span>1,490 </span></td>
-<td><span>50 </span></td>
-<td><span>13,735 </span></td>
-<td><span>465 </span></td>
+<td><span>110,028 </span></td>
+<td><span>3,728 </span></td>
+<td><span>1,523 </span></td>
+<td><span>52 </span></td>
+<td><span>13,696 </span></td>
+<td><span>464 </span></td>
 <td><span>215 </span></td>
 <td><span>7 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Sergipe </span></td>
-<td><span>59,724 </span></td>
-<td><span>2,633 </span></td>
-<td><span>1,448 </span></td>
-<td><span>64 </span></td>
-<td><span>7,460 </span></td>
-<td><span>329 </span></td>
-<td><span>145 </span></td>
-<td><span>6 </span></td>
+<td><span>60,035 </span></td>
+<td><span>2,647 </span></td>
+<td><span>1,465 </span></td>
+<td><span>65 </span></td>
+<td><span>7,432 </span></td>
+<td><span>328 </span></td>
+<td><span>151 </span></td>
+<td><span>7 </span></td>
 </tr>
 <tr class="even">
-<td><span>Mato Grosso </span></td>
-<td><span>52,790 </span></td>
-<td><span>1,544 </span></td>
-<td><span>1,849 </span></td>
-<td><span>54 </span></td>
-<td><span>9,855 </span></td>
-<td><span>288 </span></td>
-<td><span>283 </span></td>
-<td><span>8 </span></td>
+<td><span>Tocantins </span></td>
+<td><span>26,434 </span></td>
+<td><span>1,709 </span></td>
+<td><span>395 </span></td>
+<td><span>26 </span></td>
+<td><span>4,667 </span></td>
+<td><span>302 </span></td>
+<td><span>49 </span></td>
+<td><span>3 </span></td>
 </tr>
 <tr class="odd">
-<td><span>Tocantins </span></td>
-<td><span>25,346 </span></td>
-<td><span>1,638 </span></td>
-<td><span>390 </span></td>
-<td><span>25 </span></td>
-<td><span>4,426 </span></td>
-<td><span>286 </span></td>
-<td><span>50 </span></td>
-<td><span>3 </span></td>
+<td><span>Mato Grosso </span></td>
+<td><span>53,363 </span></td>
+<td><span>1,560 </span></td>
+<td><span>1,886 </span></td>
+<td><span>55 </span></td>
+<td><span>10,032 </span></td>
+<td><span>293 </span></td>
+<td><span>306 </span></td>
+<td><span>9 </span></td>
 </tr>
 <tr class="even">
 <td><span>Santa Catarina </span></td>
-<td><span>86,922 </span></td>
-<td><span>1,236 </span></td>
-<td><span>1,154 </span></td>
-<td><span>16 </span></td>
-<td><span>19,589 </span></td>
-<td><span>279 </span></td>
+<td><span>87,982 </span></td>
+<td><span>1,252 </span></td>
+<td><span>1,175 </span></td>
+<td><span>17 </span></td>
+<td><span>19,252 </span></td>
 <td><span>274 </span></td>
+<td><span>268 </span></td>
 <td><span>4 </span></td>
 </tr>
 <tr class="odd">
 <td><span>Rondônia </span></td>
-<td><span>39,504 </span></td>
-<td><span>2,260 </span></td>
-<td><span>881 </span></td>
-<td><span>50 </span></td>
-<td><span>3,931 </span></td>
-<td><span>225 </span></td>
-<td><span>71 </span></td>
+<td><span>39,893 </span></td>
+<td><span>2,283 </span></td>
+<td><span>884 </span></td>
+<td><span>51 </span></td>
+<td><span>4,083 </span></td>
+<td><span>234 </span></td>
+<td><span>70 </span></td>
 <td><span>4 </span></td>
 </tr>
 <tr class="even">
 <td><span>Piauí </span></td>
-<td><span>52,458 </span></td>
-<td><span>1,609 </span></td>
-<td><span>1,354 </span></td>
+<td><span>52,993 </span></td>
+<td><span>1,626 </span></td>
+<td><span>1,369 </span></td>
 <td><span>42 </span></td>
-<td><span>7,069 </span></td>
-<td><span>217 </span></td>
+<td><span>6,949 </span></td>
+<td><span>213 </span></td>
 <td><span>126 </span></td>
 <td><span>4 </span></td>
 </tr>
 <tr class="odd">
-<td><span>Goiás </span></td>
-<td><span>69,487 </span></td>
-<td><span>1,011 </span></td>
-<td><span>1,686 </span></td>
-<td><span>25 </span></td>
-<td><span>14,686 </span></td>
-<td><span>214 </span></td>
-<td><span>308 </span></td>
-<td><span>4 </span></td>
+<td><span>Alagoas </span></td>
+<td><span>62,240 </span></td>
+<td><span>1,877 </span></td>
+<td><span>1,594 </span></td>
+<td><span>48 </span></td>
+<td><span>6,864 </span></td>
+<td><span>207 </span></td>
+<td><span>94 </span></td>
+<td><span>3 </span></td>
 </tr>
 <tr class="even">
-<td><span>Paraíba </span></td>
-<td><span>83,461 </span></td>
-<td><span>2,094 </span></td>
-<td><span>1,833 </span></td>
-<td><span>46 </span></td>
-<td><span>7,738 </span></td>
-<td><span>194 </span></td>
-<td><span>158 </span></td>
+<td><span>Goiás </span></td>
+<td><span>70,115 </span></td>
+<td><span>1,020 </span></td>
+<td><span>1,697 </span></td>
+<td><span>25 </span></td>
+<td><span>14,201 </span></td>
+<td><span>207 </span></td>
+<td><span>305 </span></td>
 <td><span>4 </span></td>
 </tr>
 </tbody>
@@ -882,50 +882,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.5316455696202533%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.5157232704402515%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 22.151898734177216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 22.0125786163522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 41.139240506329116%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.880503144654085%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.75949367088608%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.37735849056604%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.74683544303798%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.24528301886792%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.36708860759494%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.74213836477988%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.15189873417722%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 96.54088050314465%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.607594936708864%; top: 94.4773514119433%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.36477987421384%; top: 94.4773514119433%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1010,50 +1010,50 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.5316455696202533%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.5157232704402515%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 22.151898734177216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 22.0125786163522%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 41.139240506329116%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.880503144654085%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 60.75949367088608%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 60.37735849056604%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.74683544303798%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 79.24528301886792%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.36708860759494%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.74213836477988%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.15189873417722%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 96.54088050314465%; top: 1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.607594936708864%; top: 81.9435736677116%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.36477987421384%; top: 81.9435736677116%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

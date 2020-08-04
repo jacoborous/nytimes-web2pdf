@@ -228,8 +228,8 @@ Contributing Opinion Writer
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">6:25 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

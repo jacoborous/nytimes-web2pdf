@@ -223,13 +223,13 @@ story](#after-sponsor)
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 2, 2020, 11:41 p.m.
+<span class="css-1656jku">Aug. 3, 2020, 2:32 a.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 2, 2020, 11:41
-p.m.
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 3, 2020, 2:32
+a.m.
 ET</span>
 
 </div>
@@ -266,14 +266,14 @@ announced.
     coronavirus vaccine project.](#link-18bff79b)
   - [Will sex in a social pod be OK? Colleges prepare to welcome
     students back to a new reality.](#link-79292e3)
+  - [Manila returns to lockdown after opening up leads to a
+    resurgence.](#link-41ce99eb)
   - [Its outbreak untamed, Melbourne, Australia, escalates a
     lockdown.](#link-74f9a2b2)
   - [Lawmakers and White House officials remain at an impasse on a new
     relief package.](#link-1a62dbb2)
   - [Hurricane season in a pandemic: Florida is grazed by a tropical
     storm as virus cases surge.](#link-479653b6)
-  - [A Fed president endorses strict lockdowns to avoid “many more job
-    losses and many more bankruptcies.”](#link-709fc51d)
 
 </div>
 
@@ -635,6 +635,102 @@ It is still possible that the frantic planning will come to naught.
 
 <div class="css-53u6y8">
 
+## 
+
+<div id="link-41ce99eb" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Manila returns to lockdown after opening up leads to a
+resurgence.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A testing
+facility in Quezon City, northeast of Manila in the Philippines last
+week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
+R Cristino/EPA, via Shutterstock</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+President Rodrigo Duterte of the Philippines on Sunday ordered Manila
+and nearby suburban areas to re-enter lockdown for two weeks as the
+health department reported 5,032 new cases.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Group gatherings were prohibited, and the population was advised to stay
+home. Public transportation was halted, domestic flights and
+inter-island ferries remained suspended, and the government encouraged
+biking. Schools will remain shut.
+
+Infections spiked after the government eased lockdown rules and
+gradually opened up in an effort to jump start the economy. But instead
+of managing the numbers, it has resulted in grim results, with hospitals
+overwhelmed and doctors warning they were reaching a breaking point. In
+an appeal to the government on Saturday, the Philippine College of
+Physicians, the country’s main organization of doctors, warned that the
+health system “has been overwhelmed.”
+
+This came shortly after Manila’s city government ordered the temporary
+closure of its two hospitals, citing the growing number of health care
+staff members who have been infected. It said that the city’s health
+care workers are burned out “with the seemingly endless number of
+patients trooping to our hospitals for emergency care and admission.”
+
+Total cases in the country now stand at 103,185, with 2,059 deaths.
+
+Mr. Duterte told officials to “strictly enforce the quarantine,
+especially the lockdown.”
+
+“I have heard the call of different groups from the medical community
+for a two-week enhanced community quarantine in mega Manila,” he said.
+“I fully understand why your health workers would like to ask for such
+a timeout period. They have been in the front lines for months and are
+exhausted.”
+
 global roundup
 
 ## 
@@ -968,7 +1064,7 @@ Here is what else is happening around the country:
   - Five months after the coronavirus engulfed New York City, subway
     ridership is 20 percent of pre-pandemic levels, even as the city has
     largely contained the virus and reopened some businesses. But public
-    transportation may not be as risky as New Yorker’s believed. There
+    transportation may not be as risky as New Yorkers believed. There
     has been no notable superspreader event linked to mass transit,
     according to a survey of transportation agencies [conducted by The
     New York
@@ -1659,10 +1755,10 @@ during the pandemic.
 
 Reporting was contributed by Kevin Armstrong, Peter Baker, Benedict
 Carey, Emily Cochrane, Melina Delkic, Tess Felder, Christina Goldbaum,
-James Gorman, Andrew Higgins, Jennifer Jett, Annie Karni, Natalie
-Kitroeff, Sharon LaFraniere, **** Patrick J. Lyons, Simon Marks,
-Patricia Mazzei, Tara Parker-Pope, Kate Phillips, Jeanna Smialek, Katie
-Thomas, Noah Weiland and Sameer Yasir.
+James Gorman, Jason Gutierrez, Andrew Higgins, Jennifer Jett, Annie
+Karni, Natalie Kitroeff, Sharon LaFraniere, **** Patrick J. Lyons, Simon
+Marks, Patricia Mazzei, Tara Parker-Pope, Kate Phillips, Jeanna Smialek,
+Katie Thomas, Noah Weiland and Sameer Yasir.
 
 </div>
 

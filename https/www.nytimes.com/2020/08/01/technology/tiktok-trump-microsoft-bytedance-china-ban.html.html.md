@@ -255,6 +255,12 @@ McCabe</span>](https://www.nytimes.com/by/david-mccabe)
 
 </div>
 
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
+
+</div>
+
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">

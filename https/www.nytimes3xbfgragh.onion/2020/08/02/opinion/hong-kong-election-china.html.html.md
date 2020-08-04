@@ -218,8 +218,8 @@ Mr. Cheung is a member of the Hong Kong Legislative Council.
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">12:52 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

@@ -175,18 +175,18 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/science/spacex-nasa-return.html)
+    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts/merlin_175216431_287c3773-da04-4003-9cbb-1318c4e80f6e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## SpaceX Crew Dragon and Astronaut Return: When to Watch
+    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
     
-    Bob Behnken and Doug Hurley left the space station on Saturday
-    night, preparing for a Gulf of Mexico splashdown on Sunday.
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since 1975.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -204,6 +204,40 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/science/spacex-nasa-return.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts-chopper/merlin_175248828_3e77d01d-2687-4b20-8ac0-f3fb299a7b7b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975
+    
+    Bob Behnken and Doug Hurley splashed down on Sunday in the Gulf of
+    Mexico in the Crew Dragon spacecraft.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +271,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -271,7 +305,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +346,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +381,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -381,7 +415,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -422,7 +456,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -456,7 +490,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -475,40 +509,6 @@ story](#after-mid1)
     He was pre-eminent in the field of discrete mathematics, coming up
     with “some really pretty cool stuff.” (He was also a world-class
     juggler.)
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/science/solar-orbiter-sun-images.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/16/science/16SOLARORBITER-loop-cover/16SOLARORBITER-loop-cover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Closest Pictures Ever Taken of Sun Show Tiny Campfire Flares
-    
-    Images of the new phenomenon were captured by Solar Orbiter, a joint
-    European-NASA mission to study the sun.
     
     <div class="css-1nqbnmb ea5icrr0">
     

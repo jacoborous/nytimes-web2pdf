@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -336,56 +336,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.6595744680851063%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.6455026455026456%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.085106382978722%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.989417989417987%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.57446808510638%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.39153439153439%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.53191489361702%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.26455026455026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.02127659574468%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.66666666666666%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.97872340425532%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.53968253968253%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.46808510638297%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94179894179894%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.37234042553192%; top: 1.9065776930409868%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.18518518518518%; top: 1.9065776930409868%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.87234042553192%; top: 69.31090834808661%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.148148148148145%; top: 70.7658087067048%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -418,7 +418,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-209,893
+210,402
 
 </div>
 
@@ -434,7 +434,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-9,141
+9,148
 
 </div>
 
@@ -469,23 +469,23 @@ available
 
 [Map](#map)[By state](#states)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 209,800 confirmed cases of coronavirus in
+There have been at least 210,400 confirmed cases of coronavirus in
 Germany, according to the [Robert Koch
 Institute](https://www.rki.de/DE/Home/homepage_node.html), the country’s
-public health institution. As of Sunday morning, 9,141 people had
+public health institution. As of Monday morning, 9,148 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
 
 ### Reported cases in Germany
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;germany&quot;,&quot;data_regions&quot;:&quot;nytgraphics.72ohyv7a&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.72ohyv7a&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.3tktumry&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.d4ywbn72&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.d4ywbn72&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;germany&quot;,&quot;tileset&quot;:&quot;germany&quot;,&quot;data&quot;:&quot;DEU&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;germany&quot;,&quot;data_regions&quot;:&quot;nytgraphics.72ohyv7a&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.72ohyv7a&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.3tktumry&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.d4ywbn72&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.d4ywbn72&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;germany&quot;,&quot;tileset&quot;:&quot;germany&quot;,&quot;data&quot;:&quot;DEU&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;0.8&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -712,73 +712,73 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>North Rhine-Westphalia </span></td>
-<td><span>49,145 </span></td>
-<td><span>274 </span></td>
-<td><span>1,731 </span></td>
+<td><span>49,435 </span></td>
+<td><span>276 </span></td>
+<td><span>1,738 </span></td>
 <td><span>10 </span></td>
-<td><span>1,715 </span></td>
+<td><span>1,964 </span></td>
+<td><span>11 </span></td>
 <td><span>10 </span></td>
-<td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span>Berlin </span></td>
-<td><span>9,319 </span></td>
+<td><span>9,328 </span></td>
 <td><span>256 </span></td>
 <td><span>223 </span></td>
 <td><span>6 </span></td>
-<td><span>328 </span></td>
+<td><span>327 </span></td>
 <td><span>9 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="odd">
 <td><span>Hesse </span></td>
-<td><span>12,117 </span></td>
-<td><span>193 </span></td>
+<td><span>12,142 </span></td>
+<td><span>194 </span></td>
 <td><span>520 </span></td>
 <td><span>8 </span></td>
-<td><span>437 </span></td>
+<td><span>457 </span></td>
 <td><span>7 </span></td>
 <td><span>2 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span>Bavaria </span></td>
-<td><span>51,080 </span></td>
-<td><span>391 </span></td>
-<td><span>2,622 </span></td>
-<td><span>20 </span></td>
-<td><span>798 </span></td>
-<td><span>6 </span></td>
-<td><span>3 </span></td>
-<td><span>&lt;1 </span></td>
-</tr>
-<tr class="odd">
 <td><span>Hamburg </span></td>
-<td><span>5,405 </span></td>
-<td><span>294 </span></td>
+<td><span>5,436 </span></td>
+<td><span>295 </span></td>
 <td><span>261 </span></td>
 <td><span>14 </span></td>
-<td><span>101 </span></td>
-<td><span>5 </span></td>
+<td><span>114 </span></td>
+<td><span>6 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><span>Bremen </span></td>
 <td><span>1,782 </span></td>
 <td><span>261 </span></td>
 <td><span>56 </span></td>
 <td><span>8 </span></td>
-<td><span>36 </span></td>
+<td><span>35 </span></td>
 <td><span>5 </span></td>
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
+<tr class="even">
+<td><span>Bavaria </span></td>
+<td><span>51,156 </span></td>
+<td><span>391 </span></td>
+<td><span>2,622 </span></td>
+<td><span>20 </span></td>
+<td><span>655 </span></td>
+<td><span>5 </span></td>
+<td><span>3 </span></td>
+<td><span>&lt;1 </span></td>
+</tr>
 <tr class="odd">
 <td><span>Schleswig-Holstein </span></td>
-<td><span>3,463 </span></td>
+<td><span>3,467 </span></td>
 <td><span>120 </span></td>
 <td><span>156 </span></td>
 <td><span>5 </span></td>
@@ -800,22 +800,22 @@ in last<br />
 </tr>
 <tr class="odd">
 <td><span>Lower Saxony </span></td>
-<td><span>14,515 </span></td>
+<td><span>14,567 </span></td>
 <td><span>182 </span></td>
 <td><span>653 </span></td>
 <td><span>8 </span></td>
-<td><span>292 </span></td>
+<td><span>326 </span></td>
 <td><span>4 </span></td>
 <td><span>5 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span>Saarland </span></td>
-<td><span>2,879 </span></td>
+<td><span>2,881 </span></td>
 <td><span>291 </span></td>
 <td><span>174 </span></td>
 <td><span>18 </span></td>
-<td><span>29 </span></td>
+<td><span>30 </span></td>
 <td><span>3 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
@@ -924,56 +924,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.6595744680851063%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.6455026455026456%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.085106382978722%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.989417989417987%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.57446808510638%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.39153439153439%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.53191489361702%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.26455026455026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.02127659574468%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.66666666666666%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.97872340425532%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.53968253968253%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.46808510638297%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94179894179894%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.37234042553192%; top: 1.9065776930409868%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.18518518518518%; top: 1.9065776930409868%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.87234042553192%; top: 69.31090834808661%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.148148148148145%; top: 70.7658087067048%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1058,56 +1058,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 2.6595744680851063%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 2.6455026455026456%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.085106382978722%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.989417989417987%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.57446808510638%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.39153439153439%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.53191489361702%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.26455026455026%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.02127659574468%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.66666666666666%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.97872340425532%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.53968253968253%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.46808510638297%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.94179894179894%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 42.28723404255319%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 42.06349206349206%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 54.25531914893617%; top: 63.99092970521542%">
+<div class="pancake-point svelte-11ba04d" style="left: 53.96825396825397%; top: 63.99092970521542%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

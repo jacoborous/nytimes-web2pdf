@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -63,31 +64,6 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
-
 <div id="collection-magazine" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-4svvz1 ekkqrpp0">
@@ -98,11 +74,30 @@ story](#after-top)
 
 ## Highlights
 
-1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
-    Price for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-jumbo-v2.jpg)
+1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
+    Doumbouya for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Talk
+    
+    ## [Padma Lakshmi Wants Us to Eat More Adventurously](/interactive/2020/08/03/magazine/padma-lakshmi-interview.html)
+    
+    “There’s such a laziness about reaching for the thing that is most
+    familiar.”
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Marchese</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
+    Price for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Feature
     
@@ -119,7 +114,7 @@ story](#after-top)
     
     </div>
 
-2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
+3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
     Saman/Magnum, for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-videoLarge.jpg)
     
@@ -140,7 +135,7 @@ story](#after-top)
     
     </div>
 
-3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Daniel
     Barreto</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-videoLarge.jpg)
     
@@ -160,13 +155,19 @@ story](#after-top)
     
     </div>
 
-4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### The Ethicist
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Tomi
     Um</span>](https://static01.nyt.com/images/2020/08/02/magazine/02Ethicist/02Ethicist-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### The Ethicist
     
     ## [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
     
@@ -174,19 +175,13 @@ story](#after-top)
     against personal privacy, and
     more.
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
     Appiah</span></span>
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Eat
+2.  ### Eat
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
     Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
@@ -207,7 +202,7 @@ story](#after-top)
     
     </div>
 
-2.  ### Talk
+3.  ### Talk
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
     Doumbouya for The New York
@@ -226,7 +221,7 @@ story](#after-top)
     
     </div>
 
-3.  ### Diagnosis
+4.  ### Diagnosis
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     illustration by Ina
@@ -246,7 +241,7 @@ story](#after-top)
     
     </div>
 
-4.  ### Letter of Recommendation
+5.  ### Letter of Recommendation
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-videoLarge.jpg)
     
@@ -261,25 +256,6 @@ story](#after-top)
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Bill
     Shapiro</span></span>
-    
-    </div>
-
-5.  ### Screenland
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    illustration by Chris
-    Burnett</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘I May Destroy You’ Is Perfect TV for an Anxious World](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
-    
-    The HBO drama about trauma is possibly the most emblematic show of
-    2020.
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Carina
-    Chocano</span></span>
     
     </div>
 
@@ -484,6 +460,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Screenland</span>
+    
+    ## ‘I May Destroy You’ Is Perfect TV for an Anxious World
+    
+    The HBO drama about trauma is possibly the most emblematic show of
+    2020.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carina
+    Chocano</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/magazine/schools-reopening-covid.html)
     
     <div class="css-79elbk">
@@ -515,7 +527,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -551,7 +563,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -585,7 +597,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -622,7 +634,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -644,42 +656,7 @@ story](#after-mid1)
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Abrahm
-    Lustgarten</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/22/magazine/worst-storms-argentina.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-Relampago-Web-Image/26mag-Relampago-Web-Image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s Going on Inside the Fearsome Thunderstorms of Córdoba Province?
-    
-    Scientists are studying the extreme weather in northern Argentina to
-    see how it works — and what it can tell us about the monster storms
-    in our future.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Noah Gallagher Shannon</span>
+    By <span class="css-1n7hynb">Abrahm Lustgarten</span>
     
     </div>
     

@@ -146,7 +146,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -269,8 +269,14 @@ Mazzei</span>](https://www.nytimes.com/by/patricia-mazzei)
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 2,
+    2020
+    
+    </div>
 
   - 
     
@@ -349,11 +355,12 @@ the administrator for St. Lucie County, on Florida’s Treasure Coast.
 “But we roll with it, right? We don’t get to determine the cards that
 we’re dealt.”
 
-Tropical Storm Isaias threatens the entire East Coast all the way up to
-Maine, but it is the South that has seen a recent dramatic increase in
-new coronavirus cases. Health officials in Georgia, South Carolina and
-North Carolina have warned that hospitals could be strained beyond
-capacity with the flood of new patients.
+Tropical Storm Isaias (which is written Isaías in Spanish and pronounced
+ees-ah-EE-ahs) threatens the entire East Coast all the way up to Maine,
+but it is the South that has seen a recent dramatic increase in new
+coronavirus cases. Health officials in Georgia, South Carolina and North
+Carolina have warned that hospitals could be strained beyond capacity
+with the flood of new patients.
 
 Meantime, emergency management officials [have drawn up special
 plans](https://www.nytimes.com/2020/05/24/us/hurricane-pandemic-coronavirus-florida.html)
@@ -398,7 +405,7 @@ tourists.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T07:42:09.613Z
+Updated 2020-08-02T17:52:35.962Z
 
 </div>
 
@@ -732,10 +739,6 @@ Isaias until late on Thursday.
 
 “It’s like, ‘Oh, something *else*,’” he said. “I’m just waiting for the
 year to be over.”
-
-Patricia Mazzei is the Miami bureau chief for The New York Times. She
-has lived in Miami for the past 17 years; before joining the Times, was
-The Miami Herald’s political writer.
 
 </div>
 

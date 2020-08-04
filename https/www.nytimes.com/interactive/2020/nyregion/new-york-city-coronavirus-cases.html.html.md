@@ -135,7 +135,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -321,44 +321,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.38961038961039%; top: 40.53110584715123%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.16129032258065%; top: 40.53110584715123%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 48.701298701298704%; top: 85.19066023117887%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.387096774193544%; top: 85.19066023117887%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -391,7 +391,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-230,147
+230,410
 
 </div>
 
@@ -407,7 +407,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-23,007
+23,012
 
 </div>
 
@@ -442,22 +442,22 @@ available
 
 [Map](#map)[By ZIP code](#zipcode)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 230,147 cases of coronavirus in New York City,
-according to a New York Times database. As of Sunday morning, at least
-23,007 people had
+There have been at least 230,410 cases of coronavirus in New York City,
+according to a New York Times database. As of Monday morning, at least
+23,012 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map" style="max-width: 720px">
 
 ### Cases in New York City
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;nyc&quot;,&quot;data_regions&quot;:&quot;nytgraphics.1p8wwy9s&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.2vv2w1tk&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.ame0t92s&quot;,&quot;base_regions_lines_thick&quot;:&quot;nytgraphics.0ps6m8hw&quot;,&quot;base_roads&quot;:&quot;nytgraphics.858x9bgj&quot;,&quot;base_urban&quot;:&quot;nytgraphics.2sndioov&quot;,&quot;circles&quot;:&quot;nytgraphics.9qzzrove&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.829qlgj4&quot;,&quot;labels_points&quot;:&quot;x&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;new_york_city&quot;,&quot;tileset&quot;:&quot;nyc&quot;,&quot;data&quot;:&quot;USA-36998&quot;,&quot;data_levels&quot;:&quot;&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;100&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;60&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;1&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;doubling&quot;,&quot;alt_label_style&quot;:&quot;y&quot;,&quot;hide_data_lines&quot;:&quot;y&quot;,&quot;data_borders_stop&quot;:&quot;6&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;,&quot;deaths_percap&quot;]" data-tooltips="{}" data-currentview="percap">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;nyc&quot;,&quot;data_regions&quot;:&quot;nytgraphics.1p8wwy9s&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.2vv2w1tk&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.ame0t92s&quot;,&quot;base_regions_lines_thick&quot;:&quot;nytgraphics.0ps6m8hw&quot;,&quot;base_roads&quot;:&quot;nytgraphics.858x9bgj&quot;,&quot;base_urban&quot;:&quot;nytgraphics.2sndioov&quot;,&quot;circles&quot;:&quot;nytgraphics.9qzzrove&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.829qlgj4&quot;,&quot;labels_points&quot;:&quot;x&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;new_york_city&quot;,&quot;tileset&quot;:&quot;nyc&quot;,&quot;data&quot;:&quot;USA-36998&quot;,&quot;data_levels&quot;:&quot;&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;100&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;60&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;1&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;doubling&quot;,&quot;alt_label_style&quot;:&quot;y&quot;,&quot;hide_data_lines&quot;:&quot;y&quot;,&quot;data_borders_stop&quot;:&quot;6&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;,&quot;deaths_percap&quot;]" data-tooltips="{}" data-currentview="percap">
 
 <div class="e-slip-map-ui">
 
@@ -732,16 +732,16 @@ illness.</span>
 
 |                                                                                                                                                                | Cases               | Per 100,000         | Deaths            | Per 100,000       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- | ----------------- | ----------------- |
-| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>4,974 </span> | <span>4,457 </span> | <span>444 </span> | <span>398 </span> |
-| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,711 </span> | <span>3,682 </span> | <span>319 </span> | <span>317 </span> |
-| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,436 </span> | <span>3,700 </span> | <span>296 </span> | <span>319 </span> |
-| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,231 </span> | <span>3,480 </span> | <span>235 </span> | <span>253 </span> |
-| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,183 </span> | <span>4,451 </span> | <span>361 </span> | <span>505 </span> |
-| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,010 </span> | <span>3,925 </span> | <span>220 </span> | <span>287 </span> |
-| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>2,933 </span> | <span>3,028 </span> | <span>298 </span> | <span>308 </span> |
-| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,817 </span> | <span>3,101 </span> | <span>201 </span> | <span>221 </span> |
-| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,752 </span> | <span>2,945 </span> | <span>290 </span> | <span>310 </span> |
-| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,734 </span> | <span>4,370 </span> | <span>257 </span> | <span>411 </span> |
+| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>4,979 </span> | <span>4,462 </span> | <span>444 </span> | <span>398 </span> |
+| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,714 </span> | <span>3,685 </span> | <span>319 </span> | <span>317 </span> |
+| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,441 </span> | <span>3,705 </span> | <span>296 </span> | <span>319 </span> |
+| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,233 </span> | <span>3,482 </span> | <span>235 </span> | <span>253 </span> |
+| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,184 </span> | <span>4,453 </span> | <span>361 </span> | <span>505 </span> |
+| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,014 </span> | <span>3,931 </span> | <span>220 </span> | <span>287 </span> |
+| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>2,934 </span> | <span>3,030 </span> | <span>298 </span> | <span>308 </span> |
+| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,820 </span> | <span>3,105 </span> | <span>201 </span> | <span>221 </span> |
+| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,757 </span> | <span>2,950 </span> | <span>290 </span> | <span>310 </span> |
+| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,735 </span> | <span>4,372 </span> | <span>257 </span> | <span>411 </span> |
 
 Show all
 
@@ -847,7 +847,7 @@ this article are being updated several times a day based on the latest
 information our journalists are gathering from around the country.
 
 Follow our coverage of the [coronavirus pandemic
-here.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+here.](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 <div id="cases" class="g-asset g-svelte" style="max-width: 600px">
 
@@ -926,44 +926,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.38961038961039%; top: 40.53110584715123%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.16129032258065%; top: 40.53110584715123%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 48.701298701298704%; top: 85.19066023117887%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.387096774193544%; top: 85.19066023117887%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1065,37 +1065,37 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20.12987012987013%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.61038961038961%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 39.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.74025974025974%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.354838709677416%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 79.22077922077922%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 78.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.35064935064935%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.70967741935483%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.24675324675324%; top: 22.839506172839506%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.74193548387096%; top: 22.839506172839506%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Many
 deaths from unspecified
@@ -1103,14 +1103,14 @@ days</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.44155844155844%; top: 44.93827160493827%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.225806451612904%; top: 44.93827160493827%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 42.20779220779221%; top: 73.31569664902999%">
+<div class="pancake-point svelte-11ba04d" style="left: 41.935483870967744%; top: 73.31569664902999%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1119,7 +1119,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 23.376623376623378%; top: 0%; width: 0.65%"></span><span class="break svelte-1iuahvx" style="left: 31.818181818181817%; top: 0%; width: 0.65%"></span>
+<span class="break svelte-1iuahvx" style="left: 23.225806451612904%; top: 0%; width: 0.65%"></span><span class="break svelte-1iuahvx" style="left: 31.612903225806452%; top: 0%; width: 0.65%"></span>
 
 </div>
 

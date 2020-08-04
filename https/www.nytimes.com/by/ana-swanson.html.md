@@ -175,6 +175,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    
+    The announcement came after the company consulted with President
+    Trump, who has threatened to ban the app and expressed national
+    security concerns about it in recent weeks.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
+    <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/technology/tiktok-microsoft.html)
     
     <div class="css-79elbk">
@@ -204,7 +240,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +275,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -264,7 +300,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -295,7 +331,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -336,7 +372,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -367,7 +403,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -407,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +483,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -477,48 +513,6 @@ story](#after-mid1)
     <div class="css-185051n">
     
     [阅读简体中文版](https://cn.nytimes.com/business/20200721/china-sanctions-uighurs-labor/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200721/china-sanctions-uighurs-labor/zh- "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/technology/tiktok-washington-lobbyist.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/15/business/15DC-TikTok-promo/merlin_174438417_a3c05ec9-dde3-4af9-a8fc-9725ee1c208a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## TikTok Enlists Army of Lobbyists as Suspicions Over China Ties Grow
-    
-    The viral social media app has beefed up its lobbying operation to
-    counter several potential actions in Washington that could threaten
-    the company’s future.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Cecilia Kang, Lara Jakes, Ana Swanson
-    <span>and</span> David
-    McCabe</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/technology/20200716/tiktok-washington-lobbyist/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200716/tiktok-washington-lobbyist/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

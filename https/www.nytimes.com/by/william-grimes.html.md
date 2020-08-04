@@ -172,7 +172,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

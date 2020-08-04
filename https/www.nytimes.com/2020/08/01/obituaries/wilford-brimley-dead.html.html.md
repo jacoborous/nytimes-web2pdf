@@ -118,6 +118,7 @@ Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -206,9 +207,11 @@ films.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Wilford
-Brimley in a scene from “Absence of
-Malice.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Columbia
-Pictures</span></span></span>](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
+Brimley in a scene from “Absence of Malice.” “I’m never the leading
+man,” he said in 1993. “I never get the girl. And I never get to take
+my shirt
+off.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Columbia
+Pictures</span></span></span>](https://static01.nyt.com/images/2020/08/03/world/00brimley/00brimley-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -231,9 +234,8 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 2, 2020,
-    <span class="css-epvm6">12:25 a.m.
-    ET</span>
+    Aug. 1,
+    2020
     
     </div>
 
@@ -241,7 +243,7 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -252,6 +254,7 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -270,11 +273,11 @@ Grimes</span>](https://www.nytimes.com/by/william-grimes)
 
 Wilford Brimley, a portly actor with a walrus mustache who found his
 niche playing cantankerous coots in “Absence of Malice,” “The Natural,”
-“Cocoon” and other films, died on Saturday at age 85.
+“Cocoon” and other films, died on Saturday in a hospital in St.
+George, Utah. He was 85.
 
-Mr. Brimley had been sick for two months with a kidney ailment, said his
-agent, Lynda Bensky. He died in a hospital in St. George, Utah, where
-the actor had a home.
+He had been sick for two months with a kidney ailment, said his agent,
+Lynda Bensky.
 
 Mr. Brimley had played the Walton Mountain resident Horace Brimley in a
 recurring role on the television series “The Waltons” when Michael
@@ -286,6 +289,10 @@ crusading television reporter played by Jane Fonda, Mr. Brimley
 delivered an impassioned defense of his boss (Jack Lemmon), who had
 precipitated a crisis to draw public attention to defects at the plant.
 
+In an article for The New York Times singling out Mr. Brimley as a
+talent to watch, Janet Maslin called him “the mustachioed man who very
+nearly steals the ending of ‘China Syndrome’ from Jane Fonda.”
+
 </div>
 
 </div>
@@ -293,10 +300,6 @@ precipitated a crisis to draw public attention to defects at the plant.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-In an article for The New York Times singling out Mr. Brimley as a
-talent to watch, Janet Maslin called him “the mustachioed man who very
-nearly steals the ending of ‘China Syndrome’ from Jane Fonda.”
 
 Mr. Brimley followed up with a small but memorable performance as a
 pugnacious district attorney in [“Absence of
@@ -313,6 +316,18 @@ pool.
 “Wilford’s a testy guy, not an easy guy to work with all the time, but
 he has great instincts,” Mr. Howard told The Times in 1985. “Many of his
 scenes were totally improvised.”
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 In the 1980s and 1990s Mr. Brimley was a television fixture as a
 spokesman for [Quaker
@@ -352,6 +367,34 @@ took nonspeaking roles on horseback. He appeared as a stuntman in
 “Bandolero\!,” in an uncredited role in “True Grit” and as a
 blacksmith in the television series “Kung Fu.”
 
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true"> The
+film’s director, Ron Howard, said of Mr. Brimley: “Wilford’s a testy
+guy, not an easy guy to work with all the time, but he has great
+instincts. Many of his scenes were totally
+improvised.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>United
+Archives
+GmbH/Alamy</span></span>](https://static01.nyt.com/images/2020/08/03/obituaries/01brimley-cocoon/01brimley-cocoon-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 After “The China Syndrome,” he worked steadily. He played Harry, the
 former manager of the country singer played by Robert Duvall, in
 [“Tender
@@ -365,10 +408,6 @@ opinionated but lovable grandfather in the NBC series “Our House,” yet
 again confounding the usual Hollywood aging process by portraying, in
 his early 50s, a character who was 65.
 
-“I’m never the leading man,” he told The Dallas Morning News in 1993. “I
-never get the girl. And I never get to take my shirt off. I started by
-playing fathers to guys who were 25 years older than I was.”
-
 </div>
 
 </div>
@@ -376,6 +415,10 @@ playing fathers to guys who were 25 years older than I was.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“I’m never the leading man,” he told The Dallas Morning News in 1993. “I
+never get the girl. And I never get to take my shirt off. I started by
+playing fathers to guys who were 25 years older than I was.”
 
 In part because of his television commercials, Mr. Brimley made the
 transition from actor to comic source material. John Goodman did a
@@ -390,10 +433,12 @@ With the Jeff Hamilton Trio.” He could more than hold his own as a
 [guitarist](https://www.youtube.com/watch?v=WAft2naOgGc "Brimley on guitar")
 too.
 
-Mr. Wilford’s first wife, the former Lynne Bagley, died in 2000. He is
+Mr. Brimley’s first wife, the former Lynne Bagley, died in 2000. He is
 survived by his wife, Beverly, and three sons from his first marriage,
-James, John and William; complete information on other survivors was not
-available on Saturday night.
+James, John and William. Another son, Lawrence, died in
+infancy.<span class="css-8l6xbc evw5hdy0"> </span>Complete information
+on other survivors was not immediately
+available.<span class="css-8l6xbc evw5hdy0"> </span>
 
 As Mr. Howard noted, Mr. Brimley came by his
 [cussedness](https://www.youtube.com/watch?v=DLqX7Vi9yT8&list=PLy1Yuw2wBXtCMd3A4mbt2x4Z8ty3S_YFF "Brimley appearance on Craig Ferguson talk show")naturally.

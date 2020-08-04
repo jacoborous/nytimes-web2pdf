@@ -220,8 +220,8 @@ Smith</span>](https://www.nytimes3xbfgragh.onion/by/ben-smith)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 2, 2020Updated <span class="css-epvm6">11:48 p.m.
-    ET</span>
+    Aug. 2,
+    2020
     
     </div>
 
@@ -229,7 +229,7 @@ Smith</span>](https://www.nytimes3xbfgragh.onion/by/ben-smith)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

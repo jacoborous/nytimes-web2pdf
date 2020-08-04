@@ -210,7 +210,7 @@ James Silberman in an undated photo. He helped propel the careers of a
 distinguished roster of authors.
 </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>via
 Silberman
-family</span></span></span>](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+family</span></span></span>](https://static01.nyt.com/images/2020/08/03/obituaries/Silberman1/Silberman1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -344,8 +344,8 @@ Books.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Among the
 noteworthy books Mr. Silberman published were novels by James Baldwin
-and Marilyn French.
-</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>.</span></span>](https://static01.nyt.com/images/2020/07/30/obituaries/30Silberman2/30Silberman2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+and Marilyn
+French.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>.</span></span>](https://static01.nyt.com/images/2020/08/03/obituaries/30Silberman2/30Silberman2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

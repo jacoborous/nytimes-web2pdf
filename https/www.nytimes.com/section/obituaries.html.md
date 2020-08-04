@@ -131,11 +131,48 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
-    James
-    Hanson</span>](https://static01.nyt.com/images/2020/07/28/obituaries/00ladyred/merlin_175015461_8055e454-898c-4072-8dc9-1547fb7d253c-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
+    Kuykendal for The New York
+    Times</span>](https://static01.nyt.com/images/2019/08/29/obituaries/00fleisher1/merlin_18504701_f19acbe9-202c-4815-bd7c-0e86390beb86-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
+    
+    Unable to use his right hand, he performed pieces written for left
+    hand only, conducted and taught. After 30 years, he made a
+    triumphant two-handed
+    comeback.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Allan
+    Kozinn</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Columbia
+    Pictures</span>](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](/2020/08/01/obituaries/wilford-brimley-dead.html)
+    
+    Recognizable by his walrus mustache, the actor specialized in
+    playing cantankerous characters in “Absence of Malice,” “The
+    Natural” and other
+    films.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">William
+    Grimes</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
+    James
+    Hanson</span>](https://static01.nyt.com/images/2020/08/03/obituaries/00ladyred/00ladyred-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43](/2020/08/01/arts/lady-red-couture-dead.html)
     
@@ -149,7 +186,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Silberman
     family</span>](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-videoLarge.jpg)
     
@@ -165,42 +202,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sam
     Roberts</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amy
-    Sancetta/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
-    
-    Her near-total face transplant in 2008 was the most complex at the
-    time. She was the fourth patient in the world to undergo such a
-    procedure.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Bryan
-    Pietsch</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    SRI
-    International</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [William English, Who Helped Build the Computer Mouse, Dies at 91](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
-    
-    He was one of the computing pioneers who “showed what a computer
-    interface could — and should — look like,” a colleague
-    said.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Cade
-    Metz</span></span>
     
     </div>
 
@@ -224,7 +225,43 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amy
+    Sancetta/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    
+    Her near-total face transplant in 2008 was the most complex at the
+    time. She was the fourth patient in the world to undergo such a
+    procedure.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Bryan
+    Pietsch</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    SRI
+    International</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [William English, Who Helped Build the Computer Mouse, Dies at 91](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
+    
+    He was one of the computing pioneers who “showed what a computer
+    interface could — and should — look like,” a colleague
+    said.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Cade
+    Metz</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
     Pictures</span>](https://static01.nyt.com/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -241,25 +278,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>J.
-    Emilio Flores for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/obituaries/Gnaizda-1/Gnaizda-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Robert Gnaizda, Lawyer Who Fought for Social Justice, Dies at 83](/2020/08/01/us/robert-gnaizda-dead.html)
-    
-    He challenged redlining banks, employers who discriminated in hiring
-    and, early in his career, Southern counties that thwarted Black
-    voters.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sam
-    Roberts</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fred
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fred
     Jewell/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/01/obituaries/01McNamara-obit1/McNamara1-videoLarge.jpg)
     
@@ -275,25 +294,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Richard
     Sandomir</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Johnson, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02malik-obit/31malik-sub-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Malik B., Longtime Member of the Roots, Is Dead at 47](/2020/07/31/arts/music/malik-b-dead.html)
-    
-    He brought his understatedly gritty lyrics and cadence to the band
-    during its formative years. After he went solo, he dropped in on a
-    few Roots
-    albums.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julia
-    Carmel</span></span>
     
     </div>
 
@@ -575,41 +575,6 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/obituaries/wilford-brimley-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85
-    
-    Recognizable by his walrus mustache, the actor specialized in
-    playing cantankerous characters in “Absence of Malice,” “The
-    Natural” and other films.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">William
-    Grimes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/interactive/2020/07/31/briefing/troops-baseball-louie-gohmert-news-quiz.html)
     
     <div class="css-79elbk">
@@ -638,7 +603,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+2.  
     
     <div class="css-1cp3ece">
     
@@ -673,7 +638,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -708,7 +673,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -744,7 +709,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -785,7 +750,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -820,7 +785,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -857,7 +822,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -891,7 +856,7 @@ story](#after-mid2)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -915,7 +880,42 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alex Traub</span>
+    By <span class="css-1n7hynb">Alex
+    Traub</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/arts/music/bent-fabric-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/obituaries/28fabric1-print/28fabric1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Bent Fabric, Pianist and Composer Known for ‘Alley Cat,’ Dies at 95
+    
+    A simple tune with an old-time feel, it could embed itself in the
+    listener’s ear as if on a continuous loop. In 1962, it became a
+    worldwide hit.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katharine Q. Seelye</span>
     
     </div>
     

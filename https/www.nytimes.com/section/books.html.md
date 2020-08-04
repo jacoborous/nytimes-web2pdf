@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-books" class="section css-15h4p1b e9abtgs0">
 
@@ -143,49 +167,24 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mae
+    Astute/Walt Disney Television via Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/03/books/03Meyer/03Meyer-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+    [![](https://static01.nyt.com/images/2020/08/03/books/03Meyer/03Meyer-thumbStandard.jpg)](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
     
     </div>
     
-    ### Books of The Times
+    ## [Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
     
-    ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
-    
-    Wilkerson’s new book makes unsettling comparisons between India’s
-    treatment of its untouchables, Nazi Germany’s treatment of Jews and
-    America’s treatment of
-    African-Americans.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dwight
-    Garner</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
-    Barnes for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-jumbo-v4.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard-v4.jpg)](/2020/07/31/books/raven-leilani-luster.html)
-    
-    </div>
-    
-    ## [Raven Leilani, a Flâneur Who Is Going Places](/2020/07/31/books/raven-leilani-luster.html)
-    
-    The novelist’s debut, “Luster,” is winning accolades for its
-    unfiltered depiction of sex, failure and a Black woman adrift in
-    work and
-    life.
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she
+    says.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Concepción de
@@ -193,51 +192,78 @@ story](#after-sponsor)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [13 Books to Watch For in August](/2020/07/30/books/new-august-books.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-thumbStandard.jpg)](/2020/07/30/books/new-august-books.html)
-        
-        </div>
-        
-        Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
-        examination of American racism, a biography of the drug kingpin
-        El Chapo, and plenty
-        more.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joumana
-        Khatib</span></span>
-        
-        </div>
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/RashValley/RashValley-jumbo.jpg)
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-videoLarge-v2.png)
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/07/31/books/RashValley/RashValley-thumbStandard-v2.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    
+    </div>
+    
+    ### Books of The Times
+    
+    ## [Lady Macbeth in Appalachia, and Other Tales by an American Master](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    
+    With a new collection, “In the Valley,” Ron Rash revisits the
+    monstrous protagonist of “Serena” and plumbs the depths of Southern
+    hearts.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Janet
+    Maslin</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
         ### Books of The Times
         
-        ## [New Looks at the Fate of Foreigners in America, From the Privileged to the Most Vulnerable](/2020/07/30/books/review-threat-dissent-julia-rose-kraut-separated-jacob-soboroff.html)
+        ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-thumbStandard.png)](/2020/07/30/books/review-threat-dissent-julia-rose-kraut-separated-jacob-soboroff.html)
+        [![](https://static01.nyt.com/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
         
         </div>
         
-        Taken together, Julia Rose Kraut’s “Threat of Dissent” and Jacob
-        Soboroff’s “Separated” give a sense of how U.S. immigration laws
-        can be
-        weaponized.
+        Wilkerson’s new book makes unsettling comparisons between
+        India’s treatment of its untouchables, Nazi Germany’s
+        treatment of Jews and America’s treatment of
+        African-Americans.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-        Szalai</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Dwight
+        Garner</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
+        Barnes for The New York
+        Times</span>](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-videoLarge-v4.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Raven Leilani, a Flâneur Who Is Going Places](/2020/07/31/books/raven-leilani-luster.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard-v4.jpg)](/2020/07/31/books/raven-leilani-luster.html)
+        
+        </div>
+        
+        The novelist’s debut, “Luster,” is winning accolades for its
+        unfiltered depiction of sex, failure and a Black woman adrift in
+        work and
+        life.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Concepción
+        de
+    León</span></span>
         
         </div>
 
@@ -266,7 +292,24 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [13 Books to Watch For in August](/2020/07/30/books/new-august-books.html)
+    
+    Stephenie Meyer’s retelling of “Twilight,” Isabel Wilkerson’s
+    examination of American racism, a biography of the drug kingpin El
+    Chapo, and plenty
+    more.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joumana
+    Khatib</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
     left: Ellie Smith for The New York Times; Tamara Gajic for The New
     York Times; Andrew Mangum for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-videoLarge.jpg)
@@ -283,22 +326,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alex
     Marshall</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/books/oakImage-1595952431918/oakImage-1595952431918-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Essential Tana French](/2020/07/29/books/the-essential-tana-french.html)
-    
-    If you want to brush up before her new novel arrives this fall,
-    here’s your
-    guide.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Janet
-    Maslin</span></span>
     
     </div>
 
@@ -367,7 +394,24 @@ story](#after-mid1)
 [More in Books of The Times
     »](/column/books-of-the-times)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-videoLarge-v2.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [New Looks at the Fate of Foreigners in America, From the Privileged to the Most Vulnerable](/2020/07/30/books/review-threat-dissent-julia-rose-kraut-separated-jacob-soboroff.html)
+    
+    Taken together, Julia Rose Kraut’s “Threat of Dissent” and Jacob
+    Soboroff’s “Separated” give a sense of how U.S. immigration laws can
+    be
+    weaponized.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
+    Szalai</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -383,7 +427,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-videoLarge.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -400,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/30/books/29BOOKSULLIVAN1/29BOOKSULLIVAN1-videoLarge.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/30/books/29BOOKSULLIVAN1/29BOOKSULLIVAN1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -416,7 +460,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/23/books/22BOOKSMITH1/22BOOKSMITH1-videoLarge.png)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/23/books/22BOOKSMITH1/22BOOKSMITH1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -429,23 +473,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">John
     Williams</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/07/22/books/21BOOKTREBEK1/21BOOKTREBEK1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In Alex Trebek’s Reluctant, Moving Memoir, Life Is All About the Next Question](/2020/07/21/books/review-answer-is-alex-trebek-jeopardy-memoir.html)
-    
-    The longtime “Jeopardy\!” host writes about his struggle with
-    pancreatic cancer in “The Answer Is...,” but saves most of the room
-    for gratitude and
-    enthusiasms.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Parul
-    Sehgal</span></span>
     
     </div>
 
@@ -480,11 +507,154 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fiction</span>
+    
+    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    
+    In “Kings County,” David Goodwillie examines New York’s most
+    celebrated borough with an uncynical eye.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adelle
+    Waldman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">nonfiction</span>
+    
+    ## Why the U.S. Dropped Atomic Bombs on Japan
+    
+    Marc Gallicchio’s “Unconditional” details debates in both Japan and
+    the United States to end World War II.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Richard J.
+    Samuels</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Nonfiction</span>
+    
+    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
+    
+    “Wandering in Strange Lands” traces the author’s ancestry — and the
+    history of African-American oppression — along the footsteps of the
+    Great Migration.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Afua
+    Hirsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    
+    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
+    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elisabeth
+    Egan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/books/james-silberman-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -509,7 +679,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -545,7 +715,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -581,7 +751,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -617,7 +787,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -654,7 +824,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -678,145 +848,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby
-    Sher</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/the-brave-james-bird.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Children’s Books</span>
-    
-    ## A Native American Coming-of-Age and the Uses of Enchantment
-    
-    In James Bird’s “The Brave,” a boy bullied for his numeric mind
-    undergoes a metamorphosis when he’s sent to live on a reservation
-    with his Native American mother.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David
-    Treuer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/biography-of-resistance-muhammad-zaman-clean-james-hamblin-the-sensitives-oliver-broudy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Shortlist-Microscope/02Shortlist-Microscope-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Shortlist</span>
-    
-    ## New Books Take You Through the Microscope to the World of Pathogens
-    
-    Authors explore the way the invisible world impacts our lives, from
-    bacteria that are resistant to antibiotics to the beneficial
-    biodiversity on our skin.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rob
-    Dunn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/new-paperbacks.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/books/02PAPERROW-GRID/02PAPERROW-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## New in Paperback: ‘This Land Is Our Land’ and ‘Your House Will Pay’
-    
-    Six new paperbacks to check out this week.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jennifer
-    Krauss</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/books/review/on-hamlets-origins-and-other-letters-to-the-editor.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/books/review/19Brooks-COVER/19Brooks-COVER-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## On Hamlet’s Origins and Other Letters to the Editor
-    
-    Readers respond to recent issues of the Sunday Book Review.
-    
-    <div class="css-1nqbnmb ea5icrr0">
+    By <span class="css-1n7hynb">Abby Sher</span>
     
     </div>
     

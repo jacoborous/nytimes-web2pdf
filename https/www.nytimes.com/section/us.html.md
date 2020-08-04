@@ -155,105 +155,101 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    Widmer for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/02/us/SUB02virus-stateofthevirus/01virus-stateofthevirus01-thumbStandard.jpg)](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+    [![](https://static01.nyt.com/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/03/us/isaias-storm-updates.html)
     
     </div>
     
-    ## [After Plummeting, the Virus Soars Back in the Midwest](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
+    ## [Isaias Live Updates: Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
     
-    States like Missouri, Illinois and Wisconsin are riding a
-    frustrating seesaw during the pandemic, with new coronavirus cases
-    rising again after apparent
-    progress.
+    Isaias regained strength into a Category 1 hurricane on Monday
+    night, bringing heavy winds and rain to the East Coast. Flash
+    flooding and tornadoes are
+        possible.
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Julie Bosman</span>,
-    <span class="css-1baulvz" itemprop="name">Manny Fernandez</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Thomas
-    Fuller</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
+        Martinez for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/02/us/02storm-1/merlin_175215639_9253d98f-4c76-4648-9f8c-8436a3490656-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-thumbStandard.jpg)](/2020/08/01/us/hurricane-isaias-track.html)
+        [![](https://static01.nyt.com/images/2020/08/02/us/02storm-1/02storm-1-thumbStandard.jpg)](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
         
         </div>
         
-        ## [Isaias Live Updates: Storm Weakens as It Churns Toward Florida After Hitting Bahamas](/2020/08/01/us/hurricane-isaias-track.html)
+        ## [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
         
-        The tropical storm is expected to be upgraded to a hurricane
-        again overnight and may hit Florida’s coast, further testing a
-        state that has been battered by the coronavirus
-        pandemic.
+        The Florida coast was spared severe damage on Sunday, but much
+        of the Eastern Seaboard is threatened with flooding
+        rains.
         
-        <span class="css-me3p27"></span>
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Rebecca
+        Halleck</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
-        Mast for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+        Robison/The Northeast Mississippi Daily Journal, via Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/01/us/01virus-schools01/01virus-schools01-thumbStandard.jpg)](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+        [![](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-thumbStandard.jpg)](/2020/08/03/us/school-closing-coronavirus.html)
         
         </div>
         
-        ## [A School Reopens, and the Coronavirus Creeps In](/2020/08/01/us/schools-reopening-indiana-coronavirus.html)
+        ## [As the Coronavirus Comes to School, a Tough Choice: When to Close](/2020/08/03/us/school-closing-coronavirus.html)
         
-        As more schools abandon plans for in-person classes, one that
-        opened in Indiana this week had to quarantine students within
-        hours.
+        As schools in the South and the Midwest reopen this week,
+        officials must decide what steps to take as staff members and
+        students test
+        positive.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Eliza Shapiro</span>,
-        <span class="css-1baulvz" itemprop="name">Giulia McDonnell Nieto
-        del Rio</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Shawn
+        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Shawn
         Hubler</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
-        Lapetina for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+        Rayford/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/03isaias-01-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbStandard.jpg)](/2020/08/01/us/eid-al-adha-coronavirus.html)
+        [![](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/03isaias-01-thumbStandard.jpg)](/2020/08/03/us/isaias-east-coast-landfall.html)
         
         </div>
         
-        ### Race/Related
+        ## [East Coast Braces for Floods and Wind as Isaias Intensifies](/2020/08/03/us/isaias-east-coast-landfall.html)
         
-        ## [Celebrating Eid al-Adha Amid a Pandemic](/2020/08/01/us/eid-al-adha-coronavirus.html)
-        
-        With socially distanced gatherings now the norm, we talked to a
-        few people about how they planned to celebrate one of Islam’s
-        holiest
-        days.
+        A heavy soaking is expected in the Carolinas and Maryland, with
+        tropical storm warnings and watches in effect all the way up the
+        Eastern
+        Seaboard.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Fahima
-        Haque</span></span>
+        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Lucy
+        Tompkins</span></span>
         
         </div>
 
@@ -311,26 +307,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/florida-hurricane-isaias-coronavirus.html)
+    [](/2020/08/04/us/wyoming-hot-air-balloons-crash.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02virus-floridastorm-1/merlin_175209375_a3ff0f8e-a302-461a-a795-c76e4cf3f1ab-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">MIAMI JOURNAL</span>
+    ## 3 Hot Air Balloons in Wyoming Crash Into Ground
     
-    ## Florida’s Summer of Dread
-    
-    The coronavirus had entrenched itself in communities from Pensacola
-    to Key West, killing more than 7,000 Floridians. Then came Tropical
-    Storm Isaias.
+    “You didn’t know when it was going to stop,” said one passenger.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Patricia
-    Mazzei</span>
+    By <span class="css-1n7hynb">Azi Paybarah <span>and</span> Alex
+    Traub</span>
     
     </div>
     
@@ -348,24 +340,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    [](/2020/08/03/us/racism-massachusetts-grandfathering.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03xp-grandfathering/03xp-grandfathering-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    ## Massachusetts Court Won’t Use Term ‘Grandfathering,’ Citing Its Racist Origins
     
-    Her near-total face transplant in 2008 was the most complex at the
-    time. She was the fourth patient in the world to undergo such a
-    procedure.
+    The practice was “adopted by some states after the Civil War in an
+    effort to disenfranchise African-American voters,” the court noted.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryan
-    Pietsch</span>
+    By <span class="css-1n7hynb">Azi
+    Paybarah</span>
     
     </div>
     
@@ -383,24 +374,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/trader-joes-jose-ming-joe-san.html)
+    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/19/multimedia/19xp-trader-joes-pix/19xp-trader-joes-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trader Joe’s Defends Product Labels Criticized as Racist
+    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
     
-    The company had previously said the names of international-themed
-    products that were intended to promote inclusiveness, such as Trader
-    José and Trader Ming’s, “may now have the opposite effect.”
+    Merritt Corrigan, the former deputy White House liaison for the U.S.
+    Agency for International Development, had drawn scrutiny shortly
+    after being named to the position.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Pranshu
+    Verma</span>
     
     </div>
     
@@ -418,24 +409,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
+    [](/video/us/100000007271181/california-virus-cases-trend-down.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
-    than 21 years of service took effect on Saturday, the same day his
-    sharply critical op-ed of the president was published.
+    ## Coronavirus Cases ‘Trending Down’ in California, Governor Says
+    
+    Gov. Gavin Newsom said on Monday that the total number of people
+    testing positive for the coronavirus was on the decline.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eric
-    Schmitt</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -453,25 +445,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01dc-murphy-search/merlin_175080105_075defb4-72fe-4589-90d0-601ba0ebac78-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Homeland Security Reassigns Official Whose Office Compiled Intelligence on Journalists
+    ## Trump Again Assails Mail-In Voting
     
-    Brian Murphy’s office compiled reports of protesters and journalists
-    who were covering the Trump administration’s response to unrest in
-    Portland, Ore., last month.
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Adam
-    Goldman</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -489,24 +480,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/salmonella-outbreak-onions.html)
+    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Red Onions Linked to Salmonella Outbreak, Officials Say
+    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
     
-    More than 500 cases and at least 75 hospitalizations have been
-    reported in the United States and Canada, the health authorities
-    said.
+    As his top advisers met with Democratic leaders to try to hash out a
+    compromise, President Trump hurled insults at Democrats and mused
+    aloud about short-circuiting the talks and acting on his own.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christina
-    Morales</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -524,23 +516,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/video/us/100000007271090/north-carolina-isaias-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    ## N.C. Governor Tells Residents to ‘Take This Storm Seriously’
+    
+    Gov. Roy A. Cooper urged North Carolinians on Monday to properly
+    prepare for Tropical Storm Isaias.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -558,24 +552,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
+    [](/2020/08/03/us/politics/joe-biden-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/01dc-biden-lobby1/01dc-biden-lobby1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Biden Faces Pressure From Left Over Influence Industry Ties
+    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    Many of his aides and close allies are veteran Washington hands who
-    have profited from advising big corporations. The Sanders-Warren
-    wing of the party is not happy.
+    ## Why Biden Won’t Find His Biden
+    
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were “simpatico.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
-    Thrush</span>
+    By <span class="css-1n7hynb">Lisa
+    Lerer</span>
     
     </div>
     
@@ -593,26 +588,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/eid-al-adha-coronavirus.html)
+    [](/2020/08/03/us/coronavirus-today.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/01racerelated-eid/01racerelated-eid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Race/Related</span>
+    ## Coronavirus Briefing: What Happened Today
     
-    ## Celebrating Eid al-Adha Amid a Pandemic
-    
-    With socially distanced gatherings now the norm, we talked to a few
-    people about how they planned to celebrate one of Islam’s holiest
-    days.
+    The school year is underway in some parts of the United States — and
+    we’re already seeing how fraught reopening classrooms can be.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Fahima
-    Haque</span>
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
     
     </div>
     
@@ -630,25 +622,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/politics/trump-books.html)
+    [](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/us/politics/01trump-books-final/01trump-books-final-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options
     
-    ## In Trumpworld, the Grown-Ups in the Room All Left, and Got Book Deals
-    
-    A large club of Trump administration evictees have turned their
-    bracingly bad experiences into a new genre: political revenge
-    literature.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls, N.Y.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Lyall</span>
+    By <span class="css-1n7hynb">Annie Karni</span>
     
     </div>
     

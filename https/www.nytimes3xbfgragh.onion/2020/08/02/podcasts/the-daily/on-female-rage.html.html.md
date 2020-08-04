@@ -536,8 +536,8 @@ Daily</span>](https://www.nytimes3xbfgragh.onion/column/the-daily)
 
 <div class="css-1tlsmx">
 
-Aug. 2, 2020, <span class="css-epvm6">8:59 a.m.
-ET</span>
+Aug. 2,
+2020
 
 <div>
 

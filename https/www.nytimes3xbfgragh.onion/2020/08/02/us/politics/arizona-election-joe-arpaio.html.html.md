@@ -229,8 +229,8 @@ Stephenson</span>
 
 </div>
 
-  - Aug. 2, 2020, <span class="css-epvm6">3:50 p.m.
-    ET</span>
+  - Aug. 2,
+    2020
 
   - 
     

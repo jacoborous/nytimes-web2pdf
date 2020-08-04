@@ -241,7 +241,7 @@ Bennhold</span>](https://www.nytimes.com/by/katrin-bennhold)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1,
+    Published Aug. 1, 2020Updated Aug. 2,
     2020
     
     </div>
@@ -250,7 +250,7 @@ Bennhold</span>](https://www.nytimes.com/by/katrin-bennhold)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -330,7 +330,7 @@ infiltrated by extremists in the nation’s special forces.
 
 But the Nordkreuz case, which only recently came to trial after being
 uncovered more than three years ago, shows that the problem of far-right
-infiltration is neither new nor confined to to the KSK, or even the
+infiltration is neither new nor confined to the KSK, or even the
 military.
 
 Far-right extremism penetrated multiple layers of German society in the
@@ -661,8 +661,8 @@ prepping.’’
 
 <div class="css-53u6y8">
 
-And, he said, they had seen one system collapse. “You learn how to read
-between the lines. It’s an advantage.”
+And, he said, they had already seen one system collapse. “You learn how
+to read between the lines. It’s an advantage.”
 
 Through 2016, as hundreds of thousands more migrants arrived in Germany
 and a number of Islamist terrorist attacks took place in Europe, the
@@ -715,7 +715,7 @@ in what had become a concentrated cell within Nordkreuz.
 
 Among the others present were two men now under investigation on
 suspicion of plotting terrorism. Under German law, they cannot be fully
-named. One was Haik J., who like Mr. Gross was police officer. Another
+named. One was Haik J., who like Mr. Gross was a police officer. Another
 was a lawyer and local politician, Jan Henrik H. Both declined to speak
 with me.
 

@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 2, 2020, 12:18 A.M.
+Times</span>Updated August 3, 2020, 1:51 A.M.
 E.T.
 
 </div>
@@ -314,56 +314,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5434782608695652%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.304347826086957%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.15217391304348%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.45652173913043%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.30434782608695%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.6086956521739%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45652173913042%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.51086956521739%; top: 26.71953637334147%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.32432432432432%; top: 26.71953637334147%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.28260869565217%; top: 60.378221747750494%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 60.378221747750494%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -399,7 +399,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-247,832
+248,070
 
 </div>
 
@@ -415,7 +415,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-35,146
+35,154
 
 </div>
 
@@ -450,23 +450,23 @@ available
 
 [Map](#map)[By region and province](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/02/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 247,800 confirmed cases of coronavirus in
+There have been at least 248,000 confirmed cases of coronavirus in
 Italy, according to the [Italian Department of Civil
-Protection](https://github.com/pcm-dpc/COVID-19). As of Sunday morning,
-35,146 people had
+Protection](https://github.com/pcm-dpc/COVID-19). As of Monday morning,
+35,154 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
 
 ### Reported cases in Italy
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;italy&quot;,&quot;data_regions&quot;:&quot;nytgraphics.1hbz60bm&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.1hbz60bm&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.a7wo22s9&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.2c6wnemo&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.2c6wnemo&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;italy&quot;,&quot;tileset&quot;:&quot;italy&quot;,&quot;data&quot;:&quot;ITA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;[[6.528962, 47.184669], [18.651589, 36.502589]]&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;ignore_children&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;y&quot;,&quot;aspect_ratio&quot;:&quot;1&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;italy&quot;,&quot;data_regions&quot;:&quot;nytgraphics.1hbz60bm&quot;,&quot;data_regions_clipped&quot;:&quot;&quot;,&quot;base_regions&quot;:&quot;nytgraphics.1hbz60bm&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.a7wo22s9&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;&quot;,&quot;base_urban&quot;:&quot;&quot;,&quot;circles&quot;:&quot;nytgraphics.2c6wnemo&quot;,&quot;city_labels&quot;:&quot;&quot;,&quot;base_labels&quot;:&quot;nytgraphics.2c6wnemo&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;&quot;}" data-page="{&quot;slug&quot;:&quot;italy&quot;,&quot;tileset&quot;:&quot;italy&quot;,&quot;data&quot;:&quot;ITA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;[[6.528962, 47.184669], [18.651589, 36.502589]]&quot;,&quot;show_data_labels&quot;:&quot;y&quot;,&quot;base_layer_mask&quot;:&quot;&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;y&quot;,&quot;aspect_ratio&quot;:&quot;1&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;cases&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="cases">
 
 <div class="e-slip-map-ui">
 
@@ -694,113 +694,113 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Valle d'Aosta </span></td>
-<td><span>1,208 </span></td>
-<td><span>961 </span></td>
+<td><span>1,209 </span></td>
+<td><span>962 </span></td>
 <td><span>146 </span></td>
 <td><span>116 </span></td>
-<td><span>12 </span></td>
+<td><span>13 </span></td>
 <td><span>10 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Veneto </span></td>
-<td><span>20,166 </span></td>
-<td><span>411 </span></td>
+<td><span>20,211 </span></td>
+<td><span>412 </span></td>
 <td><span>2,075 </span></td>
 <td><span>42 </span></td>
-<td><span>376 </span></td>
+<td><span>402 </span></td>
 <td><span>8 </span></td>
 <td><span>11 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Emilia-Romagna </span></td>
-<td><span>29,726 </span></td>
-<td><span>667 </span></td>
+<td><span>29,774 </span></td>
+<td><span>668 </span></td>
 <td><span>4,291 </span></td>
 <td><span>96 </span></td>
-<td><span>265 </span></td>
+<td><span>252 </span></td>
 <td><span>6 </span></td>
-<td><span>7 </span></td>
+<td><span>6 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Liguria </span></td>
-<td><span>10,230 </span></td>
+<td><span>10,236 </span></td>
 <td><span>660 </span></td>
 <td><span>1,567 </span></td>
 <td><span>101 </span></td>
-<td><span>83 </span></td>
-<td><span>5 </span></td>
+<td><span>86 </span></td>
+<td><span>6 </span></td>
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Marche </span></td>
-<td><span>6,889 </span></td>
+<td><span>6,897 </span></td>
 <td><span>452 </span></td>
 <td><span>987 </span></td>
 <td><span>65 </span></td>
-<td><span>71 </span></td>
+<td><span>72 </span></td>
 <td><span>5 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Trentino-Alto Adige </span></td>
-<td><span>7,700 </span></td>
-<td><span>718 </span></td>
+<td><span>7,707 </span></td>
+<td><span>719 </span></td>
 <td><span>697 </span></td>
 <td><span>65 </span></td>
-<td><span>48 </span></td>
+<td><span>44 </span></td>
 <td><span>4 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-os6zm6">+ </span> <span>Lombardy </span></td>
-<td><span>96,274 </span></td>
+<td><span>96,312 </span></td>
 <td><span>957 </span></td>
-<td><span>16,807 </span></td>
+<td><span>16,815 </span></td>
 <td><span>167 </span></td>
-<td><span>427 </span></td>
+<td><span>391 </span></td>
 <td><span>4 </span></td>
-<td><span>6 </span></td>
+<td><span>14 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Molise </span></td>
-<td><span>473 </span></td>
-<td><span>155 </span></td>
-<td><span>23 </span></td>
-<td><span>8 </span></td>
-<td><span>10 </span></td>
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Friuli Venezia Giulia </span></td>
+<td><span>3,411 </span></td>
+<td><span>281 </span></td>
+<td><span>345 </span></td>
+<td><span>28 </span></td>
+<td><span>36 </span></td>
 <td><span>3 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Sicily </span></td>
-<td><span>3,298 </span></td>
-<td><span>66 </span></td>
-<td><span>283 </span></td>
-<td><span>6 </span></td>
-<td><span>119 </span></td>
-<td><span>2 </span></td>
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Molise </span></td>
+<td><span>475 </span></td>
+<td><span>155 </span></td>
+<td><span>23 </span></td>
+<td><span>8 </span></td>
+<td><span>9 </span></td>
+<td><span>3 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Friuli Venezia Giulia </span></td>
-<td><span>3,401 </span></td>
-<td><span>280 </span></td>
-<td><span>345 </span></td>
-<td><span>28 </span></td>
-<td><span>28 </span></td>
+<td><span class="show-hide svelte-os6zm6">+ </span> <span>Abruzzo </span></td>
+<td><span>3,389 </span></td>
+<td><span>258 </span></td>
+<td><span>472 </span></td>
+<td><span>36 </span></td>
+<td><span>30 </span></td>
 <td><span>2 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
+<td><span>2 </span></td>
+<td><span>&lt;1 </span></td>
 </tr>
 </tbody>
 </table>
@@ -904,56 +904,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5434782608695652%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.304347826086957%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.15217391304348%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.45652173913043%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.30434782608695%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.6086956521739%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45652173913042%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.51086956521739%; top: 26.71953637334147%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.32432432432432%; top: 26.71953637334147%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.28260869565217%; top: 60.378221747750494%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 60.378221747750494%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1019,56 +1019,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5434782608695652%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.304347826086957%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.15217391304348%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.45652173913043%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 66.30434782608695%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.6086956521739%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.45652173913042%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.96739130434782%; top: 20.949432404540772%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.78378378378378%; top: 20.949432404540772%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 46.73913043478261%; top: 56.007666224384494%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.02702702702703%; top: 57.79153766769866%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

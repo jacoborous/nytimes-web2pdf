@@ -270,7 +270,7 @@ Opinion Columnist
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">President
-Trump at the White House earlier this
+Trump at the White House this
 month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Samuel
 Corum for The New York
 Times</span></span></span>](https://static01.nyt.com/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
@@ -405,7 +405,7 @@ Talk about unfair: The one thing holding the country together has been
 the additional $600 per week in unemployment benefits that has allowed
 millions to pay the rent and fill the fridge. Republicans, though, are
 so convinced that the few extra hundred dollars in jobless pay is
-keeping people from work that they are loathe to renew it. Unless
+keeping people from work that they are loath to renew it. Unless
 Congress gets it together soon and finds a way to extend the aid, the
 country is going to be facing a catastrophe of homelessness and need
 that makes these past few months look pleasant.
