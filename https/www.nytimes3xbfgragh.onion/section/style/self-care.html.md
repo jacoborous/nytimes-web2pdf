@@ -1688,10 +1688,11 @@ story](#after-mid7)
     
     </div>
     
-    ## Rich City Tykes Swell Schools in Hamptons and Hudson Valley
+    ## The Little Fraught Schoolhouse
     
     New York parents of means are seeking less congested classrooms near
-    their second — third? — homes.
+    their second homes in the Hamptons and Hudson Valley. Not everyone
+    is happy about this.
     
     <div class="css-1nqbnmb ea5icrr0">
     

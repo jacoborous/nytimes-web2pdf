@@ -164,28 +164,27 @@ Opened](/reviews/theater/recently-opened)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Screengrab</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/31egon-tichy-1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fred
+    R. Conrad/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/merlin_175151520_9b8a98e8-4844-4642-a435-ab9b0f71be1d-thumbStandard.jpg)](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04rockette-item/04rockette-item-thumbStandard.jpg)](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
     
     </div>
     
-    ### critic’s pick
+    ## [The Rockettes’ ‘Christmas Spectacular’ Is Canceled](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
     
-    ## [Review: A Sci-Fi Classic Featuring a Multiverse of Stooges](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
-    
-    In “The 7th Voyage of Egon Tichy,” an experimental theater lab
-    operating from a closet adapts a timely tale about the solitude of
-    cramped
-    quarters.
+    MSG Entertainment, which owns Radio City Music Hall and manages the
+    Rockettes, cited the uncertainty of the
+    coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jesse
-    Green</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julia
+    Carmel</span></span>
     
     </div>
 
@@ -213,28 +212,28 @@ Opened](/reviews/theater/recently-opened)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
-        Scott Brauer for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Screengrab</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/31egon-tichy-1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+        ### critic’s pick
+        
+        ## [Review: A Sci-Fi Classic Featuring a Multiverse of Stooges](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-thumbStandard.jpg)](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31egon-tichy-1/merlin_175151520_9b8a98e8-4844-4642-a435-ab9b0f71be1d-thumbStandard.jpg)](/2020/07/31/theater/the-7th-voyage-of-egon-tichy-review.html)
         
         </div>
         
-        In this gay haven known for its nightlife, the crowds are
-        smaller this summer. And the nightclubs are closed. But by the
-        pool, the show goes
-        on.
+        In “The 7th Voyage of Egon Tichy,” an experimental theater lab
+        operating from a closet adapts a timely tale about the solitude
+        of cramped
+        quarters.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Laura
-        Collins-Hughes</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jesse
+        Green</span></span>
         
         </div>
 
@@ -244,7 +243,26 @@ Opened](/reviews/theater/recently-opened)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mpi43/MediaPunch,
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>M.
+    Scott Brauer for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31ptown-7/31ptown-7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Provincetown: Go for the Mask Compliance, Stay for a Show](/2020/07/31/theater/provincetown-nightlife-coronavirus.html)
+    
+    In this gay haven known for its nightlife, the crowds are smaller
+    this summer. And the nightclubs are closed. But by the pool, the
+    show goes
+    on.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Laura
+    Collins-Hughes</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mpi43/MediaPunch,
     via
     Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/03Max1/03Max1-videoLarge.jpg)
     
@@ -263,7 +281,7 @@ Opened](/reviews/theater/recently-opened)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Everett
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Everett
     Collection</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02wildcat-1/02wildcat-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -280,7 +298,7 @@ Opened](/reviews/theater/recently-opened)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marly
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marly
     Gallardo</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31Theater-Skils-Illo/31Theater-Skils-Illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -294,25 +312,6 @@ Opened](/reviews/theater/recently-opened)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alexis
     Soloski</span></span>
-    
-    </div>
-
-4.  ### Critic’s Notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
-    Pattison</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30londontheater1/merlin_175043616_18a2d694-efbd-4628-a6ec-f5b4a0b01764-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Looking Back, Watching Stars as They Rise in Britain](/2020/07/30/theater/patsy-ferran-michelle-terry-lucian-msamati.html)
-    
-    Streamed productions from the archive of the Royal Shakespeare
-    Company show the development of some top-rank British
-    performers.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Wolf</span></span>
     
     </div>
 
@@ -458,6 +457,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/30/theater/patsy-ferran-michelle-terry-lucian-msamati.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30londontheater1/merlin_175043616_18a2d694-efbd-4628-a6ec-f5b4a0b01764-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    
+    ## Looking Back, Watching Stars as They Rise in Britain
+    
+    Streamed productions from the archive of the Royal Shakespeare
+    Company show the development of some top-rank British performers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Wolf</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/arts/alan-menken-egot.html)
     
     <div class="css-79elbk">
@@ -487,7 +522,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -522,7 +557,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -556,7 +591,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -592,7 +627,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -627,7 +662,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -662,7 +697,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -683,42 +718,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The New York
-    Times</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/theater/manual-cinema-puppets-retrospective.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/arts/26manual-1/26manual-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Decade of Puppets in Organized Chaos
-    
-    Manual Cinema, a Chicago arts collective, is highlighting four of
-    its productions — vivacious hybrids of film and theater — in a
-    virtual retrospective.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nancy Coleman</span>
+    By <span class="css-1n7hynb">The New York Times</span>
     
     </div>
     

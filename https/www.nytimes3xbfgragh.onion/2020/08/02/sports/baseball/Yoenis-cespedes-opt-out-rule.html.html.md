@@ -335,7 +335,63 @@ All-Star in 2014 and 2016, any differently because of his decision.
 play the game and what he has done and the way he carries himself in the
 clubhouse,” Rojas said. “Everyone has a good relationship with him. I’m
 sure I wasn’t the only one who was texting him trying to find out where
-he was pregame.”
+he was
+pregame.”
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1595872471455" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div>
+
+### The Games Resume
+
+#### Sports and the Virus
+
+Updated Aug. 4, 2020
+
+Here’s what’s happening as the world of sports slowly comes back to
+life:
+
+  -   - As the virus spreads through baseball, [so does
+        frustration](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+        Series have been postponed, teams have been quarantined and road
+        trips have been rerouted in a season that has been defined above
+        all by its precariousness.
+      - On all but the two biggest courts, automated line calls [will
+        replace human
+        judges](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        at the U.S. Open to reduce the number of people on site during
+        the pandemic.
+      - Mets star Yoenis Cespedes is healthy, but [has decided to opt
+        out](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of the 2020 baseball season for Covid-related reasons.
+
+<div id="styln-survey-component-29614" class="styln-survey-component">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 But Saturday’s game may end up being Cespedes’s final one as a Met. His
 four-year contract expires after this season. The Mets acquired him from

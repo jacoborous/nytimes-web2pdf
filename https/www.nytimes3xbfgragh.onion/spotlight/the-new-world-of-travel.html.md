@@ -419,7 +419,7 @@ story](#after-subheader)
     
     <div class="css-10wtrbd">
     
-    ## [Thinking of Traveling in the U. S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
+    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
     
     Nearly half of the states have strict measures in place for
     visitors, from mandatory testing to quarantine
@@ -520,6 +520,40 @@ story](#after-mid1)
 <div class="css-13mho3u">
 
 1.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The New Panic Buys: Kayaks, Pools, Tents and Trampolines
+    
+    Americans seeking getaways (or staycations) in the pandemic are
+    putting outdoor retailers in a supply crunch.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Herrman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
     
     <div class="css-1cp3ece">
     

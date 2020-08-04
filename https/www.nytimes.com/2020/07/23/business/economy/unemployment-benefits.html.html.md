@@ -364,7 +364,29 @@ If such a system were implemented, some workers — those who were earning
 the lowest wages before losing their jobs, who have gained the most with
 the enhanced benefit checks — could see their benefits drop by more than
 $400 a week. Unemployed workers who had been earning above-average wages
-could see their benefits drop by less.
+could see their benefits drop by
+less.
+
+</div>
+
+</div>
+
+<div class="css-1sngw6j">
+
+[](https://www.nytimes.com/interactive/2020/07/24/business/economy/600-unemployment-benefits.html)
+
+<div class="css-1eoytci">
+
+![](https://static01.nyt.com/images/2020/07/24/us/600-unemployment-benefits-promo-1595602789017/600-unemployment-benefits-promo-1595602789017-articleLarge-v3.png)
+
+</div>
+
+<div class="css-1rha1bf">
+
+## $600 Unemployment: What Happens When a Stimulus Lifeline Ends
+
+See how losing a lifeline put in place during the outset of the pandemic
+will hit low-income Americans the hardest.
 
 </div>
 

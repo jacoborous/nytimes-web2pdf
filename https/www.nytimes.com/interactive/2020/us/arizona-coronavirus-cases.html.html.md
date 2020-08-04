@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -401,7 +401,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-179,506
+180,520
 
 </div>
 
@@ -417,7 +417,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-3,785
+3,847
 
 </div>
 
@@ -452,7 +452,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -463,9 +463,9 @@ Arizona on Aug. 3. Over the past week, there have been an average of
 2,227 cases per day, a decrease of 27 percent from the average two weeks
 earlier.
 
-As of Tuesday morning, there have been at least 179,506 cases and 3,785
-deaths in Arizona since the beginning of the pandemic, according to a
-New York Times
+As of Tuesday afternoon, there have been at least 180,520 cases and
+3,847 deaths in Arizona since the beginning of the pandemic, according
+to a New York Times
 database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
@@ -903,10 +903,10 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Arizona </span></td>
-<td><span>179,506 </span></td>
-<td><span>2,466 </span></td>
-<td><span>3,785 </span></td>
-<td><span>52 </span></td>
+<td><span>180,520 </span></td>
+<td><span>2,480 </span></td>
+<td><span>3,847 </span></td>
+<td><span>53 </span></td>
 <td><span>15,588 </span></td>
 <td><span>214 </span></td>
 <td><span>465 </span></td>
@@ -922,27 +922,27 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/arizona.svg" alt="Arizona heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/arizona.svg" alt="Arizona heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Yuma </span></td>
-<td><span>11,210 </span></td>
-<td><span>5,244 </span></td>
-<td><span>265 </span></td>
-<td><span>124 </span></td>
+<td><span>11,217 </span></td>
+<td><span>5,247 </span></td>
+<td><span>267 </span></td>
+<td><span>125 </span></td>
 <td><span>764 </span></td>
 <td><span>357 </span></td>
 <td><span>33 </span></td>
 <td><span>15 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/yuma.svg" alt="Yuma heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/yuma.svg" alt="Yuma heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Gila </span></td>
-<td><span>841 </span></td>
-<td><span>1,557 </span></td>
+<td><span>846 </span></td>
+<td><span>1,566 </span></td>
 <td><span>29 </span></td>
 <td><span>54 </span></td>
 <td><span>138 </span></td>
@@ -950,41 +950,41 @@ in last<br />
 <td><span>8 </span></td>
 <td><span>15 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/gila.svg" alt="Gila heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/gila.svg" alt="Gila heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Maricopa </span></td>
-<td><span>120,960 </span></td>
-<td><span>2,697 </span></td>
-<td><span>2,108 </span></td>
-<td><span>47 </span></td>
+<td><span>121,789 </span></td>
+<td><span>2,715 </span></td>
+<td><span>2,153 </span></td>
+<td><span>48 </span></td>
 <td><span>10,972 </span></td>
 <td><span>245 </span></td>
 <td><span>301 </span></td>
 <td><span>7 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/maricopa.svg" alt="Maricopa heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/maricopa.svg" alt="Maricopa heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Graham </span></td>
-<td><span>490 </span></td>
-<td><span>1,262 </span></td>
-<td><span>9 </span></td>
-<td><span>23 </span></td>
+<td><span>492 </span></td>
+<td><span>1,267 </span></td>
+<td><span>11 </span></td>
+<td><span>28 </span></td>
 <td><span>94 </span></td>
 <td><span>242 </span></td>
 <td><span>3 </span></td>
 <td><span>8 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/graham.svg" alt="Graham heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/graham.svg" alt="Graham heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Apache </span></td>
-<td><span>3,084 </span></td>
-<td><span>4,290 </span></td>
+<td><span>3,098 </span></td>
+<td><span>4,310 </span></td>
 <td><span>136 </span></td>
 <td><span>189 </span></td>
 <td><span>154 </span></td>
@@ -992,13 +992,13 @@ in last<br />
 <td><span>8 </span></td>
 <td><span>11 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/apache.svg" alt="Apache heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/apache.svg" alt="Apache heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Santa Cruz </span></td>
-<td><span>2,610 </span></td>
-<td><span>5,613 </span></td>
+<td><span>2,618 </span></td>
+<td><span>5,630 </span></td>
 <td><span>50 </span></td>
 <td><span>108 </span></td>
 <td><span>88 </span></td>
@@ -1006,55 +1006,55 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/santa_cruz.svg" alt="Santa Cruz heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/santa_cruz.svg" alt="Santa Cruz heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Navajo </span></td>
-<td><span>5,284 </span></td>
-<td><span>4,764 </span></td>
-<td><span>188 </span></td>
-<td><span>169 </span></td>
+<td><span>5,301 </span></td>
+<td><span>4,779 </span></td>
+<td><span>192 </span></td>
+<td><span>173 </span></td>
 <td><span>205 </span></td>
 <td><span>185 </span></td>
 <td><span>10 </span></td>
 <td><span>9 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/navajo.svg" alt="Navajo heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/navajo.svg" alt="Navajo heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Pinal </span></td>
-<td><span>8,301 </span></td>
+<td><span>8,304 </span></td>
 <td><span>1,794 </span></td>
-<td><span>141 </span></td>
-<td><span>30 </span></td>
+<td><span>142 </span></td>
+<td><span>31 </span></td>
 <td><span>740 </span></td>
 <td><span>160 </span></td>
 <td><span>19 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/pinal.svg" alt="Pinal heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/pinal.svg" alt="Pinal heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Pima </span></td>
-<td><span>16,741 </span></td>
-<td><span>1,599 </span></td>
-<td><span>462 </span></td>
+<td><span>16,809 </span></td>
+<td><span>1,605 </span></td>
+<td><span>465 </span></td>
 <td><span>44 </span></td>
 <td><span>1,632 </span></td>
 <td><span>156 </span></td>
 <td><span>44 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/pima.svg" alt="Pima heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/pima.svg" alt="Pima heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Cochise </span></td>
-<td><span>1,557 </span></td>
-<td><span>1,236 </span></td>
+<td><span>1,554 </span></td>
+<td><span>1,234 </span></td>
 <td><span>50 </span></td>
 <td><span>40 </span></td>
 <td><span>158 </span></td>
@@ -1062,7 +1062,7 @@ in last<br />
 <td><span>6 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_04/cochise.svg" alt="Cochise heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_04/cochise.svg" alt="Cochise heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>

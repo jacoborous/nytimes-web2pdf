@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 3, 2020, 6:07 P.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -314,56 +314,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.10810810810811%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 37.90322580645161%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.891891891891895%; top: 41.21213114216899%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.61290322580645%; top: 41.21213114216899%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -450,7 +450,7 @@ available
 
 [Map](#map)[By country and local area](#states)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -458,8 +458,8 @@ cases](#cases)[Tips](#tips)[Latest news
 
 There have been at least 305,600 confirmed cases of coronavirus in the
 United Kingdom, according to [Public Health
-England](https://coronavirus.data.gov.uk/). As of Monday evening, 46,210
-people had died.
+England](https://coronavirus.data.gov.uk/). As of Tuesday afternoon,
+46,210 people had died.
 
 The [Office for National
 Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases)
@@ -702,46 +702,46 @@ in last<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>England </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>England </span></td>
 <td><span>263,602 </span></td>
 <td><span>471 </span></td>
 <td><span>41,598 </span></td>
 <td><span>74 </span></td>
-<td><span>4,887 </span></td>
+<td><span>5,127 </span></td>
 <td><span>9 </span></td>
-<td><span>433 </span></td>
+<td><span>435 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Wales </span></td>
-<td><span>17,339 </span></td>
-<td><span>552 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Wales </span></td>
+<td><span>17,361 </span></td>
+<td><span>553 </span></td>
 <td><span>1,565 </span></td>
 <td><span>50 </span></td>
-<td><span>190 </span></td>
-<td><span>6 </span></td>
+<td><span>169 </span></td>
+<td><span>5 </span></td>
 <td><span>16 </span></td>
 <td><span>&lt;1 </span></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Northern Ireland </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Northern Ireland </span></td>
 <td><span>5,988 </span></td>
 <td><span>331 </span></td>
 <td><span>556 </span></td>
 <td><span>31 </span></td>
-<td><span>57 </span></td>
-<td><span>3 </span></td>
+<td><span>76 </span></td>
+<td><span>4 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-os6zm6">+ </span> <span>Scotland </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Scotland </span></td>
 <td><span>18,694 </span></td>
 <td><span>344 </span></td>
 <td><span>2,491 </span></td>
 <td><span>46 </span></td>
-<td><span>125 </span></td>
-<td><span>2 </span></td>
+<td><span>140 </span></td>
+<td><span>3 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 </tr>
@@ -878,56 +878,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.10810810810811%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 37.90322580645161%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.891891891891895%; top: 41.21213114216899%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.61290322580645%; top: 41.21213114216899%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -993,49 +993,49 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 0.5405405405405406%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 0.5376344086021505%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.216216216216218%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.129032258064516%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 32.972972972972975%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.795698924731184%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.18918918918919%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.924731182795696%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 65.94594594594595%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 65.59139784946237%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.16216216216216%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.72043010752688%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.91891891891892%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.38709677419354%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.83783783783784%; top: -3%">
+<div class="pancake-point svelte-11ba04d" style="left: 47.58064516129032%; top: -3%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Nursing
 home deaths
@@ -1043,14 +1043,14 @@ released</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.83783783783784%; top: 63.57142857142857%">
+<div class="pancake-point svelte-11ba04d" style="left: 69.6236559139785%; top: 70.81632653061224%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 18.91891891891892%; top: 99.97084548104957%">
+<div class="pancake-point svelte-11ba04d" style="left: 18.817204301075268%; top: 99.97084548104957%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1059,7 +1059,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 48.10810810810811%; top: 0%; width: 0.54%"></span>
+<span class="break svelte-1iuahvx" style="left: 47.84946236559139%; top: 0%; width: 0.54%"></span>
 
 </div>
 

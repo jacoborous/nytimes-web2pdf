@@ -237,8 +237,9 @@ Khatib</span>](https://nytimes3xbfgragh.onion/by/joumana-khatib)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 30, 2020Updated July 31,
-    2020
+    Published July 30, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">4:07 p.m.
+    ET</span>
     
     </div>
 
@@ -444,8 +445,7 @@ charred, lifeless, magma-covered rock.” That’s how Mack, a theoretical
 astrophysicist, begins her engrossing, elegant timeline of the cosmos.
 Despite the book’s sobering title, she sprinkles in delightful esoterica
 along the way, while providing a guide to some of the most plausible
-scenarios about the end of the
-universe.
+scenarios about the end of the universe.
 
 </div>
 
@@ -454,6 +454,10 @@ universe.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+\[ [Read our
+review](https://www.nytimes3xbfgragh.onion/2020/08/04/books/review/the-end-of-everything-katie-mack.html).
+\]
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -526,8 +530,11 @@ Family](https://archive.nytimes3xbfgragh.onion/www.nytimes3xbfgragh.onion/books/
 Ball tracked down descendants of the people that his ancestors,
 plantation owners in South Carolina, had enslaved. Now, he returns again
 to his family, focusing on one of his great-great-grandfathers and his
-association with the Ku Klux
-Klan.
+association with the Ku Klux Klan.
+
+*\[* [*Read our
+review.*](https://www.nytimes3xbfgragh.onion/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
+*\]*
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -563,7 +570,9 @@ a white man in an open marriage, she becomes entangled in his family’s
 life — emotionally, physically and even economically.
 
 *\[* [*Read our profile of
-Leilani*](https://www.nytimes3xbfgragh.onion/2020/07/31/books/raven-leilani-luster.html)*.
+Leilani*](https://www.nytimes3xbfgragh.onion/2020/07/31/books/raven-leilani-luster.html)*.<span class="css-8l6xbc evw5hdy0">
+</span>|* [*Read our
+review*](https://www.nytimes3xbfgragh.onion/2020/08/04/books/review-luster-raven-leilani.html)*.
 \]*
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
@@ -605,8 +614,11 @@ Leilani*](https://www.nytimes3xbfgragh.onion/2020/07/31/books/raven-leilani-lust
 It’s been almost 15 years since Meyer published “Twilight,” the
 best-selling young-adult vampire novel that sparked a worldwide interest
 in paranormal romance. Now she returns to the story of Edward Cullen and
-Bella Swan, but this time, she tells it from his point of
-view.
+Bella Swan, but this time, she tells it from his point of view.
+
+*\[* [*Read our Q.\&A. with
+Meyer*](https://www.nytimes3xbfgragh.onion/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)*.
+\]*
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 

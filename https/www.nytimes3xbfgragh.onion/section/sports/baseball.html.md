@@ -214,7 +214,7 @@ story](#after-subheader)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -222,7 +222,7 @@ story](#after-subheader)
     
     ## As the Virus Spreads Through M.L.B., So Does Frustration
     
-    Series have been postponed, teams have been quarantined and road
+    Series have been postponed, teams have been quarantined, and road
     trips have been rerouted in a season that has been defined above all
     by its precariousness.
     
@@ -257,8 +257,9 @@ story](#after-subheader)
     
     ## Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.
     
-    Judge has hit home runs in five consecutive games, and he’s done it
-    without one of his favorite tools: the video replay room.
+    Judge hit home runs in five consecutive games entering Monday
+    night’s action, and he did it without one of his favorite tools:
+    the video replay room.
     
     <div class="css-1nqbnmb ea5icrr0">
     

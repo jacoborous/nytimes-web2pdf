@@ -208,7 +208,7 @@ there,” a teammate said.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Memphis
 Grizzlies guard Ja Morant is 6-foot-3 but has dunked on — or at least
-tried to — big men like Anthony Davis and Kevin
+tried to dunk on — big men like Anthony Davis and Kevin
 Love.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Kathy
 Willens/Associated
 Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
@@ -238,14 +238,21 @@ Cacciola</span>](https://www.nytimes3xbfgragh.onion/by/scott-cacciola)
 
 </div>
 
-  - Aug. 3,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">12:37 p.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -332,8 +339,8 @@ remarkable feat: Few players have ever made missed dunks look cooler.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Cleveland
-Cavaliers forward Kevin Love (0) said he was trying to draw a charge
-when he stood in Morant’s path. “He legit jumped over me,” Love
+Cavaliers forward Kevin Love said he was trying to draw a charge when he
+stood in Morant’s path. “He legit jumped over me,” Love
 said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Tony
 Dejak/Associated
 Press</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03nba-morant-love/merlin_166235259_515cc7a6-2c38-4785-809e-2cae1eb1ecb1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
@@ -485,11 +492,11 @@ The result?
 he said in a recent Zoom conference call. “I’ll do the things I’ve been
 doing before, but better.”
 
-Ahead of his team’s showdown with the New Orleans Pelicans on Monday,
-Morant had averaged 23.5 points and 10 assists in the Grizzlies’ first
-two games of the restart, a pair of narrow losses. His most dynamic
-moment came when he soared for an alley-oop dunk against the Portland
-Trail Blazers on Friday. It went in.
+The Grizzlies have struggled in the bubble, losing their first three
+games of the restart, and Morant — who has averaged 19.3 points, 9.3
+assists and 6.7 rebounds — is still searching for his shooting touch.
+His most dynamic moment came when he soared for an alley-oop dunk
+against the Portland Trail Blazers on Friday. It went in.
 
 </div>
 

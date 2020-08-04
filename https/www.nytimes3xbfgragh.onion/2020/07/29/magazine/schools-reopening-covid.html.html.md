@@ -144,14 +144,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -253,8 +253,9 @@ Tingley</span>
     
     <div class="css-1ea1lzw e16638kd2">
     
-    Published July 29, 2020Updated Aug. 3,
-    2020
+    Published July 29, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">8:22 a.m.
+    ET</span>
     
     </div>
 
@@ -310,14 +311,16 @@ in 40 years,” says Dan M. Cooper, a professor of pediatrics at the
 University of California, Irvine.
 
 A flood of guidance has been issued in recent weeks, much of it urging
-schools to reopen and suggesting safety precautions. Media outlets as
-well have relayed reams of often conflicting expert advice on how to
-weigh risks and benefits, to individuals and to society. In every case,
-that calculation is constrained by major gaps in our understanding of
-how Covid affects children and those in contact with them. Strong
-evidence suggests that children are much less likely than adults to get
-sick or die from the virus. (By July 9, data from most of the U.S.
-showed that [nearly 242,000
+[schools to
+reopen](https://www.nytimes3xbfgragh.onion/2020/08/03/business/how-schools-reopen.html)
+and suggesting safety precautions. Media outlets as well have relayed
+reams of often conflicting expert advice on how to weigh risks and
+benefits, to individuals and to society. In every case, that calculation
+is constrained by major gaps in our understanding of how Covid affects
+children and those in contact with them. Strong evidence suggests that
+children are much less likely than adults to get sick or die from the
+virus. (By July 9, data from most of the U.S. showed that
+[nearly 242,000
 children](https://services.aap.org/en/pages/2019-novel-coronavirus-covid-19-infections/children-and-covid-19-state-level-data-report/)
 had tested positive for Covid, representing 8 percent of cases, the
 American Academy of Pediatrics reports; they account for fewer than 3

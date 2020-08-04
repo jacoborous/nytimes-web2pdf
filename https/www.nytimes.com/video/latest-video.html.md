@@ -40,8 +40,8 @@
 
 <div>
 
-new video loaded: N.C. Governor Tells Residents to ‘Take This Storm
-Seriously’
+new video loaded: Trump Stumbles Over the Word ‘Yosemite’ During Bill
+Signing
 
 <div>
 
@@ -81,13 +81,13 @@ bars
 
 <div class="css-1t7yl1y">
 
-0:00/1:09
+0:00/0:52
 
 </div>
 
 <div class="css-og85jy">
 
-\-1:09
+\-0:52
 
 </div>
 
@@ -103,28 +103,26 @@ bars
 
 transcript
 
-## N.C. Governor Tells Residents to ‘Take This Storm Seriously’
+## Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
 
-#### Gov. Roy A. Cooper urged North Carolinians on Monday to properly prepare for Tropical Storm Isaias.
+#### During a routine bill signing of the Great American Outdoors Act, President Trump appeared to pronounce Yosemite as “Yo Semites.”
 
 </div>
 
   -   
-    The status or category of a storm can be misleading. Whether it’s
-    labeled a tropical storm or a hurricane, you should take this storm
-    seriously and make sure your family is ready. That means taking care
-    of your pets, too. This storm threatens our coastline with storm
-    surge and damaging winds, but the inland areas are also at risk. Be
-    prepared for a lot of rain, as much as seven inches in some places.
-    Shelters will screen people for coronavirus symptoms. If someone has
-    Covid-19 or shows symptoms, they’ll be directed to a sheltering
-    option for isolation or medical attention. Shelters will have P.P.E.
-    and will honor social distancing. Now I know that North Carolinians
-    have had to dig deep in recent months to tap into our strength and
-    resilience during the pandemic, and that hasn’t been easy. But with
-    this storm on the way, we have to dig a little deeper. Let’s keep
-    each other safe from the wind and water, as well as from the
-virus.
+    We’re here today to celebrate the passage of truly landmark
+    legislation that will preserve America’s majestic natural wonders,
+    priceless historic treasures, and that’s exactly what they are.
+    President Theodore Roosevelt was right when he called these
+    exquisite resources the most glorious heritage a people ever
+    receive. We want every American child to have access to pristine
+    outdoor spaces. When young Americans experience the breathtaking
+    beauty of the Grand Canyon, when their eyes widen in amazement as
+    Old Faithful bursts into the sky, when they gaze upon Yosemite’s
+    — Yosemite’s towering sequoias, their love of country grows
+    stronger and they know that every American has truly a duty to
+    preserve this wondrous
+inheritance.
 
 </div>
 
@@ -180,18 +178,18 @@ virus.
 
 <div class="css-ggwicp">
 
-# <span>N.C. Governor Tells Residents to ‘Take This Storm Seriously’</span>
+# <span>Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing</span>
 
 <div class="css-19m31ns">
 
-By The Associated Press<span class="css-1iknmmf">•</span>August 3,
+By The Associated Press<span class="css-1iknmmf">•</span>August 4,
 2020
 
 </div>
 
 </div>
 
-## Gov. Roy A. Cooper urged North Carolinians on Monday to properly prepare for Tropical Storm Isaias.
+## During a routine bill signing of the Great American Outdoors Act, President Trump appeared to pronounce Yosemite as “Yo Semites.”
 
 </div>
 
@@ -237,12 +235,77 @@ By The Associated Press<span class="css-1iknmmf">•</span>August 3,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-square320.png)
+    poster](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-square320.jpg)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
+    
+    ### Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
+
+  - [](https://www.nytimes.com/video/world/100000007272075/lebanon-beirut-blast.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:54</span>
+    
+    ### Huge Blast Shakes Beirut
+
+  - [](https://www.nytimes.com/video/world/100000007271927/pacific-island-rescue-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/world/04sos-pacific-1/04sos-pacific-1-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:17</span>
+    
+    ### Video Shows Plane Spotting SOS Signal From Stranded Sailors
+
+  - [](https://www.nytimes.com/video/us/100000007271780/wyoming-hot-air-balloon-crash.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:54</span>
+    
+    ### 3 Hot Air Balloons Crash in Wyoming
+
+  - [](https://www.nytimes.com/video/us/100000007271735/tropical-storm-isaias-carolinas.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/us/4hpstorm1/4hpstorm1-square320-v2.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:12</span>
+    
+    ### Tropical Storm Isaias Moves Up the East Coast
+
+  - [](https://www.nytimes.com/video/us/100000007271090/north-carolina-isaias-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:09</span>
     
     ### N.C. Governor Tells Residents to ‘Take This Storm Seriously’
 
@@ -479,71 +542,6 @@ By The Associated Press<span class="css-1iknmmf">•</span>August 3,
     <span class="css-1xigvfz">3:16</span>
     
     ### ‘This Beautiful Man’: Obama, Bush, Clinton and Pelosi Honor John Lewis
-
-  - [](https://www.nytimes.com/video/us/100000007264604/nasas-perseverance-mars.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/30/us/30hpmars/30hpmars-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:52</span>
-    
-    ### NASA’s Perseverance Rover Begins Mission to Mars
-
-  - [](https://www.nytimes.com/video/us/politics/100000007264379/john-lewis-funeral.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/30/us/lewis-vid/lewis-vid-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">03:37:17</span>
-    
-    ### Watch Full Video: Funeral for John Lewis
-
-  - [](https://www.nytimes.com/video/us/politics/100000007255898/trump-george-wallace-rhetoric.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-wallace-jump1/00dc-wallace-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:32</span>
-    
-    ### Trump and George Wallace Share a Speaking Style
-
-  - [](https://www.nytimes.com/video/arts/music/100000007258359/phoebe-bridgers-kyoto.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">9:12</span>
-    
-    ### How to Convince Phoebe Bridgers to Write a Rock Song
-
-  - [](https://www.nytimes.com/video/us/politics/100000007263272/zuckerberg-jayapal-facebook.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/29/business/29vid-tech-hearing-3/29vid-tech-hearing-3-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:15</span>
-    
-    ### Zuckerberg Deflects Question on Copying Competitors
 
 </div>
 

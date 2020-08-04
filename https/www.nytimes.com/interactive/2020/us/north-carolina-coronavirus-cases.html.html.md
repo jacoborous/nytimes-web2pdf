@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -401,7 +401,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-126,806
+128,260
 
 </div>
 
@@ -417,7 +417,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-2,013
+2,036
 
 </div>
 
@@ -452,7 +452,7 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -463,9 +463,9 @@ North Carolina on Aug. 3. Over the past week, there have been an average
 of 1,731 cases per day, a decrease of 10 percent from the average two
 weeks earlier.
 
-As of Tuesday morning, there have been at least 126,806 cases and 2,013
-deaths in North Carolina since the beginning of the pandemic, according
-to a New York Times
+As of Tuesday afternoon, there have been at least 128,260 cases and
+2,036 deaths in North Carolina since the beginning of the pandemic,
+according to a New York Times
 database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
@@ -903,9 +903,9 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>North Carolina </span></td>
-<td><span>126,806 </span></td>
-<td><span>1,209 </span></td>
-<td><span>2,013 </span></td>
+<td><span>128,260 </span></td>
+<td><span>1,223 </span></td>
+<td><span>2,036 </span></td>
 <td><span>19 </span></td>
 <td><span>12,117 </span></td>
 <td><span>116 </span></td>
@@ -922,13 +922,13 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/north_carolina.svg" alt="North Carolina heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/north_carolina.svg" alt="North Carolina heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Alleghany </span></td>
-<td><span>156 </span></td>
-<td><span>1,401 </span></td>
+<td><span>164 </span></td>
+<td><span>1,473 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><span>94 </span></td>
@@ -936,27 +936,27 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/alleghany.svg" alt="Alleghany heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/alleghany.svg" alt="Alleghany heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>McDowell </span></td>
-<td><span>609 </span></td>
-<td><span>1,331 </span></td>
-<td><span>9 </span></td>
-<td><span>20 </span></td>
+<td><span>618 </span></td>
+<td><span>1,351 </span></td>
+<td><span>10 </span></td>
+<td><span>22 </span></td>
 <td><span>141 </span></td>
 <td><span>308 </span></td>
 <td><span>4 </span></td>
 <td><span>9 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/mcdowell.svg" alt="McDowell heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/mcdowell.svg" alt="McDowell heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Jones </span></td>
-<td><span>74 </span></td>
-<td><span>786 </span></td>
+<td><span>78 </span></td>
+<td><span>828 </span></td>
 <td><span>3 </span></td>
 <td><span>32 </span></td>
 <td><span>28 </span></td>
@@ -964,13 +964,13 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/jones.svg" alt="Jones heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/jones.svg" alt="Jones heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Chowan </span></td>
-<td><span>144 </span></td>
-<td><span>1,033 </span></td>
+<td><span>145 </span></td>
+<td><span>1,040 </span></td>
 <td><span>1 </span></td>
 <td><span>7 </span></td>
 <td><span>40 </span></td>
@@ -978,13 +978,13 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>7 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/chowan.svg" alt="Chowan heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/chowan.svg" alt="Chowan heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Hertford </span></td>
-<td><span>295 </span></td>
-<td><span>1,246 </span></td>
+<td><span>307 </span></td>
+<td><span>1,297 </span></td>
 <td><span>11 </span></td>
 <td><span>46 </span></td>
 <td><span>58 </span></td>
@@ -992,13 +992,13 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/hertford.svg" alt="Hertford heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/hertford.svg" alt="Hertford heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Montgomery </span></td>
-<td><span>594 </span></td>
-<td><span>2,186 </span></td>
+<td><span>601 </span></td>
+<td><span>2,212 </span></td>
 <td><span>13 </span></td>
 <td><span>48 </span></td>
 <td><span>63 </span></td>
@@ -1006,27 +1006,27 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/montgomery.svg" alt="Montgomery heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/montgomery.svg" alt="Montgomery heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Lee </span></td>
-<td><span>1,217 </span></td>
-<td><span>1,970 </span></td>
-<td><span>10 </span></td>
-<td><span>16 </span></td>
+<td><span>1,225 </span></td>
+<td><span>1,983 </span></td>
+<td><span>11 </span></td>
+<td><span>18 </span></td>
 <td><span>143 </span></td>
 <td><span>231 </span></td>
 <td><span>1 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/lee.svg" alt="Lee heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/lee.svg" alt="Lee heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Robeson </span></td>
-<td><span>2,658 </span></td>
-<td><span>2,035 </span></td>
+<td><span>2,682 </span></td>
+<td><span>2,053 </span></td>
 <td><span>52 </span></td>
 <td><span>40 </span></td>
 <td><span>263 </span></td>
@@ -1034,27 +1034,27 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/robeson.svg" alt="Robeson heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/robeson.svg" alt="Robeson heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Nash </span></td>
-<td><span>1,063 </span></td>
-<td><span>1,127 </span></td>
-<td><span>11 </span></td>
+<td><span>1,074 </span></td>
+<td><span>1,139 </span></td>
 <td><span>12 </span></td>
+<td><span>13 </span></td>
 <td><span>187 </span></td>
 <td><span>198 </span></td>
 <td><span>1 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/nash.svg" alt="Nash heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/nash.svg" alt="Nash heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Caldwell </span></td>
-<td><span>1,138 </span></td>
-<td><span>1,385 </span></td>
+<td><span>1,154 </span></td>
+<td><span>1,404 </span></td>
 <td><span>9 </span></td>
 <td><span>11 </span></td>
 <td><span>157 </span></td>
@@ -1062,7 +1062,7 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/usa/usa_37/caldwell.svg" alt="Caldwell heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_37/caldwell.svg" alt="Caldwell heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>

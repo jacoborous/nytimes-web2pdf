@@ -148,14 +148,14 @@ Carlson</span>
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -432,29 +432,31 @@ culture.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T01:26:45.732Z
+Updated 2020-08-04T20:32:48.543Z
 
 </div>
 
 </div>
 
-  - [Kamala Harris, a top vice-presidential contender, confronts double
-    standards.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-29fdff45)
-  - [Karen Bass and Susan Rice are rising on Biden’s vice-presidential
-    shortlist.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-13ec3d9c)
-  - [Trump says Russian bounties to kill U.S. troops ‘never took
-    place.’](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-49e9a016)
+  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
+    to
+    Trump.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
+  - [President Trump is suddenly a big supporter of mail-in voting — in
+    Florida.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
+  - [Election experts warn Congress about widespread disenfranchisement
+    of voters of color in
+    November.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6d019753)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -630,7 +632,7 @@ America.”
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -638,10 +640,11 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

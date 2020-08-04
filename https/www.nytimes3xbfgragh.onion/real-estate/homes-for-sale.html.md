@@ -358,24 +358,24 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="10885-BOLD-226431" class="css-1fvngt3">
+    <div id="399-3239502" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/greenwich-village/homes-for-sale/50-e-8th-st/10885-BOLD-226431?)
+    [](/real-estate/usa/ny/queens/forest-hills/homes-for-sale/76-35-113th-street/399-3239502?)
     
-    ![<span class="css-5hkc96">$550,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-226431_1.jpg&width=297)
+    ![<span class="css-5hkc96">$299,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f399-3239502_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $550,000
+    $299,000
     
-    Greenwich Village
+    Forest Hills
     
-    50 E 8th St unit 2V
+    76-35 113th Street
     
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Co-op</span>
     
@@ -395,26 +395,27 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="10885-BOLD-226443" class="css-1fvngt3">
+    <div id="254-1891495010100" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/greenwich-village/homes-for-sale/50-e-8th-st/10885-BOLD-226443?)
+    [](/real-estate/usa/ny/brooklyn/dumbo/homes-for-sale/98-front-street/254-1891495010100?)
     
-    ![<span class="css-5hkc96">$1,050,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-226443_1.jpg&width=1136)
+    ![<span class="css-5hkc96">$2,700,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f254-1891495010100_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $1,050,000
+    $2,700,000
     
-    Greenwich Village
+    Dumbo
     
-    50 E 8th St unit 2UV
+    98 Front Street unit PH-1A
     
     <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
+    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -432,27 +433,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="15101-5537036" class="css-1fvngt3">
+    <div id="12436-OLRS-1891432" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/brooklyn/sheepshead-bay/homes-for-sale/2142-east-23rd-street/15101-5537036?)
+    [](/real-estate/usa/ny/brooklyn/sheepshead-bay/homes-for-sale/1775-east-17th-street/12436-OLRS-1891432?)
     
-    ![<span class="css-5hkc96">$899,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage16-31d08983a752a61363a921de140f8aa1.svg)
+    ![<span class="css-5hkc96">$1,325,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1891432_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $899,000
+    $1,325,000
     
     Sheepshead Bay
     
-    2142 East 23rd Street
+    1775 East 17th Street unit 6
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
-    House</span>
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -470,26 +470,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="12436-OLRS-0061147" class="css-1fvngt3">
+    <div id="254-1891497080320" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/queens/maspeth/homes-for-sale/64-21-60th-road/12436-OLRS-0061147?)
+    [](/real-estate/usa/ny/brooklyn/dumbo/homes-for-sale/98-front-street/254-1891497080320?)
     
-    ![<span class="css-5hkc96">$889,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage13-06a8d8340071117eab5c766a51ce054c.svg)
+    ![<span class="css-5hkc96">$775,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f254-1891497080320_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $889,000
+    $775,000
     
-    Maspeth
+    Dumbo
     
-    64-21 60th Road
+    98 Front Street unit PH1L
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> | </span><span>Single Family
-    Townhouse</span>
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -513,156 +513,6 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="46-4381885" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/kips-bay/homes-for-sale/gramercy-starck-340-east-23rd-st/46-4381885?)
-    
-    ![<span class="css-5hkc96">$899,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fmmsmedia.vht.com%2fMedia%2fFloorPlan%2fDEGI%2f1038218%2f2326c73b-4138-42fd-8dd8-b724a5f424e0.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $899,000
-    
-    Kips Bay
-    
-    Gramercy Starck, 340 East 23rd St unit 7C
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="46-4382113" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/tribeca/homes-for-sale/101-warren-st/46-4382113?)
-    
-    ![<span class="css-5hkc96">$5,500,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4382113_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $5,500,000
-    
-    Tribeca
-    
-    101 Warren St unit 2510
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
-    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="15101-5537237" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/marine-park/homes-for-sale/1636-east-36-street/15101-5537237?)
-    
-    ![<span class="css-5hkc96">$679,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage17-7a4e852fb2f4d7d5e42ffe11b3825d55.svg)
-    
-    <div class="css-1ht6mw8">
-    
-    $679,000
-    
-    Marine Park
-    
-    1636 East 36 Street
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
-    House</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="390-PRCH-2986451" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/park-slope/homes-for-sale/25-plaza-street-west/390-PRCH-2986451?)
-    
-    ![<span class="css-5hkc96">$1,395,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f390-prch-2986451_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $1,395,000
-    
-    Park Slope
-    
-    25 Plaza Street West unit 3H
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
     <div id="12436-OLRS-0079241" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
@@ -670,7 +520,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/clinton-hill/homes-for-sale/94-waverly-avenue/12436-OLRS-0079241?)
     
     ![<span class="css-5hkc96">$2,550,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage18-f792cd4a098881535ad2360cba09d976.svg)
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage14-1e8f6cfcddd1a08d7c1d3165705f7e4f.svg)
     
     <div class="css-1ht6mw8">
     
@@ -700,24 +550,62 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="44-CORC-6118150" class="css-1fvngt3">
+    <div id="14621-OLRS-1891498" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/chelsea/homes-for-sale/151-west-21st-street/44-CORC-6118150?)
+    [](/real-estate/usa/ny/new-york/battery-park-city/homes-for-sale/377-rector-place/14621-OLRS-1891498?)
     
-    ![<span class="css-5hkc96">$3,350,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6118150_1.jpg&width=297)
+    ![<span class="css-5hkc96">$669,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f14621-olrs-1891498_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $3,350,000
+    $669,000
     
-    Chelsea
+    Battery Park City
     
-    151 West 21st Street unit 12A
+    377 Rector Place unit 7-F
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="737-OLRS-1889501" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/gravesend/homes-for-sale/431-avenue-p/737-OLRS-1889501?)
+    
+    ![<span class="css-5hkc96">$2,975,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f737-olrs-1889501_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,975,000
+    
+    Gravesend
+    
+    431 Avenue P unit PH-3
+    
+    <span>4 Beds</span><span class="css-pa1wgl"> | </span><span>3
     Baths</span><span class="css-pa1wgl"> |
     </span><span>Condo</span>
     
@@ -737,24 +625,136 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="14632-RLMX-03823002241807" class="css-1fvngt3">
+    <div id="403-1139196" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/kips-bay/homes-for-sale/145-east-29th-street/14632-RLMX-03823002241807?)
+    [](/real-estate/usa/ny/staten-island/st-george/homes-for-sale/90-bay-street-landing-staten-island-ny-10301/403-1139196?)
     
-    ![<span class="css-5hkc96">$385,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f14632-rlmx-03823002241807_1.jpg&width=297)
+    ![<span class="css-5hkc96">$1,399,999</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f403-1139196_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $385,000
+    $1,399,999
     
-    Kips Bay
+    St. George
     
-    145 East 29th Street unit 4C
+    90 Bay Street Landing Staten Island, Ny 10301 unit 8f
     
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Other</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="14256-OLRS-1885900" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/queens/hunters-point/homes-for-sale/4-74-48th-avenue/14256-OLRS-1885900?)
+    
+    ![<span class="css-5hkc96">$585,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f14256-olrs-1885900_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $585,000
+    
+    Hunter'S Point
+    
+    4-74 48th Avenue unit 6-L
+    
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Co-op/Condo</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="46-4382612" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/manhattan-valley/homes-for-sale/258-riverside-drive/46-4382612?)
+    
+    ![<span class="css-5hkc96">$1,750,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4382612_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $1,750,000
+    
+    Manhattan Valley
+    
+    258 Riverside Drive unit 3C
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> |
+    </span><span>Co-op</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="12436-OLRS-953345" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/prospect-heights/homes-for-sale/418-saint-johns-place/12436-OLRS-953345?)
+    
+    ![<span class="css-5hkc96">$985,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-953345_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $985,000
+    
+    Prospect Heights
+    
+    418 Saint Johns Place unit 5-C
+    
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Co-op</span>
     
@@ -774,26 +774,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="8105-OLRS-0078625" class="css-1fvngt3">
+    <div id="46-4381732" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/brooklyn/bedford-stuyvesant/homes-for-sale/1358-herkimer-street/8105-OLRS-0078625?)
+    [](/real-estate/usa/ny/new-york/lincoln-square/homes-for-sale/235-west-end-avenue/46-4381732?)
     
-    ![<span class="css-5hkc96">$1,699,999</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f8105-olrs-0078625_1.jpg&width=297)
+    ![<span class="css-5hkc96">$875,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4381732_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $1,699,999
+    $875,000
     
-    Bedford Stuyvesant
+    Lincoln Square
     
-    1358 Herkimer Street
+    235 West End Avenue unit 5C
     
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>6
-    Baths</span><span class="css-pa1wgl"> | </span><span>Multi Family
-    Townhouse</span>
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -811,26 +811,25 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="185-20286136" class="css-1fvngt3">
+    <div id="15055-5535909" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/brooklyn/bedford-stuyvesant/homes-for-sale/162-bainbridge-street/185-20286136?)
+    [](/real-estate/usa/ny/brooklyn/flatlands/homes-for-sale/1234-east-37-street/15055-5535909?)
     
-    ![<span class="css-5hkc96">$1,950,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20286136_1_080320201810.jpg&width=297)
+    ![<span class="css-5hkc96">$775,000</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage12-f56a285eab9f0008e9fdccadf2238737.svg)
     
     <div class="css-1ht6mw8">
     
-    $1,950,000
+    $775,000
     
-    Bedford Stuyvesant
+    Flatlands
     
-    162 Bainbridge Street unit HOUSE
+    1234 East 37 Street
     
-    <span>5 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> | </span><span>Multi Family
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> | </span><span>Single Family
     House</span>
     
     </div>
@@ -849,27 +848,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="46-4381841" class="css-1fvngt3">
+    <div id="46-4379955" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/flatiron/homes-for-sale/32-west-18th-st/46-4381841?)
+    [](/real-estate/usa/ny/queens/woodhaven/homes-for-sale/forest-park-coop-83-15-98th-st/46-4379955?)
     
-    ![<span class="css-5hkc96">$5,250,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4381841_1.jpg&width=297)
+    ![<span class="css-5hkc96">$195,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4379955_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $5,250,000
+    $195,000
     
-    Flatiron
+    Woodhaven
     
-    32 West 18th St unit 2B
+    Forest Park Coop, 83-15 98th St unit 5J
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
-    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
+    </span><span>Co-op</span>
     
     </div>
     
@@ -893,26 +891,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="16000-RPLU-6420186129" class="css-1fvngt3">
+    <div id="12436-OLRS-0048859" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/flatiron/homes-for-sale/280-park-avenue-south/16000-RPLU-6420186129?)
+    [](/real-estate/usa/ny/new-york/harlem/homes-for-sale/102-west-123rd-street/12436-OLRS-0048859?)
     
-    ![<span class="css-5hkc96">$1,450,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f16000-rplu-6420186129_1.jpg&width=297)
+    ![<span class="css-5hkc96">$4,650,000</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage11-0cfcc5dbaac029c795adf6f57db096c9.svg)
     
     <div class="css-1ht6mw8">
     
-    $1,450,000
+    $4,650,000
     
-    Flatiron
+    Harlem
     
-    280 Park Avenue South unit 22M
+    102 West 123rd Street
     
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
+    <span>7 Beds</span><span class="css-pa1wgl"> | </span><span>5
+    Baths</span><span class="css-pa1wgl"> | </span><span>Multi Family
+    Townhouse</span>
     
     </div>
     
@@ -930,65 +928,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="185-20292414" class="css-1fvngt3">
+    <div id="737-OLRS-1889512" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/bronx/country-club/homes-for-sale/1490-outlook-avenue/185-20292414?)
+    [](/real-estate/usa/ny/new-york/midtown-east/homes-for-sale/45-tudor-city-place/737-OLRS-1889512?)
     
-    ![<span class="css-5hkc96">$450,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage18-f792cd4a098881535ad2360cba09d976.svg)
-    
-    <div class="css-1ht6mw8">
-    
-    $450,000
-    
-    Country Club
-    
-    1490 Outlook Avenue
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="12436-OLRS-358644" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/lincoln-square/homes-for-sale/80-riverside-boulevard/12436-OLRS-358644?)
-    
-    ![<span class="css-5hkc96">$3,595,000</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage12-f56a285eab9f0008e9fdccadf2238737.svg)
+    ![<span class="css-5hkc96">$350,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f737-olrs-1889512_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $3,595,000
+    $350,000
     
-    Lincoln Square
+    Midtown East
     
-    80 Riverside Boulevard unit 4-U
+    45 Tudor City Place unit 1016
     
-    <span>4 Beds</span><span class="css-pa1wgl"> | </span><span>4
-    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
+    </span><span>Co-op</span>
     
     </div>
     
@@ -1044,175 +1003,213 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="12436-OLRS-929212" class="css-1fvngt3">
+    <div id="13063-5538020" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/harlem/homes-for-sale/301-west-118th-street/12436-OLRS-929212?)
+    [](/real-estate/usa/ny/brooklyn/sheepshead-bay/homes-for-sale/2310-jerome-avenue/13063-5538020?)
     
-    ![<span class="css-5hkc96">$1,575,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-929212_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $1,575,000
-    
-    Harlem
-    
-    301 West 118th Street unit 9-B
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="12436-OLRS-1891284" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/upper-west-side-72nd---96th-street/homes-for-sale/225-central-park-west/12436-OLRS-1891284?)
-    
-    ![<span class="css-5hkc96">$875,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1891284_1.jpg&width=297)
+    ![<span class="css-5hkc96">$3,000,000</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage16-31d08983a752a61363a921de140f8aa1.svg)
     
     <div class="css-1ht6mw8">
     
-    $875,000
+    $3,000,000
     
-    Upper West Side (72nd - 96th Street)
+    Sheepshead Bay
     
-    225 Central Park West unit 203
+    2310 Jerome Avenue
     
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="2958-PRCH-3014892" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/midtown/homes-for-sale/157-west-57th-street/2958-PRCH-3014892?)
-    
-    ![<span class="css-5hkc96">$3,600,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f2958-prch-3014892_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $3,600,000
-    
-    Midtown
-    
-    157 West 57th Street unit 39D
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="185-20253950" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/bronx/north-riverdale/homes-for-sale/5700-arlington-avenue/185-20253950?)
-    
-    ![<span class="css-5hkc96">$249,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20253950_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $249,000
-    
-    North Riverdale
-    
-    5700 Arlington Avenue
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="399-3238933" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/queens/sunnyside/homes-for-sale/47-36-44th-street/399-3238933?)
-    
-    ![<span class="css-5hkc96">$2,099,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f399-3238933_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,099,000
-    
-    Sunnyside
-    
-    47-36 44th Street
-    
-    <span>11 Beds</span><span class="css-pa1wgl"> | </span><span>6
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>12
+    Baths</span><span class="css-pa1wgl"> | </span><span>4 Half
     Baths</span><span class="css-pa1wgl"> | </span><span>Multi Family
+    House</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="14888-5537978" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/marine-park/homes-for-sale/2255-east-38th-street/14888-5537978?)
+    
+    ![<span class="css-5hkc96">$849,000</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage5-104276a54a59450e6f0cb3567b12f6a3.svg)
+    
+    <div class="css-1ht6mw8">
+    
+    $849,000
+    
+    Marine Park
+    
+    2255 East 38th Street
+    
+    <span>4 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
+    House</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="185-20288678" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/roosevelt-island/homes-for-sale/575-main-street-501/185-20288678?)
+    
+    ![<span class="css-5hkc96">$431,378</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=http%3a%2f%2fmedia.halstead.com%2ffloorplans%2f20288678-FP.gif%3fver%3d08032020&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $431,378
+    
+    Roosevelt Island
+    
+    575 Main Street 501
+    
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Co-op</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="11237-72170695289D4" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/bronx/throgs-neck---edgewater-park/homes-for-sale/641-revere-avenue/11237-72170695289D4?)
+    
+    ![<span class="css-5hkc96">$699,999</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=http%3a%2f%2fcanwestimages.gabriels.net%2f136%2f2020%2f07%2f136-20200709160827456-601.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $699,999
+    
+    Throgs Neck - Edgewater Park
+    
+    641 Revere Avenue
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
+    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
+    House</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="12436-OLRS-1891536" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/hells-kitchen/homes-for-sale/450-west-55th-street/12436-OLRS-1891536?)
+    
+    ![<span class="css-5hkc96">$385,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1891536_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $385,000
+    
+    Hell'S Kitchen
+    
+    450 West 55th Street unit 5-FW
+    
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Co-op</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="10926-OLRS-0079238" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/koreatown/homes-for-sale/46-west-36th-street/10926-OLRS-0079238?)
+    
+    ![<span class="css-5hkc96">$6,950,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10926-olrs-0079238_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $6,950,000
+    
+    Koreatown
+    
+    46 West 36th Street
+    
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>0
+    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
     Townhouse</span>
     
     </div>
@@ -1231,26 +1228,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="403-3239210" class="css-1fvngt3">
+    <div id="15091-5522733" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/queens/south-jamaica/homes-for-sale/114-26-149th-st-jamaica-ny-11436/403-3239210?)
+    [](/real-estate/usa/ny/brooklyn/borough-park/homes-for-sale/863-50-street/15091-5522733?)
     
-    ![<span class="css-5hkc96">$489,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f403-3239210_1.jpg&width=297)
+    ![<span class="css-5hkc96">$674,999</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage17-7a4e852fb2f4d7d5e42ffe11b3825d55.svg)
     
     <div class="css-1ht6mw8">
     
-    $489,000
+    $674,999
     
-    South Jamaica
+    Borough Park
     
-    114-26 149th St Jamaica, Ny 11436
+    863 50 Street unit 3B
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
-    House</span>
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> | </span><span>Condo</span>
     
     </div>
     
@@ -1268,7 +1265,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
 <div class="css-317rfz">
 
-1 - 24 of 17317 Homes
+1 - 24 of 17394 Homes
 
   - 
   - 1
@@ -1279,7 +1276,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - ...
 
-  - 722
+  - 725
 
   - 
 

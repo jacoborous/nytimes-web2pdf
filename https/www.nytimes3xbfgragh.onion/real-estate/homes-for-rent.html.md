@@ -318,61 +318,24 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="46-4382135" class="css-1fvngt3">
+    <div id="12436-OLRS-1453475" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/queens/forest-hills/homes-for-rent/10824-71st-avenue/46-4382135?)
+    [](/real-estate/usa/ny/new-york/chelsea/homes-for-rent/270-west-17th-street/12436-OLRS-1453475?)
     
-    ![<span class="css-5hkc96">$2,750</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4382135_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,750
-    
-    Forest Hills
-    
-    10824 71st Avenue unit 1H
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span></span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="44-CORC-6118570" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/brooklyn-heights/homes-for-rent/1-willow-place/44-CORC-6118570?)
-    
-    ![<span class="css-5hkc96">$1,950</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6118570_1.jpg&width=297)
+    ![<span class="css-5hkc96">$3,800</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1453475_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $1,950
+    $3,800
     
-    Brooklyn Heights
+    Chelsea
     
-    1 Willow Place unit 2R
+    270 West 17th Street unit 2-I
     
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Condo</span>
     
@@ -392,22 +355,22 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="14668-NEST-115288" class="css-1fvngt3">
+    <div id="15201-RLMX-00119001114824" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/flatiron/homes-for-rent/60-west-23rd-street/14668-NEST-115288?)
+    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/248-e-90th-st/15201-RLMX-00119001114824?)
     
-    ![<span class="css-5hkc96">$4,200</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fassets.nestiostatic.com%2funit_photos%2foriginals%2f00862c4b10228077cc3cbf25ddbb17a7.jpg%3fs%3d0cf20b64a282162c600de90d68cacece&width=297)
+    ![<span class="css-5hkc96">$2,250</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f15201-rlmx-00119001114824_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $4,200
+    $2,250
     
-    Flatiron
+    Upper East Side
     
-    60 West 23rd Street unit 740
+    248 E 90th St. unit 2B
     
     <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
@@ -429,26 +392,63 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="12436-OLRS-1885057" class="css-1fvngt3">
+    <div id="46-4322149" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/210-east-63rd-street/12436-OLRS-1885057?)
+    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/yorkshire-towers-305-east-86th-st/46-4322149?)
     
-    ![<span class="css-5hkc96">$2,500</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1885057_1.jpg&width=297)
+    ![<span class="css-5hkc96">$3,806</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage7-78b8a74e7eb2b9790425f76d4b3a2c32.svg)
     
     <div class="css-1ht6mw8">
     
-    $2,500
+    $3,806
     
     Upper East Side
     
-    210 East 63rd Street unit 3-A
+    Yorkshire Towers, 305 East 86th St unit 10ME
     
     <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
+    </span><span></span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="493-OLRS-1882530" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/financial-district/homes-for-rent/15-william-street/493-OLRS-1882530?)
+    
+    ![<span class="css-5hkc96">$3,350</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f493-olrs-1882530_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $3,350
+    
+    Financial District
+    
+    15 William Street unit 7-D
+    
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -472,59 +472,22 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="46-4374471" class="css-1fvngt3">
+    <div id="254-1726693080320" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/midtown-east/homes-for-rent/150-east-56th-st/46-4374471?)
+    [](/real-estate/usa/ny/new-york/union-square/homes-for-rent/31-union-square-west/254-1726693080320?)
     
-    ![<span class="css-5hkc96">$3,200</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4374471_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $3,200
-    
-    Midtown East
-    
-    150 East 56th St unit 3A
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="10885-BOLD-226469" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/park-slope/homes-for-rent/437--1st-st/10885-BOLD-226469?)
-    
-    ![<span class="css-5hkc96">$2,259</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-226469_1.jpg&width=297)
+    ![<span class="css-5hkc96">$4,242</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f254-1726693080320_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $2,259
+    $4,242
     
-    Park Slope
+    Union Square
     
-    437 1st St unit 2D
+    31 Union Square West unit 3-D
     
     <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
@@ -546,26 +509,27 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="185-20292922" class="css-1fvngt3">
+    <div id="12436-OLRS-1891468" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/420-east-64th-street-e11k/185-20292922?)
+    [](/real-estate/usa/ny/brooklyn/bedford-stuyvesant/homes-for-rent/797-herkimer-street/12436-OLRS-1891468?)
     
-    ![<span class="css-5hkc96">$2,750</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20292922_1.jpg&width=297)
+    ![<span class="css-5hkc96">$4,500</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1891468_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $2,750
+    $4,500
     
-    Upper East Side
+    Bedford Stuyvesant
     
-    420 East 64th Street E11k
+    797 Herkimer Street unit 2
     
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Co-op/Condo</span>
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> | </span><span>Multi Family
+    Townhouse</span>
     
     </div>
     
@@ -583,24 +547,24 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="343-RLMX-001030011639325" class="css-1fvngt3">
+    <div id="13278-PRCH-3015689" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/417-east-65-street/343-RLMX-001030011639325?)
+    [](/real-estate/usa/ny/brooklyn/prospect-heights/homes-for-rent/460-prospect-place/13278-PRCH-3015689?)
     
-    ![<span class="css-5hkc96">$1,925</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f343-rlmx-001030011639325_1.jpg&width=297)
+    ![<span class="css-5hkc96">$3,525</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f13278-prch-3015689_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $1,925
+    $3,525
     
-    Upper East Side
+    Prospect Heights
     
-    417 East 65 Street unit 25
+    460 Prospect Place unit 3
     
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    <span>4 Beds</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Apartment</span>
     
@@ -620,26 +584,26 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="46-4337084" class="css-1fvngt3">
+    <div id="185-20255348" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/battery-park-city/homes-for-rent/gateway-355-south-end-avenue/46-4337084?)
+    [](/real-estate/usa/ny/new-york/chelsea/homes-for-rent/440-west-22nd-street-garden/185-20255348?)
     
-    ![<span class="css-5hkc96">$4,320</span> ¶
-    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage4-0cfb954be97cb6156eeace1e5992d0d3.svg)
+    ![<span class="css-5hkc96">$8,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20255348_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $4,320
+    $8,000
     
-    Battery Park City
+    Chelsea
     
-    Gateway, 355 South End Avenue unit 18F
+    440 West 22nd Street Garden
     
     <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span></span>
+    Baths</span><span class="css-pa1wgl"> | </span><span>Single Family
+    House</span>
     
     </div>
     
@@ -657,62 +621,24 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="1519-RPLU-217120292291" class="css-1fvngt3">
+    <div id="185-20293055" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/washington-heights/homes-for-rent/143-bennett-avenue/1519-RPLU-217120292291?)
-    
-    ![<span class="css-5hkc96">$2,100</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f1519-rplu-217120292291_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,100
-    
-    Washington Heights
-    
-    143 Bennett Avenue unit 1S
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Co-op</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="185-20293587" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/queens/maspeth/homes-for-rent/60--46-69th-place/185-20293587?)
+    [](/real-estate/usa/ny/queens/astoria/homes-for-rent/25-64-50th-street/185-20293055?)
     
     ![<span class="css-5hkc96">$2,400</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20293587_1.jpg&width=297)
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20293055_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
     $2,400
     
-    Maspeth
+    Astoria
     
-    60 -46 69th Place
+    25-64 50th Street
     
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> | </span><span>Single Family
     House</span>
     
@@ -732,287 +658,22 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="343-RLMX-001030011639373" class="css-1fvngt3">
+    <div id="44-6118702" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/234-east-87-street/343-RLMX-001030011639373?)
+    [](/real-estate/usa/ny/brooklyn/greenpoint/homes-for-rent/93-herbert-street/44-6118702?)
     
-    ![<span class="css-5hkc96">$3,663</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f343-rlmx-001030011639373_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $3,663
-    
-    Upper East Side
-    
-    234 East 87 Street unit 4B
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Apartment</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="10885-BOLD-226510" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/williamsburg/homes-for-rent/205-n-8th-st/10885-BOLD-226510?)
-    
-    ![<span class="css-5hkc96">$2,300</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-226510_1.jpg&width=297)
+    ![<span class="css-5hkc96">$3,599</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118702_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $2,300
+    $3,599
     
-    Williamsburg
+    Greenpoint
     
-    205 N 8th St unit A1
-    
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Apartment</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="2117-OLRS-1835469" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/lincoln-square/homes-for-rent/200-west-67th-street/2117-OLRS-1835469?)
-    
-    ![<span class="css-5hkc96">$10,604</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f2117-olrs-1835469_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $10,604
-    
-    Lincoln Square
-    
-    200 West 67th Street unit 36-E
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span>Apartment</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div class="css-rxp15o">
-    
-    </div>
-
-  - 
-    
-    <div id="46-4381517" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/the-easton-205-east-92nd-st/46-4381517?)
-    
-    ![<span class="css-5hkc96">$12,750</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4381517_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $12,750
-    
-    Upper East Side
-    
-    The Easton, 205 East 92nd St unit 36B
-    
-    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span></span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="14605-OLRS-1891224" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/kips-bay/homes-for-rent/340-east-23rd-street/14605-OLRS-1891224?)
-    
-    ![<span class="css-5hkc96">$3,695</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f14605-olrs-1891224_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $3,695
-    
-    Kips Bay
-    
-    340 East 23rd Street unit 12-F
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="44-CORC-6118322" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/financial-district/homes-for-rent/20-pine-street/44-CORC-6118322?)
-    
-    ![<span class="css-5hkc96">$9,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6118322_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $9,000
-    
-    Financial District
-    
-    20 Pine Street unit 1404
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="399-3239267" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/428-e-85-street/399-3239267?)
-    
-    ![<span class="css-5hkc96">$1,900</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f399-3239267_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $1,900
-    
-    Upper East Side
-    
-    428 E 85 Street
-    
-    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span></span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="44-6118132" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/bedford-stuyvesant/homes-for-rent/417-gates-avenue/44-6118132?)
-    
-    ![<span class="css-5hkc96">$2,450</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118132_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,450
-    
-    Bedford Stuyvesant
-    
-    417 Gates Avenue unit 1-R
+    93 Herbert Street unit 4
     
     <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
@@ -1034,98 +695,24 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="44-6118149" class="css-1fvngt3">
+    <div id="209-RPLU-62412031953" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/queens/hunters-point/homes-for-rent/11-51-44th-drive/44-6118149?)
+    [](/real-estate/usa/ny/new-york/lower-east-side/homes-for-rent/268-east-broadway/209-RPLU-62412031953?)
     
-    ![<span class="css-5hkc96">$3,400</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118149_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $3,400
-    
-    Hunter'S Point
-    
-    11-51 44th Drive
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>2
-    Baths</span><span class="css-pa1wgl"> | </span><span>Single Family
-    Townhouse</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="46-4381314" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/brooklyn/sunset-park/homes-for-rent/426-47th-st/46-4381314?)
-    
-    ![<span class="css-5hkc96">$1,500</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4381314_1.jpg&width=297)
+    ![<span class="css-5hkc96">$4,500</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=http%3a%2f%2fjagmedia1.airpear.net%2fFloorplans%2f620836787be146f6b98e7b97947966a4e0e48d9120e004a3.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $1,500
+    $4,500
     
-    Sunset Park
+    Lower East Side
     
-    426 47th St unit 3F
+    268 East Broadway unit A2001
     
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> |
-    </span><span></span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="10885-BOLD-226692" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/midtown-east/homes-for-rent/227-e-57th-st/10885-BOLD-226692?)
-    
-    ![<span class="css-5hkc96">$2,950</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-226692_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,950
-    
-    Midtown East
-    
-    227 E 57th St unit 2F
-    
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Co-op</span>
     
@@ -1145,22 +732,399 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="56-20286472" class="css-1fvngt3">
+    <div id="14668-NEST-115316" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/new-york/lincoln-square/homes-for-rent/25-central-park-west-19u/56-20286472?)
+    [](/real-estate/usa/ny/new-york/east-village/homes-for-rent/636-east-11th-street/14668-NEST-115316?)
     
-    ![<span class="css-5hkc96">$5,000</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f56-20286472_1.jpg&width=297)
+    ![<span class="css-5hkc96">$4,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f14668-nest-115316_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $5,000
+    $4,000
     
-    Lincoln Square
+    East Village
     
-    25 Central Park West 19u unit 19U
+    636 East 11th Street unit G2
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="978-OLRS-1564965" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/chelsea/homes-for-rent/466-west-23rd-street/978-OLRS-1564965?)
+    
+    ![<span class="css-5hkc96">$2,550</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f978-olrs-1564965_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,550
+    
+    Chelsea
+    
+    466 West 23rd Street unit 3-F
+    
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="10885-BOLD-228564" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/hells-kitchen/homes-for-rent/459-w-43rd-st/10885-BOLD-228564?)
+    
+    ![<span class="css-5hkc96">$3,917</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-228564_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $3,917
+    
+    Hell'S Kitchen
+    
+    459 W 43rd St unit 4AA
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div class="css-rxp15o">
+    
+    </div>
+
+  - 
+    
+    <div id="12436-OLRS-1891469" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/midwood/homes-for-rent/1921-avenue-k/12436-OLRS-1891469?)
+    
+    ![<span class="css-5hkc96">$1,845</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f12436-olrs-1891469_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $1,845
+    
+    Midwood
+    
+    1921 Avenue K unit C-5
+    
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="13278-PRCH-3015693" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/greenwood-heights/homes-for-rent/308-prospect-avenue/13278-PRCH-3015693?)
+    
+    ![<span class="css-5hkc96">$2,899</span> ¶
+    **](https://g1.graylady3jvrrxbe.onion/assets/realestate/vi-assets/static-assets/defaultListingImage3-2ec8f5869678308325e74f557e773222.svg)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,899
+    
+    Greenwood Heights
+    
+    308 Prospect Avenue unit 1 R
+    
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> | </span><span>1 Half
+    Bath</span><span class="css-pa1wgl"> | </span><span>Multi Family
+    Townhouse</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="185-20294278" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/221-east-76th-street-2b/185-20294278?)
+    
+    ![<span class="css-5hkc96">$2,000</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f185-20294278_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,000
+    
+    Upper East Side
+    
+    221 East 76th Street 2b
+    
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Co-op</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="10885-BOLD-227926" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/east-village/homes-for-rent/228-e-5th-st/10885-BOLD-227926?)
+    
+    ![<span class="css-5hkc96">$2,895</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10885-bold-227926_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,895
+    
+    East Village
+    
+    228 E 5th St unit 3
+    
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="10934-OLRS-1890745" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/upper-west-side-72nd---96th-street/homes-for-rent/130-west-78th-street/10934-OLRS-1890745?)
+    
+    ![<span class="css-5hkc96">$2,100</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f10934-olrs-1890745_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,100
+    
+    Upper West Side (72nd - 96th Street)
+    
+    130 West 78th Street unit 4-B
+    
+    <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="44-CORC-6119004" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/clinton-hill/homes-for-rent/555-waverly-avenue/44-CORC-6119004?)
+    
+    ![<span class="css-5hkc96">$3,335</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6119004_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $3,335
+    
+    Clinton Hill
+    
+    555 Waverly Avenue unit 6H
+    
+    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> |
+    </span><span>Apartment</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="44-6118703" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/brooklyn/east-new-york/homes-for-rent/680-hendrix-street/44-6118703?)
+    
+    ![<span class="css-5hkc96">$2,500</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118703_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,500
+    
+    East New York
+    
+    680 Hendrix Street unit 2nd Fl
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>2
+    Baths</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="44-CORC-6113675" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/301-east-66th-street/44-CORC-6113675?)
+    
+    ![<span class="css-5hkc96">$4,300</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6113675_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $4,300
+    
+    Upper East Side
+    
+    301 East 66th Street unit 10B
     
     <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
@@ -1182,25 +1146,62 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - 
     
-    <div id="1519-RPLU-217120292594" class="css-1fvngt3">
+    <div id="46-4381859" class="css-1fvngt3">
     
     <div class="css-c7p4ud">
     
-    [](/real-estate/usa/ny/brooklyn/prospect-heights/homes-for-rent/400-lincoln-place/1519-RPLU-217120292594?)
+    [](/real-estate/usa/ny/new-york/hells-kitchen/homes-for-rent/505-west-43rd-st/46-4381859?)
     
-    ![<span class="css-5hkc96">$2,300</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f1519-rplu-217120292594_1.jpg&width=297)
+    ![<span class="css-5hkc96">$7,900</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f46-4381859_1_080420200608.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
-    $2,300
+    $7,900
     
-    Prospect Heights
+    Hell'S Kitchen
     
-    400 Lincoln Place unit 5B
+    505 West 43rd St unit 3B
     
-    <span>1 Bed</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>Co-op</span>
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
+    Baths</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="2958-PRCH-3016702" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/hells-kitchen/homes-for-rent/750-ninth-avenue/2958-PRCH-3016702?)
+    
+    ![<span class="css-5hkc96">$2,800</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f2958-prch-3016702_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $2,800
+    
+    Hell'S Kitchen
+    
+    750 Ninth Avenue unit 1RR
+    
+    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
+    Bath</span><span class="css-pa1wgl"> | </span><span>Apartment</span>
     
     </div>
     
@@ -1218,7 +1219,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
 <div class="css-317rfz">
 
-1 - 24 of 23767 Homes
+1 - 24 of 23677 Homes
 
   - 
   - 1
@@ -1229,7 +1230,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - ...
 
-  - 991
+  - 987
 
   - 
 
@@ -1282,8 +1283,8 @@ Show
   - [Park Slope](/real-estate/usa/ny/brooklyn/park-slope/homes-for-rent)
   - [Brooklyn
     Heights](/real-estate/usa/ny/brooklyn/brooklyn-heights/homes-for-rent)
-  - [Crown
-    Heights](/real-estate/usa/ny/brooklyn/crown-heights/homes-for-rent)
+  - [Downtown
+    Brooklyn](/real-estate/usa/ny/brooklyn/downtown-brooklyn/homes-for-rent)
 
 <div class="showMore">
 

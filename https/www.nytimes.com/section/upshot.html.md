@@ -150,11 +150,64 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christie
-    Hemm Klok for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    A. Lieb/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/04/upshot/04up-medicaid-ballots/04up-medicaid-ballots-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [How Ballot Initiatives Changed the Game on Medicaid Expansion](/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
+    
+    Missouri is the latest state where a nonprofit has helped put the
+    issue before voters, bypassing Republican officials. And the vote is
+    today.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Kliff</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
+    
+    Send us your medical bills. We’ll use them to investigate hospital
+    and doctor billing
+    practices.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Kliff</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+    Gelber</span>](https://static01.nyt.com/images/2020/07/30/autossell/30up-medicalbills-callout-still/30up-medicalbills-callout-still-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Share Your Medical Bills for Coronavirus](/2020/08/03/reader-center/coronavirus-medical-bills.html)
+    
+    As we explore how the pandemic is changing U.S. health care, you can
+    help by showing what you’re being charged for testing and
+    treatment.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Kliff</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christie
+    Hemm Klok for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/31/upshot/31up-laptop1/merlin_132079076_044095ef-af9c-4f30-b8f5-6f6dfe447e7c-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Remote Work Isn’t Working? Maybe Your Company Is Doing It Wrong](/2020/07/31/upshot/remote-work-tips.html)
     
@@ -168,7 +221,13 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/us/coronavirus-stimulus-republicans-democrats-promo-1596103233120/coronavirus-stimulus-republicans-democrats-promo-1596103233120-videoLarge-v3.png)
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/us/coronavirus-stimulus-republicans-democrats-promo-1596103233120/coronavirus-stimulus-republicans-democrats-promo-1596103233120-videoLarge-v3.png)
     
     <div class="css-10wtrbd">
     
@@ -184,7 +243,7 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
     Jose Sanchez/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/30/upshot/30up-unrest-suburbs/merlin_175027380_4d52b94c-d484-46af-b076-aefc27a1be02-videoLarge.jpg)
     
@@ -203,7 +262,7 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-videoLarge.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/23/upshot/masks-by-outbreak-severity-2-1595448230829/masks-by-outbreak-severity-2-1595448230829-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -219,13 +278,7 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Elise
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Elise
     Amendola/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/29/upshot/29up-trumppoll/29up-trumppoll-videoLarge-v2.jpg)
     
@@ -236,59 +289,6 @@ Upshot](/vi-assets/static-assets/upshot-logo-285x54-55b3e554ac6febafebfdb580abad
     Registered Republicans were actually more likely than registered
     Democrats to respond to the Times/Siena
     survey.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nate
-    Cohn</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/25/upshot/up-vavreck2-1595800931366/up-vavreck2-1595800931366-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How Local Covid Deaths Are Affecting Vote Choice](/2020/07/28/upshot/polling-trump-virus-election.html)
-    
-    A rise in coronavirus-related deaths in a given community tends to
-    reduce support for
-    Republicans.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Lynn Vavreck</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Christopher
-    Warshaw</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/us/up-pooled-testing-promo-1595625370916/up-pooled-testing-promo-1595625370916-videoLarge-v3.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How to Test More People for Coronavirus Without Actually Needing More Tests](/interactive/2020/07/27/upshot/coronavirus-pooled-testing.html)
-    
-    Pooled testing, which can make one coronavirus test as powerful as
-    five, is particularly useful when the infection rate is low. Its use
-    could free up more tests for places where the virus is more
-    widespread.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Quoctrung Bui</span>,
-    <span class="css-1baulvz" itemprop="name">Sarah Kliff</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Margot
-    Sanger-Katz</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leah
-    Millis/Reuters</span>](https://static01.nyt.com/images/2020/07/24/upshot/24up-map/24up-map-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [White Flight From Trump? What a Decisive Biden Win Could Look Like](/2020/07/24/upshot/biden-polls-demographics.html)
-    
-    Republican structural advantages in the House, the Senate and the
-    Electoral College would be in
-    jeopardy.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nate
@@ -368,6 +368,75 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/reader-center/healthcare-workers-coronavirus-care.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03providers-callout/03providers-callout-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Providers: How Has Covid-19 Changed Your Practice?
+    
+    We want to hear from health care providers in the U.S. about how the
+    pandemic has changed work.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Kliff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/health/covid-telemedicine-congress.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Is Telemedicine Here to Stay?
+    
+    The answer largely depends on whether Medicare and private health
+    insurers will adequately cover virtual doctor visits once
+    coronavirus outbreaks subside.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reed
+    Abelson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/health/dr-birx-coronavirus-phase.html)
     
     <div class="css-79elbk">
@@ -397,7 +466,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -432,7 +501,42 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/28/upshot/polling-trump-virus-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/25/upshot/up-vavreck2-1595800931366/up-vavreck2-1595800931366-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Local Covid Deaths Are Affecting Vote Choice
+    
+    A rise in coronavirus-related deaths in a given community tends to
+    reduce support for Republicans.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lynn Vavreck <span>and</span>
+    Christopher
+    Warshaw</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -466,7 +570,78 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/27/upshot/coronavirus-pooled-testing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/us/up-pooled-testing-promo-1595625370916/up-pooled-testing-promo-1595625370916-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Test More People for Coronavirus Without Actually Needing More Tests
+    
+    Pooled testing, which can make one coronavirus test as powerful as
+    five, is particularly useful when the infection rate is low. Its use
+    could free up more tests for places where the virus is more
+    widespread.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Quoctrung Bui, Sarah Kliff
+    <span>and</span> Margot
+    Sanger-Katz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/24/upshot/biden-polls-demographics.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/upshot/24up-map/24up-map-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## White Flight From Trump? What a Decisive Biden Win Could Look Like
+    
+    Republican structural advantages in the House, the Senate and the
+    Electoral College would be in jeopardy.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nate
+    Cohn</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -500,7 +675,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -522,186 +697,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Claire Cain
-    Miller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/world/canada/asylum-Safe-Third-Country-Agreement.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/world/22canada-refugees/22canada-refugees-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Canadian Court Says Asylum Treaty With U.S. Is Unconstitutional
-    
-    The treaty has long been criticized by human-rights advocates who
-    said it tacitly encouraged asylum-seekers to circumvent Canada’s
-    official land borders.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Dan
-    Bilefsky</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/health/covid-antibodies-herd-immunity.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/science/00VIRUS-REINFECTION1/00VIRUS-REINFECTION1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Can You Get Covid-19 Again? It’s Very Unlikely, Experts Say
-    
-    Reports of reinfection instead may be cases of drawn-out illness. A
-    decline in antibodies is normal after a few weeks, and people are
-    protected from the coronavirus in other ways.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes.com/es/2020/07/24/espanol/ciencia-y-tecnologia/reinfeccion-coronavirus.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/upshot/vaccine-coronavirus-government-purchase.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/upshot/22up-vaccine/22up-vaccine-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The U.S. Commits to Buying Millions of Vaccine Doses. Why That’s Unusual.
-    
-    Besides the fact that there’s no coronavirus vaccine yet, the
-    government usually lets the private sector handle it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah
-    Kliff</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/health/covid-19-vaccine-coronavirus-moderna-pfizer.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/science/21VIRUS-VACCINE/21VIRUS-VACCINE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Some Vaccine Makers Say They Plan to Profit From Coronavirus Vaccine
-    
-    Moderna, which is receiving $483 million from the U.S. government,
-    told lawmakers it would not sell its vaccine at cost. Pfizer has
-    said it would also profit, but has so far taken no government money.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katherine J.
-    Wu</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/health/coronavirus-infections-us.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/science/21VIRUS-CDC/21VIRUS-CDC-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Infections Much Higher Than Reported Cases in Parts of U.S., Study Shows
-    
-    Data from antibody tests in 10 different cities and states indicate
-    that many people with no symptoms may be spreading the virus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
+    By <span class="css-1n7hynb">Claire Cain Miller</span>
     
     </div>
     

@@ -135,14 +135,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -391,7 +391,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-230,648
+230,964
 
 </div>
 
@@ -407,7 +407,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-23,021
+23,027
 
 </div>
 
@@ -442,15 +442,15 @@ available
 
 [Map](#map)[By ZIP code](#zipcode)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-There have been at least 230,648 cases of coronavirus in New York City,
-according to a New York Times database. As of Tuesday morning, at least
-23,021 people had
+There have been at least 230,964 cases of coronavirus in New York City,
+according to a New York Times database. As of Tuesday afternoon, at
+least 23,027 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map" style="max-width: 720px">
@@ -732,16 +732,16 @@ illness.</span>
 
 |                                                                                                                                                                | Cases               | Per 100,000         | Deaths            | Per 100,000       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- | ----------------- | ----------------- |
-| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>4,982 </span> | <span>4,464 </span> | <span>444 </span> | <span>398 </span> |
-| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,714 </span> | <span>3,685 </span> | <span>320 </span> | <span>318 </span> |
-| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,446 </span> | <span>3,710 </span> | <span>296 </span> | <span>319 </span> |
-| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,237 </span> | <span>3,486 </span> | <span>235 </span> | <span>253 </span> |
-| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,186 </span> | <span>4,455 </span> | <span>361 </span> | <span>505 </span> |
-| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,016 </span> | <span>3,933 </span> | <span>221 </span> | <span>288 </span> |
-| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>2,935 </span> | <span>3,031 </span> | <span>298 </span> | <span>308 </span> |
-| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,824 </span> | <span>3,109 </span> | <span>201 </span> | <span>221 </span> |
-| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,758 </span> | <span>2,952 </span> | <span>290 </span> | <span>310 </span> |
-| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,737 </span> | <span>4,375 </span> | <span>257 </span> | <span>411 </span> |
+| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>4,984 </span> | <span>4,466 </span> | <span>444 </span> | <span>398 </span> |
+| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,726 </span> | <span>3,697 </span> | <span>320 </span> | <span>318 </span> |
+| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,449 </span> | <span>3,714 </span> | <span>296 </span> | <span>319 </span> |
+| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,243 </span> | <span>3,492 </span> | <span>235 </span> | <span>253 </span> |
+| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,193 </span> | <span>4,465 </span> | <span>361 </span> | <span>505 </span> |
+| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,025 </span> | <span>3,945 </span> | <span>221 </span> | <span>288 </span> |
+| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>2,937 </span> | <span>3,033 </span> | <span>298 </span> | <span>308 </span> |
+| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,826 </span> | <span>3,111 </span> | <span>201 </span> | <span>221 </span> |
+| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,762 </span> | <span>2,956 </span> | <span>290 </span> | <span>310 </span> |
+| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,741 </span> | <span>4,381 </span> | <span>257 </span> | <span>411 </span> |
 
 Show all
 
@@ -847,7 +847,7 @@ this article are being updated several times a day based on the latest
 information our journalists are gathering from around the country.
 
 Follow our coverage of the [coronavirus pandemic
-here.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+here.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 <div id="cases" class="g-asset g-svelte" style="max-width: 600px">
 

@@ -188,7 +188,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -223,7 +223,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

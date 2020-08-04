@@ -2701,6 +2701,23 @@ Daily</span>
 
 <div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
 
+[![](https://static01.nyt.com/images/2020/07/30/us/politics/04daily/30trump-election1-thumbLarge.jpg)](https://www.nytimes.com/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 4, 2020<span class="css-i5svdo">Is the U.S. Ready to Vote by
+Mail?</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
 [![](https://static01.nyt.com/images/2020/06/24/business/03daily/24michigan-arrest1-thumbLarge.jpg)](https://www.nytimes.com/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
 
 <div class="css-14o8mz7 e1gfokfg2">
@@ -2890,23 +2907,6 @@ Portland</span>
 July 22, 2020<span>  <span class="css-orcm78">•</span> 
 27:24</span><span class="css-i5svdo">The Science of School
 Reopenings</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.nyt.com/images/2020/07/19/science/21daily/00VIRUS-VAX-DOUBTS1-thumbLarge.jpg)](https://www.nytimes.com/2020/07/21/podcasts/the-daily/coronavirus-vaccine.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-July 21, 2020<span>  <span class="css-orcm78">•</span> 
-29:14</span><span class="css-i5svdo">The Vaccine Trust Problem</span>
 
 </div>
 

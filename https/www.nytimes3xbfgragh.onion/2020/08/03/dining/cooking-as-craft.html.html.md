@@ -133,6 +133,38 @@ Craft</span>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
 
+<div>
+
+<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="at-home-nav__innerContainer">
+
+<div class="at-home-nav__title">
+
+[At
+Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+  - [Talk: To
+    Strangers](https://www.nytimes3xbfgragh.onion/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes3xbfgragh.onion/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes3xbfgragh.onion/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div id="top-wrapper" class="css-1sy8kpn">

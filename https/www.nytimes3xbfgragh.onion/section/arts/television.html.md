@@ -411,6 +411,115 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Comedy</span>
+    
+    ## Sam Jay: A Comic Who Belongs to No Camp
+    
+    With a deadpan glare, the stand-up takes shots at everyone and won’t
+    say something funny just for a laugh. Now she’s on the cusp of
+    breaking out, thanks to a Netflix special.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jason
+    Zinoman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Ask a TV critic</span>
+    
+    ## After ‘The Good Fight,’ Try ‘The Split’
+    
+    Our television critic answers your questions and offers guidance on
+    what to watch next.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Margaret
+    Lyons</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">What I Love</span>
+    
+    ## Harris Faulkner, Working From Home in Shades of Blue
+    
+    The Fox News anchor’s mother gave her some decorating advice: ‘Just
+    make it beautiful.’ And she’s been trying.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Joanne
+    Kaufman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
     
     <div class="css-79elbk">
@@ -442,7 +551,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -477,7 +586,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -512,7 +621,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -546,7 +655,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -581,7 +690,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -615,7 +724,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -636,112 +745,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Noel
-    Murray</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/television/late-night-trump-delay-election.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31latenight/31latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Best of Late Night</span>
-    
-    ## Jimmy Fallon to Trump: ‘How Long a Delay Are We Talking About?’
-    
-    Fallon wonders just how far back he wants to push the election:
-    “Months, like your response to Covid? Years, like your response to
-    Putin? Or decades, like a hug for Don Jr.?”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Trish
-    Bendix</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/television/whats-on-tv-friday-black-is-king-and-little-women.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31tvcol-blackisking/31tvcol-blackisking-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s on TV Friday: ‘Black Is King’ and ‘Little Women’
-    
-    A visual album from Beyoncé debuts on Disney+. And Greta Gerwig’s
-    “Little Women” adaptation airs on Starz.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gabe
-    Cohn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/television/bryan-cranston-coronavirus-plasma.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30xp-virus-cranston/merlin_159049299_9b91b8fd-a034-4134-baeb-43c2b24f2e45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bryan Cranston, Star of ‘Breaking Bad,’ Says He’s Recovered From the Coronavirus
-    
-    The actor shared a video of himself donating plasma, which he said
-    had virus antibodies that could possibly help others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Neil Vigdor</span>
+    By <span class="css-1n7hynb">Noel Murray</span>
     
     </div>
     

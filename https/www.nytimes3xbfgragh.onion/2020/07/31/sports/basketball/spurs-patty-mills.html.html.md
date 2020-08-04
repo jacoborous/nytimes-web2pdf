@@ -115,12 +115,12 @@ Got’</span>
 and</span><span class="css-1pje3qr">
 America</span></span>](https://www.nytimes3xbfgragh.onion/news-event/george-floyd-protests-minneapolis-new-york-los-angeles?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [Protesters Return to Other
-    Cities](https://www.nytimes3xbfgragh.onion/2020/07/26/us/protests-portland-seattle-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Portland at the
-    Center](https://www.nytimes3xbfgragh.onion/2020/07/24/us/portland-oregon-protests-white-race.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Podcast: Showdown in
-    Portland](https://www.nytimes3xbfgragh.onion/2020/07/23/podcasts/the-daily/portland-protests.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Black Lives Matter
+    Movement](https://www.nytimes3xbfgragh.onion/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [History of ‘I Can’t
+    Breathe’](https://www.nytimes3xbfgragh.onion/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [How Public Opinion
+    Shifted](https://www.nytimes3xbfgragh.onion/interactive/2020/06/10/upshot/black-lives-matter-attitudes.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [45 Days in
     Louisville](https://www.nytimes3xbfgragh.onion/interactive/2020/07/16/us/black-lives-matter-protests-louisville-breonna-taylor.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
