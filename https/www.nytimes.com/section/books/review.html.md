@@ -166,29 +166,30 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvie
-    Rosokoff</span>](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Private
+    collection/Picture Research Consultants and
+    Archives</span>](https://static01.nyt.com/images/2020/08/04/books/review/04Isaacson/04Isaacson-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbStandard.jpg)](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    [![](https://static01.nyt.com/images/2020/08/04/books/review/04Isaacson/04Isaacson-thumbStandard.jpg)](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
     
     </div>
     
     ### Nonfiction
     
-    ## [Morgan Jerkins Heads Down South in Search of Her Black Identity](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
+    ## [‘Life of a Klansman’ Tells Ugly Truths About America, Past and Present](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
     
-    “Wandering in Strange Lands” traces the author’s ancestry — and the
-    history of African-American oppression — along the footsteps of the
-    Great
-    Migration.
+    In his latest book, Edward Ball retraces an ancestor’s involvement
+    with the Ku Klux Klan in order to shed light on the country’s legacy
+    of white
+    supremacy.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Afua
-    Hirsch</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Walter
+    Isaacson</span></span>
     
     </div>
 
@@ -218,52 +219,53 @@ story](#after-sponsor)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-        Miller</span>](https://static01.nyt.com/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/16/books/review/Kolbert/Kolbert-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Fiction
+        ### Nonfiction
         
-        ## [Aimee Bender’s Latest Is a Proustian Reverie](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
+        ## [A History of Hurricanes in America and the Devastation They Have Wrought](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-thumbStandard.jpg)](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
+        [![](https://static01.nyt.com/images/2020/08/16/books/review/Kolbert/Kolbert-thumbStandard.jpg)](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
         
         </div>
         
-        In “The Butterfly Lampshade,” objects are as alive as human
-        beings.
+        In “A Furious Sky,” Eric Jay Dolin recounts 500 years of
+        reckoning with the monster storms that come in off the Atlantic
+        Ocean.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Kevin
-        Brockmeier</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
+        Kolbert</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gerald
-        Hebert/Reuters</span>](https://static01.nyt.com/images/2020/08/09/books/review/09Heilbrunn/merlin_11209316_2660760c-7462-4a8a-9032-e76095bdd0d5-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvie
+        Rosokoff</span>](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### nonfiction
+        ### Nonfiction
         
-        ## [Why the United States Invaded Iraq](/2020/07/28/books/review/to-start-a-war-robert-draper.html)
+        ## [Morgan Jerkins Heads Down South in Search of Her Black Identity](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/09/books/review/09Heilbrunn/merlin_11209316_2660760c-7462-4a8a-9032-e76095bdd0d5-thumbStandard.jpg)](/2020/07/28/books/review/to-start-a-war-robert-draper.html)
+        [![](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbStandard.jpg)](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
         
         </div>
         
-        Robert Draper’s “To Start a War” provides the deep background on
-        the decisions that took America into war in the Middle
-        East.
+        “Wandering in Strange Lands” traces the author’s ancestry — and
+        the history of African-American oppression — along the footsteps
+        of the Great
+        Migration.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jacob
-        Heilbrunn</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Afua
+        Hirsch</span></span>
         
         </div>
 
@@ -273,39 +275,40 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Inside the List
+1.  ### Fiction
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Milan
-    Zrnic</span>](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-LIST-WEB/09-BKS-LIST-WEB-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+    Miller</span>](https://static01.nyt.com/images/2020/07/10/books/review/Brockmeier1/Brockmeier1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Aminatou Sow and Ann Friedman Wrote a Big Best Seller](/2020/07/30/books/review/aminatou-sow-ann-friedman-big-friendship.html)
+    ## [Aimee Bender’s Latest Is a Proustian Reverie](/2020/07/28/books/review/aimee-bender-the-butterfly-lampshade.html)
     
-    In “Big Friendship,” the best friends and podcast co-hosts
-    rediscover their bond across a different kind of social
-    distance.
+    In “The Butterfly Lampshade,” objects are as alive as human
+    beings.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lauren
-    Christensen</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kevin
+    Brockmeier</span></span>
     
     </div>
 
-2.  ### By the Book
+2.  ### nonfiction
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
-    Tamaki</span>](https://static01.nyt.com/images/2020/08/02/books/review/02ByTheBook-Wilkerson/02ByTheBook-Wilkerson-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gerald
+    Hebert/Reuters</span>](https://static01.nyt.com/images/2020/08/09/books/review/09Heilbrunn/merlin_11209316_2660760c-7462-4a8a-9032-e76095bdd0d5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Isabel Wilkerson Loves Books. That Doesn’t Mean She Treats Them Gently.](/2020/07/30/books/review/isabel-wilkerson-by-the-book-interview.html)
+    ## [Why the United States Invaded Iraq](/2020/07/28/books/review/to-start-a-war-robert-draper.html)
     
-    “Many of them are not only dog-eared, but often
-    double-cornered-dog-eared, the margins marked up with my own
-    commentary.”
+    Robert Draper’s “To Start a War” provides the deep background on the
+    decisions that took America into war in the Middle
+    East.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jacob
+    Heilbrunn</span></span>
     
     </div>
 
@@ -364,7 +367,43 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Nonfiction
+1.  ### Inside the List
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Milan
+    Zrnic</span>](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-LIST-WEB/09-BKS-LIST-WEB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Aminatou Sow and Ann Friedman Wrote a Big Best Seller](/2020/07/30/books/review/aminatou-sow-ann-friedman-big-friendship.html)
+    
+    In “Big Friendship,” the best friends and podcast co-hosts
+    rediscover their bond across a different kind of social
+    distance.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Lauren
+    Christensen</span></span>
+    
+    </div>
+
+2.  ### By the Book
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
+    Tamaki</span>](https://static01.nyt.com/images/2020/08/02/books/review/02ByTheBook-Wilkerson/02ByTheBook-Wilkerson-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Isabel Wilkerson Loves Books. That Doesn’t Mean She Treats Them Gently.](/2020/07/30/books/review/isabel-wilkerson-by-the-book-interview.html)
+    
+    “Many of them are not only dog-eared, but often
+    double-cornered-dog-eared, the margins marked up with my own
+    commentary.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ### Nonfiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Arthur
     Tanner/Fox Photos, via Getty
@@ -385,7 +424,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ### Fiction
+4.  ### Fiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Byron
@@ -405,7 +444,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Nonfiction
+5.  ### Nonfiction
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nishant
     Choksi</span>](https://static01.nyt.com/images/2020/07/28/books/review/28Newman-HelpDesk/28Newman-HelpDesk-videoLarge.jpg)
@@ -421,43 +460,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Judith
     Newman</span></span>
-    
-    </div>
-
-4.  ### Fiction
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    Heads of
-    State</span>](https://static01.nyt.com/images/2020/07/26/books/review/26Abbott/26Abbott-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Spellbinding Debut Leaps Across Genres to Recreate the Confusion of Trauma](/2020/07/24/books/review/kate-reed-petty-true-story.html)
-    
-    Kate Reed Petty’s “True Story,” focuses on the rippling,
-    decades-long impact from a high school sexual
-    assault.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Megan
-    Abbott</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
-    Kim</span>](https://static01.nyt.com/images/2020/07/26/books/review/26ScandinavianNoir01/26ScandinavianNoir-mediumThreeByTwo440.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Guide to Nordic Noir](/2020/07/24/books/review/nordic-noir-guide.html)
-    
-    Want to read something cold and dark on a hot summer day? We’ve got
-    recommendations.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tina Jordan</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Marilyn
-    Stasio</span></span>
     
     </div>
 
@@ -517,25 +519,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/kings-county-david-goodwillie.html)
+    [](/2020/08/04/books/review/betsy-bonner-the-book-of-atlantis-black.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/01/books/review/Waldman1/Waldman1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/books/review/04schaitkin/04schaitkin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fiction</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Welcome to Another Novel Set in Brooklyn. This One Is Different.
+    ## A Troubled Artist’s Death Proves as Unknowable as Her Life
     
-    In “Kings County,” David Goodwillie examines New York’s most
-    celebrated borough with an uncynical eye.
+    In “The Book of Atlantis Black,” Betsy Bonner attempts to solve the
+    mysterious fate of her troubled, enigmatic older sister.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adelle
-    Waldman</span>
+    By <span class="css-1n7hynb">Alexis
+    Schaitkin</span>
     
     </div>
     
@@ -553,25 +555,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/review/unconditional-marc-gallicchio.html)
+    [](/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html)
     
-    <div class="css-79elbk">
+    ## ‘Wandering in Strange Lands,’ by Morgan Jerkins: An Excerpt
     
-    ![](https://static01.nyt.com/images/2020/07/27/books/review/Samuels/Samuels-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">nonfiction</span>
-    
-    ## Why the U.S. Dropped Atomic Bombs on Japan
-    
-    Marc Gallicchio’s “Unconditional” details debates in both Japan and
-    the United States to end World War II.
+    An excerpt from “Wandering in Strange Lands,” by Morgan
+    Jerkins
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Richard J.
-    Samuels</span>
     
     </div>
     
@@ -589,25 +580,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/carrie-firestone-dress-coded.html)
+    [](/2020/08/04/books/review/life-of-a-klansman-by-edward-ball-an-excerpt.html)
     
-    <div class="css-79elbk">
+    ## ‘Life of a Klansman,’ by Edward Ball: An Excerpt
     
-    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-MATHIEU-KIDS/09-BKS_MATHIEU_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Children’s Books</span>
-    
-    ## Tank Tops and Short Shorts and Bears, Oh My\!
-    
-    In Carrie Firestone’s “Dress Coded,” a middle school’s sexist dress
-    code is more terrifying than the bears wandering through its woods.
+    An excerpt from “Life of a Klansman,” by Edward
+    Ball
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jennifer
-    Mathieu</span>
     
     </div>
     
@@ -625,25 +605,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/books/review/brandy-colbert-the-voting-booth.html)
+    [](/2020/08/04/books/review/fallout-hiroshima-hersey-lesley-m-m-blume.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/books/review/09-BKS-YOON-KIDS/09-BKS_YOON_KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/books/review/04Langewiesche1/04Langewiesche1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## For Two Teenagers on Election Day, the Political Gets Personal
+    ## The Reporter Who Told the World About the Bomb
     
-    In Brandy Colbert’s “The Voting Booth,” a girl who’s been speaking
-    out since age 7 helps a drummer make his voice heard.
+    “Fallout,” by Lesley M.M. Blume, recounts how John Hersey revealed
+    the devastating toll of the atomic bomb on the citizens of
+    Hiroshima.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicola
-    Yoon</span>
+    By <span class="css-1n7hynb">William
+    Langewiesche</span>
     
     </div>
     
@@ -661,25 +642,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/crime-fiction-megan-miranda.html)
+    [](/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Stasio-Crime/02Stasio-Crime-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/books/review/04Fischer1/04Fischer1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Crime</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## Stabbed in the Convent, Murdered in the Yard
+    ## ‘Looking for Miss America’ Tells the History of the Legendary Pageant
     
-    In the newest batch of crime novels, bodies accumulate at a rather
-    alarming rate.
+    The new book by Margot Mifflin shows how the famous contest for
+    women reflected conflicting ideas about female beauty, ambition and
+    fame over the past 100 years.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marilyn
-    Stasio</span>
+    By <span class="css-1n7hynb">Molly
+    Fischer</span>
     
     </div>
     
@@ -697,26 +679,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/sia-martinez-and-the-moonlit-beginning-of-everything-raquel-vasquez-gilliland.html)
+    [](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-SHER-KIDS/02BKS-SHER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/books/review/Gleick1/Gleick1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## Monsters vs. Aliens
+    ## This Is How It All Ends
     
-    In “Sia Martinez and the Moonlit Beginning of Everything,” a
-    Mexican-American girl lights candles in the desert for her deported
-    mother. Then a spacecraft arrives.
+    In “The End of Everything,” the theoretical cosmologist Katie Mack
+    takes a look at the ultimate doom and destruction of our universe.
+    It’s not pretty.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby
-    Sher</span>
+    By <span class="css-1n7hynb">James
+    Gleick</span>
     
     </div>
     
@@ -734,26 +716,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/the-brave-james-bird.html)
+    [](/2020/08/04/books/review/caste-isabel-wilkerson.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/02BKS-TREUER-KIDS/02BKS-TREUER-KIDS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/books/review/09Appiah-COVER-Sub01/09Appiah-COVER-Sub01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Children’s Books</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## A Native American Coming-of-Age and the Uses of Enchantment
+    ## What Do America’s Racial Problems Have in Common With India and Nazi Germany?
     
-    In James Bird’s “The Brave,” a boy bullied for his numeric mind
-    undergoes a metamorphosis when he’s sent to live on a reservation
-    with his Native American mother.
+    In “Caste,” the journalist Isabel Wilkerson looks to other
+    countries’ histories to show how our racial order is founded on a
+    hierarchal structure of hereditary status.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    Treuer</span>
+    By <span class="css-1n7hynb">Kwame Anthony
+    Appiah</span>
     
     </div>
     
@@ -771,26 +753,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/biography-of-resistance-muhammad-zaman-clean-james-hamblin-the-sensitives-oliver-broudy.html)
+    [](/2020/08/04/books/review/inferno-catherine-cho.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/review/02Shortlist-Microscope/02Shortlist-Microscope-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/13/books/review/Brooks1/Brooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Shortlist</span>
+    ### <span class="css-m70j1g">Nonfiction</span>
     
-    ## New Books Take You Through the Microscope to the World of Pathogens
+    ## A New Mother Chronicles Her Journey to Hell and Back
     
-    Authors explore the way the invisible world impacts our lives, from
-    bacteria that are resistant to antibiotics to the beneficial
-    biodiversity on our skin.
+    In “Inferno,” Catherine Cho writes honestly of surviving postpartum
+    psychosis.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Rob
-    Dunn</span>
+    By <span class="css-1n7hynb">Kim
+    Brooks</span>
     
     </div>
     
@@ -808,22 +789,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/new-paperbacks.html)
+    [](/2020/08/04/books/review/tender-is-the-flesh-agustina-bazterrica.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/books/02PAPERROW-GRID/02PAPERROW-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/books/review/Kraus1/Kraus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## New in Paperback: ‘This Land Is Our Land’ and ‘Your House Will Pay’
+    ### <span class="css-m70j1g">Fiction</span>
     
-    Six new paperbacks to check out this week.
+    ## What if the Meat We Ate Was Human?
+    
+    Agustina Bazterrica’s dystopian second novel, “Tender Is the Flesh,”
+    uses cannibalism to highlight the inhumanity of factory farming.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer
-    Krauss</span>
+    By <span class="css-1n7hynb">Daniel
+    Kraus</span>
     
     </div>
     
@@ -841,19 +825,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/books/review/on-hamlets-origins-and-other-letters-to-the-editor.html)
+    [](/2020/08/04/books/review/edmund-white-saint-from-texas.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/19/books/review/19Brooks-COVER/19Brooks-COVER-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/14/books/review/Bird1/Bird1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## On Hamlet’s Origins and Other Letters to the Editor
+    ### <span class="css-m70j1g">Fiction</span>
     
-    Readers respond to recent issues of the Sunday Book Review.
+    ## Edmund White’s High-Octane Saga of Twin Sisters and 1950s Texas
+    
+    White’s new novel, “A Saint From Texas,” traces the fates of Yvonne
+    — who marries a French nobleman — and Yvette, who becomes a nun.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Bird</span>
     
     </div>
     

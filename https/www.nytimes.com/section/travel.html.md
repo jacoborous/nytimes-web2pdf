@@ -160,11 +160,30 @@ Go](/interactive/2020/travel/places-to-visit.html)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-jumbo-v2.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
+    Arduengo/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [The Caribbean Dilemma](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    
+    Many islands are open to American travelers. Going could mean
+    bringing coronavirus to places ill prepared to deal with it. Not
+    going could mean deepening economic woes. How do you
+    choose?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Nina
+    Burleigh</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Should I Travel This Year?](/interactive/2020/07/31/travel/coronavirus-travel-risk.html)
     
@@ -179,7 +198,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
     Hautamaki</span>](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -198,7 +217,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
     Air</span>](https://static01.nyt.com/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -216,7 +235,13 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
     Taylor for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
     
@@ -234,13 +259,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
     Abd El
     Ghany/Reuters</span>](https://static01.nyt.com/images/2020/07/24/travel/00Future-trips-virus01/00Future-trips-virus01-videoLarge.jpg)
     
@@ -259,7 +278,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ### The World Through a Lens
+3.  ### The World Through a Lens
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
@@ -276,24 +295,6 @@ Go](/interactive/2020/travel/places-to-visit.html)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Tony
     Cenicola</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Dominis/The LIFE Picture Collection, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26ah-dance2/26ah-dance2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Travel the World Through These Dance Tutorials](/2020/07/25/travel/cultural-dances-tutorials.html)
-    
-    Here are eight cultural dances that you can learn at home through
-    online tutorials or mobile dance
-    apps.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Caterina
-    Hrysomallis</span></span>
     
     </div>
 

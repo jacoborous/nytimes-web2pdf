@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -64,6 +63,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div id="site-content" data-role="main">
 
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
 <div id="collection-magazine" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-4svvz1 ekkqrpp0">
@@ -74,11 +98,73 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 ## Highlights
 
-1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
-    Doumbouya for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-jumbo.jpg)
+1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Birgit
+    Krippner for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-jumbo-v6.jpg)
     
     <div class="css-gjijuv">
+    
+    ### feature
+    
+    ## [Behrouz Boochani Just Wants to Be Free](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s
+    next?
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Megan K.
+    Stack</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Tomi
+    Um</span>](https://static01.nyt.com/images/2020/08/09/magazine/09Ethicist/09Ethicist-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### The Ethicist
+    
+    ## [Is It OK That I Haven’t Told My Parents I Was Fired?](/2020/08/04/magazine/jobs-unemployment-ethics.html)
+    
+    The magazine’s Ethicist columnist on why it can be hard to tell
+    family you’ve lost your job, whether to collect unemployment
+    benefits and
+    more.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
+    Appiah</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by
+    Radio</span>](https://static01.nyt.com/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Tip
+    
+    ## [How to Keep a Condor Wild](/2020/08/04/magazine/condors-yurok-tribe.html)
+    
+    Faced with such a strange big bird, you might find yourself
+    nervously talking baby talk. Don’t do
+    that.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Malia
+    Wollan</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
+    Doumbouya for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Talk
     
@@ -93,13 +179,19 @@ Paper](https://www.nytimes.com/section/todayspaper)
     
     </div>
 
-2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
     Price for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [Pollution Is Killing Black Americans. This Community Fought Back.](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
     
@@ -108,19 +200,19 @@ Paper](https://www.nytimes.com/section/todayspaper)
     environmental-justice movement make a
     difference?
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Linda
     Villarosa</span></span>
     
     </div>
 
-3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
+2.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
     Saman/Magnum, for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [Inside the Iraqi Kleptocracy](/2020/07/29/magazine/iraq-corruption.html)
     
@@ -129,19 +221,19 @@ Paper](https://www.nytimes.com/section/todayspaper)
     at least $10 billion a year in hard
     currency.
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Robert F.
     Worth</span></span>
     
     </div>
 
-4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+3.  ### Feature
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Daniel
     Barreto</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Feature
     
     ## [The Mysterious Life of Birds Who Never Come Down](/2020/07/29/magazine/vesper-flights.html)
     
@@ -149,19 +241,13 @@ Paper](https://www.nytimes.com/section/todayspaper)
     us about the
     future?
     
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Helen
     Macdonald</span></span>
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The Ethicist
+4.  ### The Ethicist
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Tomi
@@ -181,7 +267,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
     
     </div>
 
-2.  ### Eat
+5.  ### Eat
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
     Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
@@ -199,63 +285,6 @@ Paper](https://www.nytimes.com/section/todayspaper)
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
     Hamilton</span></span>
-    
-    </div>
-
-3.  ### Talk
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
-    Doumbouya for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-talk/02mag-talk-videoLarge-v5.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Ben & Jerry’s Radical Ice Cream Dreams](/interactive/2020/07/27/magazine/ben-jerry-interview.html)
-    
-    “There wasn’t any other business talking about dismantling white
-    supremacy.”
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Marchese</span></span>
-    
-    </div>
-
-4.  ### Diagnosis
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    illustration by Ina
-    Jang</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [His Face, Hands and Feet Swelled Up. What Was Going On?](/2020/07/30/magazine/urticaria-multiforme.html)
-    
-    The young boy’s grandmother saw strange red lines snaking around his
-    body. Could this be an allergic reaction? A rare autoimmune
-    disease?
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lisa Sanders,
-    M.D.</span></span>
-    
-    </div>
-
-5.  ### Letter of Recommendation
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Strange Lure of Other People’s Photos](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
-    
-    When I consider all that these people lived through — world wars,
-    the Depression, epidemics with no medicine — I’m given a far longer
-    view.
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Bill
-    Shapiro</span></span>
     
     </div>
 
@@ -424,6 +453,79 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Letter of Recommendation</span>
+    
+    ## The Strange Lure of Other People’s Photos
+    
+    When I consider all that these people lived through — world wars,
+    the Depression, epidemics with no medicine — I’m given a far longer
+    view.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bill
+    Shapiro</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/magazine/urticaria-multiforme.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Diagnosis</span>
+    
+    ## His Face, Hands and Feet Swelled Up. What Was Going On?
+    
+    The young boy’s grandmother saw strange red lines snaking around his
+    body. Could this be an allergic reaction? A rare autoimmune disease?
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lisa Sanders,
+    M.D.</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/magazine/judge-john-hodgman-on-having-tsa-precheck-when-your-fiancee-doesnt.html)
     
     <div class="css-79elbk">
@@ -454,7 +556,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -490,7 +592,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -527,7 +629,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -563,100 +665,30 @@ story](#after-mid1)
     
     </div>
 
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/magazine/behind-the-cover-climate-migration.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/magazine/24mag-btc-promo/24mag-btc-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Issue 7.26.20</span>
-    
-    ## Behind the Cover: Climate Migration
-    
-    A look at how the rapidly changing global climate will make more
-    parts of the world less livable, areas where billions of people call
-    home.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/magazine/1948-olympics-fanny-blankers-koen.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/multimedia/24ww2-1948olympics-08/24ww2-1948olympics-08-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Beyond the World War II We know</span>
-    
-    ## At the Olympics in Bombed-Out London, She Forever Changed Women’s Sports
-    
-    The 1948 Summer Games, the first held after the war, were a
-    celebration of improvisation, renewal and change, embodied in a
-    Dutch track star named Fanny Blankers-Koen.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeré
-    Longman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/07/23/magazine/climate-migration.html)
+    [](/interactive/2020/07/27/magazine/ben-jerry-interview.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/26/magazine/26mag-Migration-Images/26mag-Migratiion-Images-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-talk/02mag-talk-thumbWide-v5.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Great Climate Migration Has Begun
+    ### <span class="css-m70j1g">Talk</span>
     
-    New research suggests climate change will cause humans to move in
-    unprecedented numbers. The Times Magazine partnered with ProPublica
-    and data scientists to understand how.
+    ## Ben & Jerry’s Radical Ice Cream Dreams
+    
+    “There wasn’t any other business talking about dismantling white
+    supremacy.”
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Abrahm Lustgarten</span>
+    By <span class="css-1n7hynb">David Marchese</span>
     
     </div>
     

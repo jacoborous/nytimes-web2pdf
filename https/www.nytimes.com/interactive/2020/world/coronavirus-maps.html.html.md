@@ -135,14 +135,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 12:26 A.M.
+Times</span>Updated August 4, 2020, 2:10 P.M.
 E.T.
 
 </div>
@@ -413,7 +413,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-693,731
+695,874
 
 </div>
 
@@ -448,7 +448,7 @@ available
 
 [Map](#map)[Country table](#countries)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
@@ -456,9 +456,9 @@ cases](#cases)[Tips](#tips)[Latest news
 
 The [coronavirus
 pandemic](https://www.nytimes.com/article/prepare-for-coronavirus.html)
-has sickened more than 18,337,700 people, according to official counts.
-As of Tuesday morning, at least 693,700 people have died, and the virus
-has been detected in nearly every country, as these maps
+has sickened more than 18,333,000 people, according to official counts.
+As of Tuesday afternoon, at least 695,800 people have died, and the
+virus has been detected in nearly every country, as these maps
 show.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-map g-asset-width-bleed" style="">
@@ -922,7 +922,7 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/maldives.svg" alt="Maldives heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/maldives.svg" alt="Maldives heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -936,21 +936,21 @@ in last<br />
 <td><span>175 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/panama.svg" alt="Panama heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/panama.svg" alt="Panama heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Colombia </span></td>
-<td><span>327,850 </span></td>
+<td><span>327,609 </span></td>
 <td><span>660 </span></td>
-<td><span>11,017 </span></td>
+<td><span>11,013 </span></td>
 <td><span>22 </span></td>
 <td><span>78,874 </span></td>
 <td><span>159 </span></td>
 <td><span>2,492 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/colombia.svg" alt="Colombia heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/colombia.svg" alt="Colombia heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -964,11 +964,11 @@ in last<br />
 <td><span>9 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/bahrain.svg" alt="Bahrain heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/bahrain.svg" alt="Bahrain heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Brazil </span> <a href="https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html" class="svelte-os6zm6">MAP »</a></td>
+<td><span>Brazil </span> <a href="https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html" class="svelte-5vd9ek">MAP »</a></td>
 <td><span>2,750,318 </span></td>
 <td><span>1,313 </span></td>
 <td><span>94,665 </span></td>
@@ -978,7 +978,7 @@ in last<br />
 <td><span>7,047 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/brazil.svg" alt="Brazil heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/brazil.svg" alt="Brazil heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -992,49 +992,49 @@ in last<br />
 <td><span>32 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/equatorial_guinea.svg" alt="Equatorial Guinea heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/equatorial_guinea.svg" alt="Equatorial Guinea heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>United States </span> <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="svelte-os6zm6">MAP »</a></td>
-<td><span>4,725,137 </span></td>
-<td><span>1,444 </span></td>
-<td><span>155,935 </span></td>
+<td><span>United States </span> <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="svelte-5vd9ek">MAP »</a></td>
+<td><span>4,750,578 </span></td>
+<td><span>1,452 </span></td>
+<td><span>156,594 </span></td>
 <td><span>48 </span></td>
-<td><span>421,317 </span></td>
+<td><span>421,357 </span></td>
 <td><span>129 </span></td>
 <td><span>7,485 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/united_states.svg" alt="United States heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/united_states.svg" alt="United States heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Peru </span></td>
-<td><span>428,850 </span></td>
-<td><span>1,341 </span></td>
-<td><span>19,614 </span></td>
-<td><span>61 </span></td>
+<td><span>433,100 </span></td>
+<td><span>1,354 </span></td>
+<td><span>19,811 </span></td>
+<td><span>62 </span></td>
 <td><span>39,133 </span></td>
 <td><span>122 </span></td>
 <td><span>1,196 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/peru.svg" alt="Peru heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/peru.svg" alt="Peru heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Israel </span></td>
-<td><span>74,430 </span></td>
-<td><span>838 </span></td>
-<td><span>546 </span></td>
+<td><span>75,083 </span></td>
+<td><span>845 </span></td>
+<td><span>554 </span></td>
 <td><span>6 </span></td>
 <td><span>10,445 </span></td>
 <td><span>118 </span></td>
 <td><span>72 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/israel.svg" alt="Israel heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/israel.svg" alt="Israel heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1048,7 +1048,7 @@ in last<br />
 <td><span>1,472 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/heatmaps/nyt_world/south_africa.svg" alt="South Africa heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/south_africa.svg" alt="South Africa heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1083,51 +1083,51 @@ database.
 
 Total cases Cases per capita
 
-<div class="cases-per-capita tab-content svelte-xvkcj1">
+<div class="per-capita tab-content svelte-1sqapi1">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div id="chart-wrapper-increasing" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BRA.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRA.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**Brazil** <span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**Brazil** <span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IND.svg)">
 
 </div>
 
@@ -1139,35 +1139,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MEX.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Mexico**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PER.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PER.svg)">
 
 </div>
 
@@ -1179,15 +1159,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/COL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COL.svg)">
 
 </div>
 
@@ -1199,15 +1179,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ESP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ESP.svg)">
 
 </div>
 
@@ -1219,15 +1199,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/DEU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DEU.svg)">
 
 </div>
 
@@ -1239,15 +1219,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ARG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARG.svg)">
 
 </div>
 
@@ -1259,15 +1239,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/FRA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FRA.svg)">
 
 </div>
 
@@ -1279,15 +1259,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IRQ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRQ.svg)">
 
 </div>
 
@@ -1299,15 +1279,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PHL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PHL.svg)">
 
 </div>
 
@@ -1319,15 +1299,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/UKR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UKR.svg)">
 
 </div>
 
@@ -1339,15 +1319,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BEL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BEL.svg)">
 
 </div>
 
@@ -1359,15 +1339,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NLD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NLD.svg)">
 
 </div>
 
@@ -1379,15 +1359,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ROU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ROU.svg)">
 
 </div>
 
@@ -1399,15 +1379,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SGP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SGP.svg)">
 
 </div>
 
@@ -1419,15 +1399,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/POL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/POL.svg)">
 
 </div>
 
@@ -1439,15 +1419,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/JPN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JPN.svg)">
 
 </div>
 
@@ -1459,15 +1439,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GHA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GHA.svg)">
 
 </div>
 
@@ -1479,15 +1459,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CHE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHE.svg)">
 
 </div>
 
@@ -1499,35 +1479,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MAR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Morocco**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/UZB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UZB.svg)">
 
 </div>
 
@@ -1539,15 +1499,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MDA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MAR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Morocco**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDA.svg)">
 
 </div>
 
@@ -1559,15 +1539,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KEN.svg)">
 
 </div>
 
@@ -1579,35 +1559,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/VEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Venezuela**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NPL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NPL.svg)">
 
 </div>
 
@@ -1619,15 +1579,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ETH.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/VEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Venezuela**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ETH.svg)">
 
 </div>
 
@@ -1639,15 +1619,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AUS.svg)">
 
 </div>
 
@@ -1659,15 +1639,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SLV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SLV.svg)">
 
 </div>
 
@@ -1680,15 +1660,15 @@ Salvador**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CZE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CZE.svg)">
 
 </div>
 
@@ -1701,15 +1681,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/DNK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DNK.svg)">
 
 </div>
 
@@ -1721,15 +1701,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BIH.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BIH.svg)">
 
 </div>
 
@@ -1742,15 +1722,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NOR.svg)">
 
 </div>
 
@@ -1762,15 +1742,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KOS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KOS.svg)">
 
 </div>
 
@@ -1782,15 +1762,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ZMB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZMB.svg)">
 
 </div>
 
@@ -1802,35 +1782,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PRY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Paraguay**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ALB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ALB.svg)">
 
 </div>
 
@@ -1842,15 +1802,35 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/DJI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PRY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Paraguay**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DJI.svg)">
 
 </div>
 
@@ -1862,15 +1842,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LBN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBN.svg)">
 
 </div>
 
@@ -1882,15 +1862,35 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GNQ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GRC.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Greece**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GNQ.svg)">
 
 </div>
 
@@ -1903,35 +1903,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GRC.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Greece**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MDV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDV.svg)">
 
 </div>
 
@@ -1943,15 +1923,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ZWE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZWE.svg)">
 
 </div>
 
@@ -1963,15 +1943,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LBY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBY.svg)">
 
 </div>
 
@@ -1983,15 +1963,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/HKG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HKG.svg)">
 
 </div>
 
@@ -2004,15 +1984,15 @@ Kong**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SWZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SWZ.svg)">
 
 </div>
 
@@ -2024,15 +2004,15 @@ Kong**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CUB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CUB.svg)">
 
 </div>
 
@@ -2044,15 +2024,35 @@ Kong**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SSD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NAM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Namibia**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SSD.svg)">
 
 </div>
 
@@ -2065,35 +2065,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NAM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Namibia**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SVK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SVK.svg)">
 
 </div>
 
@@ -2105,15 +2085,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LTU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LTU.svg)">
 
 </div>
 
@@ -2125,15 +2105,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/EST.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/EST.svg)">
 
 </div>
 
@@ -2145,15 +2125,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ISL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ISL.svg)">
 
 </div>
 
@@ -2165,15 +2145,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SUR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SUR.svg)">
 
 </div>
 
@@ -2185,15 +2165,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TUN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TUN.svg)">
 
 </div>
 
@@ -2205,15 +2185,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/URY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/URY.svg)">
 
 </div>
 
@@ -2225,15 +2205,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AGO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AGO.svg)">
 
 </div>
 
@@ -2245,15 +2225,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LVA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LVA.svg)">
 
 </div>
 
@@ -2265,15 +2245,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/UGA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UGA.svg)">
 
 </div>
 
@@ -2285,15 +2265,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CYP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CYP.svg)">
 
 </div>
 
@@ -2305,15 +2285,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BFA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BFA.svg)">
 
 </div>
 
@@ -2326,15 +2306,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TGO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TGO.svg)">
 
 </div>
 
@@ -2346,15 +2326,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AND.svg)">
 
 </div>
 
@@ -2366,15 +2346,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/JAM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JAM.svg)">
 
 </div>
 
@@ -2386,15 +2366,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MLT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MLT.svg)">
 
 </div>
 
@@ -2406,15 +2386,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SYR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SYR.svg)">
 
 </div>
 
@@ -2426,15 +2406,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LSO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LSO.svg)">
 
 </div>
 
@@ -2446,15 +2426,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BHS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BHS.svg)">
 
 </div>
 
@@ -2466,15 +2446,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/VNM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/VNM.svg)">
 
 </div>
 
@@ -2486,15 +2466,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GMB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GMB.svg)">
 
 </div>
 
@@ -2506,15 +2486,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GUY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GUY.svg)">
 
 </div>
 
@@ -2526,15 +2506,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/COM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COM.svg)">
 
 </div>
 
@@ -2546,15 +2526,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KHM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KHM.svg)">
 
 </div>
 
@@ -2566,15 +2546,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/FRO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FRO.svg)">
 
 </div>
 
@@ -2587,15 +2567,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TTO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TTO.svg)">
 
 </div>
 
@@ -2608,15 +2588,15 @@ Tobago**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SXM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SXM.svg)">
 
 </div>
 
@@ -2629,15 +2609,15 @@ Maarten**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BRB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRB.svg)">
 
 </div>
 
@@ -2649,15 +2629,15 @@ Maarten**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TCA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TCA.svg)">
 
 </div>
 
@@ -2670,15 +2650,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PNG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PNG.svg)">
 
 </div>
 
@@ -2691,15 +2671,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BTN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BTN.svg)">
 
 </div>
 
@@ -2713,7 +2693,7 @@ Guinea**
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -2721,54 +2701,54 @@ Guinea**
 
 </div>
 
-<div class="cases-absolute tab-content svelte-xvkcj1">
+<div class="absolute tab-content svelte-1sqapi1">
 
 Charts show daily cases and are individually scaled to the maximum for
 each
 country.
 
-<div id="chart-wrapper-increasing" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BRA.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRA.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**Brazil** <span class="svelte-sbp2hm">2,750,318</span>
-<span class="svelte-sbp2hm">total cases</span>
-<span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**Brazil** <span class="svelte-1jnkadc">2,750,318</span>
+<span class="svelte-1jnkadc">total cases</span>
+<span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IND.svg)">
 
 </div>
 
@@ -2777,40 +2757,19 @@ country.
 </div>
 
 **India**
-<span class="svelte-sbp2hm">1,855,745</span>
+<span class="svelte-1jnkadc">1,855,745</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MEX.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Mexico**
-<span class="svelte-sbp2hm">522,843</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PER.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PER.svg)">
 
 </div>
 
@@ -2819,19 +2778,19 @@ country.
 </div>
 
 **Peru**
-<span class="svelte-sbp2hm">428,850</span>
+<span class="svelte-1jnkadc">433,100</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/COL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COL.svg)">
 
 </div>
 
@@ -2840,19 +2799,19 @@ country.
 </div>
 
 **Colombia**
-<span class="svelte-sbp2hm">327,850</span>
+<span class="svelte-1jnkadc">327,609</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ESP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ESP.svg)">
 
 </div>
 
@@ -2861,19 +2820,19 @@ country.
 </div>
 
 **Spain**
-<span class="svelte-sbp2hm">297,054</span>
+<span class="svelte-1jnkadc">302,814</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/DEU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DEU.svg)">
 
 </div>
 
@@ -2882,19 +2841,19 @@ country.
 </div>
 
 **Germany**
-<span class="svelte-sbp2hm">211,281</span>
+<span class="svelte-1jnkadc">211,281</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ARG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARG.svg)">
 
 </div>
 
@@ -2903,19 +2862,19 @@ country.
 </div>
 
 **Argentina**
-<span class="svelte-sbp2hm">206,743</span>
+<span class="svelte-1jnkadc">206,743</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/FRA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FRA.svg)">
 
 </div>
 
@@ -2924,19 +2883,19 @@ country.
 </div>
 
 **France**
-<span class="svelte-sbp2hm">191,295</span>
+<span class="svelte-1jnkadc">191,295</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IRQ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRQ.svg)">
 
 </div>
 
@@ -2945,19 +2904,19 @@ country.
 </div>
 
 **Iraq**
-<span class="svelte-sbp2hm">131,886</span>
+<span class="svelte-1jnkadc">134,722</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PHL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PHL.svg)">
 
 </div>
 
@@ -2966,19 +2925,19 @@ country.
 </div>
 
 **Philippines**
-<span class="svelte-sbp2hm">106,330</span>
+<span class="svelte-1jnkadc">112,593</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/UKR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UKR.svg)">
 
 </div>
 
@@ -2987,19 +2946,19 @@ country.
 </div>
 
 **Ukraine**
-<span class="svelte-sbp2hm">74,781</span>
+<span class="svelte-1jnkadc">75,880</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BEL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BEL.svg)">
 
 </div>
 
@@ -3008,19 +2967,19 @@ country.
 </div>
 
 **Belgium**
-<span class="svelte-sbp2hm">70,314</span>
+<span class="svelte-1jnkadc">70,314</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NLD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NLD.svg)">
 
 </div>
 
@@ -3029,19 +2988,19 @@ country.
 </div>
 
 **Netherlands**
-<span class="svelte-sbp2hm">55,786</span>
+<span class="svelte-1jnkadc">56,271</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ROU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ROU.svg)">
 
 </div>
 
@@ -3050,19 +3009,19 @@ country.
 </div>
 
 **Romania**
-<span class="svelte-sbp2hm">54,009</span>
+<span class="svelte-1jnkadc">55,241</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SGP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SGP.svg)">
 
 </div>
 
@@ -3071,19 +3030,19 @@ country.
 </div>
 
 **Singapore**
-<span class="svelte-sbp2hm">53,051</span>
+<span class="svelte-1jnkadc">53,346</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/POL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/POL.svg)">
 
 </div>
 
@@ -3092,19 +3051,19 @@ country.
 </div>
 
 **Poland**
-<span class="svelte-sbp2hm">47,469</span>
+<span class="svelte-1jnkadc">48,149</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/JPN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JPN.svg)">
 
 </div>
 
@@ -3113,19 +3072,19 @@ country.
 </div>
 
 **Japan**
-<span class="svelte-sbp2hm">40,554</span>
+<span class="svelte-1jnkadc">40,554</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GHA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GHA.svg)">
 
 </div>
 
@@ -3134,19 +3093,19 @@ country.
 </div>
 
 **Ghana**
-<span class="svelte-sbp2hm">37,812</span>
+<span class="svelte-1jnkadc">37,812</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CHE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHE.svg)">
 
 </div>
 
@@ -3155,40 +3114,19 @@ country.
 </div>
 
 **Switzerland**
-<span class="svelte-sbp2hm">35,616</span>
+<span class="svelte-1jnkadc">35,746</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MAR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Morocco**
-<span class="svelte-sbp2hm">26,196</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/UZB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UZB.svg)">
 
 </div>
 
@@ -3197,19 +3135,40 @@ country.
 </div>
 
 **Uzbekistan**
-<span class="svelte-sbp2hm">26,066</span>
+<span class="svelte-1jnkadc">26,804</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MDA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MAR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Morocco**
+<span class="svelte-1jnkadc">26,196</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDA.svg)">
 
 </div>
 
@@ -3218,19 +3177,19 @@ country.
 </div>
 
 **Moldova**
-<span class="svelte-sbp2hm">25,482</span>
+<span class="svelte-1jnkadc">25,814</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KEN.svg)">
 
 </div>
 
@@ -3239,40 +3198,19 @@ country.
 </div>
 
 **Kenya**
-<span class="svelte-sbp2hm">22,597</span>
+<span class="svelte-1jnkadc">23,202</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/VEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Venezuela**
-<span class="svelte-sbp2hm">20,754</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NPL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NPL.svg)">
 
 </div>
 
@@ -3281,19 +3219,40 @@ country.
 </div>
 
 **Nepal**
-<span class="svelte-sbp2hm">20,750</span>
+<span class="svelte-1jnkadc">21,009</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ETH.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/VEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Venezuela**
+<span class="svelte-1jnkadc">20,754</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ETH.svg)">
 
 </div>
 
@@ -3302,19 +3261,19 @@ country.
 </div>
 
 **Ethiopia**
-<span class="svelte-sbp2hm">19,289</span>
+<span class="svelte-1jnkadc">19,877</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AUS.svg)">
 
 </div>
 
@@ -3323,19 +3282,19 @@ country.
 </div>
 
 **Australia**
-<span class="svelte-sbp2hm">18,730</span>
+<span class="svelte-1jnkadc">18,730</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SLV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SLV.svg)">
 
 </div>
 
@@ -3344,19 +3303,19 @@ country.
 </div>
 
 **El Salvador**
-<span class="svelte-sbp2hm">17,843</span>
+<span class="svelte-1jnkadc">17,843</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CZE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CZE.svg)">
 
 </div>
 
@@ -3365,19 +3324,19 @@ country.
 </div>
 
 **Czech Republic**
-<span class="svelte-sbp2hm">17,008</span>
+<span class="svelte-1jnkadc">17,114</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/DNK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DNK.svg)">
 
 </div>
 
@@ -3386,19 +3345,19 @@ country.
 </div>
 
 **Denmark**
-<span class="svelte-sbp2hm">14,235</span>
+<span class="svelte-1jnkadc">14,314</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BIH.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BIH.svg)">
 
 </div>
 
@@ -3407,19 +3366,19 @@ country.
 </div>
 
 **Bosnia and Herzegovina**
-<span class="svelte-sbp2hm">12,462</span>
+<span class="svelte-1jnkadc">12,856</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NOR.svg)">
 
 </div>
 
@@ -3428,19 +3387,19 @@ country.
 </div>
 
 **Norway**
-<span class="svelte-sbp2hm">9,334</span>
+<span class="svelte-1jnkadc">9,348</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KOS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KOS.svg)">
 
 </div>
 
@@ -3449,19 +3408,19 @@ country.
 </div>
 
 **Kosovo**
-<span class="svelte-sbp2hm">9,049</span>
+<span class="svelte-1jnkadc">9,049</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ZMB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZMB.svg)">
 
 </div>
 
@@ -3470,40 +3429,19 @@ country.
 </div>
 
 **Zambia**
-<span class="svelte-sbp2hm">6,580</span>
+<span class="svelte-1jnkadc">6,793</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PRY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Paraguay**
-<span class="svelte-sbp2hm">5,724</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ALB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ALB.svg)">
 
 </div>
 
@@ -3512,19 +3450,40 @@ country.
 </div>
 
 **Albania**
-<span class="svelte-sbp2hm">5,620</span>
+<span class="svelte-1jnkadc">5,750</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/DJI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PRY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Paraguay**
+<span class="svelte-1jnkadc">5,724</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DJI.svg)">
 
 </div>
 
@@ -3533,19 +3492,19 @@ country.
 </div>
 
 **Djibouti**
-<span class="svelte-sbp2hm">5,240</span>
+<span class="svelte-1jnkadc">5,248</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LBN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBN.svg)">
 
 </div>
 
@@ -3554,40 +3513,19 @@ country.
 </div>
 
 **Lebanon**
-<span class="svelte-sbp2hm">5,062</span>
+<span class="svelte-1jnkadc">5,062</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GNQ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Equatorial Guinea**
-<span class="svelte-sbp2hm">4,821</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GRC.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GRC.svg)">
 
 </div>
 
@@ -3596,19 +3534,40 @@ country.
 </div>
 
 **Greece**
-<span class="svelte-sbp2hm">4,737</span>
+<span class="svelte-1jnkadc">4,855</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MDV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GNQ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Equatorial Guinea**
+<span class="svelte-1jnkadc">4,821</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDV.svg)">
 
 </div>
 
@@ -3617,19 +3576,19 @@ country.
 </div>
 
 **Maldives**
-<span class="svelte-sbp2hm">4,293</span>
+<span class="svelte-1jnkadc">4,293</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ZWE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZWE.svg)">
 
 </div>
 
@@ -3638,19 +3597,19 @@ country.
 </div>
 
 **Zimbabwe**
-<span class="svelte-sbp2hm">4,075</span>
+<span class="svelte-1jnkadc">4,075</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LBY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBY.svg)">
 
 </div>
 
@@ -3659,19 +3618,19 @@ country.
 </div>
 
 **Libya**
-<span class="svelte-sbp2hm">4,063</span>
+<span class="svelte-1jnkadc">4,063</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/HKG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HKG.svg)">
 
 </div>
 
@@ -3680,19 +3639,19 @@ country.
 </div>
 
 **Hong Kong**
-<span class="svelte-sbp2hm">3,589</span>
+<span class="svelte-1jnkadc">3,669</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SWZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SWZ.svg)">
 
 </div>
 
@@ -3701,19 +3660,19 @@ country.
 </div>
 
 **Eswatini**
-<span class="svelte-sbp2hm">2,838</span>
+<span class="svelte-1jnkadc">2,838</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CUB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CUB.svg)">
 
 </div>
 
@@ -3722,40 +3681,19 @@ country.
 </div>
 
 **Cuba**
-<span class="svelte-sbp2hm">2,670</span>
+<span class="svelte-1jnkadc">2,701</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SSD.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South Sudan**
-<span class="svelte-sbp2hm">2,429</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NAM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NAM.svg)">
 
 </div>
 
@@ -3764,19 +3702,40 @@ country.
 </div>
 
 **Namibia**
-<span class="svelte-sbp2hm">2,406</span>
+<span class="svelte-1jnkadc">2,470</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SVK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SSD.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**South Sudan**
+<span class="svelte-1jnkadc">2,437</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SVK.svg)">
 
 </div>
 
@@ -3785,19 +3744,19 @@ country.
 </div>
 
 **Slovakia**
-<span class="svelte-sbp2hm">2,354</span>
+<span class="svelte-1jnkadc">2,368</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LTU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LTU.svg)">
 
 </div>
 
@@ -3806,19 +3765,19 @@ country.
 </div>
 
 **Lithuania**
-<span class="svelte-sbp2hm">2,120</span>
+<span class="svelte-1jnkadc">2,137</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/EST.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/EST.svg)">
 
 </div>
 
@@ -3827,19 +3786,19 @@ country.
 </div>
 
 **Estonia**
-<span class="svelte-sbp2hm">2,080</span>
+<span class="svelte-1jnkadc">2,091</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ISL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ISL.svg)">
 
 </div>
 
@@ -3848,19 +3807,19 @@ country.
 </div>
 
 **Iceland**
-<span class="svelte-sbp2hm">1,915</span>
+<span class="svelte-1jnkadc">1,918</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SUR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SUR.svg)">
 
 </div>
 
@@ -3869,19 +3828,19 @@ country.
 </div>
 
 **Suriname**
-<span class="svelte-sbp2hm">1,893</span>
+<span class="svelte-1jnkadc">1,893</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TUN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TUN.svg)">
 
 </div>
 
@@ -3890,19 +3849,19 @@ country.
 </div>
 
 **Tunisia**
-<span class="svelte-sbp2hm">1,565</span>
+<span class="svelte-1jnkadc">1,565</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/URY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/URY.svg)">
 
 </div>
 
@@ -3911,19 +3870,19 @@ country.
 </div>
 
 **Uruguay**
-<span class="svelte-sbp2hm">1,291</span>
+<span class="svelte-1jnkadc">1,291</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AGO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AGO.svg)">
 
 </div>
 
@@ -3932,19 +3891,19 @@ country.
 </div>
 
 **Angola**
-<span class="svelte-sbp2hm">1,280</span>
+<span class="svelte-1jnkadc">1,280</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LVA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LVA.svg)">
 
 </div>
 
@@ -3953,19 +3912,19 @@ country.
 </div>
 
 **Latvia**
-<span class="svelte-sbp2hm">1,246</span>
+<span class="svelte-1jnkadc">1,249</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/UGA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UGA.svg)">
 
 </div>
 
@@ -3974,19 +3933,19 @@ country.
 </div>
 
 **Uganda**
-<span class="svelte-sbp2hm">1,195</span>
+<span class="svelte-1jnkadc">1,203</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CYP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CYP.svg)">
 
 </div>
 
@@ -3995,19 +3954,19 @@ country.
 </div>
 
 **Cyprus**
-<span class="svelte-sbp2hm">1,155</span>
+<span class="svelte-1jnkadc">1,155</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BFA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BFA.svg)">
 
 </div>
 
@@ -4016,19 +3975,19 @@ country.
 </div>
 
 **Burkina Faso**
-<span class="svelte-sbp2hm">1,150</span>
+<span class="svelte-1jnkadc">1,153</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TGO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TGO.svg)">
 
 </div>
 
@@ -4037,19 +3996,19 @@ country.
 </div>
 
 **Togo**
-<span class="svelte-sbp2hm">976</span>
+<span class="svelte-1jnkadc">976</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AND.svg)">
 
 </div>
 
@@ -4058,19 +4017,19 @@ country.
 </div>
 
 **Andorra**
-<span class="svelte-sbp2hm">937</span>
+<span class="svelte-1jnkadc">939</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/JAM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JAM.svg)">
 
 </div>
 
@@ -4079,19 +4038,19 @@ country.
 </div>
 
 **Jamaica**
-<span class="svelte-sbp2hm">905</span>
+<span class="svelte-1jnkadc">905</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MLT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MLT.svg)">
 
 </div>
 
@@ -4100,19 +4059,19 @@ country.
 </div>
 
 **Malta**
-<span class="svelte-sbp2hm">874</span>
+<span class="svelte-1jnkadc">890</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SYR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SYR.svg)">
 
 </div>
 
@@ -4121,19 +4080,19 @@ country.
 </div>
 
 **Syria**
-<span class="svelte-sbp2hm">847</span>
+<span class="svelte-1jnkadc">847</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LSO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LSO.svg)">
 
 </div>
 
@@ -4142,19 +4101,19 @@ country.
 </div>
 
 **Lesotho**
-<span class="svelte-sbp2hm">718</span>
+<span class="svelte-1jnkadc">718</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BHS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BHS.svg)">
 
 </div>
 
@@ -4163,19 +4122,19 @@ country.
 </div>
 
 **Bahamas**
-<span class="svelte-sbp2hm">679</span>
+<span class="svelte-1jnkadc">679</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/VNM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/VNM.svg)">
 
 </div>
 
@@ -4184,19 +4143,19 @@ country.
 </div>
 
 **Vietnam**
-<span class="svelte-sbp2hm">652</span>
+<span class="svelte-1jnkadc">670</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GMB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GMB.svg)">
 
 </div>
 
@@ -4205,19 +4164,19 @@ country.
 </div>
 
 **Gambia**
-<span class="svelte-sbp2hm">498</span>
+<span class="svelte-1jnkadc">498</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GUY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GUY.svg)">
 
 </div>
 
@@ -4226,19 +4185,19 @@ country.
 </div>
 
 **Guyana**
-<span class="svelte-sbp2hm">474</span>
+<span class="svelte-1jnkadc">474</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/COM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COM.svg)">
 
 </div>
 
@@ -4247,19 +4206,19 @@ country.
 </div>
 
 **Comoros**
-<span class="svelte-sbp2hm">386</span>
+<span class="svelte-1jnkadc">386</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KHM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KHM.svg)">
 
 </div>
 
@@ -4268,19 +4227,19 @@ country.
 </div>
 
 **Cambodia**
-<span class="svelte-sbp2hm">240</span>
+<span class="svelte-1jnkadc">240</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/FRO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FRO.svg)">
 
 </div>
 
@@ -4289,19 +4248,19 @@ country.
 </div>
 
 **Faroe Islands**
-<span class="svelte-sbp2hm">225</span>
+<span class="svelte-1jnkadc">227</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TTO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TTO.svg)">
 
 </div>
 
@@ -4310,19 +4269,19 @@ country.
 </div>
 
 **Trinidad and Tobago**
-<span class="svelte-sbp2hm">182</span>
+<span class="svelte-1jnkadc">192</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SXM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SXM.svg)">
 
 </div>
 
@@ -4331,19 +4290,19 @@ country.
 </div>
 
 **Sint Maarten**
-<span class="svelte-sbp2hm">150</span>
+<span class="svelte-1jnkadc">150</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BRB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRB.svg)">
 
 </div>
 
@@ -4352,19 +4311,19 @@ country.
 </div>
 
 **Barbados**
-<span class="svelte-sbp2hm">132</span>
+<span class="svelte-1jnkadc">132</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TCA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TCA.svg)">
 
 </div>
 
@@ -4373,19 +4332,19 @@ country.
 </div>
 
 **Turks and Caicos Islands**
-<span class="svelte-sbp2hm">116</span>
+<span class="svelte-1jnkadc">116</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PNG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PNG.svg)">
 
 </div>
 
@@ -4394,33 +4353,33 @@ country.
 </div>
 
 **Papua New Guinea**
-<span class="svelte-sbp2hm">111</span>
+<span class="svelte-1jnkadc">114</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BTN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Bhutan** <span class="svelte-sbp2hm">103</span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BTN.svg)">
 
 </div>
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+</div>
+
+**Bhutan** <span class="svelte-1jnkadc">103</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -4439,51 +4398,51 @@ days.
 
 Total cases Cases per capita
 
-<div class="cases-per-capita tab-content svelte-xvkcj1">
+<div class="per-capita tab-content svelte-1sqapi1">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div id="chart-wrapper-flat" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/USA.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/USA.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**United States** <span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**United States** <span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/RUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/RUS.svg)">
 
 </div>
 
@@ -4495,15 +4454,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CHL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MEX.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Mexico**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHL.svg)">
 
 </div>
 
@@ -4515,15 +4494,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IRN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRN.svg)">
 
 </div>
 
@@ -4535,15 +4514,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GBR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GBR.svg)">
 
 </div>
 
@@ -4555,15 +4534,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ITA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ITA.svg)">
 
 </div>
 
@@ -4575,15 +4554,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TUR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TUR.svg)">
 
 </div>
 
@@ -4595,15 +4574,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IDN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IDN.svg)">
 
 </div>
 
@@ -4615,15 +4594,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CHN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHN.svg)">
 
 </div>
 
@@ -4636,15 +4615,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ECU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ECU.svg)">
 
 </div>
 
@@ -4656,15 +4635,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BOL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BOL.svg)">
 
 </div>
 
@@ -4676,15 +4655,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ISR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ISR.svg)">
 
 </div>
 
@@ -4696,15 +4675,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/DOM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DOM.svg)">
 
 </div>
 
@@ -4717,35 +4696,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PAN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Panama**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KWT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KWT.svg)">
 
 </div>
 
@@ -4757,15 +4716,35 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ARE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PAN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Panama**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARE.svg)">
 
 </div>
 
@@ -4777,15 +4756,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AFG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AFG.svg)">
 
 </div>
 
@@ -4797,15 +4776,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/DZA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DZA.svg)">
 
 </div>
 
@@ -4817,15 +4796,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SRB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SRB.svg)">
 
 </div>
 
@@ -4837,15 +4816,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IRL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRL.svg)">
 
 </div>
 
@@ -4857,15 +4836,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AUT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AUT.svg)">
 
 </div>
 
@@ -4877,15 +4856,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CRI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CRI.svg)">
 
 </div>
 
@@ -4898,15 +4877,15 @@ Rica**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CMR.svg)">
 
 </div>
 
@@ -4918,15 +4897,15 @@ Rica**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KOR.svg)">
 
 </div>
 
@@ -4939,15 +4918,15 @@ Korea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BGR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BGR.svg)">
 
 </div>
 
@@ -4959,15 +4938,15 @@ Korea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MDG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDG.svg)">
 
 </div>
 
@@ -4979,15 +4958,15 @@ Korea**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MKD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MKD.svg)">
 
 </div>
 
@@ -5000,15 +4979,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MYS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MYS.svg)">
 
 </div>
 
@@ -5020,15 +4999,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GAB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GAB.svg)">
 
 </div>
 
@@ -5040,15 +5019,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TJK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TJK.svg)">
 
 </div>
 
@@ -5060,15 +5039,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/FIN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FIN.svg)">
 
 </div>
 
@@ -5080,15 +5059,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CAF.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CAF.svg)">
 
 </div>
 
@@ -5101,15 +5080,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/HUN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HUN.svg)">
 
 </div>
 
@@ -5121,15 +5100,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MWI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MWI.svg)">
 
 </div>
 
@@ -5141,15 +5120,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/THA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/THA.svg)">
 
 </div>
 
@@ -5161,15 +5140,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SOM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SOM.svg)">
 
 </div>
 
@@ -5181,15 +5160,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LKA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LKA.svg)">
 
 </div>
 
@@ -5202,15 +5181,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MLI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MLI.svg)">
 
 </div>
 
@@ -5222,15 +5201,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SVN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SVN.svg)">
 
 </div>
 
@@ -5242,35 +5221,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GNB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Guinea-Bissau**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MOZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MOZ.svg)">
 
 </div>
 
@@ -5282,15 +5241,35 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SLE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GNB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Guinea-Bissau**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SLE.svg)">
 
 </div>
 
@@ -5303,15 +5282,15 @@ Leone**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BEN.svg)">
 
 </div>
 
@@ -5323,15 +5302,15 @@ Leone**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NZL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NZL.svg)">
 
 </div>
 
@@ -5344,15 +5323,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/JOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JOR.svg)">
 
 </div>
 
@@ -5364,15 +5343,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GEO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GEO.svg)">
 
 </div>
 
@@ -5384,15 +5363,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NER.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NER.svg)">
 
 </div>
 
@@ -5404,15 +5383,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TCD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TCD.svg)">
 
 </div>
 
@@ -5424,15 +5403,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/STP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/STP.svg)">
 
 </div>
 
@@ -5445,15 +5424,15 @@ Príncipe**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SMR.svg)">
 
 </div>
 
@@ -5466,15 +5445,15 @@ Marino**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CHI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHI.svg)">
 
 </div>
 
@@ -5487,15 +5466,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TZA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TZA.svg)">
 
 </div>
 
@@ -5507,15 +5486,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/TWN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TWN.svg)">
 
 </div>
 
@@ -5527,15 +5506,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MMR.svg)">
 
 </div>
 
@@ -5547,15 +5526,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MUS.svg)">
 
 </div>
 
@@ -5567,15 +5546,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/IMN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IMN.svg)">
 
 </div>
 
@@ -5588,15 +5567,15 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MNG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MNG.svg)">
 
 </div>
 
@@ -5608,15 +5587,15 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ERI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ERI.svg)">
 
 </div>
 
@@ -5628,15 +5607,15 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CYM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CYM.svg)">
 
 </div>
 
@@ -5649,15 +5628,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GIB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GIB.svg)">
 
 </div>
 
@@ -5669,15 +5648,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BMU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BMU.svg)">
 
 </div>
 
@@ -5689,15 +5668,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BRN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRN.svg)">
 
 </div>
 
@@ -5709,15 +5688,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ABW.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ABW.svg)">
 
 </div>
 
@@ -5729,15 +5708,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MCO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MCO.svg)">
 
 </div>
 
@@ -5749,15 +5728,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SYC.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SYC.svg)">
 
 </div>
 
@@ -5771,7 +5750,7 @@ Islands**
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -5779,54 +5758,54 @@ Islands**
 
 </div>
 
-<div class="cases-absolute tab-content svelte-xvkcj1">
+<div class="absolute tab-content svelte-1sqapi1">
 
 Charts show daily cases and are individually scaled to the maximum for
 each
 country.
 
-<div id="chart-wrapper-flat" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/USA.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/USA.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**United States** <span class="svelte-sbp2hm">4,725,137</span>
-<span class="svelte-sbp2hm">total cases</span>
-<span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**United States** <span class="svelte-1jnkadc">4,750,578</span>
+<span class="svelte-1jnkadc">total cases</span>
+<span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/RUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/RUS.svg)">
 
 </div>
 
@@ -5835,19 +5814,40 @@ country.
 </div>
 
 **Russia**
-<span class="svelte-sbp2hm">854,641</span>
+<span class="svelte-1jnkadc">859,762</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CHL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MEX.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Mexico**
+<span class="svelte-1jnkadc">443,813</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHL.svg)">
 
 </div>
 
@@ -5856,19 +5856,19 @@ country.
 </div>
 
 **Chile**
-<span class="svelte-sbp2hm">361,493</span>
+<span class="svelte-1jnkadc">362,962</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IRN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRN.svg)">
 
 </div>
 
@@ -5877,19 +5877,19 @@ country.
 </div>
 
 **Iran**
-<span class="svelte-sbp2hm">312,035</span>
+<span class="svelte-1jnkadc">314,786</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GBR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GBR.svg)">
 
 </div>
 
@@ -5898,19 +5898,19 @@ country.
 </div>
 
 **U.K.**
-<span class="svelte-sbp2hm">305,623</span>
+<span class="svelte-1jnkadc">305,623</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ITA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ITA.svg)">
 
 </div>
 
@@ -5919,19 +5919,19 @@ country.
 </div>
 
 **Italy**
-<span class="svelte-sbp2hm">248,229</span>
+<span class="svelte-1jnkadc">248,419</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TUR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TUR.svg)">
 
 </div>
 
@@ -5940,19 +5940,19 @@ country.
 </div>
 
 **Turkey**
-<span class="svelte-sbp2hm">233,851</span>
+<span class="svelte-1jnkadc">233,851</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IDN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IDN.svg)">
 
 </div>
 
@@ -5961,19 +5961,19 @@ country.
 </div>
 
 **Indonesia**
-<span class="svelte-sbp2hm">113,134</span>
+<span class="svelte-1jnkadc">115,056</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CHN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHN.svg)">
 
 </div>
 
@@ -5982,19 +5982,19 @@ country.
 </div>
 
 **Mainland China**
-<span class="svelte-sbp2hm">91,585</span>
+<span class="svelte-1jnkadc">91,585</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ECU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ECU.svg)">
 
 </div>
 
@@ -6003,19 +6003,19 @@ country.
 </div>
 
 **Ecuador**
-<span class="svelte-sbp2hm">87,041</span>
+<span class="svelte-1jnkadc">87,041</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BOL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BOL.svg)">
 
 </div>
 
@@ -6024,19 +6024,19 @@ country.
 </div>
 
 **Bolivia**
-<span class="svelte-sbp2hm">81,846</span>
+<span class="svelte-1jnkadc">81,846</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ISR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ISR.svg)">
 
 </div>
 
@@ -6045,19 +6045,19 @@ country.
 </div>
 
 **Israel**
-<span class="svelte-sbp2hm">74,430</span>
+<span class="svelte-1jnkadc">75,083</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/DOM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DOM.svg)">
 
 </div>
 
@@ -6066,40 +6066,19 @@ country.
 </div>
 
 **Dominican Rep.**
-<span class="svelte-sbp2hm">73,117</span>
+<span class="svelte-1jnkadc">74,295</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PAN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Panama**
-<span class="svelte-sbp2hm">68,456</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KWT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KWT.svg)">
 
 </div>
 
@@ -6108,19 +6087,40 @@ country.
 </div>
 
 **Kuwait**
-<span class="svelte-sbp2hm">68,299</span>
+<span class="svelte-1jnkadc">68,774</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ARE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PAN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Panama**
+<span class="svelte-1jnkadc">68,456</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARE.svg)">
 
 </div>
 
@@ -6129,19 +6129,19 @@ country.
 </div>
 
 **U.A.E.**
-<span class="svelte-sbp2hm">61,163</span>
+<span class="svelte-1jnkadc">61,352</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AFG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AFG.svg)">
 
 </div>
 
@@ -6150,19 +6150,19 @@ country.
 </div>
 
 **Afghanistan**
-<span class="svelte-sbp2hm">36,747</span>
+<span class="svelte-1jnkadc">36,747</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/DZA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DZA.svg)">
 
 </div>
 
@@ -6171,19 +6171,19 @@ country.
 </div>
 
 **Algeria**
-<span class="svelte-sbp2hm">31,972</span>
+<span class="svelte-1jnkadc">31,972</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SRB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SRB.svg)">
 
 </div>
 
@@ -6192,19 +6192,19 @@ country.
 </div>
 
 **Serbia**
-<span class="svelte-sbp2hm">26,451</span>
+<span class="svelte-1jnkadc">26,738</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IRL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRL.svg)">
 
 </div>
 
@@ -6213,19 +6213,19 @@ country.
 </div>
 
 **Ireland**
-<span class="svelte-sbp2hm">26,208</span>
+<span class="svelte-1jnkadc">26,208</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AUT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AUT.svg)">
 
 </div>
 
@@ -6234,19 +6234,19 @@ country.
 </div>
 
 **Austria**
-<span class="svelte-sbp2hm">21,385</span>
+<span class="svelte-1jnkadc">21,481</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CRI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CRI.svg)">
 
 </div>
 
@@ -6255,19 +6255,19 @@ country.
 </div>
 
 **Costa Rica**
-<span class="svelte-sbp2hm">19,402</span>
+<span class="svelte-1jnkadc">19,402</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CMR.svg)">
 
 </div>
 
@@ -6276,19 +6276,19 @@ country.
 </div>
 
 **Cameroon**
-<span class="svelte-sbp2hm">17,255</span>
+<span class="svelte-1jnkadc">17,255</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KOR.svg)">
 
 </div>
 
@@ -6297,19 +6297,19 @@ country.
 </div>
 
 **South Korea**
-<span class="svelte-sbp2hm">14,423</span>
+<span class="svelte-1jnkadc">14,423</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BGR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BGR.svg)">
 
 </div>
 
@@ -6318,19 +6318,19 @@ country.
 </div>
 
 **Bulgaria**
-<span class="svelte-sbp2hm">12,159</span>
+<span class="svelte-1jnkadc">12,159</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MDG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDG.svg)">
 
 </div>
 
@@ -6339,19 +6339,19 @@ country.
 </div>
 
 **Madagascar**
-<span class="svelte-sbp2hm">11,660</span>
+<span class="svelte-1jnkadc">11,895</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MKD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MKD.svg)">
 
 </div>
 
@@ -6360,19 +6360,19 @@ country.
 </div>
 
 **North Macedonia**
-<span class="svelte-sbp2hm">11,128</span>
+<span class="svelte-1jnkadc">11,202</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MYS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MYS.svg)">
 
 </div>
 
@@ -6381,19 +6381,19 @@ country.
 </div>
 
 **Malaysia**
-<span class="svelte-sbp2hm">9,001</span>
+<span class="svelte-1jnkadc">9,002</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GAB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GAB.svg)">
 
 </div>
 
@@ -6402,19 +6402,19 @@ country.
 </div>
 
 **Gabon**
-<span class="svelte-sbp2hm">7,646</span>
+<span class="svelte-1jnkadc">7,646</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TJK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TJK.svg)">
 
 </div>
 
@@ -6423,19 +6423,19 @@ country.
 </div>
 
 **Tajikistan**
-<span class="svelte-sbp2hm">7,538</span>
+<span class="svelte-1jnkadc">7,583</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/FIN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FIN.svg)">
 
 </div>
 
@@ -6444,19 +6444,19 @@ country.
 </div>
 
 **Finland**
-<span class="svelte-sbp2hm">7,466</span>
+<span class="svelte-1jnkadc">7,483</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CAF.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CAF.svg)">
 
 </div>
 
@@ -6465,19 +6465,19 @@ country.
 </div>
 
 **Central African Republic**
-<span class="svelte-sbp2hm">4,614</span>
+<span class="svelte-1jnkadc">4,614</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/HUN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HUN.svg)">
 
 </div>
 
@@ -6486,19 +6486,19 @@ country.
 </div>
 
 **Hungary**
-<span class="svelte-sbp2hm">4,544</span>
+<span class="svelte-1jnkadc">4,553</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MWI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MWI.svg)">
 
 </div>
 
@@ -6507,19 +6507,19 @@ country.
 </div>
 
 **Malawi**
-<span class="svelte-sbp2hm">4,272</span>
+<span class="svelte-1jnkadc">4,272</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/THA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/THA.svg)">
 
 </div>
 
@@ -6528,19 +6528,19 @@ country.
 </div>
 
 **Thailand**
-<span class="svelte-sbp2hm">3,320</span>
+<span class="svelte-1jnkadc">3,321</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SOM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SOM.svg)">
 
 </div>
 
@@ -6549,19 +6549,19 @@ country.
 </div>
 
 **Somalia**
-<span class="svelte-sbp2hm">3,220</span>
+<span class="svelte-1jnkadc">3,220</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LKA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LKA.svg)">
 
 </div>
 
@@ -6570,19 +6570,19 @@ country.
 </div>
 
 **Sri Lanka**
-<span class="svelte-sbp2hm">2,828</span>
+<span class="svelte-1jnkadc">2,834</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MLI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MLI.svg)">
 
 </div>
 
@@ -6591,19 +6591,19 @@ country.
 </div>
 
 **Mali**
-<span class="svelte-sbp2hm">2,543</span>
+<span class="svelte-1jnkadc">2,543</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SVN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SVN.svg)">
 
 </div>
 
@@ -6612,40 +6612,19 @@ country.
 </div>
 
 **Slovenia**
-<span class="svelte-sbp2hm">2,181</span>
+<span class="svelte-1jnkadc">2,190</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GNB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Guinea-Bissau**
-<span class="svelte-sbp2hm">1,981</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MOZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MOZ.svg)">
 
 </div>
 
@@ -6654,19 +6633,40 @@ country.
 </div>
 
 **Mozambique**
-<span class="svelte-sbp2hm">1,973</span>
+<span class="svelte-1jnkadc">2,029</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SLE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GNB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Guinea-Bissau**
+<span class="svelte-1jnkadc">1,981</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SLE.svg)">
 
 </div>
 
@@ -6675,19 +6675,19 @@ country.
 </div>
 
 **Sierra Leone**
-<span class="svelte-sbp2hm">1,848</span>
+<span class="svelte-1jnkadc">1,848</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BEN.svg)">
 
 </div>
 
@@ -6696,19 +6696,19 @@ country.
 </div>
 
 **Benin**
-<span class="svelte-sbp2hm">1,805</span>
+<span class="svelte-1jnkadc">1,805</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NZL.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NZL.svg)">
 
 </div>
 
@@ -6717,19 +6717,19 @@ country.
 </div>
 
 **New Zealand**
-<span class="svelte-sbp2hm">1,567</span>
+<span class="svelte-1jnkadc">1,567</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/JOR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JOR.svg)">
 
 </div>
 
@@ -6738,19 +6738,19 @@ country.
 </div>
 
 **Jordan**
-<span class="svelte-sbp2hm">1,218</span>
+<span class="svelte-1jnkadc">1,218</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GEO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GEO.svg)">
 
 </div>
 
@@ -6759,19 +6759,19 @@ country.
 </div>
 
 **Georgia**
-<span class="svelte-sbp2hm">1,179</span>
+<span class="svelte-1jnkadc">1,182</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NER.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NER.svg)">
 
 </div>
 
@@ -6780,19 +6780,19 @@ country.
 </div>
 
 **Niger**
-<span class="svelte-sbp2hm">1,152</span>
+<span class="svelte-1jnkadc">1,152</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TCD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TCD.svg)">
 
 </div>
 
@@ -6801,19 +6801,19 @@ country.
 </div>
 
 **Chad**
-<span class="svelte-sbp2hm">936</span>
+<span class="svelte-1jnkadc">936</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/STP.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/STP.svg)">
 
 </div>
 
@@ -6822,19 +6822,19 @@ country.
 </div>
 
 **São Tomé and Príncipe**
-<span class="svelte-sbp2hm">874</span>
+<span class="svelte-1jnkadc">874</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SMR.svg)">
 
 </div>
 
@@ -6843,19 +6843,19 @@ country.
 </div>
 
 **San Marino**
-<span class="svelte-sbp2hm">699</span>
+<span class="svelte-1jnkadc">699</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CHI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHI.svg)">
 
 </div>
 
@@ -6864,19 +6864,19 @@ country.
 </div>
 
 **Channel Islands**
-<span class="svelte-sbp2hm">591</span>
+<span class="svelte-1jnkadc">591</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TZA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TZA.svg)">
 
 </div>
 
@@ -6885,19 +6885,19 @@ country.
 </div>
 
 **Tanzania**
-<span class="svelte-sbp2hm">509</span>
+<span class="svelte-1jnkadc">509</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/TWN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TWN.svg)">
 
 </div>
 
@@ -6906,19 +6906,19 @@ country.
 </div>
 
 **Taiwan**
-<span class="svelte-sbp2hm">475</span>
+<span class="svelte-1jnkadc">474</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MMR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MMR.svg)">
 
 </div>
 
@@ -6927,19 +6927,19 @@ country.
 </div>
 
 **Myanmar**
-<span class="svelte-sbp2hm">355</span>
+<span class="svelte-1jnkadc">355</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MUS.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MUS.svg)">
 
 </div>
 
@@ -6948,19 +6948,19 @@ country.
 </div>
 
 **Mauritius**
-<span class="svelte-sbp2hm">344</span>
+<span class="svelte-1jnkadc">344</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/IMN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IMN.svg)">
 
 </div>
 
@@ -6969,19 +6969,19 @@ country.
 </div>
 
 **Isle of Man**
-<span class="svelte-sbp2hm">336</span>
+<span class="svelte-1jnkadc">336</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MNG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MNG.svg)">
 
 </div>
 
@@ -6990,19 +6990,19 @@ country.
 </div>
 
 **Mongolia**
-<span class="svelte-sbp2hm">293</span>
+<span class="svelte-1jnkadc">293</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ERI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ERI.svg)">
 
 </div>
 
@@ -7011,19 +7011,19 @@ country.
 </div>
 
 **Eritrea**
-<span class="svelte-sbp2hm">282</span>
+<span class="svelte-1jnkadc">282</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CYM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CYM.svg)">
 
 </div>
 
@@ -7032,19 +7032,19 @@ country.
 </div>
 
 **Cayman Islands**
-<span class="svelte-sbp2hm">203</span>
+<span class="svelte-1jnkadc">203</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GIB.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GIB.svg)">
 
 </div>
 
@@ -7053,19 +7053,19 @@ country.
 </div>
 
 **Gibraltar**
-<span class="svelte-sbp2hm">188</span>
+<span class="svelte-1jnkadc">189</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BMU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BMU.svg)">
 
 </div>
 
@@ -7074,19 +7074,19 @@ country.
 </div>
 
 **Bermuda**
-<span class="svelte-sbp2hm">157</span>
+<span class="svelte-1jnkadc">157</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BRN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRN.svg)">
 
 </div>
 
@@ -7095,19 +7095,19 @@ country.
 </div>
 
 **Brunei**
-<span class="svelte-sbp2hm">141</span>
+<span class="svelte-1jnkadc">141</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ABW.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ABW.svg)">
 
 </div>
 
@@ -7116,19 +7116,19 @@ country.
 </div>
 
 **Aruba**
-<span class="svelte-sbp2hm">124</span>
+<span class="svelte-1jnkadc">124</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MCO.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MCO.svg)">
 
 </div>
 
@@ -7137,33 +7137,33 @@ country.
 </div>
 
 **Monaco**
-<span class="svelte-sbp2hm">121</span>
+<span class="svelte-1jnkadc">121</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SYC.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Seychelles** <span class="svelte-sbp2hm">114</span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SYC.svg)">
 
 </div>
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+</div>
+
+**Seychelles** <span class="svelte-1jnkadc">114</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -7179,51 +7179,51 @@ country.
 
 Total cases Cases per capita
 
-<div class="cases-per-capita tab-content svelte-xvkcj1">
+<div class="per-capita tab-content svelte-1sqapi1">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div id="chart-wrapper-decreasing" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ZAF.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZAF.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**South Africa** <span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**South Africa** <span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SAU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SAU.svg)">
 
 </div>
 
@@ -7236,15 +7236,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PAK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PAK.svg)">
 
 </div>
 
@@ -7256,15 +7256,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BGD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BGD.svg)">
 
 </div>
 
@@ -7276,15 +7276,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CAN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CAN.svg)">
 
 </div>
 
@@ -7296,15 +7296,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/QAT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/QAT.svg)">
 
 </div>
 
@@ -7316,15 +7316,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/EGY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/EGY.svg)">
 
 </div>
 
@@ -7336,15 +7336,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KAZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KAZ.svg)">
 
 </div>
 
@@ -7356,15 +7356,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SWE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SWE.svg)">
 
 </div>
 
@@ -7376,15 +7376,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/OMN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/OMN.svg)">
 
 </div>
 
@@ -7396,15 +7396,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BLR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BLR.svg)">
 
 </div>
 
@@ -7416,35 +7416,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PRT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Portugal**
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GTM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GTM.svg)">
 
 </div>
 
@@ -7456,15 +7436,35 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NGA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PRT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Portugal**
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NGA.svg)">
 
 </div>
 
@@ -7476,15 +7476,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/HND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HND.svg)">
 
 </div>
 
@@ -7496,15 +7496,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BHR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BHR.svg)">
 
 </div>
 
@@ -7516,15 +7516,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/ARM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARM.svg)">
 
 </div>
 
@@ -7536,15 +7536,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/KGZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KGZ.svg)">
 
 </div>
 
@@ -7556,15 +7556,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/AZE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AZE.svg)">
 
 </div>
 
@@ -7576,15 +7576,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CIV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CIV.svg)">
 
 </div>
 
@@ -7597,15 +7597,15 @@ Coast**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/PSE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PSE.svg)">
 
 </div>
 
@@ -7618,15 +7618,15 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SDN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SDN.svg)">
 
 </div>
 
@@ -7638,15 +7638,15 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/SEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SEN.svg)">
 
 </div>
 
@@ -7658,15 +7658,15 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/COD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COD.svg)">
 
 </div>
 
@@ -7679,15 +7679,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/HTI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HTI.svg)">
 
 </div>
 
@@ -7699,15 +7699,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/GIN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GIN.svg)">
 
 </div>
 
@@ -7719,15 +7719,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LUX.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LUX.svg)">
 
 </div>
 
@@ -7739,15 +7739,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MRT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MRT.svg)">
 
 </div>
 
@@ -7759,15 +7759,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/HRV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HRV.svg)">
 
 </div>
 
@@ -7779,15 +7779,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/NIC.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NIC.svg)">
 
 </div>
 
@@ -7799,15 +7799,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/COG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COG.svg)">
 
 </div>
 
@@ -7820,15 +7820,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/MNE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MNE.svg)">
 
 </div>
 
@@ -7840,15 +7840,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/CPV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CPV.svg)">
 
 </div>
 
@@ -7861,15 +7861,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/RWA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/RWA.svg)">
 
 </div>
 
@@ -7881,15 +7881,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/YEM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/YEM.svg)">
 
 </div>
 
@@ -7901,15 +7901,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/LBR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBR.svg)">
 
 </div>
 
@@ -7921,15 +7921,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BWA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BWA.svg)">
 
 </div>
 
@@ -7941,15 +7941,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/per-capita/BDI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BDI.svg)">
 
 </div>
 
@@ -7963,7 +7963,7 @@ Verde**
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -7971,54 +7971,54 @@ Verde**
 
 </div>
 
-<div class="cases-absolute tab-content svelte-xvkcj1">
+<div class="absolute tab-content svelte-1sqapi1">
 
 Charts show daily cases and are individually scaled to the maximum for
 each
 country.
 
-<div id="chart-wrapper-decreasing" class="chart-wrapper svelte-xvkcj1">
+<div class="chart-wrapper svelte-1sqapi1">
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ZAF.svg)">
-
-</div>
-
-<div class="point svelte-sbp2hm" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-sbp2hm">7-day average</span>
-<span class="line svelte-sbp2hm"></span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZAF.svg)">
 
 </div>
 
+<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
+
+<span class="annotation svelte-1jnkadc">7-day average</span>
+<span class="line svelte-1jnkadc"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**South Africa** <span class="svelte-sbp2hm">516,862</span>
-<span class="svelte-sbp2hm">total cases</span>
-<span class="first svelte-sbp2hm">Jan. 22</span>
-<span class="last svelte-sbp2hm">Aug.
+**South Africa** <span class="svelte-1jnkadc">516,862</span>
+<span class="svelte-1jnkadc">total cases</span>
+<span class="first svelte-1jnkadc">Jan. 22</span>
+<span class="last svelte-1jnkadc">Aug.
 3</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SAU.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SAU.svg)">
 
 </div>
 
@@ -8027,19 +8027,19 @@ country.
 </div>
 
 **Saudi Arabia**
-<span class="svelte-sbp2hm">280,093</span>
+<span class="svelte-1jnkadc">281,456</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PAK.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PAK.svg)">
 
 </div>
 
@@ -8048,19 +8048,19 @@ country.
 </div>
 
 **Pakistan**
-<span class="svelte-sbp2hm">280,029</span>
+<span class="svelte-1jnkadc">280,461</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BGD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BGD.svg)">
 
 </div>
 
@@ -8069,19 +8069,19 @@ country.
 </div>
 
 **Bangladesh**
-<span class="svelte-sbp2hm">242,102</span>
+<span class="svelte-1jnkadc">244,020</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CAN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CAN.svg)">
 
 </div>
 
@@ -8090,19 +8090,19 @@ country.
 </div>
 
 **Canada**
-<span class="svelte-sbp2hm">117,031</span>
+<span class="svelte-1jnkadc">117,031</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/QAT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/QAT.svg)">
 
 </div>
 
@@ -8111,19 +8111,19 @@ country.
 </div>
 
 **Qatar**
-<span class="svelte-sbp2hm">111,322</span>
+<span class="svelte-1jnkadc">111,538</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/EGY.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/EGY.svg)">
 
 </div>
 
@@ -8132,19 +8132,19 @@ country.
 </div>
 
 **Egypt**
-<span class="svelte-sbp2hm">94,640</span>
+<span class="svelte-1jnkadc">94,640</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KAZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KAZ.svg)">
 
 </div>
 
@@ -8153,19 +8153,19 @@ country.
 </div>
 
 **Kazakhstan**
-<span class="svelte-sbp2hm">92,662</span>
+<span class="svelte-1jnkadc">93,820</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SWE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SWE.svg)">
 
 </div>
 
@@ -8174,19 +8174,19 @@ country.
 </div>
 
 **Sweden**
-<span class="svelte-sbp2hm">81,012</span>
+<span class="svelte-1jnkadc">81,181</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/OMN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/OMN.svg)">
 
 </div>
 
@@ -8195,19 +8195,19 @@ country.
 </div>
 
 **Oman**
-<span class="svelte-sbp2hm">79,159</span>
+<span class="svelte-1jnkadc">79,159</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BLR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BLR.svg)">
 
 </div>
 
@@ -8216,40 +8216,19 @@ country.
 </div>
 
 **Belarus**
-<span class="svelte-sbp2hm">68,166</span>
+<span class="svelte-1jnkadc">68,250</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PRT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Portugal**
-<span class="svelte-sbp2hm">51,569</span>
-
-</div>
-
-<div class="chart-outer svelte-xvkcj1">
-
-<span class="chart-container svelte-sbp2hm"></span>
-
-<div class="chart svelte-sbp2hm">
-
-<div class="chart-inner svelte-sbp2hm">
-
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GTM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GTM.svg)">
 
 </div>
 
@@ -8258,19 +8237,40 @@ country.
 </div>
 
 **Guatemala**
-<span class="svelte-sbp2hm">51,542</span>
+<span class="svelte-1jnkadc">52,365</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NGA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PRT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Portugal**
+<span class="svelte-1jnkadc">51,681</span>
+
+</div>
+
+<div class="chart-outer svelte-1sqapi1">
+
+<span class="chart-container svelte-1jnkadc"></span>
+
+<div class="chart svelte-1jnkadc">
+
+<div class="chart-inner svelte-1jnkadc">
+
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NGA.svg)">
 
 </div>
 
@@ -8279,19 +8279,19 @@ country.
 </div>
 
 **Nigeria**
-<span class="svelte-sbp2hm">44,129</span>
+<span class="svelte-1jnkadc">44,129</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/HND.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HND.svg)">
 
 </div>
 
@@ -8300,19 +8300,19 @@ country.
 </div>
 
 **Honduras**
-<span class="svelte-sbp2hm">43,794</span>
+<span class="svelte-1jnkadc">43,794</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BHR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BHR.svg)">
 
 </div>
 
@@ -8321,19 +8321,19 @@ country.
 </div>
 
 **Bahrain**
-<span class="svelte-sbp2hm">41,835</span>
+<span class="svelte-1jnkadc">41,835</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/ARM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARM.svg)">
 
 </div>
 
@@ -8342,19 +8342,19 @@ country.
 </div>
 
 **Armenia**
-<span class="svelte-sbp2hm">39,102</span>
+<span class="svelte-1jnkadc">39,298</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/KGZ.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KGZ.svg)">
 
 </div>
 
@@ -8363,19 +8363,19 @@ country.
 </div>
 
 **Kyrgyzstan**
-<span class="svelte-sbp2hm">37,129</span>
+<span class="svelte-1jnkadc">37,541</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/AZE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AZE.svg)">
 
 </div>
 
@@ -8384,19 +8384,19 @@ country.
 </div>
 
 **Azerbaijan**
-<span class="svelte-sbp2hm">32,684</span>
+<span class="svelte-1jnkadc">32,910</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CIV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CIV.svg)">
 
 </div>
 
@@ -8405,19 +8405,19 @@ country.
 </div>
 
 **Ivory Coast**
-<span class="svelte-sbp2hm">16,220</span>
+<span class="svelte-1jnkadc">16,220</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/PSE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PSE.svg)">
 
 </div>
 
@@ -8426,19 +8426,19 @@ country.
 </div>
 
 **West Bank & Gaza**
-<span class="svelte-sbp2hm">12,541</span>
+<span class="svelte-1jnkadc">12,770</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SDN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SDN.svg)">
 
 </div>
 
@@ -8447,19 +8447,19 @@ country.
 </div>
 
 **Sudan**
-<span class="svelte-sbp2hm">11,738</span>
+<span class="svelte-1jnkadc">11,780</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/SEN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SEN.svg)">
 
 </div>
 
@@ -8468,19 +8468,19 @@ country.
 </div>
 
 **Senegal**
-<span class="svelte-sbp2hm">10,386</span>
+<span class="svelte-1jnkadc">10,432</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/COD.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COD.svg)">
 
 </div>
 
@@ -8489,19 +8489,19 @@ country.
 </div>
 
 **Democratic Republic of Congo**
-<span class="svelte-sbp2hm">9,133</span>
+<span class="svelte-1jnkadc">9,178</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/HTI.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HTI.svg)">
 
 </div>
 
@@ -8510,19 +8510,19 @@ country.
 </div>
 
 **Haiti**
-<span class="svelte-sbp2hm">7,511</span>
+<span class="svelte-1jnkadc">7,511</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/GIN.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GIN.svg)">
 
 </div>
 
@@ -8531,19 +8531,19 @@ country.
 </div>
 
 **Guinea**
-<span class="svelte-sbp2hm">7,364</span>
+<span class="svelte-1jnkadc">7,364</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LUX.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LUX.svg)">
 
 </div>
 
@@ -8552,19 +8552,19 @@ country.
 </div>
 
 **Luxembourg**
-<span class="svelte-sbp2hm">6,864</span>
+<span class="svelte-1jnkadc">6,864</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MRT.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MRT.svg)">
 
 </div>
 
@@ -8573,19 +8573,19 @@ country.
 </div>
 
 **Mauritania**
-<span class="svelte-sbp2hm">6,382</span>
+<span class="svelte-1jnkadc">6,382</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/HRV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HRV.svg)">
 
 </div>
 
@@ -8594,19 +8594,19 @@ country.
 </div>
 
 **Croatia**
-<span class="svelte-sbp2hm">5,294</span>
+<span class="svelte-1jnkadc">5,318</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/NIC.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NIC.svg)">
 
 </div>
 
@@ -8615,19 +8615,19 @@ country.
 </div>
 
 **Nicaragua**
-<span class="svelte-sbp2hm">3,672</span>
+<span class="svelte-1jnkadc">3,672</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/COG.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COG.svg)">
 
 </div>
 
@@ -8636,19 +8636,19 @@ country.
 </div>
 
 **Republic of Congo**
-<span class="svelte-sbp2hm">3,546</span>
+<span class="svelte-1jnkadc">3,546</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/MNE.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MNE.svg)">
 
 </div>
 
@@ -8657,19 +8657,19 @@ country.
 </div>
 
 **Montenegro**
-<span class="svelte-sbp2hm">3,301</span>
+<span class="svelte-1jnkadc">3,301</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/CPV.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CPV.svg)">
 
 </div>
 
@@ -8678,19 +8678,19 @@ country.
 </div>
 
 **Cape Verde**
-<span class="svelte-sbp2hm">2,583</span>
+<span class="svelte-1jnkadc">2,583</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/RWA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/RWA.svg)">
 
 </div>
 
@@ -8699,19 +8699,19 @@ country.
 </div>
 
 **Rwanda**
-<span class="svelte-sbp2hm">2,092</span>
+<span class="svelte-1jnkadc">2,092</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/YEM.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/YEM.svg)">
 
 </div>
 
@@ -8720,19 +8720,19 @@ country.
 </div>
 
 **Yemen**
-<span class="svelte-sbp2hm">1,734</span>
+<span class="svelte-1jnkadc">1,734</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/LBR.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBR.svg)">
 
 </div>
 
@@ -8741,19 +8741,19 @@ country.
 </div>
 
 **Liberia**
-<span class="svelte-sbp2hm">1,214</span>
+<span class="svelte-1jnkadc">1,216</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BWA.svg)">
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BWA.svg)">
 
 </div>
 
@@ -8762,33 +8762,33 @@ country.
 </div>
 
 **Botswana**
-<span class="svelte-sbp2hm">804</span>
+<span class="svelte-1jnkadc">804</span>
 
 </div>
 
-<div class="chart-outer svelte-xvkcj1">
+<div class="chart-outer svelte-1sqapi1">
 
-<span class="chart-container svelte-sbp2hm"></span>
+<span class="chart-container svelte-1jnkadc"></span>
 
-<div class="chart svelte-sbp2hm">
+<div class="chart svelte-1jnkadc">
 
-<div class="chart-inner svelte-sbp2hm">
+<div class="chart-inner svelte-1jnkadc">
 
-<div class="chart-image svelte-sbp2hm" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/build/curve-grid/cases/total/BDI.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Burundi** <span class="svelte-sbp2hm">395</span>
+<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BDI.svg)">
 
 </div>
 
 </div>
 
-<div class="show-all-container svelte-xvkcj1">
+</div>
+
+**Burundi** <span class="svelte-1jnkadc">395</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-1sqapi1">
 
 \+ Show all + Show less
 
@@ -9077,7 +9077,7 @@ have undercounted deaths during the coronavirus outbreak because of
 limited testing availability.
 
 Follow our coverage of the [coronavirus pandemic
-here.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
+here.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
 
 <div class="g-ad">
 
@@ -9090,10 +9090,10 @@ here.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html)
 ## <span class="g-balancer" data-id="9">United States</span>
 
 The number of known coronavirus cases in the United States continues to
-grow quickly. As of Tuesday morning, at least 4,725,100 people across
+grow quickly. As of Tuesday afternoon, at least 4,750,500 people across
 every state, plus Washington, D.C., and four U.S. territories, have
 tested positive for the virus, according to a New York Times database,
-and at least 155,900 patients with the virus have died.
+and at least 156,500 patients with the virus have died.
 
 See our [page of maps, charts and
 tables](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)

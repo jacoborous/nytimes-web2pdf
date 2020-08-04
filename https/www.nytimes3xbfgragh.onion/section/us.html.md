@@ -55,8 +55,7 @@ News](https://www.nytimes3xbfgragh.onion/section/us)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-us" class="section css-15h4p1b e9abtgs0">
 
@@ -131,104 +155,90 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/03/us/isaias-storm-updates.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbStandard-v2.jpg)](/2020/08/04/us/isaias-storm-updates.html)
     
     </div>
     
-    ## [Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
+    ## [Isaias Live Updates: Tornadoes Are a Threat as Storm Charges North](/2020/08/04/us/isaias-storm-updates.html)
     
-    Isaias regained strength into a Category 1 hurricane on Monday
-    night, bringing heavy winds and rain to the East Coast. Flash
-    flooding and tornadoes are
-        possible.
+    At least two people were killed after a tornado touched down in
+    Bertie County, N.C., and caused significant damage to a neighborhood
+    there.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
-        Robison/The Northeast Mississippi Daily Journal, via Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/00tribes-justice01/merlin_174879450_f5946007-96ca-4a36-bfa4-5af71c874eeb-jumbo.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-thumbStandard.jpg)](/2020/08/03/us/school-closing-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/00tribes-justice01/00tribes-justice01-thumbStandard.jpg)](/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
         
         </div>
         
-        ## [As the Coronavirus Comes to School, a Tough Choice: When to Close](/2020/08/03/us/school-closing-coronavirus.html)
+        ## [A Historic Supreme Court Ruling Upends Courts in Oklahoma](/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
         
-        As schools in the South and the Midwest reopen this week,
-        officials must decide what steps to take as staff members and
-        students test
-        positive.
+        Local prosecutors are referring criminal cases to the federal
+        and tribal courts, which are now flooded with new
+        cases.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Shawn
-        Hubler</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jack
+        Healy</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-        Rayford/Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03isaias-01/03isaias-01-threeByTwoMediumAt2X.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
+        Robinson for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/merlin_175266675_9e971eee-3d10-4a98-88ee-a499b4648531-jumbo.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03isaias-01/03isaias-01-thumbStandard.jpg)](/2020/08/03/us/isaias-east-coast-landfall.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/00blackdefund-03-thumbStandard.jpg)](/2020/08/04/us/minneapolis-defund-police.html)
         
         </div>
         
-        ## [East Coast Braces for Floods and Wind as Isaias Intensifies](/2020/08/03/us/isaias-east-coast-landfall.html)
+        ## [Distrust of the Minneapolis Police, and Also the Effort to Defund Them](/2020/08/04/us/minneapolis-defund-police.html)
         
-        A heavy soaking is expected in the Carolinas and Maryland, with
-        tropical storm warnings and watches in effect all the way up the
-        Eastern
-        Seaboard.
+        Residents on Minneapolis’s North Side, which has a majority
+        Black population, have mixed opinions on the City Council’s
+        effort to significantly reduce the police
+        force.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Lucy
-        Tompkins</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">John
+        Eligon</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
-        Sonner/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03alturascatoday/03alturascatoday-threeByTwoMediumAt2X-v2.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03alturascatoday/merlin_175074357_237ea6ee-554a-4856-95fb-f458b0b3ab44-thumbStandard.jpg)](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/03/us/isaias-storm-updates.html)
         
         </div>
         
-        ### California Today
+        ## [Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
         
-        ## [The Last California County Without a Coronavirus Case](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        Isaias regained strength into a Category 1 hurricane on Monday
+        night, bringing heavy winds and rain to the East Coast. Flash
+        flooding and tornadoes are possible.
         
-        Monday: The virus found its way into tiny, remote Modoc County.
-        Also: The Apple Fire prompted evacuations, and a successful
-        astronaut
-        return.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Thomas Fuller</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Jill
-        Cowan</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
 
@@ -286,25 +296,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    [](/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-ruraltexas/merlin_175264749_b521b6a7-6869-418b-bba4-07ec27cae42c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.
+    ## ‘Like a Horror Movie’: A Small Border Hospital Battles the Coronavirus
     
-    Mr. Wolf joined the Department of Homeland Security in its infancy
-    to help prevent another 9/11. Now he is helping President Trump use
-    it to achieve his political ambitions.
+    The hospital in Starr County, Texas, had no I.C.U. at all, and only
+    one doctor on duty for each shift. Then the coronavirus began
+    surging through the Rio Grande Valley.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Jesse
-    McKinley</span>
+    By <span class="css-1n7hynb">Edgar
+    Sandoval</span>
     
     </div>
     
@@ -322,25 +331,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    [](/video/us/100000007272140/trump-stumbles-over-yosemite.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    At every step in her political career, the California congresswoman
-    had to be coaxed to run for a higher office. Now she’s a top
-    contender to be Joe Biden’s running mate.
+    ## Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
+    
+    During a routine bill signing of the Great American Outdoors Act,
+    President Trump appeared to pronounce Yosemite as “Yo Semites.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
-    Jennifer
-    Medina</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -358,24 +367,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    [](/2020/08/04/us/2020-census-ending-early.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    ## After Census Bureau Announces Early End to Its Count, Fears of a Skewed Tally Rise
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    With 60 million households still uncounted, the bureau said it would
+    wrap up the survey a month early. Critics called it a bald move to
+    politicize the count in favor of Republicans.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Michael
+    Wines</span>
     
     </div>
     
@@ -393,24 +402,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/minneapolis-defund-police.html)
+    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/00blackdefund-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distrust of the Minneapolis Police, and Also the Effort to Defund Them
+    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
     
-    Residents on Minneapolis’s North Side, which has a majority Black
-    population, have mixed opinions on the City Council’s effort to
-    significantly reduce the police force.
+    Twin emergencies on two coasts this week — Hurricane Isaias and the
+    Apple Fire — offer a preview of life in a warming world and the
+    steady danger of overlapping disasters.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Eligon</span>
+    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
+    Henry
+    Fountain</span>
     
     </div>
     
@@ -428,24 +438,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    [](/video/us/100000007271780/wyoming-hot-air-balloon-crash.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Caribbean Dilemma
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Many islands are open to American travelers. Going could mean
-    bringing coronavirus to places ill-prepared to deal with it. Not
-    going could mean deepening economic woes. How do you choose?
+    ## 3 Hot Air Balloons Crash in Wyoming
+    
+    Video shows the aftermath of a tourist hot air balloon crash after a
+    strong gust of wind threw the balloons out of control.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nina
-    Burleigh</span>
+    By <span class="css-1n7hynb">The New York
+    Times</span>
     
     </div>
     
@@ -463,24 +474,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04whattowatch1/merlin_170318628_cc5fe952-825b-47c8-8354-897171b41804-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Today’s Primary Elections: What to Watch For
+    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
     
-    Kris Kobach is competing in a Senate primary in Kansas that has
-    Republicans nervous, and Rashida Tlaib is hoping to hang on against
-    a Democratic challenger in a Michigan House race.
+    President Trump was asked by an interviewer to reflect on the late
+    congressman’s contributions to the civil rights movement. He talked
+    up his own record instead.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The New York
-    Times</span>
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
+    Vigdor</span>
     
     </div>
     
@@ -498,25 +509,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    [](/2020/08/04/business/ford-jim-hackett-james-farley.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">good question</span>
+    ## Ford, Struggling in a Changing Industry, Replaces Its C.E.O.
     
-    ## How Hot is Too Hot?
-    
-    The human body can survive at surprisingly high temperatures, so
-    long as you’re prepared to sweat.
+    Jim Hackett, who failed to impress Wall Street, will be replaced by
+    James Farley, an auto industry veteran who started his career at
+    Toyota.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Randall
-    Munroe</span>
+    By <span class="css-1n7hynb">Neal E.
+    Boudette</span>
     
     </div>
     
@@ -534,22 +544,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/wyoming-hot-air-balloons-crash.html)
+    [](/video/us/100000007271735/tropical-storm-isaias-carolinas.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 3 Hot Air Balloons in Wyoming Crash Into Ground
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    “You didn’t know when it was going to stop,” said one passenger.
+    ## Tropical Storm Isaias Moves Up the East Coast
+    
+    Isaias, now a tropical storm, made landfall as a hurricane in North
+    Carolina and is causing widespread power outages as it cuts a path
+    north.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Azi Paybarah <span>and</span> Alex
-    Traub</span>
+    By <span class="css-1n7hynb">The Associated Press <span>and</span>
+    Reuters</span>
     
     </div>
     
@@ -567,23 +581,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/racism-massachusetts-grandfathering.html)
+    [](/2020/08/04/business/robot-cleaning-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/multimedia/03xp-grandfathering/03xp-grandfathering-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Massachusetts Court Won’t Use Term ‘Grandfathering,’ Citing Its Racist Origins
+    ### <span class="css-m70j1g">Square Feet</span>
     
-    The practice was “adopted by some states after the Civil War in an
-    effort to disenfranchise African-American voters,” the court noted.
+    ## For Robots, It’s a Time to Shine (and Maybe Disinfect)
+    
+    The pandemic has turned cleaning and other mundane building tasks
+    into a challenge, stoking interest in machines as cost-effective
+    solutions.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Azi
-    Paybarah</span>
+    By <span class="css-1n7hynb">Lisa
+    Prevost</span>
     
     </div>
     
@@ -601,23 +618,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
+    [](/2020/08/04/us/biden-vp-karen-bass-kamala-harris.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04basscatoday/merlin_175261437_21e95f0b-eb62-45c6-b3a5-cf7c8fdc54e6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
+    ### <span class="css-m70j1g">California Today</span>
     
-    Merritt Corrigan, the former deputy White House liaison for the U.S.
-    Agency for International Development, had drawn scrutiny shortly
-    after being named to the position.
+    ## Could a Californian Be Vice President?
+    
+    Tuesday: Yes, and here’s what it would mean for the Golden State.
+    Also: California’s coronavirus data is slightly encouraging.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Pranshu Verma</span>
+    By <span class="css-1n7hynb">Jill Cowan</span>
     
     </div>
     

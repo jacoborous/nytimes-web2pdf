@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -326,6 +326,18 @@ shutdowns as positive tests roll in.
 With the first schools open barely a week, one question is quickly
 arising: How many positive cases should it take to close down again?
 
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 It is a question to which education leaders have received vague,
 sometimes conflicting answers from state and local officials, with
 widely varying standards in different parts of the country.
@@ -364,15 +376,6 @@ stop-and-start year in which students and staff members may have to
 bounce between instruction in the classroom and remotely at home because
 of infections and quarantines.
 
-Many of the nation’s largest school districts have already announced
-that they will begin the school year with remote learning because
-infections in their communities are too widespread. That includes Los
-Angeles, the nation’s second-largest district, which [reached a deal on
-Monday](https://www.latimes.com/california/story/2020-08-03/lausd-teachers-reach-tentative-online-learning-pact)
-with the local teachers’ union that would establish a remote learning
-schedule that resembles a typical school day more closely than home
-instruction did in the spring.
-
 </div>
 
 </div>
@@ -381,13 +384,15 @@ instruction did in the spring.
 
 <div class="css-53u6y8">
 
-In Maryland, Gov. Larry Hogan [issued an emergency
-order](https://twitter.com/GovLarryHogan/status/1290330304830246912)
-counteracting Montgomery County’s health department, which said on
-Friday that all private schools needed to [start the year
-remotely](https://www.washingtonpost.com/local/education/montgomery-county-health-officials-tell-private-schools-to-start-school-online/2020/08/01/64552b9e-d3fd-11ea-9038-af089b63ac21_story.html),
-just as public schools in the region were
-planning.
+Many of the nation’s largest school districts have already announced
+that they will begin the school year with remote learning because
+infections in their communities are too widespread. That includes Los
+Angeles, the nation’s second-largest district, which [reached a deal on
+Monday](https://www.latimes.com/california/story/2020-08-03/lausd-teachers-reach-tentative-online-learning-pact)
+with the local teachers’ union that would establish a remote learning
+schedule that resembles a typical school day more closely than home
+instruction did in the
+spring.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -397,41 +402,43 @@ planning.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T07:33:06.428Z
+Updated 2020-08-04T18:55:17.683Z
 
 </div>
 
 </div>
 
-  - [Fauci defends Birx after she is criticized by
-    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
-  - [Trump derides Democrats as lawmakers and administration officials
-    try to break stimulus
-    impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
-  - [The deadline for 2020 census counting has been moved up by a
-    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
+  - [Public and private schools in Maryland and elsewhere are divided
+    over in-person
+    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
+  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
+    over the
+    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
+  - [‘Long days, long nights’: Washington prepares for a prolonged fight
+    over virus
+    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -446,6 +453,13 @@ updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?acti
 </div>
 
 </div>
+
+In Maryland, Gov. Larry Hogan [issued an emergency
+order](https://twitter.com/GovLarryHogan/status/1290330304830246912)
+counteracting Montgomery County’s health department, which said on
+Friday that all private schools needed to [start the year
+remotely](https://www.washingtonpost.com/local/education/montgomery-county-health-officials-tell-private-schools-to-start-school-online/2020/08/01/64552b9e-d3fd-11ea-9038-af089b63ac21_story.html),
+just as public schools in the region were planning.
 
 Montgomery County is home to some of the nation’s most prestigious
 private schools, including St. Andrew’s Episcopal School, attended by
@@ -453,9 +467,10 @@ President Trump’s youngest child. Mr. Hogan, a Republican, said the
 county’s closure order was overly broad and “inconsistent with the
 powers intended to be delegated to the county health officer.”
 
-Mr. Trump, who has pressured schools to reopen and threatened to
-withhold federal funding from those that do not teach in person, renewed
-his call on Monday, tweeting
+Mr. Trump, who has pressured [schools to
+reopen](https://www.nytimes.com/2020/08/03/business/how-schools-reopen.html)
+and threatened to withhold federal funding from those that do not teach
+in person, renewed his call on Monday, tweeting
 [first](https://twitter.com/realDonaldTrump/status/1290257055534551043)
 “Open the Schools\!” and
 [later](https://twitter.com/realDonaldTrump/status/1290488364362170371)
@@ -495,14 +510,6 @@ children](https://www.pewresearch.org/fact-tank/2019/08/14/back-to-school-dates-
 typically go back by the first full week of August, mostly in the South
 and parts of the Midwest.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 It took no time at all for the virus to appear in hallways and
 classrooms after schools started in Indiana on Thursday. At Greenfield
 Central Junior High School, outside Indianapolis, a student received a
@@ -537,8 +544,51 @@ American Academy of
 Pediatrics](https://www.nytimes.com/2020/06/30/us/coronavirus-schools-reopening-guidelines-aap.html)
 that it is important for children to be physically present in school. He
 also noted that younger people are less likely to get seriously sick
-from the
-coronavirus.
+from the coronavirus.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“Our hospitals are not overworked, they are not overwhelmed, we have not
+been busy for over a month, and getting kids back to school is a very
+reasonable option,” he said.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Greenfield
+Central Junior High School outside Indianapolis, where a student
+received a positive coronavirus test on the first day of
+classes.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>AJ
+Mast for The New York
+Times</span></span>](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-greenfield/merlin_175172043_10e25aaa-a280-427f-bf4b-b0b4bff0e6dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But some public health experts are skeptical that it is safe to reopen
+schools in areas where the virus is spreading widely, or where local
+officials do not have the means to test and trace people
+quickly.
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -548,7 +598,7 @@ coronavirus.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -560,7 +610,31 @@ coronavirus.
 
 #### Frequently Asked Questions
 
-Updated August 3, 2020
+Updated August 4, 2020
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[that seems likely, for at least several
+        months.](https://www.nytimes.com/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
 
   - #### I’m a small-business owner. Can I get relief?
     
@@ -633,30 +707,10 @@ Updated August 3, 2020
         that involve spending some days in classrooms and other days
         online. There’s no national policy on this yet, so check with
         your municipal school system regularly to see what is happening
-        in your community.
+        in your
+community.
 
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -683,41 +737,6 @@ Updated August 3, 2020
 </div>
 
 </div>
-
-“Our hospitals are not overworked, they are not overwhelmed, we have not
-been busy for over a month, and getting kids back to school is a very
-reasonable option,” he said.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Greenfield
-Central Junior High School outside Indianapolis, where a student
-received a positive coronavirus test on the first day of
-classes.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>AJ
-Mast for The New York
-Times</span></span>](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-greenfield/merlin_175172043_10e25aaa-a280-427f-bf4b-b0b4bff0e6dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-But some public health experts are skeptical that it is safe to reopen
-schools in areas where the virus is spreading widely, or where local
-officials do not have the means to test and trace people quickly.
 
 Even if children are less likely to get seriously sick, “every child
 that I know lives in a home with an adult,” said Dr. Harry Heiman, a
@@ -749,11 +768,6 @@ school showed coronavirus symptoms. The district, which serves about
 4,400 students, delayed the start of school for two weeks so all of that
 school’s employees could get tested.
 
-“We are just being overcautious,” the superintendent, Rick Townsend,
-said on Monday, which was supposed to be the first day of school. He
-said he made the decision to delay classes until Aug. 17 in consultation
-with local health officials.
-
 </div>
 
 </div>
@@ -761,6 +775,11 @@ with local health officials.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“We are just being overcautious,” the superintendent, Rick Townsend,
+said on Monday, which was supposed to be the first day of school. He
+said he made the decision to delay classes until Aug. 17 in consultation
+with local health officials.
 
 At Corinth High School in northern Mississippi, students are filing into
 classrooms according to seating charts to limit their contacts with

@@ -154,7 +154,7 @@ Down</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -349,8 +349,9 @@ Epstein</span>](https://www.nytimes.com/by/reid-j-epstein)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 30,
-    2020
+    Published July 30, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">6:15 a.m.
+    ET</span>
     
     </div>
 
@@ -358,7 +359,7 @@ Epstein</span>](https://www.nytimes.com/by/reid-j-epstein)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -388,9 +389,10 @@ Epstein</span>](https://www.nytimes.com/by/reid-j-epstein)
 Facing disastrous economic news and rising coronavirus deaths,
 [President
 Trump](https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html)
-on Thursday floated delaying the Nov. 3 election, a suggestion that
-lacks legal authority and could undermine confidence in an election that
-polls show him on course to lose.
+on Thursday floated [delaying the Nov. 3
+election](https://www.nytimes.com/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html?action=click&module=Briefings&pgtype=Homepage),
+a suggestion that lacks legal authority and could undermine confidence
+in an election that polls show him on course to lose.
 
 Republican leaders in Congress, who often claim not to have seen Mr.
 Trump’s outlandish statements and tweets and who infrequently challenge
@@ -479,31 +481,31 @@ coronavirus.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-03T13:14:26.522Z
+Updated 2020-08-04T19:15:38.651Z
 
 </div>
 
 </div>
 
-  - [The vice-presidential watch begins in earnest this
-    week.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2a2c5488)
-  - [Trump’s campaign returns to the airwaves in North Carolina,
-    Florida, Georgia and
-    Arizona.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-37287715)
-  - [Biden steps up his push to make Ohio competitive in November, with
-    help from Sherrod
-    Brown.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-33f706ee)
+  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
+    to
+    Trump.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
+  - [President Trump is suddenly a big supporter of mail-in voting — in
+    Florida.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
+  - [Election experts warn Congress about widespread disenfranchisement
+    of voters of color in
+    November.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6d019753)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -692,7 +694,31 @@ practice.
 has frequently broken with presidential precedent in doubting the
 legitimacy of
 elections. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Doug
-Mills/The New York Times</span></span>
+Mills/The New York
+Times</span></span>
+
+</div>
+
+</div>
+
+<div class="audioFigureHeading">
+
+<div class="css-1et479a">
+
+![](https://static01.nyt.com/images/2017/01/29/podcasts/the-daily-album-art/the-daily-album-art-articleInline-v2.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+### Listen to ‘The Daily’: Is the U.S. Ready to Vote by Mail?
+
+<span class="css-59o34k">What we’ve learned from the very different
+experiences of two states, Georgia and Montana.</span>
+
+</div>
+
+<div class="css-qe9gm7">
+
+<div>
 
 </div>
 
@@ -711,14 +737,6 @@ Jr.](https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html)
 Mr. Trump’s comments about the election looked all the more discordant
 coming just hours before the funeral for Mr. Lewis, a Democrat who as a
 young man was beaten and jailed as he advocated voting rights.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Without mentioning his successor by name, former President Barack Obama
 used his eulogy of Mr. Lewis to rebuke Mr. Trump.
@@ -745,12 +763,6 @@ Just this week, after he finally bowed to pressure to urge people to
 take virus safety measures, the president lamented how unpopular he is
 compared with his high-profile medical advisers.
 
-And then he [publicized an online
-video](https://www.nytimes.com/2020/07/28/technology/virus-video-trump.html)
-promoting an unproven virus treatment from a doctor who has previously
-opined on alien DNA and the impact of having sex with demons in one’s
-dreams.
-
 </div>
 
 </div>
@@ -758,6 +770,12 @@ dreams.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+And then he [publicized an online
+video](https://www.nytimes.com/2020/07/28/technology/virus-video-trump.html)
+promoting an unproven virus treatment from a doctor who has previously
+opined on alien DNA and the impact of having sex with demons in one’s
+dreams.
 
 His growing desperation to close the gap with Mr. Biden has also caused
 headaches for Republicans because he has increasingly employed
@@ -813,7 +831,7 @@ reporting.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -821,9 +839,11 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - The vice-presidential watch begins in earnest this week. [Follow
-        the latest updates
-        here.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

@@ -229,11 +229,49 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joseph
-    Rushmore for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03krugmanWe/03krugmanWe-jumbo-v2.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Damon
+    Winter/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Jamelle Bouie
+    
+    ## [Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    
+    Government of the minority, chosen by a minority, on behalf of a
+    minority, is not what Lincoln had in mind at
+    Gettysburg.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
+    Bouie</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+    Tama/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Lamas/04Lamas-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘If I Hadn’t Been Transferred, I Would Have Died’](/2020/08/04/opinion/covid-rural-hospitals.html)
+    
+    Conversations about death from Covid-19 revolve around patient
+    characteristics. But hospitals matter,
+    too.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Daniela J.
+    Lamas</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joseph
+    Rushmore for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03krugmanWe/03krugmanWe-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Paul Krugman
     
@@ -249,25 +287,7 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
-    Tama/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Lamas/04Lamas-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Will Covid-19 Patients in Rural Areas Get the Care They Need?](/2020/08/04/opinion/covid-rural-hospitals.html)
-    
-    In one study, people admitted to hospitals with fewer than 50 I.C.U.
-    beds were three times more likely to
-    die.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniela J.
-    Lamas</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
     Zender</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -286,49 +306,29 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Damon
-    Winter/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Jamelle Bouie
-    
-    ## [Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?](/2020/08/04/opinion/trump-2020-electoral-college.html)
-    
-    Government of the minority, chosen by a minority, on behalf of a
-    minority, is not what Lincoln had in mind at
-    Gettysburg.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
-    Bouie</span></span>
-    
-    </div>
-
 </div>
 
 <div class="css-1xdhyk6 e46isfb0">
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Tim Wu
+1.  ### Ross Douthat
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Denis
-    Charlet/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05Wu/04Wu-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
+    Dill/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04douthatSub/04douthatSub-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Years of Emails and Texts Reveal About Your Friendly Tech Companies](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+    ## [Republicans Are Ready for the Don Draper Method](/2020/08/04/opinion/trump-republicans-tea-party.html)
     
-    Theatrics distracted from the real payoff of the congressional
-    hearings: the subpoenaed
-    documents.
+    The coronavirus relief debate has Republicans falling back into
+    pre-Trump
+    grooves.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tim
-    Wu</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ross
+    Douthat</span></span>
     
     </div>
 
@@ -370,27 +370,7 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-4.  ### Ross Douthat
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
-    Dill/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04douthatSub/04douthatSub-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Will the Tea Party Live Again?](/2020/08/04/opinion/trump-republicans-tea-party.html)
-    
-    The coronavirus relief debate has Republicans falling back into
-    pre-Trump
-    grooves.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ross
-    Douthat</span></span>
-    
-    </div>
-
-5.  ### Bret Stephens
+4.  ### Bret Stephens
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artur
     Widak/NurPhoto, via Getty
@@ -407,6 +387,23 @@ Society](/section/opinion/gender-and-society)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Bret
     Stephens</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leonard
+    Freed/Magnum
+    Photos</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Hunter1/30Hunter1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Voting Isn’t Everything](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+    
+    Stop minimizing the work of
+    movements.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Daniel
+    Hunter</span></span>
     
     </div>
 
@@ -466,6 +463,74 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/letters/blackrock-argentina.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## BlackRock, on Argentina’s Debt Accord
+    
+    The firm says its role is consistent with its commitment to
+    stakeholder capitalism. Also: Transgender service
+    members.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/letters/trump-family.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/us/14bookmarytrump-print1/merlin_174289413_be827fb5-595f-4cb3-950d-3021b509f069-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letterS</span>
+    
+    ## How Trump’s Upbringing Molded His Personality
+    
+    Readers respond to an article about how empathy was a sign of
+    weakness in the Trump family and to revelations by the president’s
+    niece.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
     
     <div class="css-79elbk">
@@ -496,7 +561,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -529,7 +594,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -563,7 +628,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -598,7 +663,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -632,7 +697,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -666,7 +731,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -699,7 +764,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -728,75 +793,6 @@ story](#after-mid1)
     
     [Leer en
     español](https://www.nytimes3xbfgragh.onion/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/trump-biden-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The conversation</span>
-    
-    ## Trump Doesn’t Like What He Sees in the Crystal Ball
-    
-    Besides delaying the election, what else could alter his political
-    trajectory?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
-    Stephens</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04mounzer/03mounzer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## We Lebanese Thought We Could Survive Anything. We Were Wrong.
-    
-    The myth of their resilience helped the Lebanese function despite a
-    miserably corrupt and inept state. No longer.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lina Mounzer</span>
     
     </div>
     

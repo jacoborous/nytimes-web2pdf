@@ -167,18 +167,19 @@ story](#after-subheader)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/24/business/03daily/24michigan-arrest1-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+    Creese for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/us/politics/04daily/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-jumbo.jpg)
     
     <div class="css-gjijuv">
     
     ### The Daily
     
-    ## [Wrongfully Accused by an Algorithm](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+    ## [Is the U.S. Ready to Vote by Mail?](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
     
-    In what may be the first known case of its kind, a faulty facial
-    recognition match led to a Michigan man’s arrest for a crime he did
-    not
-    commit.
+    What we’ve learned from the very different experiences of two
+    states, Georgia and
+    Montana.
     
     <span class="css-me3p27"></span>
     
@@ -267,7 +268,22 @@ story](#after-mid1)
 [More in The Daily
     »](/column/the-daily)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/24/business/03daily/24michigan-arrest1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Wrongfully Accused by an Algorithm](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+    
+    In what may be the first known case of its kind, a faulty facial
+    recognition match led to a Michigan man’s arrest for a crime he did
+    not
+    commit.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -280,7 +296,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -294,7 +310,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -307,7 +323,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -315,21 +331,7 @@ story](#after-mid1)
     
     Some members of the Trump administration believe the superpower
     country poses an existential threat to the U.S. — one they are
-    working to address
-    now.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/23/business/28daily/23virus-uiexplain1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Why $600 Checks Are Tearing Republicans Apart](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
-    
-    As Republicans consider whether to extend weekly payments for those
-    without work during the pandemic, the election looms large.
+    working to address now.
     
     <span class="css-me3p27"></span>
     
@@ -345,7 +347,7 @@ story](#after-mid1)
     »](/column/modern-love-podcast)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2019/06/23/fashion/23ML-jaramillo/merlin_154561071_143c362c-fcb7-4d88-8ae2-c938777c91b0-videoLarge.jpg)
+    Rea</span>](https://static01.nyt.com/images/2020/06/19/fashion/23ML-jaramillo/merlin_154561071_143c362c-fcb7-4d88-8ae2-c938777c91b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -540,7 +542,21 @@ story](#after-mid2)
 [More in Popcast
     »](/column/popcast-pop-music-podcast)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Valerie
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
+    Garrabrant</span>](https://static01.nyt.com/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Answering Your Questions About Taylor Swift’s ‘Folklore’](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    
+    Readers asked about Bon Iver, country music, Jack Antonoff and
+    more.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Valerie
     Macon/Agence France-Presse — Getty
     Images</span>](https://static01.nyt.com/images/2020/07/27/arts/27popcast/27popcast-videoLarge.jpg)
     
@@ -556,7 +572,7 @@ story](#after-mid2)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yara
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yara
     Nardi/Reuters</span>](https://static01.nyt.com/images/2020/07/20/arts/20popcast/20popcast-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -571,7 +587,7 @@ story](#after-mid2)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Theo
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Theo
     Wargo/Getty Images for
     Directv</span>](https://static01.nyt.com/images/2020/07/11/arts/09popcast/09popcast-videoLarge.jpg)
     
@@ -587,7 +603,7 @@ story](#after-mid2)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
     Keith/Getty
     Images</span>](https://static01.nyt.com/images/2020/06/29/arts/29popcast/29popcast-videoLarge.jpg)
     
@@ -596,24 +612,7 @@ story](#after-mid2)
     ## [Pop Superfans Are Getting Politically Active. What Happens Next?](/2020/06/30/arts/music/popcast-superfans-politics.html)
     
     A subset of passionate listeners are asking for more of their heroes
-    than simply
-    music.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
-    Winter/Getty Images for
-    Iheartmedia</span>](https://static01.nyt.com/images/2020/06/21/arts/21popcast/21popcast-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Lil Baby Is Warming Up to the Spotlight](/2020/06/21/arts/music/popcast-lil-baby.html)
-    
-    His protest song “The Bigger Picture” marks a high point in his
-    evolution from reluctant up-and-comer to one of hip-hop’s reliable
-    superstars.
+    than simply music.
     
     <span class="css-me3p27"></span>
     
@@ -946,6 +945,38 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/23/business/28daily/23virus-uiexplain1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why $600 Checks Are Tearing Republicans Apart
+    
+    As Republicans consider whether to extend weekly payments for those
+    without work during the pandemic, the election looms
+    large.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
     
     <div class="css-79elbk">
@@ -972,7 +1003,7 @@ story](#after-mid4)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1003,7 +1034,7 @@ story](#after-mid4)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1038,7 +1069,7 @@ story](#after-mid4)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1070,7 +1101,7 @@ story](#after-mid4)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1103,7 +1134,7 @@ story](#after-mid4)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1121,37 +1152,6 @@ story](#after-mid4)
     
     Why have militarized federal forces been deployed to an American
     city?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/podcasts/the-daily/school-reopenings-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/12/science/22daily/00virus-schools-reopen01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Science of School Reopenings
-    
-    Several countries have found ways to reopen schools safely. But can
-    the United States?
     
     <div class="css-1nqbnmb ea5icrr0">
     

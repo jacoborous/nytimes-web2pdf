@@ -1,0 +1,622 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Obituaries](https://www.nytimes.com/section/obituaries)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Obituaries](/section/obituaries)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Overlooked
+No More: Nancy Green, the ‘Real Aunt
+Jemima’</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3jdOMWv</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Overlooked No More: Nancy Green, the ‘Real Aunt Jemima’
+
+</div>
+
+A nanny and cook, she played the part as the pancake flour company that
+employed her perpetuated a racial stereotype. She died 97 years ago in
+Chicago.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A detail
+of an Aunt Jemima advertisement from about the 1910s. Nancy Green was
+recruited in 1890 to be the character’s original incarnation.
+</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>The
+Advertising
+Archives/Alamy</span></span></span>](https://static01.nyt.com/images/2020/07/20/obituaries/20overlooked-green1/17overlooked-green1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
+
+[![Sam
+Roberts](https://static01.nyt.com/images/2018/02/20/multimedia/author-sam-roberts/author-sam-roberts-thumbLarge.jpg
+"Sam Roberts")](https://www.nytimes.com/by/sam-roberts)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">Sam
+Roberts</span>](https://www.nytimes.com/by/sam-roberts)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 17, 2020Updated July 18,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+*Overlooked is a series of obituaries about remarkable people whose
+deaths, beginning in 1851, went unreported in The Times.*
+
+Nancy Green was standing under the South Side El on East 46th Street in
+Chicago one Thursday in 1923 when she was struck and killed by a car
+that had collided with a laundry truck and careened onto the sidewalk
+where she was standing.
+
+Not until the next Monday, though, when Joseph Gubbins, Cook County’s
+deputy coroner, was conducting an inquest into the accident, was Green
+identified by her alter ego.
+
+Her death became front page news across the nation (though not in The
+New York Times) — and for good reason. For two decades she had generated
+headlines — also on front pages — while on tour as one of America’s most
+enduring living trademarks: Aunt Jemima.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“I’se in town, honey,” billboards and buttons featuring her likeness
+proclaimed.
+
+At stops along the way Green would flip flapjacks in a flour
+barrel-shaped pavilion 16 feet in diameter while singing spirituals and
+other obligatory tunes and waxing rhapsodic about antebellum plantation
+servitude under benevolent white masters.
+
+She had been recruited in 1890 as the original living incarnation of
+Aunt Jemima and played the part into the first decade of the 20th
+century, most famously at the World’s Columbian Exposition in Chicago in
+1892.
+
+Aunt Jemima, the character, would outlast Green for another 97 years on
+labels and boxes, until last month, when Quaker Oats, which bought the
+brand in 1926 and which was acquired by PepsiCo in 2001, [announced her
+retirement](https://www.nytimes.com/2020/06/17/business/aunt-jemima-racial-stereotype.html),
+acknowledging that she had been “based on a racial stereotype.”
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">An Aunt
+Jemima advertisement in The Saturday Evening Post on May 10, 1919. The
+character would outlast Green for 87 years on labels and boxes, until
+last month, when Quaker Oats announced her
+retirement.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>The
+Advertising
+Archives/Alamy</span></span>](https://static01.nyt.com/images/2020/07/17/obituaries/17overlooked-green2/17overlooked-green2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The image on pancake boxes and syrup dispensers was originally inspired
+by the song “[Old Aunt
+Jemima](https://www.youtube.com/watch?v=92EwphX3eJI),” which was written
+in 1875 by [Billy Kersands](https://nkaa.uky.edu/nkaa/items/show/2433),
+a Black comedian, and performed, often by white men, in minstrel shows.
+In 1889, inspired by one such performance, Chris Rutt, a former
+newspaper reporter, and Charles Underwood, his partner in a milling
+company, which they had bought that year, branded their self-rising
+pancake flour with the Aunt Jemima name.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Better at promotion than profit-making, the partners sold their failing
+company to the [R.T.
+Davis](https://chicagology.com/columbiaexpo/fair038/) Mill Company of
+St. Joseph, Mo., who promptly solicited his salesmen to find a real-life
+Aunt Jemima.
+
+It was Charles C. Jackson, a food wholesaler, who discovered Green, in
+1890. She was a cook for the family of Charles M. Walker Jr., who would
+become a Chicago alderman, corporation counsel and judge.
+
+Most biographies say that Green was born into slavery on March 4, 1834,
+in Mt. Sterling, Ky., in Montgomery County, east of Lexington, although
+the 1900 census lists her year of birth as 1854. (Official birth
+certificates for slaves were rarely filed.) She won her freedom and was
+hired as a nanny and housekeeper by Walker’s father,
+who<span class="css-8l6xbc evw5hdy0"> </span>transplanted the family to
+Chicago.
+
+Green helped care for Walker’s sons, Charles and Samuel, and her
+pancakes were said to be popular among the family’s friends.
+
+As Aunt Jemima, she proved to be a promotional bonanza for R.T. Davis at
+the Columbian Exposition, which included an exhibit of a miniature West
+African village whose natives were portrayed as primitive savages.
+
+The Aunt Jemima mythology transported Green to a tiny cabin in
+Louisiana, where she was the loyal cook for a Colonel Higbee, a
+plantation owner on the Mississippi. When Union soldiers during the
+Civil War threatened to rip off his mustache, the story went, she
+diverted them with her pancakes long enough for the colonel to escape.
+The troops were so smitten that they urged her to come north and share
+her recipe.
+
+This back story was created by James Webb Young, an advertising
+executive, and the illustrator N.C. Wyeth (the father of the artist
+[Andrew
+Wyeth](https://www.nytimes.com/2009/01/17/arts/design/17wyeth.html)). In
+promotional material, Aunt Jemima was called “the cook whose cabin
+became more famous than Uncle Tom’s.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“Those who knew her best,” it went on, “who knew her even from the time
+when she first came up from her little cabin home, they found her still
+the simple, earnest smiling mammy — it was all the same to her.”
+
+In reality, “this Aunt Jemima logo was an outgrowth of Old South
+plantation nostalgia and romance,” Riché Richardson, an associate
+professor in the Africana Studies and Research Center at Cornell
+University, wrote in [The New York
+Times](https://www.nytimes.com/roomfordebate/2015/06/24/besides-the-confederate-flag-what-other-symbols-should-go/can-we-please-finally-get-rid-of-aunt-jemima)
+in 2015. It was an image, she said, “grounded in an idea about the
+‘mammy,’ a devoted and submissive servant who eagerly nurtured the
+children of her white master and mistress while neglecting her own.”
+
+Green was said to have received a lifetime contract and made a fortune,
+but it’s more likely that she simply worked for the company (she
+described herself in the 1910 census as a “housekeeper”) while serving
+as a missionary for the historic [Olivet Baptist Church in
+Chicago](http://www.olivetbaptistchurchchicago.org/).
+
+In 1900, after 30 years of marriage, she was widowed. Green died from
+her injuries in the car accident on Aug. 30, 1923, having outlived her
+two children. She was believed to be 89. She was living with a
+great-nephew and his wife at the
+time.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:611.5777777777778px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Articles
+about Green appeared in newspapers across the nation, even after her
+death. This one was from
+1971.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>The
+Sacramento Bee, via newspapers.com</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Green was buried in an unmarked grave in Oakwood Cemetery in Chicago.
+That same year, the United Daughters of the Confederacy nearly succeeded
+in erecting a monument to “faithful colored mammies.” Legislation was
+approved by the United States Senate, but did not make it past the
+House.
+
+For 15 years, Sherry Williams, the president of The [Bronzeville
+Historical
+Society](https://bronzevillehistoricalsociety.wordpress.com/), which
+preserves African-American culture in Chicago, searched for a descendant
+of Green to grant permission to place a headstone at her grave site.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+This year, she reached a great-great-great nephew, Marcus Hayes, of
+Huntsville, Ala., who heartily agreed. Hayes, who is studying to become
+a pastor at Oakwood University, which is affiliated with the Seventh-day
+Adventist Church, said in a phone interview that Green had used her
+prominence to promote equality and would be disappointed that others had
+profited from her talent while her family received no recognition or
+compensation.
+
+“She would want the real story to be told of her and the ladies that
+came after her,” Hayes said. “Aunt Jemima is more than a character. She
+is Nancy Green, and this is her recipe, and her legacy must be told.”
+
+Williams said she hoped to hold a ceremony for Green at the cemetery
+later this year. She also made the case not to forget the Aunt Jemima
+image.
+
+“History does not simply disappear when you remove the Aunt Jemima image
+and brand name,” [Williams
+wrote](https://bronzevillehistoricalsociety.wordpress.com/2020/06/23/aunt-jemima-removed-from-pancake-products-commentary-by-sherry-williams/).
+
+“Aunt Jemima is representative of the countless Black women who were and
+are the essential workers,” she added. “Nancy Green in particular is the
+ideal woman to
+salute.”
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000005768649" data-slug="overlooked-archive-collection" style="max-width:2000px">
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

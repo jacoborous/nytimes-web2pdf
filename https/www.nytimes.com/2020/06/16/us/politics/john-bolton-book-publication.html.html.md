@@ -1,0 +1,597 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes.com/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Trump
+Administration Sues to Try to Delay Publication of Bolton’s
+Book</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3e88Gz7</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Trump Administration Sues to Try to Delay Publication of Bolton’s Book
+
+</div>
+
+The request comes a week before the highly anticipated memoir was set to
+be published.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">John R.
+Bolton is planning to publish a memoir of his time as President Trump’s
+national security
+adviser.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Logan
+Cyrus/Agence France-Presse — Getty
+Images</span></span></span>](https://static01.nyt.com/images/2020/06/17/us/politics/16dc-bolton-print/merlin_173470857_9bd374a6-d7d3-41a4-9ce9-bae598d5af35-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-pdw9fk epjyd6m0">
+
+<div class="css-1txwxcy ey68jwv0" data-aria-hidden="true">
+
+[![Maggie
+Haberman](https://static01.nyt.com/images/2018/07/12/multimedia/author-maggie-haberman/author-maggie-haberman-thumbLarge.png
+"Maggie Haberman")](https://www.nytimes.com/by/maggie-haberman)[![Katie
+Benner](https://static01.nyt.com/images/2018/02/16/multimedia/author-katie-benner/author-katie-benner-thumbLarge-v2.png
+"Katie Benner")](https://www.nytimes.com/by/katie-benner)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Maggie
+Haberman</span>](https://www.nytimes.com/by/maggie-haberman) and
+[<span class="css-1baulvz last-byline" itemprop="name">Katie
+Benner</span>](https://www.nytimes.com/by/katie-benner)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published June 16, 2020Updated July 3,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The Trump administration sued the former national security adviser John
+R. Bolton on Tuesday to try to delay publication of his highly
+anticipated memoir about his time in the White House, saying the [book
+contained classified
+information](https://www.nytimes.com/2020/06/17/us/politics/bolton-book-trump-impeached.html)
+that would compromise national security if it became public.
+
+[The book, “The Room Where It
+Happened,](https://www.nytimes.com/2020/06/17/books/review-room-where-it-happened-john-bolton-memoir.html)”
+is set for release on June 23. Administration officials have repeatedly
+warned Mr. Bolton against publishing it.
+
+Mr. Bolton made clear in a statement this week that his book contained
+explosive details about his time at the White House. He and Mr. Trump
+clashed on significant policy issues like Iran, North Korea and
+Afghanistan, and in his book, Mr. Bolton also confirmed accusations at
+the heart of the Democratic impeachment case over the president’s
+dealings with Ukraine, according to [details from his
+manuscript](https://www.nytimes.com/2020/01/31/us/politics/trump-bolton-ukraine.html)
+previously reported by The New York Times.
+
+The Justice Department accused him of short-circuiting a government
+review that he had agreed to participate in for any eventual manuscript
+before even accepting the post in 2018.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Bolton is breaking that agreement, “unilaterally deciding that the
+prepublication review process is complete and deciding for himself
+whether classified information should be made public,” department
+lawyers wrote in a breach of contract [lawsuit against Mr.
+Bolton](https://int.nyt.com/data/documenthelper/7030-john-bolton-lawsuit/ce3b8c4bf5f6687fa454/optimized/full.pdf#page=1)
+filed in federal court in Washington.
+
+The book’s publisher, Simon & Schuster, has already printed and
+distributed copies, and the lawsuit did not name it as a party, in an
+apparent nod to the constitutional and practical impediments to trying
+to stop it. Instead, the Justice Department asked a judge to seize Mr.
+Bolton’s proceeds from the book deal and to order him to try to persuade
+Simon & Schuster to pull back the book and dispose of copies until the
+review is completed.
+
+Mr. Bolton’s lawyer, Charles J. Cooper, did not immediately respond to a
+request for comment. He has said that his client acted in good faith and
+that the Trump administration is abusing a standard review process to
+prevent Mr. Bolton from revealing information that is merely
+embarrassing to President Trump, but not a threat to national security.
+
+A spokesman for Simon & Schuster called the lawsuit “nothing more than
+the latest in a long-running series of efforts by the administration to
+quash publication of a book it deems unflattering to the president.”
+
+While insider books vex many administrations, it is rare for one to sue
+to delay them before publication. Several former White House lawyers
+from Democratic and Republican administrations said they could not
+recall a similar legal effort to stop a book by a former White House
+official.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Bolton grew convinced that the prepublication review was no longer
+on the level, if it ever was, after he agreed to make the changes he was
+asked to make but the White House still gave him no written confirmation
+that the review was complete. The White House has now taken longer to
+review the book than Mr. Bolton did to write it after [he
+resigned](https://www.nytimes.com/2019/09/10/us/politics/john-bolton-national-security-adviser-trump.html)
+in September.
+
+On Monday, Mr. Trump accused Mr. Bolton of violating policies on
+classified information by moving ahead with the book. The president also
+threatened Mr. Bolton with criminal charges for moving ahead, though
+there is no indication that federal prosecutors plan to pursue any.
+
+The Justice Department did accuse Mr. Bolton in the lawsuit of leaking
+the manuscript, which contained classified information, without
+approval. Disclosing classified information is a federal crime.
+
+But in a further sign that the Justice Department is not mounting a
+serious bid to try to block the book’s imminent release, the complaint
+does not seek a temporary restraining order — a legal step to freeze an
+action so the court can evaluate disputes — to block any further
+distribution of copies, Richard Hasen, a law professor at the University
+of California, Irvine, [said on
+Twitter](https://twitter.com/rickhasen/status/1273007151938592768).
+
+Mr. Trump also faces the prospect of unfavorable revelations from a
+forthcoming book on another front. A niece of his, [Mary
+Trump](https://www.nytimes.com/2020/07/03/us/politics/mary-trump-book-publication.html),
+plans to divulge damaging information about him in a book to be
+published next month, also by Simon & Schuster, the publisher said this
+week.
+
+Mr. Bolton submitted the manuscript to the administration for review in
+January. At the time, the impeachment trial was underway into whether
+Mr. Trump’s dealings with Ukraine constituted an abuse of power.
+
+Democrats asked Mr. Bolton to testify voluntarily in the House
+impeachment inquiry, but he declined, and they never sought a subpoena,
+fearing a protracted court fight. Mr. Bolton did offer to testify in the
+Senate trial if subpoenaed, only to have Republicans block such a
+request by Democrats, and ultimately the president was acquitted.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Trump has been enraged about Mr. Bolton’s pending book for months,
+and has told his advisers he wanted to try to stop it. On Monday,
+Attorney General William P. Barr criticized Mr. Bolton for publishing a
+book while the president he served under was still in office,
+erroneously calling it unprecedented. Other officials, including Robert
+M. Gates, a former defense secretary and C.I.A. director under
+presidents of both parties, have published books while the
+administration they worked in was still in power.
+
+The government’s system for reviewing books and other material by former
+officials was created to ensure that classified and other sensitive
+information remained secret. Officials must agree to submit any works to
+the review process in order to obtain a security clearance.
+
+Mr. Bolton submitted his materials to the National Security Council,
+which found “significant quantities of classified information,” the
+Justice Department said in its complaint.
+
+According to the complaint, a security council official reviewing it
+told Mr. Bolton in April that it did not contain classified information.
+But she also told Mr. Bolton that the review was still underway. A
+second review began in May.
+
+In a letter this month to Mr. Cooper, John A. Eisenberg, a deputy White
+House counsel, informed him that the manuscript still contained
+classified information, that Mr. Bolton “himself classified and
+designated for declassification only after the lapse of 25 years” and
+that the book could not be published and distributed, the complaint
+said.
+
+Mr. Cooper replied in a letter that “the book has now been printed,
+bound and shipped to distributors across the country,” the lawsuit said.
+
+Rather than wait for the government to complete the review, the Justice
+Department said, Mr. Bolton “decided to take matters into his own hands”
+and decide with his publisher to disclose last week that the book would
+be published this month, without giving notice to the National Security
+Council.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The government’s 27-page civil complaint was bolstered by 19 exhibits,
+including the security agreement that he signed, a White House memo that
+detailed Mr. Bolton’s postemployment obligations and letters between Mr.
+Bolton, his lawyer and the government sent in January, February and
+March that discuss the fact that the manuscript contains classified
+materials.
+
+The government can try to take several types of action when a former
+official is about to publish what it says is classified information.
+
+The first type, so-called prior restraint, is to seek to block
+publication of the material. Courts have repeatedly taken a dim view of
+such attempts in light of the First Amendment’s protections for a free
+press, including in [a famous case
+in 1971](https://www.oyez.org/cases/1970/1873) striking down the Nixon
+administration’s attempt to stop The Times from publishing the Pentagon
+Papers.
+
+Separately, the government can try to seize the proceeds from books on
+the grounds that the writers breached the agreements they signed as a
+condition of receiving access to classified information.
+
+The lawsuit filed on Tuesday gestured at blocking publication, but it
+seemed more squarely focused on seizing Mr. Bolton’s profits.
+
+Filed against Mr. Bolton — not Simon & Schuster — it asked for the court
+to take control of the money he made from the book, and to order that he
+“instruct or request his publisher, insofar as he has the authority to
+do so,” to retrieve and dispose of current copies of the book and
+further delay its release “until completion of the prepublication review
+process.”
+
+A group of former national security officials said last year in a
+[lawsuit](https://www.nytimes.com/2019/04/02/us/politics/prepublication-censorship-system.html)
+that the review process for books and articles unjustifiably restricted
+their rights to free speech and due process.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+They claimed that the review system, which is governed by several
+ambiguous policies, gives reviewing officials too much discretionary
+power over what is published and allows them to quickly clear reviews
+for former officials who write positively about the government.
+
+The head of the Justice Department’s Civil Division, Joseph R. Hunt, who
+signed the lawsuit, told staff members on Tuesday that [he planned to
+resign after nearly two
+years](https://www.nytimes.com/2020/06/16/us/politics/justice-department-jody-hunt.html)
+in the post, according to an email obtained by The Times, making him the
+third top department official to step down in the past week.
+
+Charlie Savage and Peter Baker contributed reporting.
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

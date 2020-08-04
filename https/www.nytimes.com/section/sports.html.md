@@ -164,50 +164,139 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
 
 <div id="collection-highlights-container" class="section css-18l1u7x e46isfb1">
 
-<div class="template-1 css-gfgt40 ekkqrpp1">
+<div class="css-gfgt40 ekkqrpp1">
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Bello/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/sports/03yankees-1/merlin_175181169_127d39c2-665c-4eed-bb0c-1efbaaa25cf4-jumbo.jpg)
-    
-    <div class="css-gjijuv">
-    
-    ## [Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
-    
-    Judge has hit home runs in five consecutive games, and he’s done it
-    without one of his favorite tools: the video replay
-    room.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Wagner</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
-    Sladky/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
+    Kwak/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ### on baseball
+    <div class="css-1dqkjed">
     
-    ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    [![](https://static01.nyt.com/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-thumbStandard.jpg)](/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
     
-    Series have been postponed, teams have been quarantined and road
-    trips have been rerouted in a season that has been defined above all
-    by its
-    precariousness.
+    </div>
+    
+    ### on college football
+    
+    ## [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
+    
+    Kassidy Woods, a redshirt sophomore receiver at Washington State,
+    was concerned about the pandemic. The coach was sympathetic until he
+    learned he was joining a players’ rights
+    initiative.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tyler
-    Kepner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Billy
+    Witz</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kathy
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by The New York Times; Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/03/reader-center/burst-nba-ball/burst-nba-ball-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/03/reader-center/burst-nba-ball/burst-nba-ball-thumbStandard-v2.jpg)](/interactive/2020/08/04/sports/nba-bubble-coronavirus.html)
+    
+    </div>
+    
+    ## [Life Inside the N.B.A. Bubble](/interactive/2020/08/04/sports/nba-bubble-coronavirus.html)
+    
+    Marc Stein has covered the N.B.A. for nearly 30 years, so he’s seen
+    a lot. But covering the league under quarantine conditions is a new
+    experience. Here are things you’ll only see inside the “N.B.A.
+    bubble.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Marc
+    Stein</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
+        Sladky/Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### on baseball
+        
+        ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-thumbStandard.jpg)](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+        
+        </div>
+        
+        Series have been postponed, teams have been quarantined, and
+        road trips have been rerouted in a season that has been defined
+        above all by its
+        precariousness.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Tyler
+        Kepner</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+        Bello/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/03/sports/03yankees-1/03yankees-1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/sports/03yankees-1/merlin_175181169_127d39c2-665c-4eed-bb0c-1efbaaa25cf4-thumbStandard.jpg)](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
+        
+        </div>
+        
+        Judge hit home runs in five consecutive games entering Monday
+        night’s action, and he did it without one of his favorite tools:
+        the video replay
+        room.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">James
+        Wagner</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cole
+    Burston/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/sports/04nhl-toronto-3/merlin_156430548_d842714e-5d34-4577-8a1d-1ef1a7a59a45-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Toronto Tones Down Its Postseason Party](/2020/08/04/sports/toronto-nhl-playoffs.html)
+    
+    The N.H.L. playoffs are proceeding without fans in and around
+    Scotiabank Arena, leaving hockey to compete with other leagues for
+    attention.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Morgan
+    Campbell</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kathy
     Willens/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-videoLarge.jpg)
     
@@ -226,34 +315,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
-    Kwak/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### on college football
-    
-    ## [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
-    
-    Kassidy Woods, a redshirt sophomore receiver at Washington State,
-    was concerned about the pandemic. The coach was sympathetic until he
-    learned he was joining a players’ rights
-    initiative.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Billy
-    Witz</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
     Fremson/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/04/sports/04Mascot-print-1/31mascot-spokane2-print-videoLarge-v3.jpg)
     
@@ -271,7 +333,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     Testa for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/sports/03gymnastics1-print/03gymnastics1-print-videoLarge-v2.jpg)
     
@@ -290,7 +352,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
     C. Cox/USA Today Sports, via
     Reuters</span>](https://static01.nyt.com/images/2020/08/03/sports/03nba-redick01/03nba-redick01-videoLarge-v2.jpg)
     
@@ -308,7 +370,15 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-4.  ### On Tennis
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### On Tennis
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karsten
     Moran for The New York
@@ -328,7 +398,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
     Anzuoni/Reuters</span>](https://static01.nyt.com/images/2020/08/03/sports/03xfl/03xfl-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -346,15 +416,7 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Solomon for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/sports/03mlb-mets/03mlb-mets-videoLarge.jpg)
     
@@ -370,43 +432,6 @@ Football](https://nytimes.stats.com/cfb/scoreboard.asp)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kevin
     Armstrong</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rob
-    Carr/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/02/sports/02mlb/02mlb-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
-    
-    Major League Baseball’s commissioner put the onus on players to
-    behave more responsibly, but some players and health experts see
-    weaknesses in the league’s safety
-    protocols.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Wagner</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
-    Mole</span>](https://static01.nyt.com/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](/2020/08/02/sports/snooker-world-championship.html)
-    
-    The world snooker championship welcomed spectators last week, part
-    of a pilot program that offered hope to other events eager to follow
-    suit. A few hours later, the government pulled the
-    plug.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Karen
-    Crouse</span></span>
     
     </div>
 
@@ -504,11 +529,80 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/movies/red-penguins-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04redpenguins/04redpenguins-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Red Penguins’ Review: A Rowdy Look at Post-Soviet Russia
+    
+    This new documentary tells the tale of the Americans who invested in
+    Russia’s premier hockey team in the early 1990s. Unsurprisingly,
+    things went awry.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Kenigsberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Summer Recreation? It’s Backordered
+    
+    Americans seeking outdoor getaways in the pandemic bought up all the
+    pools, tents, kayaks and trampolines.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Herrman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -534,7 +628,42 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/sports/02mlb/02mlb-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks
+    
+    Major League Baseball’s commissioner put the onus on players to
+    behave more responsibly, but some players and health experts see
+    weaknesses in the league’s safety protocols.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">James
+    Wagner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
     
     <div class="css-1cp3ece">
     
@@ -569,7 +698,42 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/snooker-world-championship.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.
+    
+    The world snooker championship welcomed spectators last week, part
+    of a pilot program that offered hope to other events eager to follow
+    suit. A few hours later, the government pulled the plug.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Crouse</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -604,7 +768,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +804,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -674,7 +838,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -696,149 +860,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tariq
-    Panja</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/football/antonio-brown-suspension-nfl.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/sports/31brown-suspension-print/merlin_172890783_97953c39-f485-4d1c-8ccf-7f92169815a0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Antonio Brown Suspended Eight Games by the N.F.L.
-    
-    The All-Pro receiver was penalized for his role in a January dispute
-    at his home and for sending threatening texts to a woman who had
-    accused him of sexual misconduct.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ken
-    Belson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/baseball/john-mcnamara-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/obituaries/01McNamara-obit1/McNamara1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John McNamara, Red Sox Skipper in ’86 Series Loss, Dies at 88
-    
-    He led six big league teams with some success, but he’s best
-    remembered for questionable managerial moves in a crushing (for
-    Boston) sixth game against the Mets.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Richard
-    Sandomir</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/soccer/soccer-baseball.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/sports/31rorynewsletter-cheslea/merlin_174969222_6eca17f3-ef34-4a6b-85a3-ecbaeeabbd63-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Rory Smith On Soccer</span>
-    
-    ## Embracing the Value in Scarcity
-    
-    Major League Baseball is busy worrying that a 60-game season is not
-    long enough. But that hand-wringing might offer an insight into why
-    elite soccer is such a global phenomenon.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rory
-    Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/sports/31virus-cardinals-print/merlin_175093647_f37c4703-1fdf-4469-aa74-3eefabee1c04-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## St. Louis Cardinals Postpone Game After Two Players Test Positive for Virus
-    
-    Baseball’s outbreak spreads to a third major league clubhouse, but
-    Major League Baseball said the Cardinals’ game on Saturday will go
-    ahead as planned.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler Kepner</span>
+    By <span class="css-1n7hynb">Tariq Panja</span>
     
     </div>
     
