@@ -118,6 +118,7 @@ Door.</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -248,10 +249,18 @@ Wu</span>](https://www.nytimes.com/by/katherine-j--wu)
         </div>
     
       - 
+      - 
     
     </div>
     
     </div>
+
+</div>
+
+<div class="css-mdjrty">
+
+[Leer en
+español](https://www.nytimes.com/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html "Read in Spanish")
 
 </div>
 

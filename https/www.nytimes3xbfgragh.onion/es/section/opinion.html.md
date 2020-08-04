@@ -157,10 +157,53 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
-    Ruvic/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    Archive/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Comentario
+    
+    ## [El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
+    
+    Aunque ha habido intentos recurrentes de reformar el complejo método
+    de elegir presidentes en ese país, las políticas raciales han tenido
+    un lugar protagónico en impedir
+    cambios.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">Alexander
+    Keyssar</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
+    Sura/EPA vía
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Comentario
+    
+    ## [En El Salvador todos han negociado con las pandillas](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+    
+    Dialogar con las pandillas ha sido una realidad en el país:
+    políticos de todos los colores lo han hecho por casi una década,
+    pero solo unos cuantos han sido perseguidos por hacerlo. ¿Es una
+    utopía transparentar esos
+    pactos?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">Óscar
+    Martínez</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Comentario
     
@@ -177,7 +220,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
     Drago para The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
     
@@ -195,47 +238,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">Jorge
     Ramos</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
-    vía Getty Images
-    Plus</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Comentario
-    
-    ## [Sí, el coronavirus está en el aire](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
-    
-    La transmisión por aerosoles es importante, y quizá sea mucho más
-    relevante de lo que hemos podido comprobar hasta
-    ahora.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Linsey C.
-    Marr</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
-    Cadena
-    Bejarano</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Comentario
-    
-    ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
-    
-    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
-    sobre las urgencias actuales sin fantasías atávicas pero con un
-    nítido sentido de la historia y los desafíos del
-    presente.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Juan
-    Villoro</span></span>
     
     </div>
 
@@ -293,32 +295,34 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
+    [](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05campos/04campos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Comentario</span>
     
-    ## El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia
+    ## Por qué los brasileños deberían temer a la oficina de odio
     
-    Aunque ha habido intentos recurrentes de reformar el complejo método
-    de elegir presidentes en ese país, las políticas raciales han tenido
-    un lugar protagónico en impedir cambios.
+    El presidente Jair Bolsonaro, sus hijos y aliados han sembrado el
+    odio en línea contra las instituciones que defienden la democracia.
+    Ahora la indignación se está desbordando en la calle.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Alexander Keyssar</span>
+    Por <span class="css-1n7hynb">Patrícia Campos Mello</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/08/03/opinion/electoral-college-racism-white-supremacy.html "Read in English")
+    English](https://www.nytimes3xbfgragh.onion/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html "Read in English")[Ler
+    em
+    português](https://www.nytimes3xbfgragh.onion/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html "Read in Portuguese")
     
     </div>
     
@@ -373,27 +377,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+    [](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/01Marr-ES-1/30Marr-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Comentario</span>
     
-    ## En El Salvador todos han negociado con las pandillas
+    ## Sí, el coronavirus está en el aire
     
-    Dialogar con las pandillas ha sido una realidad en el país:
-    políticos de todos los colores lo han hecho por casi una década,
-    pero solo unos cuantos han sido perseguidos por hacerlo. ¿Es una
-    utopía transparentar esos pactos?
+    La transmisión por aerosoles es importante, y quizá sea mucho más
+    relevante de lo que hemos podido comprobar hasta ahora.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Óscar
-    Martínez</span>
+    Por <span class="css-1n7hynb">Linsey C. Marr</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/07/30/opinion/coronavirus-aerosols.html "Read in English")
     
     </div>
     
@@ -455,6 +463,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## La tierra en préstamo: una gramática de la violencia en México
+    
+    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
+    sobre las urgencias actuales sin fantasías atávicas pero con un
+    nítido sentido de la historia y los desafíos del presente.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Juan
+    Villoro</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/es/2020/07/30/espanol/opinion/john-lewis-derechos-civiles.html)
     
     <div class="css-79elbk">
@@ -489,7 +534,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -526,7 +571,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -565,7 +610,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -602,7 +647,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -634,44 +679,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes3xbfgragh.onion/2020/07/20/opinion/coronavirus-reopen-schools-economy.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/26/espanol/opinion/nicmer-evans-venezuela.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26Barrera-ES/merlin_170314122_3f1b8858-af1c-45e6-bbd1-e9a4e30fba75-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## Teoría y práctica del odio
-    
-    Hace tres años, el gobierno de Nicolás Maduro instauró una ley
-    contra el odio, un instrumento legal para promover la tolerancia en
-    Venezuela. Pero en la práctica se convirtió en lo contrario: una
-    forma eficaz para ejercer la violencia del Estado en contra de
-    cualquier disidencia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Alberto Barrera Tyszka</span>
     
     </div>
     

@@ -118,6 +118,7 @@ America</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -266,10 +267,17 @@ Shear</span>](https://www.nytimes.com/by/michael-d-shear)
         </div>
     
       - 
+      - 
     
     </div>
     
     </div>
+
+</div>
+
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
 
 </div>
 
@@ -292,7 +300,7 @@ media app under scrutiny for potentially providing the Chinese
 government with access to American user data. After threatening on
 Friday to ban the app from the United States, Mr. Trump [reversed
 course](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html),
-saying he would allow TikTok to keep operating if it was sold to an
+saying he would allow TikTok to keep operating if it were sold to an
 American owner.
 
 At the White House on Monday, Mr. Trump said that TikTok would be shut

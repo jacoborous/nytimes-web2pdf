@@ -501,7 +501,7 @@ story](#after-mid1)
     </div>
 
 4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
-    Porlan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARSLIFE1-03/28SCI-MARSLIFE1-03-videoLarge-v2.jpg)
+    Porlan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARSLIFE1-03/28SCI-MARSLIFE1-03-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     

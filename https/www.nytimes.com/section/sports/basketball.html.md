@@ -494,7 +494,7 @@ story](#after-subheader)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/14/sports/14sideline-pettis/14sideline-pettis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/14/sports/14sideline-pettis/14sideline-pettis-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

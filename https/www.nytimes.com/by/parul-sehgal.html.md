@@ -168,6 +168,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/books/review-luster-raven-leilani.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family
+    
+    Raven Leilani’s novel concerns a young Black woman who becomes
+    involved with an older white man who is in an open marriage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Parul
+    Sehgal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/books/review-must-i-go-yiyun-li.html)
     
     <div class="css-79elbk">
@@ -196,7 +230,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -231,7 +265,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -266,7 +300,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -301,7 +335,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -335,7 +369,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -370,7 +404,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -405,7 +439,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -439,7 +473,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -458,42 +492,6 @@ story](#after-mid1)
     In “The Vanishing Half,” her follow-up to “The Mothers,” Brit
     Bennett writes about twin sisters from Louisiana who set out in very
     different directions.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Parul
-    Sehgal</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/19/books/review/coronavirus-literature-time.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/23/books/review/20Sehgal01/20Sehgal01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## In Search of Time Lost and Newly Found
-    
-    Our critic Parul Sehgal examines how the notion of time — and how we
-    describe it — has changed during the quarantine.
     
     <div class="css-1nqbnmb ea5icrr0">
     

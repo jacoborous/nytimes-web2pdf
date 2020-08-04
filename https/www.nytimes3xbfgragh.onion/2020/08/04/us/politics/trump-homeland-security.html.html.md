@@ -82,9 +82,9 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">The
-Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With
-It.</span>
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Meet
+the Official Accused of Helping Trump Politicize Homeland
+Security</span>
 
 </div>
 
@@ -146,12 +146,12 @@ It.</span>
 and</span><span class="css-1pje3qr">
 America</span></span>](https://www.nytimes3xbfgragh.onion/news-event/george-floyd-protests-minneapolis-new-york-los-angeles?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [Protesters Return to Other
-    Cities](https://www.nytimes3xbfgragh.onion/2020/07/26/us/protests-portland-seattle-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Portland at the
-    Center](https://www.nytimes3xbfgragh.onion/2020/07/24/us/portland-oregon-protests-white-race.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Podcast: Showdown in
-    Portland](https://www.nytimes3xbfgragh.onion/2020/07/23/podcasts/the-daily/portland-protests.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Black Lives Matter
+    Movement](https://www.nytimes3xbfgragh.onion/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [History of ‘I Can’t
+    Breathe’](https://www.nytimes3xbfgragh.onion/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [How Public Opinion
+    Shifted](https://www.nytimes3xbfgragh.onion/interactive/2020/06/10/upshot/black-lives-matter-attitudes.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [45 Days in
     Louisville](https://www.nytimes3xbfgragh.onion/interactive/2020/07/16/us/black-lives-matter-protests-louisville-breonna-taylor.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
@@ -219,13 +219,13 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.
+# Meet the Official Accused of Helping Trump Politicize Homeland Security
 
 </div>
 
-Mr. Wolf joined the Department of Homeland Security in its infancy to
-help prevent another 9/11. Now he is helping President Trump use it to
-achieve his political ambitions.
+Chad F. Wolf joined the Department of Homeland Security in its infancy
+to help prevent another 9/11. Now he is helping President Trump use it
+to achieve his political ambitions.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -272,14 +272,20 @@ McKinley</span>](https://www.nytimes3xbfgragh.onion/by/jesse-mckinley)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4, 2020Updated <span class="css-epvm6">3:48 p.m.
     ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -374,6 +380,12 @@ bad, but the way it was done was shoddy, and now we are paying the
 price,” said Russell D. Feingold, a former Democratic senator who
 opposed the creation of the department in 2002.
 
+At the time, Congress believed broadly that a single department was
+needed to improve communication between national security agencies and
+state and local governments to prevent another terrorist attack, and it
+set out to enact the largest reorganization of the federal government
+since the Truman administration restructured the military in 1947.
+
 </div>
 
 </div>
@@ -382,17 +394,15 @@ opposed the creation of the department in 2002.
 
 <div class="css-53u6y8">
 
-At the time, Congress believed broadly that a single department was
-needed to improve communication between national security agencies and
-state and local governments to prevent another terrorist attack, and it
-set out to enact the largest reorganization of the federal government
-since the Truman administration restructured the military in 1947. The
-department would employ about 170,000 workers across 22 agencies,
+The department would employ about 170,000 workers across 22 agencies,
 including the Coast Guard, the Secret Service, federal immigration
 agencies and the Federal Emergency Management Agency, as well as a new
 [intelligence
 division](https://www.nytimes3xbfgragh.onion/2020/08/01/us/politics/brian-murphy-homeland-security-protesters.html)
-to analyze criminal threats.
+to analyze criminal threats. The political fight over its creation was
+not over the concentration of resources in the hands of one cabinet
+secretary but over Republican demands that new federal employees should
+not be in a union.
 
 </div>
 
@@ -427,8 +437,8 @@ Democratic senator who voted for the department’s creation and now says
 she regrets it. “Somehow, this has developed into the president’s
 private military.”
 
-The Trump administration has defended a deployment of tactical teams to
-Portland, Ore., and the officers’ aggressive tactics by citing [a
+The Trump administration has defended its deployment of tactical teams
+to Portland, Ore., and the officers’ aggressive tactics by citing [a
 federal statute](https://www.law.cornell.edu/uscode/text/40/1315)
 bolstered by the law that created the Department of Homeland Security.
 That statute allows the secretary to deputize agents within the
@@ -447,13 +457,6 @@ that the agency has focused on carrying out Mr. Trump’s immigration
 policies. “When violent rioting began to emerge throughout the country,
 again the threat changed and the department responded.”
 
-Judd Gregg, a former Republican senator and a sponsor of the act,
-defended the department’s actions against “a disruption of the orderly
-society,” even as he acknowledged that Congress paid little attention to
-the decision in the Homeland Security Act to transfer authority to
-protect federal property from the low-key General Services
-Administration to the more political homeland security secretary.
-
 </div>
 
 </div>
@@ -461,6 +464,13 @@ Administration to the more political homeland security secretary.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Judd Gregg, a former Republican senator and a sponsor of the act, backed
+the department’s actions against “a disruption of the orderly society,”
+even as he acknowledged that Congress paid little attention to the
+decision in the Homeland Security Act to transfer authority to protect
+federal property from the low-key General Services Administration to the
+more political homeland security secretary.
 
 “I don’t think it was focused on at all,” he said, adding, “we were
 looking at the much bigger issue of how terrorists would attack us
@@ -490,13 +500,6 @@ product](https://www.nytimes3xbfgragh.onion/2017/04/15/us/politics/trump-appoint
 After Kirstjen Nielsen became homeland security secretary in December
 2017, she tapped Mr. Wolf to be her chief of staff.
 
-The agency has been at the center of convulsive policies that banned
-travel from predominantly Muslim countries, transferred money from the
-Defense Department to build a border wall and restricted the ability of
-migrants to obtain asylum at the southwestern border. Mr. Wolf was also
-crucial to carrying out a policy that led to the separation of more than
-2,800 migrant children from their parents in 2018.
-
 </div>
 
 </div>
@@ -504,6 +507,13 @@ crucial to carrying out a policy that led to the separation of more than
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The agency has been at the center of convulsive policies that banned
+travel from predominantly Muslim countries, transferred money from the
+Defense Department to build a border wall and restricted the ability of
+migrants to obtain asylum at the southwestern border. Mr. Wolf was also
+crucial to carrying out a policy that led to the separation of more than
+2,800 migrant children from their parents in 2018.
 
 When he testified in June 2019 to be confirmed as the department’s under
 secretary for strategy, policy and plans, Mr. Wolf said he learned of
@@ -526,23 +536,19 @@ ask about the administration’s immigration agenda, according to a former
 administration official.
 
 Mr. Woltornist denied that account, saying that Mr. Wolf repeatedly goes
-on television to defend the president.
+on television to back the president.
 
 After the White House [purged the department’s
 leadership](https://www.nytimes3xbfgragh.onion/2019/04/08/us/politics/randolph-alles-secret-service.html)
 last spring, it began to [install
 others](https://www.nytimes3xbfgragh.onion/2019/09/05/us/politics/ken-cuccinelli-immigration-trump.html)
-who had proved more willing to defend Mr. Trump’s immigration policies
-on television, all of them in an acting capacity to avoid the Senate
+who had proved more willing to boost Mr. Trump’s immigration policies on
+television, all of them in an acting capacity to avoid the Senate
 confirmation process. Mr. Wolf adjusted accordingly.
 
 Michael Chertoff, a homeland security secretary under President George
 W. Bush, said the number of vacant positions and acting roles has left
 the agency vulnerable for politicization.
-
-Senate-confirmed officials “have a certain ability to push back a little
-bit in a firm and polite way,” Mr. Chertoff said. Now at the department,
-he said, the leadership “will basically never be nominated.”
 
 </div>
 
@@ -552,7 +558,11 @@ he said, the leadership “will basically never be nominated.”
 
 <div class="css-53u6y8">
 
-“The message they are getting is, ‘You are here on severance,’” he
+Senate-confirmed officials “have a certain ability to push back a little
+bit in a firm and polite way,” Mr. Chertoff said. Now at the department,
+he said, the leadership “will basically never be nominated.”
+
+“The message they are getting is, ‘You are here on sufferance,’” he
 added.
 
 Mr. Wolf is stepping into the spotlight in ways his predecessors would
@@ -560,11 +570,11 @@ not, including by now being a frequent visitor of the conservative
 television shows that Mr. Trump follows.
 
 He has even embraced the hard-liner image that the president values.
-Before Mr. Wolf agreed last week to pull tactical teams out of Portland
-and allow the state police to handle the protests, he flew to the city
-and stood for photographs alongside officers in front of graffiti-laced
-walls at the federal courthouse — even as officials in the department
-addressed [a
+Before Mr. Wolf agreed last week to **** withdraw the tactical teams
+from the courthouse on the condition that state police handle the
+protests, he flew to the city and stood for photographs alongside
+officers in front of graffiti-laced walls at the federal courthouse —
+even as officials in the department addressed [a
 memo](https://int.graylady3jvrrxbe.onion/data/documenttools/dh-stacticalagent-memo1/d490e392eab7d7d6/full.pdf)
 to him warning that the tactical teams did not have the [proper training
 to quell the
@@ -623,16 +633,11 @@ president of the National Border Patrol Council and a close ally of Mr.
 Trump’s, said this year.
 
 Mr. Wolf’s suspension of New Yorkers from Trusted Traveler Programs like
-Global Entry prompted more than dozen meetings with New York State
+Global Entry prompted more than a dozen meetings with New York State
 officials. Mr. Wolf often let Mr. Cuccinelli press Gov. Andrew M. Cuomo
 and his staff to modify the state law that banned immigration
 enforcement agencies from gaining access to motor vehicle records,
 according to those familiar with the meetings.
-
-Mr. Cuomo said repeatedly at the time that federal officials could get
-the criminal histories they were looking for from existing F.B.I.
-databases and that the administration was really after data on
-undocumented immigrants.
 
 </div>
 
@@ -641,6 +646,11 @@ undocumented immigrants.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Mr. Cuomo said repeatedly at the time that federal officials could get
+the criminal histories they were looking for from existing F.B.I.
+databases and that the administration was really after data on
+undocumented immigrants.
 
 “They didn’t even have a patina of credibility in what they did,” Mr.
 Cuomo said in an interview after the release of the court documents that

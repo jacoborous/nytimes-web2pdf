@@ -70,8 +70,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Hurricane
-Isaias Tracking
+<span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Isaias
+Tracking
 Map</span>
 
 </div>
@@ -148,7 +148,7 @@ story](#after-top)
 
 <div id="site-content" data-role="main">
 
-# Hurricane Isaias Tracking Map
+# Isaias Tracking Map
 
 <div class="css-1vegfwe interactive-byline-container">
 
@@ -186,10 +186,9 @@ Bloch</span>](https://www.nytimes3xbfgragh.onion/by/matthew-bloch)July
 
 <div class="g-story g-freebird g-max-limit" data-preview-slug="cyclone-isaias-tracking-map">
 
-Isaias regained hurricane status before moving into North Carolina.
-Heavy rainfall is predicted to cause flooding along the path of the
-storm. Read our [latest coverage
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/us/isaias-storm-updates.html)
+Heavy rainfall is predicted to bring flooding as the storm moves north
+along the Atlantic Coast. Read our [latest coverage
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html)
 
 <div class="g-asset g-graphic key-template" style="max-width: 1050px">
 

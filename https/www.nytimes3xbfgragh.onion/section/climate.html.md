@@ -55,8 +55,7 @@ Environment](https://www.nytimes3xbfgragh.onion/section/climate)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-climate" class="section css-15h4p1b e9abtgs0">
 
@@ -383,6 +407,113 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
+    
+    The European oil giant has plans for a future with more electrical
+    generation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Stanley
+    Reed</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
+    
+    Twin emergencies on two coasts this week — Hurricane Isaias and the
+    Apple Fire — offer a preview of life in a warming world and the
+    steady danger of overlapping disasters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
+    Henry
+    Fountain</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/books/review/migrations-charlotte-mcconaghy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Christie1/Christie1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fiction</span>
+    
+    ## ‘The Animals Are Dying. Soon We Will Be Alone Here.’
+    
+    In “Migrations,” Charlotte McConaghy’s visceral reimagining of
+    “Moby-Dick,” a young woman documents some of the world’s last
+    surviving seabirds.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael
+    Christie</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/business/mortgages-affordable-housing.html)
     
     <div class="css-79elbk">
@@ -412,7 +543,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +578,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -483,7 +614,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -517,7 +648,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -551,7 +682,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -588,7 +719,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -612,113 +743,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/travel/moose-michigan-isle-royale.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/27travel-michigan-promo/27travel-michigan-promo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The World Through a Lens</span>
-    
-    ## On the Lookout for Moose on Michigan’s Isle Royale
-    
-    The remote Isle Royale, tucked away in the northern reaches of Lake
-    Superior, is one of America’s least visited national parks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tony
-    Cenicola</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/26/us/hurricane-douglas-hawaii.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/26xp-douglas-pix/26xp-douglas-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hurricane Douglas Grazes Hawaiian Islands With Strong Winds and Rain
-    
-    Forecasters predicted three to six inches of rain on the main
-    islands, possibly contributing to flash flooding and landslides.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryan Pietsch <span>and</span>
-    Christina
-    Morales</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/climate/covid-masks-discarded.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/00xp-virus-masks-trash-pix2/merlin_173224635_6d7e14f7-3e02-4cb7-aeb7-b55dd820c13c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Your Used Mask Needs to Make It to the Trash Can
-    
-    They’re on beaches, in parking lots and on sidewalks. You probably
-    won’t catch the coronavirus from a discarded mask, but the litter
-    poses a risk to the environment.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Marie Fazio</span>
+    By <span class="css-1n7hynb">Mihir Zaveri</span>
     
     </div>
     

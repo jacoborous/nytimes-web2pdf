@@ -210,6 +210,41 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/sports/toronto-nhl-playoffs.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/sports/04nhl-toronto-3/merlin_156430548_d842714e-5d34-4577-8a1d-1ef1a7a59a45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Toronto Tones Down Its Postseason Party
+    
+    The N.H.L. playoffs are proceeding without fans in and around
+    Scotiabank Arena, leaving hockey to compete with other leagues for
+    attention.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Morgan
+    Campbell</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/sports/hockey/edmonton-nhl-playoffs.html)
     
     <div class="css-79elbk">
@@ -238,7 +273,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +308,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +342,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +377,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -377,7 +412,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -412,7 +447,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +482,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -482,7 +517,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -506,42 +541,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gerald
-    Eskenazi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/sports/hockey/nhl-training-camp-veterans.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/17/sports/17-nhl-kovalchuk/merlin_174561327_dd02eb8c-cd40-4db5-a12f-7c6d62489432-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## For N.H.L.’s Oldest Players, the Clock Ticks Louder Every Day
-    
-    Waiting out the lockdown for one last shot at a Stanley Cup has been
-    hard for veterans. “Selfishly, I was really upset when we stopped
-    playing,” one said.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Andrew Knoll</span>
+    By <span class="css-1n7hynb">Gerald Eskenazi</span>
     
     </div>
     

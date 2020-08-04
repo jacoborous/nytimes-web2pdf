@@ -86,14 +86,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -217,8 +217,9 @@ León</span>](https://www.nytimes.com/by/concepcion-de-leon)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 31,
-    2020
+    Published July 31, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">3:55 p.m.
+    ET</span>
     
     </div>
 
@@ -226,7 +227,7 @@ León</span>](https://www.nytimes.com/by/concepcion-de-leon)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -292,6 +293,10 @@ salary while trying to self-actualize as an artist. When Edie meets
 Eric, an older, married white man whose wife has agreed to an open
 marriage, Edie becomes entangled with them and their daughter — an
 adopted Black 12-year-old named Akila — in unexpected ways.
+
+\[ *Read* [*Parul Sehgal’s
+review*](https://www.nytimes.com/2020/08/04/books/review-luster-raven-leilani.html)
+*of “Luster.”* \]
 
 “I wanted to write a story about a Black woman who fails a lot and is
 sort of grasping for human connection and making mistakes,” Leilani, now

@@ -124,7 +124,7 @@ Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=cl
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -1275,7 +1275,7 @@ peak.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T09:15:14.275Z
+Updated 2020-08-04T14:36:21.813Z
 
 </div>
 
@@ -1286,9 +1286,9 @@ Updated 2020-08-04T09:15:14.275Z
     relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
   - [Israel’s rocky reopening of its schools may be a lesson for the
     U.S.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7af9fca0)
-  - [Hurricane Isaias arrives in North Carolina as officials along the
-    East Coast
-    scramble.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-33bf9168)
+  - [As Isaias makes landfall, the virus makes it trickier to shelter
+    from the
+    storm.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-5c0d6427)
 
 <div class="briefing-block-footer">
 
@@ -1302,7 +1302,7 @@ updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?acti
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

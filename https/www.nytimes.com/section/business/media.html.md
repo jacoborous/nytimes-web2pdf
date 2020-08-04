@@ -186,6 +186,77 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## McClatchy, Family-Run News Chain, Is Set to Go to Hedge Fund in Bankruptcy Sale
+    
+    A federal judge is expected to sign off on a $312 million deal for
+    the prestigious newspaper company to Chatham Asset Management at a
+    hearing Tuesday.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Marc
+    Tracy</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">What I Love</span>
+    
+    ## Harris Faulkner, Working From Home in Shades of Blue
+    
+    The Fox News anchor’s mother gave her some decorating advice: ‘Just
+    make it beautiful.’ And she’s been trying.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Joanne
+    Kaufman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
     
     <div class="css-79elbk">
@@ -214,7 +285,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +320,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -286,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +392,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -357,7 +428,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -393,7 +464,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -428,7 +499,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -452,81 +523,6 @@ story](#after-sponsor)
     
     By <span class="css-1n7hynb">Tiffany Hsu <span>and</span> Eleanor
     Lutz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/books/james-silberman-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## James Silberman, Editor Who Nurtured Literary Careers, Dies at 93
-    
-    At Random House and elsewhere, including his own Summit imprint, he
-    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
-    many others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s Going On With TikTok? Here’s What We Know
-    
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David
-    McCabe</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

@@ -186,6 +186,76 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
+    
+    The European oil giant has plans for a future with more electrical
+    generation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Stanley
+    Reed</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
+    
+    Twin emergencies on two coasts this week — Hurricane Isaias and the
+    Apple Fire — offer a preview of life in a warming world and the
+    steady danger of overlapping disasters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
+    Henry
+    Fountain</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/us/politics/trump-tennessee-valley-authority.html)
     
     <div class="css-79elbk">
@@ -215,7 +285,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +319,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +354,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -318,7 +388,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -353,7 +423,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -388,7 +458,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -423,7 +493,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -443,78 +513,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Schwartz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/climate/apple-emissions-pledge.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/climate/21CLI-APPLE1/21CLI-APPLE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Big Tech Has a Big Climate Problem. Now, It’s Being Forced to Clean Up.
-    
-    Apple said on Tuesday its devices would be carbon-neutral by 2030,
-    making it the latest tech giant to ramp up voluntary climate
-    targets.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Somini Sengupta <span>and</span>
-    Veronica
-    Penney</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/climate/investors-climate-threat-regulators.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/climate/21CLI-REGULATORS/21CLI-REGULATORS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Climate Change Poses ‘Systemic Threat’ to the Economy, Big Investors Warn
-    
-    Financial regulators should act to avoid economic disaster,
-    according to a letter from pension funds and other investors
-    representing almost $1 trillion in assets.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher Flavelle</span>
+    By <span class="css-1n7hynb">John Schwartz</span>
     
     </div>
     

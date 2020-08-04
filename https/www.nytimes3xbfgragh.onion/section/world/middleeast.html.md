@@ -176,6 +176,77 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-syria-sanctions/merlin_170451123_c94169bd-de3a-4340-90d7-06525b9de1dd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump’s Syria Sanctions ‘Cannot Solve the Problem,’ Critics Say
+    
+    Without a broader diplomatic effort, the newest and toughest
+    penalties will worsen a humanitarian crisis without forcing a
+    leadership change, experts say.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Pranshu Verma <span>and</span> Vivian
+    Yee</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon/04lebanon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## At Least 25 Killed as Powerful Explosion Rocks Beirut: Live Updates
+    
+    The government had stored “highly explosive materials” at the blast
+    scene on the Lebanese capital’s waterfront, a top military official
+    said. Thousands of people were injured and the shock was felt across
+    the city.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Hubbard</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
     
     <div class="css-79elbk">
@@ -205,7 +276,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +311,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +346,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +380,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +415,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -381,7 +452,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -417,7 +488,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -441,77 +512,6 @@ story](#after-sponsor)
     
     By <span class="css-1n7hynb">Falih Hassan <span>and</span> Elian
     Peltier</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/science/alexandrian-glass-rome.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/30TB-GLASS/30TB-GLASS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Trilobites</span>
-    
-    ## The Romans Called it ‘Alexandrian Glass.’ Where Was It Really From?
-    
-    Trace quantities of isotopes hint at the true origin of a kind of
-    glass that was highly prized in the Roman Empire.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katherine
-    Kornei</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/asia/afghanistan-taliban-helicopter-missile.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-missile-print/merlin_169431351_f193efcd-892c-48e5-af70-d8f474fcb776-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Rarely Seen Weapon Destroys a Helicopter in Afghanistan
-    
-    Another Afghan helicopter was hit in January by an anti-tank guided
-    missile in southern Afghanistan, in a swath of territory long
-    contested by the Taliban.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Thomas Gibbons-Neff <span>and</span>
-    Mujib Mashal</span>
     
     </div>
     

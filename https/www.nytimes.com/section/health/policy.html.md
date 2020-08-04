@@ -176,6 +176,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/upshot/04up-medicaid-ballots/04up-medicaid-ballots-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Ballot Initiatives Changed the Game on Medicaid Expansion
+    
+    Missouri is the latest state where a nonprofit has helped put the
+    issue before voters, bypassing Republican officials. And the vote is
+    today.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Kliff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
     
     <div class="css-79elbk">
@@ -205,7 +240,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +275,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +309,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +345,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +380,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -380,7 +415,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -414,7 +449,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +483,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -471,42 +506,7 @@ story](#after-sponsor)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Margot Sanger-Katz <span>and</span>
-    Noah
-    Weiland</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/15/business/media/nick-kotz-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/20/obituaries/17kotz-obit3/15kotz3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Nick Kotz, Crusading Journalist and Author, Dies at 87
-    
-    He won a Pulitzer Prize for exposing unsafe conditions in
-    meatpacking plants. He also wrote about hunger in America and the
-    politics of the B-1 bomber.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam Roberts</span>
+    Noah Weiland</span>
     
     </div>
     

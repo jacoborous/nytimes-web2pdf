@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-baseball" class="section css-15h4p1b e9abtgs0">
 
@@ -214,7 +190,7 @@ story](#after-subheader)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -222,7 +198,7 @@ story](#after-subheader)
     
     ## As the Virus Spreads Through M.L.B., So Does Frustration
     
-    Series have been postponed, teams have been quarantined and road
+    Series have been postponed, teams have been quarantined, and road
     trips have been rerouted in a season that has been defined above all
     by its precariousness.
     
@@ -257,8 +233,9 @@ story](#after-subheader)
     
     ## Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.
     
-    Judge has hit home runs in five consecutive games, and he’s done it
-    without one of his favorite tools: the video replay room.
+    Judge hit home runs in five consecutive games entering Monday
+    night’s action, and he did it without one of his favorite tools:
+    the video replay room.
     
     <div class="css-1nqbnmb ea5icrr0">
     

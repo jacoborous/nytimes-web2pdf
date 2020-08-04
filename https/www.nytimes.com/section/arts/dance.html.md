@@ -159,27 +159,28 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
-    Sadek for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/arts/02kaatsaban-1/02kaatsaban-1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Baiano</span>](https://static01.nyt.com/images/2020/08/04/arts/04watching-moving-1/merlin_175268094_4768a1a2-7273-42c8-9be6-9f4dea386647-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/02/arts/02kaatsaban-1/02kaatsaban-1-thumbStandard.jpg)](/2020/07/29/arts/dance/kaatsbaan-dance-festival-stella-abrera.html)
+    [![](https://static01.nyt.com/images/2020/08/04/arts/04watching-moving-1/04watching-moving-1-thumbStandard.jpg)](/2020/08/04/arts/dance/the-best-in-streaming-dance.html)
     
     </div>
     
-    ## [In the Hudson Valley: Live Dancers, Real Sweat, Natural Beauty](/2020/07/29/arts/dance/kaatsbaan-dance-festival-stella-abrera.html)
+    ### Watching and Moving
     
-    Almost all dance in the United States has gone virtual. But
-    Kaatsbaan will fill the void, hosting its first-ever
-    festival.
+    ## [The Vail All-Stars, San Francisco Dreaming and Black Lives Matter](/2020/08/04/arts/dance/the-best-in-streaming-dance.html)
+    
+    This week’s standouts in streaming dance, plus something to get the
+    kids involved and
+    moving.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marina
-    Harss</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian
+    Seibert</span></span>
     
     </div>
 
@@ -384,6 +385,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/dance/robert-battle-favorites.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/arts/09my10-battle-web/09my10-battle-web-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">My TEN</span>
+    
+    ## Robert Battle Keeps Going With Sarah Vaughan and Homegrown Tomatoes
+    
+    The Alvin Ailey artistic director is hunkered down in Connecticut,
+    tending his vegetable garden and keeping his mood aloft with these
+    10 essentials.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kathryn
+    Shattuck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
     <div class="css-79elbk">
@@ -414,7 +452,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +486,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -483,7 +521,41 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/arts/dance/kaatsbaan-dance-festival-stella-abrera.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/arts/02kaatsaban-1/02kaatsaban-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## In the Hudson Valley: Live Dancers, Real Sweat, Natural Beauty
+    
+    Almost all dance in the United States has gone virtual. But
+    Kaatsbaan will fill the void, hosting its first-ever festival.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Marina
+    Harss</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -518,7 +590,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -555,7 +627,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -591,7 +663,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -626,7 +698,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -648,76 +720,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brian
-    Seibert</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/arts/dance/zizi-jeanmaire-french-star-of-ballet-cabaret-and-film-dies-at-96.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/obituaries/20Jeanmaire3/20Jeanmaire3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Zizi Jeanmaire, French Star of Ballet, Cabaret and Film, Dies at 96
-    
-    She was celebrated for her artistic range, androgynous sexiness and
-    husky-voiced charm.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Roslyn
-    Sulcas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/arts/dance/ailey-ii-troy-powell.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/arts/20ailey-item-1/20ailey-item-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Ailey II Drops Director, Citing ‘Inappropriate’ Communications
-    
-    Troy Powell, who has led the dance company as artistic director
-    since 2012, was let go after an inquiry by an outside investigator
-    hired by the organization.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julia Jacobs</span>
+    By <span class="css-1n7hynb">Brian Seibert</span>
     
     </div>
     

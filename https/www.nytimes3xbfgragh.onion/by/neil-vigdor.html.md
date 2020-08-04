@@ -172,6 +172,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    
+    President Trump was asked by an interviewer to reflect on the late
+    congressman’s contributions to the civil rights movement. He talked
+    up his own record instead.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
+    Vigdor</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
@@ -200,7 +235,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +269,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -269,7 +304,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +340,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -339,7 +374,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -374,7 +409,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -409,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -444,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -466,42 +501,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Neil Vigdor, Aimee Ortiz
-    <span>and</span> Kevin
-    Armstrong</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/us/reparations-asheville-nc.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/multimedia/15xp-reparations/15xp-reparations-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## North Carolina City Approves Reparations for Black Residents
-    
-    The measure passed by the City Council of Asheville, N.C., would
-    provide funding to promote homeownership and business opportunities,
-    but stopped short of stipulating direct payments.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Neil Vigdor</span>
+    <span>and</span> Kevin Armstrong</span>
     
     </div>
     

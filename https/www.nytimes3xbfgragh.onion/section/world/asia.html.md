@@ -176,6 +176,284 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/briefing/beirut-explosion-melbourne-lockdown-pakistan.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Your Wednesday Briefing
+    
+    Beirut blasts, Melbourne lockdown, Island SOS: Here’s what you need
+    to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carole
+    Landry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00pakistan-hindus1/00pakistan-hindus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
+    
+    Drawn by jobs or land offered by Muslim groups, some Hindus, facing
+    discrimination and a virus-ravaged economy, are essentially
+    converting to survive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
+    ur-Rehman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/australia/sos-pacific-island.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand
+    
+    Three days after their boat ran out of fuel and drifted off course
+    in Micronesia, the men were found in good condition after a plane
+    saw their giant plea for help spelled out on the sand.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elian
+    Peltier</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">feature</span>
+    
+    ## Behrouz Boochani Just Wants to Be Free
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Coronavirus, Spearfishing: Your Tuesday Briefing
+    
+    Here’s what you need to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carole
+    Landry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens
+    
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech giant.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Weise</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/asia/afghanistan-prison-isis-taliban.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03afghan-prison6/merlin_175263168_e480620a-c180-403d-995f-66ba81207750-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 29 Dead After ISIS Attack on Afghan Prison
+    
+    The 20-hour gun battle left officials scrambling to recapture
+    hundreds of prisoners, including many from the Islamic State and the
+    Taliban.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
+    Mashal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/asia/pakistan-media-abductions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03pakistan-media-promo/03pakistan-media-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Abductions, Censorship and Layoffs: Pakistani Critics Are Under Siege
+    
+    Recent abductions of a journalist and an activist have underscored
+    Pakistan’s worsening rights conditions as the country’s security
+    forces pressure the news media and human rights groups.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maria
+    Abi-Habib</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
     
     <div class="css-79elbk">
@@ -197,6 +475,12 @@ story](#after-sponsor)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/china/20200803/china-hong-kong-national-security-law/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/china/20200803/china-hong-kong-national-security-law/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -205,7 +489,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -225,287 +509,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Carole
-    Landry</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/asia/afghan-prison-attack-prisoners.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02afghan-prison-sub/02afghan-prison-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Militants Attack Afghan Prison as Brief Cease-Fire Expires
-    
-    The Islamic State reportedly took responsibility for an assault at a
-    time when releasing insurgents from prisons has become a major issue
-    in the Afghan peace process.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
-    Mashal</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
-    
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study found.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
-    
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/iran-khamenei-us-sanctions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01iran01/01iran01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Iran Will Expand Nuclear Program and Won’t Talk to U.S., Ayatollah Says
-    
-    In a televised speech, Ayatollah Ali Khamenei, Iran’s supreme
-    leader, said that negotiating with Washington over his country’s
-    nuclear program would only help President Trump get re-elected.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Farnaz
-    Fassihi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
-    
-    The world’s largest vaccine producer, the Serum Institute, announced
-    a plan to make hundreds of millions of doses of an unproven
-    inoculation. It’s a gamble with a huge upside. And huge risks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeffrey
-    Gettleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
-    
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/politics/sanctions-china-xinjiang-uighurs.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-china-sanctions/31dc-china-sanctions-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Adds Sanctions Over Internment of Muslims in China
-    
-    The Treasury Department imposed sanctions on a powerful government
-    entity that runs companies and farms in the Xinjiang region, where
-    officials carry out the mass internment of Muslims.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Edward
-    Wong</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31profile-prince-manvendra-1/merlin_175102827_1051cde2-1285-4e95-b75f-23450f96203e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Saturday Profile</span>
-    
-    ## In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies
-    
-    Prince Manvendra’s journey from an excruciatingly lonely child to a
-    global L.G.B.T.Q. advocate included death threats and
-    disinheritance.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shalini Venugopal Bhagat</span>
+    By <span class="css-1n7hynb">Carole Landry</span>
     
     </div>
     

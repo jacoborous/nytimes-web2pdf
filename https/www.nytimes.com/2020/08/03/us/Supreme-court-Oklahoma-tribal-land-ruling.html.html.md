@@ -118,6 +118,7 @@ Oklahoma</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -232,7 +233,7 @@ Healy</span>](https://www.nytimes.com/by/jack-healy)
     <div class="css-ld3wwf e16638kd2">
     
     Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">12:16 a.m.
+    <span class="css-epvm6">10:10 a.m.
     ET</span>
     
     </div>
@@ -252,6 +253,7 @@ Healy</span>](https://www.nytimes.com/by/jack-healy)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -286,7 +288,7 @@ The Supreme Court ruling [recognizing the lands of the Muscogee (Creek)
 Nation](https://www.nytimes.com/2020/07/09/us/supreme-court-oklahoma-mcgirt-creek-nation.html)
 was hailed as a historic win for tribes and their long struggle for
 sovereignty. On the ground, it has upended Oklahoma’s justice system,
-forcing lawyers and the police to rewrite the rules of who they can and
+forcing lawyers and the police to rewrite the rules of whom they can and
 cannot prosecute inside the newly recognized borders of a reservation
 that stretches across 11 counties and includes Tulsa, the state’s
 second-largest city.

@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -237,11 +237,11 @@ the coronavirus.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Los
-Angeles Mayor Eric Garcetti and the filmmaker Ava DuVernay took part in
-an online memorial to John Eric Swing, one of the city’s important
-community
-activists.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Search
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">John Eric
+Swing was an important community leader in Los Angeles. Mayor Eric
+Garcetti and the filmmaker Ava DuVernay took part in an online memorial
+to
+him. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Search
 to Involve Pilipino
 Americans</span></span></span>](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
@@ -274,8 +274,9 @@ Leland</span>](https://www.nytimes.com/by/john-leland)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">11:07 a.m.
+    ET</span>
     
     </div>
 
@@ -283,7 +284,7 @@ Leland</span>](https://www.nytimes.com/by/john-leland)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -314,8 +315,8 @@ Leland</span>](https://www.nytimes.com/by/john-leland)
 coronavirus pandemic. Read about others*
 [*here*](https://www.nytimes.com/interactive/2020/obituaries/people-died-coronavirus-obituaries.html)*.*
 
-When Food & Wine magazine declared last year that “[Historic
-Filipinotown is L.A.’s Next Great Dining
+When Food & Wine magazine declared in a headline last year that
+“[Historic Filipinotown Is L.A.’s Next Great Dining
 Neighborhood](https://www.foodandwine.com/travel/restaurants/historic-filipinotown-restaurants-los-angeles),”
 an unseen player in this rise was neither a chef nor a restaurateur.
 
@@ -325,7 +326,7 @@ Involve Pilipino Americans](https://sipacares.org/), or SIPA. In April
 he became the organization’s executive director.
 
 “John basically got me started,” said Justin Foronda, a registered nurse
-who in 2017 decided he wanted to start a restaurant. “I didn’t know
+who in 2017 decided that he wanted to start a restaurant. “I didn’t know
 anything about finance or running a business. But I’m passionate about
 my neighborhood, and passionate about food. He was a master connector.
 Any question you asked, the answer was always ‘Yes.’”
@@ -348,15 +349,14 @@ contracted the novel coronavirus and died on June 28 in a hospital in
 Fountain Valley, Calif. The immediate cause was pneumonia and an
 ischemic stroke, according to a
 [statement](https://www.gofundme.com/f/john-eric039s-fight-with-covid)
-from his family. He was 48.
+by his family. He was 48.
 
-An online memorial for Mr. Swing drew speakers including Los Angeles
-Mayor Eric Garcetti and the filmmaker Ava DuVernay.
+An online memorial for him drew speakers like the city’s mayor, Eric
+Garcetti, and the filmmaker Ava DuVernay.
 
-“We’ve lost a community builder, at a time when we need community
-builders,” said city [Councilmember Mitch
-O’Farrell](https://cd13.lacity.org/). The Council adjourned for a day
-in honor of Mr. Swing.
+“We’ve lost a community builder at a time when we need community
+builders,” said [Mitch O’Farrell](https://cd13.lacity.org/), a City
+Council member. The Council adjourned for a day in honor of Mr. Swing.
 
 </div>
 
@@ -370,7 +370,7 @@ in honor of Mr. Swing.
 
 <div class="css-53u6y8">
 
-“He was such a bright presence, full of optimism. I wouldn’t even know
+“He was such a bright presence, full of optimism; I wouldn’t even know
 what his face would look like not smiling,” Mr. O’Farrell said.
 
 </div>
@@ -382,14 +382,14 @@ what his face would look like not smiling,” Mr. O’Farrell said.
 <div class="css-53u6y8">
 
 Mr. Swing was born in Los Angeles on May 2, 1972, the oldest of three
-children of Filipino immigrants. His father, Ellis D. Swing, is a
-political consultant and businessman; his mother, Aurora S. Swing, is a
+children of Filipino immigrants, Ellis D. and Aurora S. Swing. His
+father is a political consultant and businessman; his mother is a
 retired clinical laboratory scientist.
 
-He earned a bachelor’s degree in ethnic studies from the University of
-California, Riverside, in 1995, and spent six years in the Marine Corps
-Reserves, serving as a personnel and administrative clerk, the family
-said.
+Mr. Swing earned a bachelor’s degree in ethnic studies from the
+University of California, Riverside, in 1995 and spent six years in the
+Marine Corps Reserves as a personnel and administrative clerk, the
+family said.
 
 After a stint as a probation corrections officer in Riverside County, he
 worked as an education and health consultant for programs in Costa Rica,
@@ -398,16 +398,17 @@ several Filipino-American cultural and business organizations before
 joining SIPA.
 
 Along with his parents, he is survived by his wife, Ellen
-Rodriguez-Swing, children Zachary, Joshua, Chloe and Mackenzie,
-stepchildren Sasha and Nicco, sister Karen Bromley and brother PJ Swing.
+Rodriguez-Swing; his children, Zachary, Joshua, Chloe and Mackenzie; his
+stepchildren, Sasha and Nicco; a sister, Karen Bromley; and a brother,
+PJ Swing.
 
 He died with plans unrealized, including a workshop to address
 anti-Black stereotypes among Filipinos. He also took part in community
 efforts, like a nearly $500,000
 [project](https://www.theeastsiderla.com/neighborhoods/historic_filipinotown/plans-unveiled-for-452-000-gateway-to-historic-filipinotown/article_096736f6-ad28-11ea-8a45-d34c6d8d6822.html#:~:text=%22Historic%20Filipinotown%20will%20have%20a,%2C%22%20O'Farrell%20said.&text=Designed%20by%20Filipino%20artist%20Eliseo,Gabay%3A%20Our%20Guiding%20Star.%E2%80%9D),
-led by Councilman Mitch O’Farrell, to build a gateway arch and columns
-marking the entrance to Historic Filipinotown, which crosses the
-neighborhoods of Echo Park and Silver Lake.
+led by Councilman O’Farrell, to build a gateway arch and columns marking
+the entrance to Historic Filipinotown, which crosses the neighborhoods
+of Echo Park and Silver Lake.
 
 Next up was a plan to redevelop SIPA’s headquarters to include 64 units
 of affordable housing. Its small business center will bear Mr. Swing’s

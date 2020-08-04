@@ -134,15 +134,16 @@ México</span>
 de</span><span class="css-1pje3qr">
 coronavirus</span></span>](https://www.nytimes3xbfgragh.onion/es/spotlight/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [Mapa y casos en EE.
-    UU.](https://www.nytimes3xbfgragh.onion/es/interactive/2020/espanol/mundo/coronavirus-en-estados-unidos.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Dióxido de cloro, ivermectina y más:
-    ¿funcionan?](https://www.nytimes3xbfgragh.onion/es/2020/07/23/espanol/america-latina/bolivia-cloro-coronavirus-ivermectina.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Mapa y casos en
+    México](https://www.nytimes3xbfgragh.onion/es/interactive/2020/espanol/america-latina/coronavirus-en-mexico.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Los niños y el
+    virus](https://www.nytimes3xbfgragh.onion/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Fármacos y
     tratamientos](https://www.nytimes3xbfgragh.onion/es/interactive/2020/science/coronavirus-tratamientos-curas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Anticuerpos e
-    inmunidad](https://www.nytimes3xbfgragh.onion/es/2020/07/28/espanol/ciencia-y-tecnologia/anticuerpos-coronavirus-inmunidad.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Oxímetros](https://www.nytimes3xbfgragh.onion/es/2020/04/29/espanol/estilos-de-vida/oximetro-para-que-sirve.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Cómo se transmite el
+    coronavirus](https://www.nytimes3xbfgragh.onion/es/2020/07/06/espanol/ciencia-y-tecnologia/coronavirus-transmision-aire.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Prepara tu
+    botiquín](https://www.nytimes3xbfgragh.onion/es/2020/07/14/espanol/estilos-de-vida/botiquin-medicina-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -188,7 +189,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 Por <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 5:12 A.M. E.T.
+Times</span>Updated August 4, 2020, 2:10 P.M. E.T.
 
 </div>
 
@@ -317,11 +318,11 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 40.331992792104735%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">50.000
+<span class="count-label svelte-bw547y">5.000
 casos</span>
 
 </div>
@@ -366,14 +367,14 @@ casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.05063291139241%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.78481012658229%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">Nuevos
 casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.24050632911393%; top: 98.70588616367105%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.607594936708864%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">Promedio
 de 7 días</span>
@@ -406,7 +407,7 @@ Total de casos
 
 <div class="num svelte-9rb9hv">
 
-522.843
+443.813
 
 </div>
 
@@ -457,16 +458,16 @@ disponibilidad
 
 [Mapa](#map)[Por estado](#states)[Nuevos
 casos](#cases)[Consejos](#tips)[Últimas noticias
-»](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-Ha habido por lo menos 522.800 casos confirmados de coronavirus en
+Ha habido por lo menos 443.800 casos confirmados de coronavirus en
 México, según el [Consejo Nacional de Ciencia y
 Tecnología](https://coronavirus.gob.mx/datos/). Hasta el martes en la
-mañana, 48.012 personas habían
+tarde, 48.012 personas habían
 muerto.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-country-map g-map g-asset-width-bleed" style="">
@@ -698,114 +699,114 @@ los últimos<br />
 </thead>
 <tbody>
 <tr class="odd">
-<td><span>Tamaulipas </span></td>
-<td><span>22,068 </span></td>
-<td><span>641 </span></td>
-<td><span>1,013 </span></td>
-<td><span>29 </span></td>
-<td><span>8,356 </span></td>
-<td><span>243 </span></td>
-<td><span>133 </span></td>
-<td><span>4 </span></td>
-</tr>
-<tr class="even">
-<td><span>San Luis Potosí </span></td>
-<td><span>14,072 </span></td>
-<td><span>518 </span></td>
-<td><span>545 </span></td>
-<td><span>20 </span></td>
-<td><span>6,148 </span></td>
-<td><span>226 </span></td>
-<td><span>141 </span></td>
-<td><span>5 </span></td>
-</tr>
-<tr class="odd">
-<td><span>Ciudad de México </span></td>
-<td><span>89,333 </span></td>
-<td><span>1,002 </span></td>
-<td><span>7,295 </span></td>
-<td><span>82 </span></td>
-<td><span>20,035 </span></td>
-<td><span>225 </span></td>
-<td><span>218 </span></td>
-<td><span>2 </span></td>
-</tr>
-<tr class="even">
-<td><span>Coahuila </span></td>
-<td><span>16,541 </span></td>
-<td><span>560 </span></td>
-<td><span>673 </span></td>
-<td><span>23 </span></td>
-<td><span>5,054 </span></td>
-<td><span>171 </span></td>
-<td><span>95 </span></td>
-<td><span>3 </span></td>
-</tr>
-<tr class="odd">
 <td><span>Baja California Sur </span></td>
-<td><span>5,121 </span></td>
-<td><span>719 </span></td>
+<td><span>4,669 </span></td>
+<td><span>656 </span></td>
 <td><span>182 </span></td>
 <td><span>26 </span></td>
-<td><span>1,213 </span></td>
-<td><span>170 </span></td>
+<td><span>761 </span></td>
+<td><span>107 </span></td>
 <td><span>34 </span></td>
 <td><span>5 </span></td>
 </tr>
 <tr class="even">
 <td><span>Tabasco </span></td>
-<td><span>23,842 </span></td>
-<td><span>995 </span></td>
+<td><span>22,523 </span></td>
+<td><span>940 </span></td>
 <td><span>2,011 </span></td>
 <td><span>84 </span></td>
-<td><span>3,861 </span></td>
-<td><span>161 </span></td>
+<td><span>2,542 </span></td>
+<td><span>106 </span></td>
 <td><span>180 </span></td>
 <td><span>8 </span></td>
 </tr>
 <tr class="odd">
-<td><span>Estado de México </span></td>
-<td><span>74,486 </span></td>
-<td><span>460 </span></td>
-<td><span>8,272 </span></td>
-<td><span>51 </span></td>
-<td><span>24,373 </span></td>
-<td><span>151 </span></td>
-<td><span>463 </span></td>
-<td><span>3 </span></td>
-</tr>
-<tr class="even">
-<td><span>Sonora </span></td>
-<td><span>20,565 </span></td>
-<td><span>721 </span></td>
-<td><span>1,976 </span></td>
-<td><span>69 </span></td>
-<td><span>3,948 </span></td>
-<td><span>139 </span></td>
-<td><span>240 </span></td>
-<td><span>8 </span></td>
-</tr>
-<tr class="odd">
-<td><span>Nuevo León </span></td>
-<td><span>22,223 </span></td>
-<td><span>434 </span></td>
-<td><span>1,143 </span></td>
-<td><span>22 </span></td>
-<td><span>6,710 </span></td>
-<td><span>131 </span></td>
-<td><span>218 </span></td>
+<td><span>Tamaulipas </span></td>
+<td><span>17,311 </span></td>
+<td><span>503 </span></td>
+<td><span>1,013 </span></td>
+<td><span>29 </span></td>
+<td><span>3,599 </span></td>
+<td><span>105 </span></td>
+<td><span>133 </span></td>
 <td><span>4 </span></td>
 </tr>
 <tr class="even">
-<td><span>Tlaxcala </span></td>
-<td><span>5,673 </span></td>
-<td><span>446 </span></td>
-<td><span>718 </span></td>
-<td><span>56 </span></td>
-<td><span>1,390 </span></td>
-<td><span>109 </span></td>
-<td><span>74 </span></td>
-<td><span>6 </span></td>
+<td><span>San Luis Potosí </span></td>
+<td><span>10,552 </span></td>
+<td><span>388 </span></td>
+<td><span>545 </span></td>
+<td><span>20 </span></td>
+<td><span>2,628 </span></td>
+<td><span>97 </span></td>
+<td><span>141 </span></td>
+<td><span>5 </span></td>
+</tr>
+<tr class="odd">
+<td><span>Yucatán </span></td>
+<td><span>10,459 </span></td>
+<td><span>499 </span></td>
+<td><span>901 </span></td>
+<td><span>43 </span></td>
+<td><span>1,706 </span></td>
+<td><span>81 </span></td>
+<td><span>91 </span></td>
+<td><span>4 </span></td>
+</tr>
+<tr class="even">
+<td><span>Nuevo León </span></td>
+<td><span>19,256 </span></td>
+<td><span>376 </span></td>
+<td><span>1,143 </span></td>
+<td><span>22 </span></td>
+<td><span>3,743 </span></td>
+<td><span>73 </span></td>
+<td><span>218 </span></td>
+<td><span>4 </span></td>
+</tr>
+<tr class="odd">
+<td><span>Coahuila </span></td>
+<td><span>13,579 </span></td>
+<td><span>460 </span></td>
+<td><span>673 </span></td>
+<td><span>23 </span></td>
+<td><span>2,092 </span></td>
+<td><span>71 </span></td>
+<td><span>95 </span></td>
+<td><span>3 </span></td>
+</tr>
+<tr class="even">
+<td><span>Ciudad de México </span></td>
+<td><span>75,383 </span></td>
+<td><span>845 </span></td>
+<td><span>7,295 </span></td>
+<td><span>82 </span></td>
+<td><span>6,085 </span></td>
+<td><span>68 </span></td>
+<td><span>218 </span></td>
+<td><span>2 </span></td>
+</tr>
+<tr class="odd">
+<td><span>Guanajuato </span></td>
+<td><span>22,009 </span></td>
+<td><span>376 </span></td>
+<td><span>1,020 </span></td>
+<td><span>17 </span></td>
+<td><span>3,546 </span></td>
+<td><span>61 </span></td>
+<td><span>148 </span></td>
+<td><span>3 </span></td>
+</tr>
+<tr class="even">
+<td><span>Colima </span></td>
+<td><span>1,990 </span></td>
+<td><span>280 </span></td>
+<td><span>206 </span></td>
+<td><span>29 </span></td>
+<td><span>385 </span></td>
+<td><span>54 </span></td>
+<td><span>37 </span></td>
+<td><span>5 </span></td>
 </tr>
 </tbody>
 </table>
@@ -855,44 +856,11 @@ reúnen.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 76.13279711684189%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 47.67685223943072%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">20.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 52.265594233683785%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">40.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 28.398391350525685%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">60.000
-</span>
-
-</div>
-
-</div>
-
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 4.531188467367571%">
-
-<div class="grid-line horizontal svelte-bw547y">
-
-<span class="count-label svelte-bw547y">80.000
+<span class="count-label svelte-bw547y">5.000
 casos</span>
 
 </div>
@@ -937,14 +905,14 @@ casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 99.05063291139241%; top: 1.4210854715202004e-14%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.78481012658229%; top: -1.4210854715202004e-14%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">Nuevos
 casos</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.24050632911393%; top: 98.70588616367105%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.607594936708864%; top: 89.15415894277342%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">Promedio
 de 7 días</span>

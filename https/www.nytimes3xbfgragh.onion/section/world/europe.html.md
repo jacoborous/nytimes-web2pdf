@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-europe" class="section css-15h4p1b e9abtgs0">
 
@@ -152,17 +176,17 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/briefing/vaccine-race-donald-trump-spacex.html)
+    [](/2020/08/03/briefing/tiktok-spain-turkey.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03ambriefing-europe-promo/03ambriefing-europe-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/04ambriefing-euro-promo/04ambriefing-euro-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Your Monday Briefing
+    ## TikTok, Spain’s Monarchy, Turkey: Your Tuesday Briefing
     
-    Vaccine race, Donald Trump, SpaceX: Here’s what you need to know.
+    Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -185,24 +209,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/europe/russia-trials-vaccine-October.html)
+    [](/2020/08/03/world/europe/genoa-italy-new-bridge.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/00russia-vaccine01/00russia-vaccine01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03genoa1/merlin_175267842_f7374fa0-deae-4584-b1a7-2f6b06888166-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Russia Sets Mass Vaccination for October After Shortened Trial
+    ## Italy Leaders Hail Genoa’s New Bridge as Sign of Resilience
     
-    The announcement raised concerns that Russia would begin
-    inoculations and declare victory in the race for a coronavirus
-    vaccine without fully testing its product.
+    Less than two years after the collapse of the Morandi Bridge killed
+    43 people and embarrassed the nation, Italy inaugurated its
+    replacement, and vowed to do better.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew E.
-    Kramer</span>
+    By <span class="css-1n7hynb">Gaia
+    Pianigiani</span>
     
     </div>
     
@@ -220,24 +244,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/sports/snooker-world-championship.html)
+    [](/2020/08/03/world/europe/juan-carlos-leaves-spain.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03spain-royal/03spain-royal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.
+    ## Juan Carlos, Spain’s Former King, Quits Country Amid Multiple Investigations
     
-    The world snooker championship welcomed spectators last week, part
-    of a pilot program that offered hope to other events eager to follow
-    suit. A few hours later, the government pulled the plug.
+    The former king’s departure, which comes as he faces financial
+    inquiries, may fuel Spain’s political and social debate over the
+    future of the monarchy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Karen
-    Crouse</span>
+    By <span class="css-1n7hynb">Raphael
+    Minder</span>
     
     </div>
     
@@ -255,25 +279,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/europe/genoa-Morandi-bridge-replacement.html)
+    [](/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03genoa-new-bridge-sub2/03genoa-new-bridge-sub2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/virus-italy-sexwork1/virus-italy-sexwork1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## As Genoa Inaugurates New Bridge, the Feeling Is Bittersweet
+    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic
     
-    Built in less than two years to replace the collapsed Morandi
-    bridge, the new span is already a point of pride for Italy. But
-    residents fear it will not be enough to revive their aging port
-    city.
+    Prostitution is not illegal in Italy, nor is it regulated as an
+    official occupation. But the coronavirus has forced many sex workers
+    to accept certain risks in order to avoid poverty.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gaia
-    Pianigiani</span>
+    By <span class="css-1n7hynb">Emma
+    Bubola</span>
     
     </div>
     
@@ -291,23 +314,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/europe/uk-conservative-lawmaker-arrest.html)
+    [](/2020/08/03/world/europe/turkey-nato.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02uk-rape01/02uk-rape01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/02turkey-nato01/02turkey-nato01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Conservative U.K. Lawmaker Is Arrested Over Rape Accusations
+    ## Turkish Aggression Is NATO’s ‘Elephant in the Room’
     
-    The arrest of the lawmaker, who has not been publicly identified,
-    poses problems for the government of Prime Minister Boris Johnson.
+    Despite being a NATO member, Turkey has bought Russian air defense.
+    And a recent push into Libya and its energy ambitions nearly led to
+    armed conflicts with France and Greece.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Benjamin
-    Mueller</span>
+    By <span class="css-1n7hynb">Steven
+    Erlanger</span>
     
     </div>
     
@@ -325,22 +349,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/video/world/europe/100000007268465/coronavirus-protest-germany.html)
+    [](/video/world/europe/100000007269932/who-coronavirus-briefing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03virus-briefing-WHO/merlin_166979457_578e930d-7c64-482b-ae30-784816cccef8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    ## Thousands March Against Virus Measures in Berlin
+    ## ‘There Is No Silver Bullet,’ W.H.O. Chief Says
     
-    An estimated 17,000 people defied social-distancing and mask
-    requirements in a protest supported by neo-Nazi groups, conspiracy
-    theorists as well as Germans who said they were fed up with the
-    restrictions.
+    On Monday, the director of the W.H.O., Tedros Adhanom Ghebreyesus,
+    spoke about a number of promising vaccines but stressed that the
+    best course of action was to take measures to curb the spread of
+    disease.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -363,24 +387,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/italy-genoa-bridge-collapse-benettons.html)
+    [](/2020/08/03/world/europe/poland-court-presidential-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02Italy-Autostrade/merlin_174736338_d5b14a1d-ba2f-4f1a-829e-b6d1e19756a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03poland/03poland-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Italy Draws a Line Under Genoa Tragedy, Shunting Aside the Benettons
+    ## Poland’s Supreme Court Declares Presidential Election Valid
     
-    The government has leveraged anger over the collapse of Genoa’s
-    Morandi Bridge to take back control of the nation’s highways. But
-    critics say the deal sends a troubling message to investors.
+    The decision comes after supporters of the opposition candidate
+    filed protests questioning the narrow victory for the incumbent,
+    Andrzej Duda.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elisabetta
-    Povoledo</span>
+    By <span class="css-1n7hynb">Monika
+    Pronczuk</span>
     
     </div>
     
@@ -398,24 +422,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/germany-nazi-infiltration.html)
+    [](/2020/08/03/obituaries/john-hume-dies.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/world/00germany-nordkreuz1/merlin_169848747_56fc1d28-734b-4450-830e-9a7ce957c287-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/03hume-obit3/03hume-obit3-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Body Bags and Enemy Lists: How Far-Right Police Officers and Ex-Soldiers Planned for ‘Day X’
+    ## John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83
     
-    Germany has woken up to a problem of far-right extremism in its
-    elite special forces. But the threat of neo-Nazi infiltration of
-    state institutions is much broader.
+    The politician’s campaign for peace was seen as a driving force
+    behind an end to 25 years of sectarian conflict in the territory.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katrin
-    Bennhold</span>
+    By <span class="css-1n7hynb">Alan
+    Cowell</span>
     
     </div>
     
@@ -433,26 +456,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
+    [](/2020/08/02/briefing/vaccine-race-donald-trump-spacex.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02moscowdispatch2/merlin_174764931_b934ad94-2385-453a-83a6-f8e42d4ad928-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03ambriefing-europe-promo/03ambriefing-europe-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Moscow Dispatch</span>
+    ## Vaccine Race, Donald Trump, SpaceX: Your Monday Briefing
     
-    ## ‘Cocktails and Masks Don’t Really Go Together’
-    
-    Young Russians are partying again, seeking a return to normal life
-    and willing to risk a coronavirus surge. “We are people, not robots,
-    and want to have a life,” said a bar patron (and doctor).
+    Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew
-    Higgins</span>
+    By <span class="css-1n7hynb">Isabella
+    Kwai</span>
     
     </div>
     
@@ -470,23 +489,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/sports/soccer/leeds-united-san-francisco-49ers.html)
+    [](/2020/08/02/world/europe/russia-trials-vaccine-October.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/sports/31nfl-leeds1/31nfl-leeds1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/00russia-vaccine01/00russia-vaccine01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## San Francisco 49ers Look to Increase Stake in Leeds United
+    ## Russia Sets Mass Vaccination for October After Shortened Trial
     
-    The N.F.L. team, which has owned a piece of the soccer team since
-    2018, is in talks to increase its investment now that Leeds is
-    returning to the Premier League.
+    The announcement raised concerns that Russia would begin
+    inoculations and declare victory in the race for a coronavirus
+    vaccine without fully testing its product.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tariq Panja</span>
+    By <span class="css-1n7hynb">Andrew E. Kramer</span>
     
     </div>
     

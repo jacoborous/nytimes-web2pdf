@@ -418,7 +418,7 @@ responsibility.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-80633" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -428,12 +428,17 @@ responsibility.”
 
 #### Sports and the Virus
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
 Here’s what’s happening as the world of sports slowly comes back to
 life:
 
-  -   - On all but the two biggest courts, automated line calls [will
+  -   - As the virus spreads through baseball, [so does
+        frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+        Series have been postponed, teams have been quarantined and road
+        trips have been rerouted in a season that has been defined above
+        all by its precariousness.
+      - On all but the two biggest courts, automated line calls [will
         replace human
         judges](https://www.nytimes.com/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         at the U.S. Open to reduce the number of people on site during
@@ -441,10 +446,8 @@ life:
       - Mets star Yoenis Cespedes is healthy, but [has decided to opt
         out](https://www.nytimes.com/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         of the 2020 baseball season for Covid-related reasons.
-      - Britain tried to bring fans back to indoor sports. [It lasted a
-        day](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
 
-<div id="styln-survey-component-80633" class="styln-survey-component">
+<div id="styln-survey-component-29614" class="styln-survey-component">
 
 </div>
 

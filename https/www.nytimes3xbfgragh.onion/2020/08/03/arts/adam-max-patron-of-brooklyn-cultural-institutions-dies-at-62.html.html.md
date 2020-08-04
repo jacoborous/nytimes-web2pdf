@@ -304,7 +304,7 @@ Brown University student in Providence, R.I., performed as a mime during
 a gap year with a theater group, and inveighed against British taxes as
 a costumed character on a Boston Tea Party tourist attraction ship
 before joining [the Jordan Company](https://www.thejordancompany.com/),
-a private New York equity firm, in 1986.
+a New York private equity firm, in 1986.
 
 </div>
 

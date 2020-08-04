@@ -237,14 +237,21 @@ Metz</span>](https://www.nytimes3xbfgragh.onion/by/cade-metz)
 
 </div>
 
-  - July 31,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">2:14 p.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -346,20 +353,24 @@ Their multifaceted experimental computer was called oNLine System, or
 NLS, and on Dec. 9, 1968, they unveiled it at an event in San Francisco
 that became known as “The Mother of All Demos.”
 
-As Mr. Engelbart demonstrated the machine onstage at the Civic
-Auditorium, a live video appeared on the wall behind him showing the
-seamless interaction between his mouse and the computer screen. Mr.
-English directed this elaborate production from the back of the
-auditorium, relying on cameras and microphones both there and at the lab
-that housed the computer in Menlo Park, Calif., more than 30 miles away.
+</div>
 
 </div>
+
+<div class="css-cfo9c3">
 
 </div>
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+As Mr. Engelbart demonstrated the machine onstage at the Civic
+Auditorium, a live video appeared on the wall behind him showing the
+seamless interaction between his mouse and the computer screen. Mr.
+English directed this elaborate production from the back of the
+auditorium, relying on cameras and microphones both there and at the lab
+that housed the computer in Menlo Park, Calif., more than 30 miles away.
 
 This Mother of All Demos — showing early forms of online text editing,
 video conferencing and “hypertext,” the links now used to navigate web
@@ -432,14 +443,6 @@ at first working on a new kind of computer memory — a rotating metal
 drum the size of a desk that could store as many as three pages of text
 — before embracing the project that became NLS.
 
-After Mr. Engelbart had envisaged the computer mouse and drawn a rough
-sketch of it on a notepad, Mr. English built it in the mid-1960s. Housed
-inside a small pinewood case, the device consisted of two electrical
-mechanisms, called potentiometers, that tracked the movement of two
-small wheels as they moved across a desktop. They called it a mouse
-because of the way the computer’s on-screen cursor, called a CAT, seemed
-to chase the device’s path.
-
 </div>
 
 </div>
@@ -447,6 +450,14 @@ to chase the device’s path.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+After Mr. Engelbart had envisaged the computer mouse and drawn a rough
+sketch of it on a notepad, Mr. English built it in the mid-1960s. Housed
+inside a small pinewood case, the device consisted of two electrical
+mechanisms, called potentiometers, that tracked the movement of two
+small wheels as they moved across a desktop. They called it a mouse
+because of the way the computer’s on-screen cursor, called a CAT, seemed
+to chase the device’s path.
 
 As they were developing the system, both Mr. English and Mr. Engelbart
 were part of the government-funded L.S.D. tests conducted by a nearby
@@ -517,12 +528,6 @@ other internet-connected devices.
 “The whole aim was to implement the ideas behind NLS” across a network
 of personal computers, said Alan Kay, a key researcher behind the Alto.
 
-Mr. English’s first marriage, to Patricia Dickson, ended in divorce. He
-had met his future second wife, Roberta Mercer, while they were both
-working at S.R.I. In addition to her, he is survived by two sons from
-his first marriage, Aaron and John; a stepdaughter, Patricia; and a
-granddaughter.
-
 </div>
 
 </div>
@@ -530,6 +535,12 @@ granddaughter.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Mr. English’s first marriage, to Patricia Dickson, ended in divorce. He
+had met his future second wife, Roberta Mercer, while they were both
+working at S.R.I. In addition to her, he is survived by two sons from
+his first marriage, Aaron and John; a stepdaughter, Patricia; and a
+granddaughter.
 
 This week, when asked if he remembered that Mr. English had arranged the
 wireless video feed for the Mother of All Demos through a chance meeting

@@ -483,38 +483,39 @@ story](#after-mid1)
 [More in Technology
     »](/section/technology)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
-    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
+    Wright for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
+    ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
     
-    The founder of ByteDance, Zhang Yiming, dreamed of building a global
-    tech company based in China. Then the geopolitical reality set
-    in.
+    The pandemic has turned cleaning and other mundane building tasks
+    into a challenge, stoking interest in machines as cost-effective
+    solutions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Raymond
-    Zhong</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa
+    Prevost</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manjunath
-    Kiran/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
+    Lam/Reuters</span>](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    ## [Apple Replaces Phil Schiller as Its Top Marketing Executive](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
     
-    Buying one of the largest and most influential social networks in
-    the country could change the perception of the tech
-    giant.
+    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
+    at the
+    company.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Karen
-    Weise</span></span>
+    <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
@@ -536,40 +537,36 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ceylan
+    Maurer</span>](https://static01.nyt.com/images/2020/08/04/business/04ontech/04ontech-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    ## [When Taming Big Tech Goes Wrong](/2020/08/04/technology/europe-big-tech.html)
     
-    Yes, you can now pay less than $399 for a smartphone — and it won’t
-    stink.
+    What the United States can learn from Europe’s efforts to restrain
+    America’s tech
+    giants.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Shira
+    Ovide</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
+5.  
     
     <div class="css-10wtrbd">
     
-    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    ## [Google Faces European Inquiry Into Fitbit Acquisition](/2020/08/04/business/google-fitbit-europe.html)
     
-    The president’s interventions in company dealings based on his own
-    instincts are a departure from the arm’s-length approach of
-    predecessors of either
-    party.
+    Authorities are investigating how Google will use health and
+    wellness data collected from Fitbit’s fitness tracking
+    devices.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
-    Shear</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Satariano</span></span>
     
     </div>
 

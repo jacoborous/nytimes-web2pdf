@@ -193,8 +193,9 @@ story](#after-sponsor)
 
 </div>
 
-Judge has hit home runs in five consecutive games, and he’s done it
-without one of his favorite tools: the video replay room.
+Judge hit home runs in five consecutive games entering Monday night’s
+action, and he did it without one of his favorite tools: the video
+replay room.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -241,8 +242,9 @@ Wagner</span>](https://www.nytimes.com/by/james-wagner)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">10:39 a.m.
+    ET</span>
     
     </div>
 
@@ -250,7 +252,7 @@ Wagner</span>](https://www.nytimes.com/by/james-wagner)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -302,7 +304,7 @@ some times where I’m not really locked in.”
 Those around him, though, felt otherwise.
 
 “There’s a reason he almost won the M.V.P., and he’s in a groove right
-now," said Yankees first baseman Luke Voit, referring to the award Judge
+now,” said Yankees first baseman Luke Voit, referring to the award Judge
 narrowly missed out on in 2017. “I’m excited to see what he can do in 60
 games this year with how he’s raking right now. He’s a guy you don’t
 want to take your eyes off when he’s hitting.”
@@ -322,7 +324,7 @@ want to take your eyes off when he’s hitting.”
 Had the Major League Baseball season started as planned on March 26,
 Judge would not have been on the field, still [recuperating from an
 injury](https://www.nytimes.com/2020/03/06/sports/baseball/aaron-judge-yankees.html).
-He fractured his rib during a play in the outfield last September, which
+He fractured his rib during a play in the outfield in September, which
 led to a partially collapsed lung. He fought through some lingering
 discomfort in his side and shoulder the rest of the season, the playoffs
 and throughout the off-season.
@@ -332,7 +334,7 @@ nearly a dozen tests. So while the start of the M.L.B. season was
 delayed for four months because of the coronavirus pandemic, Judge used
 the extra time to recover. When he was cleared by doctors just before
 summer workouts began on July 4, it “lit another fuse” for Judge,
-Yankees Manager Aaron Boone said.
+Manager Aaron Boone said.
 
 Injuries have kept Judge off the field for parts of the previous two
 seasons. He missed 45 games in 2018 after a pitch fractured his wrist
@@ -355,15 +357,15 @@ good.”
 
 <div class="css-53u6y8">
 
-Entering Monday’s 6-3 win over the Philadelphia Phillies, who have not
+Entering Monday’s 6-3 win over the Philadelphia Phillies, who had not
 played since July 26 because of [the ripple effects of the Miami
 Marlins’ coronavirus
 outbreak](https://www.nytimes.com/2020/07/29/sports/baseball/yankees-schedule.html),
 no one in baseball had more home runs (six) or runs batted in (14) or
 was hitting the ball harder (an [average exit
 velocity](https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2020&position=&team=&min=q&sort=6&sortDir=asc)
-of 98.3 miles per hour) than Judge. He was on pace to smash 45 home runs
-this season — which would amount to (a very unrealistic) 122 over a
+of 98.3 miles per hour) than Judge. He was on a pace to smash 45 home
+runs this season — which would amount to (a very unrealistic) 122 over a
 normal 162-game season.
 
 Judge accomplished all of this without one of his favorite hitting
@@ -371,8 +373,8 @@ tools: in-game video. Because of [M.L.B.’s health and safety
 protocols](https://www.nytimes.com/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
 for this season, the replay review room at each stadium is closed to
 players and coaches at all times to ensure social distancing and to keep
-them isolated from other personnel. (Following the Houston Astros’
-cheating scandal, M.L.B. and the players’ union [have worked on new
+them isolated from other personnel. (After the Houston Astros’ cheating
+scandal, M.L.B. and the players’ union [have worked on new
 rules](https://www.nytimes.com/2020/02/24/sports/baseball/astros-cheating-scandal.html)
 governing these rooms.)
 
@@ -439,8 +441,8 @@ Judge has a few factors working in his favor, too: After starting the
 season against the defending champion Washington Nationals, the Yankees
 have faced two opponents (the Baltimore Orioles and the Red Sox) with
 poor pitching, and he is sandwiched in the lineup between other talented
-Yankees’ hitters — the 2019 All-Star infielders D.J. LeMahieu and
-Gleyber Torres, and Stanton.
+hitters — the 2019 All-Star infielders D.J. LeMahieu and Gleyber Torres,
+and Stanton.
 
 After possessing M.L.B.’s highest-scoring offense last season, the 8-1
 Yankees are off to a similar start this year. Judge said he was simply

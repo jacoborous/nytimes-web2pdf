@@ -82,9 +82,9 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Rich
-City Tykes Swell Schools in Hamptons and Hudson
-Valley</span>
+<span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">The
+Little Fraught
+Schoolhouse</span>
 
 </div>
 
@@ -148,14 +148,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -221,12 +221,13 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Rich City Tykes Swell Schools in Hamptons and Hudson Valley
+# The Little Fraught Schoolhouse
 
 </div>
 
 New York parents of means are seeking less congested classrooms near
-their second — third? — homes.
+their second homes in the Hamptons and Hudson Valley. Not everyone is
+happy about this.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -270,8 +271,9 @@ Williams</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 3,
-    2020
+    Published Aug. 1, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">1:27 p.m.
+    ET</span>
     
     </div>
 

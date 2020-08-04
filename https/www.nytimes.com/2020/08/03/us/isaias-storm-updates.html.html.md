@@ -202,8 +202,8 @@ tornadoes are possible.
 
 <div class="css-75y64v e16638kd2">
 
-Published Aug. 3, 2020Updated Aug. 4, 2020, <span class="css-epvm6">2:11
-a.m.
+Published Aug. 3, 2020Updated Aug. 4, 2020,
+<span class="css-epvm6">10:12 a.m.
 ET</span>
 
 </div>
@@ -233,6 +233,17 @@ ET</span>
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+*This briefing has ended.* [*Click here for live coverage of
+Isaias*](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html)*.*
+
+</div>
+
+</div>
 
 <div class="css-19qgada">
 
@@ -265,21 +276,19 @@ Times</span></span></span>](https://static01.nyt.com/images/2020/08/02/us/02isai
 
 ## Isaias makes landfall in North Carolina after becoming a hurricane again.
 
-Hurricane Isaias made landfall in southern North Carolina late Monday
-night, hours after strengthening into a Category 1 hurricane.
-Forecasters warned of heavy rainfall and powerful winds as the storm
-travels up the East Coast, and flash floods, storm surges and even
-tornadoes are possible, the National Hurricane Center said.
+[Hurricane
+Isaias](https://www.nytimes.com/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
+made landfall in southern North Carolina late Monday night, hours after
+strengthening into a Category 1 hurricane. Forecasters warned of heavy
+rainfall and powerful winds as the storm travels up the East Coast, and
+flash floods, storm surges and even tornadoes are possible, the National
+Hurricane Center said.
 
 The storm made landfall around 11:10 p.m. Eastern time near Ocean Isle
 Beach, N.C., about halfway between Myrtle Beach, S.C., and Wilmington,
 N.C. It has sustained maximum winds of 75 m.p.h., and a hurricane
 warning was issued from the South Santee River in South Carolina to Surf
 City, N.C.
-
-Officials have told residents in the storm’s projected path to prepare
-themselves, and businesses are concerned about how much damage it will
-bring.
 
 </div>
 
@@ -288,6 +297,10 @@ bring.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Officials have told residents in the storm’s projected path to prepare
+themselves, and businesses are concerned about how much damage it will
+bring.
 
 “It’s a wait-and-see game,” said Jay Slevin, the manager of a pizzeria
 about a mile from the shore in Myrtle Beach, S.C., southwest of where
@@ -310,7 +323,7 @@ landfall.
 
 <div class="css-1rha1bf">
 
-## Hurricane Isaias Tracking Map
+## Isaias Tracking Map
 
 Follow the storm’s path as it moves north along the Atlantic Coast.
 
@@ -335,6 +348,14 @@ Over the weekend, Isaias buffeted Florida’s eastern edge with heavy
 rainfall and powerful winds, yet it failed to deliver the punch that
 state officials had feared.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 ## The Carolinas face the dual threat of the storm and the virus.
 
 </div>
@@ -353,14 +374,6 @@ The center of Isaias hit the North Carolina coast on Monday, and is
 expected to drive inland overnight, according to the National Hurricane
 Center.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Rainfall will range from three to six inches in most areas, with a few
 areas getting up to eight inches — enough to produce flash flooding.
 Widespread power outages are also expected.
@@ -369,7 +382,58 @@ To try to enforce social distancing, shelters in North Carolina will
 give each evacuee 115 square feet of space, Gov. Roy Cooper of North
 Carolina said. He encouraged people to evacuate to the homes of family
 or friends, or to a hotel, if they can afford to, to keep shelters from
-becoming crowded.
+becoming
+crowded.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-election-promo" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="">
+
+<div class="briefing-block-header-section">
+
+# [Live Updates: Isaias](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-08-04T19:32:28.621Z
+
+</div>
+
+</div>
+
+  - [Isaias is bringing the threat of tornadoes as it barrels
+    north.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-362830dd)
+  - [At least two people were killed by a tornado in North
+    Carolina.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7961bdbc)
+  - [The storm is knocking out power over wide
+    areas.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34e5d4e4)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 “I know that North Carolinians have had to dig deep in recent months to
 tap into our strength and resilience during the pandemic, and that
@@ -411,6 +475,14 @@ storm on Monday night, when the rain will increase and the risk of flash
 floods will be greatest. There could also be a storm surge of three to
 five feet, and a possibility of tornadoes.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Even before the storm hit, a swimmer was reported missing at Myrtle
 Beach. A witness said they had seen a swimmer in distress around 8 p.m.
 Sunday, and despite crews searching in the water and using helicopters,
@@ -420,14 +492,6 @@ dangerous for crews to remain in the water.
 Gov. Henry McMaster of South Carolina said on Friday that he had no
 plans to call for evacuations. But North Carolina has declared a state
 of emergency.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 ## Isaias has tended to fluctuate, and so have the forecasts.
 
@@ -480,6 +544,14 @@ still just an idea in the minds of forecasters. Now the public gets the
 word earlier, though less
 definitively.<span class="css-8l6xbc evw5hdy0"> </span>
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 **A storm is born:** When a low-pressure system that was dithering over
 the tropical Atlantic last week posed a threat to Puerto Rico and the
 island of Hispaniola, the center designated it Potential Tropical
@@ -490,14 +562,6 @@ Isaias weakened while passing over the mountainous Dominican Republic,
 as storms generally do, but it strengthened more quickly than expected
 afterward, and by the time it reached the Bahamas on Friday it was a
 Category 1 hurricane.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 At that point, the forecast track threatened nearly the whole Eastern
 Seaboard of the United States, from South Florida to Maine. The storm
@@ -524,6 +588,14 @@ That is why, a day before Isaias is expected to reach New York City, we
 now have a forecast for hurricane-strength gusts in the area, with the
 potential for widespread power outages and other problems that were not
 on the radar, literally or figuratively, until today.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 The forecasts issued for Isaias and other tricky storms these days are
 amazingly good by historical standards, much better than a few decades
@@ -597,12 +669,6 @@ said.
 On a more positive note, Mr. Fugate said, virus contagion fears could
 also keep people who do not need to evacuate off the roads.
 
-“The fewer people that are not in evacuation zones that leave, the
-better for people who do need to leave,” he said.
-
-And he offered this advice: “Wear a mask. Pack masks. If you’re
-evacuating, take masks with you. If you’re out shopping: Wear a mask.”
-
 </div>
 
 </div>
@@ -610,6 +676,12 @@ evacuating, take masks with you. If you’re out shopping: Wear a mask.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“The fewer people that are not in evacuation zones that leave, the
+better for people who do need to leave,” he said.
+
+And he offered this advice: “Wear a mask. Pack masks. If you’re
+evacuating, take masks with you. If you’re out shopping: Wear a mask.”
 
 ## The Northeast can expect a soaking, too.
 
@@ -642,6 +714,14 @@ to six inches of rain in some areas.
 Winds are expected to pick up on Tuesday afternoon, he said. Sustained
 winds could be between 30 to 45 m.p.h., with gusts up to 65 m.p.h.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Tuesday night could bring the possibility of flooding along the southern
 coast of Long Island and the New Jersey coastline near New York City,
 Mr. Wunsch said. He said coastal flooding was expected to coincide with
@@ -653,14 +733,6 @@ will be permitted in certain areas, officials said.
 Gov. Andrew Cuomo said on Sunday that the state was deploying high-water
 vehicles, pumps and generators to areas that might be affected by the
 storm.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Storm surge could also bring high water into Lower Manhattan, according
 to the New York City Emergency Management Department, and officials are
@@ -723,6 +795,14 @@ Last week, a blackout unrelated to Isaias began before the storm hit and
 left more than 300,000 of<span class="css-8l6xbc evw5hdy0"> </span>the
 utility’s 1.5 million customers without power. Another 400,000 customers
 lost electricity after the storm.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Mr. Ortiz was appointed in July 2018 as the utility struggled to recover
 from bankruptcy and Hurricane Maria. He said on Monday that at the time

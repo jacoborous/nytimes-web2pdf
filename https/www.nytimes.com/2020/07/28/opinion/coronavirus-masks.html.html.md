@@ -271,6 +271,13 @@ Times</span></span></span>](https://static01.nyt.com/images/2020/07/28/opinion/2
 
 </div>
 
+<div class="css-mdjrty">
+
+[Leer en
+español](https://www.nytimes.com/es/2020/07/30/espanol/opinion/usar-cubrebocas-politica.html "Read in Spanish")
+
+</div>
+
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">

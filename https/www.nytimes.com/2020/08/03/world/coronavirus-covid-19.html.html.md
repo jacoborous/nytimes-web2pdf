@@ -82,8 +82,8 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes
+<span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Fauci
+Supports Birx’s Coronavirus Assessment After Trump Criticizes
 Her</span>
 
 </div>
@@ -147,14 +147,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -191,6 +191,8 @@ story](#after-top)
 
 </div>
 
+<div>
+
 <div id="sponsor-wrapper" class="css-1hyfx7x">
 
 <div id="sponsor-slug" class="css-19vbshk">
@@ -212,32 +214,13 @@ story](#after-sponsor)
 
 </div>
 
-<div class="css-14oxmzc edomiq20">
-
-<div class="css-40v4b6">
-
-<span class="css-sgss5">LIVE UPDATES</span>
-
-</div>
-
-<span>Updated </span>
-
-<div class="css-ki347z">
-
-<span class="css-1656jku">Aug. 4, 2020, 3:05 a.m.
-ET</span><span class="css-xwx5dt"></span>
-
-</div>
-
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 3:05
-a.m.
-ET</span>
+<div class="css-186x18t">
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Coronavirus Live Updates: Fauci Supports Birx’s Assessment After Trump Criticizes Her
+# Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
 
 </div>
 
@@ -245,17 +228,65 @@ Counting for the 2020 census will end on Sept. 30, a month earlier than
 previously announced, the Census Bureau said. Some U.S. schools have
 begun to reopen, with fraught results.
 
-<div class="css-192lewg e1oheyly0">
+<div class="css-18e8msd">
 
-Right Now
+<div class="css-vp77d3 epjyd6m0">
 
-A New Zealand couple caught a ride home from the Falkland Islands — a
-distance of more than 5,000 nautical miles — on an Antarctic fishing
-boat.
+<div class="css-1baulvz">
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">2:39 p.m.
+    ET</span>
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
 
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Read our [live Coronavirus
+Pandemic](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html)
+coverage here.
+
+</div>
+
+</div>
 
 <div class="css-19qgada">
 
@@ -301,19 +332,7 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/03/us/politics/03vi
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-4547638f" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Fauci defends Birx after she is criticized by Trump.
+## Fauci defends Birx after she is criticized by Trump.
 
 Dr. Anthony S. Fauci, the nation’s top infectious disease specialist,
 agreed on Monday with his colleague Dr. Deborah Birx that the United
@@ -326,10 +345,6 @@ spread” that is occurring in some states, adding: “When you have
 community spread, it’s much more difficult to get your arms around that
 and contain it.”
 
-Speaking during a news conference with Gov. Ned Lamont of Connecticut,
-Dr. Fauci called the community spread “insidious” and noted that it was
-happening outside of confined spaces like nursing homes and prisons.
-
 </div>
 
 </div>
@@ -337,6 +352,10 @@ happening outside of confined spaces like nursing homes and prisons.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Speaking during a news conference with Gov. Ned Lamont of Connecticut,
+Dr. Fauci called the community spread “insidious” and noted that it was
+happening outside of confined spaces like nursing homes and prisons.
 
 In backing up Dr. Birx, the Trump administration’s coronavirus response
 coordinator, Dr. Fauci indirectly put himself at odds with the
@@ -367,6 +386,14 @@ elected president, I’ll spend my Monday mornings working with our
 nation’s top experts to control this virus — not insulting them on
 Twitter,” Mr. Biden said.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 But other Republicans piled on. “Dr. Birx, like Dr. Fauci, has been
 wrong much more than she has been right on COVID-19, & their destructive
 prescriptions have led to the devastation of countless American lives,”
@@ -377,14 +404,6 @@ Dr. Birx had warned during an appearance on the CNN program “State of
 the Union” on Sunday that the United States was entering a “new phase”
 in its fight against the pandemic, and that rural communities would not
 be spared. “It is extraordinarily widespread,” she said.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 On Monday morning, shortly after Mr. Trump tweeted about her, Dr. Birx
 told governors on a weekly briefing call that a lack of masks at large
@@ -411,6 +430,14 @@ study](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html?searc
 found that young children carried high levels of the virus in their
 noses and throats, for example, but did not prove they were contagious.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Dr. Fauci said he hoped some questions about the risks to children and
 their role in transmission would be answered by a new [government
 study](https://www.nih.gov/news-events/news-releases/study-determine-incidence-novel-coronavirus-infection-us-children-begins)
@@ -432,18 +459,13 @@ families.
 
 <div class="g-svelte" data-component="1">
 
-<div class="hp-curve-wrapper svelte-47k53u">
+<div class="dashboard svelte-1o1rjf3">
 
-<div class="hp-dashboard-title svelte-47k53u">
+## [Tracking the Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-[Tracking the
-Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+<div class="grid svelte-1o1rjf3">
 
-</div>
-
-<div class="hp-curves-wrapper svelte-47k53u">
-
-<div class="hp-section us-wrapper svelte-47k53u">
+<div class="section svelte-1o1rjf3">
 
 [](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
@@ -456,41 +478,28 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </colgroup>
 <thead>
 <tr class="header">
-<th><h3 id="united-states" class="heading-label svelte-47k53u">United States ›</h3></th>
-<th><h3 id="on-aug.-3" class="svelte-47k53u">On Aug. 3</h3></th>
-<th><h3 id="day-change" class="svelte-47k53u">14-day change</h3></th>
-<th><h3 id="trend" class="svelte-47k53u">Trend</h3></th>
+<th><strong>United States ›</strong></th>
+<th>On Aug. 3</th>
+<th>14-day<br />
+change</th>
+<th>Trend</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td><h4 id="section-1" class="svelte-47k53u">47,792</h4></td>
-<td><h4 id="section-2" class="svelte-47k53u">–9%</h4></td>
-<td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-<div class="chart mini-chart usa-chart chart-0 show-chart svelte-l6qvn7">
-<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
-<div class="line-chart-wrapper svelte-l6qvn7">
-<div class="pancake-chart svelte-1gzh5rp">
+<td>47,832</td>
+<td>-9%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #cc0000">
 
-</div>
-</div>
-</div>
 </div></td>
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td><h4 id="section-3" class="svelte-47k53u">602</h4></td>
-<td><h4 id="section-4" class="svelte-47k53u">+36%</h4></td>
-<td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-<div class="chart mini-chart usa-chart deaths-chart chart-0 show-chart svelte-l6qvn7">
-<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
-<div class="line-chart-wrapper svelte-l6qvn7">
-<div class="pancake-chart svelte-1gzh5rp">
+<td>602</td>
+<td>+36%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #333">
 
-</div>
-</div>
-</div>
 </div></td>
 </tr>
 </tbody>
@@ -498,203 +507,98 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<div class="hp-section curves-chart-wrapper svelte-47k53u">
+<div class="section svelte-1o1rjf3">
 
-<div class="rising svelte-47k53u">
+<div class="rising">
 
 ### Where cases are **rising** fastest
 
-<div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-
-<div class="chart mini-chart state-chart chart-0 rising-falling-chart show-chart svelte-l6qvn7">
+<div class="state-grid svelte-sxbviw">
 
 [](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">Hawaii</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-1 rising-falling-chart show-chart svelte-l6qvn7">
-
+Hawaii
 [](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">R.I.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-2 rising-falling-chart show-chart svelte-l6qvn7">
-
+R.I.
 [](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">N.J.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-3 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mass.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Neb.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-5 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mo.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
-
+N.J.
 [](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+Alaska
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">Alaska</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
+Neb.
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
 </div>
 
-<span class="state-name svelte-l6qvn7">Okla.</span>
+Mo.
+[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-<div class="chart mini-chart state-chart chart-8 rising-falling-chart show-chart svelte-l6qvn7">
-
+Mass.
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+S.D.
+[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">S.D.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-9 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">N.H.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
-
+P.R.
 [](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+Ill.
+[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">Ill.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-11 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
+Okla.
+[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
 </div>
 
-<span class="state-name svelte-l6qvn7">Mont.</span>
+Md.
 
 </div>
 
@@ -702,37 +606,22 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-</div>
+<div class="section svelte-1o1rjf3">
 
-<div class="hp-section maps svelte-47k53u">
-
-<div class="map-holder us-map svelte-47k53u">
+<div class="maps svelte-2bdny">
 
 [](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-### U.S. hot spots ›
-
-<div class="media-holder">
+### U.S. hot spots ›
 
 ![US coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-<div class="map-holder svelte-47k53u">
-
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
 [](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 
-### Worldwide ›
-
-<div class="media-holder">
+### Worldwide ›
 
 ![Worldwide coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_world-threeByTwoSmallAt2X.png)
-
-</div>
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -756,21 +645,7 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a119
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-15e7f995" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Trump derides Democrats as lawmakers and administration officials try to
-break stimulus
-impasse.
+## Trump derides Democrats as lawmakers and administration officials try to break stimulus impasse.
 
 </div>
 
@@ -841,6 +716,14 @@ At the White House, Mr. Trump accused Democrats of being single-mindedly
 focused on getting “bailout money” for states controlled by Democrats,
 and unconcerned with extending unemployment benefits.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “All they’re really interested in is bailout money to bail out radical
 left governors and radical left mayors like in Portland and places that
 are so badly run — Chicago, New York City,” Mr. Trump said.
@@ -849,14 +732,6 @@ Democrats have proposed providing more than $900 billion to
 cash-strapped states and cities whose budgets have been devastated in
 the recession, but it is Republicans who have proposed slashing the
 jobless aid. Democrats have refused to do so, feeding the stalemate.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 While White House officials and Democratic leaders reported some
 progress over the weekend in their talks, they [still have substantial
@@ -868,22 +743,10 @@ trillion package that would slash the unemployment payments
 considerably.
 
 More than 47,800 new cases and more than 600 new deaths were reported in
-the United States on Monday.
+the United States on
+Monday.
 
-## 
-
-<div id="link-e5a2cda" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The deadline for 2020 census counting has been moved up by a
-month.
+## The deadline for 2020 census counting has been moved up by a month.
 
 </div>
 
@@ -925,7 +788,68 @@ Holtermann/Sipa, via Associated Press</span></span>
 <div class="css-53u6y8">
 
 Counting for the 2020 census will end on Sept. 30, a month earlier than
-previously scheduled, the Census Bureau said in a statement on Monday.
+previously scheduled, the Census Bureau said in a statement on
+Monday.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-08-04T19:32:24.665Z
+
+</div>
+
+</div>
+
+  - [Public and private schools in Maryland and elsewhere are divided
+    over in-person
+    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
+  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
+    over the
+    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
+  - [‘Long days, long nights’: Washington prepares for a prolonged fight
+    over virus
+    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 The census is constitutionally required to count all residents of the
 United States every 10 years, but the 2020 effort has
@@ -935,6 +859,14 @@ Republicans [appeared to signal that they wanted the census finished
 well ahead of
 schedule](https://www.nytimes.com/2020/07/28/us/trump-census.html).
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Census data is enormously important. It is used to reapportion all 435
 House seats and thousands of state and local districts, as well as divvy
 up trillions of dollars in federal aid.
@@ -943,14 +875,6 @@ up trillions of dollars in federal aid.
 household responses as collected in prior censuses, including outreach
 to hard-to-count communities,” the Census Bureau said in its
 [statement](https://www.census.gov/newsroom/press-releases/2020/delivering-complete-accurate-count.html).
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Critics said the move was pushed by the White House and motivated by
 partisanship.
@@ -998,23 +922,10 @@ package](https://www.nytimes.com/2020/08/02/us/politics/coronavirus-jobless-aid.
 
 <div class="css-53u6y8">
 
-Education Roundup
+Education
+Roundup
 
-## 
-
-<div id="link-4c85ed64" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-As some students and teachers go back to school in the U.S., they’re
-bringing the virus with
-them.
+## As some students and teachers go back to school in the U.S., they’re bringing the virus with them.
 
 </div>
 
@@ -1086,6 +997,14 @@ also in Indiana, the county health department notified the school that a
 student had tested positive. The student was isolated, and others who
 had been in proximity were forced to quarantine for two weeks.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 At a high school in Corinth, Miss., [someone also tested
 positive](https://www.facebook.com/corinthschooldistrict/?tn-str=k*F)
 during the first week back, and exposed students there were asked to
@@ -1100,14 +1019,6 @@ with more than 180,000 students. Teachers returned to work last
 Wednesday, in preparation for starting classes remotely on Aug. 12. But
 as of Thursday, about 260 employees had been excluded from work because
 they tested positive or had potentially been exposed to the virus.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Other key developments in education:
 
@@ -1125,7 +1036,8 @@ Other key developments in education:
   - **The University of North Carolina at Chapel Hill** is planning to
     fully reopen next week, but 30 tenured faculty members wrote an open
     letter to students published Friday in The Charlotte Observer
-    pushing for virtual learning and encouraging students to stay home.
+    pushing for virtual learning and encouraging students to stay
+home.
 
 </div>
 
@@ -1139,21 +1051,7 @@ Other key developments in education:
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-5ccc012" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Hurricane Isaias makes landfall in North Carolina, as officials across
-the Southeast
-scramble.
+## Hurricane Isaias makes landfall in North Carolina, as officials across the Southeast scramble.
 
 </div>
 
@@ -1173,7 +1071,7 @@ scramble.
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+<div data-testid="lazyimage-container" style="height:290px">
 
 </div>
 
@@ -1181,12 +1079,10 @@ scramble.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Palm Beach,
-Fla., as Hurricane Isaias approached on Saturday. Many virus testing
-sites in Florida were closed because of the storm, which was expected to
-make landfall in the Carolinas Monday
-night.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Saul
-Martinez for The New York Times</span></span>
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Damage in
+Southport, N.C., early Tuesday as Hurricane Isaias moved through the
+state.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>WECT-TV,
+via Associated Press</span></span>
 
 </div>
 
@@ -1213,6 +1109,14 @@ Department](http://ww11.doh.state.fl.us/comm/_partners/covid19_report_archive/st
 which had generally been in the 90,000 range in the past two weeks, fell
 on Sunday to about 61,000.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Isaias made landfall in southern North Carolina late Monday night after
 strengthening into a Category 1 hurricane and was expected to travel up
 the East Coast. Testing sites have been closed [as far north as
@@ -1222,14 +1126,6 @@ in anticipation.
 Officials have told residents in the storm’s projected path to prepare
 themselves, and businesses are concerned about how much damage it will
 bring.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “It’s a wait-and-see game,” said Jay Slevin, the manager of a pizzeria
 about a mile from the shore in Myrtle Beach, S.C., southwest of where
@@ -1252,41 +1148,13 @@ tap into our strength and resilience during the pandemic, and that
 hasn’t been easy,” he said. “But with this storm on the way, we have
 to dig a little deeper.”
 
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-6bfd36ea" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Italian sex workers face poverty and illness during the pandemic.
+## Italian sex workers face poverty and illness during the pandemic.
 
 In Italy, prostitution is not illegal, nor is it regulated as an
 official occupation, making the country’s 70,000 sex workers largely
 ineligible to receive economic relief. Many have been forced to take
 their chances by returning to work in order to avoid poverty.
 
-In May, organizations that promote the rights of Italian sex workers
-sought to draw the government’s attention and get support, arguing that
-the pandemic showed the harm of forcing sex work underground.
-
 </div>
 
 </div>
@@ -1294,6 +1162,10 @@ the pandemic showed the harm of forcing sex work underground.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+In May, organizations that promote the rights of Italian sex workers
+sought to draw the government’s attention and get support, arguing that
+the pandemic showed the harm of forcing sex work underground.
 
 In March, Regina Satariano, a 60-year-old sex worker in Tuscany, started
 hearing about colleagues who hadn’t eaten and a landlord who had
@@ -1325,7 +1197,8 @@ immigrant communities, have had to fend for themselves.
 A recent report by the Sex Workers’ Rights Advocacy Network and the
 International Committee on the Rights of Sex Workers in Europe showed
 that many sex workers defied lockdown rules in order to work, putting
-both themselves and their clients at risk.
+both themselves and their clients at
+risk.
 
 </div>
 
@@ -1339,20 +1212,7 @@ both themselves and their clients at risk.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-bfeb498" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-New Zealand newlyweds, stranded in the Falkland Islands, went home on a
-fishing boat.
+## New Zealand newlyweds, stranded in the Falkland Islands, went home on a fishing boat.
 
 </div>
 
@@ -1381,8 +1241,8 @@ fishing boat.
 </div>
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Feeonaa and
-Neville Clifton aboard the Antarctic fishing vessel that took them home
-to New Zealand from the Falkland Islands.</span>
+Neville Clifton in late July, aboard the Antarctic fishing vessel that
+took them home to New Zealand from the Falkland Islands.</span>
 
 </div>
 
@@ -1416,11 +1276,6 @@ Ms. Clifton, 48, said that when they began planning their escape from
 the Falklands, one of their only options was a military transport
 through Africa and Britain.
 
-“At the time we were being told Latam might fly next month, and then
-again the next month after that,” she said, referring to Latam Airlines,
-a major carrier in the region. “Unfortunately the deadline kept getting
-further and further pushed back.”
-
 </div>
 
 </div>
@@ -1428,6 +1283,11 @@ further and further pushed back.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“At the time we were being told Latam might fly next month, and then
+again the next month after that,” she said, referring to Latam Airlines,
+a major carrier in the region. “Unfortunately the deadline kept getting
+further and further pushed back.”
 
 They explored other travel options, but each seemed complex and likely
 to put them at increased risk of contracting the virus.
@@ -1446,22 +1306,10 @@ hours later that they still felt “extremely wobbly” — to the point where
 a shopkeeper they came upon during the drive home thought they were
 dancing.
 
-“We were just trying to stand up straight,” she said.
+“We were just trying to stand up straight,” she
+said.
 
-## 
-
-<div id="link-4c7bee27" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Despite the pandemic, Facebook leases more office space in
-Manhattan.
+## Despite the pandemic, Facebook leases more office space in Manhattan.
 
 </div>
 
@@ -1509,13 +1357,6 @@ in the mammoth James A. Farley Building in Midtown Manhattan,
 reaffirming its commitment to an office-centric urban culture despite
 the continued spread of the coronavirus.
 
-The timing of the announcement was somewhat of a surprise because
-Facebook has given most of its employees the [option of working from
-home](https://www.nytimes.com/2020/05/21/technology/facebook-remote-work-coronavirus.html).
-Even after the pandemic subsides, Facebook has said that within the next
-10 years, up to half of its roughly 52,200 employees across the country
-would work from home.
-
 </div>
 
 </div>
@@ -1524,10 +1365,166 @@ would work from home.
 
 <div class="css-53u6y8">
 
+The timing of the announcement was somewhat of a surprise because
+Facebook has given most of its employees the [option of working from
+home](https://www.nytimes.com/2020/05/21/technology/facebook-remote-work-coronavirus.html).
+Even after the pandemic subsides, Facebook has said that within the next
+10 years, up to half of its roughly 52,200 employees across the country
+would work from home.
+
 New York’s economy has been cratered by the outbreak. The city is slowly
 reopening, but many companies have told their employees not to return to
 their offices until early next year, if not later. Much of Manhattan’s
-business district remains a virtual ghost town.
+business district remains a virtual ghost
+town.
+
+<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div class="css-eb027h">
+
+[](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+### The Coronavirus Outbreak ›
+
+#### Frequently Asked Questions
+
+Updated August 4, 2020
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[that seems likely, for at least several
+        months.](https://www.nytimes.com/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes.com/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes.com/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
+
+  - #### Should I refinance my mortgage?
+    
+      - [It could be a good
+        idea,](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        because mortgage rates have [never been
+        lower.](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Refinancing requests have pushed mortgage applications to some
+        of the highest levels since 2008, so be prepared to get in line.
+        But defaults are also up, so if you’re thinking about buying a
+        home, be aware that some lenders have tightened their standards.
+
+  - #### What is school going to look like in September?
+    
+      - It is unlikely that many schools will return to a normal
+        schedule this fall, requiring the grind of [online
+        learning](https://www.nytimes.com/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        [makeshift child
+        care](https://www.nytimes.com/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        and [stunted
+        workdays](https://www.nytimes.com/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        to continue. California’s two largest public school districts —
+        Los Angeles and San Diego — said on July 13, that [instruction
+        will be remote-only in the
+        fall](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        citing concerns that surging coronavirus infections in their
+        areas pose too dire a risk for students and teachers. Together,
+        the two districts enroll some 825,000 students. They are the
+        largest in the country so far to abandon plans for even a
+        partial physical return to classrooms when they reopen in
+        August. For other districts, the solution won’t be an
+        all-or-nothing approach. [Many
+        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
+        including the nation’s largest, New York City, are devising
+        [hybrid
+        plans](https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        that involve spending some days in classrooms and other days
+        online. There’s no national policy on this yet, so check with
+        your municipal school system regularly to see what is happening
+        in your
+community.
+
+<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+
+</div>
+
+</div>
+
+<div class="css-6mllg9">
+
+</div>
+
+<div class="css-pmm6ed">
+
+<span class="css-5gimkt"></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 But Facebook now has more than 4,000 employees in its offices in
 Manhattan, up from about 2,900 employees at the beginning of the year.
@@ -1544,7 +1541,8 @@ tech
 corridor](https://www.nytimes.com/2020/01/05/nyregion/nyc-tech-facebook-amazon-google.html).
 A Facebook spokeswoman said it was too soon to estimate how many
 employees will end up at the Manhattan properties, given the
-uncertainties of the outbreak.
+uncertainties of the
+outbreak.
 
 </div>
 
@@ -1558,21 +1556,7 @@ uncertainties of the outbreak.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-43feae1e" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-St. Louis Cardinals’ outbreak grows to 13 as Major League Baseball
-season
-teeters.
+## St. Louis Cardinals’ outbreak grows to 13 as Major League Baseball season teeters.
 
 </div>
 
@@ -1620,10 +1604,6 @@ staff members, in yet another blow to the rocky start of the Major
 League Baseball season. The Cardinals’ outbreak comes after the Miami
 Marlins reported an outbreak last week: 18 players and two coaches.
 
-The Cardinals have been quarantined since Thursday at their hotel in
-Milwaukee, where their three-game series with the Brewers was postponed
-last weekend after St. Louis’s first cases were confirmed.
-
 </div>
 
 </div>
@@ -1631,6 +1611,10 @@ last weekend after St. Louis’s first cases were confirmed.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The Cardinals have been quarantined since Thursday at their hotel in
+Milwaukee, where their three-game series with the Brewers was postponed
+last weekend after St. Louis’s first cases were confirmed.
 
 “I think everyone is trying to look for someone or something to blame,
 and there isn’t one person or one thing to blame,” said Derek Jeter, the
@@ -1672,31 +1656,11 @@ hotel for coffee or shopping.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-519d6f6d" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-White House staff will be randomly tested for the virus.
+## White House staff will be randomly tested for the virus.
 
 White House officials have been told they will be randomly screened for
 the coronavirus starting on Monday, according to a person who received
 the email.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 The new policy is a change for the White House, where the testing
 requirement had previously been only for people in proximity to Mr.
@@ -1722,6 +1686,8 @@ The email made clear that anyone who does not comply with assignments
 for testing would be seen as refusing to be tested, according to the
 person who received
 it.
+
+## Is telemedicine here to stay?
 
 </div>
 
@@ -1767,11 +1733,6 @@ Over the past few months, millions of people have relied on video or
 telephone calls to talk to their doctors. But how long will the moment
 last?
 
-The answer largely depends on [whether Medicare and private health
-insurers will adequately cover virtual doctor
-visits](https://www.nytimes.com/2020/08/03/health/covid-telemedicine-congress.html)
-once coronavirus outbreaks subside.
-
 </div>
 
 </div>
@@ -1779,6 +1740,11 @@ once coronavirus outbreaks subside.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The answer largely depends on [whether Medicare and private health
+insurers will adequately cover virtual doctor
+visits](https://www.nytimes.com/2020/08/03/health/covid-telemedicine-congress.html)
+once coronavirus outbreaks subside.
 
 Medicare’s coverage of a broad range of services is slated to end when
 the coronavirus no longer poses a public health emergency. Private
@@ -1813,6 +1779,14 @@ care. Jorge Cueto, who is in his mid-20s, said a virtual visit is often
 an additional step before going to the doctor’s office for, say, a sore
 throat.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “It’s another fee, it’s another gating mechanism,” he said.
 
 Dr. Ateev Mehrotra, a professor of health care policy at Harvard Medical
@@ -1834,22 +1808,10 @@ reconcile,” he said.
 
 <div class="css-53u6y8">
 
-U.S. ROUNDUP
+U.S.
+ROUNDUP
 
-## 
-
-<div id="link-6c117b4e" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-As cases rise, New Jersey limits indoor gatherings
-again.
+## As cases rise, New Jersey limits indoor gatherings again.
 
 </div>
 
@@ -1915,11 +1877,6 @@ was at 0.87. The rate is a rough estimate, because many infections are
 undetected for a variety of reasons, including asymptomatic infections
 and testing issues.
 
-“I don’t think we ever graduated out of the first wave,” he said. “As
-the clock has gone on, folks have begun to, a little bit, fall off the
-wagon,” in terms of indoor gatherings that violated the state’s
-social-distancing guidance.
-
 </div>
 
 </div>
@@ -1927,6 +1884,11 @@ social-distancing guidance.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“I don’t think we ever graduated out of the first wave,” he said. “As
+the clock has gone on, folks have begun to, a little bit, fall off the
+wagon,” in terms of indoor gatherings that violated the state’s
+social-distancing guidance.
 
 Elsewhere in the United States:
 
@@ -1997,22 +1959,10 @@ Times</span></span></span>](https://static01.nyt.com/images/2020/08/03/world/03v
 
 <div class="css-53u6y8">
 
-GLOBAL ROUNDUP
+GLOBAL
+ROUNDUP
 
-## 
-
-<div id="link-49a560eb" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Mexico’s television and radio networks to broadcast classes for
-students
+## Mexico’s television and radio networks to broadcast classes for students
 
 </div>
 
@@ -2065,7 +2015,7 @@ for a safe return to the classroom.
 “We would like to return to face-to-face classes, but it is neither
 possible nor prudent,” said the education minister, Esteban Moctezuma
 Barragán, in a news conference. Mr. Moctezuma said he wanted to avoid
-the fates of “Isreal, South Korea, the United Kingdom, France, to name a
+the fates of “Israel, South Korea, the United Kingdom, France, to name a
 few examples, who reopened their schools and had to close them again.”
 
 The announcement is one of the first signs of caution in the nation’s
@@ -2079,6 +2029,14 @@ Four television companies will air classes to 30 million students on
 broadcast channels, in Spanish, sign language and 20 Indigenous
 languages, the education minister said. The government will distribute
 free textbooks to students who can’t afford them.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 In other global news:
 
@@ -2109,22 +2067,10 @@ In other global news:
     rules](https://www.nytimes.com/2020/04/15/world/asia/manila-coronavirus-lockdown-slum.html)
     and gradually opened up in an effort to jump-start the economy.
     Hospitals have been overwhelmed, and doctors have warned they are
-    reaching a breaking point.
+    reaching a breaking
+point.
 
-## 
-
-<div id="link-6bff0af2" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Federal aid for U.S. small businesses may not be enough to keep many
-afloat.
+## Federal aid for U.S. small businesses may not be enough to keep many afloat.
 
 </div>
 
@@ -2209,6 +2155,14 @@ agency’s internal watchdog said that hundreds of millions of dollars
 handed out through the program [may have been fraudulently
 obtained](https://www.nytimes.com/live/2020/07/28/business/stock-market-today-coronavirus#thieves-are-targeting-small-business-relief-programs-a-watchdog-says).
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 In New York City, an expanding universe of distinctive small businesses
 — from coffee shops to dry cleaners to hardware stores — that give its
 neighborhoods their unique personalities and are key to the city’s
@@ -2219,14 +2173,6 @@ When the pandemic eventually subsides, roughly one-third of the city’s
 report](https://pfnyc.org/wp-content/uploads/2020/07/actionandcollaboration.pdf)
 by the Partnership for New York City, an influential business group. So
 far, those businesses have shed 520,000 jobs.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 On Monday, more than 100 current and former chief executives called for
 more aid to small businesses across the country in a letter sent to

@@ -230,14 +230,21 @@ Schram</span>
 
 </div>
 
-  - Aug. 1,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">3:02 p.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -274,9 +281,11 @@ For months it looked like Las Vegas — with its massive resorts and
 status as host to the league’s off-season awards — would be chosen as
 the primary hub city for the N.H.L.’s summer restart after the regular
 season was paused in March because of the coronavirus pandemic. But
-Edmonton, a city of just less than 1 million people, persisted and the
+Edmonton, a city of just fewer than a million people, persisted and the
 dogged effort paid off in early July when the league instead selected it
-and Toronto as the sites for postseason play.
+and [Toronto as the sites for
+postseason](https://www.nytimes.com/2020/08/04/sports/toronto-nhl-playoffs.html)
+play.
 
 “We’ve had a great staff doing a ton of work,” said Bob Nicholson, the
 Edmonton Oilers’ chairman. Nicholson singled out the team’s owner, Daryl
@@ -384,7 +393,7 @@ here.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-80633" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -394,12 +403,17 @@ here.”
 
 #### Sports and the Virus
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
 Here’s what’s happening as the world of sports slowly comes back to
 life:
 
-  -   - On all but the two biggest courts, automated line calls [will
+  -   - As the virus spreads through baseball, [so does
+        frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+        Series have been postponed, teams have been quarantined and road
+        trips have been rerouted in a season that has been defined above
+        all by its precariousness.
+      - On all but the two biggest courts, automated line calls [will
         replace human
         judges](https://www.nytimes.com/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         at the U.S. Open to reduce the number of people on site during
@@ -407,10 +421,8 @@ life:
       - Mets star Yoenis Cespedes is healthy, but [has decided to opt
         out](https://www.nytimes.com/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         of the 2020 baseball season for Covid-related reasons.
-      - Britain tried to bring fans back to indoor sports. [It lasted a
-        day](https://www.nytimes.com/2020/08/02/sports/snooker-world-championship.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
 
-<div id="styln-survey-component-80633" class="styln-survey-component">
+<div id="styln-survey-component-29614" class="styln-survey-component">
 
 </div>
 

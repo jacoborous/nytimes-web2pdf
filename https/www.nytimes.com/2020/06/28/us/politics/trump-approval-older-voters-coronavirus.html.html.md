@@ -147,14 +147,14 @@ Voters</span>
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -473,30 +473,32 @@ Democrat.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T01:23:51.312Z
+Updated 2020-08-04T14:19:33.781Z
 
 </div>
 
 </div>
 
-  - [Trump assails mail-in voting anew, citing delays in declaring a
-    winner in a New York congressional
-    primary.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
-  - [Obama issues his first slate of 2020
-    endorsements.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
-  - [In a big shift, Trump is now encouraging mask-wearing in campaign
-    emails.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
+  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
+    to
+    Trump.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
+  - [Trump downplays John Lewis’s accomplishments and nurses a grudge:
+    ‘He didn’t come to my
+    inauguration.’](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-24333e8c)
+  - [Election experts will tell Congress that federal funding is needed
+    to prevent widespread
+    disenfranchisement.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3c437e05)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -782,7 +784,7 @@ said.
 
 # Our 2020 Election Guide
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -790,9 +792,11 @@ Updated Aug. 3, 2020
     
     ## The Latest
     
-      - President Trump again assails mail-in voting, [claiming without
-        evidence that the process is plagued by
-        fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -241,8 +241,9 @@ hosting a retreat after hundreds who attended were infected.
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 2,
-    2020
+    Published Aug. 1, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">2:37 p.m.
+    ET</span>
     
     </div>
 
@@ -277,8 +278,9 @@ hosting a retreat after hundreds who attended were infected.
 
 <div class="css-53u6y8">
 
-*This briefing has ended.* [*Click here for the latest
-updates.*](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html)
+Read our [live Coronavirus
+Pandemic](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html)
+coverage here.
 
 </div>
 
@@ -564,18 +566,13 @@ proposal.
 
 <div class="g-svelte" data-component="1">
 
-<div class="hp-curve-wrapper svelte-47k53u">
+<div class="dashboard svelte-1o1rjf3">
 
-<div class="hp-dashboard-title svelte-47k53u">
+## [Tracking the Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-[Tracking the
-Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+<div class="grid svelte-1o1rjf3">
 
-</div>
-
-<div class="hp-curves-wrapper svelte-47k53u">
-
-<div class="hp-section us-wrapper svelte-47k53u">
+<div class="section svelte-1o1rjf3">
 
 [](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
@@ -588,41 +585,28 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </colgroup>
 <thead>
 <tr class="header">
-<th><h3 id="united-states" class="heading-label svelte-47k53u">United States ›</h3></th>
-<th><h3 id="on-aug.-3" class="svelte-47k53u">On Aug. 3</h3></th>
-<th><h3 id="day-change" class="svelte-47k53u">14-day change</h3></th>
-<th><h3 id="trend" class="svelte-47k53u">Trend</h3></th>
+<th><strong>United States ›</strong></th>
+<th>On Aug. 3</th>
+<th>14-day<br />
+change</th>
+<th>Trend</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td><h4 id="section" class="svelte-47k53u">47,792</h4></td>
-<td><h4 id="section-1" class="svelte-47k53u">–9%</h4></td>
-<td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-<div class="chart mini-chart usa-chart chart-0 show-chart svelte-l6qvn7">
-<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
-<div class="line-chart-wrapper svelte-l6qvn7">
-<div class="pancake-chart svelte-1gzh5rp">
+<td>47,832</td>
+<td>-9%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #cc0000">
 
-</div>
-</div>
-</div>
 </div></td>
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td><h4 id="section-2" class="svelte-47k53u">602</h4></td>
-<td><h4 id="section-3" class="svelte-47k53u">+36%</h4></td>
-<td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-<div class="chart mini-chart usa-chart deaths-chart chart-0 show-chart svelte-l6qvn7">
-<a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
-<div class="line-chart-wrapper svelte-l6qvn7">
-<div class="pancake-chart svelte-1gzh5rp">
+<td>602</td>
+<td>+36%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #333">
 
-</div>
-</div>
-</div>
 </div></td>
 </tr>
 </tbody>
@@ -630,203 +614,98 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<div class="hp-section curves-chart-wrapper svelte-47k53u">
+<div class="section svelte-1o1rjf3">
 
-<div class="rising svelte-47k53u">
+<div class="rising">
 
 ### Where cases are **rising** fastest
 
-<div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
-
-<div class="chart mini-chart state-chart chart-0 rising-falling-chart show-chart svelte-l6qvn7">
+<div class="state-grid svelte-sxbviw">
 
 [](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">Hawaii</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-1 rising-falling-chart show-chart svelte-l6qvn7">
-
+Hawaii
 [](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">R.I.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-2 rising-falling-chart show-chart svelte-l6qvn7">
-
+R.I.
 [](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">N.J.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-3 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mass.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Neb.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-5 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mo.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
-
+N.J.
 [](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+Alaska
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">Alaska</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
+Neb.
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
 </div>
 
-<span class="state-name svelte-l6qvn7">Okla.</span>
+Mo.
+[](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-<div class="chart mini-chart state-chart chart-8 rising-falling-chart show-chart svelte-l6qvn7">
-
+Mass.
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+S.D.
+[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">S.D.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-9 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
-
-<span class="state-name svelte-l6qvn7">N.H.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
-
+P.R.
 [](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
-</div>
+Ill.
+[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<span class="state-name svelte-l6qvn7">Ill.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-11 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
+<div class="chart-container svelte-sxbviw">
 
 </div>
 
+Okla.
+[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
 </div>
 
-<span class="state-name svelte-l6qvn7">Mont.</span>
+Md.
 
 </div>
 
@@ -834,37 +713,22 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-</div>
+<div class="section svelte-1o1rjf3">
 
-<div class="hp-section maps svelte-47k53u">
-
-<div class="map-holder us-map svelte-47k53u">
+<div class="maps svelte-2bdny">
 
 [](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-### U.S. hot spots ›
-
-<div class="media-holder">
+### U.S. hot spots ›
 
 ![US coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-<div class="map-holder svelte-47k53u">
-
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
 [](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 
-### Worldwide ›
-
-<div class="media-holder">
+### Worldwide ›
 
 ![Worldwide coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_world-threeByTwoSmallAt2X.png)
-
-</div>
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -963,41 +827,43 @@ members.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T07:33:06.428Z
+Updated 2020-08-04T19:54:55.182Z
 
 </div>
 
 </div>
 
-  - [Fauci defends Birx after she is criticized by
-    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
-  - [Trump derides Democrats as lawmakers and administration officials
-    try to break stimulus
-    impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
-  - [The deadline for 2020 census counting has been moved up by a
-    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
+  - [Public and private schools in Maryland and elsewhere are divided
+    over in-person
+    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
+  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
+    over the
+    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
+  - [‘Long days, long nights’: Washington prepares for a prolonged fight
+    over virus
+    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -1729,7 +1595,7 @@ else.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -1741,7 +1607,31 @@ else.
 
 #### Frequently Asked Questions
 
-Updated August 3, 2020
+Updated August 4, 2020
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[that seems likely, for at least several
+        months.](https://www.nytimes.com/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
 
   - #### I’m a small-business owner. Can I get relief?
     
@@ -1814,30 +1704,10 @@ Updated August 3, 2020
         that involve spending some days in classrooms and other days
         online. There’s no national policy on this yet, so check with
         your municipal school system regularly to see what is happening
-        in your community.
+        in your
+community.
 
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 

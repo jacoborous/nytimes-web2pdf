@@ -149,14 +149,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -251,14 +251,21 @@ Guillemette</span>
 
 </div>
 
-  - July 31,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">11:21 a.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -372,9 +379,9 @@ optimistic.
 
 I doubt that mood lasted long, though. Since [our
 episode](https://www.nytimes.com/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-ran last Friday, 19 (19\!) players on the Miami Marlins have tested
-positive for Covid-19, and the team has suspended play. All of which,
-understandably, has [led to a lot of unease throughout the
+ran last Friday, at least 18 (18\!) players on the Miami Marlins have
+tested positive for Covid-19, and the team has suspended play. All of
+which, understandably, has [led to a lot of unease throughout the
 M.L.B.](https://www.nytimes.com/2020/07/28/sports/baseball/marlins-outbreak-mlb-coronavirus.html)
 and has put the season in some doubt. So who knows what’ll happen with
 baseball this year? At least I’ve still got the N.B.A. Go

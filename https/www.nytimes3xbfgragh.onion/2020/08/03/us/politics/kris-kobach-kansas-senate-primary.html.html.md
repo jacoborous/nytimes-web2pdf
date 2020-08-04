@@ -82,8 +82,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Kansas
-Senate Primary Has Arrived, and the Anxiety Over Kobach Is
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">The
+Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is
 High</span>
 
 </div>
@@ -189,7 +189,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
+# The Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
 
 </div>
 
@@ -241,8 +241,9 @@ Glueck</span>](https://www.nytimes3xbfgragh.onion/by/katie-glueck)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">9:16 a.m.
+    ET</span>
     
     </div>
 
@@ -250,7 +251,7 @@ Glueck</span>](https://www.nytimes3xbfgragh.onion/by/katie-glueck)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -278,8 +279,9 @@ Glueck</span>](https://www.nytimes3xbfgragh.onion/by/katie-glueck)
 <div class="css-53u6y8">
 
 Republican anxieties about control of the Senate are reaching new
-heights this week as the Kansas Senate primary hurdles to a close, amid
-[fears in
+heights this week as the [Kansas Senate
+primary](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+hurtles to a close, amid [fears in
 Washington](https://www.nytimes3xbfgragh.onion/2020/07/30/us/politics/kansas-senate-kobach-trump.html)
 that the firebrand candidate and staunch Trump supporter Kris Kobach
 could win the nomination but lose a longtime red seat in November.

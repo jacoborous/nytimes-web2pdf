@@ -176,6 +176,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Caribbean Dilemma
+    
+    Many islands are open to American travelers. Going could mean
+    bringing coronavirus to places ill prepared to deal with it. Not
+    going could mean deepening economic woes. How do you choose?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nina
+    Burleigh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
     
     <div class="css-79elbk">
@@ -189,8 +224,8 @@ story](#after-sponsor)
     ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
     
     Ms. Pedro was a leader of Brazil’s Macuxi people and carried a
-    message of alarm for their fate to Pope Francis in 2018. She died of
-    the novel coronavirus.
+    message of alarm for their fate to Pope Francis. She died of the
+    novel coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -207,7 +242,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -244,7 +279,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -280,7 +315,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -315,7 +350,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -356,7 +391,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -399,7 +434,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -435,7 +470,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -470,7 +505,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -493,43 +528,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/americas/brazil-trump-ethanol-chapman.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/world/31brazil/merlin_175082043_1d8c79a7-ecda-45a1-be27-2a6be6ea4144-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Lawmakers ‘Alarmed’ by Reports U.S. Envoy Told Brazil It Could Help Re-elect Trump
-    
-    The House Foreign Affairs Committee has begun an inquiry into
-    multiple reports in the Brazilian media that the U.S. ambassador was
-    framing negotiations over ethanol tariffs in partisan terms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ernesto Londoño, Manuela Andreoni
-    <span>and</span> Letícia Casado</span>
+    By <span class="css-1n7hynb">Ian Austen</span>
     
     </div>
     

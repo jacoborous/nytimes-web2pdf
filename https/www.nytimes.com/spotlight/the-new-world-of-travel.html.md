@@ -525,6 +525,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Summer Recreation? It’s Backordered
+    
+    Americans seeking outdoor getaways in the pandemic bought up all the
+    pools, tents, kayaks and trampolines.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Herrman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/travel/virus-college-travel-restrictions.html)
     
     <div class="css-79elbk">

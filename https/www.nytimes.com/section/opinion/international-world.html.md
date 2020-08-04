@@ -174,6 +174,49 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Por que os brasileiros deveriam ter medo do gabinete do ódio
+    
+    O presidente Jair Bolsonaro e seus aliados têm espalhado o ódio
+    online contra as instituições que protegem a democracia. Agora, essa
+    cólera está transbordando para as ruas.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Patrícia Campos Mello</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html "Read in English")[Leer
+    en
+    español](https://www.nytimes.com/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
     
     <div class="css-79elbk">
@@ -202,7 +245,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -242,7 +285,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +319,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +354,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +389,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +422,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -419,7 +462,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -453,7 +496,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -474,48 +517,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maeve
-    Higgins</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/opinion/coronavirus-china-us.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/opinion/20YiRao/20YiRao-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## My Relatives in Wuhan Survived. My Uncle in New York Did Not.
-    
-    My father, a Chinese pulmonologist, believes his brother could have
-    been saved.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Yi
-    Rao</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/opinion/20200723/coronavirus-china-us/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200723/coronavirus-china-us/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Maeve Higgins</span>
     
     </div>
     

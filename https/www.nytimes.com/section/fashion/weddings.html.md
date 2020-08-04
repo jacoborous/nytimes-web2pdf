@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-weddings" class="section css-15h4p1b e9abtgs0">
 
@@ -137,10 +161,28 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
-    Shrewsbury</span>](https://static01.nyt.com/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
+    
+    Despite precautions, the coronavirus has swept through a number of
+    weddings, large and small, infecting guests and
+    vendors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
+    Shrewsbury</span>](https://static01.nyt.com/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### vows
     
@@ -157,7 +199,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -175,7 +217,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
     A. Alvarado Jr. for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/26/fashion/24Vows-ModelActivist1/merlin_173908452_121834c5-2ab7-4830-bedd-1c85133e89a7-videoLarge.jpg)
     
@@ -196,12 +238,18 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### First Person
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Godeassi</span>](https://static01.nyt.com/images/2020/07/10/fashion/00NOT-ENGAGED/00NOT-ENGAGED-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### First Person
     
     ## [Me, My Relationship and PTSD](/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
     
@@ -215,13 +263,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Matija
     Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
@@ -238,7 +280,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Malina
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Malina
     Omut</span>](https://static01.nyt.com/images/2020/08/02/fashion/18SurvivingFirstYear-art/18SurvivingFirstYear-art-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -254,7 +296,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Field Notes
+4.  ### Field Notes
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Claudi
     Kessels</span>](https://static01.nyt.com/images/2020/07/23/fashion/23WeddingCakeFreeze-Art/23WeddingCakeFreeze-Art-videoLarge.jpg)
@@ -273,7 +315,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ### vows
+5.  ### vows
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
     Westervelt for The New York
@@ -291,26 +333,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Vincent M.
     Mallozzi</span></span>
-    
-    </div>
-
-5.  ### It’s no secret
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
-    Luong for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/26/fashion/18NoSecret-BresciaPollian1/18NoSecret-BresciaPollian1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Exploring Their Own Paths Together](/2020/07/18/fashion/weddings/exploring-their-own-paths-together.html)
-    
-    Bonnie Brescia and Jeanette Poillon remain each other’s lifelines,
-    even though both admit that they are polar
-    opposites.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alix
-    Strauss</span></span>
     
     </div>
 
@@ -1096,6 +1118,40 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
+    
+    The pandemic has devastated the industry. But some entrepreneurs are
+    finding creative ways to keep their businesses afloat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julie
+    Creswell</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/fashion/weddings/a-romance-blooms-in-nebraska.html)
     
     <div class="css-79elbk">
@@ -1124,7 +1180,7 @@ story](#after-mid4)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1158,7 +1214,7 @@ story](#after-mid4)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1192,7 +1248,7 @@ story](#after-mid4)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1226,7 +1282,7 @@ story](#after-mid4)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1261,7 +1317,7 @@ story](#after-mid4)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1295,7 +1351,7 @@ story](#after-mid4)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1329,7 +1385,7 @@ story](#after-mid4)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1363,7 +1419,7 @@ story](#after-mid4)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1385,41 +1441,7 @@ story](#after-mid4)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Abby
-    Ellin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/fashion/weddings/love-marriage-sex-not-necessarily-in-that-order.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/fashion/26Bailiff/26Bailiff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Love, Marriage, Sex. (Not Necessarily in That Order.)
-    
-    Susie Bright and Jon Bailiff met in 1988. Now, after 32 years
-    together, they took the advice of a lawyer and got married.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Louise Rafkin</span>
+    By <span class="css-1n7hynb">Abby Ellin</span>
     
     </div>
     

@@ -198,15 +198,30 @@ Home](https://nytimesads.gtspayments.com/)
     </div>
 
 2.  1.  <span class="css-1dv1kvn">Photo</span>
+        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sarah
+        Kobos</span>
+        <div class="css-1r9cexg">
+        <div class="css-1ox3lt4">
+        [![](https://static01.nyt.com/images/2020/08/04/realestate/04wirecutter-outdoors5/04wirecutter-outdoors5-thumbStandard.jpg)](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
+        </div>
+        ## [5 Things You Need to Upgrade Your Tiny Outdoor Space](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
+        It’s never been more important to make your balcony, terrace, or
+        patch of cement cozy and hospitable. Here’s
+        how.
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dorie
+        Chevlen</span></span>
+        </div>
+    2.  <span class="css-1dv1kvn">Photo</span>
         <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
         Ukmar for The New York
         Times</span>
         <div class="css-1r9cexg">
         <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbStandard.jpg)](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+        [![](https://static01.nyt.com/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbStandard.jpg)](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
         </div>
         ### What I Love
-        ## [Harris Faulkner, Working From Home in Shades of Blue](/2020/08/04/realestate/harris-faulkner-working-from-home-in-shades-of-blue.html)
+        ## [Harris Faulkner, Working From Home in Shades of Blue](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
         The Fox News anchor’s mother gave her some decorating advice:
         ‘Just make it beautiful.’ And she’s been
         trying.
@@ -214,7 +229,7 @@ Home](https://nytimesads.gtspayments.com/)
         <span class="css-1baulvz last-byline" itemprop="name">Joanne
         Kaufman</span></span>
         </div>
-    2.  <span class="css-1dv1kvn">Photo</span>
+    3.  <span class="css-1dv1kvn">Photo</span>
         <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
         Photos</span>
         <div class="css-1r9cexg">
@@ -229,23 +244,6 @@ Home](https://nytimesads.gtspayments.com/)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Angela
         Serratore</span></span>
-        </div>
-    3.  <span class="css-1dv1kvn">Photo</span>
-        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
-        Marks for The New York
-        Times</span>
-        <div class="css-1r9cexg">
-        <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/08/03/realestate/03renters1/03renters1-thumbStandard.jpg)](/2020/08/03/realestate/coronavirus-roommate-renters.html)
-        </div>
-        ### renters
-        ## [The Challenge: Finding a Roommate During a Pandemic](/2020/08/03/realestate/coronavirus-roommate-renters.html)
-        With social distancing required, two new roommates discovered,
-        it’s a little like marrying someone before you
-        meet.
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Kim
-        Velsey</span></span>
         </div>
 
 </div>

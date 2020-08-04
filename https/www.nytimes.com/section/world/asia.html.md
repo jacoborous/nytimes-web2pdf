@@ -176,6 +176,113 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/16/world/00pakistan-hindus1/00pakistan-hindus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
+    
+    Drawn by jobs or land offered by Muslim groups, some Hindus, facing
+    discrimination and a virus-ravaged economy, are essentially
+    converting to survive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
+    ur-Rehman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/australia/sos-pacific-island.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand
+    
+    Three days after their boat ran out of fuel and drifted off course
+    in Micronesia, the men were found in good condition after a plane
+    saw their giant plea for help spelled out on the sand.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elian
+    Peltier</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">feature</span>
+    
+    ## Behrouz Boochani Just Wants to Be Free
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
     
     <div class="css-79elbk">
@@ -203,7 +310,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +344,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +379,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +414,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -348,7 +455,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -381,7 +488,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -405,114 +512,6 @@ story](#after-sponsor)
     
     By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
     Mashal</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
-    
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study found.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
-    
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/iran-khamenei-us-sanctions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/world/01iran01/01iran01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Iran Will Expand Nuclear Program and Won’t Talk to U.S., Ayatollah Says
-    
-    In a televised speech, Ayatollah Ali Khamenei, Iran’s supreme
-    leader, said that negotiating with Washington over his country’s
-    nuclear program would only help President Trump get re-elected.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Farnaz Fassihi</span>
     
     </div>
     

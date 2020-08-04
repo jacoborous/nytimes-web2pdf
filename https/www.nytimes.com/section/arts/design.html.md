@@ -157,104 +157,103 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kerry
-    James Marshall and David
-    Zwirner</span>](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leo
+    Villareal and Illuminate; James
+    Ewing</span>](https://static01.nyt.com/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbStandard.jpg)](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+    [![](https://static01.nyt.com/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-thumbStandard.jpg)](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
     
     </div>
     
-    ## [Kerry James Marshall’s Black Birds Take Flight in a New Series](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+    ## [Will Superblue Be the ‘Infinity Room’ Writ Large?](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
     
-    Inspired by John James Audubon, the painter explores the societal
-    “pecking order” in two works that dovetail with “this mystery
-    about whether or not Audubon himself was
-    Black.”
+    Art objects are a bore. People want multisensory “experiences,” the
+    more immersive the better. With JR, James Turrell, teamLab and more,
+    a new business venture funded by Marc Glimcher and Laurene Powell
+    Jobs hopes to
+    deliver.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ted
-    Loos</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Frank
+    Rose</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann/Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.nyt.com/images/2020/08/04/arts/04pulldown3/04pulldown3-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbStandard-v2.jpg)](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
+    [![](https://static01.nyt.com/images/2020/08/04/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
     
     </div>
     
-    ### Critic’s Notebook
+    ## [Turmoil After a Museum Deletes ‘Black Lives Matter’ From Postings](/2020/08/04/arts/design/seattle-childrens-museum.html)
     
-    ## [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
-    
-    The world’s elite athletes would have been in Tokyo right now if not
-    for the coronavirus pandemic. When they went half a century ago,
-    they discovered a capital transformed by
-    design.
+    The director of the Seattle Children’s Museum faced a strike and an
+    internal inquiry after she edited staff postings, citing
+    fund-raising and other
+    concerns.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Farago</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julia
+    Jacobs</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Piotr
-        Redlinski for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/01/arts/31hagia-1/31hagia-1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann/Getty
+        Images</span>](https://static01.nyt.com/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-videoLarge-v2.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
+        ### Critic’s Notebook
+        
+        ## [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/01/arts/31hagia-1/31hagia-1-thumbStandard.jpg)](/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
+        [![](https://static01.nyt.com/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbStandard-v2.jpg)](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
         
         </div>
         
-        Bissera Pentcheva used virtual acoustics to bring Istanbul to
-        California and reconstruct the sonic world of Byzantine
-        cathedral
-        music.
+        The world’s elite athletes would have been in Tokyo right now if
+        not for the coronavirus pandemic. When they went half a century
+        ago, they discovered a capital transformed by
+        design.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Corinna da
-        Fonseca-Wollheim</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jason
+        Farago</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kerry
+        James Marshall and David
+        Zwirner</span>](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Surfacing
-        
-        ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+        ## [Kerry James Marshall’s Black Birds Take Flight in a New Series](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbStandard.png)](/2020/08/01/arts/design/virus-design-objects.html)
+        [![](https://static01.nyt.com/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbStandard.jpg)](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
         
         </div>
         
-        The pandemic has inspired a flurry of new and novel items — and
-        given ordinary ones new
-        meanings.
+        Inspired by John James Audubon, the painter explores the
+        societal “pecking order” in two works that dovetail with “this
+        mystery about whether or not Audubon himself was
+        Black.”
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Sophie Haigney</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Peter
-        Arkle</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Ted
+        Loos</span></span>
         
         </div>
 
@@ -264,44 +263,62 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-    photo by Alexander
-    Nemenov</span>](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dylan
+    Martinez/Reuters</span>](https://static01.nyt.com/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+    ## [Sotheby’s Reports $2.5 Billion in Sales](/2020/08/03/arts/design/sothebys-sales.html)
     
-    Congressional investigators said companies tied to two Russians
-    under sanctions were able to buy art using shell companies and an
-    intermediary.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts
+    say.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Graham
-    Bowley</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Scott
+    Reyburn</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Van
-    Gogh
-    Museum</span>](https://static01.nyt.com/images/2020/07/30/arts/28van-gogh2/28van-gogh2-videoLarge-v2.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Piotr
+    Redlinski for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/arts/31hagia-1/31hagia-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Clue to van Gogh’s Final Days Is Found in His Last Painting](/2020/07/28/arts/design/vincent-van-gogh-tree-roots.html)
+    ## [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
     
-    A researcher says he has uncovered the precise location where the
-    artist painted “Tree Roots,” thought to be the last piece he worked
-    on the day he suffered a fatal gunshot
-    wound.
+    Bissera Pentcheva used virtual acoustics to bring Istanbul to
+    California and reconstruct the sonic world of Byzantine cathedral
+    music.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nina
-    Siegal</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Corinna da
+    Fonseca-Wollheim</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+3.  ### Surfacing
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+    
+    The pandemic has inspired a flurry of new and novel items — and
+    given ordinary ones new
+    meanings.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Peter
+    Arkle</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Serar</span>](https://static01.nyt.com/images/2020/07/30/arts/29doylelane14/29doylelane14-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -315,29 +332,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jonathan
     Griffin</span></span>
-    
-    </div>
-
-4.  ### Art Reviews
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nasreen
-    Mohamedi, via the artist's estate and Talwar
-    Gallery</span>](https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Three Art Gallery Shows to See Right Now](/2020/07/30/arts/design/virtual-art-gallery-shows.html)
-    
-    Galleries and museums are getting creative about presenting work
-    online during the pandemic. Some are open for in-person visits. Here
-    are shows worth viewing either
-    way.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Roberta Smith</span>,
-    <span class="css-1baulvz" itemprop="name">Jillian Steinhauer</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Martha
-    Schwendener</span></span>
     
     </div>
 
@@ -415,24 +409,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/design/sothebys-sales.html)
+    [](/2020/08/04/style/self-care/press-on-nails.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Sotheby’s Reports $2.5 Billion in Sales
+    ## Clickety Clack, Press-On Nails Are Back
     
-    The auction house says that figure reflects a “resilient” market
-    amid the coronavirus. But it represents a 25 percent decrease in
-    auction sales, analysts say.
+    The onetime ’80s mass-market cheapie has gotten an artisanal upgrade
+    — just in time for quarantine home manicures.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Scott
-    Reyburn</span>
+    By <span class="css-1n7hynb">Jackie
+    Snow</span>
     
     </div>
     
@@ -659,6 +652,44 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/30/arts/design/virtual-art-gallery-shows.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Art Reviews</span>
+    
+    ## Three Art Gallery Shows to See Right Now
+    
+    Galleries and museums are getting creative about presenting work
+    online during the pandemic. Some are open for in-person visits. Here
+    are shows worth viewing either way.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roberta Smith, Jillian Steinhauer
+    <span>and</span> Martha
+    Schwendener</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/arts/national-endowment-for-the-humanities-grants.html)
     
     <div class="css-79elbk">
@@ -687,63 +718,29 @@ story](#after-mid1)
     
     </div>
 
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/arts/design/sothebys-banksy-rembrandt.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/arts/28sothebys-item1/28sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Banksy and Rembrandt Boost Sotheby’s Sale to $192.7 Million
-    
-    The auction house held a livestream sale of 65 artworks from seven
-    centuries titled “Rembrandt to Richter.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Scott
-    Reyburn</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/arts/design/national-museum-of-the-american-latino.html)
+    [](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/arts/28LATMUSEUM1/28LATMUSEUM1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## House Votes to Create a National Museum of the American Latino
+    ## Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions
     
-    Plans for a museum devoted to the history and contributions of
-    Latinos in the United States began forming in the 2000s, but
-    legislation had not gained traction in Congress until now.
+    Congressional investigators said companies tied to two Russians
+    under sanctions were able to buy art using shell companies and an
+    intermediary.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia Jacobs</span>
+    By <span class="css-1n7hynb">Graham Bowley</span>
     
     </div>
     

@@ -192,6 +192,149 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/australia/sos-pacific-island.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand
+    
+    Three days after their boat ran out of fuel and drifted off course
+    in Micronesia, the men were found in good condition after a plane
+    saw their giant plea for help spelled out on the sand.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elian
+    Peltier</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion
+    
+    Melbourne, Australia’s second-largest city, is becoming a case study
+    in handling a second wave of infections. There are lots of
+    unanswered questions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">feature</span>
+    
+    ## Behrouz Boochani Just Wants to Be Free
+    
+    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
+    detention camps — from the inside. He survived, stateless, for seven
+    years. What’s next?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Megan K.
+    Stack</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Sydney Dispatch</span>
+    
+    ## Taking a Spear Into the Sea, and Washing Anxiety Away
+    
+    I kept seeing people in Sydney carry spearguns to and from the
+    ocean. To understand why, I held my breath and dived in.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/world/australia/100000007269116/coronavirus-restrictions-melbourne.html)
     
     <div class="css-79elbk">
@@ -223,7 +366,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -260,7 +403,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -296,7 +439,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -331,7 +474,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -372,7 +515,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -394,154 +537,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Livia
-    Albeck-Ripka</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/world/australia/divisions-decency-and-the-plague.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24australialetter-northernnsw/merlin_142321659_e1a5f92d-6b22-416b-87d0-17ac716cd29e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letter 168</span>
-    
-    ## Divisions, Decency and ‘The Plague’
-    
-    What should we do about the uneven distribution of pandemic
-    consequences?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Damien
-    Cave</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/world/australia/lawsuit-climate-change-bonds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/world/23oz-climate-suit1/23oz-climate-suit1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Australian Student Sues Government Over Financial Risks of Climate Change
-    
-    A 23-year-old law student filed a class-action suit accusing
-    Australia of failing to disclose financial risks from climate
-    change. Experts say it is the first of its kind.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/health/covid-antibodies-herd-immunity.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/science/00VIRUS-REINFECTION1/00VIRUS-REINFECTION1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Can You Get Covid-19 Again? It’s Very Unlikely, Experts Say
-    
-    Reports of reinfection instead may be cases of drawn-out illness. A
-    decline in antibodies is normal after a few weeks, and people are
-    protected from the coronavirus in other ways.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva Mandavilli</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/07/24/espanol/ciencia-y-tecnologia/reinfeccion-coronavirus.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/world/australia/melbourne-lockdown-readers.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/world/17ausletter167-1/17ausletter167-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Letter 167</span>
-    
-    ## Melbourne Lockdown Elicits Hope, Anger and Vows of Resilience
-    
-    Readers respond to the situation in Australia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Besha Rodell</span>
+    By <span class="css-1n7hynb">Livia Albeck-Ripka</span>
     
     </div>
     

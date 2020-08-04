@@ -145,15 +145,16 @@ aire</span>
 de</span><span class="css-1pje3qr">
 coronavirus</span></span>](https://www.nytimes.com/es/spotlight/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [Mapa y casos en EE.
-    UU.](https://www.nytimes.com/es/interactive/2020/espanol/mundo/coronavirus-en-estados-unidos.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Dióxido de cloro, ivermectina y más:
-    ¿funcionan?](https://www.nytimes.com/es/2020/07/23/espanol/america-latina/bolivia-cloro-coronavirus-ivermectina.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Mapa y casos en
+    México](https://www.nytimes.com/es/interactive/2020/espanol/america-latina/coronavirus-en-mexico.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Los niños y el
+    virus](https://www.nytimes.com/es/2020/07/31/espanol/ciencia-y-tecnologia/ninos-contagio-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Fármacos y
     tratamientos](https://www.nytimes.com/es/interactive/2020/science/coronavirus-tratamientos-curas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Anticuerpos e
-    inmunidad](https://www.nytimes.com/es/2020/07/28/espanol/ciencia-y-tecnologia/anticuerpos-coronavirus-inmunidad.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Oxímetros](https://www.nytimes.com/es/2020/04/29/espanol/estilos-de-vida/oximetro-para-que-sirve.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Cómo se transmite el
+    coronavirus](https://www.nytimes.com/es/2020/07/06/espanol/ciencia-y-tecnologia/coronavirus-transmision-aire.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Prepara tu
+    botiquín](https://www.nytimes.com/es/2020/07/14/espanol/estilos-de-vida/botiquin-medicina-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 

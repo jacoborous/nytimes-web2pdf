@@ -146,6 +146,256 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05campos/04campos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Brazil’s Troll Army Moves Into the Streets
+    
+    President Jair Bolsonaro and his allies have seeded online hatred
+    against the institutions that defend democracy. Now the outrage is
+    spilling beyond the internet.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Patrícia Campos Mello</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Ler em
+    português](https://www.nytimes3xbfgragh.onion/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html "Read in Portuguese")[Leer
+    en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/covid-rural-hospitals.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Lamas/04Lamas-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘If I Hadn’t Been Transferred, I Would Have Died’
+    
+    Conversations about death from Covid-19 revolve around patient
+    characteristics. But hospitals matter, too.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Daniela J.
+    Lamas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Fixes2/04Fixes2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Fixes</span>
+    
+    ## Using Telemedicine to Treat Opioid Addiction
+    
+    Getting medication long meant seeing a licensed provider. Now a
+    strategy for evading Covid-19 makes treatment available via the web.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tina
+    Rosenberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05Wu/04Wu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
+    
+    Theatrics distracted from the real payoff of the congressional
+    hearings: the subpoenaed documents.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tim
+    Wu</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/30Hunter1/30Hunter1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Voting Isn’t Everything
+    
+    Stop minimizing the work of movements.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Daniel
+    Hunter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+    
+    Government of the minority, chosen by a minority, on behalf of a
+    minority, is not what Lincoln had in mind at Gettysburg.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jamelle
+    Bouie</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04stone/04stone-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">THE STONE</span>
+    
+    ## We Need a Monument to the Unknown America
+    
+    A memorial makes a statement about who is worth preserving. Why not
+    a sacred and beautiful nothingness?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ed
+    Simon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
     
     <div class="css-79elbk">
@@ -174,7 +424,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -208,7 +458,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -230,257 +480,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Chuck
-    Lovell</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03drew1/03drew1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Let’s Scrap the Presidential Debates
-    
-    They’ve become unrevealing quip contests.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Elizabeth
-    Drew</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03keyssarWeb/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Has the Electoral College Survived for This Long?
-    
-    Resistance to eliminating it has long been connected to the idea of
-    white supremacy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alexander Keyssar</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04mounzer/03mounzer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## We Lebanese Thought We Could Survive Anything. We Were Wrong.
-    
-    The myth of their resilience helped the Lebanese function despite a
-    miserably corrupt and inept state. No longer.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lina
-    Mounzer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/feral-cat-dying.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31renklWeb/31renklWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Death of a Cat
-    
-    For weeks, I have been trying to understand my own tears in the
-    presence of a dying creature I did not love.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Margaret
-    Renkl</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/03deanWeb/03deanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.
-    
-    Scientists need to show us the data. And that’s exactly what they’re
-    working on.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Natalie
-    Dean</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
-    
-    Microsoft wants to buy the Chinese app, and the administration needs
-    to get out of the way.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kara
-    Swisher</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/biden-child-care.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Covert/02Covert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden’s Quietly Radical Care Plan
-    
-    The candidate is talking about child care and elder care in the same
-    breath, and making them part of his economic package. Both changes
-    are long overdue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bryce Covert</span>
+    By <span class="css-1n7hynb">Chuck Lovell</span>
     
     </div>
     

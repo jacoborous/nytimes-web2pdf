@@ -184,6 +184,40 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04Fixes2/04Fixes2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Using Telemedicine to Treat Opioid Addiction
+    
+    Getting medication long meant seeing a licensed provider. Now a
+    strategy for evading Covid-19 makes treatment available via the web.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tina
+    Rosenberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/07/opinion/gig-economy-immigrants-fair-wage.html)
     
     <div class="css-79elbk">
@@ -212,7 +246,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -246,7 +280,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -280,7 +314,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +348,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +383,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +418,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -419,7 +453,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -454,7 +488,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -472,40 +506,6 @@ story](#after-sponsor)
     
     The Iraqi comedian’s TV show is fueling demonstrations in his home
     country.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tina
-    Rosenberg</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2019/12/17/opinion/spread-hope-2019.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2019/12/17/opinion/17Fixes1/merlin_148870704_bf85554a-5701-4e7b-b19f-fcc2f9db69bd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Five Who Spread Hope in 2019
-    
-    In a year of many dispiriting headlines, Fixes still found the
-    better angels of human nature at work.
     
     <div class="css-1nqbnmb ea5icrr0">
     

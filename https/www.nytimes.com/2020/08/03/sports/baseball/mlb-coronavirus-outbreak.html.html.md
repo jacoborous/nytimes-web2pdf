@@ -195,7 +195,7 @@ on baseball
 
 </div>
 
-Series have been postponed, teams have been quarantined and road trips
+Series have been postponed, teams have been quarantined, and road trips
 have been rerouted in a season that has been defined above all by its
 precariousness.
 
@@ -232,14 +232,21 @@ Kepner</span>](https://www.nytimes.com/by/tyler-kepner)
 
 </div>
 
-  - Aug. 3,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">2:03 p.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -369,6 +376,61 @@ over and over again. In terms of giving them warnings, they’ve seen it.
 It comes down to discipline. I don’t think there’s any secret formula
 for a team to be successful through this. You have to be extremely
 disciplined.”
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1595872471455" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div>
+
+### The Games Resume
+
+#### Sports and the Virus
+
+Updated Aug. 4, 2020
+
+Here’s what’s happening as the world of sports slowly comes back to
+life:
+
+  -   - As the virus spreads through baseball, [so does
+        frustration](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+        Series have been postponed, teams have been quarantined and road
+        trips have been rerouted in a season that has been defined above
+        all by its precariousness.
+      - On all but the two biggest courts, automated line calls [will
+        replace human
+        judges](https://www.nytimes.com/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        at the U.S. Open to reduce the number of people on site during
+        the pandemic.
+      - Mets star Yoenis Cespedes is healthy, but [has decided to opt
+        out](https://www.nytimes.com/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of the 2020 baseball season for Covid-related reasons.
+
+<div id="styln-survey-component-29614" class="styln-survey-component">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 The Marlins’ infected players took a bus home to Miami over the weekend,
 before the rest of the team left Philadelphia — at last — for Baltimore

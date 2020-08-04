@@ -234,8 +234,9 @@ Tompkins</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">10:11 a.m.
+    ET</span>
     
     </div>
 
@@ -243,7 +244,7 @@ Tompkins</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -272,7 +273,9 @@ Tompkins</span>
 
 ATLANTA — Tens of millions of Americans were warned on Monday to brace
 themselves for the threat of flooding, power outages and downed trees as
-Hurricane Isaias intensified while moving up the Atlantic Coast.
+[Hurricane
+Isaias](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html)
+intensified while moving up the Atlantic Coast.
 
 On the coast of the Carolinas, residents were preparing for the Category
 1 storm’s arrival on Monday night, boarding up their windows and
@@ -299,12 +302,13 @@ other safe from the wind and water as well as from the virus.”
 
 <div class="css-53u6y8">
 
-Isaias, which is written as Isaías in Spanish and pronounced
-ees-ah-EE-ahs, strengthened back into a hurricane on Monday night before
-making landfall near Ocean Isle Beach, N.C., at about 11:10 p.m.
-Eastern. A hurricane warning was issued from the South Santee River in
-South Carolina to Surf City, N.C., a region that includes Myrtle Beach,
-S.C.
+Isaias, which is written as
+[Isaías](https://www.nytimes3xbfgragh.onion/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
+in Spanish and pronounced ees-ah-EE-ahs, strengthened back into a
+hurricane on Monday night before making landfall near Ocean Isle Beach,
+N.C., at about 11:10 p.m. Eastern. A hurricane warning was issued from
+the South Santee River in South Carolina to Surf City, N.C., a region
+that includes Myrtle Beach, S.C.
 
 The eastern Carolinas and Virginia may get three to six inches of rain,
 with isolated areas receiving up to eight inches. Significant flash
@@ -312,10 +316,11 @@ floods and urban flooding can be expected through the middle of the
 week, and widespread minor to moderate river flooding is possible.
 Tropical-force winds and heavy rain were also expected to hit Maryland.
 
-The Middle Atlantic States, southeastern New York and New England can
-expect a few inches of rain. Tropical storm warnings and watches were in
-effect Monday night all the way up the Eastern Seaboard, including in
-Martha’s Vineyard, Mass., and Stonington, Maine.
+The Middle Atlantic States, southeastern [New
+York](https://www.nytimes3xbfgragh.onion/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
+and New England can expect a few inches of rain. Tropical storm warnings
+and watches were in effect Monday night all the way up the Eastern
+Seaboard, including in Martha’s Vineyard, Mass., and Stonington, Maine.
 
 </div>
 

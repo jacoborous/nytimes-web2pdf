@@ -83,7 +83,7 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Music](/section/arts/music)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Leon
-Fleisher, 92, Dies; Spellbinding Pianist With One Hand or
+Fleisher, 92, Dies; Spellbinding Pianist Using One Hand or
 Two</span>
 
 </div>
@@ -189,13 +189,13 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two
+# Leon Fleisher, 92, Dies; Spellbinding Pianist Using One Hand or Two
 
 </div>
 
 Unable to use his right hand, he performed pieces written for left hand
-only, conducted and taught. After 30 years, he made a triumphant
-two-handed comeback.
+only, conducted and taught. Years later, he made a triumphant two-handed
+comeback.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -211,7 +211,7 @@ with his right hand for 30 years, he performed pieces written for the
 left hand only until
 1995.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Stephanie
 Kuykendal for The New York
-Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/08/29/obituaries/00fleisher1/merlin_18504701_f19acbe9-202c-4815-bd7c-0e86390beb86-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/00fleisher1/merlin_18504701_f19acbe9-202c-4815-bd7c-0e86390beb86-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -230,8 +230,14 @@ Kozinn</span>](https://www.nytimes3xbfgragh.onion/by/allan-kozinn)
 
 </div>
 
-  - Aug. 2,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 2,
     2020
+    
+    </div>
 
   - 
     
@@ -267,26 +273,24 @@ Kozinn</span>](https://www.nytimes3xbfgragh.onion/by/allan-kozinn)
 Leon Fleisher, a leading American pianist in the 1950s and early ’60s
 who was forced by an injury to his right hand to channel his career into
 conducting, teaching and mastering the left-hand repertoire, died on
-Sunday in a hospice in Baltimore.<span class="css-8l6xbc evw5hdy0">
-</span>He was 92.
+Sunday in Baltimore. He was 92.
 
-His death was confirmed by his son Julian, who said he was still
-teaching and conducting master classes as recently as last week.
+His death, in a hospice, was confirmed by his son Julian, who said that
+Mr. Fleisher had been teaching and conducting master classes online as
+recently as last week.
 
 Mr. Fleisher came to believe that his career-altering malady, focal
 dystonia, was caused by overpracticing — “seven or eight hours a day of
-pumping ivory,” as he told The New York Times in a 1996 interview — and
-for 30 years he tried virtually any cure that looked promising,
-including shots of lidocaine, rehabilitation therapy, psychotherapy,
-shock treatments, Rolfing and EST. At times, he later said, he was so
-despondent that he considered suicide.
+pumping ivory,” as he told The New York Times in 1996 — and for 30 years
+he tried virtually any cure that looked promising: shots of lidocaine,
+rehabilitation therapy, psychotherapy, shock treatments, Rolfing, EST.
+At times, he said, he was so despondent that he considered suicide.
 
-But he also realized that the musicality and incisiveness that had been
-so widely admired in his early years could be mined in other ways. He
-had joined the faculty of the Peabody Conservatory, in Baltimore, in
-1959, and he devoted himself more fully to teaching, both at Peabody and
-at the Tanglewood Music Center, where he was artistic director from 1986
-to 1997.
+But he realized that the musicality and incisiveness that had been so
+widely admired in his early years could be mined in other ways. Joining
+the faculty of the Peabody Conservatory, in Baltimore, in 1959, he
+devoted himself more fully to teaching, both there and at the Tanglewood
+Music Center, where he was artistic director from 1986 to 1997.
 
 </div>
 
@@ -296,12 +300,12 @@ to 1997.
 
 <div class="css-53u6y8">
 
-He also made his way through the estimable catalog of works composed by
-Ravel, Prokofiev and many others for the pianist Paul Wittgenstein (the
-brother of the philosopher Ludwig Wittgenstein), who lost his right arm
-during World War I, and commissioned new left-hand works from American
-composers. He helped start the Theater Chamber Players in Washington.
-And he began conducting.
+He made his way through the estimable left-hand catalog of works
+composed by Ravel, Prokofiev and many others for the pianist Paul
+Wittgenstein (the brother of the philosopher Ludwig Wittgenstein), who
+had lost his right arm during World War I, and commissioned new
+left-hand works from American composers. He helped start the Theater
+Chamber Players in Washington. And he began conducting.
 
 </div>
 
@@ -320,7 +324,7 @@ Fleisher performing at Carnegie Hall in 1995. He recorded spellbinding
 performances of the peaks of the left-hand repertoire in the
 1990s.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Steve
 J. Goldstein for The New York
-Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/Fleisher-2/merlin_9068922_c7b55747-d4eb-465b-bf57-f1a76b484386-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/obituaries/Fleisher-2/merlin_9068922_c7b55747-d4eb-465b-bf57-f1a76b484386-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -333,13 +337,13 @@ Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/o
 Eventually, a combination of Rolfing — a deep massage technique — and
 Botox injections provided sufficient relief that he was able to resume
 his career as a two-handed pianist in 1995. He continued to play
-recitals and concertos, and to make recordings, until last year.
+recitals and concertos and to make recordings until last year.
 
-Mr. Fleisher often pointed out after his comeback that he was not, and
-never would be, fully cured. But he also acknowledged, late in life,
-that the incapacitation of his right hand in 1964 ultimately gave him a
-far more varied musical life than he might have had if he had been able
-to pursue a conventional career as a virtuoso pianist.
+Mr. Fleisher pointed out after his comeback that he was not fully cured
+and never would be. But he acknowledged late in life that the
+incapacitation of his right hand in 1964 had given him a far more varied
+musical life than he might have had if he had been able to pursue a
+conventional career as a virtuoso pianist.
 
 That realization is implicit in the title of his autobiography, “My Nine
 Lives: A Memoir of Many Careers in Music” (2010), which he wrote with
@@ -353,18 +357,17 @@ the music critic Anne Midgette.
 
 <div class="css-53u6y8">
 
-Early in his career, though, Mr. Fleisher was a commanding pianist who
-produced a warm, sharply etched and thoughtfully contoured sound that
-was ideally suited to 19th-century Viennese classics — Beethoven, Brahms
-and Schubert, most notably — but also yielded illuminating readings of
-Rachmaninoff, Debussy and Liszt, and of contemporary American composers
-like Roger Sessions (with whom he briefly studied music theory) and
-Aaron Copland.
+Early in his career as a pianist Mr. Fleisher produced a warm, sharply
+etched and thoughtfully contoured sound that was ideally suited to
+19th-century Viennese classics — Beethoven, Brahms and Schubert, most
+notably — but that also yielded illuminating readings of Rachmaninoff,
+Debussy and Liszt and of contemporary American composers like Roger
+Sessions and Aaron Copland.
 
-Mr. Fleisher’s recordings of the Brahms and Beethoven piano concertos
-with George Szell and the Cleveland Orchestra, made between 1958 and
-1963, are still considered among the most vivid and moving accounts of
-those works.
+His recordings of the Brahms and Beethoven piano concertos with [George
+Szell](https://www.nytimes3xbfgragh.onion/1970/07/31/archives/george-szell-conductor-is-dead-george-szell-of-cleveland-orchestra.html#:~:text=George%20Szell%2C%20conductor%20of%20the,He%20was%2073%20years%20old.)
+and the Cleveland Orchestra, made from 1958 to 1963, are considered
+among the most vivid and moving accounts of those works.
 
 In the 1990s, he recorded spellbinding performances of the peaks of the
 left-hand repertoire, including concertos by Ravel, Prokofiev and
@@ -378,13 +381,15 @@ left-hand works that had kept him going for three decades.
 
 His album “All the Things You Are” (2014) included not only left-hand
 arrangements of Gershwin’s “The Man I Love” and the Jerome Kern song
-that gave the collection its name, but also pieces composed for Mr.
-Fleisher by George Perle and Leon Kirchner, and a deeply thoughtful,
-spacious reconsideration of the Bach-Brahms Chaconne.
+that gave the collection its title, but also pieces composed for Mr.
+Fleisher by George Perle and Leon Kirchner, and a spacious
+reconsideration of the Bach-Brahms Chaconne.
+
+## At 4, Playing by Ear
 
 Leon Fleisher was born in San Francisco on July 23, 1928, to Isidore and
-Bertha Fleisher. His parents, Jewish immigrants from Eastern Europe — he
-was from Odessa, then in Russia, now in Ukraine; she was from Poland —
+Bertha Fleisher. His parents, Jewish immigrants — his father was from
+Odessa, then in Russia, now in Ukraine; his mother was from Poland —
 each managed one of the family’s two hat shops.
 
 </div>
@@ -395,45 +400,47 @@ each managed one of the family’s two hat shops.
 
 <div class="css-53u6y8">
 
-An older brother, Raymond, was given piano lessons. He showed little
-interest in them, but when Raymond went out to play after his lessons,
-Leon, who was then 4 years old, would go to the piano and repeat, by
-ear, everything he had heard.
+Leon was drawn to the piano from an early age. Though he showed little
+interest when an older brother, Raymond, was given piano lessons, Leon
+would go to the piano when Raymond went out to play after his lessons
+and repeat, by ear, everything he had heard. He was 4 years old.
 
-His mother soon decided that Leon, rather than Raymond, should study the
-instrument. She made her intentions for her younger son clear: He would
-either be the first Jewish president of the United States or he would be
-a concert pianist.
+His mother soon decided that Leon, rather than Raymond, should study
+piano. She made her intentions for her younger son clear: He would be
+either the first Jewish president of the United States or a concert
+pianist.
 
-So devoted was his mother to his musical training that after two weeks
-of kindergarten, during which he objected strenuously to nap time, she
-withdrew him from public school and hired tutors so he could devote his
-time to practicing at the piano. She also found ways of bringing him to
-the attention of two important San Francisco conductors, Pierre Monteux
-and Alfred Hertz, who in turn persuaded the pianist Artur Schnabel to
-take Leon on as a student in 1938, when he was 9, despite his policy of
-not teaching children.
+So devoted was his mother to Leon’s musical training that after two
+weeks of kindergarten, during which he objected strenuously to nap time,
+she withdrew him from public school and hired tutors so that he could
+devote his time to practicing the piano. She also found ways of bringing
+him to the attention of two San Francisco conductors, Pierre Monteux and
+Alfred Hertz, who in turn persuaded the pianist [Artur
+Schnabel](https://www.nytimes3xbfgragh.onion/1951/08/16/archives/artur-schnabel-69-famed-pianist-dies-best-known-for-interpretation.html)
+to take Leon on as a student in 1938, when he was 9, despite Schnabel’s
+policy of not teaching children.
 
-By the time Leon began working with Schnabel, he had already played a
-few concerts, but Schnabel’s single condition for teaching the boy was
-that there be no more concerts. Schnabel relaxed the rule in 1944 and
-allowed Mr. Fleisher to play the Brahms Piano Concerto No. 1 in D minor
-with Monteux and the San Francisco Symphony and then with the New York
-Philharmonic at Carnegie Hall, also with Monteux conducting.
+By then Leon had already played a few concerts, but Schnabel’s single
+condition for teaching him was that there be no more concerts. Schnabel
+relaxed the rule in 1944 and allowed his teenage pupil to play the
+Brahms Piano Concerto No. 1 in D minor with Monteux and the San
+Francisco Symphony and then with the New York Philharmonic at Carnegie
+Hall, also with Monteux conducting.
 
-Noel Strauss, reviewing the performance for The New York Times, wrote
-that Mr. Fleisher, making his New York debut, “scored heavily in the
-exacting work and at once established himself as one of the most
-remarkably gifted of the younger generation of American keyboard
-artists.”
+Noel Strauss, reviewing the Carnegie Hall performance for The Times,
+wrote that Mr. Fleisher, making his New York debut, had “established
+himself as one of the most remarkably gifted of the younger generation
+of American keyboard artists.”
 
-In 1945, at Ravinia, Mr. Fleisher played the Brahms again — it quickly
-became one of his signature pieces — as well as the Liszt Concerto No. 2
-in A, with Leonard Bernstein conducting the Chicago Symphony Orchestra.
-He also performed four concertos at Ravinia the next summer, under the
-direction of William Steinberg and Szell, who soon engaged Mr. Fleisher
-to perform with the Cleveland Orchestra, which he took over later that
-year.
+In 1945, at [the Ravinia summer
+festival](https://www.ravinia.org/Page/History)in Illinois, Mr. Fleisher
+played the Brahms again — it became one of his signature pieces — as
+well as the Liszt Concerto No. 2 in A, with Leonard Bernstein conducting
+the Chicago Symphony Orchestra. The next summer at Ravinia, he performed
+four concertos under the direction of [William
+Steinberg](https://www.nytimes3xbfgragh.onion/1978/05/17/archives/william-steinberg-orchestral-conductor-dies-at-78-former-music.html)
+and Szell, who soon engaged Mr. Fleisher to perform with the Cleveland
+Orchestra, which Szell took over later that year.
 
 </div>
 
@@ -443,24 +450,33 @@ year.
 
 <div class="css-53u6y8">
 
-By 1949, although he had played with many of the major American
+By 1949, however, though he had played with many of the major American
 orchestras and had given recitals across the country, engagements began
-to dry up. Mr. Fleisher moved to Paris in 1950 and remained in Europe —
-relocating first to the Netherlands, then to Italy — until 1958.
+to dry up for Mr. Fleisher. The next year he moved to Paris and remained
+in Europe until 1958, relocating first to the Netherlands and then to
+Italy.
 
-In 1952, he became the first American to win the gold medal at the Queen
-Elisabeth Competition in Brussels. That victory included a substantial
-list of engagements in Europe; it also revived interest in Mr. Fleisher
-among American orchestras, managers and concert promoters.
+As an expatriate, Mr. Fleisher became the first American to win the gold
+medal at the Queen Elisabeth Competition in Brussels, in 1952. The
+victory led to a long list of engagements in Europe and revived interest
+in him among American orchestras, managers and concert promoters.
 
 When Szell and the Cleveland Orchestra were signed to a new recording
-contract with the Epic label in 1954, Szell invited Mr. Fleisher to be
-his go-to soloist for recordings of the great piano concertos.
+contract with the Epic label in 1954, he invited Mr. Fleisher to be his
+main soloist for recordings of the great piano concertos.
 
-Shortly after his return to the United States in the late 1950s, Mr.
-Fleisher accepted an offer to teach at the Peabody Conservatory, while
-also pursuing a hefty performing and recording
-schedule.
+## ‘Always More to Attain’
+
+It was shortly after his return to the United States, in the late 1950s,
+that Mr. Fleisher accepted an offer to teach at the Peabody
+Conservatory, though he continued to pursue a heavy performing and
+recording schedule.
+
+“I was driven, if anything, even harder by all of my successes,” he
+wrote in his memoir. “There was always more to attain, and more to
+achieve, and more musical depths to plumb, and lurking behind it all,
+the terrifying risk of
+failure.”
 
 </div>
 
@@ -490,21 +506,8 @@ schedule.
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mr. Fleisher
 in concert at Carnegie Hall in
-2003. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Chris
+2003.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Chris
 Lee for The New York Times</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-“I was driven, if anything, even harder by all of my successes,” he
-wrote in his memoir. “There was always more to attain, and more to
-achieve, and more musical depths to plumb, and lurking behind it all,
-the terrifying risk of failure.”
 
 </div>
 
@@ -517,29 +520,38 @@ the terrifying risk of failure.”
 Failure was not far away. During the winter of 1963, he noticed what he
 described as laziness in his right index finger, as well as “a creeping
 numbness” in his right hand. By the summer, the fourth and fifth fingers
-of his right hand had begun to curl inward toward his palm.
+of his right hand had begun to curl toward his palm.
 
-The timing was disastrous. Mr. Fleisher had planned to celebrate the
-20th anniversary of his New York debut with a busy season that included
-20 performances in New York alone and a spring 1964 tour of the Soviet
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The timing was disastrous. He had planned to celebrate the 20th
+anniversary of his New York debut with a busy season that included 20
+performances in New York alone and a spring 1964 tour of the Soviet
 Union, in which he was to be the soloist in Mozart’s Concerto No. 25 in
 C (K. 503) with Szell and the Cleveland Orchestra.
 
 Shortly before the tour, Mr. Fleisher performed the Mozart in Cleveland.
 Szell noted the strain Mr. Fleisher was under and told him that he did
-not feel he could undertake the tour. The pianist Grant Johannesen
+not feel he could undertake the tour. The pianist [Grant
+Johannesen](https://www.nytimes3xbfgragh.onion/2005/03/30/arts/music/grant-johannesen-unorthodox-pianist-is-dead-at-83.html#:~:text=Grant%20Johannesen%2C%20a%20pianist%20best,David%20Johannesen%2C%20announced%20the%20death.)
 traveled with the orchestra instead.
 
 “The initial problem was a very stupid kind of overwork,” Mr. Fleisher
 said in 1996, cautioning young pianists against following his
 path.<span class="css-8l6xbc evw5hdy0"> </span>“I see kids still falling
 into this, and there are many reasons for it. The perfection that
-they’re bombarded with from recordings. The kind of sound a Horowitz
-produced, which is wonderful, but people don’t realize that he had his
-technician work very hard on the piano, so the piano itself helped. So
-when kids go to an acoustically dead hall, and get a dead piano, and try
-to make these Horowitz kinds of sounds, they end up brutalizing
-themselves.”
+they’re bombarded with from recordings. The kind of sound a
+\[Vladimir\] Horowitz produced, which is wonderful, but people don’t
+realize that he had his technician work very hard on the piano, so the
+piano itself helped. So when kids go to an acoustically dead hall, and
+get a dead piano, and try to make these Horowitz kinds of sounds, they
+end up brutalizing themselves.”
 
 Mr. Fleisher resisted taking up the left-hand repertoire, partly because
 he felt that to do so would be an admission that he would never regain
@@ -548,9 +560,10 @@ he reconsidered, agreeing to play both Ravel’s Concerto for the Left
 Hand and Benjamin Britten’s left-hand work “Diversions” with Seiji Ozawa
 and the Toronto Symphony in 1967.
 
-The next year, with the pianist and composer Dina Koston, he started the
-Theater Chamber Players, a flexible chamber group meant to present both
-contemporary music and classics.
+The next year, with the pianist and composer [Dina
+Koston](https://www.rogershapirofund.org/founders/dina-koston/), he
+started the Theater Chamber Players, a flexible chamber group meant to
+present both contemporary music and classics.
 
 </div>
 
@@ -562,32 +575,35 @@ contemporary music and classics.
 
 The ensemble — initially based at the Washington Theater Club, later at
 the Smithsonian National Museum of Natural History and ultimately at the
-Kennedy Center — provided an opportunity for Mr. Fleisher to both play
-and conduct. And an invitation to become music director of the Annapolis
-Symphony Orchestra in Maryland, a semiprofessional community group, gave
-him a chance to work on the symphonic repertoire.
+Kennedy Center in Washington — provided an opportunity for Mr. Fleisher
+both to play and to conduct. And an invitation to be music director of
+the Annapolis Symphony Orchestra in Maryland, a semiprofessional
+community group, gave him a chance to work on the symphonic repertoire.
 
-Soon, Mr. Fleisher was guest-conducting around the country — his debut
-at the head of a professional orchestra took place at Lincoln Center's
-Mostly Mozart Festival in 1970 — and in 1973 he became associate
-conductor of the Baltimore Symphony Orchestra.
+Soon he was guest-conducting around the country — his debut at the head
+of a professional orchestra took place at Lincoln Center's Mostly Mozart
+Festival in 1970 — and in 1973 he became associate conductor of the
+Baltimore Symphony Orchestra.
 
-He held that post for only five years, but he maintained a close
-relationship with the orchestra thereafter. When the ensemble was
+Mr. Fleisher held that post for only five years, but he maintained a
+close relationship with the orchestra thereafter. When the ensemble was
 preparing to inaugurate the new Joseph Meyerhoff Symphony Hall in 1982,
-its music director, Sergiu Comissiona, invited Mr. Fleisher to be the
+its music director, Sergiu Comissiona, invited him to be the
 opening-night soloist.
+
+## A Two-Hand Return
 
 Having recently had an operation to relieve carpal tunnel syndrome, Mr.
 Fleisher began to regain the use of his right hand, if only partly and
 inconsistently. But he felt he could make the jump back to two-handed
-playing, with the televised opening of Meyerhoff Hall as the occasion
+playing, using the televised opening of Meyerhoff Hall as the occasion
 for his comeback.
 
 In a bold moment, he told the orchestra that he would play Beethoven’s
 Fourth Piano Concerto. But as the occasion drew near, he decided to play
-Franck’s shorter and less pianistically exposed Symphonic Variations
-instead.
+Franck’s Symphonic Variations instead, a shorter and less pianistically
+exposed
+work.
 
 </div>
 
@@ -630,36 +646,29 @@ Lee/The New York Times</span></span>
 <div class="css-53u6y8">
 
 Most listeners thought the performance went well. But Mr. Fleisher was
-not satisfied. In his view, the amount of effort he expended working to
-control his right hand precluded the kind of interpretive depth he hoped
-for, and he dropped plans for a broader return to two-handed playing.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
+not satisfied. In his view, the amount of effort he had expended working
+to control his right hand precluded the kind of interpretive depth he
+had hoped for, and he dropped plans for a broader return to two-handed
+playing.
 
 Shortly after the Baltimore performance, Mr. Fleisher married Katherine
-Jacobson, a pianist who had been one of his students at Peabody.
+Jacobson, a pianist who had been a student of his at Peabody. His two
+previous marriages — to Dorothy Druzinsky and Rikki Rosenthal — ended in
+divorce.
 
-She survives him as do his children from his first marriage, to Dorothy
-Druzinsky Fleisher, Deborah Fleisher, Leah Fleisher and Richard; and his
-children from his second marriage, to Rikki Rosenthal, Paula Fleisher
-and Julian; and two grandchildren. Both of Mr. Fleisher’s earlier
-marriages ended in divorce.
+Ms. Jacobson survives him, as do his children from his first marriage,
+Deborah, Richard and Leah Fleisher; his children from his second
+marriage, Julian and Paula Fleisher; and two grandchildren.
 
 In 1991, Mr. Fleisher found a doctor who was experimenting with Botox
 injections for injuries like his. At first he found that the injections
 loosened up his still-cramped fourth and fifth fingers, to the point
-where he could play. But the injections wore off, and Mr. Fleisher was
-still looking for a permanent cure.
+where he could play. But the injections wore off, and he was still
+looking for a permanent cure.
 
 Having tried Rolfing in the 1970s, he decided to try again in 1994. This
-time he had better results, and he found that a regimen of Rolfing and
-Botox injections was enough to keep him in playing trim.
+time he found that a regimen of Rolfing and Botox injections was enough
+to keep him in playing trim.
 
 As an experiment, he played Mozart’s Piano Concerto No. 12 (K. 414) with
 the Theater Chamber Players in April 1995, and with the Cleveland
@@ -673,16 +682,15 @@ Orchestra and at Tanglewood shortly thereafter.
 
 <div class="css-53u6y8">
 
-“Nothing felt sweeter,” he wrote in his memoir of those first
-performances, “than the feeling of those notes falling into place, the
-right hand singing, the left hand balancing it on the lower part of the
-keyboard, and the piece growing into something whole and complete, a
-dream become reality.”
+“Nothing felt sweeter than the feeling of those notes falling into
+place,” he wrote in his memoir, “the right hand singing, the left hand
+balancing it on the lower part of the keyboard, and the piece growing
+into something whole and complete, a dream become reality.”
 
-Mr. Fleisher gradually reclaimed the repertoire he had been unable to
-play for more than three decades — but cautiously, building his recital
-programs with both two-hand and left-hand works, and playing programs of
-piano four-hand works with his
+Mr. Fleisher cautiously reclaimed the repertoire he had been unable to
+play for more than 30 years, building his recital programs with both
+two-hand and left-hand works and playing programs of piano four-hand
+works with his
 wife.
 
 </div>
@@ -726,16 +734,16 @@ Kamm/Agence France-Presse — Getty Images</span></span>
 
 <div class="css-53u6y8">
 
-He was made a Commander of the Order of Arts and Letters by the French
-government in 2006, and in 2007 he was a recipient of a Kennedy Center
-Honor. A film about his struggle with focal dystonia, “Two Hands,”
+Mr. Fleisher was made a commander of the Order of Arts and Letters by
+the French government in 2006 and received a Kennedy Center Honor the
+next year. A film about his struggle with focal dystonia, “Two Hands,”
 directed by Nathaniel Kahn, was nominated for an Academy Award for best
 short documentary in 2006.
 
 Toward the end of his life, Mr. Fleisher spoke about the level of
-despair he felt when he was unable to use his right hand. But, having
-regained that ability, he was also philosophical about the challenges
-life presents.
+despair he had felt when he was unable to use his right hand. But having
+regained that ability he was philosophical about the challenges life
+presents.
 
 “There are forces out there,” he told The International Herald Tribune
 in 2007, “and if you keep yourself open to them, if you go along with

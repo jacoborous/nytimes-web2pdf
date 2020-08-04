@@ -566,7 +566,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2019/06/23/fashion/23ML-jaramillo/merlin_154561071_143c362c-fcb7-4d88-8ae2-c938777c91b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/06/19/fashion/23ML-jaramillo/merlin_154561071_143c362c-fcb7-4d88-8ae2-c938777c91b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

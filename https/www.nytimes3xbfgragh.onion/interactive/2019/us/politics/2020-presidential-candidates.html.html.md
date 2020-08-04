@@ -135,14 +135,14 @@ Running for President in
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -2969,7 +2969,7 @@ McCann.
 
 # Our 2020 Election Guide
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -2977,9 +2977,11 @@ Updated Aug. 3, 2020
     
     ## The Latest
     
-      - President Trump again assails mail-in voting, [claiming without
-        evidence that the process is plagued by
-        fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

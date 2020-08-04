@@ -149,14 +149,14 @@ qué Trump no puede postergar las elecciones de
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -662,7 +662,7 @@ cubrió las elecciones de 2012 para Politico.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -670,10 +670,11 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes3xbfgragh.onion/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

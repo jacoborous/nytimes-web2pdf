@@ -181,37 +181,60 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney+, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/merlin_175156710_9a080074-027a-45b4-b8e5-62196ac030c8-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [![](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-thumbStandard.jpg)](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
     
     </div>
     
-    ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    ## [A Black Pianist Helped Birth Bossa Nova. His Story Is Rarely Told.](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
     
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative
-    power.
+    Johnny Alf has always been revered by Antônio Carlos Jobim and João
+    Gilberto, but his legacy remains obscure, even among
+    Brazilians.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
-    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>,
-    <span class="css-1baulvz" itemprop="name">Gia Kourlas</span>,
-    <span class="css-1baulvz" itemprop="name">Wesley Morris</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Salamishah
-    Tillet</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Beatriz
+    Miranda</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+        White/Parkwood Entertainment and Disney+, via Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
+        
+        </div>
+        
+        Six critics on the visual album rooted in her “Lion
+        King”-inspired record “The Gift,” a grand statement of
+        African-diaspora pride and creative
+        power.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
+        <span class="css-1baulvz" itemprop="name">Vanessa
+        Friedman</span>, <span class="css-1baulvz" itemprop="name">Gia
+        Kourlas</span>, <span class="css-1baulvz" itemprop="name">Wesley
+        Morris</span>, <span class="css-1baulvz" itemprop="name">Jon
+        Pareles</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+        Tillet</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monika
         Rittershaus/Salzburger
         Festspiele</span>](https://static01.nyt.com/images/2020/08/02/arts/02Salzburg-preview-1/merlin_174868050_10b64ef7-0f15-43b1-8024-0197fd429525-videoLarge.jpg)
         
@@ -232,33 +255,6 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Ben
         Miller</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
-        Cappello</span>](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### The Playlist
-        
-        ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-thumbStandard.jpg)](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-        
-        </div>
-        
-        Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
-        others.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
-        <span class="css-1baulvz" itemprop="name">Jon Caramanica</span>
-        and
-        <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-        Russonello</span></span>
         
         </div>
 
@@ -413,6 +409,37 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Answering Your Questions About Taylor Swift’s ‘Folklore’
+    
+    Readers asked about Bon Iver, country music, Jack Antonoff and
+    more.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
     
     <div class="css-79elbk">
@@ -444,7 +471,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -479,7 +506,43 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Playlist</span>
+    
+    ## Billie Eilish’s Isolation Awakening, and 8 More New Songs
+    
+    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and others.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
+    <span>and</span> Giovanni
+    Russonello</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
     
     <div class="css-1cp3ece">
     
@@ -513,7 +576,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -548,7 +611,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -583,7 +646,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -618,7 +681,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -655,7 +718,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -676,80 +739,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alex
-    Vadukul</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/arts/music/100000007258359/phoebe-bridgers-kyoto.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-hue6tr ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## How to Convince Phoebe Bridgers to Write a Rock Song
-    
-    The 25-year-old singer and songwriter shows us how “Kyoto”
-    transformed from a ballad into a rock song over months, combining a
-    stray lyric, a bare-bones voice memo from tour and shared memories
-    of childhood.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joe Coscarelli, Alexandra Eaton,
-    Antonio de Luca, Alicia DeSantis, Will Lloyd <span>and</span> Kaisha
-    Murzamadiyeva</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/movies/gordon-lightfoot-if-you-could-read-my-mind-review.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/arts/29gordonlightfoot/merlin_174879573_c53b1772-9037-4f2b-9182-86573792585d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Gordon Lightfoot: If You Could Read My Mind’ Review: A Troubadour Looks Back
-    
-    The singer-songwriter, now 81, is frank about his own work and
-    refreshingly open to today’s music.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Glenn Kenny</span>
+    By <span class="css-1n7hynb">Alex Vadukul</span>
     
     </div>
     

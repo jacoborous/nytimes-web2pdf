@@ -118,6 +118,7 @@ Outs.</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -243,8 +244,9 @@ Witz</span>](https://www.nytimes3xbfgragh.onion/by/billy-witz)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
-    2020
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">12:37 p.m.
+    ET</span>
     
     </div>
 
@@ -252,7 +254,7 @@ Witz</span>](https://www.nytimes3xbfgragh.onion/by/billy-witz)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -263,6 +265,7 @@ Witz</span>](https://www.nytimes3xbfgragh.onion/by/billy-witz)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -412,7 +415,7 @@ him.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-80633" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -422,12 +425,17 @@ him.
 
 #### Sports and the Virus
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
 Here’s what’s happening as the world of sports slowly comes back to
 life:
 
-  -   - On all but the two biggest courts, automated line calls [will
+  -   - As the virus spreads through baseball, [so does
+        frustration](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+        Series have been postponed, teams have been quarantined and road
+        trips have been rerouted in a season that has been defined above
+        all by its precariousness.
+      - On all but the two biggest courts, automated line calls [will
         replace human
         judges](https://www.nytimes3xbfgragh.onion/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         at the U.S. Open to reduce the number of people on site during
@@ -435,10 +443,8 @@ life:
       - Mets star Yoenis Cespedes is healthy, but [has decided to opt
         out](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         of the 2020 baseball season for Covid-related reasons.
-      - Britain tried to bring fans back to indoor sports. [It lasted a
-        day](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/snooker-world-championship.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
 
-<div id="styln-survey-component-80633" class="styln-survey-component">
+<div id="styln-survey-component-29614" class="styln-survey-component">
 
 </div>
 
@@ -463,10 +469,9 @@ up a relationship with the athletic director, Pat Chun.
 But by Monday, Woods said he felt abandoned.
 
 He’d called Chun hoping he could still be part of the team, but Woods
-said the athletic director backed the coach. (Rolovich and Chun declined
-an interview request.) What also upset him, he said, is that several
-teammates were cowed into not opting out because he said they felt
-threatened.
+said the athletic director backed the coach. What also upset him, he
+said, is that several teammates were cowed into not opting out because
+he said they felt threatened.
 
 </div>
 
@@ -485,6 +490,13 @@ He added: “It’s all about the movement. Me and Dallas have been nothing
 but a service to Washington State. Our coaches don’t have anything bad
 to say about me. I don’t have anything bad to say about them except for
 dismissing me for being part of this movement.”
+
+(Rolovich and Chun declined an interview request. Rolovich released a
+statement late Monday night saying he regretted that his words
+cautioning Woods were “misconstrued” and that he supported his players
+speaking out, but that players who opt out for health reasons will not
+be able to participate in team activities. Woods’s parents said Tuesday
+morning that their son had not been reinstated.)
 
 Woods said his disquiet goes back to late June, when a teammate he was
 living with texted several days before Woods headed back to campus to
@@ -547,6 +559,14 @@ and the practices while students were attending remotely left him unsure
 how the conversation was going to unfold. He wanted to have a record for
 his parents to hear.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “I knew I was standing up for something,” Woods said. “You don’t really
 know how it’s going to go.”
 
@@ -555,14 +575,6 @@ has received support from players around the country. And his parents
 and his six siblings have firmly encouraged him. In fact, his mother,
 Jerline, made public her son’s circumstance as a rebuttal to a reporter
 who tweeted that no players had been cut.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “You’re putting all this on your back — a target — maybe teams don’t
 touch you,” said his father John Woods Jr., a basketball captain at

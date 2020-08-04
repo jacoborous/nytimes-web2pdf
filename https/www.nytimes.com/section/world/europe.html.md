@@ -283,11 +283,11 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/world/virus-italy-sexwork1/virus-italy-sexwork1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/27/world/virus-italy-sexwork1/virus-italy-sexwork1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic
+    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic
     
     Prostitution is not illegal in Italy, nor is it regulated as an
     official occupation. But the coronavirus has forced many sex workers
@@ -318,7 +318,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/world/02turkey-nato01/xxturkey-nato01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/world/02turkey-nato01/02turkey-nato01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

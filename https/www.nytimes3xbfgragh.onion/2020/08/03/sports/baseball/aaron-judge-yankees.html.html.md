@@ -1,169 +1,553 @@
-home runs over five games is more than enough proof that a batter is
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Baseball](https://www.nytimes3xbfgragh.onion/section/sports/baseball)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Baseball](/section/sports/baseball)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Aaron
+Judge Is Nearly Unstoppable. He Thinks He Can Be
+Better.</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3fqxGBx</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.
+
+</div>
+
+Judge hit home runs in five consecutive games entering Monday night’s
+action, and he did it without one of his favorite tools: the video
+replay room.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">“We don’t
+have the video like we usually do. But now it’s just us, using your
+teammates’ eyes and your own eyes, and just talking some baseball,”
+Aaron Judge
+said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Al
+Bello/Getty
+Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03yankees-1/merlin_175181169_127d39c2-665c-4eed-bb0c-1efbaaa25cf4-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
+
+[![James
+Wagner](https://static01.graylady3jvrrxbe.onion/images/2018/06/13/multimedia/author-james-wagner/author-james-wagner-thumbLarge.jpg
+"James Wagner")](https://www.nytimes3xbfgragh.onion/by/james-wagner)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">James
+Wagner</span>](https://www.nytimes3xbfgragh.onion/by/james-wagner)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">10:39 a.m.
+    ET</span>
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Six home runs over five games is more than enough proof that a batter is
 locked in at the plate. But the Yankees star outfielder Aaron Judge,
 perhaps guided by humility or a constant search for perfection, insisted
-it was
-not.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.3.content.0":{"\_\_typename":"TextInline","text":"After
-blasting two more home runs on Sunday, including a two-run shot in a 9-7
-win over the Boston Red Sox, Judge said he was still searching for that
-final bit of comfort while hitting. Baseball, after all, is a sport of
-daily
-failure.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.5.content.0":{"\_\_typename":"TextInline","text":"“Locked
-in for me is if I’m going 5 for 5 every night,” he said. “I still got
-out a couple times and chased a couple pitches. So there’s some times
-where I’m not really locked
-in.”","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.7.content.0":{"\_\_typename":"TextInline","text":"Those
-around him, though, felt
-otherwise.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.8.content.0":{"\_\_typename":"TextInline","text":"“There’s
-a reason he almost won the M.V.P., and he’s in a groove right now,\\"
-said Yankees first baseman Luke Voit, referring to the award Judge
+it was not.
+
+After blasting two more home runs on Sunday, including a two-run shot in
+a 9-7 win over the Boston Red Sox, Judge said he was still searching for
+that final bit of comfort while hitting. Baseball, after all, is a sport
+of daily failure.
+
+“Locked in for me is if I’m going 5 for 5 every night,” he said. “I
+still got out a couple times and chased a couple pitches. So there’s
+some times where I’m not really locked in.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Those around him, though, felt otherwise.
+
+“There’s a reason he almost won the M.V.P., and he’s in a groove right
+now,” said Yankees first baseman Luke Voit, referring to the award Judge
 narrowly missed out on in 2017. “I’m excited to see what he can do in 60
 games this year with how he’s raking right now. He’s a guy you don’t
-want to take your eyes off when he’s
-hitting.”","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.12.content.0":{"\_\_typename":"TextInline","text":"Had
-the Major League Baseball season started as planned on March 26, Judge
-would not have been on the field, still
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.12.content.1":{"\_\_typename":"TextInline","text":"recuperating
-from an
-injury","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.12.content.1.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.12.content.1.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F03\\u002F06\\u002Fsports\\u002Fbaseball\\u002Faaron-judge-yankees.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.12.content.2":{"\_\_typename":"TextInline","text":".
-He fractured his rib during a play in the outfield last September, which
+want to take your eyes off when he’s hitting.”
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Had the Major League Baseball season started as planned on March 26,
+Judge would not have been on the field, still [recuperating from an
+injury](https://www.nytimes3xbfgragh.onion/2020/03/06/sports/baseball/aaron-judge-yankees.html).
+He fractured his rib during a play in the outfield in September, which
 led to a partially collapsed lung. He fought through some lingering
 discomfort in his side and shoulder the rest of the season, the playoffs
-and throughout the
-off-season.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.14.content.0":{"\_\_typename":"TextInline","text":"The
-fracture, however, was not identified until spring training, after
+and throughout the off-season.
+
+The fracture, however, was not identified until spring training, after
 nearly a dozen tests. So while the start of the M.L.B. season was
 delayed for four months because of the coronavirus pandemic, Judge used
 the extra time to recover. When he was cleared by doctors just before
 summer workouts began on July 4, it “lit another fuse” for Judge,
-Yankees Manager Aaron Boone
-said.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.16.content.0":{"\_\_typename":"TextInline","text":"Injuries
-have kept Judge off the field for parts of the previous two seasons. He
-missed 45 games in 2018 after a pitch fractured his wrist and was out
-for
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.16.content.1":{"\_\_typename":"TextInline","text":"54
-games last
-year","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.16.content.1.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.16.content.1.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2019\\u002F06\\u002F21\\u002Fsports\\u002Faaron-judge-yankees.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.16.content.2":{"\_\_typename":"TextInline","text":"
+Manager Aaron Boone said.
+
+Injuries have kept Judge off the field for parts of the previous two
+seasons. He missed 45 games in 2018 after a pitch fractured his wrist
+and was out for [54 games last
+year](https://www.nytimes3xbfgragh.onion/2019/06/21/sports/aaron-judge-yankees.html)
 with an oblique strain. He still hit 27 home runs with an
-on-base-plus-slugging percentage over .900 in each of those
-seasons.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.18.content.0":{"\_\_typename":"TextInline","text":"“He’s
-really on a mission right now,” Boone said. “When he got that clean bill
-of health right before summer camp started and started ramping up,
-there’s just been an intensity level and an energy level to the work.
-He’s just a great player that you can tell is feeling really
-good.”","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.0":{"\_\_typename":"TextInline","text":"Entering
-Monday’s 6-3 win over the Philadelphia Phillies, who have not played
-since July 26 because of
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.1":{"\_\_typename":"TextInline","text":"the
-ripple effects of the Miami Marlins’ coronavirus
-outbreak","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.1.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.1.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F07\\u002F29\\u002Fsports\\u002Fbaseball\\u002Fyankees-schedule.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.2":{"\_\_typename":"TextInline","text":",
+on-base-plus-slugging percentage over .900 in each of those seasons.
+
+“He’s really on a mission right now,” Boone said. “When he got that
+clean bill of health right before summer camp started and started
+ramping up, there’s just been an intensity level and an energy level to
+the work. He’s just a great player that you can tell is feeling really
+good.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Entering Monday’s 6-3 win over the Philadelphia Phillies, who had not
+played since July 26 because of [the ripple effects of the Miami
+Marlins’ coronavirus
+outbreak](https://www.nytimes3xbfgragh.onion/2020/07/29/sports/baseball/yankees-schedule.html),
 no one in baseball had more home runs (six) or runs batted in (14) or
-was hitting the ball harder (an
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.3":{"\_\_typename":"TextInline","text":"average
-exit
-velocity","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.3.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.3.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fbaseballsavant.mlb.com\\u002Fleaderboard\\u002Fstatcast?type=batter\&year=2020\&position=\&team=\&min=q\&sort=6\&sortDir=asc","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.20.content.4":{"\_\_typename":"TextInline","text":"
-of 98.3 miles per hour) than Judge. He was on pace to smash 45 home runs
-this season — which would amount to (a very unrealistic) 122 over a
-normal 162-game
-season.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.0":{"\_\_typename":"TextInline","text":"Judge
-accomplished all of this without one of his favorite hitting tools:
-in-game video. Because of
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.1":{"\_\_typename":"TextInline","text":"M.L.B.’s
-health and safety
-protocols","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.1.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.1.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F06\\u002F24\\u002Fsports\\u002Fbaseball\\u002Fmlb-coronavirus-rules.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.2":{"\_\_typename":"TextInline","text":"
+was hitting the ball harder (an [average exit
+velocity](https://baseballsavant.mlb.com/leaderboard/statcast?type=batter&year=2020&position=&team=&min=q&sort=6&sortDir=asc)
+of 98.3 miles per hour) than Judge. He was on a pace to smash 45 home
+runs this season — which would amount to (a very unrealistic) 122 over a
+normal 162-game season.
+
+Judge accomplished all of this without one of his favorite hitting
+tools: in-game video. Because of [M.L.B.’s health and safety
+protocols](https://www.nytimes3xbfgragh.onion/2020/06/24/sports/baseball/mlb-coronavirus-rules.html)
 for this season, the replay review room at each stadium is closed to
 players and coaches at all times to ensure social distancing and to keep
-them isolated from other personnel. (Following the Houston Astros’
-cheating scandal, M.L.B. and the players’ union
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.3":{"\_\_typename":"TextInline","text":"have
-worked on new
-rules","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.3.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.3.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F02\\u002F24\\u002Fsports\\u002Fbaseball\\u002Fastros-cheating-scandal.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.22.content.4":{"\_\_typename":"TextInline","text":"
-governing these
-rooms.)","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.24.content.0":{"\_\_typename":"TextInline","text":"During
-games in past years, Judge said that he, like many other players, would
-run to that room after an at-bat to check his swing or the pitch he
-swung at or — in his words — slam his fist down and get mad at himself.
-But now after he makes an out, Judge turns to his companions in the
-dugout for their feedback. He said it might even be more helpful than
-the video that has become so prevalent in modern
-baseball.","formats":\[\]},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm":{"id":"SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm","imageType":"photo","url":"\\u002Fimagepages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2.html","uri":"nyt:\\u002F\\u002Fimage\\u002F65c6bb9a-3a60-5b8b-80b3-3627fd99f09f","credit":"John
-Minchillo\\u002FAssociated Press","legacyHtmlCaption":"Judge said
+them isolated from other personnel. (After the Houston Astros’ cheating
+scandal, M.L.B. and the players’ union [have worked on new
+rules](https://www.nytimes3xbfgragh.onion/2020/02/24/sports/baseball/astros-cheating-scandal.html)
+governing these rooms.)
+
+During games in past years, Judge said that he, like many other players,
+would run to that room after an at-bat to check his swing or the pitch
+he swung at or — in his words — slam his fist down and get mad at
+himself. But now after he makes an out, Judge turns to his companions in
+the dugout for their feedback. He said it might even be more helpful
+than the video that has become so prevalent in modern baseball.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Judge said
 Giancarlo Stanton, right, had offered him some hitting tips while
-carpooling.","crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]})":\[{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).0","typename":"ImageCrop"},{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).1","typename":"ImageCrop"},{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).2","typename":"ImageCrop"}\],"caption":{"type":"id","generated":true,"id":"$Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.caption","typename":"TextOnlyDocumentBlock"},"\_\_typename":"Image"},"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleLarge.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002Fmerlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleLarge.jpg","name":"articleLarge","width":600,"height":400,"\_\_typename":"ImageRendition"},"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-popup.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002Fmerlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-popup.jpg","name":"popup","width":650,"height":433,"\_\_typename":"ImageRendition"},"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-jumbo.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002Fmerlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-jumbo.jpg","name":"jumbo","width":1024,"height":683,"\_\_typename":"ImageRendition"},"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-superJumbo.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002Fmerlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-superJumbo.jpg","name":"superJumbo","width":2048,"height":1365,"\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).0":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleLarge.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-popup.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-jumbo.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-superJumbo.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleInline.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002Fmerlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleInline.jpg","name":"articleInline","width":190,"height":127,"\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).1":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-2merlin\_175268655\_aac6aa9e-008c-40f2-9979-55456a798ecd-articleInline.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"ImageRendition:images20200803sports03yankees-203yankees-2-mobileMasterAt3x.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002F03yankees-2\\u002F03yankees-2-mobileMasterAt3x.jpg","name":"mobileMasterAt3x","width":1800,"height":1800,"\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.crops({\\"renditionNames\\":\[\\"articleLarge\\",\\"jumbo\\",\\"superJumbo\\",\\"articleInline\\",\\"popup\\",\\"mobileMasterAt3x\\"\]}).2":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200803sports03yankees-203yankees-2-mobileMasterAt3x.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"$Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvNjVjNmJiOWEtM2E2MC01YjhiLTgwYjMtMzYyN2ZkOTlmMDlm.caption":{"text":"Judge
-said Giancarlo Stanton, right, had offered him some hitting tips while
-carpooling.","\_\_typename":"TextOnlyDocumentBlock"},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.28.content.0":{"\_\_typename":"TextInline","text":"“This
-is kind of taking us back to the travel ball days,” Judge
-said.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.29.content.0":{"\_\_typename":"TextInline","text":"Case
-in point: Judge, 28, said he was riding home with his fellow Yankees
-slugger Giancarlo Stanton, who is also off to a resounding start after
-an
-","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.29.content.1":{"\_\_typename":"TextInline","text":"injury-marred
-2019
-season","formats":\[{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.29.content.1.formats.0","typename":"LinkFormat"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.29.content.1.formats.0":{"\_\_typename":"LinkFormat","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2019\\u002F09\\u002F18\\u002Fsports\\u002Fbaseball\\u002Fgiancarlo-stanton-yankees.html","title":""},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.29.content.2":{"\_\_typename":"TextInline","text":",
+carpooling.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>John
+Minchillo/Associated
+Press</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03yankees-2/merlin_175268655_aac6aa9e-008c-40f2-9979-55456a798ecd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“This is kind of taking us back to the travel ball days,” Judge said.
+
+Case in point: Judge, 28, said he was riding home with his fellow
+Yankees slugger Giancarlo Stanton, who is also off to a resounding start
+after an [injury-marred 2019
+season](https://www.nytimes3xbfgragh.onion/2019/09/18/sports/baseball/giancarlo-stanton-yankees.html),
 after a recent game and mentioned how he was not hitting some breaking
 balls properly. Stanton offered a small tip — keep your head down a
-click longer — which Judge said proved fairly
-useful.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.31.content.0":{"\_\_typename":"TextInline","text":"“We
-don’t have the video like we usually do,” Judge said. “But now it’s just
-us, using your teammates’ eyes and your own eyes, and just talking some
-baseball.”","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.33.content.0":{"\_\_typename":"TextInline","text":"(Players
-and coaches can still watch video on M.L.B.-supplied tablets, but not
-real-time footage from a live game since the content is loaded only
-before or after
-games.)","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.35.content.0":{"\_\_typename":"TextInline","text":"Judge
-has a few factors working in his favor, too: After starting the season
-against the defending champion Washington Nationals, the Yankees have
-faced two opponents (the Baltimore Orioles and the Red Sox) with poor
-pitching, and he is sandwiched in the lineup between other talented
-Yankees’ hitters — the 2019 All-Star infielders D.J. LeMahieu and
-Gleyber Torres, and
-Stanton.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.37.content.0":{"\_\_typename":"TextInline","text":"After
-possessing M.L.B.’s highest-scoring offense last season, the 8-1 Yankees
-are off to a similar start this year. Judge said he was simply trying to
-do his part. He more than has: Five of his six home runs have given the
-Yankees the lead. Entering Monday night’s game, he had homered in five
-straight games — the first Yankee to do so since Alex Rodriguez in
-2007.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.39.content.0":{"\_\_typename":"TextInline","text":"Judge
-did not extend that streak on Monday against the Phillies, but he went 2
-for 4 — raising his season average to .314 — in support of ace Gerrit
-Cole, who allowed one run over six innings in his home debut as a
-Yankee. Gio Urshela had a pivotal three-run homer in the sixth
-inning.","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.41.content.0":{"\_\_typename":"TextInline","text":"“For
-me, right now, it’s about not missing my pitch,” Judge said after
+click longer — which Judge said proved fairly useful.
+
+“We don’t have the video like we usually do,” Judge said. “But now it’s
+just us, using your teammates’ eyes and your own eyes, and just talking
+some baseball.”
+
+(Players and coaches can still watch video on M.L.B.-supplied tablets,
+but not real-time footage from a live game since the content is loaded
+only before or after games.)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Judge has a few factors working in his favor, too: After starting the
+season against the defending champion Washington Nationals, the Yankees
+have faced two opponents (the Baltimore Orioles and the Red Sox) with
+poor pitching, and he is sandwiched in the lineup between other talented
+hitters — the 2019 All-Star infielders D.J. LeMahieu and Gleyber Torres,
+and Stanton.
+
+After possessing M.L.B.’s highest-scoring offense last season, the 8-1
+Yankees are off to a similar start this year. Judge said he was simply
+trying to do his part. He more than has: Five of his six home runs have
+given the Yankees the lead. Entering Monday night’s game, he had homered
+in five straight games — the first Yankee to do so since Alex Rodriguez
+in 2007.
+
+Judge did not extend that streak on Monday against the Phillies, but he
+went 2 for 4 — raising his season average to .314 — in support of ace
+Gerrit Cole, who allowed one run over six innings in his home debut as a
+Yankee. Gio Urshela had a pivotal three-run homer in the sixth inning.
+
+“For me, right now, it’s about not missing my pitch,” Judge said after
 Sunday’s game. “Pitchers are making really good pitches and hitting
 their corners. But when there’s times they leave one over the plate,
 I’ve got to do some damage on it. Fortunately enough, I’ve been able
-to do
-that.”","formats":\[\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==.sprinkledBody.content@filterEmpty.43.title.0":{"\_\_typename":"TextInline","text":"More
-M.L.B.
-Coverage","formats":\[\]},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==":{"\_\_typename":"Article","promotionalHeadline":"‘It’s
-Been a Crazy Couple Days’: The Yankees’ Virus-Scrambled
-Week","promotionalSummary":"The Yankees’ plans changed seemingly by the
-hour this week, part of the ripple effects of the Miami Marlins’
-outbreak.","headline":{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==.headline","typename":"CreativeWorkHeadline"},"summary":"The
-Yankees’ plans changed seemingly by the hour this week, part of the
-ripple effects of the Miami Marlins’
-outbreak.","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F07\\u002F29\\u002Fsports\\u002Fbaseball\\u002Fyankees-schedule.html","firstPublished":"2020-07-29T23:10:14.000Z","promotionalMedia":{"type":"id","generated":false,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvZDg2Njc1MmEtNDM5ZC01ZmIyLTg5ZDItNWFjZjJhYjM5MjI3","typename":"Image"},"section":{"type":"id","generated":false,"id":"Section:U2VjdGlvbjpueXQ6Ly9zZWN0aW9uLzQzODE0MTFiLTY3MGYtNTQ1OS04Mjc3LWIxODE0ODVhMTllYw==","typename":"Section"},"id":"QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==","bylines":\[{"type":"id","generated":true,"id":"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==.bylines.0","typename":"Byline"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==.headline":{"default":"‘It’s
-Been a Crazy Couple Days’: The Yankees’ Virus-Scrambled
-Week","\_\_typename":"CreativeWorkHeadline"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvZDg2Njc1MmEtNDM5ZC01ZmIyLTg5ZDItNWFjZjJhYjM5MjI3":{"id":"SW1hZ2U6bnl0Oi8vaW1hZ2UvZDg2Njc1MmEtNDM5ZC01ZmIyLTg5ZDItNWFjZjJhYjM5MjI3","crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]})":\[{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvZDg2Njc1MmEtNDM5ZC01ZmIyLTg5ZDItNWFjZjJhYjM5MjI3.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0","typename":"ImageCrop"}\],"\_\_typename":"Image"},"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-videoLarge.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F07\\u002F29\\u002Fsports\\u002F29yankees1\\u002Fmerlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-videoLarge.jpg","name":"videoLarge","\_\_typename":"ImageRendition"},"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-mediumThreeByTwo440.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F07\\u002F29\\u002Fsports\\u002F29yankees1\\u002Fmerlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-mediumThreeByTwo440.jpg","name":"mediumThreeByTwo440","\_\_typename":"ImageRendition"},"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-threeByTwoSmallAt2X.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F07\\u002F29\\u002Fsports\\u002F29yankees1\\u002Fmerlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-threeByTwoSmallAt2X.jpg","name":"threeByTwoSmallAt2X","\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvZDg2Njc1MmEtNDM5ZC01ZmIyLTg5ZDItNWFjZjJhYjM5MjI3.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-videoLarge.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-mediumThreeByTwo440.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200729sports29yankees1merlin\_175089060\_4716f363-3aa4-407f-9c55-b6328c946790-threeByTwoSmallAt2X.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==":{"\_\_typename":"Article","promotionalHeadline":"‘Everyone
-Can Do Better’: Baseball Searches for Blame Amid
-Outbreaks","promotionalSummary":"Major League Baseball’s commissioner
-put the onus on players to behave more responsibly, but some see
-weaknesses in the league’s safety
-protocols.","headline":{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==.headline","typename":"CreativeWorkHeadline"},"summary":"Major
-League Baseball’s commissioner put the onus on players to behave more
-responsibly, but some players and health experts see weaknesses in the
-league’s safety
-protocols.","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002Fbaseball\\u002Fmlb-coronavirus-outbreaks.html","firstPublished":"2020-08-02T22:40:58.000Z","promotionalMedia":{"type":"id","generated":false,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvMGM5NDk3ZGYtZWIzYy01ZjYyLTlhOWYtNmExMGJkN2M1ODMz","typename":"Image"},"section":{"type":"id","generated":false,"id":"Section:U2VjdGlvbjpueXQ6Ly9zZWN0aW9uLzQzODE0MTFiLTY3MGYtNTQ1OS04Mjc3LWIxODE0ODVhMTllYw==","typename":"Section"},"id":"QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==","bylines":\[{"type":"id","generated":true,"id":"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==.bylines.0","typename":"Byline"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==.headline":{"default":"‘Everyone
-Can Do Better’: Baseball Searches for Blame Amid
-Outbreaks","\_\_typename":"CreativeWorkHeadline"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvMGM5NDk3ZGYtZWIzYy01ZjYyLTlhOWYtNmExMGJkN2M1ODMz":{"id":"SW1hZ2U6bnl0Oi8vaW1hZ2UvMGM5NDk3ZGYtZWIzYy01ZjYyLTlhOWYtNmExMGJkN2M1ODMz","crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]})":\[{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvMGM5NDk3ZGYtZWIzYy01ZjYyLTlhOWYtNmExMGJkN2M1ODMz.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0","typename":"ImageCrop"}\],"\_\_typename":"Image"},"ImageRendition:images20200802sports02mlb02mlb-videoLarge-v2.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F02mlb\\u002F02mlb-videoLarge-v2.jpg","name":"videoLarge","\_\_typename":"ImageRendition"},"ImageRendition:images20200802sports02mlb02mlb-mediumThreeByTwo440-v2.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F02mlb\\u002F02mlb-mediumThreeByTwo440-v2.jpg","name":"mediumThreeByTwo440","\_\_typename":"ImageRendition"},"ImageRendition:images20200802sports02mlb02mlb-threeByTwoSmallAt2X-v2.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F02mlb\\u002F02mlb-threeByTwoSmallAt2X-v2.jpg","name":"threeByTwoSmallAt2X","\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvMGM5NDk3ZGYtZWIzYy01ZjYyLTlhOWYtNmExMGJkN2M1ODMz.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200802sports02mlb02mlb-videoLarge-v2.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200802sports02mlb02mlb-mediumThreeByTwo440-v2.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200802sports02mlb02mlb-threeByTwoSmallAt2X-v2.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==":{"\_\_typename":"Article","promotionalHeadline":"How
-Will Empty Stadiums Affect Baseball
-Season?","promotionalSummary":"Players, coaches and analysts of all
-stripes are watching to see what effect — if any — the absence of fans
-has on the
-games.","headline":{"type":"id","generated":true,"id":"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==.headline","typename":"CreativeWorkHeadline"},"summary":"Players,
-coaches and analysts of all stripes are watching this season’s games to
-see what effect — if any — the absence of fans has on the games
-themselves.","url":"https:\\u002F\\u002Fwww.nytimes3xbfgragh.onion\\u002F2020\\u002F07\\u002F31\\u002Fsports\\u002Fbaseball\\u002Fbaseball-empty-stadiums-effects.html","firstPublished":"2020-07-31T09:00:21.000Z","promotionalMedia":{"type":"id","generated":false,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvOGI2NmI4NTgtMjQyZi01Y2I3LTgxYzgtZTNmNmJmMjQyYWQ1","typename":"Image"},"section":{"type":"id","generated":false,"id":"Section:U2VjdGlvbjpueXQ6Ly9zZWN0aW9uLzQzODE0MTFiLTY3MGYtNTQ1OS04Mjc3LWIxODE0ODVhMTllYw==","typename":"Section"},"id":"QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==","bylines":\[{"type":"id","generated":true,"id":"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==.bylines.0","typename":"Byline"}\]},"$Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==.headline":{"default":"Baseball
-in Empty Stadiums Is Weird. How Will It Affect
-Outcomes?","\_\_typename":"CreativeWorkHeadline"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvOGI2NmI4NTgtMjQyZi01Y2I3LTgxYzgtZTNmNmJmMjQyYWQ1":{"id":"SW1hZ2U6bnl0Oi8vaW1hZ2UvOGI2NmI4NTgtMjQyZi01Y2I3LTgxYzgtZTNmNmJmMjQyYWQ1","crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]})":\[{"type":"id","generated":true,"id":"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvOGI2NmI4NTgtMjQyZi01Y2I3LTgxYzgtZTNmNmJmMjQyYWQ1.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0","typename":"ImageCrop"}\],"\_\_typename":"Image"},"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-videoLarge.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F00mlb-empty-2\\u002F00mlb-empty-2-videoLarge.jpg","name":"videoLarge","\_\_typename":"ImageRendition"},"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-mediumThreeByTwo440.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F00mlb-empty-2\\u002F00mlb-empty-2-mediumThreeByTwo440.jpg","name":"mediumThreeByTwo440","\_\_typename":"ImageRendition"},"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-threeByTwoSmallAt2X.jpg":{"url":"https:\\u002F\\u002Fstatic01.graylady3jvrrxbe.onion\\u002Fimages\\u002F2020\\u002F08\\u002F02\\u002Fsports\\u002F00mlb-empty-2\\u002F00mlb-empty-2-threeByTwoSmallAt2X.jpg","name":"threeByTwoSmallAt2X","\_\_typename":"ImageRendition"},"Image:SW1hZ2U6bnl0Oi8vaW1hZ2UvOGI2NmI4NTgtMjQyZi01Y2I3LTgxYzgtZTNmNmJmMjQyYWQ1.crops({\\"renditionNames\\":\[\\"threeByTwoSmallAt2X\\",\\"videoLarge\\",\\"mediumThreeByTwo440\\"\]}).0":{"renditions":\[{"type":"id","generated":false,"id":"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-videoLarge.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-mediumThreeByTwo440.jpg","typename":"ImageRendition"},{"type":"id","generated":false,"id":"ImageRendition:images20200802sports00mlb-empty-200mlb-empty-2-threeByTwoSmallAt2X.jpg","typename":"ImageRendition"}\],"\_\_typename":"ImageCrop"},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2QxMmJlZDdiLTk4MzEtNTE2ZC1iYjE0LTJlMWNhOGQyYjE2MA==.bylines.0":{"creators":\[{"type":"id","generated":false,"id":"Person:UGVyc29uOm55dDovL3BlcnNvbi9kMWNjY2Y5Mi1jMDM2LTU3NWQtYTUxMy1kMTFmMWJhMTBkMTA=","typename":"Person"}\],"\_\_typename":"Byline"},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2E0YTRjYTIwLWNkMjQtNWMyMS05ZjA2LWNiODg4N2Y0YjM0MA==.bylines.0":{"creators":\[{"type":"id","generated":false,"id":"Person:UGVyc29uOm55dDovL3BlcnNvbi9kMWNjY2Y5Mi1jMDM2LTU3NWQtYTUxMy1kMTFmMWJhMTBkMTA=","typename":"Person"}\],"\_\_typename":"Byline"},"Person:UGVyc29uOm55dDovL3BlcnNvbi8yMTQ4OGFjNi0zNjE4LTU3ODktOTEzYi0zOTFmYzFkZWQyZWQ=":{"id":"UGVyc29uOm55dDovL3BlcnNvbi8yMTQ4OGFjNi0zNjE4LTU3ODktOTEzYi0zOTFmYzFkZWQyZWQ=","displayName":"Robert
-O’Connell","\_\_typename":"Person"},"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2Q5NzQzYTMyLTI0MjItNWIyOS05ZWEyLWE3ZWNmZjgwNzBjYQ==.bylines.0":{"creators":\[{"type":"id","generated":false,"id":"Person:UGVyc29uOm55dDovL3BlcnNvbi8yMTQ4OGFjNi0zNjE4LTU3ODktOTEzYi0zOTFmYzFkZWQyZWQ=","typename":"Person"}\],"\_\_typename":"Byline"},"ROOT\_QUERY":{"workOrLocation({\\"id\\":\\"\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002Fbaseball\\u002Faaron-judge-yankees.html\\"})":{"type":"id","generated":false,"id":"Article:QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2JiZDI0MDhhLTFkNTMtNTkzZS05NDQ1LWVmNjZiNzUwYzk0Mw==","typename":"Article"}}},"config":{"gqlUrlClient":"https:\\u002F\\u002Fsamizdat-graphql.nytimes3xbfgragh.onion\\u002Fgraphql\\u002Fv2","gqlRequestHeaders":{"nyt-app-type":"project-vi","nyt-app-version":"0.0.5","nyt-token":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+\\u002FoUCTBmD\\u002FcLdmcecrnBMHiU\\u002FpxQCn2DDyaPKUOXxi4p0uUSZQzsuq1pJ1m5z1i0YGPd1U1OeGHAChWtqoxC7bFMCXcwnE1oyui9G1uobgpm1GdhtwkR7ta7akVTcsF8zxiXx7DNXIPd2nIJFH83rmkZueKrC4JVaNzjvD+Z03piLn5bHWU6+w+rA+kyJtGgZNTXKyPh6EC6o5N+rknNMG5+CdTq35p8f99WjFawSvYgP9V64kgckbTbtdJ6YhVP58TnuYgr12urtwnIqWP9KSJ1e5vmgf3tunMqWNm6+AnsqNj8mCLdCuc5cEB74CwUeQcP2HQQmbCddBy2y0mEwIDAQAB"},"gqlFetchTimeout":4000,"disablePersistedQueries":false,"initialDeviceType":"desktop","fastlyAbraConfig":{},"serviceWorkerFile":"service-worker-test-1596491564741.js"},"ssrQuery":{},"initialLocation":{"pathname":"\\u002F2020\\u002F08\\u002F03\\u002Fsports\\u002Fbaseball\\u002Faaron-judge-yankees.html"}};
+to do that.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -147,14 +147,14 @@ Biden</span>
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -317,14 +317,21 @@ Lerer</span>](https://www.nytimes3xbfgragh.onion/by/lisa-lerer)
 
 </div>
 
-  - Aug. 3,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">4:04 p.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -351,37 +358,14 @@ Lerer</span>](https://www.nytimes3xbfgragh.onion/by/lisa-lerer)
 
 <div class="css-53u6y8">
 
-<div class="css-1wlr991">
-
-<div class="css-18e8msd">
-
-<div class="css-2ja7y1 epjyd6m0">
-
-<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
-
-[![Lisa
-Lerer](https://static01.graylady3jvrrxbe.onion/images/2018/09/11/us/politics/author-lisa-lerer/lisa-lerer-headshot-thumbLarge.png
-"Lisa Lerer")](https://www.nytimes3xbfgragh.onion/by/lisa-lerer)
-
-</div>
-
-<div class="css-1baulvz">
-
-By [<span class="css-1baulvz last-byline" itemprop="name">Lisa
-Lerer</span>](https://www.nytimes3xbfgragh.onion/by/lisa-lerer)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 *Hi. Welcome to* [*On
 Politics*](https://www.nytimes3xbfgragh.onion/spotlight/on-politics)*,
-your guide to the day in national politics. I’m Lisa Lerer, your
-host.*
+your guide to the day in national politics. I’m Lisa Lerer, your host.*
+
+[*Sign up
+here*](https://www.nytimes3xbfgragh.onion/newsletters/politics?module=inline)
+*to get On Politics in your inbox every
+weekday.*
 
 </div>
 
@@ -408,19 +392,13 @@ host.*
 When it comes to the vice presidency, Joe Biden has a perfect candidate
 in mind: himself.
 
-Well, if he were *Josephine* R. Biden Jr., of course.
+Well, if he were *Josephine* Biden, of course.
 
 In comments about his search for a running mate, Mr. Biden has made
 clear he wants someone with the characteristics that he believes made
 him the perfect pick for Barack Obama in 2008 — someone who is loyal, is
 ready to govern “on Day 1” and is, as Mr. Biden has said, “simpatico
 with me, both in terms of personality as well as substance.”
-
-Of course, self-perception isn’t always accurate. Sure, Mr. Obama wanted
-someone he could work alongside. And, as his strategist David Axelrod
-later recounted, [early
-chemistry](https://www.usatoday.com/story/news/politics/onpolitics/2015/02/10/biden-vice-president-bayh-axelrod/81211852/)
-between the two men helped finalize the selection of Mr. Biden.
 
 </div>
 
@@ -429,6 +407,12 @@ between the two men helped finalize the selection of Mr. Biden.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Of course, self-perception isn’t always accurate. Sure, Mr. Obama wanted
+someone he could work alongside. And, as his strategist David Axelrod
+later recounted, [early
+chemistry](https://www.usatoday.com/story/news/politics/onpolitics/2015/02/10/biden-vice-president-bayh-axelrod/81211852/)
+between the two men helped finalize the selection of Mr. Biden.
 
 But at the start, the Obama-Biden relationship was hardly the bromance
 immortalized in the Democratic memes that followed. People close to Mr.
@@ -442,16 +426,8 @@ that August, the thinking of those in Mr. Obama’s orbit was that they
 needed a white man on the ticket, preferably an “[older
 guy](https://www.nytimes3xbfgragh.onion/2019/08/16/us/politics/biden-obama-history.html)”
 who could reassure voters worried about taking a chance on a young,
-barrier-breaking senator.
-
-People involved in the process, The New York Times [reported in the
-immediate aftermath of the
-announcement](https://www.nytimes3xbfgragh.onion/2008/08/24/us/politics/24deconstruct.html?_r=1&hp=&adxnnl=1&oref=slogin&adxnnlx=1219585399-mopoNQ9Taivokt1V0PHsig),
-attributed Mr. Obama’s decision to Mr. Biden’s appeal among white
-working-class voters and his compelling personal story. Another plus: At
-Mr. Biden’s age, then a spry 65 years old, Obama advisers didn’t expect
-him to run for the presidency
-(LOL).
+barrier-breaking
+senator.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -465,30 +441,31 @@ him to run for the presidency
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T01:23:51.312Z
+Updated 2020-08-04T19:51:31.635Z
 
 </div>
 
 </div>
 
-  - [Trump assails mail-in voting anew, citing delays in declaring a
-    winner in a New York congressional
-    primary.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
-  - [Obama issues his first slate of 2020
-    endorsements.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
-  - [In a big shift, Trump is now encouraging mask-wearing in campaign
-    emails.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
+  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
+    to
+    Trump.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
+  - [President Trump is suddenly a big supporter of mail-in voting — in
+    Florida.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
+  - [Election experts warn Congress about widespread disenfranchisement
+    of voters of color in
+    November.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6d019753)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -503,14 +480,19 @@ updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-tru
 </div>
 
 </div>
+
+People involved in the process, The New York Times [reported in the
+immediate aftermath of the
+announcement](https://www.nytimes3xbfgragh.onion/2008/08/24/us/politics/24deconstruct.html?_r=1&hp=&adxnnl=1&oref=slogin&adxnnlx=1219585399-mopoNQ9Taivokt1V0PHsig),
+attributed Mr. Obama’s decision to Mr. Biden’s appeal among white
+working-class voters and his compelling personal story. Another plus: At
+Mr. Biden’s age, then a spry 65 years old, Obama advisers didn’t expect
+him to run for the presidency (LOL).
 
 “You are the pick of my heart, but Joe is the pick of my head,” [Mr.
 Obama told Tim
 Kaine](https://www.nytimes3xbfgragh.onion/2019/08/16/us/politics/biden-obama-history.html),
 then the governor of Virginia, after he made his choice.
-
-So Mr. Biden’s idealized version of his own vice-presidential process
-clearly involves a bit of revisionist history.
 
 </div>
 
@@ -519,6 +501,9 @@ clearly involves a bit of revisionist history.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+So Mr. Biden’s idealized version of his own vice-presidential process
+clearly involves a bit of revisionist history.
 
 He has already made at least one politically strategic choice by
 limiting the candidates to women. Limiting the prospects by gender
@@ -556,13 +541,6 @@ Biden allies” and the chattering donors. Sure, picking a running mate is
 complicated. Sure, personal relationships and trust matter. But you know
 who doesn’t care about chemistry? Losing presidential candidates.
 
-In the end, there’s one strategic imperative that outweighs all of the
-others.
-
-Winning.
-
------
-
 </div>
 
 </div>
@@ -570,6 +548,13 @@ Winning.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+In the end, there’s one strategic imperative that outweighs all of the
+others.
+
+Winning.
+
+-----
 
 **Drop us a
 line\!**
@@ -782,7 +767,7 @@ more of? We’d love to hear from you. Email us at*
 
 # Our 2020 Election Guide
 
-Updated Aug. 3, 2020
+Updated Aug. 4, 2020
 
   - 
     
@@ -790,9 +775,11 @@ Updated Aug. 3, 2020
     
     ## The Latest
     
-      - President Trump again assails mail-in voting, [claiming without
-        evidence that the process is plagued by
-        fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+      - Five states are holding primary elections Tuesday, with voters
+        in Arizona, Kansas, Michigan, Missouri and Washington State
+        choosing nominees for Congress and local offices. [Follow live
+        election updates
+        here.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

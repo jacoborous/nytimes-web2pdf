@@ -83,7 +83,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Science](/section/science)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">How
-Hot is Too
+Hot Is Too
 Hot?</span>
 
 </div>
@@ -117,6 +117,7 @@ Hot?</span>
     
     </div>
 
+  - 
   - 
 
 </div>
@@ -191,7 +192,7 @@ good question
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# How Hot is Too Hot?
+# How Hot Is Too Hot?
 
 </div>
 
@@ -211,14 +212,20 @@ Munroe</span>
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">2:30 a.m.
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4, 2020Updated <span class="css-epvm6">3:20 p.m.
     ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -229,6 +236,7 @@ Munroe</span>
         
         </div>
     
+      - 
       - 
     
     </div>

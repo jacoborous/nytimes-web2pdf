@@ -199,8 +199,14 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine J.
-    Wu</span>
+    By <span class="css-1n7hynb">Katherine J. Wu</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html "Read in Spanish")
     
     </div>
     

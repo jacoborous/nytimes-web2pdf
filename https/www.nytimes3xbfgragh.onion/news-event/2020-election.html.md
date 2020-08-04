@@ -80,7 +80,7 @@ Advertisement
 [Continue reading the main
 story](#after-top)
 
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block">
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
 <div id="top" class="place-ad" data-position="top" data-size-key="top">
 
@@ -211,14 +211,14 @@ story](#after-subheader)
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
     
     </div>
 
@@ -323,9 +323,10 @@ story](#after-subheader)
 
 ### The Latest
 
-President Trump again assails mail-in voting, [claiming without evidence
-that the process is plagued by
-fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html).
+Five states are holding primary elections Tuesday, with voters in
+Arizona, Kansas, Michigan, Missouri and Washington State choosing
+nominees for Congress and local offices. [Follow live election updates
+here.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
 
 </div>
 
@@ -338,7 +339,7 @@ women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html
 who have been under consideration to be Joe Biden’s running mate, and
 why each might be chosen — and might not be.
 
-Last updated Aug. 3,
+Last updated Aug. 4,
 2020
 
 </div>
@@ -360,7 +361,7 @@ contenders.
 
 <div class="headshot-wrapper" style="background:#1a80c4; ">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/biden.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/855e17443cc43c7f3b32de9d2d19719bae50ba6c/headshots/biden.png)
 
 </div>
 
@@ -377,7 +378,7 @@ Democrat
 
 <div class="headshot-wrapper" style="background:#cf222c; ">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/trump.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/855e17443cc43c7f3b32de9d2d19719bae50ba6c/headshots/trump.png)
 
 </div>
 
@@ -418,7 +419,30 @@ Republican
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-thumbStandard-v2.jpg)](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    
+    </div>
+    
+    ## [Live 2020 Election Updates: Kris Kobach and Rashida Tlaib Are on the Primary Ballot](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    
+    President Trump downplayed the legacy of John Lewis in an interview.
+    In St. Louis, Cori Bush, a progressive activist, will try again to
+    unseat William Lacy Clay, a 20-year
+    incumbent.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
     Mills/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-videoLarge.jpg)
     
@@ -444,19 +468,21 @@ Republican
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+<!-- end list -->
+
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
     Mills/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    <div class="css-1hyfx7x">
+    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbStandard.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbLarge.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     </div>
-    
-    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     The president and his aides are holding out hope for ambitious
     convention programming, and have considered a return to Mount
@@ -469,9 +495,7 @@ Republican
     
     </div>
 
-<!-- end list -->
-
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-videoLarge-v2.png)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
@@ -492,30 +516,6 @@ Republican
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Lisa
     Lerer</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
-    Jarrus for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
-    
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
-    
-    </div>
-    
-    The Michigan Democrat is facing a rematch against a challenger who
-    says she hasn’t done enough for her district in
-    Detroit.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
-    Gray</span></span>
     
     </div>
 
@@ -575,24 +575,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04whattowatch1/merlin_170318628_cc5fe952-825b-47c8-8354-897171b41804-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Today’s Primary Elections: What to Watch For
+    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
     
-    Kris Kobach is competing in a Senate primary in Kansas that has
-    Republicans nervous, and Rashida Tlaib is hoping to hang on against
-    a Democratic challenger in a Michigan House race.
+    President Trump was asked by an interviewer to reflect on the late
+    congressman’s contributions to the civil rights movement. He talked
+    up his own record instead.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The New York
-    Times</span>
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
+    Vigdor</span>
     
     </div>
     
@@ -605,6 +605,78 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/trump-prosecutors.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/20/us/onpolitics-speech-bubble-white-still/onpolitics-speech-bubble-white-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Politics</span>
+    
+    ## A Wider-Than-Thought Trump Investigation
+    
+    New York prosecutors may be circling the president’s business
+    practices: This is your morning tip sheet.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Giovanni
+    Russonello</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    
+    At every step in her political career, the California congresswoman
+    had to be coaxed to run for a higher office. Now she’s a top
+    contender to be Joe Biden’s running mate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
+    Jennifer
+    Medina</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -639,7 +711,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -674,7 +746,41 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?
+    
+    The Michigan Democrat is facing a rematch against a challenger who
+    says she hasn’t done enough for her district in Detroit.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kathleen
+    Gray</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -707,7 +813,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -741,7 +847,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -776,7 +882,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -799,113 +905,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/business/media/election-coverage.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The media equation</span>
-    
-    ## How the Media Could Get the Election Story Wrong
-    
-    We may not know the results for days, and maybe weeks. So it’s time
-    to rethink “election night.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben
-    Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Elizabeth Warren’s Evolution on Race Brought Her Here
-    
-    Ms. Warren, a racially progressive politician, is one of a handful
-    of white women still under serious consideration to become Joe
-    Biden’s running mate.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
-    Ember</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/alexander-vindman-impeachment-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01dc-vindman-pix/01dc-vindman-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Army Officer Who Clashed With Trump Vows to Speak Out on Security Issues
-    
-    Lt. Col. Alexander S. Vindman’s retirement from the Army after more
-    than 21 years of service took effect on Saturday, the same day his
-    sharply critical op-ed of the president was published.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Eric Schmitt</span>
+    Weiland, Peter Baker <span>and</span> Annie Karni</span>
     
     </div>
     

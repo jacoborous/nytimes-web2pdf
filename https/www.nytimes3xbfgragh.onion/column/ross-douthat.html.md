@@ -203,6 +203,40 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/trump-republicans-tea-party.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04douthatSub/04douthatSub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Republicans Are Ready for the Don Draper Method
+    
+    The coronavirus relief debate has Republicans falling back into
+    pre-Trump grooves.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ross
+    Douthat</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/25/opinion/sunday/abortion-racism-margaret-sanger.html)
     
     <div class="css-79elbk">
@@ -230,7 +264,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -263,7 +297,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -297,7 +331,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -330,7 +364,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -370,7 +404,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +437,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -437,7 +471,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -470,7 +504,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -488,39 +522,6 @@ He lives with his wife and three children in New Haven.
     
     In a revolutionary summer, he may be losing the battle for the
     future of the left.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/20/opinion/sunday/neil-gorsuch-supreme-court.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/21/opinion/sunday/21Douthat/21Douthat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Tempting of Neil Gorsuch
-    
-    Another conservative justice’s arc bends toward juristocracy.
     
     <div class="css-1nqbnmb ea5icrr0">
     

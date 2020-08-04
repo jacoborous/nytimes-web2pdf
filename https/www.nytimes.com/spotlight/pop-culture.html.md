@@ -225,75 +225,77 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-thumbStandard.jpg)](/2020/07/31/movies/palm-springs-clip-hulu.html)
+    [![](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
     
     </div>
     
-    ### anatomy of a scene
+    ### Critic’s Notebook
     
-    ## [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](/2020/07/31/movies/palm-springs-clip-hulu.html)
+    ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
     
-    The director Max Barbakow narrates a wedding sequence from his
-    comedy, now streaming on
-    Hulu.
+    The Muppets were made of, by and for TV. Two new shows, “Muppets
+    Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO Max,
+    reimagine the media-savvy furry friends for a new
+    age.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mekado
-    Murphy</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Poniewozik</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
-        Maron</span>](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
+        Ord/Getty Images; Roy Rochlin, via Getty
+        Images;</span>](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        ## [Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-thumbStandard.jpg)](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        [![](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-thumbStandard-v2.jpg)](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
         
         </div>
         
-        The comedian and podcaster reflects on his relationship with the
-        filmmaker and TV director who died unexpectedly in
-        May.
+        His 2011 “Contagion” and her new thriller “She Dies Tomorrow”
+        have added resonance now. “Why is this kind of imagery so
+        compelling?” Soderbergh
+        asked.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Dave
-        Itzkoff</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Kyle
+        Buchanan</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-videoLarge-v2.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Diary of a Song
+        ### anatomy of a scene
         
-        ## [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+        ## [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](/2020/07/31/movies/palm-springs-clip-hulu.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbStandard.jpg)](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+        [![](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-thumbStandard.jpg)](/2020/07/31/movies/palm-springs-clip-hulu.html)
         
         </div>
         
-        The singer and songwriter prefers a ballad. But collaborators
-        yanked her out of her comfort zone for “Kyoto,” a breakout from
-        her latest acclaimed album. Here’s how she made
-        it.
+        The director Max Barbakow narrates a wedding sequence from his
+        comedy, now streaming on
+        Hulu.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Joe
-        Coscarelli</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Mekado
+        Murphy</span></span>
         
         </div>
 
@@ -303,26 +305,79 @@ story](#after-subheader)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robyn
-    Beck/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
+    Maron</span>](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Beyoncé’s ‘Black Is King’ Is No Secret, but Still Comes With Mystery](/2020/07/30/arts/music/beyonce-black-is-king.html)
+    ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
     
-    Her latest project is her first with Disney+: a visual album
-    connected to the music she oversaw for the “Lion King” remake. And
-    as usual, she’s captured fans’ attention by saying
-    little.
+    The comedian and podcaster reflects on his relationship with the
+    filmmaker and TV director who died unexpectedly in
+    May.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Sisario</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dave
+    Itzkoff</span></span>
     
     </div>
 
-2.  ### critic’s notebook
+2.  ### Diary of a Song
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+    
+    The singer and songwriter prefers a ballad. But collaborators yanked
+    her out of her comfort zone for “Kyoto,” a breakout from her latest
+    acclaimed album. Here’s how she made
+    it.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Joe
+    Coscarelli</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
+    Auringer</span>](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous
+    work.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Rubin</span></span>
+    
+    </div>
+
+4.  ### Critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/arts/31akumpo1/31akumpo1-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Most Soothing Man on TikTok](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
+    
+    By slowing down and soaking it all in, Larry Scott makes the whole
+    TikTok experience …
+    nice.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jon
+    Caramanica</span></span>
+    
+    </div>
+
+5.  ### critic’s notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.nyt.com/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
     
@@ -340,7 +395,15 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>George
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>George
     Rose/Getty
     Images</span>](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-videoLarge.jpg)
     
@@ -359,7 +422,7 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     Hill/HBO</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-CONVO2/merlin_163951620_f1b96611-35ce-463f-9f90-41787acd5e33-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -378,7 +441,7 @@ story](#after-subheader)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
     via Associated
     Press</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-SNUBS4/merlin_165673722_e416155d-ccbd-49b3-a550-1b775c971c0f-videoLarge.jpg)
     
@@ -395,15 +458,7 @@ story](#after-subheader)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Album Review
+4.  ### Album Review
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
     Garrabrant</span>](https://static01.nyt.com/images/2020/07/29/arts/26TAYLOR-REVIEW2/26TAYLOR-REVIEW2-videoLarge.jpg)
@@ -423,26 +478,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Farah
-    Al Qasimi for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/arts/00summer-zinoman1/merlin_174777021_45ff5d3b-2a73-481d-8223-385891925f10-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [As a Teenager, I Hated Johnny Carson. Then Came the Pandemic.](/2020/07/26/arts/television/johnny-carson-tonight-show.html)
-    
-    As a teenager, I thought his ‘Tonight Show’ was a bland, uncool
-    relic. Now I appreciate his deadpan humor and the loose weirdness of
-    his
-    interviews.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Zinoman</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rahim
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rahim
     Fortune for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/26/arts/26LIVESTREAMING-BADU1/26LIVESTREAMING-BADU1-videoLarge.jpg)
     
@@ -458,45 +494,6 @@ story](#after-subheader)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Melena
     Ryzik</span></span>
-    
-    </div>
-
-4.  ### Critic’s Notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Out
-    of
-    Office</span>](https://static01.nyt.com/images/2020/07/26/arts/26livestreaming-pareles/26livestreaming-pareles-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Intimacy Is Overrated: Concerts in the Livestream Era](/2020/07/21/arts/music/livestreams-intimacy.html)
-    
-    What’s lost when audiences can’t be close to musicians, applause is
-    virtual and over-the-top artists are crammed into screens? So
-    much.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jon
-    Pareles</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Out
-    of
-    Office</span>](https://static01.nyt.com/images/2020/07/26/arts/26livestream-biz/26livestream-biz-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Concerts Aren’t Back. Livestreams Are Ubiquitous. Can They Do the Job?](/2020/07/21/arts/music/concerts-livestreams.html)
-    
-    With no return date for shows in sight, fans and artists are
-    adapting to a new way of experiencing music together. Whether it’ll
-    keep everyone satisfied — and paid — is still
-    unclear.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Peisner</span></span>
     
     </div>
 
@@ -556,6 +553,110 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Answering Your Questions About Taylor Swift’s ‘Folklore’
+    
+    Readers asked about Bon Iver, country music, Jack Antonoff and
+    more.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Comedy</span>
+    
+    ## Sam Jay: A Comic Who Belongs to No Camp
+    
+    With a deadpan glare, the stand-up takes shots at everyone and won’t
+    say something funny just for a laugh. Now she’s on the cusp of
+    breaking out, thanks to a Netflix special.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jason
+    Zinoman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Ask a TV critic</span>
+    
+    ## After ‘The Good Fight,’ Try ‘The Split’
+    
+    Our television critic answers your questions and offers guidance on
+    what to watch next.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Margaret
+    Lyons</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
     
     <div class="css-79elbk">
@@ -587,42 +688,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/arts/music/creem-magazine-documentary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’
-    
-    A new documentary traces the rise and fall of the irreverent,
-    boundary-smashing music publication where Lester Bangs did some of
-    his most famous work.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike
-    Rubin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -657,7 +723,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -691,7 +757,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -726,43 +792,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/arts/31akumpo1/31akumpo1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## The Most Soothing Man on TikTok
-    
-    By slowing down and soaking it all in, Larry Scott makes the whole
-    TikTok experience … nice.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon
-    Caramanica</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -796,7 +826,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -830,66 +860,28 @@ story](#after-mid1)
     
     </div>
 
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/steven-soderbergh-amy-seimetz-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Steven Soderbergh and Amy Seimetz Made the Pandemic Movies of the Moment
-    
-    His 2011 “Contagion” and her new thriller “She Dies Tomorrow” have
-    added resonance now. “Why is this kind of imagery so compelling?”
-    Soderbergh asked.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kyle
-    Buchanan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/arts/television/muppets-now.html)
+    [](/2020/07/31/movies/comfort-viewing-terminator-2.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    ## Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
     
-    ## Muppet Meta Mania, Revived for the Streaming Era
-    
-    The Muppets were made of, by and for TV. Two new shows, “Muppets
-    Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO Max,
-    reimagine the media-savvy furry friends for a new age.
+    Killer robots may not seem like soothing fare, but unlike real life,
+    the world’s horrors come to an end when the movie does.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James Poniewozik</span>
+    By <span class="css-1n7hynb">Nicolas Rapold</span>
     
     </div>
     

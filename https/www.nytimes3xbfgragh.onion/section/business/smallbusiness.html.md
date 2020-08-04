@@ -186,6 +186,146 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/style/self-care/press-on-nails.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Clickety Clack, Press-On Nails Are Back
+    
+    The onetime ’80s mass-market cheapie has gotten an artisanal upgrade
+    — just in time for quarantine home manicures.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jackie
+    Snow</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/dining/chef-restaurant-culture.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">critic’s Notebook</span>
+    
+    ## Twilight of the Imperial Chef
+    
+    For decades, the notion of the lone genius in the kitchen has
+    fostered culinary creativity — and restaurants marred by abuse and
+    unfairness. This may be the time for change.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tejal
+    Rao</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
+    
+    The pandemic has devastated the industry. But some entrepreneurs are
+    finding creative ways to keep their businesses afloat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julie
+    Creswell</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    
+    Even though coronavirus cases have surged again, craft distilleries
+    say the business of making the disinfectant has become more
+    difficult.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kellen
+    Browning</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
     
     <div class="css-79elbk">
@@ -208,6 +348,12 @@ story](#after-sponsor)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/style/20200804/chinatown-outdoor-dining-coronavirus/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/style/20200804/chinatown-outdoor-dining-coronavirus/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -216,7 +362,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -251,7 +397,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -285,7 +431,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -320,7 +466,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -357,7 +503,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -378,144 +524,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ronda
-    Kaysen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/dining/bake-sale-activism-racism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/dining/21Bakers5/merlin_174511041_00c5c47d-a352-4555-859f-3a4f687b86a3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## When the Bake Sale Goes Global, Millions Are Raised to Fight Injustice
-    
-    Online sales have become blockbuster events as long-sidelined pastry
-    chefs lead a charge toward activism.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julia
-    Moskin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/dining/danny-meyer-no-tips.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/dining/20unionsquare1/merlin_174686337_d6e0b14a-58f8-4fbe-a322-f22f3afd1c2a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Danny Meyer’s Restaurants Will End Their No-Tipping Policy
-    
-    Union Square Hospitality Group, which helped lead the move away from
-    tips, changes course as its restaurants reopen.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julia
-    Moskin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/dining/safe-eats-sticker-restaurants-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/dining/16virus-SafeEats1/merlin_174632397_c83d9f6f-a166-492b-8a08-7efad3ccb98e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A New Sticker Aims to Signal Safe Dining in the Pandemic
-    
-    For a fee, the nonprofit Safe Eats will help restaurants with health
-    guidelines and reassure customers. But so far, there’s no guarantee
-    that members will follow the rules.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/07/dining/twin-cities-restaurants-racial-injustice.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/08/dining/07minn-restaurants1/07minn-restaurants1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## In the Twin Cities’ Robust Dining Scene, Few Black-Owned Businesses
-    
-    In the wake of George Floyd’s killing, chefs and restaurateurs are
-    looking for ways to fix the racial imbalance.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mecca Bos</span>
+    By <span class="css-1n7hynb">Ronda Kaysen</span>
     
     </div>
     

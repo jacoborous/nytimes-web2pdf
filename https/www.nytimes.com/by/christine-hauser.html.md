@@ -183,7 +183,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/16/multimedia/00xp-1918masks-03/00xp-1918masks-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/16/multimedia/00xp-1918masks-03/00xp-1918masks-03-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

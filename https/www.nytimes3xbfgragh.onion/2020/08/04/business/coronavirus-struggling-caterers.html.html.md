@@ -118,6 +118,7 @@ Adjust</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -148,14 +149,14 @@ Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=A
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes3xbfgragh.onion/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes3xbfgragh.onion/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes3xbfgragh.onion/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes3xbfgragh.onion/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes3xbfgragh.onion/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes3xbfgragh.onion/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -261,14 +262,20 @@ Creswell</span>](https://www.nytimes3xbfgragh.onion/by/julie-creswell)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4, 2020Updated <span class="css-epvm6">8:18 a.m.
     ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -279,6 +286,7 @@ Creswell</span>](https://www.nytimes3xbfgragh.onion/by/julie-creswell)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -398,7 +406,7 @@ caterers typically pay less for large kitchens that can be off the
 beaten track.
 
 Moreover, caterers tend to be a nimble group of entrepreneurs, adept at
-providing finicky brides with their every heart’s whim and overcoming
+providing finicky couples with their every heart’s whim and overcoming
 the oddest of logistical challenges. Those traits have helped them
 during the pandemic.
 

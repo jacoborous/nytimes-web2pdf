@@ -203,6 +203,40 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+    
+    Government of the minority, chosen by a minority, on behalf of a
+    minority, is not what Lincoln had in mind at Gettysburg.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jamelle
+    Bouie</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
     
     <div class="css-79elbk">
@@ -231,7 +265,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -264,7 +298,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -297,7 +331,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -331,7 +365,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -364,7 +398,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +431,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -437,7 +471,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -471,7 +505,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -489,39 +523,6 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     For that to happen, some monuments — and the historical myths they
     supported — are going to have to come down.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/05/opinion/sunday/police-riots.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/05/opinion/05bouieWeb/merlin_173012772_17b77530-63c2-4752-8a62-9c205735fd25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Police Are Rioting. We Need to Talk About It.
-    
-    It is an attack on civil society and democratic accountability.
     
     <div class="css-1nqbnmb ea5icrr0">
     
