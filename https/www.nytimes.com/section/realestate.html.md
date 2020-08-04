@@ -872,6 +872,42 @@ story](#after-feat4)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">good question</span>
+    
+    ## How Hot is Too Hot?
+    
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to sweat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Randall
+    Munroe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
     
     <div class="css-79elbk">
@@ -900,7 +936,7 @@ story](#after-feat4)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -932,7 +968,7 @@ story](#after-feat4)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -967,7 +1003,7 @@ story](#after-feat4)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -999,7 +1035,7 @@ story](#after-feat4)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1031,7 +1067,7 @@ story](#after-feat4)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1063,7 +1099,7 @@ story](#after-feat4)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1095,7 +1131,7 @@ story](#after-feat4)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1132,7 +1168,7 @@ story](#after-feat4)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1153,41 +1189,6 @@ story](#after-feat4)
     million.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/realestate/2-million-dollar-homes-for-sale-ca-me-il.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/realestate/29WYG-slide-YZ1F/29WYG-slide-YZ1F-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">What you Get</span>
-    
-    ## $3 Million Homes in California, Illinois and Maine
-    
-    A midcentury-modern house in Brentwood, a 1910 home outside Chicago
-    and a 28-acre seasonal camp on Mount Desert Island.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julie Lasky</span>
     
     </div>
     

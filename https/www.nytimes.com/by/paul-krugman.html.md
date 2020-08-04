@@ -177,6 +177,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03krugmanWe/03krugmanWe-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Unemployed Stare Into the Abyss. Republicans Look Away.
+    
+    The cruelty and ignorance of Trump and his allies are creating
+    another gratuitous disaster.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Paul
+    Krugman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/opinion/trump-coronavirus-economy.html)
     
     <div class="css-79elbk">
@@ -204,7 +238,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +277,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +310,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +343,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +409,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +442,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -441,7 +475,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -458,39 +492,6 @@ story](#after-mid1)
     ## How America Lost the War on Covid-19
     
     It wasn’t because of our culture, it was because of our leadership.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul
-    Krugman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/opinion/trump-covid-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/03/opinion/02krugman1/02krugman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump’s Virus Is Spreading, and His Economy Is Stalling
-    
-    The president leads a transition to sickness.
     
     <div class="css-1nqbnmb ea5icrr0">
     

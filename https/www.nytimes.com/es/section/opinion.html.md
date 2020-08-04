@@ -157,11 +157,52 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
-    vía Getty Images
-    Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Comentario
+    
+    ## [Los algoritmos son los nuevos editores](/es/2020/08/02/espanol/opinion/facebook-amazon-instagram.html)
+    
+    ¿Qué tienen en común Instagram, YouTube, Facebook, Amazon, Weibo y
+    Twitter? No son solo redes sociales o plataformas: son los grandes
+    editores de nuestra
+    realidad.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">Jorge
+    Carrión</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
+    Drago para The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Comentario
+    
+    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    
+    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
+    o trabajado en la región, conocemos bien de mandatarios que juegan
+    con los límites de su poder. Adiós al “excepcionalismo
+    estadounidense”.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">Jorge
+    Ramos</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    vía Getty Images
+    Plus</span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Comentario
     
@@ -177,67 +218,24 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zipi
-    Chs/EPA vía
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
+    Cadena
+    Bejarano</span>](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ### Comentario
     
-    ## [Manual de comportamiento para expresidentes insoportables](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
+    ## [La tierra en préstamo: una gramática de la violencia en México](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
     
-    La incapacidad de algunos exmandatarios de España de aceptar su
-    jubilación viene en parte de una falta de cultura democrática.
-    Algunos países de Latinoamérica tienen el mismo
-    problema.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Jiménez</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Presidencia
-    de Argentina/EPA vía
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Comentario
-    
-    ## [¿Por qué no explota Argentina?](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
-    
-    Lecciones de 2001, una fuerte política social asistencialista y una
-    grieta política potente han alejado de momento otro estallido
-    social, pero solo una nueva política cooperativa podrá terminar de
-    disipar ese
-    fantasma.
+    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
+    sobre las urgencias actuales sin fantasías atávicas pero con un
+    nítido sentido de la historia y los desafíos del
+    presente.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz" itemprop="name">Marcelo J. García</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Jordana
-    Timerman</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sol
-    Cotti</span>](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Comentario
-    
-    ## [Las enseñanzas de educar durante la pandemia](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
-    
-    He sido profesor universitario durante más de dos décadas, y estos
-    meses de enseñar durante la pandemia me han hecho entender que la
-    educación ha cambiado para
-    siempre.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Roberto
-    Herrscher</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Juan
+    Villoro</span></span>
     
     </div>
 
@@ -295,27 +293,32 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    [](/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Comentario</span>
     
-    ## Tentaciones autoritarias: cómo América Latina nos preparó para Trump
+    ## El Colegio Electoral de Estados Unidos: la poco conocida historia que explica su vigencia
     
-    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
-    o trabajado en la región, conocemos bien de mandatarios que juegan
-    con los límites de su poder. Adiós al “excepcionalismo
-    estadounidense”.
+    Aunque ha habido intentos recurrentes de reformar el complejo método
+    de elegir presidentes en ese país, las políticas raciales han tenido
+    un lugar protagónico en impedir cambios.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Jorge
-    Ramos</span>
+    Por <span class="css-1n7hynb">Alexander Keyssar</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/03/opinion/electoral-college-racism-white-supremacy.html "Read in English")
     
     </div>
     
@@ -328,6 +331,81 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## La salud pública en México es eso-que-nadie-quiere-usar
+    
+    Las clases medias mexicanas claudicaron de intentar atenderse en
+    hospitales públicos y los más pobres los usan pensando que ahí solo
+    van a morirse. Esto debe cambiar.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Viri
+    Ríos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/02/espanol/opinion/pandillas-el-salvador.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## En El Salvador todos han negociado con las pandillas
+    
+    Dialogar con las pandillas ha sido una realidad en el país:
+    políticos de todos los colores lo han hecho por casi una década,
+    pero solo unos cuantos han sido perseguidos por hacerlo. ¿Es una
+    utopía transparentar esos pactos?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Óscar
+    Martínez</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -371,44 +449,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/30/espanol/opinion/aztecas-violencia-narco-amlo.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/29villoro-sub/29villoro-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## La tierra en préstamo: una gramática de la violencia en México
-    
-    El hallazgo de un inmenso altar fúnebre azteca permite reflexionar
-    sobre las urgencias actuales sin fantasías atávicas pero con un
-    nítido sentido de la historia y los desafíos del presente.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Juan
-    Villoro</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +489,120 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/29/espanol/opinion/espana-felipe-gonzalez-jose-maria-aznar.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/multimedia/29Jimenez-ES/29Jimenez-ES-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## Manual de comportamiento para expresidentes insoportables
+    
+    La incapacidad de algunos exmandatarios de España de aceptar su
+    jubilación viene en parte de una falta de cultura democrática.
+    Algunos países de Latinoamérica tienen el mismo problema.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">David
+    Jiménez</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/28/espanol/opinion/argentina-estallido-2001-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/28/multimedia/28garcia-timerman-ES-3/28garcia-timerman-ES-3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## ¿Por qué no explota Argentina?
+    
+    Lecciones de 2001, una fuerte política social asistencialista y una
+    grieta política potente han alejado de momento otro estallido
+    social, pero solo una nueva política cooperativa podrá terminar de
+    disipar ese fantasma.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Marcelo J. García <span>y</span>
+    Jordana
+    Timerman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/07/27/espanol/opinion/clases-universidad-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/opinion/00herrcher/00herrcher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## Las enseñanzas de educar durante la pandemia
+    
+    He sido profesor universitario durante más de dos décadas, y estos
+    meses de enseñar durante la pandemia me han hecho entender que la
+    educación ha cambiado para siempre.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Roberto
+    Herrscher</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -491,7 +645,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -517,165 +671,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Alberto Barrera
-    Tyszka</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/24/espanol/opinion/walter-mercado-amor-netflix.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/multimedia/24toro-ES/24toro-ES-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## Walter Mercado después del amor
-    
-    Un documental rinde tributo a una figura tan compleja y
-    contradictoria como los valores de la sociedad latinoamericana que
-    lo idolatró y que encontró en sus horóscopos una fuente de
-    esperanza. Pero también es una carta de amor a la nostalgia
-    compartida de toda una región.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Ana Teresa
-    Toro</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/23/espanol/opinion/lopez-gatell.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/multimedia/23Fonseca-ES/merlin_172216524_7d574f61-d31a-4822-b54a-bd624033875b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## El factor López-Gatell
-    
-    La fractura de la imagen del portavoz del combate al coronavirus de
-    México no es solo producto de sus errores. Sus fallos son producto
-    del modelo de gestión de un gobierno más proclive a la improvisación
-    que a la planeación.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Diego
-    Fonseca</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/22/espanol/opinion/portland-protestas-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/opinion/22Goldberg-ES/20goldbergWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## La ocupación de Trump de las ciudades estadounidenses ha comenzado
-    
-    Manifestantes en Portland fueron detenidos en las calles sin orden
-    judicial por agentes no identificados. Y se anunció que en Chicago
-    podría suceder lo mismo. ¿Ya podemos llamarlo fascismo?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Michelle Goldberg</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/20/opinion/portland-protests-trump.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/22/espanol/opinion/periodismo-brasil-favelas.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/multimedia/22pires-ES-1/22pires-ES-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## Desde las favelas de Brasil: una lección de periodismo
-    
-    Los medios comunitarios brasileños debaten los temas más urgentes de
-    nuestro tiempo: la pandemia y el racismo. Lo medios tradicionales
-    pueden apoyarse en ellos para ampliar sus coberturas y el público
-    acercarse a ellos para salir de sus burbujas.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Carol Pires</span>
+    Por <span class="css-1n7hynb">Alberto Barrera Tyszka</span>
     
     </div>
     

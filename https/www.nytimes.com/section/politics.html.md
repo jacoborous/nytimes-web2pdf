@@ -167,30 +167,7 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
-    Tripplaar/Alamy</span>](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    </div>
-    
-    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    Members of a congressional oversight panel want to know how YRC
-    Worldwide won a $700 million loan from the Treasury
-    Department.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alan
-    Rappeport</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Moneymaker for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
     
@@ -214,6 +191,29 @@ story](#after-sponsor)
     <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Jim
     Tankersley</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
+    Tripplaar/Alamy</span>](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.nyt.com/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+    
+    </div>
+    
+    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+    
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury
+    Department.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Rappeport</span></span>
     
     </div>
 

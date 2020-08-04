@@ -285,22 +285,27 @@ Haberman</span>](https://www.nytimes3xbfgragh.onion/by/maggie-haberman)
 
 <div class="css-53u6y8">
 
-Microsoft said on Sunday that it would continue to pursue the purchase
-of TikTok in the United States after consulting with President Trump,
-clearing the way for a potential blockbuster deal between the software
-giant and the viral social media phenomenon.
+Microsoft said on Sunday that it would continue to pursue the [purchase
+of
+TikTok](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/tiktok-microsoft-tweens.html)
+in the United States after consulting with President Trump, clearing the
+way for a potential blockbuster deal between the software giant and the
+viral social media phenomenon.
 
 [The
 announcement](https://blogs.microsoft.com/blog/2020/08/02/microsoft-to-continue-discussions-on-potential-tiktok-purchase-in-the-united-states/)
-came as Mr. Trump has expressed repeated concerns about TikTok and
-national security in recent weeks because of the app’s Chinese origins
-and backing; on Friday, Mr. Trump threatened to ban the app entirely
-within the United States, saying any decision could come as soon as
-Saturday.
+came as Mr. Trump has expressed repeated concerns about
+[TikTok](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/trump-tiktok-microsoft.html)
+and national security in recent weeks because of the app’s Chinese
+origins and backing; on Friday, [Mr. Trump threatened to ban the
+app](https://www.nytimes3xbfgragh.onion/2020/08/02/style/tiktok-ban-threat-trump.html)
+entirely within the United States, saying any decision could come as
+soon as Saturday.
 
 Those plans appeared to change after several of Mr. Trump’s allies and
-Satya Nadella, the chief executive of Microsoft, spoke over the weekend
-with the president.
+Satya Nadella, the chief executive of
+[Microsoft](https://www.nytimes3xbfgragh.onion/2020/08/03/us/navy-seal-museum-kaepernick.html),
+spoke over the weekend with the president.
 
 “Microsoft fully appreciates the importance of addressing the
 president’s concerns,” the company [said in a
@@ -320,9 +325,10 @@ including the United States Treasury.”
 Microsoft said it would pursue the deal over the coming weeks, and
 expected to complete the discussions no later than Sept. 15. Such a deal
 would involve purchasing the TikTok service in the United States,
-Canada, Australia and New Zealand; ByteDance, the parent company of
-TikTok, would continue to own the social media app’s operations in
-Beijing and other markets.
+Canada, Australia and New Zealand;
+[ByteDance](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/tiktok-trump-sale-microsoft.html),
+the parent company of TikTok, would continue to own the social media
+app’s operations in Beijing and other markets.
 
 Microsoft may also bring on a series of outside investors, which would
 hold minority stakes in any deal. In recent weeks, investors from

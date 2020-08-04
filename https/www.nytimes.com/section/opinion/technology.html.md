@@ -194,6 +194,40 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
+    
+    Microsoft wants to buy the Chinese app, and the administration needs
+    to get out of the way.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kara
+    Swisher</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/23/opinion/tech-moguls-congressional-hearing.html)
     
     <div class="css-79elbk">
@@ -221,7 +255,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -255,7 +289,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -295,7 +329,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -329,7 +363,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -363,7 +397,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +431,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -431,7 +465,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -465,7 +499,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -483,40 +517,6 @@ story](#after-sponsor)
     
     Companies like the stock-trading app Robinhood can seem not just
     careless but also predatory.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kara
-    Swisher</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/19/opinion/apple-app-store-hey.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/22/opinion/22Swisher/19Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Is It Finally Hammer Time for Apple and Its App Store?
-    
-    The outcome of the company’s latest scuffle could have a lasting
-    impact on the power dynamic between Big Tech and the rest of us.
     
     <div class="css-1nqbnmb ea5icrr0">
     

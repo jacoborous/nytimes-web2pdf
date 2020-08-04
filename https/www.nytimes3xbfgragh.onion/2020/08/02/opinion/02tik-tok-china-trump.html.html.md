@@ -76,8 +76,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">There’s
-a Deal to Save TikTok — if Trump Doesn’t Mess It
+<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Microsoft
+Can Save TikTok — if Trump Doesn’t Mess It
 Up</span>
 
 </div>
@@ -194,7 +194,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up
+# Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
 
 </div>
 
@@ -268,6 +268,12 @@ Byrne/PA Images via Getty
 Images</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
+
+</div>
+
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
 
 </div>
 

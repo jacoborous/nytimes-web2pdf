@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -62,31 +63,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-opinion-editorials" class="section css-15h4p1b e9abtgs0">
 
@@ -170,19 +146,18 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+    [](/2020/08/03/opinion/spacex-stonehenge-mars.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03wonder-edit/03wonder-edit-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Congress, Test Thyself
+    ## The Good News About What Human Genius Can Still Do
     
-    Lawmakers are essential workers. They should start acting like it
-    and protect themselves and the other people who work on Capitol
-    Hill.
+    There’s something uniquely compelling about our need to learn what
+    we can about the universe.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -200,6 +175,40 @@ story](#after-sponsor)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02covid1/02covid1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why Are So Many People on Capitol Hill Getting Infected?
+    
+    Lawmakers are essential workers. They should start acting like it
+    and protect themselves and the other people who work for Congress.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
     
     <div class="css-1cp3ece">
     
@@ -233,7 +242,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -267,7 +276,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -301,7 +310,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -335,7 +344,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -369,7 +378,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -404,7 +413,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -438,7 +447,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -455,40 +464,6 @@ story](#after-sponsor)
     ## Millions of Americans Are About to Lose Their Homes. Congress Must Help Them.
     
     Here’s what can be done to help people avoid eviction.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/opinion/hagia-sophia-mosque.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/opinion/23hagia_print/22hagia1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Hagia Sophia Was a Cathedral, a Mosque and a Museum. It’s Converting Again.
-    
-    Changing the secular space back into a religious one is a risk for
-    the World Heritage Site.
     
     <div class="css-1nqbnmb ea5icrr0">
     

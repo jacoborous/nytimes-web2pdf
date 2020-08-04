@@ -330,6 +330,76 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03krugmanWe/03krugmanWe-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Unemployed Stare Into the Abyss. Republicans Look Away.
+    
+    The cruelty and ignorance of Trump and his allies are creating
+    another gratuitous disaster.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Paul
+    Krugman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/trump-biden-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The conversation</span>
+    
+    ## Trump Doesn’t Like What He Sees in the Crystal Ball
+    
+    Besides delaying the election, what else could alter his political
+    trajectory?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
+    Stephens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/opinion/utility-corruption-energy.html)
     
     <div class="css-79elbk">
@@ -358,7 +428,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -392,7 +462,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -425,7 +495,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -458,7 +528,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -491,7 +561,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -524,7 +594,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -555,7 +625,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -576,76 +646,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Kristof</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/opinion/coronavirus-schools-reopen.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29Emanuel2/29Emanuel2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Opening Schools Won’t Be Easy, but Here’s How to Do It Safely
-    
-    Not all schools will be able to restart. For those that can, the
-    focus should be on more than just the classroom.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ezekiel J. Emanuel, Saskia Popescu
-    <span>and</span> James
-    Phillips</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/opinion/trump-2020-populism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/29edsall1a/29edsall1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Is Trying to Bend Reality to His Will
-    
-    Can his aggressive version of ethnonationalist populism prevail in
-    2020? The answer is not obvious.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Thomas B. Edsall</span>
+    By <span class="css-1n7hynb">Nicholas Kristof</span>
     
     </div>
     

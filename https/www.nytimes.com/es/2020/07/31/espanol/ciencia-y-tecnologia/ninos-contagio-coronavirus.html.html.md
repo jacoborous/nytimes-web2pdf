@@ -226,8 +226,7 @@ story](#after-sponsor)
 
 La investigación no prueba que los niños infectados sean contagiosos,
 pero debería tomarse en cuenta en el debate sobre el regreso a las
-escuelas, dijeron algunos
-expertos.
+escuelas, dijeron algunos expertos.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -237,10 +236,10 @@ expertos.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Coronavirus
-testing at a mobile clinic at the Walker Temple A.M.E. Church in south
-Los Angeles earlier this
-month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Mario
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Una prueba
+de coronavirus en una clínica móvil en la iglesia Walker Temple AME en
+el sur de Los Ángeles en
+julio</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Mario
 Tama/Getty
 Images</span></span></span>](https://static01.nyt.com/images/2020/08/01/science/31virus-children-ES/30VIRUS-CHILDREN1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
@@ -261,14 +260,21 @@ Mandavilli</span>](https://www.nytimes.com/by/apoorva-mandavilli)
 
 </div>
 
-  - 31 de julio de
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Publicado 31 de julio de 2020Actualizado 3 de agosto de 2020 a las
+    <span class="css-epvm6">09:48
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -307,8 +313,6 @@ boletín](https://www.nytimes.com/newsletters/el-times) con lo mejor de
 The New York Times.
 
 -----
-
-FOTO:
 
 Ha sido una frase reconfortante en el debate nacional sobre la
 reapertura de las escuelas: la mayor parte de los niños pequeños se

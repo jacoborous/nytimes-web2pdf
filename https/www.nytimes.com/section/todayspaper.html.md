@@ -301,19 +301,20 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
+    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
     
-    ![](https://static01.nyt.com/images/2020/07/30/nyregion/00shea-bdb1/00shea-bdb1-jumbo-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/world/xxvirus-israel-schools5/merlin_173915181_07142141-4223-42e6-bdb1-c68e7074a504-jumbo.jpg?quality=75&auto=webp&disable=upscale)
     
-    ## These Remarks Might Get a Police Chief Fired. Not in New York.
+    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
     
-    The police commissioner’s pointed criticism — and the fact that he
-    still has his job — speaks to the mayor’s fraught relationship with
-    the Police Department.
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Emma G. Fitzsimmons</span>
+    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
+    Belluck</span>
     
     </div>
     
@@ -334,15 +335,41 @@ The Times in Print For
     
     <div class="css-141drxa">
     
+    [](/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
+    
+    ![](https://static01.nyt.com/images/2020/07/30/nyregion/00shea-bdb1/00shea-bdb1-jumbo-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    ## These Remarks Might Get a Police Chief Fired. Not in New York.
+    
+    The police commissioner’s pointed criticism — and the fact that he
+    still has his job — speaks to the mayor’s fraught relationship with
+    the Police Department.
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emma G. Fitzsimmons</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page A1
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
     [](/2020/08/03/us/isaias-east-coast-landfall.html)
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/merlin_175260564_cdaa5f9b-3847-4210-9921-8d0f0a042d66-jumbo.jpg?quality=75&auto=webp&disable=upscale)
-    
     ## East Coast Braces for Floods and Wind as Isaias Intensifies
-    
-    A heavy soaking is expected in the Carolinas and Maryland, with
-    tropical storm warnings and watches in effect all the way up the
-    Eastern Seaboard.
     
     <div class="css-9t0aj2 ea5icrr0">
     
@@ -361,7 +388,7 @@ The Times in Print For
     
     </div>
 
-3.  
+4.  
     
     <div class="css-14thodx">
     
@@ -387,7 +414,7 @@ The Times in Print For
     
     </div>
 
-4.  
+5.  
     
     <div class="css-14thodx">
     
@@ -413,7 +440,7 @@ The Times in Print For
     
     </div>
 
-5.  
+6.  
     
     <div class="css-14thodx">
     
@@ -439,7 +466,7 @@ The Times in Print For
     
     </div>
 
-6.  
+7.  
     
     <div class="css-14thodx">
     
@@ -466,7 +493,7 @@ The Times in Print For
     
     </div>
 
-7.  
+8.  
     
     <div class="css-14thodx">
     
@@ -492,7 +519,7 @@ The Times in Print For
     
     </div>
 
-8.  
+9.  
     
     <div class="css-14thodx">
     
@@ -518,7 +545,7 @@ The Times in Print For
     
     </div>
 
-9.  
+10. 
     
     <div class="css-14thodx">
     
@@ -545,7 +572,7 @@ The Times in Print For
     
     </div>
 
-10. 
+11. 
     
     <div class="css-14thodx">
     
@@ -572,7 +599,7 @@ The Times in Print For
     
     </div>
 
-11. 
+12. 
     
     <div class="css-14thodx">
     
@@ -598,7 +625,7 @@ The Times in Print For
     
     </div>
 
-12. 
+13. 
     
     <div class="css-14thodx">
     
@@ -624,7 +651,7 @@ The Times in Print For
     
     </div>
 
-13. 
+14. 
     
     <div class="css-14thodx">
     

@@ -234,7 +234,7 @@ Kepner</span>](https://www.nytimes.com/by/tyler-kepner)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 1,
+    Published Aug. 1, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -243,7 +243,7 @@ Kepner</span>](https://www.nytimes.com/by/tyler-kepner)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -272,7 +272,8 @@ Kepner</span>](https://www.nytimes.com/by/tyler-kepner)
 
 Major League Baseball’s sputtering effort to play in a pandemic took
 another discouraging turn on Saturday when one St. Louis Cardinals
-player and three team staffers tested positive for the coronavirus,
+player and three team staffers [tested positive for the
+coronavirus](https://www.nytimes.com/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html),
 forcing [the postponement of their weekend series in
 Milwaukee](https://www.nytimes.com/2020/07/31/sports/baseball/cardinals-twins-coronavirus-mlb.html).
 

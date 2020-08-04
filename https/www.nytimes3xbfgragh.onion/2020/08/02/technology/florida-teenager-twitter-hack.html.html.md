@@ -56,6 +56,7 @@ Path</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -201,6 +202,7 @@ Browning</span>](https://www.nytimes3xbfgragh.onion/by/kellen-browning)
         </div>
     
       - 
+      - 
     
     </div>
     
@@ -246,8 +248,9 @@ West and Jeff Bezos.
 His arrest raised questions about how someone so young could penetrate
 the defenses of what was supposedly one of Silicon Valley’s most
 sophisticated technology companies. Mr. Clark, who prosecutors said
-worked with at least two others to hack Twitter but was the leader, is
-being charged as an adult with 30 felonies.
+worked with at least two others to hack
+[Twitter](https://www.nytimes3xbfgragh.onion/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+but was the leader, is being charged as an adult with 30 felonies.
 
 </div>
 

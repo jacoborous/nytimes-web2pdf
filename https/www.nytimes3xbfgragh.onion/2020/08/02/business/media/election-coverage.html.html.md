@@ -118,6 +118,7 @@ Wrong</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -132,6 +133,104 @@ Wrong</span>
 </div>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+<div>
+
+<div id="styln-elections-notifications-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="nytslm_innerContainer" data-aria-live="polite">
+
+<div class="nytslm_title">
+
+</div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Election
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Biden’s V.P.
+    Search](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Map of
+    Donations](https://www.nytimes3xbfgragh.onion/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Delegate
+    Count](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [The
+    Candidates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Politics
+    Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -241,6 +340,7 @@ Smith</span>](https://www.nytimes3xbfgragh.onion/by/ben-smith)
         </div>
     
       - 
+      - 
     
     </div>
     
@@ -320,7 +420,59 @@ Arizona fell behind as mail ballots were counted.
 These are hard challenges. The media specializes in fighting the last
 war, and has done a decent job this cycle of avoiding the mistakes of
 2016. Reporters are calling out Mr. Trump’s falsehoods, showing
-skepticism about polls and avoiding turning politics into a sport.
+skepticism about polls and avoiding turning politics into a
+sport.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-08-04T01:23:51.312Z
+
+</div>
+
+</div>
+
+  - [Trump assails mail-in voting anew, citing delays in declaring a
+    winner in a New York congressional
+    primary.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
+  - [Obama issues his first slate of 2020
+    endorsements.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
+  - [In a big shift, Trump is now encouraging mask-wearing in campaign
+    emails.](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 But the American media plays a bizarrely outsize role in American
 elections, occupying the place of most countries’ national election
@@ -491,7 +643,8 @@ In that scenario, California, Oregon, and Washington then threatened to
 secede from the United States if Mr. Trump took office as planned. The
 House named Mr. Biden president; the Senate and White House stuck with
 Mr. Trump. At that point in the scenario, the nation stopped looking to
-the media for cues, and waited to see what the military would do.
+the media for cues, and waited to see what the military would
+do.
 
 </div>
 
@@ -504,6 +657,85 @@ the media for cues, and waited to see what the military would do.
 </div>
 
 <div>
+
+</div>
+
+<div id="NYT_BELOW_MAIN_CONTENT_REGION">
+
+<div>
+
+<div id="STLYN_guide_v1_STYLN_guide_a" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="g-story g-freebird g-max-limit" data-preview-slug="styln-scroll-guide">
+
+</div>
+
+<div id="g-electionguide-id" class="g-electionguide">
+
+<div class="g-electionguide-container">
+
+<div class="g-electionguide-wrapper">
+
+<div class="g-electionguide-logo">
+
+</div>
+
+# Our 2020 Election Guide
+
+Updated Aug. 3, 2020
+
+  - 
+    
+    -----
+    
+    ## The Latest
+    
+      - President Trump again assails mail-in voting, [claiming without
+        evidence that the process is plagued by
+        fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+
+  - 
+    
+    -----
+    
+    ## Biden’s V.P. Search
+    
+      - [Here are 13
+        women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        who have been under consideration to be Joe Biden’s running
+        mate, and why each might be chosen — and might not be.
+
+  - 
+    
+    -----
+    
+    ## Keep Up With Our Coverage
+    
+      - Get an
+        [email](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        recapping the day’s news
+    
+    <!-- end list -->
+    
+      - Download our mobile app on
+        [iOS](https://apps.apple.com/us/app/nytimes/id284862083?ls=1&mat_click_id=5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948&referrer=mat_click_id%3D5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948%26link_click_id%3D722930677036718082)
+        and
+        [Android](http://a.localytics.com/android?id=com.nytimes.android&referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page)
+        and turn on Breaking News and Politics alerts
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 

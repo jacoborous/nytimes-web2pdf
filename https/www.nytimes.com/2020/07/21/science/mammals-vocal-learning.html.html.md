@@ -209,7 +209,7 @@ a particular learning style in common.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A black
 howler monkey in the jungle in Belize, howling like
-crazy.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Alamy</span></span></span>](https://static01.nyt.com/images/2020/07/19/science/19TB-VOCAL/19TB-VOCAL-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+crazy.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Alamy</span></span></span>](https://static01.nyt.com/images/2020/08/04/science/19TB-VOCAL/19TB-VOCAL-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

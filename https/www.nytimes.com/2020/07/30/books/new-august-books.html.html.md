@@ -237,7 +237,7 @@ Khatib</span>](https://nytimes.com/by/joumana-khatib)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 30, 2020Updated July 31,
+    Published July 30, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -605,8 +605,11 @@ Leilani*](https://www.nytimes.com/2020/07/31/books/raven-leilani-luster.html)*.
 It’s been almost 15 years since Meyer published “Twilight,” the
 best-selling young-adult vampire novel that sparked a worldwide interest
 in paranormal romance. Now she returns to the story of Edward Cullen and
-Bella Swan, but this time, she tells it from his point of
-view.
+Bella Swan, but this time, she tells it from his point of view.
+
+*\[* [*Read our Q.\&A. with
+Meyer*](https://www.nytimes.com/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)*.
+\]*
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 

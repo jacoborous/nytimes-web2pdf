@@ -215,6 +215,39 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/opinion/trump-2020-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02BlowSub/merlin_175186998_91e49e66-d4c6-43ad-b1ff-dc5be89c1d0f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Forecasts His Own Fraud
+    
+    In the president’s world, he is never to blame for failure.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Charles M.
+    Blow</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/opinion/anthony-fauci-trump.html)
     
     <div class="css-79elbk">
@@ -243,7 +276,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +310,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +344,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +378,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +412,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -413,7 +446,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -446,7 +479,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -480,7 +513,7 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -498,40 +531,6 @@ Blow](javascript:document.emailUsReporter.submit\(\))
     
     Trump’s tough talk doesn’t seek to address the rage that inequity
     has bred, but rather to contain it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Charles M.
-    Blow</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/14/opinion/us-protests-racism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/14/opinion/14Blow/14Blow-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## An Insatiable Rage
-    
-    It is an everyday struggle to neither fall into despair nor explode
-    in anger.
     
     <div class="css-1nqbnmb ea5icrr0">
     

@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -63,6 +62,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-opinion-contributors" class="section css-15h4p1b e9abtgs0">
 
@@ -146,25 +170,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/sunday-review/horse-crazy-nir-language.html)
+    [](/2020/08/03/opinion/portland-protests-police-chief.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/02nir-print/02nir-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03Lovell1/merlin_175146375_96b5f246-7b90-4ab9-8501-cd53c0c0c636-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">news analysis</span>
+    ## I’m the Police Chief in Portland. Violence Isn’t the Answer.
     
-    ## To Break a Horse, and a Woman
-    
-    How do prey animals stay safe in a world out to get them? And how
-    would I?
+    As a Black man and a public servant, I see that spectacle is
+    drowning out the voices that need to be heard to make positive
+    change.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Maslin
-    Nir</span>
+    By <span class="css-1n7hynb">Chuck
+    Lovell</span>
     
     </div>
     
@@ -182,23 +205,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
+    [](/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03drew1/03drew1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Talking to the Dead in the Sunshine State
+    ## Let’s Scrap the Presidential Debates
     
-    I was searching for facts, for a lost friend, and for what couldn’t
-    be explained.
+    They’ve become unrevealing quip contests.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Gerard</span>
+    By <span class="css-1n7hynb">Elizabeth
+    Drew</span>
     
     </div>
     
@@ -216,22 +238,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
+    [](/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03keyssarWeb/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Let’s End the Wait for Coronavirus Test Results. Here’s How.
+    ## How Has the Electoral College Survived for This Long?
     
-    States should look to New York’s strategies.
+    Resistance to eliminating it has long been connected to the idea of
+    white supremacy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew M.
-    Cuomo</span>
+    By <span class="css-1n7hynb">Alexander
+    Keyssar</span>
     
     </div>
     
@@ -249,24 +272,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
+    [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30iwasaki/30iwasaki-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04mounzer/03mounzer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scared That Covid-19 Immunity Won’t Last? Don’t Be
+    ## We Lebanese Thought We Could Survive Anything. We Were Wrong.
     
-    Dropping antibody counts aren’t a sign that our immune system is
-    failing against the coronavirus, nor an omen that we can’t develop a
-    viable vaccine.
+    The myth of their resilience helped the Lebanese function despite a
+    miserably corrupt and inept state. No longer.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Akiko Iwasaki <span>and</span> Ruslan
-    Medzhitov</span>
+    By <span class="css-1n7hynb">Lina
+    Mounzer</span>
     
     </div>
     
@@ -284,23 +306,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
+    [](/2020/08/03/opinion/feral-cat-dying.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/31peer4/31peer4-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31renklWeb/31renklWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Friendship, a Pandemic and a Death Beside the Highway
+    ## Death of a Cat
     
-    How a photograph of a young man cradling his dying friend sent me on
-    a journey across India.
+    For weeks, I have been trying to understand my own tears in the
+    presence of a dying creature I did not love.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Basharat
-    Peer</span>
+    By <span class="css-1n7hynb">Margaret
+    Renkl</span>
     
     </div>
     
@@ -318,23 +340,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
+    [](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03deanWeb/03deanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## John Lewis Was the Anti-Trump
+    ## I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.
     
-    The president doesn’t seem to know what democracy is; the
-    congressman embodied it.
+    Scientists need to show us the data. And that’s exactly what they’re
+    working on.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Natalie
+    Dean</span>
     
     </div>
     
@@ -352,23 +374,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/trump-nixon-authoritarianism.html)
+    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30JohnDean2/30JohnDean2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Has Been Comparing Himself to Nixon. That’s Hooey.
+    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
     
-    The former president could only dream of wielding the police powers
-    Mr. Trump has seized for himself.
+    Microsoft wants to buy the Chinese app, and the administration needs
+    to get out of the way.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John W.
-    Dean</span>
+    By <span class="css-1n7hynb">Kara
+    Swisher</span>
     
     </div>
     
@@ -386,23 +408,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/coronavirus-economy.html)
+    [](/2020/08/02/opinion/biden-child-care.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/31Moyo/31Moyo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02Covert/02Covert-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 3 Things to Make the World Immediately Better After Covid-19
+    ## Biden’s Quietly Radical Care Plan
     
-    The crisis could be a catalyst for overhauling the economic world
-    order.
+    The candidate is talking about child care and elder care in the same
+    breath, and making them part of his economic package. Both changes
+    are long overdue.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Dambisa
-    Moyo</span>
+    By <span class="css-1n7hynb">Bryce
+    Covert</span>
     
     </div>
     
@@ -420,22 +443,29 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/john-lewis-legacy.html)
+    [](/2020/08/02/opinion/hong-kong-election-china.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30lewis1/merlin_128348066_40469054-04f5-42bc-bfec-2928f224ab45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## John Lewis Believed America Would Survive Trump
+    ## Why Did Hong Kong Delay Its Election — by a Year?
     
-    He told us to keep the faith. It’s not easy.
+    The government blames the pandemic. More likely, it was afraid to
+    lose.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michelle
-    Goldberg</span>
+    By <span class="css-1n7hynb">Fernando
+    Cheung</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/opinion/20200803/hong-kong-election-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200803/hong-kong-election-china/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -453,22 +483,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/fascism-us.html)
+    [](/2020/08/02/opinion/utility-corruption-energy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30debatableillo/30debatableillo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Fascism: A Concern
+    ## When Utility Money Talks
     
-    The word is being used more and more to describe American politics.
-    Is it an urgent diagnosis or a distraction?
+    Corruption scandals in Ohio and Illinois reveal an unsavory
+    underside to the politics of energy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Spencer Bokat-Lindell</span>
+    By <span class="css-1n7hynb">Justin Gillis</span>
     
     </div>
     

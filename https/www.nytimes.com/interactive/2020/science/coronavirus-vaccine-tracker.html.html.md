@@ -134,14 +134,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -168,7 +168,7 @@ Grady</span>](https://www.nytimes.com/by/denise-grady),
 [<span class="css-1baulvz" itemprop="name">Sui-Lee
 Wee</span>](https://www.nytimes.com/by/sui-lee-wee) and
 [<span class="css-1baulvz last-byline" itemprop="name">Carl
-Zimmer</span>](https://www.nytimes.com/by/carl-zimmer)Updated July 31,
+Zimmer</span>](https://www.nytimes.com/by/carl-zimmer)Updated August 3,
 2020
 
 </div>
@@ -1237,22 +1237,23 @@ III</span> <span class="g-combined">COMBINED PHASES</span>
 logo](https://static01.nyt.com/newsgraphics/2020/06/10/coronavirus-vaccine-tracker/assets/images/astrazeneca-800.png)![University
 of Oxford
 logo](https://static01.nyt.com/newsgraphics/2020/06/10/coronavirus-vaccine-tracker/assets/images/uoxford-800.png)</span>  
-A v[accine in
+A [vaccine in
 development](https://www.nytimes.com/2020/04/27/world/europe/coronavirus-vaccine-update-oxford.html)
 by the British-Swedish company **AstraZeneca** and the **University of
 Oxford** is based on a chimpanzee adenovirus called ChAdOx1. A study on
 monkeys found that the vaccine [provided them
 protection](https://www.nytimes.com/2020/07/30/health/covid-19-vaccine-monkeys.html).
-Their Phase I/II trial,
+In May, the United States awarded the project [$1.2
+billion](https://www.nytimes.com/2020/05/21/health/coronavirus-vaccine-astrazeneca.html?searchResultPosition=7)in
+support. Their Phase I/II trial
 [reported](https://www.thelancet.com/lancet/article/s0140-6736\(20\)31604-4)
-on July 20 in the journal Lancet, found that the vaccine was safe,
-causing no severe side effects. It raised antibodies against the
-coronavirus as well as other immune defenses. The vaccine is now in a
-Phase II/III trial in England, as well as Phase III trials in Brazil and
-South Africa. The project may deliver emergency vaccines by October.
-AstraZeneca has said their total manufacturing capacity for the vaccine,
-if approved, stands at two billion doses.  
-<span class="g-updated">Updated July 20</span>
+that the vaccine was safe, causing no severe side effects. It raised
+antibodies against the coronavirus as well as other immune defenses. The
+vaccine is now in a Phase II/III trial in England, as well as Phase III
+trials in Brazil and South Africa. The project may deliver emergency
+vaccines by October. AstraZeneca has said their total manufacturing
+capacity for the vaccine, if approved, stands at two billion doses.  
+<span class="g-updated">Updated Aug. 3</span>
 
 <span id="cansino"></span>
 

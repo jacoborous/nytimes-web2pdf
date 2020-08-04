@@ -210,6 +210,41 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.
+    
+    Morant, the star rookie for the Memphis Grizzlies, has become known
+    for dunking over any and everyone. “He really doesn’t care who’s
+    down there,” a teammate said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Scott
+    Cacciola</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/sports/basketball/sabrina-ionescu-injury.html)
     
     <div class="css-79elbk">
@@ -239,7 +274,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +310,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +344,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -343,7 +378,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +414,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -414,7 +449,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -449,7 +484,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -484,7 +519,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -506,48 +541,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Scott
-    Cacciola</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/sports/basketball/nba-china-abuse.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/sports/29nba-china02/29nba-china02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Report: N.B.A.’s Academies in China Abused Athletes
-    
-    The report said athletes were struck by coaches, housed in crowded
-    conditions and not given schooling as promised.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sopan
-    Deb</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/sports/20200730/nba-china-abuse/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/sports/20200730/nba-china-abuse/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Scott Cacciola</span>
     
     </div>
     

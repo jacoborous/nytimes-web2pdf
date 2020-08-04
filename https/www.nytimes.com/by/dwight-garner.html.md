@@ -177,7 +177,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

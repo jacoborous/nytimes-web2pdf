@@ -202,7 +202,7 @@ story](#after-sponsor)
     
     </div>
     
-    ## In 1920, Native Women Sought the Vote. Here’s What They Seek Now.
+    ## In 1920, Native Women Sought the Vote. Here’s What’s Next.
     
     The 19th Amendment did not bring the right to vote to all Native
     women, but two experts in a conversation said it did usher in the

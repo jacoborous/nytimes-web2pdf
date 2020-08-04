@@ -55,8 +55,7 @@ Football](https://www.nytimes.com/section/sports/ncaafootball)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-ncaafootball" class="section css-15h4p1b e9abtgs0">
 
@@ -186,6 +210,41 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/sports/ncaafootball/coronavirus-college-football-pac-12.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/sports/02collegefootball-web-2/02collegefootball-web-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A Group of Pac-12 Football Players Threaten to Opt Out of the Season
+    
+    The athletes from 10 schools said they were dissatisfied with how
+    their universities were handling the coronavirus, an approach they
+    say prioritizes money over safety.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Billy
+    Witz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/23/sports/ncaa-NIL-rights.html)
     
     <div class="css-79elbk">
@@ -215,7 +274,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -250,7 +309,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -286,7 +345,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +380,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -355,7 +414,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -390,7 +449,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -425,7 +484,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -461,7 +520,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -481,42 +540,6 @@ story](#after-subheader)
     presidents as they consider how to handle the coronavirus pandemic.
     It is the first Division I conference to suspend football for the
     fall.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Billy
-    Witz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/01/sports/ncaafootball/coronavirus-college-football-hbcus-clemson.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/01/sports/01morehouse-clemson-11/01morehouse-clemson-11-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Should We Play? Two College Football Teams Have Very Different Answers
-    
-    Morehouse, the first scholarship football program to cancel its
-    season, cited the coronavirus’s disproportionate impact on Black
-    people. Clemson has insisted on continuing despite 37 positive
-    tests.
     
     <div class="css-1nqbnmb ea5icrr0">
     

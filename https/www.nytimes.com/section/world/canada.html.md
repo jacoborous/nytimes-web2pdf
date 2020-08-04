@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-canada" class="section css-15h4p1b e9abtgs0">
 
@@ -176,42 +152,6 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/sports/olympics/concussion-skeleton-sledding-brain-damage.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/sports/29SKELETON-top-1/merlin_174528426_06653e10-f239-4dc0-ad27-840a38122d93-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## This Sledding Team Trained Hard for Gold in 2010. Some Members Regret It.
-    
-    In skeleton, the headfirst Olympic sledding sport, the opportunity
-    for unlimited training on the track can be a huge advantage. But
-    Canadian Olympians who had such access believe it was bad for their
-    brains.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew
-    Futterman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/07/31/world/canada/leone-farrell-chemist.html)
     
     <div class="css-79elbk">
@@ -242,7 +182,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+2.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +217,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -313,7 +253,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -350,7 +290,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -382,7 +322,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -417,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -452,7 +392,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -486,7 +426,7 @@ story](#after-sponsor)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -509,7 +449,42 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ian Austen</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/23/world/canada/junia-joplin-transgender-lorne-park-baptist.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/23/multimedia/23xp-canada-transgender-pix/23xp-canada-transgender-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Baptist Pastor Is Fired After Coming Out as Transgender
+    
+    Junia Joplin, a Baptist pastor in Ontario, asked for acceptance in a
+    sermon: “I want to be the person that God created me to be.” The
+    congregation narrowly voted to terminate her contract.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christine Hauser</span>
     
     </div>
     

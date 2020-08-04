@@ -229,14 +229,21 @@ McCabe</span>](https://www.nytimes.com/by/david-mccabe)
 
 </div>
 
-  - Aug. 1,
-    2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 3, 2020,
+    <span class="css-epvm6">11:02 a.m.
+    ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -278,20 +285,22 @@ creators often dance or lip-sync to viral audio clips. It all seems
 innocuous, fun and sometimes even silly.
 
 But in recent days, President Trump has [talked of banning
-TikTok](https://www.nytimes.com/2020/07/31/technology/tiktok-microsoft.html)
+TikTok](https://www.nytimes.com/2020/08/02/style/tiktok-ban-threat-trump.html)
 from the United States, spooking the millions of people who make or
 watch TikTok videos for entertainment. Discussions of a ban have been
-coupled with reports that Microsoft or other companies may potentially
-buy the U.S. operations of the app.
+coupled with reports that
+[Microsoft](https://www.nytimes.com/2020/08/03/technology/tiktok-microsoft-tweens.html)
+or other companies may potentially buy the U.S. operations of the app.
 
 So what gives? Here’s a primer on how the app became embroiled with the
 White House and on the deal talks.
 
 **What is the issue with TikTok?**
 
-It all starts with two factors. One is that TikTok is owned by a Chinese
-internet company,
-[ByteDance](https://www.nytimes.com/2018/10/29/technology/bytedance-app-funding-china.html).
+It all starts with two factors. One is that
+[TikTok](https://www.nytimes.com/2020/08/03/technology/trump-tiktok-microsoft.html)
+is owned by a [Chinese internet company,
+ByteDance](https://www.nytimes.com/2020/08/03/technology/tiktok-trump-sale-microsoft.html).
 And the second is that China is increasingly in the sights of the Trump
 administration.
 

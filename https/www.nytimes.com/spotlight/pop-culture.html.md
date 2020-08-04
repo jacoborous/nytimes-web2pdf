@@ -195,42 +195,119 @@ story](#after-subheader)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    White/Parkwood Entertainment and Disney+, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbStandard.jpg)](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+    [![](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
     </div>
     
-    ### Diary of a Song
+    ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
     
-    ## [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
-    
-    The singer and songwriter prefers a ballad. But collaborators yanked
-    her out of her comfort zone for “Kyoto,” a breakout from her latest
-    acclaimed album. Here’s how she made
-    it.
+    Six critics on the visual album rooted in her “Lion King”-inspired
+    record “The Gift,” a grand statement of African-diaspora pride and
+    creative
+    power.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Joe
-    Coscarelli</span></span>
+    <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
+    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>,
+    <span class="css-1baulvz" itemprop="name">Gia Kourlas</span>,
+    <span class="css-1baulvz" itemprop="name">Wesley Morris</span>,
+    <span class="css-1baulvz" itemprop="name">Jon Pareles</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+    Tillet</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robyn
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-thumbStandard.jpg)](/2020/07/31/movies/palm-springs-clip-hulu.html)
+    
+    </div>
+    
+    ### anatomy of a scene
+    
+    ## [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](/2020/07/31/movies/palm-springs-clip-hulu.html)
+    
+    The director Max Barbakow narrates a wedding sequence from his
+    comedy, now streaming on
+    Hulu.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mekado
+    Murphy</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marc
+        Maron</span>](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [The Lynn Shelton That Marc Maron Knew](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/01/arts/31shelton-maron1/31shelton-maron1-thumbStandard.jpg)](/2020/07/31/movies/marc-maron-lynn-shelton.html)
+        
+        </div>
+        
+        The comedian and podcaster reflects on his relationship with the
+        filmmaker and TV director who died unexpectedly in
+        May.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dave
+        Itzkoff</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Diary of a Song
+        
+        ## [How Phoebe Bridgers (Begrudgingly) Writes a Rock Song](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/02/arts/music/DOAS-phoebe-onsite/DOAS-phoebe-onsite-thumbStandard.jpg)](/2020/07/30/arts/music/phoebe-bridgers-kyoto.html)
+        
+        </div>
+        
+        The singer and songwriter prefers a ballad. But collaborators
+        yanked her out of her comfort zone for “Kyoto,” a breakout from
+        her latest acclaimed album. Here’s how she made
+        it.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Joe
+        Coscarelli</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robyn
     Beck/Agence France-Presse — Getty
     Images</span>](https://static01.nyt.com/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/30/arts/30beyonce-walkup/30beyonce-walkup-thumbStandard.jpg)](/2020/07/30/arts/music/beyonce-black-is-king.html)
-    
-    </div>
     
     ## [Beyoncé’s ‘Black Is King’ Is No Secret, but Still Comes With Mystery](/2020/07/30/arts/music/beyonce-black-is-king.html)
     
@@ -245,62 +322,44 @@ story](#after-subheader)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.nyt.com/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### critic’s notebook
-        
-        ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
-        
-        </div>
-        
-        On outlets from Hulu to Peacock to PBS, it’s the summer of the
-        trans-Atlantic
-        import.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Mike
-        Hale</span></span>
-        
-        </div>
+2.  ### critic’s notebook
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>George
-        Rose/Getty
-        Images</span>](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [The Go-Go’s Made History 38 Years Ago. There’s Still More to Their Story.](/2020/07/29/arts/music/the-go-gos-documentary.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-thumbStandard.jpg)](/2020/07/29/arts/music/the-go-gos-documentary.html)
-        
-        </div>
-        
-        A new documentary about the Los Angeles band explores the punk
-        roots that came before its pop sheen, and the power dynamics
-        that led to its
-        split.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Lindsay
-        Zoladz</span></span>
-        
-        </div>
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.nyt.com/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
+    
+    On outlets from Hulu to Peacock to PBS, it’s the summer of the
+    trans-Atlantic
+    import.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Hale</span></span>
+    
+    </div>
 
-</div>
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>George
+    Rose/Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Go-Go’s Made History 38 Years Ago. There’s Still More to Their Story.](/2020/07/29/arts/music/the-go-gos-documentary.html)
+    
+    A new documentary about the Los Angeles band explores the punk roots
+    that came before its pop sheen, and the power dynamics that led to
+    its
+    split.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Lindsay
+    Zoladz</span></span>
+    
+    </div>
 
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     Hill/HBO</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-CONVO2/merlin_163951620_f1b96611-35ce-463f-9f90-41787acd5e33-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -319,7 +378,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
     via Associated
     Press</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-SNUBS4/merlin_165673722_e416155d-ccbd-49b3-a550-1b775c971c0f-videoLarge.jpg)
     
@@ -336,7 +395,15 @@ story](#after-subheader)
     
     </div>
 
-3.  ### Album Review
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Album Review
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
     Garrabrant</span>](https://static01.nyt.com/images/2020/07/29/arts/26TAYLOR-REVIEW2/26TAYLOR-REVIEW2-videoLarge.jpg)
@@ -356,7 +423,7 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Farah
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Farah
     Al Qasimi for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/27/arts/00summer-zinoman1/merlin_174777021_45ff5d3b-2a73-481d-8223-385891925f10-videoLarge.jpg)
     
@@ -375,7 +442,7 @@ story](#after-subheader)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rahim
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rahim
     Fortune for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/26/arts/26LIVESTREAMING-BADU1/26LIVESTREAMING-BADU1-videoLarge.jpg)
     
@@ -394,15 +461,7 @@ story](#after-subheader)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Critic’s Notebook
+4.  ### Critic’s Notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Out
     of
@@ -422,7 +481,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Out
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Out
     of
     Office</span>](https://static01.nyt.com/images/2020/07/26/arts/26livestream-biz/26livestream-biz-videoLarge.jpg)
     
@@ -438,58 +497,6 @@ story](#after-subheader)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">David
     Peisner</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lifetime,
-    via
-    Netflix</span>](https://static01.nyt.com/images/2020/07/17/arts/17comfort-supermarket/17comfort-supermarket-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Comfort Viewing: 3 Reasons I Love ‘Supermarket Sweep’](/2020/07/17/arts/television/supermarket-sweep-netflix-amazon.html)
-    
-    In an era of toilet paper shortages and lines outside of
-    supermarkets, this vintage free-for-all, now on Netflix, feels oddly
-    gratifying.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ali
-    Trachta</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/07/12/arts/12hamilton-roundtable1/12hamilton-roundtable1-videoLarge-v4.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Debating ‘Hamilton’ as It Shifts From Stage to Screen](/2020/07/10/movies/hamilton-critics-lin-manuel-miranda.html)
-    
-    Five critics wade into the controversies (like its treatment of
-    slavery) and examine the performances (especially Lin-Manuel
-    Miranda’s) five years after the show
-    debuted.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
-    Goodman</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jessica
-    Miglio/Starz</span>](https://static01.nyt.com/images/2020/07/09/arts/09pvalley/09pvalley-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Review: ‘P-Valley’ Has All the Right Moves](/2020/07/09/arts/television/p-valley-review-starz.html)
-    
-    Sex may sell this Starz strip-club drama, but at heart it’s a
-    potent, lyrical story about hard
-    work.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Poniewozik</span></span>
     
     </div>
 
@@ -549,6 +556,113 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Charts</span>
+    
+    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
+    
+    The singer and songwriter’s surprise album had the equivalent of
+    846,000 sales in the United States, a total beaten only by her own
+    last two LPs.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’
+    
+    A new documentary traces the rise and fall of the irreverent,
+    boundary-smashing music publication where Lester Bangs did some of
+    his most famous work.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike
+    Rubin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/arts/television/whats-on-tv-monday-immigration-nation-and-dora-and-the-lost-city-of-gold.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03tvcol-1/03tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Monday: ‘Immigration Nation’ and ‘Dora and the Lost City of Gold’
+    
+    A six-part docu-series about the Immigration and Customs Enforcement
+    agency is on Netflix. And a live-action adaptation of “Dora” arrives
+    on Hulu.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter
+    Libbey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/arts/design/virus-design-objects.html)
     
     <div class="css-79elbk">
@@ -577,7 +691,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -612,43 +726,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/music/beyonce-black-is-king.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Beyoncé’s ‘Black Is King’: Let’s Discuss
-    
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative power.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason Farago, Vanessa Friedman, Gia
-    Kourlas, Wesley Morris, Jon Pareles <span>and</span> Salamishah
-    Tillet</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -658,7 +736,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31akumpo1/31akumpo1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/31akumpo1/31akumpo1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -684,7 +762,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -718,7 +796,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -728,7 +806,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -752,7 +830,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -762,7 +840,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -787,7 +865,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -811,77 +889,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James
-    Poniewozik</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/comfort-viewing-terminator-2.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
-    
-    Killer robots may not seem like soothing fare, but unlike real life,
-    the world’s horrors come to an end when the movie does.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicolas
-    Rapold</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Billie Eilish’s Isolation Awakening, and 8 More New Songs
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni Russonello</span>
+    By <span class="css-1n7hynb">James Poniewozik</span>
     
     </div>
     

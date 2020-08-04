@@ -424,6 +424,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04latenight/04latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Best of Late Night</span>
+    
+    ## Seth Meyers: After TikTok, Trump Could Ban Candy Crush
+    
+    “I’m almost certain Trump has no idea what TikTok is. I’m betting
+    TikTok was one of the answers he wrote on his cognitive test,” Seth
+    Meyers joked on Monday’s “Late Night.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Trish
+    Bendix</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
     
     <div class="css-79elbk">
@@ -453,7 +490,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -488,7 +525,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -524,7 +561,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -559,7 +596,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -595,7 +632,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -632,7 +669,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -668,7 +705,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -703,7 +740,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -726,44 +763,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Richard J.
-    Samuels</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/books/review/wandering-in-strange-lands-morgan-jerkins.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/books/review/Hirsch1/Hirsch1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Nonfiction</span>
-    
-    ## Morgan Jerkins Heads Down South in Search of Her Black Identity
-    
-    “Wandering in Strange Lands” traces the author’s ancestry — and the
-    history of African-American oppression — along the footsteps of the
-    Great Migration.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Afua Hirsch</span>
+    By <span class="css-1n7hynb">Richard J. Samuels</span>
     
     </div>
     

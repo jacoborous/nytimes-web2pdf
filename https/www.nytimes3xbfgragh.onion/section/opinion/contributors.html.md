@@ -49,7 +49,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -62,31 +63,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-opinion-contributors" class="section css-15h4p1b e9abtgs0">
 
@@ -170,23 +146,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
+    [](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up
+    ## The Siren Song of ‘One State’
     
-    Microsoft wants to buy the Chinese app, and the administration needs
-    to get out of the way.
+    A hopeless plan could dash hopes for a peaceful resolution between
+    Israelis and Palestinians.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kara
-    Swisher</span>
+    By <span class="css-1n7hynb">Bret
+    Stephens</span>
     
     </div>
     
@@ -199,6 +175,290 @@ story](#after-sponsor)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disenchanted Seniors for Biden
+    
+    The pandemic is particularly dangerous for older Americans, and
+    Trump is losing their support.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michelle
+    Cottle</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/portland-protests-police-chief.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Lovell1/merlin_175146375_96b5f246-7b90-4ab9-8501-cd53c0c0c636-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## I’m the Police Chief in Portland. Violence Isn’t the Answer.
+    
+    As a Black man and a public servant, I see that spectacle is
+    drowning out the voices that need to be heard to make positive
+    change.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Chuck
+    Lovell</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/trump-biden-presidential-debates-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03drew1/03drew1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Let’s Scrap the Presidential Debates
+    
+    They’ve become unrevealing quip contests.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elizabeth
+    Drew</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/electoral-college-racism-white-supremacy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03keyssarWeb/03keyssarWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Has the Electoral College Survived for This Long?
+    
+    Resistance to eliminating it has long been connected to the idea of
+    white supremacy.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexander Keyssar</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/03/espanol/opinion/colegio-electoral-estados-unidos.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/lebanon-coronavirus-economy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04mounzer/03mounzer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## We Lebanese Thought We Could Survive Anything. We Were Wrong.
+    
+    The myth of their resilience helped the Lebanese function despite a
+    miserably corrupt and inept state. No longer.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lina
+    Mounzer</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/feral-cat-dying.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31renklWeb/31renklWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Death of a Cat
+    
+    For weeks, I have been trying to understand my own tears in the
+    presence of a dying creature I did not love.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Margaret
+    Renkl</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/coronavirus-vaccine-efficacy-trials.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/03deanWeb/03deanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## I’d Need Evidence Before I Got a Covid-19 Vaccine. It Doesn’t Exist Yet.
+    
+    Scientists need to show us the data. And that’s exactly what they’re
+    working on.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Natalie
+    Dean</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/02tik-tok-china-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02Swisher/02Swisher-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
+    
+    Microsoft wants to buy the Chinese app, and the administration needs
+    to get out of the way.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kara
+    Swisher</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -220,281 +480,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryce
-    Covert</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/hong-kong-election-china.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04cheung/merlin_175103946_901ecb4f-473c-4826-8ac7-a4771835ac6b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why Did Hong Kong Delay Its Election — by a Year?
-    
-    The government blames the pandemic. More likely, it was afraid to
-    lose.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Fernando
-    Cheung</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/opinion/utility-corruption-energy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/02gillis-illo/02gillis-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## When Utility Money Talks
-    
-    Corruption scandals in Ohio and Illinois reveal an unsavory
-    underside to the politics of energy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Justin
-    Gillis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/sunday-review/horse-crazy-nir-language.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/sunday/02nir-print/02nir-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">news analysis</span>
-    
-    ## To Break a Horse, and a Woman
-    
-    How do prey animals stay safe in a world out to get them? And how
-    would I?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah Maslin
-    Nir</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/opinion/spiritualism-cassadaga-florida.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/opinion/sunday/01gerard-top/01gerard-top-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Talking to the Dead in the Sunshine State
-    
-    I was searching for facts, for a lost friend, and for what couldn’t
-    be explained.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah
-    Gerard</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/coronavirus-testing-cuomo.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Cuomo1/merlin_171976521_6137293f-4c6e-4588-8ae0-fdb17e813038-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Let’s End the Wait for Coronavirus Test Results. Here’s How.
-    
-    States should look to New York’s strategies.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Andrew M.
-    Cuomo</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/coronavirus-antibodies-immunity.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30iwasaki/30iwasaki-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Scared That Covid-19 Immunity Won’t Last? Don’t Be
-    
-    Dropping antibody counts aren’t a sign that our immune system is
-    failing against the coronavirus, nor an omen that we can’t develop a
-    viable vaccine.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Akiko Iwasaki <span>and</span> Ruslan
-    Medzhitov</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/opinion/31peer4/31peer4-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Friendship, a Pandemic and a Death Beside the Highway
-    
-    How a photograph of a young man cradling his dying friend sent me on
-    a journey across India.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Basharat
-    Peer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## John Lewis Was the Anti-Trump
-    
-    The president doesn’t seem to know what democracy is; the
-    congressman embodied it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jamelle Bouie</span>
+    By <span class="css-1n7hynb">Bryce Covert</span>
     
     </div>
     

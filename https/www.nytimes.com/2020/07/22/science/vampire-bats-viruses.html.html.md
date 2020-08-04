@@ -211,7 +211,7 @@ vampire bats are social creatures, calling out to one another when
 they’re far from their
 group.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Nick
 Hawkins/Nature Picture Library, via
-Alamy</span></span></span>](https://static01.nyt.com/images/2020/07/21/science/21TB-BATS/merlin_174804618_3761fee8-5224-4e5e-b356-d314a61fa360-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Alamy</span></span></span>](https://static01.nyt.com/images/2020/08/04/science/21TB-BATS/merlin_174804618_3761fee8-5224-4e5e-b356-d314a61fa360-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

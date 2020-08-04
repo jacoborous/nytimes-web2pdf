@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-baseball" class="section css-15h4p1b e9abtgs0">
 
@@ -210,6 +186,182 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03mlb-virus-1/merlin_174367527_c7c15a93-a776-4a66-b980-a02e4cd85e8e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">on baseball</span>
+    
+    ## As the Virus Spreads Through M.L.B., So Does Frustration
+    
+    Series have been postponed, teams have been quarantined and road
+    trips have been rerouted in a season that has been defined above all
+    by its precariousness.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tyler
+    Kepner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/sports/baseball/aaron-judge-yankees.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03yankees-1/03yankees-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Aaron Judge Is Nearly Unstoppable. He Thinks He Can Be Better.
+    
+    Judge has hit home runs in five consecutive games, and he’s done it
+    without one of his favorite tools: the video replay room.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">James
+    Wagner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/sports/baseball/indians-team-names-mascots.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/sports/04Mascot-print-1/31mascot-spokane2-print-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why One Team Named the Indians Won’t Be Changing Its Name
+    
+    A minor league team in Spokane, Wash., has steadfastly stood by its
+    nickname with the support of the local Native American community.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David
+    Waldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/sports/02mlb/02mlb-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks
+    
+    Major League Baseball’s commissioner put the onus on players to
+    behave more responsibly, but some players and health experts see
+    weaknesses in the league’s safety protocols.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">James
+    Wagner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03mlb-mets/03mlb-mets-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mets’ Yoenis Cespedes Opts Out of 2020 Season
+    
+    Cespedes had failed to show up to the ballpark in Atlanta for the
+    Mets’ game against the Braves on Sunday, and the team did not know
+    his whereabouts. After the game, they announced his decision to opt
+    out.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kevin
+    Armstrong</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/sports/baseball/coronavirus-cardinals.html)
     
     <div class="css-79elbk">
@@ -239,7 +391,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +426,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +463,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +498,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -368,182 +520,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Robert
-    O’Connell</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/basketball/sports-bubble-nba-mlb.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/sports/30virus-bubbles1/merlin_175084758_6b939c67-508f-4795-b6e9-3adb40cdc8c3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Bubbles’ Are Working. But How Long Can Sports Stay Inside?
-    
-    The restricted, campuslike environments used by soccer and pro
-    basketball have proved (mostly) impervious to the coronavirus. But
-    not every league fits inside one.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Andrew
-    Keh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/baseball/phillies-blue-jays-postponed-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/sports/30mlb-phillies-print/merlin_175021935_709311e3-5617-46a8-8aef-4c594192807e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Phillies-Blue Jays Games Postponed After 2 Staff Members Test Positive
-    
-    A Phillies coach and clubhouse attendant tested positive, leading to
-    more disorder in M.L.B.’s schedule.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler
-    Kepner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/players-opt-out.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/sports/30missing-zimmerman/merlin_173950401_83c6e99d-03a4-4021-be1e-a680aebda54e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Sports Are Back. Here Are Some Athletes Who Are Not.
-    
-    Ryan Zimmerman, David Price, Buster Posey, Carlos Vela and Wilson
-    Chandler are among the players who are opting out of playing this
-    summer because of health concerns.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Victor
-    Mather</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/sports/baseball/yankees-schedule.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/sports/29yankees1/merlin_175089060_4716f363-3aa4-407f-9c55-b6328c946790-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘It’s Been a Crazy Couple Days’: The Yankees’ Virus-Scrambled Week
-    
-    The Yankees’ plans changed seemingly by the hour this week, part of
-    the ripple effects of the Miami Marlins’ outbreak.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">James
-    Wagner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/sports/baseball/mlb-season-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/sports/29kepner1/merlin_174540786_55f54ebb-5617-480e-bf30-07cb6840ea41-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">on baseball</span>
-    
-    ## Even With an Early Outbreak, Baseball Still Has a Path Forward
-    
-    The sport is grappling with the wisdom of continuing the season
-    after the coronavirus infiltrated the Marlins’ roster. But many
-    players remain committed to playing.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler Kepner</span>
+    By <span class="css-1n7hynb">Robert O’Connell</span>
     
     </div>
     

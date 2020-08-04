@@ -233,28 +233,28 @@ story](#after-sponsor)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-        photo by Alexander
-        Nemenov</span>](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
         
         <div class="css-10wtrbd">
         
-        ## [Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+        ### Surfacing
+        
+        ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/29senateart1-thumbStandard.jpg)](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+        [![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbStandard.png)](/2020/08/01/arts/design/virus-design-objects.html)
         
         </div>
         
-        Congressional investigators said companies tied to two Russians
-        under sanctions were able to buy art using shell companies and
-        an
-        intermediary.
+        The pandemic has inspired a flurry of new and novel items — and
+        given ordinary ones new
+        meanings.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Graham
-        Bowley</span></span>
+        <span class="css-1baulvz" itemprop="name">Sophie Haigney</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Peter
+        Arkle</span></span>
         
         </div>
 
@@ -264,7 +264,25 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Van
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+    photo by Alexander
+    Nemenov</span>](https://static01.nyt.com/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+    
+    Congressional investigators said companies tied to two Russians
+    under sanctions were able to buy art using shell companies and an
+    intermediary.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Graham
+    Bowley</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Van
     Gogh
     Museum</span>](https://static01.nyt.com/images/2020/07/30/arts/28van-gogh2/28van-gogh2-videoLarge-v2.jpg)
     
@@ -283,7 +301,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Serar</span>](https://static01.nyt.com/images/2020/07/30/arts/29doylelane14/29doylelane14-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -300,7 +318,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Art Reviews
+4.  ### Art Reviews
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nasreen
     Mohamedi, via the artist's estate and Talwar
@@ -323,7 +341,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hana
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hana
     Miletic/Home
     Cooking</span>](https://static01.nyt.com/images/2020/07/29/arts/29instagram-art1/29instagram-art1-videoLarge.jpg)
     
@@ -338,23 +356,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jillian
     Steinhauer</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Sotheby's</span>](https://static01.nyt.com/images/2020/07/30/arts/28sothebys-item1/28sothebys-item1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Banksy and Rembrandt Boost Sotheby’s Sale to $192.7 Million](/2020/07/28/arts/design/sothebys-banksy-rembrandt.html)
-    
-    The auction house held a livestream sale of 65 artworks from seven
-    centuries titled “Rembrandt to
-    Richter.”
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Scott
-    Reyburn</span></span>
     
     </div>
 
@@ -414,23 +415,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/arts/design/virus-design-objects.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Strange Lives of Objects in the Coronavirus Era
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    The pandemic has inspired a flurry of new and novel items — and
-    given ordinary ones new meanings.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sophie Haigney <span>and</span> Peter
-    Arkle</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -452,7 +454,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -691,24 +693,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/arts/design/national-museum-of-the-american-latino.html)
+    [](/2020/07/28/arts/design/sothebys-banksy-rembrandt.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/arts/28LATMUSEUM1/28LATMUSEUM1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/arts/28sothebys-item1/28sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## House Votes to Create a National Museum of the American Latino
+    ## Banksy and Rembrandt Boost Sotheby’s Sale to $192.7 Million
     
-    Plans for a museum devoted to the history and contributions of
-    Latinos in the United States began forming in the 2000s, but
-    legislation had not gained traction in Congress until now.
+    The auction house held a livestream sale of 65 artworks from seven
+    centuries titled “Rembrandt to Richter.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia
-    Jacobs</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -726,23 +727,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/arts/design/hirshhorn-museum-jon-rafman.html)
+    [](/2020/07/28/arts/design/national-museum-of-the-american-latino.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/arts/28rafman-item/28rafman-item-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/arts/28LATMUSEUM1/28LATMUSEUM1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Hirshhorn Suspends Jon Rafman Show After Allegations of Sexual Misconduct
+    ## House Votes to Create a National Museum of the American Latino
     
-    The move follows the suspension of an exhibition of the artist’s
-    works at a Montreal museum earlier this month after several women
-    accused him of sexual misconduct on Instagram.
+    Plans for a museum devoted to the history and contributions of
+    Latinos in the United States began forming in the 2000s, but
+    legislation had not gained traction in Congress until now.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Bahr</span>
+    By <span class="css-1n7hynb">Julia Jacobs</span>
     
     </div>
     

@@ -575,21 +575,22 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Philip
-    Cheung for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gil
+    Cohen-Magen/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Cases ‘Trending Down’ in California, Governor Says](/video/us/100000007271181/california-virus-cases-trend-down.html)
+    ## [When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
     
-    Gov. Gavin Newsom said on Monday that the total number of people
-    testing positive for the coronavirus was on the
-    decline.
+    As countries consider back-to-school strategies for the fall, a
+    coronavirus outbreak at a Jerusalem high school offers a cautionary
+    tale.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Associated
-    Press</span></span>
+    <span class="css-1baulvz" itemprop="name">Isabel Kershner</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Pam
+    Belluck</span></span>
     
     </div>
 
@@ -1007,6 +1008,40 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/coronavirus-today.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Briefing: What Happened Today
+    
+    The school year is underway in some parts of the United States — and
+    we’re already seeing how fraught reopening classrooms can be.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
     
     <div class="css-79elbk">
@@ -1034,7 +1069,7 @@ story](#after-mid3)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1069,7 +1104,7 @@ story](#after-mid3)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1107,7 +1142,7 @@ story](#after-mid3)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1141,7 +1176,7 @@ story](#after-mid3)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1174,7 +1209,7 @@ story](#after-mid3)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1211,7 +1246,7 @@ story](#after-mid3)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1248,7 +1283,7 @@ story](#after-mid3)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1268,42 +1303,7 @@ story](#after-mid3)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/americas/mexico-el-marro-capture.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02mexico2/merlin_170327064_c214ce7c-82c0-4a6b-ab03-3dc20289260d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence
-    
-    While the arrest of José Antonio Yépez delivers a major blow to a
-    cartel, analysts say officials lack a cohesive strategy against
-    debilitating crime.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Azam Ahmed</span>
+    By <span class="css-1n7hynb">Isabella Kwai</span>
     
     </div>
     

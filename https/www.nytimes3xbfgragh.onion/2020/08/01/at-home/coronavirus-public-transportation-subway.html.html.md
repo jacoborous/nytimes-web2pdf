@@ -259,14 +259,20 @@ Cusumano</span>](https://www.nytimes3xbfgragh.onion/by/katherine-cusumano)
 
 </div>
 
-  - Aug. 1,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 3,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -362,7 +368,7 @@ there’s probably ample air circulation and space to [spread
 out](https://twitter.com/vinbarone/status/1270470612071440386). If
 you’re riding the bus, try to sit near a window, and keep it open.
 Don’t do this on the subway, though: New York’s underground tunnels
-are “full of steel dust and asbestos,” Dr. Kaufman explained. Choose the
+are “full of steel dust and asbestos,” Ms. Kaufman explained. Choose the
 escalator or stairs over the elevator if you can.
 
 Or travel by bicycle. The use of bike-share programs in New York and

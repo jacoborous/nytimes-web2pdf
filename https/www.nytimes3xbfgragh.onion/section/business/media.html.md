@@ -186,6 +186,147 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve ads.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
+    Isaac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Charts</span>
+    
+    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
+    
+    The singer and songwriter’s surprise album had the equivalent of
+    846,000 sales in the United States, a total beaten only by her own
+    last two LPs.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Sisario</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
+    
+    The best-selling author talks about her latest book, “Midnight Sun,”
+    which retells “Twilight” from the vampire’s perspective. Why now?
+    “Because I finished it,” she says.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Concepción de
+    León</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
     
     <div class="css-79elbk">
@@ -216,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -252,7 +393,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -287,7 +428,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -322,7 +463,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -332,7 +473,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/obituaries/Silberman1/Silberman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -357,7 +498,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -383,144 +524,9 @@ story](#after-sponsor)
     
     </div>
     
-    </div>
+    <div class="css-185051n">
     
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
-    
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## James Murdoch Resigns From News Corp, Ending Role in Family Empire
-    
-    While his elder brother, Lachlan Murdoch, rises in the family
-    business, James Murdoch has grown more distant from his father’s
-    companies.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael M. Grynbaum <span>and</span>
-    Edmund
-    Lee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
-    
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/style/trump-twitter-barstool-sports.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/fashion/oakImage-1596134764009/oakImage-1596134764009-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Shindigger</span>
-    
-    ## Trump White House Meets Its Match With Barstool Sports
-    
-    Trump admits he regrets some tweets during this fratty, swampy
-    summer, as nostalgia surges for Trump’s first underdog campaign and
-    a more uncertain future looms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shawn McCreesh</span>
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

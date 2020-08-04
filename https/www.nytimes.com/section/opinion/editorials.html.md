@@ -170,6 +170,40 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/opinion/coronavirus-gohmert-congress-testing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/opinion/02covid1/02covid1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why Are So Many People on Capitol Hill Getting Infected?
+    
+    Lawmakers are essential workers. They should start acting like it
+    and protect themselves and the other people who work for Congress.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial
+    Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
     
     <div class="css-79elbk">
@@ -198,7 +232,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +266,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -266,7 +300,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -300,7 +334,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -334,7 +368,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -369,7 +403,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +437,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -436,7 +470,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -454,40 +488,6 @@ story](#after-sponsor)
     
     Changing the secular space back into a religious one is a risk for
     the World Heritage Site.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/opinion/new-york-vote.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/21/opinion/21nyvote-illo/21nyvote-illo-thumbWide-v12.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## New Yorkers, Voting Could Get Much Easier for You
-    
-    The Legislature should use a rare, brief summer session to make key
-    reforms ahead of the November elections.
     
     <div class="css-1nqbnmb ea5icrr0">
     

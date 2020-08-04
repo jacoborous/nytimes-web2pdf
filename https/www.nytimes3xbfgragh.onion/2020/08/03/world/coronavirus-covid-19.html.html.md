@@ -224,12 +224,12 @@ story](#after-sponsor)
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 4, 2020, 1:55 a.m.
+<span class="css-1656jku">Aug. 4, 2020, 3:05 a.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 1:55
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 3:05
 a.m.
 ET</span>
 
@@ -249,9 +249,9 @@ begun to reopen, with fraught results.
 
 Right Now
 
-Hurricane Isaias made landfall in the Carolinas, at a time when many
-people in the Southeast are busy battling the
-virus.
+A New Zealand couple caught a ride home from the Falkland Islands — a
+distance of more than 5,000 nautical miles — on an Antarctic fishing
+boat.
 
 </div>
 
@@ -271,10 +271,10 @@ virus.
     they’re bringing the virus with them.](#link-4c85ed64)
   - [Hurricane Isaias makes landfall in North Carolina, as officials
     across the Southeast scramble.](#link-5ccc012)
-  - [Despite the pandemic, Facebook leases more office space in
-    Manhattan.](#link-4c7bee27)
-  - [St. Louis Cardinals’ outbreak grows to 13 as Major League Baseball
-    season teeters.](#link-43feae1e)
+  - [Italian sex workers face poverty and illness during the
+    pandemic.](#link-6bfd36ea)
+  - [New Zealand newlyweds, stranded in the Falkland Islands, went home
+    on a fishing boat.](#link-bfeb498)
 
 </div>
 
@@ -867,6 +867,9 @@ extending them through January, while Republicans have proposed a $1
 trillion package that would slash the unemployment payments
 considerably.
 
+More than 47,800 new cases and more than 600 new deaths were reported in
+the United States on Monday.
+
 ## 
 
 <div id="link-e5a2cda" class="css-105iojl">
@@ -941,6 +944,14 @@ household responses as collected in prior censuses, including outreach
 to hard-to-count communities,” the Census Bureau said in its
 [statement](https://www.census.gov/newsroom/press-releases/2020/delivering-complete-accurate-count.html).
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Critics said the move was pushed by the White House and motivated by
 partisanship.
 
@@ -952,14 +963,6 @@ Rights](https://civilrights.org/about/our-staff/vanita-gupta/). “And in
 the middle of this pandemic, the administration has tried to sabotage
 the census for partisan gain, to move its anti-immigrant agenda and to
 silence communities of color.”
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 She added that rural communities could be badly hurt by an undercount.
 
@@ -1059,14 +1062,6 @@ classrooms can be. Already in some states, schools that decided to open
 for in-person classes are quarantining staff members and students, and
 even closing temporarily as positive cases are found.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Traditionally, [about 14 percent of the nation’s
 children](https://www.pewresearch.org/fact-tank/2019/08/14/back-to-school-dates-u-s/)
 go back to school by the second week of August, mostly in the South and
@@ -1105,6 +1100,14 @@ with more than 180,000 students. Teachers returned to work last
 Wednesday, in preparation for starting classes remotely on Aug. 12. But
 as of Thursday, about 260 employees had been excluded from work because
 they tested positive or had potentially been exposed to the virus.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Other key developments in education:
 
@@ -1220,10 +1223,6 @@ Officials have told residents in the storm’s projected path to prepare
 themselves, and businesses are concerned about how much damage it will
 bring.
 
-“It’s a wait-and-see game,” said Jay Slevin, the manager of a pizzeria
-about a mile from the shore in Myrtle Beach, S.C., southwest of where
-Isaias made landfall.
-
 </div>
 
 </div>
@@ -1231,6 +1230,10 @@ Isaias made landfall.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“It’s a wait-and-see game,” said Jay Slevin, the manager of a pizzeria
+about a mile from the shore in Myrtle Beach, S.C., southwest of where
+Isaias made landfall.
 
 Officials are also changing how they run shelters and advising residents
 to regard them as a last resort, [out of fear that the virus could
@@ -1260,6 +1263,190 @@ to dig a little deeper.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+## 
+
+<div id="link-6bfd36ea" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Italian sex workers face poverty and illness during the pandemic.
+
+In Italy, prostitution is not illegal, nor is it regulated as an
+official occupation, making the country’s 70,000 sex workers largely
+ineligible to receive economic relief. Many have been forced to take
+their chances by returning to work in order to avoid poverty.
+
+In May, organizations that promote the rights of Italian sex workers
+sought to draw the government’s attention and get support, arguing that
+the pandemic showed the harm of forcing sex work underground.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In March, Regina Satariano, a 60-year-old sex worker in Tuscany, started
+hearing about colleagues who hadn’t eaten and a landlord who had
+threatened to evict a group of 17 housemates, all sex workers who were
+out of work because of the pandemic.
+
+Ms. Satariano put together her savings and bought bags of pasta, tomato
+sauce, chicken and soap to distribute to her colleagues. But without
+support from the state, she said, many sex workers will continue to go
+hungry. If officials don’t change things now, she added, “they never
+will.”
+
+In other European countries, such as the Netherlands and Germany, sex
+workers can enter formal contracts with their clients. During the
+lockdown, those who were officially registered with the government were
+eligible for economic relief.
+
+Scotland also included sex workers in its relief programs. In Greece,
+where prostitution is legal and regulated, brothels were allowed to
+reopen on June 15, provided that sex workers kept their clients’ names
+and contact details for four weeks for tracing purposes.
+
+In Italy, [various charities and associations have raised
+money](https://www.produzionidalbasso.com/project/covid19-nessuna-da-sola-solidarieta-immediata-alle-lavoratrici-sessuali-piu-colpite-dall-emergenza/)
+for groceries, medicines, bills and rent to benefit the country’s sex
+workers. But for the most part, Italian sex workers, who are often from
+immigrant communities, have had to fend for themselves.
+
+A recent report by the Sex Workers’ Rights Advocacy Network and the
+International Committee on the Rights of Sex Workers in Europe showed
+that many sex workers defied lockdown rules in order to work, putting
+both themselves and their clients at risk.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-bfeb498" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+New Zealand newlyweds, stranded in the Falkland Islands, went home on a
+fishing boat.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:429.2px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Feeonaa and
+Neville Clifton aboard the Antarctic fishing vessel that took them home
+to New Zealand from the Falkland Islands.</span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A newly married couple from New Zealand who were stranded for months in
+the remote Falkland Islands have managed to return home — by catching a
+ride for more than 5,000 nautical miles on an Antarctic fishing boat.
+
+The couple, Feeonaa and Neville Clifton, were honeymooning in the south
+Atlantic archipelago, about 300 miles off the coast of Argentina, as
+South America’s coronavirus epidemic began to escalate in March. After
+their flights home via Brazil were canceled, they remained in lockdown
+with an aunt in the Falklands, where Mr. Clifton was born.
+
+The couple have been together more than 25 years and raised three
+children, but decided only recently to marry and take a honeymoon. Ms.
+Clifton said they spent their time in lockdown rekindling old hobbies,
+like playing card games.
+
+“I think maybe I fell in love with him just a little bit more,” she
+added of her husband.
+
+That was the easy part.
+
+Ms. Clifton, 48, said that when they began planning their escape from
+the Falklands, one of their only options was a military transport
+through Africa and Britain.
+
+“At the time we were being told Latam might fly next month, and then
+again the next month after that,” she said, referring to Latam Airlines,
+a major carrier in the region. “Unfortunately the deadline kept getting
+further and further pushed back.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+They explored other travel options, but each seemed complex and likely
+to put them at increased risk of contracting the virus.
+
+Eventually, they settled on the San Aotea II, a fishing boat that was
+heading their way. The only catch was that the journey would take 29
+days and traverse the notoriously treacherous Southern Ocean.
+
+But Ms. Clifton, who had never spent a night on a boat, said the trip
+was surprisingly calm, and that the crew helped pass the time by playing
+cards with them.
+
+The couple arrived in New Zealand on Tuesday morning after testing
+negative for the virus. Ms. Clifton said in a telephone interview a few
+hours later that they still felt “extremely wobbly” — to the point where
+a shopkeeper they came upon during the drive home thought they were
+dancing.
+
+“We were just trying to stand up straight,” she said.
 
 ## 
 
@@ -2065,14 +2252,14 @@ Pichai and Disney’s Bob Chapek.
 
 <div class="css-53u6y8">
 
-Reporting was contributed by Reed Abelson, Peter Baker, Benedict Carey,
-Emily Cochrane, Jill Cowan, Stacy Cowley, Jacey Fortin, Thomas Fuller,
-Michael Gold, Denise Grady, Jason Gutierrez, Matthew Haag, Maggie
-Haberman, Javier C. Hernández, Annie Karni, Tyler Kepner, Sarah Kliff,
-Andrew E. Kramer, Sharon LaFraniere, Dan Levin, Apoorva Mandavilli,
-Sarah Mervosh, Azi Paybarah, Daniel E. Slotnik, Eileen Sullivan, Sheryl
-Gay Stolberg, Jim Tankersley, Katie Thomas, Noah Weiland, Michael Wines,
-Sameer Yasir and Karen Zraick.
+Reporting was contributed by Reed Abelson, Livia Albeck-Ripka, Peter
+Baker, Emma Bubola, Benedict Carey, Emily Cochrane, Jill Cowan, Stacy
+Cowley, Jacey Fortin, Thomas Fuller, Michael Gold, Denise Grady, Jason
+Gutierrez, Matthew Haag, Maggie Haberman, Javier C. Hernández, Annie
+Karni, Tyler Kepner, Sarah Kliff, Andrew E. Kramer, Sharon LaFraniere,
+Dan Levin, Apoorva Mandavilli, Sarah Mervosh, Azi Paybarah, Daniel E.
+Slotnik, Eileen Sullivan, Sheryl Gay Stolberg, Jim Tankersley, Katie
+Thomas, Noah Weiland, Michael Wines, Sameer Yasir and Karen Zraick.
 
 </div>
 

@@ -135,14 +135,14 @@ For</span>
 
   - 
     
-    <div id="default_container" class="nytslm_li_loud">
+    <div id="live_container" class="nytslm_li_loud">
     
-    <div id="default" class="nytslm_li_default_loud">
+    <div id="live" class="nytslm_li_live_loud">
     
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -626,10 +626,9 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - The vice-presidential watch begins in earnest this week. [Follow
+        the latest updates
+        here.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     

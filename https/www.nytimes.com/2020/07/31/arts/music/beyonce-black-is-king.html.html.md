@@ -245,7 +245,7 @@ Tillet</span>](https://www.nytimes.com/by/salamishah-tillet)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 31,
+    Published July 31, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -254,7 +254,7 @@ Tillet</span>](https://www.nytimes.com/by/salamishah-tillet)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -526,8 +526,9 @@ dancers, tribal elders, city hustlers, judges in wigs and robes,
 hoop-skirted debutantes and their beaus. And she willingly lets herself
 be upstaged by African collaborators whose faces her American fans may
 not yet have seen, like Busiswa from South Africa, Salatiel from
-Cameroon and Yemi Alade, Tekno and Mr Eazi from Nigeria. It puts her
-pan-African solidarity incontrovertibly onscreen.
+Cameroon and Yemi Alade and<span class="css-8l6xbc evw5hdy0"> </span>Mr
+Eazi from Nigeria. It puts her pan-African solidarity incontrovertibly
+onscreen.
 
 ## Vanessa Friedman, fashion director and chief fashion critic
 

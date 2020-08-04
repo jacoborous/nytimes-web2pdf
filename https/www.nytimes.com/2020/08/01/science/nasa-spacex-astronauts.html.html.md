@@ -143,13 +143,13 @@ Home</span>
 
 [<span class="styln-title-wrap"><span class="css-1pje3qr">SpaceX’s</span><span class="css-1pje3qr">
 Astronaut
-Trip</span></span>](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+Trip</span></span>](https://www.nytimes.com/2020/08/02/science/spacex-astronauts-splashdown.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [The Voyage
-    Home](https://www.nytimes.com/2020/08/01/science/nasa-spacex-astronauts.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [‘Thanks for Flying
+    SpaceX’](https://www.nytimes.com/2020/08/02/science/spacex-astronauts-splashdown.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Why NASA Picked
     SpaceX](https://www.nytimes.com/2020/05/26/science/spacex-launch-nasa.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Inside SpaceX’s
+  - [Inside the
     Capsule](https://www.nytimes.com/interactive/2020/05/26/science/spacex-nasa.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Meet the
     Astronauts](https://www.nytimes.com/2020/05/27/science/bob-behnken-doug-hurley.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
@@ -336,6 +336,18 @@ If the weather conditions remain favorable, it will splash down in the
 Gulf of Mexico off Pensacola, Fla., at 2:48 p.m. on Sunday, NASA
 announced.
 
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 A safe return would open up more trips to and from orbit for future
 astronaut crews, and possibly space tourists, aboard the spacecraft.
 
@@ -423,14 +435,6 @@ Huot said.
 Just before a final burn that will drop the Crew Dragon out of orbit on
 Sunday afternoon, it will jettison the bottom part of the spacecraft,
 known as the trunk, which will then burn up in the atmosphere.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 At re-entry, the Crew Dragon will be traveling at about 17,500 miles per
 hour. Two small parachutes will deploy at an altitude of 18,000 feet
@@ -762,13 +766,6 @@ all splashed down in the ocean while Soviet capsules all ended their
 trips on land. Russia’s current Soyuz capsules continue to make ground
 landings, as do China’s astronaut-carrying Shenzhou capsules.
 
-When Boeing’s Starliner capsule begins carrying crews to the space
-station, it will return on land, in New Mexico. SpaceX had originally
-planned for the Crew Dragon to do ground landings, but decided that
-water landings, employed for the earlier version of Dragon for taking
-cargo, simplified the development of the
-capsule.
-
 </div>
 
 </div>
@@ -776,6 +773,13 @@ capsule.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+When Boeing’s Starliner capsule begins carrying crews to the space
+station, it will return on land, in New Mexico. SpaceX had originally
+planned for the Crew Dragon to do ground landings, but decided that
+water landings, employed for the earlier version of Dragon for taking
+cargo, simplified the development of the
+capsule.
 
 ## Why is the return trip an important part of the Crew Dragon’s first flight?
 
@@ -822,11 +826,6 @@ Hurley](https://www.nytimes.com/2020/05/27/science/bob-behnken-doug-hurley.html)
 who have been friends and colleagues since both were selected by NASA to
 be astronauts in 2000.
 
-Both men have backgrounds as military test pilots and each has flown
-twice before on space shuttle missions, although this is the first time
-they have worked together on a mission. Mr. Hurley flew on the space
-shuttle’s final mission in 2011.
-
 </div>
 
 </div>
@@ -834,6 +833,11 @@ shuttle’s final mission in 2011.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Both men have backgrounds as military test pilots and each has flown
+twice before on space shuttle missions, although this is the first time
+they have worked together on a mission. Mr. Hurley flew on the space
+shuttle’s final mission in 2011.
 
 In 2015, they were among the astronauts chosen to work with Boeing and
 SpaceX on the commercial space vehicles that the companies were
@@ -896,13 +900,6 @@ when another crew of one American and two Russian astronauts [will
 replace
 them](https://www.nasa.gov/press-release/nasa-astronaut-kate-rubins-crewmates-to-discuss-upcoming-spaceflight).
 
-## When are the next Crew Dragon flights, and who will they carry?
-
-The first operational flight of the Crew Dragon will launch no earlier
-than late September. It will take three NASA astronauts — Michael S.
-Hopkins, Victor J. Glover and Shannon Walker — and one Japanese
-astronaut, Soichi Noguchi, to the space station.
-
 </div>
 
 </div>
@@ -910,6 +907,13 @@ astronaut, Soichi Noguchi, to the space station.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+## When are the next Crew Dragon flights, and who will they carry?
+
+The first operational flight of the Crew Dragon will launch no earlier
+than late September. It will take three NASA astronauts — Michael S.
+Hopkins, Victor J. Glover and Shannon Walker — and one Japanese
+astronaut, Soichi Noguchi, to the space station.
 
 The second operational flight, tentatively scheduled for February 2021,
 will carry two NASA astronauts, Robert S. Kimbrough and K. Megan

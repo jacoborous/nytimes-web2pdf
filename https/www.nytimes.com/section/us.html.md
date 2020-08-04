@@ -165,7 +165,7 @@ story](#after-sponsor)
     
     </div>
     
-    ## [Isaias Live Updates: Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
+    ## [Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
     
     Isaias regained strength into a Category 1 hurricane on Monday
     night, bringing heavy winds and rain to the East Coast. Flash
@@ -176,32 +176,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
-        Martinez for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/02/us/02storm-1/merlin_175215639_9253d98f-4c76-4648-9f8c-8436a3490656-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/02/us/02storm-1/02storm-1-thumbStandard.jpg)](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
-        
-        </div>
-        
-        ## [Tropical Storm Isaias, Grazing Florida, Takes Aim at Carolinas](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
-        
-        The Florida coast was spared severe damage on Sunday, but much
-        of the Eastern Seaboard is threatened with flooding
-        rains.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Rebecca
-        Halleck</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
         Robison/The Northeast Mississippi Daily Journal, via Associated
         Press</span>](https://static01.nyt.com/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-threeByTwoMediumAt2X.jpg)
         
@@ -227,7 +202,7 @@ story](#after-sponsor)
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
         Rayford/Getty
         Images</span>](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/03isaias-01-threeByTwoMediumAt2X.jpg)
         
@@ -250,6 +225,34 @@ story](#after-sponsor)
         <span class="css-1baulvz" itemprop="name">Rick Rojas</span> and
         <span class="css-1baulvz last-byline" itemprop="name">Lucy
         Tompkins</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+        Sonner/Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/03/us/03alturascatoday/03alturascatoday-threeByTwoMediumAt2X-v2.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/us/03alturascatoday/merlin_175074357_237ea6ee-554a-4856-95fb-f458b0b3ab44-thumbStandard.jpg)](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        
+        </div>
+        
+        ### California Today
+        
+        ## [The Last California County Without a Coronavirus Case](/2020/08/03/us/california-coronavirus-modoc-county.html)
+        
+        Monday: The virus found its way into tiny, remote Modoc County.
+        Also: The Apple Fire prompted evacuations, and a successful
+        astronaut
+        return.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Thomas Fuller</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Jill
+        Cowan</span></span>
         
         </div>
 
@@ -307,6 +310,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">good question</span>
+    
+    ## How Hot is Too Hot?
+    
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to sweat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Randall
+    Munroe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/us/wyoming-hot-air-balloons-crash.html)
     
     <div class="css-79elbk">
@@ -334,7 +373,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -368,7 +407,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +442,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -439,7 +478,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -474,7 +513,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -510,7 +549,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -546,7 +585,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -582,7 +621,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -603,42 +642,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan
-    Wolfe</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/trump-rnc-speech.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options
-    
-    The president and his aides are holding out hope for ambitious
-    convention programming, and have considered a return to Mount
-    Rushmore or a speech by Melania Trump from Seneca Falls, N.Y.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni</span>
+    By <span class="css-1n7hynb">Jonathan Wolfe</span>
     
     </div>
     

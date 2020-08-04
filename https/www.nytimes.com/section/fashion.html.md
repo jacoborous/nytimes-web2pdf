@@ -137,44 +137,118 @@ Slideshows](/spotlight/fashion-runway-slideshows)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
+    Alfiky/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbStandard.jpg)](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
+    [![](https://static01.nyt.com/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbStandard.jpg)](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
     
     </div>
     
-    ### Critic’s Notebook
+    ## [Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
     
-    ## [Titans of Tech Testify in Their Trust-Me Suits](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
-    
-    It’s a tongue twister, but also a strategy. Jeff Bezos, Mark
-    Zuckerberg, Tim Cook and Sundar Pichai appeared before Congress and
-    dressed the
-    part.
+    Some retailers are turning to popular social media personalities to
+    detail post-pandemic protocols and boost the allure of visiting
+    their
+    stores.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Vanessa
-    Friedman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sapna
+    Maheshwari</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
+    Frustaci/EPA, via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/07/31/fashion/31stella-1/31stella-1-thumbStandard.jpg)](/2020/07/31/fashion/italian-fashion-black-designers.html)
+    
+    </div>
+    
+    ## [Italian Fashion Hasn’t Changed Enough, Black Designers Say](/2020/07/31/fashion/italian-fashion-black-designers.html)
+    
+    A new letter sent by independent designers to fashion executives
+    demands reform, or at least a serious conversation about
+    race.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jessica
+    Testa</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bruce
+        Bennett/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-thumbStandard.jpg)](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+        
+        </div>
+        
+        The department store, which traces its roots to 1826, was
+        struggling before the coronavirus hit. Its owner, the clothing
+        rental start-up Le Tote, also filed for
+        bankruptcy.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Sapna
+        Maheshwari</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Critic’s Notebook
+        
+        ## [Titans of Tech Testify in Their Trust-Me Suits](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/07/30/fashion/30ZOOMSUITS-COMBO/30ZOOMSUITS-COMBO-thumbStandard.jpg)](/2020/07/29/style/Bezos-zuckerberg-cook-pichai-testimony-suits.html)
+        
+        </div>
+        
+        It’s a tongue twister, but also a strategy. Jeff Bezos, Mark
+        Zuckerberg, Tim Cook and Sundar Pichai appeared before Congress
+        and dressed the
+        part.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Vanessa
+        Friedman</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Unbuttoned
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marcio
     Jose Sanchez/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/29/fashion/29unbuttoned-moms-1-SUB/merlin_174896520_00a3ac2a-7670-418a-82b1-8ee02d3f0437-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/29/fashion/29unbuttoned-moms-1-SUB/29unbuttoned-moms-1-SUB-thumbStandard.jpg)](/2020/07/28/style/wall-of-moms-image.html)
-    
-    </div>
-    
-    ### Unbuttoned
     
     ## [What Does It Mean to ‘Look Like a Mom’?](/2020/07/28/style/wall-of-moms-image.html)
     
@@ -188,65 +262,46 @@ Slideshows](/spotlight/fashion-runway-slideshows)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-        Illustration by The New York Times; Google Street
-        View</span>](https://static01.nyt.com/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [A Close Look at a Fashion Supply Chain Is Not Pretty](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-thumbStandard.jpg)](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
-        
-        </div>
-        
-        A new report on factories in Malaysia that create products for
-        Brooks Brothers, Levi’s, LL Bean and others examines the high
-        prices workers pay for their
-        jobs.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
-        Paton</span></span>
-        
-        </div>
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    Illustration by The New York Times; Google Street
+    View</span>](https://static01.nyt.com/images/2020/07/27/fashion/00malaysia-garmentworkers/00malaysia-garmentworkers-videoLarge.jpg)
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-        by The New York Times; via
-        Archive.org</span>](https://static01.nyt.com/images/2020/07/30/fashion/23everlane-screengrabs-02/23everlane-screengrabs-02-videoLarge-v3.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Everlane’s Promise of ‘Radical Transparency’ Unravels](/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/07/30/fashion/23everlane-screengrabs-02/23everlane-screengrabs-02-thumbStandard-v4.jpg)](/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
-        
-        </div>
-        
-        Employees past and present are challenging management, saying
-        the company’s ethical image was an
-        illusion.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Jessica Testa</span>,
-        <span class="css-1baulvz" itemprop="name">Vanessa
-        Friedman</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
-        Paton</span></span>
-        
-        </div>
+    <div class="css-10wtrbd">
+    
+    ## [A Close Look at a Fashion Supply Chain Is Not Pretty](/2020/07/28/style/malaysia-forced-labor-garment-workers.html)
+    
+    A new report on factories in Malaysia that create products for
+    Brooks Brothers, Levi’s, LL Bean and others examines the high prices
+    workers pay for their
+    jobs.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
+    Paton</span></span>
+    
+    </div>
 
-</div>
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by The New York Times; via
+    Archive.org</span>](https://static01.nyt.com/images/2020/07/30/fashion/23everlane-screengrabs-02/23everlane-screengrabs-02-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Everlane’s Promise of ‘Radical Transparency’ Unravels](/2020/07/26/fashion/everlane-employees-ethical-clothing.html)
+    
+    Employees past and present are challenging management, saying the
+    company’s ethical image was an
+    illusion.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Jessica Testa</span>,
+    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
+    Paton</span></span>
+    
+    </div>
 
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rozette
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rozette
     Rago for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/30/fashion/29VIRUS-SECONDHANDSHOPS-1/29VIRUS-SECONDHANDSHOPS-1-videoLarge-v2.jpg)
     
@@ -261,59 +316,6 @@ Slideshows](/spotlight/fashion-runway-slideshows)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jessica
     Schiffer</span></span>
-    
-    </div>
-
-2.  ### skin deep
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/fashion/28SKIN-UNSEXY-art/28SKIN-UNSEXY-art-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Can Unsexy Beauty Be Sexy?](/2020/07/28/style/can-unsexy-beauty-be-sexy.html)
-    
-    A new guard of beauty brands is using slick packaging and candid
-    messaging to sell products women were once embarrassed to
-    buy.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Rachel
-    Strugatz</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>FFORA</span>](https://static01.nyt.com/images/2020/07/26/multimedia/26ADA-Fashion2/26ADA-Fashion2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Disabled People Love Clothes Too’](/2020/07/26/style/functional-fashion.html)
-    
-    But \#disabledandcute influencers say the fashion industry has been
-    slow to embrace
-    them.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Keah
-    Brown</span></span>
-    
-    </div>
-
-4.  ### The saturday profile
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reef
-    Chang</span>](https://static01.nyt.com/images/2020/07/24/world/24taiwan-laundry1a/24taiwan-laundry1a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [He’s 83, She’s 84, and They Model Other People’s Forgotten Laundry](/2020/07/24/world/asia/taiwan-octogenarian-couple-instagram-laundry.html)
-    
-    The owners of a laundry shop in central Taiwan have become Instagram
-    stars for posing in garments left
-    behind.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Chris
-    Horton</span></span>
     
     </div>
 
@@ -1380,100 +1382,6 @@ story](#after-mid6)
 <div id="after-mid6">
 
 </div>
-
-</div>
-
-<div class="section 5-band css-jhqenn ep7jkp60">
-
-## [Jewelry](/spotlight/jewelry)
-
-[More in Jewelry
-    »](/spotlight/jewelry)
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/18/multimedia/18sp-jewelryroundtable-inyt5/18sp-jewelryroundtable-inyt5-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘At First I Didn’t Want to Show My Face’](/2020/07/17/fashion/jewelry-black-designers.html)
-    
-    Three Black jewelry designers talk about thriving in an industry
-    that hasn’t always embraced
-    them.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tanya
-    Dukes</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/11/multimedia/11sp-hjroundup-inyt7/11sp-hjroundup-inyt7-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A High Jewelry Season With a Difference](/2020/07/10/fashion/jewelry-couture-boucheron-van-cleef-and-arpels.html)
-    
-    Some houses showed partial collections, others went digital or even
-    delayed — and Boucheron captured the
-    moment.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tina
-    Isaac-Goizé</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Monica
-    Garwood</span>](https://static01.nyt.com/images/2020/07/18/multimedia/18instabuying-illo/18instabuying-illo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Buying Fine Jewelry on Instagram (Without Tears)](/2020/07/17/fashion/jewelry-instagram-buying-online.html)
-    
-    Eager to order a new sparkler? Here are some tips to help make it a
-    pleasant
-    experience.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Libby
-    Banks</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gem
-    X</span>](https://static01.nyt.com/images/2020/07/11/multimedia/11sp-gemx-inyt3/11sp-gemx-inyt3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Bonding Over Jewelry](/2020/07/10/fashion/jewelry-gemx-social-club.html)
-    
-    Gem X, a private jewelry social club, was started by two friends who
-    “felt it would be fun to start planning our own events” that go
-    inside the
-    trade.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Victoria
-    Gomelsky</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Testa for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/18/multimedia/18sp-jewelryvideo-inyt1/18sp-jewelryvideo-inyt1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Jewelry Is Ready for Its Close-Up](/2020/07/17/fashion/jewelry-video-garrard-graff.html)
-    
-    Luxury houses are finding advantages in hiring their own
-    videographers to create proprietary
-    content.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ming
-    Liu</span></span>
-    
-    </div>
 
 </div>
 

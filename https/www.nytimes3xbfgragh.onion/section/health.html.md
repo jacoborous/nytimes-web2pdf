@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-health" class="section css-15h4p1b e9abtgs0">
 
@@ -525,21 +549,19 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Philip
-    Cheung for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+    Steinberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Cases ‘Trending Down’ in California, Governor Says](/video/us/100000007271181/california-virus-cases-trend-down.html)
+    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
-    Gov. Gavin Newsom said on Monday that the total number of people
-    testing positive for the coronavirus was on the
-    decline.
+    Don’t worry, a little Bayesian analysis won’t hurt
+    you.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Associated
-    Press</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
+    Roberts</span></span>
     
     </div>
 

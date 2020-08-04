@@ -248,8 +248,8 @@ relevante de lo que hemos podido comprobar hasta ahora.
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Un
 estornudo. Y lo que se propaga. ¿Cuánto circula el nuevo coronavirus en
-los pequeños aerosoles transportados por el aire que sacamos simplemente
-al
+los pequeños aerosoles transportados por el aire que arrojamos
+simplemente al
 respirar?</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Bettmann
 vía Getty Images
 Plus</span></span></span>](https://static01.nyt.com/images/2020/07/30/opinion/01Marr-ES-1/30Marr-articleLarge.jpg?quality=75&auto=webp&disable=upscale)

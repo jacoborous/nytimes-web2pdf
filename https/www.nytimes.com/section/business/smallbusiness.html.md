@@ -186,6 +186,42 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/dining/03Chinatown1/03Chinatown1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    
+    ## Chinatown Is Coming Back, One Noodle at a Time
+    
+    Restaurants in the Manhattan neighborhood suffered early in the
+    pandemic. Some are just now experimenting with outdoor service.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Pete
+    Wells</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/dining/ever-chicago-restaurant-coronavirus.html)
     
     <div class="css-79elbk">
@@ -215,7 +251,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -249,7 +285,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -284,7 +320,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +357,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -355,7 +391,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -389,7 +425,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -423,7 +459,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -458,7 +494,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -479,41 +515,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mecca
-    Bos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/07/dining/drinks/du-nord-black-owned-distillery-minneapolis.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/08/dining/07Minn-Distiller1/merlin_174096438_a911f0e2-f7a6-4136-9537-c71550d007eb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Black-Owned Distillery in Minneapolis Pushes Forward
-    
-    From the pandemic to protests to arson, Du Nord Craft Spirits has
-    dealt with repeated turmoil and emerged with a new purpose.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Robert Simonson</span>
+    By <span class="css-1n7hynb">Mecca Bos</span>
     
     </div>
     

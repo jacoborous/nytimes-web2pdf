@@ -450,9 +450,10 @@ Lutz</span>
 
 <div class="css-53u6y8">
 
-The advertiser boycott of Facebook took a toll on the social media
-giant, but it may have caused more damage to the company’s reputation
-than to its bottom line.
+The advertiser boycott of
+[Facebook](https://www.nytimes3xbfgragh.onion/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+took a toll on the social media giant, but it may have caused more
+damage to the company’s reputation than to its bottom line.
 
 The boycott, called \#StopHateForProfit by the civil rights groups that
 organized it, urged companies to stop paying for ads on Facebook in July

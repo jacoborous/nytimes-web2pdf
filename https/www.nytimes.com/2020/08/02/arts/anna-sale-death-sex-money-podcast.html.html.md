@@ -241,7 +241,7 @@ Ugwu</span>](https://www.nytimes.com/by/reggie-ugwu)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 2,
+    Published Aug. 2, 2020Updated Aug. 3,
     2020
     
     </div>
@@ -250,7 +250,7 @@ Ugwu</span>](https://www.nytimes.com/by/reggie-ugwu)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -302,9 +302,9 @@ Listeners to Sale’s show are familiar with questions like these,
 questions that lock on to moments of unease, irresolution or tenderness
 that we don’t always put into words. Since she created “Death, Sex &
 Money” for WNYC in 2014, Sale has asked them weekly of both famous
-people (Bill Withers, Jane Fonda) and nonfamous people, many of who send
-in letters and voice memos inspired by the show’s tagline: “The things
-we think about a lot and need to talk about more.”
+people (Bill Withers, Jane Fonda) and nonfamous people, many of whom
+send in letters and voice memos inspired by the show’s tagline: “The
+things we think about a lot and need to talk about more.”
 
 </div>
 
@@ -345,8 +345,8 @@ husband, two young daughters and in-laws at her in-laws’ house in Cody,
 Wyo. During our video call, she sat on the floor of a closet that has
 been serving as a temporary “Death, Sex & Money” studio.
 
-Sale grew up in Charleston, West Va., the fourth of five daughters, with
-a father who was an orthopedic surgeon and a mother who was a physical
+Sale grew up in Charleston, W.Va., the fourth of five daughters, with a
+father who was an orthopedic surgeon and a mother who was a physical
 therapist. Both of her parents were regular listeners of NPR, and Sale,
 an observer born into a family of talkers, loved to listen to Terry
 Gross while riding in the back seat. She moved away for college in 1999

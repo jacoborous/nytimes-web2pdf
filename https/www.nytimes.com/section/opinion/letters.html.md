@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -63,6 +62,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-opinion-letters" class="section css-15h4p1b e9abtgs0">
 
@@ -146,6 +170,140 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/letters/nuclear-arms-treaty.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/29Anderson/29Anderson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Senator Dianne Feinstein: Extending a Nuclear Arms Treaty
+    
+    The California senator urges the United States to renew the New
+    Start agreement. Also: Covid test results; disinfecting
+    classrooms.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/letters/selfishness-society.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/opinion/27krugmanWeb-copy/27krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Selfishness in American Society Today
+    
+    Readers, responding to a column by Paul Krugman, discuss whether
+    selfishness crosses party
+    lines.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/letters/voting-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/09/world/09VIRUS-VOTINGLAWSUITS01-inyt/merlin_173278590_c52556cf-1848-4748-bdd6-dac02de7382b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## To Ensure That Our Election Is Fair and Open
+    
+    Readers urge vigilance against threats to the democratic
+    process.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/opinion/letters/virus-education.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/22/opinion/22green1/merlin_174805344_a9f138d7-63cb-4a6b-956c-ba8704fc3ec8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Do Learning Pods Endanger Equality?
+    
+    Readers discuss closed schools, pods and
+    inequities.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/opinion/letters/disability-law.html)
     
     <div class="css-79elbk">
@@ -174,7 +332,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -208,7 +366,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +401,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +435,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +470,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -332,146 +490,7 @@ story](#after-sponsor)
     
     “I worry that protesters destroying property or retaliating against
     federal forces, however justified, are playing right into Mr.
-    Trump’s hands,” writes a
-    reader.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/opinion/letters/children-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/opinion/sunday/25opreaders-kids/25opreaders-kids-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Proud of the Kids
-    
-    A mother recounts what her 12-year-old daughter and her friends are
-    saying about returning to school and notes, “I was awed by them.”
-    Also: The story behind the
-    flour.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/opinion/letters/pandemic-families.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/opinion/20egan/17egan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letterS</span>
-    
-    ## Being a Grandma During a Pandemic
-    
-    Grandmothers agonize over whether it’s safe to attend a grandson’s
-    wedding and relate the joys of sharing space and a journal with
-    grandchildren.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/opinion/letters/trump-convention.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/us/politics/23gop-convention/merlin_174881487_53836bf3-ff60-4417-81e6-129efa24429c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Why Trump Canceled the Convention
-    
-    Readers react to the change of plan. One says the president’s ego
-    was the motivation, not safety concerns. Also: Baseball’s mistake;
-    hope and despair; a tribute to Brooks
-    Brothers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/opinion/letters/protests-portland.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/opinion/26kristof2/merlin_174823974_38af76d5-f3db-46e3-b9a6-01e3ec05bb9b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Letters</span>
-    
-    ## As Federal Forces Confront Protesters
-    
-    Readers condemn President Trump’s use of armed forces in Portland,
-    Ore. One reader describes “a real war on American cities in a feeble
-    attempt to save his presidency.”
+    Trump’s hands,” writes a reader.
     
     <div class="css-1nqbnmb ea5icrr0">
     

@@ -210,6 +210,42 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Sydney Dispatch</span>
+    
+    ## Taking a Spear Into the Sea, and Washing Anxiety Away
+    
+    I kept seeing people in Sydney carry spearguns to and from the
+    ocean. To understand why, I held my breath and dived in.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
     
     <div class="css-79elbk">
@@ -241,7 +277,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -278,7 +314,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +357,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -358,7 +394,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -395,7 +431,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -431,7 +467,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -468,7 +504,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -511,7 +547,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -537,42 +573,6 @@ story](#after-subheader)
     
     By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Hwaida
     Saad</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/09/world/middleeast/cairo-lockdown-detox.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/06/world/00cairo-dispatch1/merlin_174278163_69dce3c2-fb1e-4853-b995-058c120abf84-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Egypt Dispatch</span>
-    
-    ## Cairo Badly Needed a Detox. Lockdown Supplied One, at a Steep Price.
-    
-    Three months of lockdown slowed its pulse, stripped its grit and
-    exposed a new side to a weary city. But without the noise, bustle
-    and grind, was it really Cairo?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Declan Walsh</span>
     
     </div>
     

@@ -55,7 +55,8 @@ News](https://www.nytimes3xbfgragh.onion/section/us)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ News](https://www.nytimes3xbfgragh.onion/section/us)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-us" class="section css-15h4p1b e9abtgs0">
 
@@ -165,7 +141,7 @@ story](#after-sponsor)
     
     </div>
     
-    ## [Hurricane Isaias Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
+    ## [Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
     
     Isaias regained strength into a Category 1 hurricane on Monday
     night, bringing heavy winds and rain to the East Coast. Flash
@@ -307,6 +283,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">good question</span>
+    
+    ## How Hot is Too Hot?
+    
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to sweat.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Randall
+    Munroe</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/us/wyoming-hot-air-balloons-crash.html)
     
     <div class="css-79elbk">
@@ -334,7 +346,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -368,7 +380,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -403,7 +415,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -439,7 +451,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -474,7 +486,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -510,7 +522,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -546,7 +558,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -582,7 +594,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -603,42 +615,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan
-    Wolfe</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/trump-rnc-speech.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options
-    
-    The president and his aides are holding out hope for ambitious
-    convention programming, and have considered a return to Mount
-    Rushmore or a speech by Melania Trump from Seneca Falls, N.Y.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni</span>
+    By <span class="css-1n7hynb">Jonathan Wolfe</span>
     
     </div>
     

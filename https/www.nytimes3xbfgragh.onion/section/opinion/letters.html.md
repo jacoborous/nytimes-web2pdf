@@ -146,6 +146,74 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/letters/nuclear-arms-treaty.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/29Anderson/29Anderson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Senator Dianne Feinstein: Extending a Nuclear Arms Treaty
+    
+    The California senator urges the United States to renew the New
+    Start agreement. Also: Covid test results; disinfecting
+    classrooms.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/opinion/letters/selfishness-society.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/opinion/27krugmanWeb-copy/27krugmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## Selfishness in American Society Today
+    
+    Readers, responding to a column by Paul Krugman, discuss whether
+    selfishness crosses party
+    lines.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/opinion/letters/voting-election.html)
     
     <div class="css-79elbk">
@@ -173,7 +241,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -206,7 +274,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +308,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +342,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +377,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -343,7 +411,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +446,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -398,77 +466,7 @@ story](#after-sponsor)
     
     “I worry that protesters destroying property or retaliating against
     federal forces, however justified, are playing right into Mr.
-    Trump’s hands,” writes a
-    reader.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/opinion/letters/children-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/opinion/sunday/25opreaders-kids/25opreaders-kids-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Proud of the Kids
-    
-    A mother recounts what her 12-year-old daughter and her friends are
-    saying about returning to school and notes, “I was awed by them.”
-    Also: The story behind the
-    flour.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/opinion/letters/pandemic-families.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/opinion/20egan/17egan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letterS</span>
-    
-    ## Being a Grandma During a Pandemic
-    
-    Grandmothers agonize over whether it’s safe to attend a grandson’s
-    wedding and relate the joys of sharing space and a journal with
-    grandchildren.
+    Trump’s hands,” writes a reader.
     
     <div class="css-1nqbnmb ea5icrr0">
     

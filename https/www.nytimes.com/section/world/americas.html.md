@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-americas" class="section css-15h4p1b e9abtgs0">
 
@@ -152,6 +176,80 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/obituaries/30Pedro/30Pedro-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
+    
+    Ms. Pedro was a leader of Brazil’s Macuxi people and carried a
+    message of alarm for their fate to Pope Francis in 2018. She died of
+    the novel coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael
+    Astor</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/travel/remote-schools-patagonia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The World Through a Lens</span>
+    
+    ## A Visit to 5 of Patagonia’s Most Remote Schoolhouses
+    
+    Community life within the isolated villages of southern Chile is
+    facilitated in part by an unlikely source: a network of rural
+    schools.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Andria
+    Hautamaki</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/world/americas/guyana-president-ali-oil.html)
     
     <div class="css-79elbk">
@@ -182,7 +280,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -217,7 +315,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -258,7 +356,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -282,8 +380,14 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sandra E.
-    Garcia</span>
+    By <span class="css-1n7hynb">Sandra E. Garcia</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/03/espanol/cultura/victor-victor-murio-coronavirus.html "Read in Spanish")
     
     </div>
     
@@ -295,7 +399,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -331,7 +435,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -366,7 +470,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -402,7 +506,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -425,77 +529,7 @@ story](#after-sponsor)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Ernesto Londoño, Manuela Andreoni
-    <span>and</span> Letícia
-    Casado</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/obituaries/dobby-dobson-dead-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/obituaries/30Dobson/30Dobson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
-    
-    ## Dobby Dobson, Versatile Jamaican Singer and Songwriter, Dies at 78
-    
-    Best known for his hit “I’m a Loving Pauper,” he was a significant
-    figure in the evolution of Jamaican music. He died of the
-    coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Steven
-    Kurutz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/science/lizards-liolaemus-argentina.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Lizard Popsicles, Anyone?
-    
-    The coolest reptiles on the planet occasionally freeze solid.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joshua Rapp Learn</span>
+    <span>and</span> Letícia Casado</span>
     
     </div>
     

@@ -55,8 +55,7 @@ Football](https://www.nytimes.com/section/sports/football)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-football" class="section css-15h4p1b e9abtgs0">
 
@@ -186,6 +210,41 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/sports/football/xfl-the-rock-dwayne-johnson.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03xfl/03xfl-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Dwayne Johnson Part of XFL Ownership Bid
+    
+    The actor and former wrestler, who is known as the Rock, is part of
+    a group of investors that bought what remains of the XFL for $15
+    million, pending bankruptcy court approval.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Victor
+    Mather</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/sports/soccer/leeds-united-san-francisco-49ers.html)
     
     <div class="css-79elbk">
@@ -215,7 +274,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +291,7 @@ story](#after-subheader)
     ## Antonio Brown Suspended Eight Games by the N.F.L.
     
     The All-Pro receiver was penalized for his role in a January dispute
-    at his home and for sending threatening tests to a woman who had
+    at his home and for sending threatening texts to a woman who had
     accused him of sexual misconduct.
     
     <div class="css-1nqbnmb ea5icrr0">
@@ -250,7 +309,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -285,7 +344,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -322,7 +381,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -357,7 +416,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -393,7 +452,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -427,7 +486,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -462,7 +521,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -486,40 +545,6 @@ story](#after-subheader)
     
     By <span class="css-1n7hynb">Gillian R. Brassil <span>and</span> Ken
     Belson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/sports/football/nfl-training-camp-players.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/sports/19nfl-return/merlin_141818562_1a704c42-0f4b-4e4e-8908-c554e4eac50d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## N.F.L. Players Say \#WeWantToPlay but Question Training Camp Safety
-    
-    The team owners and the players’ union are deadlocked on several
-    questions governing coronavirus protocols, even as players are
-    scheduled to report this week.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ken Belson</span>
     
     </div>
     

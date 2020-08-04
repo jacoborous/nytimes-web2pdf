@@ -176,6 +176,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/trump-biden-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/opinion/03Conversation/merlin_175130544_e6b44300-bd86-4c10-94ce-a2b0fb60dd3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The conversation</span>
+    
+    ## Trump Doesn’t Like What He Sees in the Crystal Ball
+    
+    Besides delaying the election, what else could alter his political
+    trajectory?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
+    Stephens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
     
     <div class="css-79elbk">
@@ -203,7 +239,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -238,7 +274,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +309,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -306,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -339,7 +375,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -364,41 +400,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
     Stephens</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/01/opinion/4th-of-july-quiz.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/01/opinion/01collins1/merlin_173840187_747611b6-1cd7-40a5-8895-8f49b460b459-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Op-Ed Columnist</span>
-    
-    ## Your Fourth of July Quiz
-    
-    Let’s see how well you’ve been following politics.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
     
     </div>
     
@@ -451,6 +452,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/interactive/2020/07/01/opinion/4th-of-july-quiz.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/01/opinion/01collins1/merlin_173840187_747611b6-1cd7-40a5-8895-8f49b460b459-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Op-Ed Columnist</span>
+    
+    ## Your Fourth of July Quiz
+    
+    Let’s see how well you’ve been following politics.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail
+    Collins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/06/30/opinion/statues-protesters-jefferson-jackson.html)
     
     <div class="css-79elbk">
@@ -470,38 +506,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Gail Collins <span>and</span> Bret
     Stephens</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/24/opinion/trump-tulsa-2020.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/25/opinion/25collins_sub_2ndary/24collinsNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Speaks\! And Speaks. And Speaks …
-    
-    At least those rallies keep him off the streets.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     

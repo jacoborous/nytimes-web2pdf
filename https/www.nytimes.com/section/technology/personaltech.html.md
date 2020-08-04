@@ -168,7 +168,24 @@ story](#after-sponsor)
 [More in Tech Fix
     »](/column/tech-fix)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.nyt.com/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -185,7 +202,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.nyt.com/images/2020/07/16/business/16Techfix-illo/15Techfix-illo-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -203,7 +220,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.nyt.com/images/2020/07/09/business/09Techfix-illo/07Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -220,7 +237,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.nyt.com/images/2020/06/17/business/17Techfix-illo/17Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -230,24 +247,6 @@ story](#after-sponsor)
     For $99 a year, Hey wants to help us restore some control. The new
     service has a way to go — and so does email, come to think of
     it.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/06/03/business/03techfix1/merlin_173044968_b11a15e2-c026-42bf-b05b-38a6d8a3782a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [E-Bikes Are Having Their Moment. They Deserve It.](/2020/06/03/technology/personaltech/e-bikes-are-having-their-moment-they-deserve-it.html)
-    
-    The benefits of owning a battery-powered two-wheeler far outweigh
-    the downsides, especially in a
-    pandemic.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
@@ -484,92 +483,93 @@ story](#after-mid1)
 [More in Technology
     »](/section/technology)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
-    Bureau/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese
-    ownership.
+    The founder of ByteDance, Zhang Yiming, dreamed of building a global
+    tech company based in China. Then the geopolitical reality set
+    in.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Raymond Zhong</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steve
-    Lohr</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Raymond
+    Zhong</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manjunath
+    Kiran/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech
+    giant.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Weise</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve
+    ads.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
     Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/business/31twitter2-print/merlin_161161578_5dd24641-dd88-4782-a57d-fad4dd7bb08b-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Florida Teenager Is Charged as ‘Mastermind’ of Twitter Hack](/2020/07/31/technology/twitter-hack-arrest.html)
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
-    The authorities arrested a 17-year-old who they said ran a scheme
-    that targeted the accounts of celebrities, including former
-    President Barack Obama and Elon Musk. Two others were also
-    charged.
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
-    Popper</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/autossell/31videogame-meetings-vid-still/31videogame-meetings-vid-still-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [‘Hey, You Free on Friday for a Meeting and a Bank Heist?’](/2020/07/31/business/video-game-meetings.html)
+    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
-    Eager for an alternative to Zoom, executives are getting together in
-    video games, to bond, brainstorm or
-    rampage.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Segal</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenny
-    Brandenberger</span>](https://static01.nyt.com/images/2020/07/31/business/31ontech/31ontech-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Amazon Wins Without Even Trying](/2020/07/31/technology/amazon-earnings.html)
-    
-    As America’s economy suffers, Big Tech does shockingly
-    well.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either
+    party.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Shira
-    Ovide</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
-    Naveed/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [What’s Going On With TikTok? Here’s What We Know](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
-    
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all
-    here.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    McCabe</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
+    Shear</span></span>
     
     </div>
 
@@ -625,6 +625,40 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## William English, Who Helped Build the Computer Mouse, Dies at 91
+    
+    He was one of the computing pioneers who “showed what a computer
+    interface could — and should — look like,” a colleague said.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Cade
+    Metz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
     
     <div class="css-79elbk">
@@ -655,7 +689,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -690,7 +724,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -727,7 +761,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -761,7 +795,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -796,7 +830,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -832,7 +866,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -866,7 +900,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -900,7 +934,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -922,41 +956,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/article/hbo-max-amazon-roku.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/27/business/27HBOMAX-01/merlin_165492429_49a08f20-2907-4c46-adce-8396a1e08182-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Do I Get HBO Max if I Already Have HBO?
-    
-    Almost 35 million people have HBO. But not all of them can get HBO
-    Max. Here’s what you need to know.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Edmund Lee</span>
+    By <span class="css-1n7hynb">Matt Richtel</span>
     
     </div>
     

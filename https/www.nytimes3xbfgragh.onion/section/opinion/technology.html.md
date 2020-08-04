@@ -202,7 +202,7 @@ story](#after-sponsor)
     
     </div>
     
-    ## There’s a Deal to Save TikTok — if Trump Doesn’t Mess It Up
+    ## Microsoft Can Save TikTok — if Trump Doesn’t Mess It Up
     
     Microsoft wants to buy the Chinese app, and the administration needs
     to get out of the way.
@@ -211,6 +211,12 @@ story](#after-sponsor)
     
     By <span class="css-1n7hynb">Kara
     Swisher</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200804/tik-tok-china-trump/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

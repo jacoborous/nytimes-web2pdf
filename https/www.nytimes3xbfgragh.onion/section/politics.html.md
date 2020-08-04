@@ -167,30 +167,7 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
-    Tripplaar/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    </div>
-    
-    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
-    
-    Members of a congressional oversight panel want to know how YRC
-    Worldwide won a $700 million loan from the Treasury
-    Department.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alan
-    Rappeport</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Moneymaker for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
     
@@ -217,54 +194,77 @@ story](#after-sponsor)
     
     </div>
 
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
+    Tripplaar/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbStandard.jpg)](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+    
+    </div>
+    
+    ## [Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+    
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury
+    Department.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Rappeport</span></span>
+    
+    </div>
+
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Hanna/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
+    Jarrus for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
+    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/3kansas-senate/3kansas-senate-thumbLarge.jpg)](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
     
     </div>
     
-    Republicans worry that if Kris Kobach, a polarizing figure in the
-    state, wins the nomination, it would pave the way for Democrats to
-    capture the seat and perhaps gain control of the
-    Senate.
+    The Michigan Democrat is facing a rematch against a challenger who
+    says she hasn’t done enough for her district in
+    Detroit.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katie
-    Glueck</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
+    Gray</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kevin
-    Lamarque/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
+    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbLarge.jpg)](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbLarge.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     </div>
     
-    Merritt Corrigan, the former deputy White House liaison for the U.S.
-    Agency for International Development, had drawn scrutiny shortly
-    after being named to the
-    position.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls,
+    N.Y.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Pranshu
-    Verma</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 

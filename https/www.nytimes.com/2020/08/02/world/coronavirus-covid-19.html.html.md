@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -223,7 +223,7 @@ story](#after-sponsor)
 
 </div>
 
-College are preparing to welcome students back to a complicated campus
+Colleges are preparing to welcome students back to a complicated campus
 setting. India’s home minister tests positive.
 
 <div class="css-18e8msd">
@@ -240,9 +240,8 @@ setting. India’s home minister tests positive.
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 2, 2020Updated Aug. 3, 2020,
-    <span class="css-epvm6">3:00 a.m.
-    ET</span>
+    Aug. 2,
+    2020
     
     </div>
 
@@ -250,7 +249,7 @@ setting. India’s home minister tests positive.
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -272,6 +271,17 @@ setting. India’s home minister tests positive.
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+This briefing has ended. Read live coronavirus updates
+[here](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html).
+
+</div>
+
+</div>
 
 <div class="css-19qgada">
 
@@ -331,6 +341,14 @@ She recommended that people living in communities where cases are
 surging consider wearing a mask at home if they live with someone who is
 especially vulnerable because of age or underlying medical conditions.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “What we are seeing today is different from March and April. It is
 extraordinarily widespread,” Dr. Birx said, adding that rural areas have
 not been spared. “So everybody who lives in a rural area, you are not
@@ -340,14 +358,6 @@ She emphasized the significance of asymptomatic transmission. “If you
 have an outbreak in your rural area or in your city, you need to really
 consider wearing a mask at home, assuming that you’re positive if you
 have individuals in your household with co-morbidities,” she said.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Both she and Adm. Brett Giroir, an assistant secretary at the Department
 of Health and Human Services, emphasized the importance of mask wearing,
@@ -368,6 +378,14 @@ said, “The public health message is we’ve got to have mask wearing.” He
 added: “If we don’t do that, and if we don’t limit the indoor crowded
 spaces, the virus will continue to run.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Dr. Ashish Jha, the director of the Harvard Global Health Institute,
 said on CNN that in many areas where cases are surging, the availability
 of tests was badly lagging. “In 18, 20 states, the number of tests being
@@ -383,14 +401,6 @@ increased exponentially in recent months. He said that both testing and
 tracing](https://www.nytimes.com/2020/07/31/health/covid-contact-tracing-tests.html)
 were crucial responses, but not particularly helpful in large,
 communitywide outbreaks.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 He was also asked about the president’s endorsement [of the
 anti-malarial drug
@@ -464,6 +474,14 @@ presentation for the White House arguing that rapid development of a
 vaccine](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 was the best hope to control the pandemic.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “DEADLINE: Enable broad access to the public by October 2020,” the first
 slide read, with the date in bold.
 
@@ -475,14 +493,6 @@ millions out of work, the crisis demanded an all-out public-private
 response, with the government supplying billions of dollars to
 pharmaceutical and biotechnology companies, providing logistical support
 and cutting through red tape.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 It escaped no one that the proposed deadline also intersected nicely
 with President Trump’s need to curb the virus before the election in
@@ -565,12 +575,6 @@ among a young, carefree population that not only studies together, but
 also lives together, parties together and, if decades of history are any
 guide, sleeps together.
 
-It will be a complex endeavor requiring far more than just the
-reconfiguring of dorm rooms and cafeterias. It also involves coronavirus
-testing programs capable of serving communities the size of small cities
-and the enforcement of codes of conduct among students not eager to be
-policed.
-
 </div>
 
 </div>
@@ -579,15 +583,11 @@ policed.
 
 <div class="css-53u6y8">
 
-Colleges are mapping strategies as varied as the contrasting Covid
-regulations enacted by the states, and the efforts could add more than
-$70 billion to the budgets of the nation’s 5,000 colleges.
-
-Yet administrators say giving students at least a taste of college life
-is worth it, if done in a safe way. Whether those constituents agree is
-an open question, and complaints about tuition have led a growing number
-of schools to offer
-rebates.
+It will be a complex endeavor requiring far more than just the
+reconfiguring of dorm rooms and cafeterias. It also involves coronavirus
+testing programs capable of serving communities the size of small cities
+and the enforcement of codes of conduct among students not eager to be
+policed.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -597,42 +597,41 @@ rebates.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T17:52:35.962Z
+Updated 2020-08-04T05:55:16.339Z
 
 </div>
 
 </div>
 
-  - [The U.S. reels as July cases more than double the total of any
-    other
-    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
-  - [Top U.S. officials work to break an impasse over the federal
-    jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
-  - [Its outbreak untamed, Melbourne goes into even greater
-    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
+  - [Fauci defends Birx after she is criticized by
+    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
+  - [Trump derides Democrats as lawmakers and administration officials
+    try to break stimulus
+    impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
+  - [The deadline for 2020 census counting has been moved up by a
+    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -647,6 +646,15 @@ updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?acti
 </div>
 
 </div>
+
+Colleges are mapping strategies as varied as the contrasting Covid
+regulations enacted by the states, and the efforts could add more than
+$70 billion to the budgets of the nation’s 5,000 colleges.
+
+Yet administrators say giving students at least a taste of college life
+is worth it, if done in a safe way. Whether those constituents agree is
+an open question, and complaints about tuition have led a growing number
+of schools to offer rebates.
 
 In one of the more elaborate plans, the University of California,
 Berkeley, will test all residential **** students within 24 hours of
@@ -702,8 +710,8 @@ naught.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A testing
-facility in Quezon City, northeast of Manila in the Philippines last
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A
+coronavirus testing facility in the Philippines last
 week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
 R Cristino/EPA, via Shutterstock</span></span>
 
@@ -718,14 +726,6 @@ R Cristino/EPA, via Shutterstock</span></span>
 President Rodrigo Duterte of the Philippines on Sunday ordered Manila
 and nearby suburban areas to re-enter lockdown for two weeks as the
 health department reported 5,032 new cases.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Group gatherings were prohibited, and the population was advised to stay
 home. Public transportation was halted, domestic flights and
@@ -757,6 +757,14 @@ for a two-week enhanced community quarantine in mega Manila,” he said.
 a timeout period. They have been in the front lines for months and are
 exhausted.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 global roundup
 
 ## Its outbreak untamed, Melbourne, Australia, escalates a lockdown.
@@ -779,14 +787,6 @@ Images</span></span></span>](https://static01.nyt.com/images/2020/08/02/world/02
 Officials in Melbourne, Australia’s second-largest city, announced
 stricter measures on Sunday in an effort to stem a coronavirus outbreak
 that is raging despite a lockdown that began four weeks ago.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 For six weeks starting on Sunday, residents of metropolitan Melbourne
 will be under curfew from 8 p.m. to 5 a.m. except for purposes of work
@@ -896,14 +896,6 @@ in hopes of making progress on a deal.
 Mnuchin, the Treasury secretary, speaking on the ABC program “This
 Week.” “We’re acting very quickly now.”
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Unemployment benefits lapsed this week for tens of millions of people,
 but officials have struggled to agree over new aid. Mr. Mnuchin’s
 remarks came after he and Mark Meadows, the White House chief of staff,
@@ -996,27 +988,17 @@ Virus-battered Florida is confronting a new challenge: Tropical Storm
 Isaias, which is whipping the coast with high winds and creating the
 risk of flash flooding as it makes its way up the East Coast.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 At 2 p.m. Eastern time, the center of the storm was about 30 miles
 offshore, east of Port St. Lucie, Fla., and was moving north-northwest
 at about eight miles an hour, according to the [National Hurricane
-Center](https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/020856.shtml?).<span class="css-8l6xbc evw5hdy0">
-</span>
+Center](https://www.nhc.noaa.gov/text/refresh/MIATCPAT4+shtml/020856.shtml?).
 
 Isaias — which is written Isaías in Spanish and pronounced ees-ah-EE-ahs
 — had clobbered the Bahamas with hurricane conditions on Saturday after
 hitting parts of Puerto Rico and the Dominican Republic. As it advances
-northward, the center of the storm is<span class="css-8l6xbc evw5hdy0">
-</span>skirting close to the coast of Florida without making landfall so
-far, but its track is likely to bring it ashore in the Carolinas early
-in the week.<span class="css-8l6xbc evw5hdy0"> </span>
+northward, the center of the storm is skirting close to the coast of
+Florida without making landfall so far, but its track is likely to bring
+it ashore in the Carolinas early in the week.
 
 Complicating the emergency response to the storm, reported coronavirus
 cases continue to rise sharply in Florida, Georgia and the Carolinas,
@@ -1029,6 +1011,14 @@ and remain socially distant.
 “Because of Covid, we feel that you are safer at home,” said Bill
 Johnson, the emergency management director for Palm Beach County.
 “Shelters should be considered your last resort.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Here is what else is happening around the country:
 
@@ -1136,6 +1126,14 @@ possible, we’re going to see many, many more business bankruptcies.”
 He also said that given the low cost of issuing debt, the government has
 room to spend to support the American economy.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “Congress should use this opportunity to support the American people,
 and the American economy,” he said. “If we get the economy growing, we
 will be able to pay off the debt.”
@@ -1144,65 +1142,8 @@ His argument for a longer shutdown stands in contrast to others’ views.
 On the CNN program “State of the Union,” Gov. Asa Hutchinson of Arkansas
 defended his decision not to impose a statewide stay-at-home order
 earlier this year. Mr. Hutchinson emphasized the economic ramifications
-of extended shutdowns.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-“We’ve got to take on two emergencies here,” he said. “One is our virus,
-the other is the
-economy.”
-
-## High-fiving and spitting: Major League Baseball has an outbreak. The commissioner wants players to behave.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mets players
-Pete Alonso and Michael Conforto high fived after their victory over the
-Boston Red Sox last
-week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Adam
-Glanzman/Getty Images</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Amid a slow but steady stream of new coronavirus cases, the Major League
-Baseball season becoming more precarious seemingly by the
-day.
+of extended
+shutdowns.
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -1212,7 +1153,7 @@ day.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -1224,7 +1165,40 @@ day.
 
 #### Frequently Asked Questions
 
-Updated July 27, 2020
+Updated August 3, 2020
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes.com/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes.com/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
 
   - #### Should I refinance my mortgage?
     
@@ -1287,34 +1261,7 @@ Updated July 27, 2020
         Health
         Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
 
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes.com/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -1342,6 +1289,55 @@ Updated July 27, 2020
 
 </div>
 
+“We’ve got to take on two emergencies here,” he said. “One is our virus,
+the other is the
+economy.”
+
+## High-fiving and spitting: Major League Baseball has an outbreak. The commissioner wants players to behave.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mets players
+Pete Alonso and Michael Conforto high fived after their victory over the
+Boston Red Sox last
+week.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Adam
+Glanzman/Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Amid a slow but steady stream of new coronavirus cases, the Major League
+Baseball season becoming more precarious seemingly by the day.
+
 Then on Saturday the league’s commissioner issued a rallying cry. “We
 are playing,” Rob Manfred told ESPN. “The players need to be better, but
 I am not a quitter in general and there is no reason to quit now. We
@@ -1356,6 +1352,14 @@ Louis Cardinals less than two weeks into the season have wreaked havoc
 on the schedules of eight teams. It also raised questions about M.L.B.’s
 protocols.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 In saying the games would go on, Manfred thrust the onus on the players.
 
 Kathleen Bachynski, an assistant professor of public health at
@@ -1367,14 +1371,6 @@ people insist on sticking with a poor plan to the bitter end.”
 In a phone interview, Dr. Bachynski said “the responsibility has to be
 on the league to provide safe conditions to play in.”
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Four players announced they would not play this season since the
 Marlin’s outbreak; a dozen players opted out of the season before
 opening day.
@@ -1385,8 +1381,7 @@ of the rest of the 2020 Major League Baseball season for “Covid-related”
 reasons, Brodie Van Wagenen, the team’s general manager, announced
 Sunday afternoon. The announcement came after Cespedes had failed to
 show up on Sunday for the Mets’ game in Atlanta against the
-Braves.<span class="css-8l6xbc evw5hdy0">
-</span>
+Braves.
 
 </div>
 
@@ -1448,6 +1443,14 @@ in October with a coronavirus vaccine that has yet to complete clinical
 trials, raising international concern about the methods the country is
 using to compete in the global race to inoculate the public.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 The minister of health, Mikhail Murashko, said Saturday that the plan
 was to begin by vaccinating teachers and health care workers. He also
 [told the RIA](https://ria.ru/20200801/1575248763.html) state news
@@ -1456,14 +1459,6 @@ vaccine was already seeking regulatory approval for it.
 
 Russia is one of a number of countries rushing to develop and administer
 a vaccine, and it is determined to get there first.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Not only would a vaccine help alleviate a worldwide health crisis that
 has killed more than 680,000 people and badly wounded the global
@@ -1546,14 +1541,6 @@ As the coronavirus has resurged in many parts of the country in recent
 weeks, experts and politicians alike have implored people to protect
 themselves and others by wearing a face mask in public.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Does that apply when you have to be out in the gusting wind and driving
 rain of a tropical storm like Isaias? Our health columnist Tara
 Parker-Pope says, probably not: Face masks [aren’t as
@@ -1565,14 +1552,13 @@ one, Ms. Parker-Pope notes. And on top of that, a moist or wet mask
 doesn’t filter as well as a dry mask. The Centers for Disease Control
 and Prevention, which recommends mask-wearing in general, says they
 [should not be worn when doing things that may get the mask
-wet.<span class="css-8l6xbc evw5hdy0">
-</span>](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
+wet.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
 
 It doesn’t take a tropical storm to drench a mask, of course. They can
 become soaked with condensation from your breath or sweat from your
 face, and some people think of wetting them deliberately to cool off in
 hot weather. But the harm done is the same, wherever the moisture comes
-from.<span class="css-8l6xbc evw5hdy0"> </span>
+from.
 
 A paper surgical mask that gets soaked should probably be discarded, Ms.
 Parker-Pope advises, but a cloth mask can be washed, dried and reused.
@@ -1580,12 +1566,18 @@ Parker-Pope advises, but a cloth mask can be washed, dried and reused.
 If rain is coming down in buckets, social distancing is not likely to be
 a problem, and any viral particles exhaled by an infected person
 probably would be quickly diluted by gusting wind and rain. So there is
-little need to wear a mask out in a rainstorm, Ms. Parker-Pope
-notes:<span class="css-8l6xbc evw5hdy0"> </span>“In fact, you should
-take it off and keep it dry, so if you need to duck into a store to wait
-out the storm, you have a dry mask to wear
-indoors.”<span class="css-8l6xbc evw5hdy0">
-</span>
+little need to wear a mask out in a rainstorm, Ms. Parker-Pope notes:
+“In fact, you should take it off and keep it dry, so if you need to
+duck into a store to wait out the storm, you have a dry mask to wear
+indoors.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 ## Scientists study whether people with the virus can infect bats and other wildlife.
 
@@ -1636,14 +1628,6 @@ It may seem like a minor worry — far down the list from concerns like
 getting sick, losing a loved one or staying employed. But as the
 pandemic has made clear, the more careful people are about viruses
 passing among species, the better.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 The scientific consensus is that the coronavirus originated in bats in
 China or neighboring countries. A recent paper tracing the genetic
@@ -1729,14 +1713,6 @@ Dhaliwal for The New York Times</span></span>
 
 Mexico’s love affair with melodrama appeared to be over. Now, thanks
 partly to the pandemic, the telenovela is roaring back.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Confined to their homes, millions of Mexicans have devoted their
 evenings to the traditional melodramas and other kitschy classics,

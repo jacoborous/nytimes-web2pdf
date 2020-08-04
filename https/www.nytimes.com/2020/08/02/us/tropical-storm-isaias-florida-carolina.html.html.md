@@ -270,10 +270,12 @@ Halleck</span>
 
 <div class="css-53u6y8">
 
-ATLANTA — Tropical Storm Isaias buffeted Florida’s eastern edge on
-Sunday with more heavy rainfall and powerful winds as it skirted the
-Atlantic Coast, leaving many people bracing for the threat of flash
-floods, storm surges and even tornadoes as the storm made its way north.
+ATLANTA — [Tropical Storm
+Isaias](https://www.nytimes.com/2020/08/03/us/isaias-storm-updates.html)
+buffeted Florida’s eastern edge on Sunday with more heavy rainfall and
+powerful winds as it skirted the Atlantic Coast, leaving many people
+bracing for the threat of flash floods, storm surges and even tornadoes
+as the storm made its way north.
 
 The storm failed to deliver the punch in Florida that state officials
 had feared. But that has not been enough to allay the concerns of

@@ -484,17 +484,17 @@ discussion.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
+[](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Rescue of Trucking Company With White House Ties Draws Scrutiny
+## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
 
 </div>
 
-A $700 million loan made YRC Worldwide one of the largest recipients of
-taxpayer money meant to support businesses and workers during the
-pandemic.
+As countries consider back-to-school strategies for the fall, a
+coronavirus outbreak at a Jerusalem high school offers a cautionary
+tale.
 
 <div>
 

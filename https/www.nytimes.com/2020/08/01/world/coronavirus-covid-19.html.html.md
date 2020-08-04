@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -219,7 +219,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July<span class="css-8l6xbc evw5hdy0"> </span>
+# Infections Swamp the U.S., Which Recorded 42% of All Its Coronavirus Cases in July
 
 </div>
 
@@ -241,9 +241,8 @@ hosting a retreat after hundreds who attended were infected.
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 2, 2020,
-    <span class="css-epvm6">3:42 a.m.
-    ET</span>
+    Published Aug. 1, 2020Updated Aug. 2,
+    2020
     
     </div>
 
@@ -273,6 +272,17 @@ hosting a retreat after hundreds who attended were infected.
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+*This briefing has ended.* [*Click here for the latest
+updates.*](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html)
+
+</div>
+
+</div>
 
 <div class="css-19qgada">
 
@@ -331,6 +341,14 @@ The virus is picking up dangerous speed in much of the Midwest — and in
 states from Mississippi to Florida to California that thought they had
 already seen the worst of it.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Gone is any sense that the country may soon get ahold of the pandemic.
 The seven-day average for daily new infections has hovered around 65,000
 for the past two weeks, more than doubling the peak average from the
@@ -340,14 +358,6 @@ wave.
 In many states, distressed government officials are re-tightening
 restrictions on residents and businesses, and sounding warnings about a
 rise in virus-related hospitalizations.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Across the country, deaths from the virus continued to rise after a
 steep drop from the mid-April peaks of about 2,200 a day. At the start
@@ -363,12 +373,6 @@ move around more freely and gather more frequently in groups.
 The picture is similarly distressing overseas, where even governments
 that would seem well suited to combating the virus are seeing surges.
 
-New daily infections in Japan, a country with a long tradition of
-wearing face masks, rose more than 50 percent in July. Australia, which
-can cut itself off from the rest of the world more easily than most, is
-battling a wave of infections in and around Melbourne. Hong Kong, Israel
-and Spain are also fighting second waves.
-
 </div>
 
 </div>
@@ -376,6 +380,12 @@ and Spain are also fighting second waves.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+New daily infections in Japan, a country with a long tradition of
+wearing face masks, rose more than 50 percent in July. Australia, which
+can cut itself off from the rest of the world more easily than most, is
+battling a wave of infections in and around Melbourne. Hong Kong, Israel
+and Spain are also fighting second waves.
 
 None of those places has an infection rate as high as the one in the
 United States, which has the most cases and deaths in the
@@ -454,14 +464,6 @@ another meeting.
 is, ‘We’re going to cut your benefit,” Ms. Pelosi said. “That’s, shall
 we say, the discussions we’re having.”
 
-“This is not a usual discussion, because the urgency is so great
-healthwise, financial health-wise,” she added.
-
-Also in attendance were Mark Meadows, the White House chief of staff,
-and Steven Mnuchin, the Treasury secretary. (Mr. Mnuchin observed before
-entering Ms. Pelosi’s suite that it was “just another working day in the
-Capitol.”)
-
 </div>
 
 </div>
@@ -469,6 +471,14 @@ Capitol.”)
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“This is not a usual discussion, because the urgency is so great
+healthwise, financial health-wise,” she added.
+
+Also in attendance were Mark Meadows, the White House chief of staff,
+and Steven Mnuchin, the Treasury secretary. (Mr. Mnuchin observed before
+entering Ms. Pelosi’s suite that it was “just another working day in the
+Capitol.”)
 
 Among the largest sticking points in the discussion is a $600 weekly
 federal jobless benefit that became a lifeline for tens of millions of
@@ -502,14 +512,6 @@ before being furloughed last spring,[to get by on just state
 unemployment benefits, which for her come to $247 a
 week.](https://www.nytimes.com/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html)
 
-“With the $600, you could see your way a little bit,” said Ms. Francis,
-59. “You could feel a little more comfortable. You could pay three or
-four bills and not feel so far behind.”
-
-The aid lapsed as Republicans and Democrats in Washington [remained far
-apart on what the next round of virus relief should look
-like](https://www.nytimes.com/2020/07/28/us/politics/coronavirus-relief-bills-house-senate.html).
-
 </div>
 
 </div>
@@ -517,6 +519,14 @@ like](https://www.nytimes.com/2020/07/28/us/politics/coronavirus-relief-bills-ho
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“With the $600, you could see your way a little bit,” said Ms. Francis,
+59. “You could feel a little more comfortable. You could pay three or
+four bills and not feel so far behind.”
+
+The aid lapsed as Republicans and Democrats in Washington [remained far
+apart on what the next round of virus relief should look
+like](https://www.nytimes.com/2020/07/28/us/politics/coronavirus-relief-bills-house-senate.html).
 
 Democrats wanted to extend the $600 weekly payments through the end of
 the year, as part of an expansive $3 trillion aid package that would
@@ -579,7 +589,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <thead>
 <tr class="header">
 <th><h3 id="united-states" class="heading-label svelte-47k53u">United States ›</h3></th>
-<th><h3 id="on-aug.-1" class="svelte-47k53u">On Aug. 1</h3></th>
+<th><h3 id="on-aug.-3" class="svelte-47k53u">On Aug. 3</h3></th>
 <th><h3 id="day-change" class="svelte-47k53u">14-day change</h3></th>
 <th><h3 id="trend" class="svelte-47k53u">Trend</h3></th>
 </tr>
@@ -587,8 +597,8 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td><h4 id="section" class="svelte-47k53u">58,183</h4></td>
-<td><h4 id="section-1" class="svelte-47k53u">–5%</h4></td>
+<td><h4 id="section" class="svelte-47k53u">47,792</h4></td>
+<td><h4 id="section-1" class="svelte-47k53u">–9%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart chart-0 show-chart svelte-l6qvn7">
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
@@ -602,8 +612,8 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td><h4 id="section-2" class="svelte-47k53u">1,054</h4></td>
-<td><h4 id="section-3" class="svelte-47k53u">+60%</h4></td>
+<td><h4 id="section-2" class="svelte-47k53u">602</h4></td>
+<td><h4 id="section-3" class="svelte-47k53u">+36%</h4></td>
 <td><div id="chart-wrapper-increasing" class="chart-wrapper svelte-k6yh7s">
 <div class="chart mini-chart usa-chart deaths-chart chart-0 show-chart svelte-l6qvn7">
 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html" class="state-link svelte-l6qvn7"></a>
@@ -646,7 +656,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 <div class="chart mini-chart state-chart chart-1 rising-falling-chart show-chart svelte-l6qvn7">
 
-[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
 
 <div class="line-chart-wrapper svelte-l6qvn7">
 
@@ -656,7 +666,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<span class="state-name svelte-l6qvn7">Alaska</span>
+<span class="state-name svelte-l6qvn7">R.I.</span>
 
 </div>
 
@@ -678,54 +688,6 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 <div class="chart mini-chart state-chart chart-3 rising-falling-chart show-chart svelte-l6qvn7">
 
-[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">R.I.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Mo.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-5 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Okla.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
-
 [](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
 
 <div class="line-chart-wrapper svelte-l6qvn7">
@@ -740,7 +702,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
+<div class="chart mini-chart state-chart chart-4 rising-falling-chart show-chart svelte-l6qvn7">
 
 [](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
 
@@ -756,39 +718,55 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
+<div class="chart mini-chart state-chart chart-5 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Mo.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-6 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Alaska</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-7 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Okla.</span>
+
+</div>
+
 <div class="chart mini-chart state-chart chart-8 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">P.R.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-9 rising-falling-chart show-chart svelte-l6qvn7">
-
-[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
-
-<div class="line-chart-wrapper svelte-l6qvn7">
-
-<div class="pancake-chart svelte-1gzh5rp">
-
-</div>
-
-</div>
-
-<span class="state-name svelte-l6qvn7">Miss.</span>
-
-</div>
-
-<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
 
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
@@ -804,7 +782,23 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 
 </div>
 
-<div class="chart mini-chart state-chart chart-11 rising-falling-chart show-chart svelte-l6qvn7">
+<div class="chart mini-chart state-chart chart-9 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">N.H.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-10 rising-falling-chart show-chart svelte-l6qvn7">
 
 [](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
@@ -817,6 +811,22 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 </div>
 
 <span class="state-name svelte-l6qvn7">Ill.</span>
+
+</div>
+
+<div class="chart mini-chart state-chart chart-11 rising-falling-chart show-chart svelte-l6qvn7">
+
+[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="line-chart-wrapper svelte-l6qvn7">
+
+<div class="pancake-chart svelte-1gzh5rp">
+
+</div>
+
+</div>
+
+<span class="state-name svelte-l6qvn7">Mont.</span>
 
 </div>
 
@@ -837,7 +847,7 @@ Coronavirus ›](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cas
 <div class="media-holder">
 
 ![US coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/images/orphan_usa-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -852,7 +862,7 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458
 <div class="media-holder">
 
 ![Worldwide coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458a2d0f1fad49dbcecf169e0d12d3544d2b/images/orphan_world-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b51a1199676bcbc2847cd5292490df572d07e0cb/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -906,9 +916,8 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/ce90458
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Police
-officers patrolling in Melbourne, Australia, where a curfew from 8 p.m.
-to 5 a.m. went into effect on
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A curfew,
+from 8 p.m. to 5 a.m., went into effect in Melbourne on
 Sunday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>William
 West/Agence France-Presse — Getty Images</span></span>
 
@@ -926,10 +935,6 @@ measures](https://www.premier.vic.gov.au/statement-changes-melbournes-restrictio
 on Sunday in an effort to stem an outbreak that is still raging despite
 a lockdown that began four weeks ago.
 
-For six weeks starting Sunday, residents of metropolitan Melbourne will
-be under curfew from 8 p.m. to 5 a.m. except for purposes of work or
-giving and receiving care.
-
 </div>
 
 </div>
@@ -937,6 +942,10 @@ giving and receiving care.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+For six weeks starting Sunday, residents of metropolitan Melbourne will
+be under curfew from 8 p.m. to 5 a.m. except for purposes of work or
+giving and receiving care.
 
 As under the current lockdown, acceptable reasons for leaving the house
 include shopping for essential goods and services, medical care and
@@ -954,42 +963,41 @@ members.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzZkMDlhMjVlLTQxZDYtNWE3ZC04NzFjLTNiMDkyMGU0NjA2Zg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-02T10:04:29.623Z
+Updated 2020-08-04T05:55:16.339Z
 
 </div>
 
 </div>
 
-  - [The U.S. reels as July cases more than double the total of any
-    other
-    month.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34047410)
-  - [Top U.S. officials work to break an impasse over the federal
-    jobless
-    benefit.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-780ec966)
-  - [Its outbreak untamed, Melbourne goes into even greater
-    lockdown.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2bc8948)
+  - [Fauci defends Birx after she is criticized by
+    Trump.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4547638f)
+  - [Trump derides Democrats as lawmakers and administration officials
+    try to break stimulus
+    impasse.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-15e7f995)
+  - [The deadline for 2020 census counting has been moved up by a
+    month.](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-e5a2cda)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -1047,21 +1055,13 @@ break up the demonstration against the country’s efforts to fight the
 spread of coronavirus.
 
 The protest, under the motto “Day of Freedom” — a title shared by a 1935
-Nazi propaganda film by Leni Reifenstahl — was supported by known
+Nazi propaganda film by Leni Riefenstahl — was supported by known
 neo-Nazi groups and conspiracy theorists, along with Germans who say
 they are fed up with the government-imposed restrictions on public life.
 Germany enforced a strict lockdown from mid-March that has been lifted
 in stages since the end of April, but large public gatherings are still
 banned and requirements for wearing masks on public transportation and
 in all stores remain.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 A majority of Germans support the measures, but public health officials
 worry that people are becoming more lax, as the past weeks have seen a
@@ -1210,6 +1210,14 @@ Mr. Grijalva, who has no symptoms, is the 11th lawmaker to test
 positive, according to a [tally maintained by
 GovTrack](https://slack-redir.net/link?url=https%3A%2F%2Fwww.govtrack.us%2Fcovid-19%23legislators).
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 It is unclear where he contracted the virus, but Mr. Grijalva has been
 in self-isolation since Wednesday, when Representative Louie Gohmert, a
 Texas Republican who has frequently spurned wearing a mask during the
@@ -1226,14 +1234,6 @@ appeared to be a veiled reference to Mr. Gohmert. “Numerous Republican
 members routinely strut around the Capitol without a mask to selfishly
 make a political statement at the expense of their colleagues, staff,
 and their families.”
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 A spokesman for Mr. Grijalva said he would quarantine for two weeks in
 Washington, and some of the representative’s staff would also be tested.
@@ -1301,14 +1301,6 @@ Raedle/Getty Images</span></span>
 Florida, home to one of the worst coronavirus outbreaks in the United
 States, braced for the arrival of Isaias on Saturday.
 
-The state’s battle with the virus could make evacuating homes and
-entering community shelters especially risky. Friday was the third
-consecutive day that Florida broke its record for the most deaths
-reported in a single day, according to a New York Times database.
-
-Floridians spent Saturday preparing for wind gusts up to 80 miles per
-hour and dangerous coastal surf.
-
 </div>
 
 </div>
@@ -1316,6 +1308,14 @@ hour and dangerous coastal surf.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The state’s battle with the virus could make evacuating homes and
+entering community shelters especially risky. Friday was the third
+consecutive day that Florida broke its record for the most deaths
+reported in a single day, according to a New York Times database.
+
+Floridians spent Saturday preparing for wind gusts up to 80 miles per
+hour and dangerous coastal surf.
 
 The storm was downgraded from a Category 1 hurricane to a tropical
 storm, after it [raked parts of Puerto
@@ -1342,6 +1342,14 @@ over Palm Beach, Jacksonville and other coastal cities.
 Up the coast, officials in Georgia, South Carolina and North Carolina —
 states where there has been a dramatic rise in new reported coronavirus
 cases since mid-June — were closely monitoring the storm.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Earlier, the storm hit the Bahamas as it is grappling with a [rapid
 increase](https://www.nytimes.com/2020/07/04/world/americas/virus-caribbean-hurricane.html)
@@ -1415,27 +1423,11 @@ tournament while he was tied for second place.
 nonetheless, the correct one for my fellow competitors & the
 volunteers,” Grace, a 32-year-old South African who has won one event
 in his career on the tour, wrote in a statement [he posted on
-Twitter](https://twitter.com/BrandenGrace/status/1289689928180404230?s=20).<span class="css-8l6xbc evw5hdy0">
-</span>
+Twitter](https://twitter.com/BrandenGrace/status/1289689928180404230?s=20).
 
 Grace’s infection will prevent him from participating next weekend in
 the P.G.A. Championship in San Francisco, the first men’s major
 tournament of the year, which was postponed for three months.
-
-Since the PGA Tour resumed in early June after a three-month shutdown,
-several golfers — including the highly ranked Brooks Koepka and Webb
-Simpson — [have had to
-withdraw](https://www.nytimes.com/2020/06/26/sports/golf/pga-golfer-positive-tests.html)
-from tournaments because they, their caddies or a close relative tested
-positive.<span class="css-8l6xbc evw5hdy0"> </span>
-
-The disruption, however, has not been nearly as broad as the one in
-[Major League
-Baseball](https://www.nytimes.com/2020/08/01/sports/baseball/coronavirus-cardinals.html),
-which on Saturday announced four more positive tests among members of
-the St. Louis Cardinals’ traveling party — one player and three staff
-members — and postponed the team’s weekend series with the Milwaukee
-Brewers.
 
 </div>
 
@@ -1444,6 +1436,21 @@ Brewers.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Since the PGA Tour resumed in early June after a three-month shutdown,
+several golfers — including the highly ranked Brooks Koepka and Webb
+Simpson — [have had to
+withdraw](https://www.nytimes.com/2020/06/26/sports/golf/pga-golfer-positive-tests.html)
+from tournaments because they, their caddies or a close relative tested
+positive.
+
+The disruption, however, has not been nearly as broad as the one in
+[Major League
+Baseball](https://www.nytimes.com/2020/08/01/sports/baseball/coronavirus-cardinals.html),
+which on Saturday announced four more positive tests among members of
+the St. Louis Cardinals’ traveling party — one player and three staff
+members — and postponed the team’s weekend series with the Milwaukee
+Brewers.
 
 The Cardinals, who also had two players receive positive tests on
 Friday, now have six positives in their traveling party and have become
@@ -1488,14 +1495,6 @@ by the Centers for Disease Control and Prevention. The report said that
 the C.D.C. had data for 344 campers and staffers who were tested, and
 that there were about 250 more whose data the C.D.C. did not have.
 
-The C.D.C. did not name the camp, but the YMCA of Metropolitan Atlanta
-soon acknowledged that it was Camp High Harbour, which is held in
-northern Georgia.
-
-Parrish Underwood, the YMCA branch’s chief advancement officer, said the
-YMCA had hosted the camp at the request of some parents who hoped it
-would allow for “normalcy” in their children’s lives.
-
 </div>
 
 </div>
@@ -1503,6 +1502,14 @@ would allow for “normalcy” in their children’s lives.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The C.D.C. did not name the camp, but the YMCA of Metropolitan Atlanta
+soon acknowledged that it was Camp High Harbour, which is held in
+northern Georgia.
+
+Parrish Underwood, the YMCA branch’s chief advancement officer, said the
+YMCA had hosted the camp at the request of some parents who hoped it
+would allow for “normalcy” in their children’s lives.
 
 “This weighed heavily in our decision to open, a decision in retrospect
 we now regret,” Mr. Underwood said in a statement.
@@ -1529,6 +1536,14 @@ Since mid-June, the state has had a sharp rise in coronavirus cases, and
 it is now reporting an [average of more than 3,000 cases and 45
 deaths](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 each day.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 U.S.
 Roundup
@@ -1581,14 +1596,6 @@ is understanding where people are being infected. This week the Maryland
 Department of Health released new data from its contact-tracing program
 that provides an informative — if limited — view of the patterns of
 behavior of people who tested positive.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 The numbers do not show where virus transmission occurred — only what
 activities people had engaged in. After conducting contact-tracing
@@ -1700,6 +1707,14 @@ companies in the race for a vaccine are doing: mass-producing hundreds
 of millions of doses of a vaccine candidate
 that<span class="css-8l6xbc evw5hdy0"> </span>might not even work.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 But if it does, Adar Poonawalla, Serum’s chief executive and the only
 child of the company’s founder, will become one of the most tugged-at
 men in the world. He will have what everyone wants, possibly in greater
@@ -1714,7 +1729,7 @@ else.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -1726,7 +1741,40 @@ else.
 
 #### Frequently Asked Questions
 
-Updated July 27, 2020
+Updated August 3, 2020
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes.com/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes.com/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes.com/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes.com/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
 
   - #### Should I refinance my mortgage?
     
@@ -1789,34 +1837,7 @@ Updated July 27, 2020
         Health
         Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
 
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes.com/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -1846,14 +1867,6 @@ Updated July 27, 2020
 
 Mr. Poonawalla’s vaccine assembly lines are being readied to crank out
 500 doses a minute, and his phone rings endlessly.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 National health ministers, prime ministers and other heads of state (he
 wouldn’t say who) and friends he hasn’t heard from in years have been
@@ -1935,14 +1948,6 @@ The leader of a secretive religious sect in South Korea was arrested
 early on Saturday on charges of embezzling church money and conspiring
 to impede efforts to fight the coronavirus.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The rapid spread of the virus this winter among worshipers of the
 Shincheonji Church of Jesus in Daegu, a city in the southeast, briefly
 made South Korea home to the world’s largest coronavirus outbreak
@@ -1973,6 +1978,14 @@ data.
 “He has emphasized the importance of disease control and urged the
 church members to cooperate with the authorities,” the church said. “We
 will do our best to let the truth be known through trial.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 But parents who accused the church of luring and brainwashing their
 children with its unorthodox teachings welcomed his arrest on Saturday,
@@ -2028,6 +2041,14 @@ billion, recovery
 fund](https://www.nytimes.com/2020/07/20/world/europe/eu-stimulus-coronavirus.html),
 it wasn’t the size of the deal that impressed investors, but the fact
 that it happened after four long nights of negotiations.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 The decision to raise money collectively and give grants to the
 countries hit hardest by the pandemic indicated that there is some
@@ -2110,6 +2131,14 @@ whether anyone else got infected.
 the Greenfield-Central Community School Corporation, but he was “very
 shocked it was on Day 1.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Hundreds of school districts across the country have [reversed
 course](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html)
 on reopening plans in recent weeks in response to rises in infections.
@@ -2164,6 +2193,14 @@ plan to begin the semester through online classes, but that the
 university would assist students for whom making housing arrangements
 represented a significant hardship.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Critics said the announcement [would force some
 students](https://cornellsun.com/2020/07/31/editorial-cornells-inability-to-quarantine-arriving-students-should-concern-you/)
 to find space in hotels or short-term rentals just two weeks before they
@@ -2174,14 +2211,6 @@ rooms during quarantines and will face regular medical screenings.
 Columbia University [said](https://roomselection.housing.columbia.edu/)
 it would arrange to have meals delivered to dormitories, according to
 its website.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Since the list of states identified by the governor’s order is informed
 by seven-day rolling averages of new infections, new outbreaks in
@@ -2246,6 +2275,14 @@ India reported 54,735 coronavirus infections on Sunday, the country’s
 health ministry said, bringing its total to 1.75 million. More than
 37,000 people have died.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 The police in the state said some people who lost access to legal liquor
 started mixing cheap hand sanitizer with water from roadside taps, soft
 drinks and milk. The 10 deaths have occurred in the last three days,
@@ -2255,14 +2292,6 @@ In the town of Kurichedu, a man begging at a temple complained of a
 burning sensation in his stomach, and died as he was being taken to a
 hospital. Then the number of people complaining of a burning sensation
 in their stomach started rising, the police said.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “All of them died after consuming sanitizer,” said Siddharth Kaushal,
 the district’s top police officer. “We are wondering who told these
@@ -2330,9 +2359,16 @@ Beck/Agence France-Presse — Getty Images</span></span>
 
 The Food and Drug Administration has authorized the first coronavirus
 tests that can give an estimate of the quantity of antibodies present in
-a person’s blood, the agency
-[announced<span class="css-8l6xbc evw5hdy0"> </span>Friday
+a person’s blood, the agency [announced Friday
 evening](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-tests-estimate-patients-antibodies-past-sars-cov-2).
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Up until now, the so-called serology tests on the market, also known as
 antibody tests, only indicate whether [Covid-19 antibodies are present
@@ -2347,14 +2383,6 @@ The F.D.A. has had to chase after some manufacturers and distributors to
 get them off the market. There is not yet a scientific consensus as to
 what level of antibodies are needed to confer immunity, or how long such
 immunity might last.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 The two new Covid-19 serology tests, the ADVIA Centaur COV2G and
 Attelica COV2G, are from Siemens.

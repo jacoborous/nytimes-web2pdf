@@ -218,7 +218,7 @@ story](#after-subheader)
     </div>
     
     [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/07/31/us/elections/biden-vs-trump.html)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/us/elections/biden-vs-trump.html)
     
     </div>
 
@@ -323,10 +323,9 @@ story](#after-subheader)
 
 ### The Latest
 
-President Trump’s long campaign against the Postal Service is
-intersecting with his assault on mail-in voting. [Voting rights groups
-say it is a recipe for
-disaster.](https://www.nytimes3xbfgragh.onion/2020/07/31/us/politics/trump-usps-mail-delays.html)
+President Trump again assails mail-in voting, [claiming without evidence
+that the process is plagued by
+fraud](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/trump-mail-in-voting.html).
 
 </div>
 
@@ -339,7 +338,7 @@ women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html
 who have been under consideration to be Joe Biden’s running mate, and
 why each might be chosen — and might not be.
 
-Last updated July 31,
+Last updated Aug. 3,
 2020
 
 </div>
@@ -361,7 +360,7 @@ contenders.
 
 <div class="headshot-wrapper" style="background:#1a80c4; ">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/23b1e09ad2e359ff3482bf1434942c4a30d7063a/headshots/biden.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/biden.png)
 
 </div>
 
@@ -378,7 +377,7 @@ Democrat
 
 <div class="headshot-wrapper" style="background:#cf222c; ">
 
-![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/23b1e09ad2e359ff3482bf1434942c4a30d7063a/headshots/trump.png)
+![](https://static01.graylady3jvrrxbe.onion/newsgraphics/2019/10/24/2020-landing-page/55909961d52bc23368e5a6df26e87e6a216f3e88/headshots/trump.png)
 
 </div>
 
@@ -419,111 +418,104 @@ Republican
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
-    Ratje/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31dc-postal/merlin_172107963_a2c16fe7-bd41-4b56-8445-524d4cce31e7-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31dc-postal/31dc-postal-thumbStandard.jpg)](/2020/07/31/us/politics/trump-usps-mail-delays.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-thumbStandard.jpg)](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
     
     </div>
     
-    ## [Mail Delays Fuel Concern Trump Is Undercutting Postal System Ahead of Voting](/2020/07/31/us/politics/trump-usps-mail-delays.html)
+    ## [D.A. Is Investigating Trump and His Company Over Fraud, Filing Suggests](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
     
-    The president’s long campaign against the Postal Service is
-    intersecting with his assault on mail-in voting amid concerns that
-    he has politicized oversight of the
-    agency.
+    The office of the district attorney, Cyrus R. Vance Jr., made the
+    disclosure in a new court filing arguing Mr. Trump’s accountants
+    should turn over his tax
+    returns.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael D. Shear</span>,
-    <span class="css-1baulvz" itemprop="name">Hailey Fuchs</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
-    Vogel</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
-    V. Agins/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31biden-vp1/31biden-vp1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31biden-vp1/31biden-vp1-thumbStandard.jpg)](/2020/07/31/us/politics/joseph-biden-vice-president.html)
-    
-    </div>
-    
-    ## [Lobbying Intensifies Among V.P. Candidates as Biden’s Search Nears an End](/2020/07/31/us/politics/joseph-biden-vice-president.html)
-    
-    Two women, Representative Karen Bass and Susan Rice, the former
-    national security adviser, are among the most formidable contenders
-    on Joe Biden’s
-    list.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jonathan Martin</span>,
-    <span class="css-1baulvz" itemprop="name">Alexander Burns</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Katie
-    Glueck</span></span>
-    
-    </div>
-
-<!-- end list -->
-
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31trump-campaign/merlin_175168083_0aa05b3b-7172-4c44-99e3-5ac03eec96ea-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Trump Halts TV Advertising as He Struggles in Polls Against Biden](/2020/07/31/us/politics/trump-campaign-tv-advertising.html)
-    
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31trump-campaign/31trump-campaign-thumbLarge.jpg)](/2020/07/31/us/politics/trump-campaign-tv-advertising.html)
-    
-    </div>
-    
-    The six-day pause was ordered by the president’s new campaign
-    manager, Bill
-    Stepien.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nick Corasaniti</span>,
-    <span class="css-1baulvz" itemprop="name">Annie Karni</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Shane
-    Goldmacher</span></span>
+    <span class="css-1baulvz" itemprop="name">William K. Rashbaum</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Benjamin
+    Weiser</span></span>
     
     </div>
 
 2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
     Mills/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31pollwatch-newsletter/merlin_175130793_653479fa-608b-49cc-8a20-873899b26479-videoLarge.jpg)
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Poll watch
+    <div class="css-1hyfx7x">
     
-    ## [Voting by Mail Is Popular. So Is the False Idea That It’s Ripe for Fraud.](/2020/07/31/us/politics/trump-mail-voting-fraud.html)
-    
-    <div class="css-1s9ra41">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31pollwatch-newsletter/merlin_175130793_653479fa-608b-49cc-8a20-873899b26479-thumbLarge.jpg)](/2020/07/31/us/politics/trump-mail-voting-fraud.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/03gop-convention-thumbStandard.jpg)](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     </div>
     
-    Americans overwhelmingly support increased access to mail voting,
-    but they also appear to be susceptible to misinformation about
-    it.
+    ## [Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options](/2020/08/03/us/politics/trump-rnc-speech.html)
+    
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls,
+    N.Y.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
+    
+    </div>
+
+<!-- end list -->
+
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-videoLarge-v2.png)
+    
+    <div class="css-10wtrbd">
+    
+    ### On Politics With Lisa Lerer
+    
+    ## [Why Biden Won’t Find His Biden](/2020/08/03/us/politics/joe-biden-vp.html)
+    
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbLarge-v2.png)](/2020/08/03/us/politics/joe-biden-vp.html)
+    
+    </div>
+    
+    He would be wise to remember that Barack Obama didn’t pick him
+    simply because they were
+    “simpatico.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa
+    Lerer</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sylvia
+    Jarrus for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
+    
+    <div class="css-1s9ra41">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03michigan-setup1/merlin_174478425_9e8d34ea-f4ee-4e42-b3e2-742a04dcb262-thumbLarge.jpg)](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
+    
+    </div>
+    
+    The Michigan Democrat is facing a rematch against a challenger who
+    says she hasn’t done enough for her district in
+    Detroit.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kathleen
+    Gray</span></span>
     
     </div>
 
@@ -583,6 +575,178 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Again Assails Mail-In Voting
+    
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/tata-pentagon.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
+    
+    The president sidestepped Congress when it became clear that his
+    nominee for a top Defense Department position would not win Senate
+    approval.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Helene
+    Cooper</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/elections/biden-vs-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03elections-briefing-trump-top/merlin_175275168_1ebc9de7-c419-4b57-a9f8-72c282befd31-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Attacking Mail-In Voting, Trump Suggests Rerunning a New York Race
+    
+    Former President Barack Obama endorsed 118 candidates, hoping to tip
+    the scales in key battlegrounds. Primary races in several states on
+    Tuesday have the attention of national party
+    leaders.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/the-federalist-trump-liberals.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30thelibs-1/30thelibs-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## These Conservatives Have a Laser Focus: ‘Owning the Libs’
+    
+    On The Federalist and in Fox News appearances, some of President
+    Trump’s supporters don’t really defend him. They attack the critics.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jeremy W.
+    Peters</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/nyc-mail-ballots-voting.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/nyregion/00nyvoting-02/00nyvoting-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Why the Botched N.Y.C. Primary Has Become the November Nightmare
+    
+    Nearly six weeks later, two congressional races remain undecided,
+    and officials are trading blame over the mishandling of tens of
+    thousands of mail-in ballots.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jesse
+    McKinley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
@@ -613,7 +777,43 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/business/media/election-coverage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The media equation</span>
+    
+    ## How the Media Could Get the Election Story Wrong
+    
+    We may not know the results for days, and maybe weeks. So it’s time
+    to rethink “election night.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Smith</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
     
     <div class="css-1cp3ece">
     
@@ -648,7 +848,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -683,7 +883,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -707,218 +907,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span> Glenn
     Thrush</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/tammy-duckworth-biden-vp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02duckworth-A1/00duckworth1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Tammy Duckworth Is Nothing and Everything Like Joe Biden
-    
-    Despite their disparate backgrounds, the Illinois Democrat has
-    carved out a public life most evocative of the man she could join on
-    the presidential ticket.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matt
-    Flegenheimer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/us/politics/01moments1/merlin_175045695_792fda51-d1e1-4b1b-87db-391f651713ec-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News Analysis</span>
-    
-    ## Trump’s Approval Rating, Biden V.P. Search: The Latest in the 2020 Race
-    
-    President Trump’s more sober messaging on the coronavirus crisis
-    didn’t last long. For Joe Biden, the search for a running mate may
-    last a little longer.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni <span>and</span> Astead W.
-    Herndon</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/supreme-court-trump-border-wall.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-scotus/merlin_169246947_dae8850a-dea7-4044-9afb-212e6287d838-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Supreme Court Lets Trump Keep Building His Border Wall
-    
-    The court refused to lift a year-old stay notwithstanding an appeals
-    court ruling that the construction was unlawful.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam
-    Liptak</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/americas/brazil-trump-ethanol-chapman.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31brazil/merlin_175082043_1d8c79a7-ecda-45a1-be27-2a6be6ea4144-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Lawmakers ‘Alarmed’ by Reports U.S. Envoy Told Brazil It Could Help Re-elect Trump
-    
-    The House Foreign Affairs Committee has begun an inquiry into
-    multiple reports in the Brazilian media that the U.S. ambassador was
-    framing negotiations over ethanol tariffs in partisan terms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ernesto Londoño, Manuela Andreoni
-    <span>and</span> Letícia
-    Casado</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/democrats-judiciary-reform.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-courts1/31dc-courts1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Countering G.O.P. on Courts, Democrats Will Call for ‘Structural’ Change
-    
-    Progressives pushed for the platform language after President
-    Trump’s drive put 200 conservative judges on the federal bench and
-    Senate Republicans blocked President Obama’s nominees.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carl
-    Hulse</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/politics/trump-russia-nato-bounties.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-trumprussia/merlin_157170411_3e868d3c-9294-4286-b2a7-324bc7d61bfd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News Analysis</span>
-    
-    ## Trump Still Defers to Putin, Even as He Dismisses U.S. Intelligence and the Allies
-    
-    Say this about President Trump’s approach to Moscow: It’s been
-    consistent.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David E. Sanger</span>
     
     </div>
     

@@ -244,6 +244,12 @@ Mr. Cheung is a member of the Hong Kong Legislative Council.
 
 </div>
 
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200803/hong-kong-election-china/zh-hant/ "Read in Traditional Chinese")
+
+</div>
+
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">

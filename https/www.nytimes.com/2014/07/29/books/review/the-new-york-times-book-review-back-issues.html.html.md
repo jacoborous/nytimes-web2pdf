@@ -242,10 +242,12 @@ Bolton</span></span></span>](https://static01.nyt.com/images/2014/07/29/books/re
 **This Week’s
 Issue:**
 
-[July 26, 2020](https://www.nytimes.com/issue/todayspaper/2020/07/26/todays-new-york-times#bookreview)
+[Aug. 2, 2020](https://www.nytimes.com/issue/todayspaper/2020/08/02/todays-new-york-times#bookreview)
 
 **Back
 Issues:**
+
+[July 26, 2020](https://www.nytimes.com/issue/todayspaper/2020/07/26/todays-new-york-times#bookreview)
 
 [July 19, 2020](https://www.nytimes.com/issue/todayspaper/2020/07/19/todays-new-york-times#bookreview)
 

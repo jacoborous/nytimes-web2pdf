@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-obituaries" class="section css-15h4p1b e9abtgs0">
 
@@ -131,17 +155,35 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
-    Kuykendal for The New York
-    Times</span>](https://static01.nyt.com/images/2019/08/29/obituaries/00fleisher1/merlin_18504701_f19acbe9-202c-4815-bd7c-0e86390beb86-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Eeg/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/03/world/03hume-obit3/03hume-obit3-jumbo-v2.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist With One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
+    ## [John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83](/2020/08/03/obituaries/john-hume-dies.html)
+    
+    The politician’s campaign for peace was seen as a driving force
+    behind an end to 25 years of sectarian conflict in the
+    territory.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Cowell</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
+    Kuykendal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/obituaries/00fleisher1/00fleisher1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Leon Fleisher, 92, Dies; Spellbinding Pianist Using One Hand or Two](/2020/08/02/arts/music/leon-fleisher-dead.html)
     
     Unable to use his right hand, he performed pieces written for left
-    hand only, conducted and taught. After 30 years, he made a
-    triumphant two-handed
+    hand only, conducted and taught. Years later, he made a triumphant
+    two-handed
     comeback.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
@@ -150,8 +192,27 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Columbia
-    Pictures</span>](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-videoLarge-v2.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mpi43/MediaPunch,
+    via
+    Alamy</span>](https://static01.nyt.com/images/2020/08/04/obituaries/03Max1/03Max1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
+    
+    He was chairman of the Brooklyn Academy of Music and a benefactor of
+    St. Ann’s Warehouse. He and his wife also helped create a center for
+    women’s
+    history.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sam
+    Roberts</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Columbia
+    Pictures</span>](https://static01.nyt.com/images/2020/08/03/world/00brimley/00brimley-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
@@ -165,43 +226,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">William
     Grimes</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
-    James
-    Hanson</span>](https://static01.nyt.com/images/2020/08/03/obituaries/00ladyred/00ladyred-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43](/2020/08/01/arts/lady-red-couture-dead.html)
-    
-    A fixture in Los Angeles clubs who stood 7-foot-2 in heels, she also
-    co-hosted the L.G.B.T.Q. talk show “Hey
-    Qween\!”
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Leland</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Silberman
-    family</span>](https://static01.nyt.com/images/2020/07/30/obituaries/Silberman1/Silberman1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [James Silberman, Editor Who Nurtured Literary Careers, Dies at 93](/2020/08/01/books/james-silberman-dead.html)
-    
-    At Random House and elsewhere, including his own Summit imprint, he
-    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
-    many
-    others.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sam
-    Roberts</span></span>
     
     </div>
 
@@ -225,7 +249,44 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amy
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
+    James
+    Hanson</span>](https://static01.nyt.com/images/2020/08/03/obituaries/00ladyred/00ladyred-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Lady Red Couture, ‘Mother Hen’ of a Drag Scene, Dies at 43](/2020/08/01/arts/lady-red-couture-dead.html)
+    
+    A fixture in Los Angeles clubs who stood 7-foot-2 in heels, she also
+    co-hosted the L.G.B.T.Q. talk show “Hey
+    Qween\!”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Leland</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Silberman
+    family</span>](https://static01.nyt.com/images/2020/08/03/obituaries/Silberman1/Silberman1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [James Silberman, Editor Who Nurtured Literary Careers, Dies at 93](/2020/08/01/books/james-silberman-dead.html)
+    
+    At Random House and elsewhere, including his own Summit imprint, he
+    worked with James Baldwin, Marilyn French, Hunter S. Thompson and
+    many
+    others.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sam
+    Roberts</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amy
     Sancetta/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-videoLarge.jpg)
     
@@ -233,8 +294,9 @@ story](#after-sponsor)
     
     ## [Connie Culp, First Face Transplant Recipient in U.S., Dies at 57](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
     
-    Her near-total face transplant in 2008 was the most complex at the
-    time. She was the fourth patient in the world to undergo such a
+    Her near-total transplant in 2008 was at the time the most complex
+    one ever performed. She was the fourth patient in the world to
+    undergo such a
     procedure.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
@@ -243,7 +305,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     SRI
     International</span>](https://static01.nyt.com/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
     
@@ -258,42 +320,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Cade
     Metz</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
-    Pictures</span>](https://static01.nyt.com/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Alan Parker, Versatile Film Director, Is Dead at 76](/2020/07/31/movies/alan-parker-versatile-film-director-is-dead-at-76.html)
-    
-    “Midnight Express” and “Mississippi Burning” brought him Oscar
-    nominations, and many of his other films, including “Fame,” were
-    acclaimed.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neil
-    Genzlinger</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fred
-    Jewell/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/01/obituaries/01McNamara-obit1/McNamara1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [John McNamara, Red Sox Skipper in ’86 Series Loss, Dies at 88](/2020/07/31/sports/baseball/john-mcnamara-dead.html)
-    
-    He led six big league teams with some success, but he’s best
-    remembered for questionable managerial moves in a crushing (for
-    Boston) sixth game against the
-    Mets.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Richard
-    Sandomir</span></span>
     
     </div>
 
@@ -575,6 +601,76 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/movies/alan-parker-versatile-film-director-is-dead-at-76.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Alan Parker, Versatile Film Director, Is Dead at 76
+    
+    “Midnight Express” and “Mississippi Burning” brought him Oscar
+    nominations, and many of his other films, including “Fame,” were
+    acclaimed.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Neil
+    Genzlinger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/sports/baseball/john-mcnamara-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/obituaries/01McNamara-obit1/McNamara1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## John McNamara, Red Sox Skipper in ’86 Series Loss, Dies at 88
+    
+    He led six big league teams with some success, but he’s best
+    remembered for questionable managerial moves in a crushing (for
+    Boston) sixth game against the Mets.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Richard
+    Sandomir</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/07/31/briefing/troops-baseball-louie-gohmert-news-quiz.html)
     
     <div class="css-79elbk">
@@ -603,7 +699,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -638,7 +734,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -673,7 +769,80 @@ story](#after-mid2)
     
     </div>
 
-4.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/obituaries/waldemar-gonzalez-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Waldemar Gonzalez, Social Worker Who Drew on His Own Hard Life, Dies at 72
+    
+    He grew up with an abusive father and carried that pain into
+    adulthood before becoming ‘Dad 2.0.’ He died of the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Leland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/obituaries/hugh-freyer-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/obituaries/29Freyer/merlin_175076790_27a264f5-6f02-4847-bf82-91875488dad8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Hugh Freyer, Poker Player With Discretion of a Banker, Dies at 86
+    
+    A son of immigrants, he became a private banker in New York and was
+    also devoted to helping recovering alcoholics. He died of the novel
+    coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sam
+    Roberts</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
     
     <div class="css-1cp3ece">
     
@@ -686,6 +855,8 @@ story](#after-mid2)
     ![](https://static01.nyt.com/images/2020/07/30/business/30virus-briefing-cain/merlin_153836223_144af59d-79bf-43a7-9ff7-70dfae6248b8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
+    
+    ### <span class="css-m70j1g">those we’ve lost</span>
     
     ## Herman Cain, Former C.E.O. and Presidential Candidate, Dies at 74
     
@@ -709,7 +880,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -750,7 +921,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -772,150 +943,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Frank
-    Litsky</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/obituaries/renada-mcguire-dead-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/obituaries/27McGuire/27McGuire-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
-    
-    ## Renada McGuire, Resilient Home Health Aide, Dies at 39
-    
-    She decided to work with adults with mental disabilities after
-    giving birth to a child with challenges. She died of complications
-    of the novel coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Aaron
-    Randle</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/us/politics/joseph-kernan-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/obituaries/Kernan-print/merlin_175064295_8651f784-a71d-41b2-a7b1-896b022d5949-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Joseph Kernan, Vietnam P.O.W. and Indiana Governor, Dies at 74
-    
-    He spent 11 months in a North Vietnamese prison after his plane was
-    downed. He was later a long-serving mayor of South Bend.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/obituaries/katherine-hoffman-dead-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/obituaries/27Hoffman/27Hoffman-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
-    
-    ## Katherine Hoffman, ‘Eternal’ Florida State Figure, Dies at 105
-    
-    From the 1930s to the 2010s, as a student, professor and
-    distinguished alumna, she was a model citizen in support of the
-    school. She died of Covid-19.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alex
-    Traub</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/arts/music/bent-fabric-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/obituaries/28fabric1-print/28fabric1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bent Fabric, Pianist and Composer Known for ‘Alley Cat,’ Dies at 95
-    
-    A simple tune with an old-time feel, it could embed itself in the
-    listener’s ear as if on a continuous loop. In 1962, it became a
-    worldwide hit.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katharine Q. Seelye</span>
+    By <span class="css-1n7hynb">Frank Litsky</span>
     
     </div>
     

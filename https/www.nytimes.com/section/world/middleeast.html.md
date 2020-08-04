@@ -176,6 +176,76 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/world/middleeast/israel-syria-border.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/world/03israel-border1a/03israel-border1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Israel Says It Hit Bombers on Syrian Boundary
+    
+    The military released grainy, edited footage of the ambush of what
+    it said were four militants planting explosives in the area, amid
+    heightened tensions along Israel’s northern frontiers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Isabel
+    Kershner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/world/middleeast/israel-Netanyahus-son-tweets.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/world/02israel-netanyahu/02israel-netanyahu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Israeli Court Rebukes Prime Minister’s Son Over Harassing Protest Leaders
+    
+    Yair Netanyahu tweeted the addresses and phone numbers of three men
+    who led protests against his father’s administration. All three said
+    they later received death threats.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam
+    Rasgon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/world/middleeast/uae-nuclear-Barakah.html)
     
     <div class="css-79elbk">
@@ -204,7 +274,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +309,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +346,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +382,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +417,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -383,7 +453,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -419,7 +489,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -440,77 +510,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tariq
-    Panja</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/middleeast/pilgrims-hajj-mecca-coronavirus-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/world/30hajj01dipt/30hajj01dipt-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Pilgrims, Fewer and Socially Distanced, Arrive in Mecca for Annual Hajj
-    
-    The coronavirus pandemic has curtailed the annual pilgrimage to the
-    holy city of Mecca in Saudi Arabia, limiting the number of people
-    and barring people from outside the kingdom.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Vivian
-    Yee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/world/middleeast/darfur-sudan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/world/28darfur/merlin_174229890_2075153e-3d25-422a-b09e-9fd8a5165e02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Dictator Who Waged War on Darfur Is Gone, but the Killing Goes On
-    
-    The ouster of Sudan’s longtime ruler last year stoked hopes for
-    peace in brutalized Darfur. But violence has surged amid fresh
-    accusations against Sudan’s security forces.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Declan Walsh</span>
+    By <span class="css-1n7hynb">Tariq Panja</span>
     
     </div>
     

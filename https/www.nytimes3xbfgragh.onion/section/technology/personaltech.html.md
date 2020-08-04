@@ -55,8 +55,7 @@ Tech](https://www.nytimes3xbfgragh.onion/section/technology/personaltech)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-personaltech" class="section css-15h4p1b e9abtgs0">
 
@@ -144,7 +168,24 @@ story](#after-sponsor)
 [More in Tech Fix
     »](/column/tech-fix)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -161,7 +202,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/business/16Techfix-illo/15Techfix-illo-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -179,7 +220,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/business/09Techfix-illo/07Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -196,7 +237,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/business/17Techfix-illo/17Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -206,24 +247,6 @@ story](#after-sponsor)
     For $99 a year, Hey wants to help us restore some control. The new
     service has a way to go — and so does email, come to think of
     it.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/03/business/03techfix1/merlin_173044968_b11a15e2-c026-42bf-b05b-38a6d8a3782a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [E-Bikes Are Having Their Moment. They Deserve It.](/2020/06/03/technology/personaltech/e-bikes-are-having-their-moment-they-deserve-it.html)
-    
-    The benefits of owning a battery-powered two-wheeler far outweigh
-    the downsides, especially in a
-    pandemic.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
@@ -460,95 +483,93 @@ story](#after-mid1)
 [More in Technology
     »](/section/technology)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+    Ruvic/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    The founder of ByteDance, Zhang Yiming, dreamed of building a global
+    tech company based in China. Then the geopolitical reality set
+    in.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
-    <span class="css-1baulvz" itemprop="name">Kate Conger</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Kellen
-    Browning</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Raymond
+    Zhong</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Martin
-    Bureau/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Manjunath
+    Kiran/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [ByteDance Said to Offer to Sell TikTok’s U.S. Operations](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    ## [With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens](/2020/08/03/technology/tiktok-microsoft-tweens.html)
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese
-    ownership.
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech
+    giant.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Raymond Zhong</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steve
-    Lohr</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Weise</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjum
-    Naveed/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What’s Going On With TikTok? Here’s What We Know](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all
-    here.
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve
+    ads.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    McCabe</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-videoLarge.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+    Wilson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [More Than 1,000 Companies Boycotted Facebook. Did It Work?](/2020/08/01/business/media/facebook-boycott.html)
+    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
     
-    Major advertisers on Facebook reduced their spending by millions of
-    dollars in July, but not enough to significantly damage the
-    platform’s
-    revenue.
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Tiffany Hsu</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Eleanor
-    Lutz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-    Walter Banks for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [TikTok Ban? Creators and Fans Are Big Mad](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
-    The uncertainty over the future of the wildly popular video app has
-    brought chaos to its user community — and to the entertainment and
-    advertising industries as
-    well.
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either
+    party.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Taylor
-    Lorenz</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
+    Shear</span></span>
     
     </div>
 

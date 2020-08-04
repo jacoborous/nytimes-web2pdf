@@ -211,7 +211,7 @@ roughly 5,000 years old, is made up of two kinds of stones, called
 bluestones and sarsens, the latter of which weigh 25 tons on
 average.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Finnbarr
 Webster/Getty
-Images</span></span></span>](https://static01.nyt.com/images/2020/07/29/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Images</span></span></span>](https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE1/29SCI-STONEHENGE1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -323,7 +323,7 @@ thing.”
 excavations on Stonehenge in
 1958.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>English
 Heritage, via
-Reuters</span></span>](https://static01.nyt.com/images/2020/07/29/science/29SCI-STONEHENGE2/merlin_154554093_fb698f44-04d0-45d1-a05a-284be387cfc0-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Reuters</span></span>](https://static01.nyt.com/images/2020/08/04/science/29SCI-STONEHENGE2/merlin_154554093_fb698f44-04d0-45d1-a05a-284be387cfc0-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

@@ -208,6 +208,40 @@ children in New York and Hamburg, Germany.
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Siren Song of ‘One State’
+    
+    A hopeless plan could dash hopes for a peaceful resolution between
+    Israelis and Palestinians.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bret
+    Stephens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/27/opinion/trump-2020.html)
     
     <div class="css-79elbk">
@@ -236,7 +270,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -269,7 +303,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -302,7 +336,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -341,7 +375,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +409,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +442,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -442,7 +476,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -475,7 +509,7 @@ children in New York and Hamburg, Germany.
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -503,38 +537,6 @@ children in New York and Hamburg, Germany.
     <div class="css-185051n">
     
     [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200604/china-hong-kong/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/opinion/20200604/china-hong-kong/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/22/opinion/michael-flynn-case-dropped.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/22/opinion/22stephens1/merlin_172757931_70dffd81-4c9c-40f4-b5ab-328e628ebc15-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Michael Flynn and the Presumption of Guilt
-    
-    A distrust of prosecutorial power should not be abandoned.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bret Stephens</span>
     
     </div>
     

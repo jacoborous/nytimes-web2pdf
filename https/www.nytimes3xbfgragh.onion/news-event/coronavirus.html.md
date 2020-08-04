@@ -85,14 +85,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [College
+    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -151,15 +151,15 @@ Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronaviru
 
 Updated weekday evenings
 
-  - Sanofi and GlaxoSmithKline [will receive $2.1
-    billion](https://www.nytimes3xbfgragh.onion/2020/07/31/health/covid-19-vaccine-sanofi-gsk.html)
-    to supply the U.S. government with 100 million doses of an
-    experimental coronavirus vaccine — the largest such deal to date.
-  - Dr. Anthony Fauci said the U.S. would most likely have a safe and
-    effective coronavirus vaccine [by the end
-    of 2020](https://www.nytimes3xbfgragh.onion/aponline/2020/07/31/us/politics/ap-us-virus-outbreak-fauci.html)
-    or early in
-2021.
+  - The White House began [randomly screening for the
+    coronavirus](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html#link-c4a1d71).
+  - Kosovo’s prime minister [contracted
+    Covid-19](https://nl.nytimes3xbfgragh.onion/f/a/umYjgHqFQS0DWGLnViksGQ~~/AAAAAQA~/RgRhCxH_P4QgAWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2FydGljbGUvdXMtaGVhbHRoLWNvcm9uYXZpcnVzLWtvc292by1wcmltZW1pbmlzdC9rb3Nvdm8tcHJpbWUtbWluaXN0ZXItc2F5cy1oZS1oYXMtY292aWQtMTktaWRVU0tCTjI0WTBPTj9jYW1wYWlnbl9pZD0xNTQmZW1jPWVkaXRfY2JfMjAyMDA4MDMmaW5zdGFuY2VfaWQ9MjA5NDQmbmw9Y29yb25hdmlydXMtYnJpZWZpbmcmcmVnaV9pZD0zNTQ2NDU0MSZzZWdtZW50X2lkPTM1MTI5JnRlPTEmdXNlcl9pZD02Njg0MjBkMWQ1MGVjZTM5ZTdlNGNkYmRkYzAxOTZkMFcDbnl0QgoAMv-MKF_UfRy_UhhrYXJlbi5iYXJyb3dAbnl0aW1lcy5jb21YBAAAAAA~)
+    and will isolate himself at home for two weeks.
+  - Dr. Deborah Birx said the U.S. had [entered a “new
+    phase”](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
+    in the fight against the virus, rankling President
+Trump.
 
 <div id="styln-survey-component-key-updates" class="styln-survey-component">
 
@@ -189,42 +189,42 @@ Updated weekday evenings
 
 ## Live Updates
 
-10 hours
+17 minutes
     ago
 
 </div>
 
-  - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0)
+  - [](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0)
     
     ## World
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-34047410)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-4547638f)
         
-        ### The U.S. reels as July cases more than double the total of any other month.
+        ### Fauci defends Birx after she is criticized by Trump.
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-780ec966)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-15e7f995)
         
-        ### Top U.S. officials work to break an impasse over the federal jobless benefit.
+        ### Trump derides Democrats as lawmakers and administration officials try to break stimulus impasse.
     
-      - [](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-2bc8948)
+      - [](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?type=styln-live-updates&label=world&index=0#link-e5a2cda)
         
-        ### Its outbreak untamed, Melbourne goes into even greater lockdown.
+        ### The deadline for 2020 census counting has been moved up by a month.
 
-  - [](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1)
+  - [](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1)
     
     ## Business
     
-      - [](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+      - [](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
         
-        ### Kodak’s chief executive was given stock options. Then the share price spiked 1,000 percent.
+        ### The Chicago Fed president says it’s up to Congress to save the economy.
     
-      - [](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#fitch-ratings-downgrades-its-outlook-on-us-debt)
+      - [](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
         
-        ### Fitch Ratings downgrades its outlook on U.S. debt.
+        ### F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737 Max.
     
-      - [](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+      - [](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?type=styln-live-updates&label=business&index=1#small-businesses-got-emergency-loans-but-not-what-they-expected)
         
-        ### U.S. sanctions more Chinese officials over human rights violations as tensions flare
+        ### Small businesses got emergency loans, but not what they expected.
 
 </div>
 
@@ -268,16 +268,16 @@ Updated weekday evenings
 
 <div class="grid svelte-qva148">
 
-<span class="chart-container svelte-yuscj7"></span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![United States
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/USA.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/USA.svg)
 
-<div class="point svelte-yuscj7" style="left: 15.5440414507772%; top: 97%">
+<div class="point svelte-yuscj7" style="left: 15.463917525773194%; top: 97%">
 
 <span class="annotation svelte-yuscj7">7-day average</span>
 <span class="line svelte-yuscj7"></span>
@@ -288,81 +288,81 @@ cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 
 </div>
 
-**United States** <span class="svelte-yuscj7">4,676,830</span>
+**United States** <span class="svelte-yuscj7">4,723,401</span>
 <span class="svelte-yuscj7">total cases</span>
 <span class="first svelte-yuscj7">Jan. 22</span>
-<span class="last svelte-yuscj7">Aug. 1</span>
-<span class="chart-container svelte-yuscj7"></span>
+<span class="last svelte-yuscj7">Aug. 2</span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![Brazil
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/BRA.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/BRA.svg)
 
 </div>
 
 </div>
 
-**Brazil** <span class="svelte-yuscj7">2,733,677</span>
-<span class="chart-container svelte-yuscj7"></span>
+**Brazil** <span class="svelte-yuscj7">2,750,318</span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/asia/india-coronavirus-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![India
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/IND.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/IND.svg)
 
 </div>
 
 </div>
 
-**India** <span class="svelte-yuscj7">1,750,723</span>
-<span class="chart-container svelte-yuscj7"></span>
+**India** <span class="svelte-yuscj7">1,803,695</span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/mexico-coronavirus-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![Mexico
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/MEX.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/MEX.svg)
 
 </div>
 
 </div>
 
-**Mexico** <span class="svelte-yuscj7">434,193</span>
-<span class="chart-container svelte-yuscj7"></span>
+**Mexico** <span class="svelte-yuscj7">522,165</span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![U.K.
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/GBR.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/GBR.svg)
 
 </div>
 
 </div>
 
-**U.K.** <span class="svelte-yuscj7">304,695</span>
-<span class="chart-container svelte-yuscj7"></span>
+**U.K.** <span class="svelte-yuscj7">305,623</span>
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)
 
 <div class="chart svelte-yuscj7">
 
 <div class="chart-inner svelte-yuscj7">
 
 ![Canada
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/fc24fb6ca86885670888f2b48932d31cf7b1499d/build/curve-grid/cases/total/CAN.svg)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/6cb2cfe296478ee6a7ff625e46af4732b84fb121/build/curve-grid/cases/total/CAN.svg)
 
 </div>
 
 </div>
 
 **Canada**
-<span class="svelte-yuscj7">116,884</span>
+<span class="svelte-yuscj7">117,031</span>
 
 </div>
 
@@ -385,7 +385,7 @@ world
 
 <div class="g-media-wrap" data-type="">
 
-[](https://www.nytimes3xbfgragh.onion/2020/08/02/world/coronavirus-updates.html)
+[](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html)
 
 <div class="g-tab-fader">
 
@@ -395,26 +395,26 @@ world
 
 <div class="g-timestamp">
 
-Riverhead,
-N.Y.
+Addis Ababa,
+Ethiopia
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-JGAU/02hp-virus-fader-slide-JGAU-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-ethiopia/merlin_175273824_267e7325-4231-4fc9-920d-fddfd18eb06e-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-JGAU/02hp-virus-fader-slide-JGAU-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-ethiopia/03virus-hp-fader-ethiopia-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Al Bello/Getty </span>
+<span class="g-credit"> Amanuel Sileshi/AFP — Getty Images </span>
 
 </div>
 
@@ -424,142 +424,26 @@ N.Y.
 
 <div class="g-timestamp">
 
-Loudon,
-N.H.
+Columbia,
+S.C.
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-4T57/02hp-virus-fader-slide-4T57-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-sc/03virus-hp-fader-sc-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-4T57/02hp-virus-fader-slide-4T57-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-sc/03virus-hp-fader-sc-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Charles Krupa/AP </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-St.
-Louis
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-AEK4/02hp-virus-fader-slide-AEK4-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-AEK4/02hp-virus-fader-slide-AEK4-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Neeta Satam for The New York Times </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Barcelona,
-Spain
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-A6ER/02hp-virus-fader-slide-A6ER-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-A6ER/02hp-virus-fader-slide-A6ER-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Enric Fontcuberta/EPA, via Shutterstock </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Caracas,
-Venezuela
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-PRMA/02hp-virus-fader-slide-PRMA-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-PRMA/02hp-virus-fader-slide-PRMA-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Matias Delacroix/AP </span>
-
-</div>
-
-</div>
-
-<div class="g-photo-wrap">
-
-<div class="g-timestamp">
-
-Newcastle upon Tyne,
-England
-
-</div>
-
-<div class="desktop">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-A0S8/02hp-virus-fader-slide-A0S8-videoLarge.jpg)
-
-</div>
-
-<div class="mobile">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-A0S8/02hp-virus-fader-slide-A0S8-square640.jpg)
-
-</div>
-
-<div class="g-caption">
-
-<span class="g-credit"> Lee Smith/Reuters
+<span class="g-credit"> Travis Dove for The New York Times
 </span>
 
 </div>
@@ -570,25 +454,26 @@ England
 
 <div class="g-timestamp">
 
-Tokyo
+Moscow
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-3I1W/02hp-virus-fader-slide-3I1W-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-moscow/merlin_175266339_bd2b9f5d-7c20-4bea-b3e1-8be0ee08e998-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-3I1W/02hp-virus-fader-slide-3I1W-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-moscow/03virus-hp-fader-moscow-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Kyodo News, via AP </span>
+<span class="g-credit"> Alexander Zemlianichenko/Associated Press
+</span>
 
 </div>
 
@@ -598,26 +483,200 @@ Tokyo
 
 <div class="g-timestamp">
 
-Bogota,
-Colombia
+San
+Salvador
 
 </div>
 
 <div class="desktop">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-VH2I/02hp-virus-fader-slide-VH2I-videoLarge.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-elsalvadoor/merlin_175278912_0a515518-8b43-49db-a7b9-fd832e9e86f6-videoLarge.jpg)
 
 </div>
 
 <div class="mobile">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/homepage/02hp-virus-fader-slide-VH2I/02hp-virus-fader-slide-VH2I-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-elsalvadoor/03virus-hp-fader-elsalvadoor-square640.jpg)
 
 </div>
 
 <div class="g-caption">
 
-<span class="g-credit"> Daniel Munoz/Agence France-Presse — Getty Images
+<span class="g-credit"> Jose Cabezas/Reuters
+</span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Istanbul
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/reader-center/03virus-hp-fader-turkey/03virus-hp-fader-turkey-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/reader-center/03virus-hp-fader-turkey/03virus-hp-fader-turkey-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Yasin Akgul/AFP — Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Quito,
+Ecuador
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/us/03virus-hp-fader-ecuador/merlin_175275414_f4505ae7-d7c2-4228-968d-40484f3471fd-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/us/03virus-hp-fader-ecuador/03virus-hp-fader-ecuador-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Dolores Ochoa/Associated Press </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Decatur,
+Miss.
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/reader-center/03virus-hp-fader-miss/merlin_175275882_e20dc889-766d-4cdb-94ad-60bb9388a574-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/reader-center/03virus-hp-fader-miss/03virus-hp-fader-miss-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Janine Vincent/Newton County Schools, via AP
+</span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Manila
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-manila/merlin_175264962_528bac2d-a110-4a3f-8f69-0383690ba3b0-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-manila/03virus-hp-fader-manila-square640-v2.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Ezra Acayan/Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Nice,
+France
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-france/merlin_175265268_3930aef7-0fd0-4228-be5e-1277b0106a50-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-france/03virus-hp-fader-france-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Valery Hache/AFP — Getty Images </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap">
+
+<div class="g-timestamp">
+
+Machakos,
+Kenya
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-kenya/03virus-hp-fader-kenya-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03virus-hp-fader-kenya/03virus-hp-fader-kenya-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Tony Karumba/AFP — Getty Images
 </span>
 
 </div>
@@ -638,8 +697,8 @@ Colombia
 
 #### [New Reported Cases in the U.S.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-master1050-v51.png)
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-square640-v95.png)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-master1050-v54.png)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/cases_orphan_usa-1595349567192/cases_orphan_usa-1595349567192-square640-v101.png)](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
 See the U.S. hot spots
 
@@ -708,8 +767,8 @@ Curve
 
 <div class="faq--content">
 
-<span class="faq--question-copy"> Should I refinance my mortgage?
-</span>
+<span class="faq--question-copy"> I’m a small-business owner. Can I get
+relief? </span>
 
 <div class="faq--caret-container" data-role="button">
 
@@ -720,6 +779,72 @@ Curve
 </div>
 
 <div class="faq--answer-container faq--answer-expanded faq--answer-0">
+
+The [stimulus bills enacted in
+March](https://www.nytimes3xbfgragh.onion/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html)
+offer help for the millions of American small businesses. Those eligible
+for aid are businesses and nonprofit organizations with fewer than 500
+workers, including sole proprietorships, independent contractors and
+freelancers. Some larger companies in some industries are also eligible.
+The help being offered, which is being managed by the Small Business
+Administration, includes the Paycheck Protection Program and the
+Economic Injury Disaster Loan program. But lots of folks have [not yet
+seen
+payouts.](https://www.nytimes3xbfgragh.onion/interactive/2020/05/07/business/small-business-loans-coronavirus.html)
+Even those who have received help are confused: The rules are draconian,
+and some are stuck sitting on [money they don’t know how to
+use.](https://www.nytimes3xbfgragh.onion/2020/05/02/business/economy/loans-coronavirus-small-business.html)
+Many small-business owners are getting less than they expected or [not
+hearing anything at
+all.](https://www.nytimes3xbfgragh.onion/2020/06/10/business/Small-business-loans-ppp.html)
+
+</div>
+
+</div>
+
+<div class="faq--content">
+
+<span class="faq--question-copy"> What are my rights if I am worried
+about going back to work? </span>
+
+<div class="faq--caret-container" data-role="button">
+
+<div class="faq--caret faq--caret-collapsed faq--caret-1">
+
+</div>
+
+</div>
+
+<div class="faq--answer-container faq--answer-collapsed faq--answer-1">
+
+Employers have to provide [a safe
+workplace](https://www.osha.gov/SLTC/covid-19/standards.html) with
+policies that protect everyone equally. [And if one of your co-workers
+tests positive for the coronavirus, the
+C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html)
+has said that [employers should tell their
+employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+-- without giving you the sick employee’s name -- that they may have
+been exposed to the virus.
+
+</div>
+
+</div>
+
+<div class="faq--content">
+
+<span class="faq--question-copy"> Should I refinance my mortgage?
+</span>
+
+<div class="faq--caret-container" data-role="button">
+
+<div class="faq--caret faq--caret-collapsed faq--caret-2">
+
+</div>
+
+</div>
+
+<div class="faq--answer-container faq--answer-collapsed faq--answer-2">
 
 [It could be a good
 idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html)
@@ -741,13 +866,13 @@ September? </span>
 
 <div class="faq--caret-container" data-role="button">
 
-<div class="faq--caret faq--caret-collapsed faq--caret-1">
+<div class="faq--caret faq--caret-collapsed faq--caret-3">
 
 </div>
 
 </div>
 
-<div class="faq--answer-container faq--answer-collapsed faq--answer-1">
+<div class="faq--answer-container faq--answer-collapsed faq--answer-3">
 
 It is unlikely that many schools will return to a normal schedule this
 fall, requiring the grind of [online
@@ -783,13 +908,13 @@ school system regularly to see what is happening in your community.
 
 <div class="faq--caret-container" data-role="button">
 
-<div class="faq--caret faq--caret-collapsed faq--caret-2">
+<div class="faq--caret faq--caret-collapsed faq--caret-4">
 
 </div>
 
 </div>
 
-<div class="faq--answer-container faq--answer-collapsed faq--answer-2">
+<div class="faq--answer-container faq--answer-collapsed faq--answer-4">
 
 The coronavirus [can stay aloft for hours in tiny droplets in stagnant
 air](https://www.nytimes3xbfgragh.onion/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html),
@@ -806,66 +931,6 @@ without symptoms exhales, talks or sings, according to Dr. Marr and more
 than 200 other experts, who [have outlined the evidence in an open
 letter to the World Health
 Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-</div>
-
-</div>
-
-<div class="faq--content">
-
-<span class="faq--question-copy"> What are the symptoms of coronavirus?
-</span>
-
-<div class="faq--caret-container" data-role="button">
-
-<div class="faq--caret faq--caret-collapsed faq--caret-3">
-
-</div>
-
-</div>
-
-<div class="faq--answer-container faq--answer-collapsed faq--answer-3">
-
-Common symptoms [include fever, a dry cough, fatigue and difficulty
-breathing or shortness of
-breath.](https://www.nytimes3xbfgragh.onion/article/symptoms-coronavirus.html)
-Some of these symptoms overlap with those of the flu, making detection
-difficult, but runny noses and stuffy sinuses are less common. [The
-C.D.C. has
-also](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html)
-added chills, muscle pain, sore throat, headache and a new loss of the
-sense of taste or smell as symptoms to look out for. Most people fall
-ill five to seven days after exposure, but symptoms may appear in as few
-as two days or as many as 14 days.
-
-</div>
-
-</div>
-
-<div class="faq--content">
-
-<span class="faq--question-copy"> Does asymptomatic transmission of
-Covid-19 happen? </span>
-
-<div class="faq--caret-container" data-role="button">
-
-<div class="faq--caret faq--caret-collapsed faq--caret-4">
-
-</div>
-
-</div>
-
-<div class="faq--answer-container faq--answer-collapsed faq--answer-4">
-
-So far, the evidence seems to show it does. A widely cited
-[paper](https://www.nature.com/articles/s41591-020-0869-5) published in
-April suggests that people are most infectious about two days before the
-onset of coronavirus symptoms and estimated that 44 percent of new
-infections were a result of transmission from people who were not yet
-showing symptoms. Recently, a top expert at the World Health
-Organization stated that transmission of the coronavirus by people who
-did not have symptoms was “very rare,” [but she later walked back that
-statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-updates.html#link-1f302e21)
 
 </div>
 
@@ -895,105 +960,105 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/coronavirus-school-reopening-risk-promo-1596150335713/coronavirus-school-reopening-risk-promo-1596150335713-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Emily
+    Kask for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/coronavirus-school-reopening-risk-promo-1596150335713/coronavirus-school-reopening-risk-promo-1596150335713-thumbStandard.jpg)](/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-thumbStandard.jpg)](/2020/08/02/us/covid-college-reopening.html)
     
     </div>
     
-    ## [The Risk That Students Could Arrive at School With the Coronavirus](/interactive/2020/07/31/us/coronavirus-school-reopening-risk.html)
+    ## [Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall](/2020/08/02/us/covid-college-reopening.html)
     
-    New estimates show that large parts of the country would likely see
-    infected students if classrooms opened
-    now.
+    Colleges are racing to reconfigure dorms, expand testing programs
+    and establish detailed social distancing rules. And then, what to do
+    about
+    sex?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">James Glanz</span>,
-    <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Conlen</span></span>
+    <span class="css-1baulvz" itemprop="name">Anemona Hartocollis</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Shawn
+    Hubler</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
-        Sladky/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+        Dawn Bottoms/The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-threeByTwoMediumAt2X-v2.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-thumbStandard.jpg)](/2020/07/31/health/covid-contact-tracing-tests.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-thumbStandard-v2.jpg)](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
         
         </div>
         
-        ## [Contact Tracing Is Failing in Many States. Here’s Why.](/2020/07/31/health/covid-contact-tracing-tests.html)
+        ## [A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
         
-        Inadequate testing and protracted delays in producing results
-        have crippled tracking and hampered efforts to contain major
-        outbreaks.
+        Send us your medical bills. We’ll use them to investigate
+        hospital and doctor billing
+        practices.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Jennifer
-        Steinhauer</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Abby
-        Goodnough</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Sarah
+        Kliff</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-threeByTwoMediumAt2X-v7.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
+        O'Hare for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-threeByTwoMediumAt2X-v2.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/covid-19-colleges-universities-promo-1595989754637/covid-19-colleges-universities-promo-1595989754637-thumbStandard-v5.jpg)](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbStandard-v2.jpg)](/2020/08/03/health/covid-telemedicine-congress.html)
         
         </div>
         
-        ## [More Than 6,600 Coronavirus Cases Have Been Linked to U.S. Colleges](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
+        ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
         
-        A Times survey of hundreds of schools represents the most
-        comprehensive look at the toll the virus has already taken on
-        the country’s colleges and
-        universities.
+        The answer largely depends on whether Medicare and private
+        health insurers will adequately cover virtual doctor visits once
+        coronavirus outbreaks
+        subside.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Weiyi Cai</span>,
-        <span class="css-1baulvz" itemprop="name">Danielle Ivory</span>,
-        <span class="css-1baulvz" itemprop="name">Mitch Smith</span>,
-        <span class="css-1baulvz" itemprop="name">Alex Lemonides</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Lauryn
-        Higgins</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Reed
+        Abelson</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
-        M. Lange for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30virus-retailmasks-sub/28virus-retailmasks-sub-threeByTwoMediumAt2X-v3.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
+        Belleme for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30virus-retailmasks-sub/28virus-retailmasks-sub-thumbStandard-v3.jpg)](/2020/07/29/business/coronavirus-masks-stores-walmart.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-thumbStandard.jpg)](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
         
         </div>
         
-        ## [A Wrinkle in Stores’ Mask Policies: Enforcement](/2020/07/29/business/coronavirus-masks-stores-walmart.html)
+        ### The New Old Age
         
-        A number of large retailers have said that all customers must
-        wear masks, but some employees have been told they cannot force
-        those who
-        refuse.
+        ## [Should Youth Come First in Coronavirus Care?](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
+        
+        If medical rationing becomes necessary, some older adults are
+        prepared to step aside. But many have the opposite concern: that
+        they will be arbitrarily sent to the rear of the
+        line.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Michael
-        Corkery</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Paula
+        Span</span></span>
         
         </div>
 
@@ -1005,18 +1070,37 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
 
 ## Reopening
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Hefti/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02collegefootball-web-2/02collegefootball-web-2-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+    Robison/The Northeast Mississippi Daily Journal, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03VIRUS-SCHOOLS-corinth/merlin_175033581_42fb4b24-0f58-473e-b4ff-1626dbdbfce8-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Group of Pac-12 Football Players Opts Out of the Season](/2020/08/02/sports/ncaafootball/coronavirus-college-football-pac-12.html)
+    ## [As the Coronavirus Comes to School, a Tough Choice: When to Close](/2020/08/03/us/school-closing-coronavirus.html)
     
-    The athletes from 10 schools said they were dissatisfied with how
-    their universities were handling the coronavirus, an approach they
-    say prioritizes money over
-    safety.
+    As schools in the South and the Midwest reopen this week, officials
+    must decide what steps to take as staff members and students test
+    positive.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Shawn
+    Hubler</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Young
+    Kwak/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03collegefootball-3/03collegefootball-3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A College Athlete Calls His Coach to Opt Out. And Ends Up on the Outs.](/2020/08/03/sports/coronavirus-college-athletes-opt-out.html)
+    
+    Kassidy Woods, a redshirt sophomore receiver at Washington State,
+    was concerned about the pandemic. The coach was sympathetic until he
+    learned he was joining a players’ rights
+    initiative.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Billy
@@ -1024,13 +1108,13 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Atul
-    Loke for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/briefing/03ambriefing-asia-promo/03ambriefing-asia-slide-EI5E-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Vaccine, TikTok, SpaceX: Your Monday Briefing](/2020/08/02/briefing/coronavirus-vaccine-india-us-tiktok-spacex.html)
+    ## [TikTok, Coronavirus, Spearfishing: Your Tuesday Briefing](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
     
     Here’s what you need to
     know.
@@ -1041,56 +1125,40 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
-    Mole</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/02snooker1-print/merlin_175172742_296e5fcb-9743-4a0b-8e74-cf0e5ac34d90-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+    J. Blue for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03Virus-View-01/merlin_171513666_77afb6d2-fcff-4e60-afd1-d509f326d13a-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Britain Tried to Bring Fans Back to Indoor Sports. That Lasted a Day.](/2020/08/02/sports/snooker-world-championship.html)
+    ## [The United States Is Reopening Many of the Wrong Schools](/2020/08/03/business/how-schools-reopen.html)
     
-    The world snooker championship welcomed spectators last week, part
-    of a pilot program that offered hope to other events eager to follow
-    suit. A few hours later, the government pulled the
-    plug.
+    When it is safe enough to return to school, young children would
+    benefit the most. Yet financial pressures are pushing colleges to
+    reopen most rapidly, an economist
+    says.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Karen
-    Crouse</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Susan
+    Dynarski</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>
-    Nadia
-    Pillon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/01Ask/01Ask-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Todd
+    Heisler/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/09/nyregion/03nytoday-1/00nysubway-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How Do I Get My Landlord to Follow Covid-19 Rules?](/2020/08/01/realestate/coronavirus-covid-apartment-buildings.html)
+    ## [Is Riding the Subway Safer Than Dining Indoors?](/2020/08/03/nyregion/nyc-subway-coronavirus.html)
     
-    New York issued guidelines for how residential buildings should
-    safely operate — but there no consequences for failing to
-    comply.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ronda
-    Kaysen</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Heimer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Rich City Tykes Swell Schools in Hamptons and Hudson Valley](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
-    
-    New York parents of means are seeking less congested classrooms near
-    their second — third? —
-    homes.
+    In major global cities where the pandemic has ebbed, it appears that
+    public transportation may not be as risky as nervous New Yorkers
+    believe.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Williams</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mihir
+    Zaveri</span></span>
     
     </div>
 
@@ -1100,7 +1168,43 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
 
 ## [Money](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nolwen
+    Cifuentes for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/00sba-disasterloan1/00sba-disasterloan1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Small Businesses Got Emergency Loans, but Not What They Expected](/2020/08/03/business/small-business-loans-coronavirus.html)
+    
+    The S.B.A.’s disaster relief program allows for loans of up to $2
+    million. But now they’re capped at $150,000 — and agency officials
+    are saying little about
+    why.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stacy
+    Cowley</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joohee
+    Yoon</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How to Ace an Online Job Interview](/2020/08/03/business/online-job-interview-tips.html)
+    
+    A handful of classic techniques and some tips unique to the
+    work-from-home era can help you land that next
+    job.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Weed</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     Illustration by Michael
     Waraksa</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-videoLarge.jpg)
     
@@ -1118,7 +1222,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
     Masuike/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01Wealth-01/31Wealth-01-videoLarge.jpg)
     
@@ -1137,7 +1241,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynsey
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynsey
     Weatherspoon for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29virus-cliff1/29virus-cliff1-videoLarge.jpg)
     
@@ -1157,51 +1261,30 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shirley
-    Yu for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/business/26virus-labor-1/26virus-labor-1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Upsides for Some Remote Workers; Lost Pay and Security for Others](/2020/07/26/business/economy/labor-remote-work-coronavirus.html)
-    
-    Working from home creates economic winners and losers. It can
-    benefit highly skilled employees but depress others’ wages and make
-    it hard to
-    organize.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Noam
-    Scheiber</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Suzie
-    Howell for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/00Remittances-1/00Remittances-1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [They Crossed Oceans to Lift Their Families Out of Poverty. Now, They Need Help.](/2020/07/27/business/global-remittances-coronavirus.html)
-    
-    As the pandemic destroys paychecks, migrant workers are sending less
-    money home, threatening an increase in poverty from South Asia and
-    sub-Saharan Africa to Eastern Europe and Latin
-    America.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Peter S.
-    Goodman</span></span>
-    
-    </div>
-
 </div>
 
 <div class="section css-jhqenn ep7jkp60">
 
 ## [Life](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lauren
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sarah
+    MacReading</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/smarter-living/04sl-virus-budgetimage/04sl-virus-budgetimage-videoLarge.png)
+    
+    <div class="css-10wtrbd">
+    
+    ## [4 Simple Ways to Take Control of Your Coronavirus Budget](/2020/08/03/smarter-living/coronavirus-budget-save-money.html)
+    
+    The pandemic has changed the way we budget. Here’s some advice to
+    get back on
+    track.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Taylor
+    Tepper</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lauren
     Martin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/multimedia/24sl-virus-ok/24sl-virus-ok-videoLarge.png)
     
     <div class="css-10wtrbd">
@@ -1217,7 +1300,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pete
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pete
     Gamlen</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/multimedia/24-par-vacation-city/24-par-vacation-city-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1235,7 +1318,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Tomi
     Um</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02Ethicist/02Ethicist-videoLarge.jpg)
     
@@ -1253,7 +1336,7 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/style/00VIRUS-HOW-TO-MOVE/00VIRUS-HOW-TO-MOVE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1267,25 +1350,6 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Hannah
     Wise</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
-    Dove for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/24Wealth-01/24Wealth-01-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Need Help With Your Estate Plan? Go With the Flow, Advisers Say](/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-    
-    As older adults face mortality during the pandemic, lawyers and
-    wealth advisers are using color-coded documents and flowcharts to
-    help them understand estate
-    planning.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paul
-    Sullivan</span></span>
     
     </div>
 
@@ -1322,25 +1386,22 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    ## How to Think Like an Epidemiologist
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    Don’t worry, a little Bayesian analysis won’t hurt you.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Siobhan
+    Roberts</span>
     
     </div>
     
@@ -1358,24 +1419,25 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/Lord-and-Taylor-Bankruptcy.html)
+    [](/video/us/100000007271181/california-virus-cases-trend-down.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02LordandTaylor-Bankruptcy1/02LordandTaylor-Bankruptcy1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03virus-briefing-ca/merlin_174940689_08c356be-fabb-45f1-a9b8-bbd8e277269b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lord & Taylor Files for Bankruptcy as Retail Collapses Pile Up
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    The department store, which traces its roots to 1826, was struggling
-    before the coronavirus hit. Its owner, the clothing rental start-up
-    Le Tote, also filed for bankruptcy.
+    ## Coronavirus Cases ‘Trending Down’ in California, Governor Says
+    
+    Gov. Gavin Newsom said on Monday that the total number of people
+    testing positive for the coronavirus was on the decline.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -1393,24 +1455,24 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/sports/baseball/mlb-coronavirus-outbreaks.html)
+    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/sports/02mlb/merlin_175096953_c4eb53d3-68c2-4cda-9770-cbfd9a1f9b8a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Everyone Can Do Better’: Baseball Searches for Blame Amid Outbreaks
+    ## Trump Again Assails Mail-In Voting
     
-    Major League Baseball’s commissioner put the onus on players to
-    behave more responsibly, but some players and health experts see
-    weaknesses in the league’s safety protocols.
+    The president has been raging against voting by mail for several
+    months, claiming without evidence that the process is plagued by
+    fraud.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James
-    Wagner</span>
+    By <span class="css-1n7hynb">Michael D.
+    Shear</span>
     
     </div>
     
@@ -1428,25 +1490,23 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/nyregion/liberty-belle-illegal-party.html)
+    [](/2020/08/03/us/coronavirus-today.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/nyregion/02nyvirus-boatparty/02nyvirus-boatparty-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/us/coronavirus-cases-map-080320/coronavirus-us-cases-map-promo-1583277425489-thumbWide-v635.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arrests Over Illicit Party Boat With 170 Guests Cruising Around N.Y.C.
+    ## Coronavirus Briefing: What Happened Today
     
-    It was yet another symbol of reckless socializing during the
-    pandemic: The Liberty Belle was dinged for violating distancing
-    rules, and its owners were accused of running an unlicensed bar, the
-    authorities said.
+    The school year is underway in some parts of the United States — and
+    we’re already seeing how fraught reopening classrooms can be.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
+    By <span class="css-1n7hynb">Jonathan
+    Wolfe</span>
     
     </div>
     
@@ -1464,24 +1524,24 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    [](/2020/08/03/us/politics/trump-rnc-speech.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03gop-convention/merlin_175274523_0c7e2446-193c-4e58-a258-a46a8ec524a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    ## Gettysburg? The Liberty Bell? Trump Weighs R.N.C. Speech Options
     
-    Some retailers are turning to popular social media personalities to
-    detail post-pandemic protocols and boost the allure of visiting
-    their stores.
+    The president and his aides are holding out hope for ambitious
+    convention programming, and have considered a return to Mount
+    Rushmore or a speech by Melania Trump from Seneca Falls, N.Y.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
+    By <span class="css-1n7hynb">Annie
+    Karni</span>
     
     </div>
     
@@ -1499,24 +1559,24 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/europe/russia-trials-vaccine-October.html)
+    [](/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/00russia-vaccine01/00russia-vaccine01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/virus-italy-sexwork1/virus-italy-sexwork1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Russia Sets Mass Vaccination for October After Shortened Trial
+    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness In the Pandemic
     
-    The announcement raised concerns that Russia would begin
-    inoculations and declare victory in the race for a coronavirus
-    vaccine without fully testing its product.
+    Prostitution is not illegal in Italy, nor is it regulated as an
+    official occupation. But the coronavirus has forced many sex workers
+    to accept certain risks in order to avoid poverty.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew E.
-    Kramer</span>
+    By <span class="css-1n7hynb">Emma
+    Bubola</span>
     
     </div>
     
@@ -1534,25 +1594,25 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/covid-college-reopening.html)
+    [](/2020/08/03/dining/dirt-candy-vegetarian-muffuletta.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/00virus-collegeprep01/merlin_175178988_969779f2-30fe-46fa-bc7f-fa9c7a176a5c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/dining/03burner-muff/03burner-muff-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Covid Tests and Quarantines: Colleges Brace for an Uncertain Fall
+    ### <span class="css-m70j1g">Front Burner</span>
     
-    Colleges are racing to reconfigure dorms, expand testing programs
-    and establish detailed social distancing rules. And then, what to do
-    about sex?
+    ## Dirt Candy Returns With a Vegetarian Muffuletta
+    
+    The chef Amanda Cohen’s vegetarian restaurant on the Lower East Side
+    has reopened with a new menu.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Anemona Hartocollis <span>and</span>
-    Shawn
-    Hubler</span>
+    By <span class="css-1n7hynb">Florence
+    Fabricant</span>
     
     </div>
     
@@ -1570,26 +1630,23 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/video/world/australia/100000007269116/coronavirus-restrictions-melbourne.html)
+    [](/2020/08/03/us/politics/yrc-coronavirus-relief-funds.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02virus-briefing-melbourne/merlin_175141296_dccccb19-1179-4660-a45f-369462798c5f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/00dc-virus-truckingloan-01/00dc-virus-truckingloan-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Rescue of Troubled Trucking Company With White House Ties Draws Scrutiny
     
-    ## Melbourne Tightens Lockdown as Virus Outbreak Spreads
-    
-    Premier Daniel Andrews of Victoria, Australia, said that starting on
-    Sunday, residents in the metropolitan Melbourne area will be under
-    curfew from 8 p.m. to 5 a.m.
+    Members of a congressional oversight panel want to know how YRC
+    Worldwide won a $700 million loan from the Treasury Department.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Reuters</span>
+    By <span class="css-1n7hynb">Alan
+    Rappeport</span>
     
     </div>
     
@@ -1607,23 +1664,24 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    [](/2020/08/03/arts/design/sothebys-sales.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    ## Sotheby’s Reports $2.5 Billion in Sales
     
-    Negotiators acknowledged some progress over the weekend, but said
-    they remained far apart on a number of issues.
+    The auction house says that figure reflects a “resilient” market
+    amid the coronavirus. But it represents a 25 percent decrease in
+    auction sales, analysts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
+    By <span class="css-1n7hynb">Scott
+    Reyburn</span>
     
     </div>
     
@@ -1641,23 +1699,25 @@ statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-upda
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/health/dr-birx-coronavirus-phase.html)
+    [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/30Pedro/30Pedro-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Birx Says U.S. Epidemic Is in a ‘New Phase’
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
     
-    She and other top health officials in the Trump administration warn
-    states of a deepening spread of the coronavirus, in both rural and
-    urban areas.
+    ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
+    
+    Ms. Pedro was a leader of Brazil’s Macuxi people and carried a
+    message of alarm for their fate to Pope Francis in 2018. She died of
+    the novel coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Benedict Carey</span>
+    By <span class="css-1n7hynb">Michael Astor</span>
     
     </div>
     

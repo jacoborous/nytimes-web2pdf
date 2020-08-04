@@ -49,8 +49,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -63,6 +62,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-business-dealbook" class="section css-15h4p1b e9abtgs0">
 
@@ -128,17 +152,115 @@ Sorkin](/vi-assets/static-assets/dealbook-logo-reduced-7ef9bf245f53a22de79f41f72
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
-    Bedder/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-thumbStandard.jpg)](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/03DC-Trump-CEO-01-thumbStandard.jpg)](/2020/08/03/business/economy/trump-tiktok-china-business.html)
     
     </div>
+    
+    ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    
+    The president’s interventions in company dealings based on his own
+    instincts are a departure from the arm’s-length approach of
+    predecessors of either
+    party.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Michael D.
+    Shear</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+    Plavevski/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/merlin_175258689_6b3ad16b-c147-4a64-a7cf-7a84b8b5f0dc-thumbStandard.jpg)](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    </div>
+    
+    ## [Trump Reverses Course on TikTok, Opening Door to Microsoft Bid](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    
+    The president said he did not object to a potential acquisition of
+    the Chinese-owned app, retreating from comments about banning the
+    service.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Isaac</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+        W. Lee/The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Men’s Wearhouse Owner Files for Bankruptcy](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/business/00tailored-brands-HFO/00tailored-brands-HFO-thumbStandard.jpg)](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+        
+        </div>
+        
+        Tailored Brands, known for its clothing chains Men’s Wearhouse
+        and JoS. A. Bank, struggled as the pandemic shut stores and
+        consumer demand for office attire
+        dropped.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Gillian
+        Friedman</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Florence
+        Lo/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03db-newslettertiktok/merlin_175237974_b8a81d01-c2eb-4b1f-a51d-26bc593e6219-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### DealBook Newsletter
+        
+        ## [What Would Microsoft Do With TikTok?](/2020/08/03/business/dealbook/tiktok-microsoft-takeover.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03db-newslettertiktok/merlin_175237974_b8a81d01-c2eb-4b1f-a51d-26bc593e6219-thumbStandard.jpg)](/2020/08/03/business/dealbook/tiktok-microsoft-takeover.html)
+        
+        </div>
+        
+        The potential blockbuster deal could go a few different
+    ways.
+        
+        <span class="css-me3p27"></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
+    Bedder/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [James Murdoch Resigns From News Corp, Ending Role in Family Empire](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
     
@@ -153,17 +275,11 @@ Sorkin](/vi-assets/static-assets/dealbook-logo-reduced-7ef9bf245f53a22de79f41f72
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-thumbStandard.jpg)](/2020/07/31/business/europe-economy-recovery-coronavirus.html)
-    
-    </div>
     
     ## [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](/2020/07/31/business/europe-economy-recovery-coronavirus.html)
     
@@ -179,127 +295,40 @@ Sorkin](/vi-assets/static-assets/dealbook-logo-reduced-7ef9bf245f53a22de79f41f72
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-        Kelly/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App](/2020/07/31/technology/tiktok-microsoft.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbStandard.jpg)](/2020/07/31/technology/tiktok-microsoft.html)
-        
-        </div>
-        
-        The discussions come as TikTok’s ownership by a Chinese company
-        is under scrutiny by the White House and
-        lawmakers.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Mike Isaac</span>,
-        <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Alan
-        Rappeport</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cliff
-        Owen/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### DealBook Newsletter
-        
-        ## [They Made How Much?](/2020/07/31/business/dealbook/tech-earnings-economy.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-thumbStandard.jpg)](/2020/07/31/business/dealbook/tech-earnings-economy.html)
-        
-        </div>
-        
-        Big tech companies reported bumper profits in the shadow of
-        congressional scrutiny over their outsize market
-    power.
-        
-        <span class="css-me3p27"></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/gdp-2q-change-promo-1596113580367/gdp-2q-change-promo-1596113580367-videoLarge-v2.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Kelly/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Collapse That Wiped Out 5 Years of Growth, With No Bounce in Sight](/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html)
+    ## [Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App](/2020/07/31/technology/tiktok-microsoft.html)
     
-    The second-quarter contraction set a grim record, and it would have
-    been worse without government aid that is
-    expiring.
+    The discussions come as TikTok’s ownership by a Chinese company is
+    under scrutiny by the White House and
+    lawmakers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Casselman</span></span>
+    <span class="css-1baulvz" itemprop="name">Mike Isaac</span>,
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Rappeport</span></span>
     
     </div>
 
-2.  ### The Shift
+4.  ### DealBook Newsletter
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pablo
-    Rochat</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31roose/31roose-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Grilled by Lawmakers, Big Tech Turns Up the Gaslight](/2020/07/30/technology/big-tech-ceos.html)
-    
-    It is less clear that tech executives’ strategy of evasive answers
-    will continue to work now that lawmakers have begun doing their
-    homework.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kevin
-    Roose</span></span>
-    
-    </div>
-
-3.  ### DealBook Newsletter
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-    photo by Mandel
-    Ngan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30db-newsletter-tech/merlin_175082016_1abaa848-e171-431a-9a82-816fab57fc05-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cliff
+    Owen/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Congress Versus the ‘Emperors’](/2020/07/30/business/dealbook/tech-hearing-highlights.html)
+    ## [They Made How Much?](/2020/07/31/business/dealbook/tech-earnings-economy.html)
     
-    These moments stood out during the congressional hearing about Big
-    Tech’s market
+    Big tech companies reported bumper profits in the shadow of
+    congressional scrutiny over their outsize market
     power.
     
     <span class="css-me3p27"></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/00eutech/00eutech-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power](/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
-    
-    The region’s lawmakers and regulators are taking direct aim at
-    Amazon, Facebook, Google and Apple in a series of proposed
-    laws.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Satariano</span></span>
     
     </div>
 
@@ -371,6 +400,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve ads.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
     
     <div class="css-79elbk">
@@ -401,7 +464,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -427,6 +490,12 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -435,7 +504,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -469,7 +538,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -505,7 +574,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -542,7 +611,75 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/business/dealbook/tech-hearing-highlights.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/30db-newsletter-tech/merlin_175082016_1abaa848-e171-431a-9a82-816fab57fc05-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">DealBook Newsletter</span>
+    
+    ## Congress Versus the ‘Emperors’
+    
+    These moments stood out during the congressional hearing about Big
+    Tech’s market
+    power.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/technology/europe-new-phase-tech-amazon-apple-facebook-google.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/00eutech/00eutech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘This Is a New Phase’: Europe Shifts Tactics to Limit Tech’s Power
+    
+    The region’s lawmakers and regulators are taking direct aim at
+    Amazon, Facebook, Google and Apple in a series of proposed laws.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -577,7 +714,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -599,112 +736,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Eavis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">tech fix</span>
-    
-    ## How to Fight Against Big Tech’s Power
-    
-    We are beholden to a few Big Tech overlords for much of our digital
-    lives. We can be more conscientious about it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Brian X.
-    Chen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/business/dealbook/tech-congress-hearing-questions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29db-newsletter-tech1/merlin_174846564_01681a73-ae57-4aa0-8c45-64c4b9135a2e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">DealBook Newsletter</span>
-    
-    ## We Have Questions
-    
-    How to get answers from the tech executives testifying at a
-    high-profile congressional hearing
-    today.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/technology/tech-ceos-congress-what-to-know.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/28hearing-handbook-combo-web-PROMO/28hearing-handbook-combo-web-PROMO-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Handbook to Today’s Tech Hearing
-    
-    The C.E.O.s are likely to argue before Congress that their companies
-    aren’t anticompetitive. Here are the facts.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jack Nicas, Daisuke Wakabayashi, Karen
-    Weise <span>and</span> Mike Isaac</span>
+    By <span class="css-1n7hynb">Peter Eavis</span>
     
     </div>
     

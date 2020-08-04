@@ -241,8 +241,8 @@ asked.
 and Soderbergh in better times. At the start of the pandemic, she said,
 “it was an interesting process to watch everyone face the
 facts.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Cindy
-Ord/Getty Images; Roy Rochlin/Getty Images;
-</span></span></span>](https://static01.nyt.com/images/2020/08/03/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
+Ord/Getty Images; Roy Rochlin, via Getty
+Images;</span></span></span>](https://static01.nyt.com/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-articleLarge-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

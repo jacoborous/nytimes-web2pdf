@@ -214,7 +214,7 @@ story](#after-subheader)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/sports/28collegehoops-recruiting-1/28collegehoops-recruiting-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/sports/28collegehoops-recruiting-1/28collegehoops-recruiting-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

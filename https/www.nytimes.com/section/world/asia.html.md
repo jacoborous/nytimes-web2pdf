@@ -55,8 +55,7 @@ Pacific](https://www.nytimes.com/section/world/asia)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-asia" class="section css-15h4p1b e9abtgs0">
 
@@ -152,6 +176,143 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## TikTok, Coronavirus, Spearfishing: Your Tuesday Briefing
+    
+    Here’s what you need to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carole
+    Landry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens
+    
+    Buying one of the largest and most influential social networks in
+    the country could change the perception of the tech giant.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Weise</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/asia/afghanistan-prison-isis-taliban.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/world/03afghan-prison6/merlin_175263168_e480620a-c180-403d-995f-66ba81207750-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 29 Dead After ISIS Attack on Afghan Prison
+    
+    The 20-hour gun battle left officials scrambling to recapture
+    hundreds of prisoners, including many from the Islamic State and the
+    Taliban.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
+    Mashal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/asia/pakistan-media-abductions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/world/03pakistan-media-promo/03pakistan-media-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Abductions, Censorship and Layoffs: Pakistani Critics Are Under Siege
+    
+    Recent abductions of a journalist and an activist have underscored
+    Pakistan’s worsening rights conditions as the country’s security
+    forces pressure the news media and human rights groups.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maria
+    Abi-Habib</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
     
     <div class="css-79elbk">
@@ -187,7 +348,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -220,7 +381,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -255,7 +416,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -281,6 +442,12 @@ story](#after-sponsor)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/usa/20200803/virus-china-ppp-small-business-loans/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -289,7 +456,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -323,7 +490,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -345,149 +512,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Farnaz
-    Fassihi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/asia/coronavirus-vaccine-india.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02virus-india-vaccine/merlin_175095756_ab6859c7-a529-4f1f-809d-0b4ccf992203-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Indian Billionaires Bet Big on Head Start in Coronavirus Vaccine Race
-    
-    The world’s largest vaccine producer, the Serum Institute, announced
-    a plan to make hundreds of millions of doses of an unproven
-    inoculation. It’s a gamble with a huge upside. And huge risks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeffrey
-    Gettleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/technology/tiktok-microsoft.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
-    
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/us/politics/sanctions-china-xinjiang-uighurs.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/us/politics/31dc-china-sanctions/31dc-china-sanctions-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Adds Sanctions Over Internment of Muslims in China
-    
-    The Treasury Department imposed sanctions on a powerful government
-    entity that runs companies and farms in the Xinjiang region, where
-    officials carry out the mass internment of Muslims.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Edward
-    Wong</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/asia/india-prince-manvendra-gay-rights.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/world/31profile-prince-manvendra-1/merlin_175102827_1051cde2-1285-4e95-b75f-23450f96203e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Saturday Profile</span>
-    
-    ## In India, a Gay Prince’s Coming Out Earns Accolades, and Enemies
-    
-    Prince Manvendra’s journey from an excruciatingly lonely child to a
-    global L.G.B.T.Q. advocate included death threats and
-    disinheritance.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shalini Venugopal Bhagat</span>
+    By <span class="css-1n7hynb">Farnaz Fassihi</span>
     
     </div>
     

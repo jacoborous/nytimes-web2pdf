@@ -83,8 +83,8 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">In
-1920, Native Women Sought the Vote. Here’s What They Seek
-Now.</span>
+1920, Native Women Sought the Vote. Here’s What’s
+Next.</span>
 
 </div>
 
@@ -190,7 +190,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# In 1920, Native Women Sought the Vote. Here’s What They Seek Now.
+# In 1920, Native Women Sought the Vote. Here’s What’s Next.
 
 </div>
 
@@ -233,14 +233,20 @@ Deer</span>
 
 </div>
 
-  - July 31,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 31, 2020Updated Aug. 3,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

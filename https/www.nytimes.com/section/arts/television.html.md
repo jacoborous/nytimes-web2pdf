@@ -159,48 +159,22 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.nyt.com/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
+    [![](https://static01.nyt.com/images/2020/08/02/arts/02immigration-review/02immigration-review-thumbStandard.jpg)](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
     
     </div>
     
-    ### Critic’s Notebook
+    ## [‘Immigration Nation’ Review: The Banality of Deportation](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
     
-    ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
-    
-    The Muppets were made of, by and for TV. Two new shows, “Muppets
-    Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO Max,
-    reimagine the media-savvy furry friends for a new
-    age.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Poniewozik</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.nyt.com/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
-    
-    </div>
-    
-    ### critic’s notebook
-    
-    ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
-    
-    On outlets from Hulu to Peacock to PBS, it’s the summer of the
-    trans-Atlantic
-    import.
+    This Netflix documentary looks at the bureaucracy of immigration
+    enforcement — an intriguing investigation that probably won’t change
+    any
+    minds.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Mike
@@ -208,53 +182,77 @@ story](#after-sponsor)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
-        Cartwright/ABC</span>](https://static01.nyt.com/images/2020/07/31/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Merrick
+    Morton/HBO</span>](https://static01.nyt.com/images/2020/08/02/arts/02perry-recap/02perry-recap-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbStandard.jpg)](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    
+    </div>
+    
+    ### Perry Mason
+    
+    ## [‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    
+    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
+    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
+    Alice.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sean T.
+    Collins</span></span>
+    
+    </div>
+
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Comfort Viewing: Why I Still Love ‘The Goldbergs’](/2020/07/31/arts/television/goldbergs-abc-stream.html)
+        ### Critic’s Notebook
+        
+        ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbStandard.jpg)](/2020/07/31/arts/television/goldbergs-abc-stream.html)
+        [![](https://static01.nyt.com/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
         
         </div>
         
-        The period sitcom about a Jewish family in the ’80s has for
-        seven seasons been a weekly gift of old-fashioned
-        zingers.
+        The Muppets were made of, by and for TV. Two new shows, “Muppets
+        Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO
+        Max, reimagine the media-savvy furry friends for a new
+        age.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Noel
-        Murray</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">James
+        Poniewozik</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-        illustration by Jennifer Ledbury/The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/02/arts/02truth-WEB/02truth-WEB-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.nyt.com/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Critic’s notebook
+        ### critic’s notebook
         
-        ## [The Reconciliation Must Be Televised](/2020/07/30/arts/television/the-moment-racism-tv.html)
+        ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/02/arts/02truth-WEB/02truth-WEB-thumbStandard.jpg)](/2020/07/30/arts/television/the-moment-racism-tv.html)
+        [![](https://static01.nyt.com/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
         
         </div>
         
-        What is the next step as America confronts its racism? A
-        broadcast spectacle, our critic writes, that could look like
-        court, a telethon, therapy, an Oprah show — and
-        more.
+        On outlets from Hulu to Peacock to PBS, it’s the summer of the
+        trans-Atlantic
+        import.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Wesley
-        Morris</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Mike
+        Hale</span></span>
         
         </div>
 
@@ -264,25 +262,45 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Watching
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.nyt.com/images/2020/07/31/arts/30Watching-Muppets-Now/30Watching-Muppets-Now-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
+    Cartwright/ABC</span>](https://static01.nyt.com/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How Much Watching Time Do You Have This Weekend?](/2020/07/30/arts/television/muppets-disney-errol-morris-first-person.html)
+    ## [Comfort Viewing: Why I Still Love ‘The Goldbergs’](/2020/07/31/arts/television/goldbergs-abc-stream.html)
     
-    The Muppets are back; also, check out an excellent but previously
-    hard-to-find Errol Morris
-    docu-series.
+    The period sitcom about a Jewish family in the ’80s has for seven
+    seasons been a weekly gift of old-fashioned
+    zingers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Lyons</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Noel
+    Murray</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+2.  ### Critic’s notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    illustration by Jennifer Ledbury/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/02/arts/02truth-WEB/02truth-WEB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Reconciliation Must Be Televised](/2020/07/30/arts/television/the-moment-racism-tv.html)
+    
+    What is the next step as America confronts its racism? A broadcast
+    spectacle, our critic writes, that could look like court, a
+    telethon, therapy, an Oprah show — and
+    more.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Wesley
+    Morris</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
     Mishina-Kunz for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/arts/02last-chance1/02last-chance1-videoLarge-v3.jpg)
     
@@ -301,7 +319,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     Hill/HBO</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-CONVO2/merlin_163951620_f1b96611-35ce-463f-9f90-41787acd5e33-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -320,7 +338,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
     via Associated
     Press</span>](https://static01.nyt.com/images/2020/07/28/arts/28EMMYS-SNUBS4/merlin_165673722_e416155d-ccbd-49b3-a550-1b775c971c0f-videoLarge.jpg)
     
@@ -334,23 +352,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Mike
     Hale</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Hill/HBO</span>](https://static01.nyt.com/images/2020/07/28/arts/28emmys-livebriefing-watchment-swap/28emmys-livebriefing-watchment-swap-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Netflix Breaks HBO’s Record for the Most Emmy Nominations Ever](/2020/07/28/arts/television/emmy-nominations.html)
-    
-    “Watchmen” earned 26 nominations, the most of any show, and the
-    Television Academy gave newcomers Disney+ and Apple TV+ their first
-    nods.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Koblin</span></span>
     
     </div>
 
@@ -410,6 +411,113 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04latenight/04latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Best of Late Night</span>
+    
+    ## Seth Meyers: After TikTok, Trump Could Ban Candy Crush
+    
+    “I’m almost certain Trump has no idea what TikTok is. I’m betting
+    TikTok was one of the answers he wrote on his cognitive test,” Seth
+    Meyers joked on Monday’s “Late Night.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Trish
+    Bendix</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
+    
+    Celebrities come together to honor the congressman. And “The Stand:
+    How One Gesture Shook the World” revisits an iconic image from the
+    1968 Summer Olympics.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lauren
+    Messman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/arts/television/whats-on-tv-monday-immigration-nation-and-dora-and-the-lost-city-of-gold.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/arts/03tvcol-1/03tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What’s on TV Monday: ‘Immigration Nation’ and ‘Dora and the Lost City of Gold’
+    
+    A six-part docu-series about the Immigration and Customs Enforcement
+    agency is on Netflix. And a live-action adaptation of “Dora” arrives
+    on Hulu.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter
+    Libbey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/arts/television/whats-on-tv-sunday-connected-and-the-spacex-landing.html)
     
     <div class="css-79elbk">
@@ -438,7 +546,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +556,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -473,7 +581,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -507,7 +615,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -541,7 +649,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -578,7 +686,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -612,7 +720,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -633,112 +741,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil
-    Vigdor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Weekend Roundup</span>
-    
-    ## 7 Things to Do This Weekend
-    
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/television/trevor-noah-trump-russia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/arts/30latenight/30latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Best of Late Night</span>
-    
-    ## Trevor Noah Thinks Trump Is ‘Oddly Chilled Out’ About Russia
-    
-    The president said he didn’t ask Vladimir Putin whether Russia paid
-    to have U.S. troops killed. The “Daily Show” host can see why that
-    talk would have been “super awkward.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Trish
-    Bendix</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/television/whats-on-tv-thursday-in-my-skin-and-the-birds.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/arts/30tvcol-1/30tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What’s on TV Thursday: ‘In My Skin’ and ‘The Birds’
-    
-    A coming-of-age comedy series comes to Hulu. And a thriller from
-    Alfred Hitchcock is on TCM.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mariel Wamsley</span>
+    By <span class="css-1n7hynb">Neil Vigdor</span>
     
     </div>
     

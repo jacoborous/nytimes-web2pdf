@@ -142,7 +142,7 @@ For</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -572,7 +572,7 @@ falsehoods](https://www.nytimes.com/2018/12/29/us/politics/trump-fact-check.html
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 3, 2020
 
   - 
     
@@ -580,10 +580,9 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - President Trump again assails mail-in voting, [claiming without
+        evidence that the process is plagued by
+        fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

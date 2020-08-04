@@ -82,8 +82,8 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Isaias
-Live Updates: Hurricane Makes Landfall in North
+<span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Hurricane
+Makes Landfall in North
 Carolina</span>
 
 </div>
@@ -161,6 +161,8 @@ story](#after-top)
 
 </div>
 
+<div>
+
 <div id="sponsor-wrapper" class="css-1hyfx7x">
 
 <div id="sponsor-slug" class="css-19vbshk">
@@ -182,31 +184,13 @@ story](#after-sponsor)
 
 </div>
 
-<div class="css-14oxmzc edomiq20">
-
-<div class="css-40v4b6">
-
-<span class="css-sgss5">LIVE UPDATES</span>
-
-</div>
-
-<span>Updated </span>
-
-<div class="css-ki347z">
-
-<span class="css-1656jku">Aug. 4, 2020, 2:03 a.m.
-ET</span><span class="css-xwx5dt"></span>
-
-</div>
-
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 2:03
-a.m. ET</span>
+<div class="css-186x18t">
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Isaias Live Updates: Hurricane Makes Landfall in North Carolina
+# Hurricane Makes Landfall in North Carolina
 
 </div>
 
@@ -214,13 +198,37 @@ Isaias regained strength into a Category 1 hurricane on Monday night,
 bringing heavy winds and rain to the East Coast. Flash flooding and
 tornadoes are possible.
 
-<div class="css-192lewg e1oheyly0">
+<div class="css-bn0qp euiyums0">
 
-Right Now
+<div class="css-75y64v e16638kd2">
 
-Hurricane Isaias, with sustained winds of 75 miles per hour, made
-landfall near Ocean Isle Beach in southern North
-Carolina.
+Published Aug. 3, 2020Updated Aug. 4, 2020, <span class="css-epvm6">2:11
+a.m.
+ET</span>
+
+</div>
+
+<div class="css-4xjgmj">
+
+<div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -255,20 +263,7 @@ Times</span></span></span>](https://static01.nyt.com/images/2020/08/02/us/02isai
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-34a2c843" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Isaias makes landfall in North Carolina after becoming a hurricane
-again.
+## Isaias makes landfall in North Carolina after becoming a hurricane again.
 
 Hurricane Isaias made landfall in southern North Carolina late Monday
 night, hours after strengthening into a Category 1 hurricane.
@@ -340,19 +335,7 @@ Over the weekend, Isaias buffeted Florida’s eastern edge with heavy
 rainfall and powerful winds, yet it failed to deliver the punch that
 state officials had feared.
 
-## 
-
-<div id="link-f7e08eb" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The Carolinas face the dual threat of the storm and the virus.
+## The Carolinas face the dual threat of the storm and the virus.
 
 </div>
 
@@ -446,19 +429,7 @@ of emergency.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-64deafd3" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Isaias has tended to fluctuate, and so have the forecasts.
+## Isaias has tended to fluctuate, and so have the forecasts.
 
 </div>
 
@@ -557,22 +528,10 @@ on the radar, literally or figuratively, until today.
 The forecasts issued for Isaias and other tricky storms these days are
 amazingly good by historical standards, much better than a few decades
 ago. But as they raise our expectations and turn “unknown unknowns” into
-“known unknowns,” they can still confuse and disorient us.
+“known unknowns,” they can still confuse and disorient
+us.
 
-## 
-
-<div id="link-536a9c31" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Emergency managers worry about communication during a
-pandemic.
+## Emergency managers worry about communication during a pandemic.
 
 </div>
 
@@ -652,19 +611,7 @@ evacuating, take masks with you. If you’re out shopping: Wear a mask.”
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-52f7dcb" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The Northeast can expect a soaking, too.
+## The Northeast can expect a soaking, too.
 
 Much of the East Coast of the United States will get a soaking,
 forecasters say. The National Hurricane Center said on Monday that
@@ -717,22 +664,10 @@ storm.
 
 Storm surge could also bring high water into Lower Manhattan, according
 to the New York City Emergency Management Department, and officials are
-deploying sand bags and other barriers in the area.
+deploying sand bags and other barriers in the
+area.
 
-## 
-
-<div id="link-303d84ae" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The head of Puerto Rico’s power utility is resigning after widespread
-outages.
+## The head of Puerto Rico’s power utility is resigning after widespread outages.
 
 </div>
 

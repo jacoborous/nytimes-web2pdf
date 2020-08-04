@@ -210,6 +210,43 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/sports/03tennis-hawkeye/03tennis-hawkeye-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Tennis</span>
+    
+    ## Automated Line Calls Will Replace Human Judges at U.S. Open
+    
+    On all but the two biggest show courts, line calls will be made by
+    Hawk-Eye Live to reduce the number of people on site during the
+    pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christopher
+    Clarey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/sports/tennis/ashleigh-barty-us-open.html)
     
     <div class="css-79elbk">
@@ -239,7 +276,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +311,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +346,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +381,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +415,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -413,7 +450,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -448,7 +485,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -484,7 +521,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -503,40 +540,6 @@ story](#after-subheader)
     A match on the Adria Tour, an exhibition circuit organized by Novak
     Djokovic in the Balkans, was canceled on Sunday after a player
     tested positive for the coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher
-    Clarey</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/17/sports/tennis/serena-williams-us-open.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/17/sports/17tennis-usopen/merlin_173618694_11a93b7b-5f6f-407d-a366-e908e083639d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## As Other Stars Waver, Serena Williams Says She’ll Play in the U.S. Open
-    
-    The men’s and women’s tennis tours are set to resume in August, as
-    both circuits announced their plans on Wednesday.
     
     <div class="css-1nqbnmb ea5icrr0">
     
