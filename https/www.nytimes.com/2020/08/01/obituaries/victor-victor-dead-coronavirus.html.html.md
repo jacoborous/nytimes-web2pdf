@@ -146,7 +146,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -466,6 +466,39 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="helen-jones-woods" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.nyt.com/images/2020/08/05/obituaries/03Woods/03Woods-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Helen Jones Woods
+
+<div class="g-meta">
+
+<span>d. Sarasota, Fla. </span>
+
+</div>
+
+<div class="g-summ">
+
+Musician in all-female, multi-racial jazz
+band
+
+</div>
+
+</div>
+
+</div>
+
 <div id="bernaldina-josé-pedro" class="g-obit">
 
 <div class="g-flex-wrapper-image">
@@ -505,7 +538,7 @@ Macuxi
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
 
 </div>
 
@@ -622,40 +655,7 @@ Coast
 
 <div class="g-summ">
 
-Jamaican singer and
-songwriter
-
-</div>
-
-</div>
-
-</div>
-
-<div id="waldemar-gonzalez" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Waldemar Gonzalez
-
-<div class="g-meta">
-
-<span>d. White Plains, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Teacher and social worker
+Jamaican singer and songwriter
 
 </div>
 

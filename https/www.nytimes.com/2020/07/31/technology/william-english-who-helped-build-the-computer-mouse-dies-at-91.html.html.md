@@ -241,9 +241,8 @@ Metz</span>](https://www.nytimes.com/by/cade-metz)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 31, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">2:14 p.m.
-    ET</span>
+    Published July 31, 2020Updated Aug. 4,
+    2020
     
     </div>
 

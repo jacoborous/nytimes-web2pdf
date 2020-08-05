@@ -188,7 +188,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 2:10 P.M.
+Times</span>Updated August 5, 2020, 12:06 A.M.
 E.T.
 
 </div>
@@ -302,7 +302,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 30.730173243836717%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 30.32208615674047%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -315,56 +315,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 5.128205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 5.1020408163265305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.89795918367347%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.8974358974359%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.714285714285715%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.28205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.02040816326531%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.17948717948717%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.83673469387755%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.56410256410255%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.14285714285714%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.46153846153845%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.9591836734694%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 96.66666666666666%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 92.60204081632654%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.46153846153846%; top: 73.11430214113034%">
+<div class="pancake-point svelte-11ba04d" style="left: 36.734693877551024%; top: 74.75295446797179%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -397,7 +397,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-18.3 million+
+18.4 million+
 
 </div>
 
@@ -413,7 +413,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-695,874
+699,472
 
 </div>
 
@@ -456,8 +456,8 @@ cases](#cases)[Tips](#tips)[Latest news
 
 The [coronavirus
 pandemic](https://www.nytimes3xbfgragh.onion/article/prepare-for-coronavirus.html)
-has sickened more than 18,333,000 people, according to official counts.
-As of Tuesday afternoon, at least 695,800 people have died, and the
+has sickened more than 18,447,100 people, according to official counts.
+As of Wednesday morning, at least 699,400 people have died, and the
 virus has been detected in nearly every country, as these maps
 show.
 
@@ -903,13 +903,13 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Maldives </span></td>
-<td><span>4,293 </span></td>
-<td><span>832 </span></td>
-<td><span>18 </span></td>
-<td><span>3 </span></td>
-<td><span>924 </span></td>
-<td><span>179 </span></td>
-<td><span>3 </span></td>
+<td><span>4,446 </span></td>
+<td><span>862 </span></td>
+<td><span>19 </span></td>
+<td><span>4 </span></td>
+<td><span>940 </span></td>
+<td><span>182 </span></td>
+<td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
@@ -918,70 +918,84 @@ in last<br />
 <span class="first x-label svelte-ig1tx7">Jan. 22</span>
 </div>
 <div class="pancake-point svelte-11ba04d" style="left: 99.99999999999999%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 3</span>
+<span class="last x-label svelte-ig1tx7">Aug. 4</span>
 </div>
 </div>
 </div>
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/maldives.svg" alt="Maldives heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/maldives.svg" alt="Maldives heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Panama </span></td>
-<td><span>68,456 </span></td>
-<td><span>1,639 </span></td>
-<td><span>1,497 </span></td>
+<td><span>69,424 </span></td>
+<td><span>1,662 </span></td>
+<td><span>1,522 </span></td>
 <td><span>36 </span></td>
-<td><span>7,014 </span></td>
-<td><span>168 </span></td>
-<td><span>175 </span></td>
+<td><span>7,201 </span></td>
+<td><span>172 </span></td>
+<td><span>173 </span></td>
 <td><span>4 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/panama.svg" alt="Panama heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/panama.svg" alt="Panama heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Colombia </span></td>
-<td><span>327,609 </span></td>
+<td><span>327,850 </span></td>
 <td><span>660 </span></td>
-<td><span>11,013 </span></td>
+<td><span>11,017 </span></td>
 <td><span>22 </span></td>
-<td><span>78,874 </span></td>
-<td><span>159 </span></td>
-<td><span>2,492 </span></td>
+<td><span>77,878 </span></td>
+<td><span>157 </span></td>
+<td><span>2,538 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/colombia.svg" alt="Colombia heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/colombia.svg" alt="Colombia heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Bahrain </span></td>
-<td><span>41,835 </span></td>
-<td><span>2,666 </span></td>
-<td><span>150 </span></td>
-<td><span>10 </span></td>
-<td><span>2,353 </span></td>
-<td><span>150 </span></td>
-<td><span>9 </span></td>
-<td><span>&lt;1 </span></td>
+<td><span>Brazil </span> <a href="https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html" class="svelte-5vd9ek">MAP »</a></td>
+<td><span>2,801,921 </span></td>
+<td><span>1,338 </span></td>
+<td><span>95,819 </span></td>
+<td><span>46 </span></td>
+<td><span>318,730 </span></td>
+<td><span>152 </span></td>
+<td><span>7,280 </span></td>
+<td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/bahrain.svg" alt="Bahrain heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/brazil.svg" alt="Brazil heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Brazil </span> <a href="https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html" class="svelte-5vd9ek">MAP »</a></td>
-<td><span>2,750,318 </span></td>
-<td><span>1,313 </span></td>
-<td><span>94,665 </span></td>
-<td><span>45 </span></td>
-<td><span>307,943 </span></td>
-<td><span>147 </span></td>
-<td><span>7,047 </span></td>
-<td><span>3 </span></td>
+<td><span>Bahrain </span></td>
+<td><span>42,132 </span></td>
+<td><span>2,685 </span></td>
+<td><span>151 </span></td>
+<td><span>10 </span></td>
+<td><span>2,211 </span></td>
+<td><span>141 </span></td>
+<td><span>10 </span></td>
+<td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/brazil.svg" alt="Brazil heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/bahrain.svg" alt="Bahrain heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
+<td><span>Peru </span></td>
+<td><span>433,100 </span></td>
+<td><span>1,354 </span></td>
+<td><span>19,811 </span></td>
+<td><span>62 </span></td>
+<td><span>43,383 </span></td>
+<td><span>136 </span></td>
+<td><span>1,393 </span></td>
+<td><span>4 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/peru.svg" alt="Peru heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
 <td><span>Equatorial Guinea </span></td>
 <td><span>4,821 </span></td>
 <td><span>368 </span></td>
@@ -992,63 +1006,49 @@ in last<br />
 <td><span>32 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/equatorial_guinea.svg" alt="Equatorial Guinea heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>United States </span> <a href="https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html" class="svelte-5vd9ek">MAP »</a></td>
-<td><span>4,750,578 </span></td>
-<td><span>1,452 </span></td>
-<td><span>156,594 </span></td>
-<td><span>48 </span></td>
-<td><span>421,357 </span></td>
-<td><span>129 </span></td>
-<td><span>7,485 </span></td>
-<td><span>2 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/united_states.svg" alt="United States heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/equatorial_guinea.svg" alt="Equatorial Guinea heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Peru </span></td>
-<td><span>433,100 </span></td>
-<td><span>1,354 </span></td>
-<td><span>19,811 </span></td>
-<td><span>62 </span></td>
-<td><span>39,133 </span></td>
-<td><span>122 </span></td>
-<td><span>1,196 </span></td>
-<td><span>4 </span></td>
+<td><span>United States </span> <a href="https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html" class="svelte-5vd9ek">MAP »</a></td>
+<td><span>4,778,628 </span></td>
+<td><span>1,461 </span></td>
+<td><span>157,302 </span></td>
+<td><span>48 </span></td>
+<td><span>411,605 </span></td>
+<td><span>126 </span></td>
+<td><span>7,522 </span></td>
+<td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/peru.svg" alt="Peru heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/united_states.svg" alt="United States heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Israel </span></td>
-<td><span>75,083 </span></td>
-<td><span>845 </span></td>
-<td><span>554 </span></td>
+<td><span>76,198 </span></td>
+<td><span>858 </span></td>
+<td><span>561 </span></td>
 <td><span>6 </span></td>
-<td><span>10,445 </span></td>
-<td><span>118 </span></td>
-<td><span>72 </span></td>
+<td><span>9,905 </span></td>
+<td><span>111 </span></td>
+<td><span>75 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/israel.svg" alt="Israel heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/israel.svg" alt="Israel heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>South Africa </span></td>
-<td><span>516,862 </span></td>
-<td><span>895 </span></td>
-<td><span>8,539 </span></td>
+<td><span>521,318 </span></td>
+<td><span>902 </span></td>
+<td><span>8,884 </span></td>
 <td><span>15 </span></td>
-<td><span>64,333 </span></td>
-<td><span>111 </span></td>
-<td><span>1,472 </span></td>
+<td><span>61,557 </span></td>
+<td><span>107 </span></td>
+<td><span>1,627 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/south_africa.svg" alt="South Africa heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/south_africa.svg" alt="South Africa heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1083,51 +1083,51 @@ database.
 
 Total cases Cases per capita
 
-<div class="per-capita tab-content svelte-1sqapi1">
+<div class="per-capita tab-content svelte-ckkuwb">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div class="chart-wrapper svelte-1sqapi1">
+<div class="chart-wrapper svelte-ckkuwb">
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRA.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BRA.svg)">
 
 </div>
 
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**Brazil** <span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
+**Brazil** <span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IND.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IND.svg)">
 
 </div>
 
@@ -1139,15 +1139,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PER.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PER.svg)">
 
 </div>
 
@@ -1159,15 +1159,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/COL.svg)">
 
 </div>
 
@@ -1179,15 +1179,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ESP.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ESP.svg)">
 
 </div>
 
@@ -1199,35 +1199,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DEU.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Germany**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ARG.svg)">
 
 </div>
 
@@ -1239,15 +1219,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FRA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/DEU.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Germany**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/FRA.svg)">
 
 </div>
 
@@ -1259,15 +1259,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRQ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IRQ.svg)">
 
 </div>
 
@@ -1279,15 +1279,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PHL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IDN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Indonesia**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PHL.svg)">
 
 </div>
 
@@ -1299,15 +1319,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UKR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/UKR.svg)">
 
 </div>
 
@@ -1319,15 +1339,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BEL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BEL.svg)">
 
 </div>
 
@@ -1339,15 +1359,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NLD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NLD.svg)">
 
 </div>
 
@@ -1359,15 +1379,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ROU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ROU.svg)">
 
 </div>
 
@@ -1379,15 +1399,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SGP.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SGP.svg)">
 
 </div>
 
@@ -1399,15 +1419,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/POL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/POL.svg)">
 
 </div>
 
@@ -1419,15 +1439,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JPN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/JPN.svg)">
 
 </div>
 
@@ -1439,35 +1459,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GHA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Ghana**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CHE.svg)">
 
 </div>
 
@@ -1479,35 +1479,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UZB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Uzbekistan**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MAR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MAR.svg)">
 
 </div>
 
@@ -1519,15 +1499,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/UZB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Uzbekistan**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MDA.svg)">
 
 </div>
 
@@ -1539,15 +1539,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KEN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KEN.svg)">
 
 </div>
 
@@ -1559,35 +1559,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NPL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nepal**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/VEN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/VEN.svg)">
 
 </div>
 
@@ -1599,15 +1579,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ETH.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NPL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Nepal**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ETH.svg)">
 
 </div>
 
@@ -1619,15 +1619,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AUS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AUS.svg)">
 
 </div>
 
@@ -1639,15 +1639,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SLV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SLV.svg)">
 
 </div>
 
@@ -1660,15 +1660,15 @@ Salvador**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CZE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CZE.svg)">
 
 </div>
 
@@ -1681,15 +1681,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DNK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/DNK.svg)">
 
 </div>
 
@@ -1701,15 +1701,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BIH.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BIH.svg)">
 
 </div>
 
@@ -1722,15 +1722,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NOR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NOR.svg)">
 
 </div>
 
@@ -1742,15 +1742,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KOS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KOS.svg)">
 
 </div>
 
@@ -1762,15 +1762,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZMB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ZMB.svg)">
 
 </div>
 
@@ -1782,35 +1782,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ALB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Albania**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PRY.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PRY.svg)">
 
 </div>
 
@@ -1822,15 +1802,35 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DJI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ALB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Albania**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/DJI.svg)">
 
 </div>
 
@@ -1842,15 +1842,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LBN.svg)">
 
 </div>
 
@@ -1862,15 +1862,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GRC.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GRC.svg)">
 
 </div>
 
@@ -1882,15 +1882,15 @@ Herzegovina**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GNQ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GNQ.svg)">
 
 </div>
 
@@ -1903,15 +1903,15 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MDV.svg)">
 
 </div>
 
@@ -1923,35 +1923,35 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZWE.svg)">
-
-</div>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MWI.svg)">
 
 </div>
 
 </div>
 
-**Zimbabwe**
+</div>
+
+**Malawi**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBY.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LBY.svg)">
 
 </div>
 
@@ -1963,15 +1963,35 @@ Guinea**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HKG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ZWE.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Zimbabwe**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/HKG.svg)">
 
 </div>
 
@@ -1984,35 +2004,15 @@ Kong**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SWZ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Eswatini**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CUB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CUB.svg)">
 
 </div>
 
@@ -2024,35 +2024,15 @@ Kong**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NAM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Namibia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SSD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SSD.svg)">
 
 </div>
 
@@ -2065,15 +2045,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SVK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SVK.svg)">
 
 </div>
 
@@ -2085,15 +2065,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LTU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LTU.svg)">
 
 </div>
 
@@ -2105,15 +2085,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/EST.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/EST.svg)">
 
 </div>
 
@@ -2125,35 +2105,35 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ISL.svg)">
-
-</div>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MOZ.svg)">
 
 </div>
 
 </div>
 
-**Iceland**
+</div>
+
+**Mozambique**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SUR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SUR.svg)">
 
 </div>
 
@@ -2165,15 +2145,35 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TUN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ISL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Iceland**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TUN.svg)">
 
 </div>
 
@@ -2185,35 +2185,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/URY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Uruguay**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AGO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AGO.svg)">
 
 </div>
 
@@ -2225,15 +2205,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LVA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LVA.svg)">
 
 </div>
 
@@ -2245,15 +2225,35 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/UGA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/JOR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Jordan**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/UGA.svg)">
 
 </div>
 
@@ -2265,15 +2265,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CYP.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CYP.svg)">
 
 </div>
 
@@ -2285,15 +2285,15 @@ Sudan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BFA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BFA.svg)">
 
 </div>
 
@@ -2306,15 +2306,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TGO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TGO.svg)">
 
 </div>
 
@@ -2326,15 +2326,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AND.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AND.svg)">
 
 </div>
 
@@ -2346,15 +2346,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JAM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/JAM.svg)">
 
 </div>
 
@@ -2366,35 +2366,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MLT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Malta**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SYR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SYR.svg)">
 
 </div>
 
@@ -2406,15 +2386,35 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LSO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MLT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Malta**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LSO.svg)">
 
 </div>
 
@@ -2426,15 +2426,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BHS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BHS.svg)">
 
 </div>
 
@@ -2446,15 +2446,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/VNM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/VNM.svg)">
 
 </div>
 
@@ -2466,15 +2466,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GMB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GMB.svg)">
 
 </div>
 
@@ -2486,15 +2486,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GUY.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GUY.svg)">
 
 </div>
 
@@ -2506,15 +2506,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/COM.svg)">
 
 </div>
 
@@ -2526,56 +2526,15 @@ Faso**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KHM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cambodia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FRO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Faroe
-Islands**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TTO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TTO.svg)">
 
 </div>
 
@@ -2588,15 +2547,15 @@ Tobago**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SXM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SXM.svg)">
 
 </div>
 
@@ -2609,15 +2568,35 @@ Maarten**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ABW.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Aruba**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BRB.svg)">
 
 </div>
 
@@ -2629,15 +2608,15 @@ Maarten**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TCA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TCA.svg)">
 
 </div>
 
@@ -2650,1701 +2629,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PNG.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Papua New
-Guinea**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BTN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Bhutan**
-
-</div>
-
-</div>
-
-<div class="show-all-container svelte-1sqapi1">
-
-\+ Show all + Show less
-
-</div>
-
-</div>
-
-<div class="absolute tab-content svelte-1sqapi1">
-
-Charts show daily cases and are individually scaled to the maximum for
-each
-country.
-
-<div class="chart-wrapper svelte-1sqapi1">
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRA.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
-
-</div>
-
-</div>
-
-</div>
-
-**Brazil** <span class="svelte-1jnkadc">2,750,318</span>
-<span class="svelte-1jnkadc">total cases</span>
-<span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IND.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**India**
-<span class="svelte-1jnkadc">1,855,745</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PER.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Peru**
-<span class="svelte-1jnkadc">433,100</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Colombia**
-<span class="svelte-1jnkadc">327,609</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ESP.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Spain**
-<span class="svelte-1jnkadc">302,814</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DEU.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Germany**
-<span class="svelte-1jnkadc">211,281</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARG.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Argentina**
-<span class="svelte-1jnkadc">206,743</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FRA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**France**
-<span class="svelte-1jnkadc">191,295</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRQ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Iraq**
-<span class="svelte-1jnkadc">134,722</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PHL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Philippines**
-<span class="svelte-1jnkadc">112,593</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UKR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Ukraine**
-<span class="svelte-1jnkadc">75,880</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BEL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Belgium**
-<span class="svelte-1jnkadc">70,314</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NLD.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Netherlands**
-<span class="svelte-1jnkadc">56,271</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ROU.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Romania**
-<span class="svelte-1jnkadc">55,241</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SGP.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Singapore**
-<span class="svelte-1jnkadc">53,346</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/POL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Poland**
-<span class="svelte-1jnkadc">48,149</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JPN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Japan**
-<span class="svelte-1jnkadc">40,554</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GHA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Ghana**
-<span class="svelte-1jnkadc">37,812</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHE.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Switzerland**
-<span class="svelte-1jnkadc">35,746</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UZB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Uzbekistan**
-<span class="svelte-1jnkadc">26,804</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MAR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Morocco**
-<span class="svelte-1jnkadc">26,196</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Moldova**
-<span class="svelte-1jnkadc">25,814</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kenya**
-<span class="svelte-1jnkadc">23,202</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NPL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nepal**
-<span class="svelte-1jnkadc">21,009</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/VEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Venezuela**
-<span class="svelte-1jnkadc">20,754</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ETH.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Ethiopia**
-<span class="svelte-1jnkadc">19,877</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AUS.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Australia**
-<span class="svelte-1jnkadc">18,730</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SLV.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**El Salvador**
-<span class="svelte-1jnkadc">17,843</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CZE.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Czech Republic**
-<span class="svelte-1jnkadc">17,114</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DNK.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Denmark**
-<span class="svelte-1jnkadc">14,314</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BIH.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Bosnia and Herzegovina**
-<span class="svelte-1jnkadc">12,856</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NOR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Norway**
-<span class="svelte-1jnkadc">9,348</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KOS.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kosovo**
-<span class="svelte-1jnkadc">9,049</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZMB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Zambia**
-<span class="svelte-1jnkadc">6,793</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ALB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Albania**
-<span class="svelte-1jnkadc">5,750</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PRY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Paraguay**
-<span class="svelte-1jnkadc">5,724</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DJI.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Djibouti**
-<span class="svelte-1jnkadc">5,248</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Lebanon**
-<span class="svelte-1jnkadc">5,062</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GRC.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Greece**
-<span class="svelte-1jnkadc">4,855</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GNQ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Equatorial Guinea**
-<span class="svelte-1jnkadc">4,821</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDV.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Maldives**
-<span class="svelte-1jnkadc">4,293</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZWE.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Zimbabwe**
-<span class="svelte-1jnkadc">4,075</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Libya**
-<span class="svelte-1jnkadc">4,063</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HKG.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Hong Kong**
-<span class="svelte-1jnkadc">3,669</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SWZ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Eswatini**
-<span class="svelte-1jnkadc">2,838</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CUB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cuba**
-<span class="svelte-1jnkadc">2,701</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NAM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Namibia**
-<span class="svelte-1jnkadc">2,470</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SSD.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South Sudan**
-<span class="svelte-1jnkadc">2,437</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SVK.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Slovakia**
-<span class="svelte-1jnkadc">2,368</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LTU.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Lithuania**
-<span class="svelte-1jnkadc">2,137</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/EST.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Estonia**
-<span class="svelte-1jnkadc">2,091</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ISL.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Iceland**
-<span class="svelte-1jnkadc">1,918</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SUR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Suriname**
-<span class="svelte-1jnkadc">1,893</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TUN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Tunisia**
-<span class="svelte-1jnkadc">1,565</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/URY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Uruguay**
-<span class="svelte-1jnkadc">1,291</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AGO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Angola**
-<span class="svelte-1jnkadc">1,280</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LVA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Latvia**
-<span class="svelte-1jnkadc">1,249</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/UGA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Uganda**
-<span class="svelte-1jnkadc">1,203</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CYP.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cyprus**
-<span class="svelte-1jnkadc">1,155</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BFA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Burkina Faso**
-<span class="svelte-1jnkadc">1,153</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TGO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Togo**
-<span class="svelte-1jnkadc">976</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AND.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Andorra**
-<span class="svelte-1jnkadc">939</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JAM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Jamaica**
-<span class="svelte-1jnkadc">905</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MLT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Malta**
-<span class="svelte-1jnkadc">890</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SYR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Syria**
-<span class="svelte-1jnkadc">847</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LSO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Lesotho**
-<span class="svelte-1jnkadc">718</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BHS.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Bahamas**
-<span class="svelte-1jnkadc">679</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/VNM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Vietnam**
-<span class="svelte-1jnkadc">670</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GMB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Gambia**
-<span class="svelte-1jnkadc">498</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GUY.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Guyana**
-<span class="svelte-1jnkadc">474</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Comoros**
-<span class="svelte-1jnkadc">386</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KHM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cambodia**
-<span class="svelte-1jnkadc">240</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FRO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Faroe Islands**
-<span class="svelte-1jnkadc">227</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TTO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Trinidad and Tobago**
-<span class="svelte-1jnkadc">192</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SXM.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Sint Maarten**
-<span class="svelte-1jnkadc">150</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Barbados**
-<span class="svelte-1jnkadc">132</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TCA.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Turks and Caicos Islands**
-<span class="svelte-1jnkadc">116</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PNG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PNG.svg)">
 
 </div>
 
@@ -4353,33 +2646,1656 @@ country.
 </div>
 
 **Papua New Guinea**
-<span class="svelte-1jnkadc">114</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BTN.svg)">
 
 </div>
 
 </div>
 
-</div>
+<div class="show-all-container svelte-ckkuwb">
 
-**Bhutan** <span class="svelte-1jnkadc">103</span>
-
-</div>
+\+ Show all + Show less
 
 </div>
 
-<div class="show-all-container svelte-1sqapi1">
+</div>
+
+<div class="absolute tab-content svelte-ckkuwb">
+
+Charts show daily cases and are individually scaled to the maximum for
+each
+country.
+
+<div class="chart-wrapper svelte-ckkuwb">
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BRA.svg)">
+
+</div>
+
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
+</div>
+
+</div>
+
+**Brazil** <span class="svelte-byc5ph">2,801,921</span>
+<span class="svelte-byc5ph">total cases</span>
+<span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IND.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**India**
+<span class="svelte-byc5ph">1,855,745</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PER.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Peru**
+<span class="svelte-byc5ph">433,100</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/COL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Colombia**
+<span class="svelte-byc5ph">327,850</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ESP.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Spain**
+<span class="svelte-byc5ph">302,814</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ARG.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Argentina**
+<span class="svelte-byc5ph">213,535</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/DEU.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Germany**
+<span class="svelte-byc5ph">212,022</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/FRA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**France**
+<span class="svelte-byc5ph">191,295</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IRQ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Iraq**
+<span class="svelte-byc5ph">134,722</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IDN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Indonesia**
+<span class="svelte-byc5ph">115,056</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PHL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Philippines**
+<span class="svelte-byc5ph">112,593</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/UKR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ukraine**
+<span class="svelte-byc5ph">75,880</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BEL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Belgium**
+<span class="svelte-byc5ph">70,648</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NLD.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Netherlands**
+<span class="svelte-byc5ph">56,279</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ROU.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Romania**
+<span class="svelte-byc5ph">55,241</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SGP.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Singapore**
+<span class="svelte-byc5ph">53,346</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/POL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Poland**
+<span class="svelte-byc5ph">48,149</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/JPN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Japan**
+<span class="svelte-byc5ph">41,825</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CHE.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Switzerland**
+<span class="svelte-byc5ph">35,746</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MAR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Morocco**
+<span class="svelte-byc5ph">27,217</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/UZB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Uzbekistan**
+<span class="svelte-byc5ph">27,047</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MDA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Moldova**
+<span class="svelte-byc5ph">25,814</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kenya**
+<span class="svelte-byc5ph">23,202</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/VEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Venezuela**
+<span class="svelte-byc5ph">21,438</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NPL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Nepal**
+<span class="svelte-byc5ph">21,009</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ETH.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ethiopia**
+<span class="svelte-byc5ph">19,877</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AUS.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Australia**
+<span class="svelte-byc5ph">19,444</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SLV.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**El Salvador**
+<span class="svelte-byc5ph">18,262</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CZE.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Czech Republic**
+<span class="svelte-byc5ph">17,286</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/DNK.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Denmark**
+<span class="svelte-byc5ph">14,314</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BIH.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Bosnia and Herzegovina**
+<span class="svelte-byc5ph">12,856</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NOR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Norway**
+<span class="svelte-byc5ph">9,362</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KOS.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kosovo**
+<span class="svelte-byc5ph">9,274</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ZMB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Zambia**
+<span class="svelte-byc5ph">6,793</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PRY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Paraguay**
+<span class="svelte-byc5ph">5,852</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ALB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Albania**
+<span class="svelte-byc5ph">5,750</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/DJI.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Djibouti**
+<span class="svelte-byc5ph">5,248</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LBN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Lebanon**
+<span class="svelte-byc5ph">5,062</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GRC.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Greece**
+<span class="svelte-byc5ph">4,855</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GNQ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Equatorial Guinea**
+<span class="svelte-byc5ph">4,821</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MDV.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Maldives**
+<span class="svelte-byc5ph">4,446</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MWI.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Malawi**
+<span class="svelte-byc5ph">4,361</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LBY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Libya**
+<span class="svelte-byc5ph">4,224</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ZWE.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Zimbabwe**
+<span class="svelte-byc5ph">4,221</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/HKG.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Hong Kong**
+<span class="svelte-byc5ph">3,669</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CUB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Cuba**
+<span class="svelte-byc5ph">2,701</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SSD.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**South Sudan**
+<span class="svelte-byc5ph">2,437</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SVK.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Slovakia**
+<span class="svelte-byc5ph">2,368</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LTU.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Lithuania**
+<span class="svelte-byc5ph">2,137</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/EST.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Estonia**
+<span class="svelte-byc5ph">2,091</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MOZ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Mozambique**
+<span class="svelte-byc5ph">2,029</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SUR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Suriname**
+<span class="svelte-byc5ph">1,981</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ISL.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Iceland**
+<span class="svelte-byc5ph">1,918</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TUN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Tunisia**
+<span class="svelte-byc5ph">1,584</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AGO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Angola**
+<span class="svelte-byc5ph">1,344</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LVA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Latvia**
+<span class="svelte-byc5ph">1,249</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/JOR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Jordan**
+<span class="svelte-byc5ph">1,224</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/UGA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Uganda**
+<span class="svelte-byc5ph">1,203</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CYP.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Cyprus**
+<span class="svelte-byc5ph">1,180</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BFA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Burkina Faso**
+<span class="svelte-byc5ph">1,153</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TGO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Togo**
+<span class="svelte-byc5ph">988</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AND.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Andorra**
+<span class="svelte-byc5ph">939</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/JAM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Jamaica**
+<span class="svelte-byc5ph">920</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SYR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Syria**
+<span class="svelte-byc5ph">892</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MLT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Malta**
+<span class="svelte-byc5ph">890</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LSO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Lesotho**
+<span class="svelte-byc5ph">726</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BHS.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Bahamas**
+<span class="svelte-byc5ph">715</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/VNM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Vietnam**
+<span class="svelte-byc5ph">672</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GMB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Gambia**
+<span class="svelte-byc5ph">671</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GUY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Guyana**
+<span class="svelte-byc5ph">497</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/COM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Comoros**
+<span class="svelte-byc5ph">388</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TTO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Trinidad and Tobago**
+<span class="svelte-byc5ph">194</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SXM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Sint Maarten**
+<span class="svelte-byc5ph">150</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ABW.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Aruba**
+<span class="svelte-byc5ph">132</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BRB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Barbados**
+<span class="svelte-byc5ph">132</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TCA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Turks and Caicos Islands**
+<span class="svelte-byc5ph">116</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PNG.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Papua New Guinea** <span class="svelte-byc5ph">114</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-ckkuwb">
 
 \+ Show all + Show less
 
@@ -4398,51 +4314,51 @@ days.
 
 Total cases Cases per capita
 
-<div class="per-capita tab-content svelte-1sqapi1">
+<div class="per-capita tab-content svelte-ckkuwb">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div class="chart-wrapper svelte-1sqapi1">
+<div class="chart-wrapper svelte-ckkuwb">
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/USA.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA.svg)">
 
 </div>
 
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**United States** <span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
+**United States** <span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/RUS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/RUS.svg)">
 
 </div>
 
@@ -4454,15 +4370,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MEX.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MEX.svg)">
 
 </div>
 
@@ -4474,15 +4390,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CHL.svg)">
 
 </div>
 
@@ -4494,15 +4410,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IRN.svg)">
 
 </div>
 
@@ -4514,15 +4430,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GBR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GBR.svg)">
 
 </div>
 
@@ -4534,15 +4450,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ITA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ITA.svg)">
 
 </div>
 
@@ -4554,15 +4470,15 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TUR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TUR.svg)">
 
 </div>
 
@@ -4574,15 +4490,35 @@ scale.
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IDN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CAN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Canada**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KAZ.svg)">
 
 </div>
 
@@ -4590,19 +4526,19 @@ scale.
 
 </div>
 
-**Indonesia**
+**Kazakhstan**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CHN.svg)">
 
 </div>
 
@@ -4615,15 +4551,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ECU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ECU.svg)">
 
 </div>
 
@@ -4635,15 +4571,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BOL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BOL.svg)">
 
 </div>
 
@@ -4655,35 +4591,15 @@ China**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ISR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Israel**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DOM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/DOM.svg)">
 
 </div>
 
@@ -4696,35 +4612,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KWT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kuwait**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PAN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PAN.svg)">
 
 </div>
 
@@ -4736,15 +4632,35 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KWT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kuwait**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ARE.svg)">
 
 </div>
 
@@ -4756,15 +4672,35 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AFG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GHA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ghana**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AFG.svg)">
 
 </div>
 
@@ -4776,15 +4712,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/DZA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/DZA.svg)">
 
 </div>
 
@@ -4796,35 +4732,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SRB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Serbia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IRL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IRL.svg)">
 
 </div>
 
@@ -4836,15 +4752,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AUT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AUT.svg)">
 
 </div>
 
@@ -4856,15 +4772,15 @@ Rep.**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CRI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CRI.svg)">
 
 </div>
 
@@ -4877,35 +4793,15 @@ Rica**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CMR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cameroon**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KOR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KOR.svg)">
 
 </div>
 
@@ -4918,15 +4814,15 @@ Korea**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BGR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BGR.svg)">
 
 </div>
 
@@ -4938,56 +4834,15 @@ Korea**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MDG.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Madagascar**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MKD.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**North
-Macedonia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MYS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MYS.svg)">
 
 </div>
 
@@ -4999,15 +4854,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GAB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GAB.svg)">
 
 </div>
 
@@ -5019,15 +4874,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TJK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TJK.svg)">
 
 </div>
 
@@ -5039,15 +4894,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/FIN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/FIN.svg)">
 
 </div>
 
@@ -5059,15 +4914,15 @@ Macedonia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CAF.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CAF.svg)">
 
 </div>
 
@@ -5080,15 +4935,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HUN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/HUN.svg)">
 
 </div>
 
@@ -5100,35 +4955,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MWI.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Malawi**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/THA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/THA.svg)">
 
 </div>
 
@@ -5140,15 +4975,15 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SOM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SOM.svg)">
 
 </div>
 
@@ -5160,15 +4995,35 @@ Republic**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LKA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SWZ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Eswatini**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LKA.svg)">
 
 </div>
 
@@ -5181,15 +5036,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MLI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MLI.svg)">
 
 </div>
 
@@ -5201,35 +5056,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SVN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Slovenia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MOZ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NAM.svg)">
 
 </div>
 
@@ -5237,19 +5072,19 @@ Lanka**
 
 </div>
 
-**Mozambique**
+**Namibia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GNB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GNB.svg)">
 
 </div>
 
@@ -5261,15 +5096,15 @@ Lanka**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SLE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SLE.svg)">
 
 </div>
 
@@ -5282,35 +5117,15 @@ Leone**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Benin**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NZL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NZL.svg)">
 
 </div>
 
@@ -5323,55 +5138,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/JOR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Jordan**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GEO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Georgia**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NER.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NER.svg)">
 
 </div>
 
@@ -5383,15 +5158,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TCD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TCD.svg)">
 
 </div>
 
@@ -5403,15 +5178,15 @@ Zealand**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/STP.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/STP.svg)">
 
 </div>
 
@@ -5424,15 +5199,15 @@ Príncipe**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SMR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SMR.svg)">
 
 </div>
 
@@ -5445,15 +5220,15 @@ Marino**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CHI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CHI.svg)">
 
 </div>
 
@@ -5466,15 +5241,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TZA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TZA.svg)">
 
 </div>
 
@@ -5486,15 +5261,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/TWN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/TWN.svg)">
 
 </div>
 
@@ -5506,15 +5281,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MMR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MMR.svg)">
 
 </div>
 
@@ -5526,15 +5301,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MUS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MUS.svg)">
 
 </div>
 
@@ -5546,15 +5321,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/IMN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/IMN.svg)">
 
 </div>
 
@@ -5567,15 +5342,15 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MNG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MNG.svg)">
 
 </div>
 
@@ -5587,15 +5362,15 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ERI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ERI.svg)">
 
 </div>
 
@@ -5607,15 +5382,36 @@ Man**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CYM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/FRO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Faroe
+Islands**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CYM.svg)">
 
 </div>
 
@@ -5628,15 +5424,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GIB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GIB.svg)">
 
 </div>
 
@@ -5648,15 +5444,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BMU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BMU.svg)">
 
 </div>
 
@@ -5668,15 +5464,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BRN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BRN.svg)">
 
 </div>
 
@@ -5688,35 +5484,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ABW.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Aruba**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MCO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MCO.svg)">
 
 </div>
 
@@ -5728,15 +5504,15 @@ Islands**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SYC.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SYC.svg)">
 
 </div>
 
@@ -5748,9 +5524,29 @@ Islands**
 
 </div>
 
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BTN.svg)">
+
 </div>
 
-<div class="show-all-container svelte-1sqapi1">
+</div>
+
+</div>
+
+**Bhutan**
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-ckkuwb">
 
 \+ Show all + Show less
 
@@ -5758,54 +5554,54 @@ Islands**
 
 </div>
 
-<div class="absolute tab-content svelte-1sqapi1">
+<div class="absolute tab-content svelte-ckkuwb">
 
 Charts show daily cases and are individually scaled to the maximum for
 each
 country.
 
-<div class="chart-wrapper svelte-1sqapi1">
+<div class="chart-wrapper svelte-ckkuwb">
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/USA.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA.svg)">
 
 </div>
 
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**United States** <span class="svelte-1jnkadc">4,750,578</span>
-<span class="svelte-1jnkadc">total cases</span>
-<span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
+**United States** <span class="svelte-byc5ph">4,778,628</span>
+<span class="svelte-byc5ph">total cases</span>
+<span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/RUS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/RUS.svg)">
 
 </div>
 
@@ -5814,19 +5610,19 @@ country.
 </div>
 
 **Russia**
-<span class="svelte-1jnkadc">859,762</span>
+<span class="svelte-byc5ph">859,762</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MEX.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MEX.svg)">
 
 </div>
 
@@ -5835,19 +5631,19 @@ country.
 </div>
 
 **Mexico**
-<span class="svelte-1jnkadc">443,813</span>
+<span class="svelte-byc5ph">449,961</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CHL.svg)">
 
 </div>
 
@@ -5856,19 +5652,19 @@ country.
 </div>
 
 **Chile**
-<span class="svelte-1jnkadc">362,962</span>
+<span class="svelte-byc5ph">362,962</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IRN.svg)">
 
 </div>
 
@@ -5877,19 +5673,19 @@ country.
 </div>
 
 **Iran**
-<span class="svelte-1jnkadc">314,786</span>
+<span class="svelte-byc5ph">314,786</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GBR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GBR.svg)">
 
 </div>
 
@@ -5898,19 +5694,19 @@ country.
 </div>
 
 **U.K.**
-<span class="svelte-1jnkadc">305,623</span>
+<span class="svelte-byc5ph">305,623</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ITA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ITA.svg)">
 
 </div>
 
@@ -5919,19 +5715,19 @@ country.
 </div>
 
 **Italy**
-<span class="svelte-1jnkadc">248,419</span>
+<span class="svelte-byc5ph">248,419</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TUR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TUR.svg)">
 
 </div>
 
@@ -5940,19 +5736,40 @@ country.
 </div>
 
 **Turkey**
-<span class="svelte-1jnkadc">233,851</span>
+<span class="svelte-byc5ph">234,934</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IDN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CAN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Canada**
+<span class="svelte-byc5ph">117,792</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KAZ.svg)">
 
 </div>
 
@@ -5960,20 +5777,20 @@ country.
 
 </div>
 
-**Indonesia**
-<span class="svelte-1jnkadc">115,056</span>
+**Kazakhstan**
+<span class="svelte-byc5ph">93,820</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CHN.svg)">
 
 </div>
 
@@ -5982,19 +5799,19 @@ country.
 </div>
 
 **Mainland China**
-<span class="svelte-1jnkadc">91,585</span>
+<span class="svelte-byc5ph">91,636</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ECU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ECU.svg)">
 
 </div>
 
@@ -6003,19 +5820,19 @@ country.
 </div>
 
 **Ecuador**
-<span class="svelte-1jnkadc">87,041</span>
+<span class="svelte-byc5ph">87,963</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BOL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BOL.svg)">
 
 </div>
 
@@ -6024,40 +5841,19 @@ country.
 </div>
 
 **Bolivia**
-<span class="svelte-1jnkadc">81,846</span>
+<span class="svelte-byc5ph">83,361</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ISR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Israel**
-<span class="svelte-1jnkadc">75,083</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DOM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/DOM.svg)">
 
 </div>
 
@@ -6066,40 +5862,19 @@ country.
 </div>
 
 **Dominican Rep.**
-<span class="svelte-1jnkadc">74,295</span>
+<span class="svelte-byc5ph">74,295</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KWT.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kuwait**
-<span class="svelte-1jnkadc">68,774</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PAN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PAN.svg)">
 
 </div>
 
@@ -6108,19 +5883,40 @@ country.
 </div>
 
 **Panama**
-<span class="svelte-1jnkadc">68,456</span>
+<span class="svelte-byc5ph">69,424</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KWT.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kuwait**
+<span class="svelte-byc5ph">68,774</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ARE.svg)">
 
 </div>
 
@@ -6129,19 +5925,40 @@ country.
 </div>
 
 **U.A.E.**
-<span class="svelte-1jnkadc">61,352</span>
+<span class="svelte-byc5ph">61,352</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AFG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GHA.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ghana**
+<span class="svelte-byc5ph">37,812</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AFG.svg)">
 
 </div>
 
@@ -6150,19 +5967,19 @@ country.
 </div>
 
 **Afghanistan**
-<span class="svelte-1jnkadc">36,747</span>
+<span class="svelte-byc5ph">36,782</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/DZA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/DZA.svg)">
 
 </div>
 
@@ -6171,40 +5988,19 @@ country.
 </div>
 
 **Algeria**
-<span class="svelte-1jnkadc">31,972</span>
+<span class="svelte-byc5ph">32,504</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SRB.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Serbia**
-<span class="svelte-1jnkadc">26,738</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IRL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IRL.svg)">
 
 </div>
 
@@ -6213,19 +6009,19 @@ country.
 </div>
 
 **Ireland**
-<span class="svelte-1jnkadc">26,208</span>
+<span class="svelte-byc5ph">26,253</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AUT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AUT.svg)">
 
 </div>
 
@@ -6234,19 +6030,19 @@ country.
 </div>
 
 **Austria**
-<span class="svelte-1jnkadc">21,481</span>
+<span class="svelte-byc5ph">21,481</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CRI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CRI.svg)">
 
 </div>
 
@@ -6255,40 +6051,19 @@ country.
 </div>
 
 **Costa Rica**
-<span class="svelte-1jnkadc">19,402</span>
+<span class="svelte-byc5ph">19,837</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CMR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Cameroon**
-<span class="svelte-1jnkadc">17,255</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KOR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KOR.svg)">
 
 </div>
 
@@ -6297,19 +6072,19 @@ country.
 </div>
 
 **South Korea**
-<span class="svelte-1jnkadc">14,423</span>
+<span class="svelte-byc5ph">14,456</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BGR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BGR.svg)">
 
 </div>
 
@@ -6318,61 +6093,19 @@ country.
 </div>
 
 **Bulgaria**
-<span class="svelte-1jnkadc">12,159</span>
+<span class="svelte-byc5ph">12,414</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MDG.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Madagascar**
-<span class="svelte-1jnkadc">11,895</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MKD.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**North Macedonia**
-<span class="svelte-1jnkadc">11,202</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MYS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MYS.svg)">
 
 </div>
 
@@ -6381,19 +6114,19 @@ country.
 </div>
 
 **Malaysia**
-<span class="svelte-1jnkadc">9,002</span>
+<span class="svelte-byc5ph">9,002</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GAB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GAB.svg)">
 
 </div>
 
@@ -6402,19 +6135,19 @@ country.
 </div>
 
 **Gabon**
-<span class="svelte-1jnkadc">7,646</span>
+<span class="svelte-byc5ph">7,646</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TJK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TJK.svg)">
 
 </div>
 
@@ -6423,19 +6156,19 @@ country.
 </div>
 
 **Tajikistan**
-<span class="svelte-1jnkadc">7,583</span>
+<span class="svelte-byc5ph">7,583</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/FIN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/FIN.svg)">
 
 </div>
 
@@ -6444,19 +6177,19 @@ country.
 </div>
 
 **Finland**
-<span class="svelte-1jnkadc">7,483</span>
+<span class="svelte-byc5ph">7,483</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CAF.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CAF.svg)">
 
 </div>
 
@@ -6465,19 +6198,19 @@ country.
 </div>
 
 **Central African Republic**
-<span class="svelte-1jnkadc">4,614</span>
+<span class="svelte-byc5ph">4,618</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HUN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/HUN.svg)">
 
 </div>
 
@@ -6486,40 +6219,19 @@ country.
 </div>
 
 **Hungary**
-<span class="svelte-1jnkadc">4,553</span>
+<span class="svelte-byc5ph">4,553</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MWI.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Malawi**
-<span class="svelte-1jnkadc">4,272</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/THA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/THA.svg)">
 
 </div>
 
@@ -6528,19 +6240,19 @@ country.
 </div>
 
 **Thailand**
-<span class="svelte-1jnkadc">3,321</span>
+<span class="svelte-byc5ph">3,321</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SOM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SOM.svg)">
 
 </div>
 
@@ -6549,19 +6261,40 @@ country.
 </div>
 
 **Somalia**
-<span class="svelte-1jnkadc">3,220</span>
+<span class="svelte-byc5ph">3,220</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LKA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SWZ.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Eswatini**
+<span class="svelte-byc5ph">2,856</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LKA.svg)">
 
 </div>
 
@@ -6570,19 +6303,19 @@ country.
 </div>
 
 **Sri Lanka**
-<span class="svelte-1jnkadc">2,834</span>
+<span class="svelte-byc5ph">2,834</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MLI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MLI.svg)">
 
 </div>
 
@@ -6591,40 +6324,19 @@ country.
 </div>
 
 **Mali**
-<span class="svelte-1jnkadc">2,543</span>
+<span class="svelte-byc5ph">2,543</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SVN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Slovenia**
-<span class="svelte-1jnkadc">2,190</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MOZ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NAM.svg)">
 
 </div>
 
@@ -6632,20 +6344,20 @@ country.
 
 </div>
 
-**Mozambique**
-<span class="svelte-1jnkadc">2,029</span>
+**Namibia**
+<span class="svelte-byc5ph">2,470</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GNB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GNB.svg)">
 
 </div>
 
@@ -6654,19 +6366,19 @@ country.
 </div>
 
 **Guinea-Bissau**
-<span class="svelte-1jnkadc">1,981</span>
+<span class="svelte-byc5ph">1,981</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SLE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SLE.svg)">
 
 </div>
 
@@ -6675,40 +6387,19 @@ country.
 </div>
 
 **Sierra Leone**
-<span class="svelte-1jnkadc">1,848</span>
+<span class="svelte-byc5ph">1,855</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BEN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Benin**
-<span class="svelte-1jnkadc">1,805</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NZL.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NZL.svg)">
 
 </div>
 
@@ -6717,61 +6408,19 @@ country.
 </div>
 
 **New Zealand**
-<span class="svelte-1jnkadc">1,567</span>
+<span class="svelte-byc5ph">1,569</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/JOR.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Jordan**
-<span class="svelte-1jnkadc">1,218</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GEO.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Georgia**
-<span class="svelte-1jnkadc">1,182</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NER.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NER.svg)">
 
 </div>
 
@@ -6780,19 +6429,19 @@ country.
 </div>
 
 **Niger**
-<span class="svelte-1jnkadc">1,152</span>
+<span class="svelte-byc5ph">1,152</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TCD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TCD.svg)">
 
 </div>
 
@@ -6801,19 +6450,19 @@ country.
 </div>
 
 **Chad**
-<span class="svelte-1jnkadc">936</span>
+<span class="svelte-byc5ph">938</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/STP.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/STP.svg)">
 
 </div>
 
@@ -6822,19 +6471,19 @@ country.
 </div>
 
 **São Tomé and Príncipe**
-<span class="svelte-1jnkadc">874</span>
+<span class="svelte-byc5ph">875</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SMR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SMR.svg)">
 
 </div>
 
@@ -6843,19 +6492,19 @@ country.
 </div>
 
 **San Marino**
-<span class="svelte-1jnkadc">699</span>
+<span class="svelte-byc5ph">699</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CHI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CHI.svg)">
 
 </div>
 
@@ -6864,19 +6513,19 @@ country.
 </div>
 
 **Channel Islands**
-<span class="svelte-1jnkadc">591</span>
+<span class="svelte-byc5ph">595</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TZA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TZA.svg)">
 
 </div>
 
@@ -6885,19 +6534,19 @@ country.
 </div>
 
 **Tanzania**
-<span class="svelte-1jnkadc">509</span>
+<span class="svelte-byc5ph">509</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/TWN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/TWN.svg)">
 
 </div>
 
@@ -6906,19 +6555,19 @@ country.
 </div>
 
 **Taiwan**
-<span class="svelte-1jnkadc">474</span>
+<span class="svelte-byc5ph">476</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MMR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MMR.svg)">
 
 </div>
 
@@ -6927,19 +6576,19 @@ country.
 </div>
 
 **Myanmar**
-<span class="svelte-1jnkadc">355</span>
+<span class="svelte-byc5ph">355</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MUS.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MUS.svg)">
 
 </div>
 
@@ -6948,19 +6597,19 @@ country.
 </div>
 
 **Mauritius**
-<span class="svelte-1jnkadc">344</span>
+<span class="svelte-byc5ph">344</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/IMN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/IMN.svg)">
 
 </div>
 
@@ -6969,19 +6618,19 @@ country.
 </div>
 
 **Isle of Man**
-<span class="svelte-1jnkadc">336</span>
+<span class="svelte-byc5ph">336</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MNG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MNG.svg)">
 
 </div>
 
@@ -6990,19 +6639,19 @@ country.
 </div>
 
 **Mongolia**
-<span class="svelte-1jnkadc">293</span>
+<span class="svelte-byc5ph">293</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ERI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ERI.svg)">
 
 </div>
 
@@ -7011,19 +6660,40 @@ country.
 </div>
 
 **Eritrea**
-<span class="svelte-1jnkadc">282</span>
+<span class="svelte-byc5ph">282</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CYM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/FRO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Faroe Islands**
+<span class="svelte-byc5ph">227</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CYM.svg)">
 
 </div>
 
@@ -7032,19 +6702,19 @@ country.
 </div>
 
 **Cayman Islands**
-<span class="svelte-1jnkadc">203</span>
+<span class="svelte-byc5ph">203</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GIB.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GIB.svg)">
 
 </div>
 
@@ -7053,19 +6723,19 @@ country.
 </div>
 
 **Gibraltar**
-<span class="svelte-1jnkadc">189</span>
+<span class="svelte-byc5ph">189</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BMU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BMU.svg)">
 
 </div>
 
@@ -7074,19 +6744,19 @@ country.
 </div>
 
 **Bermuda**
-<span class="svelte-1jnkadc">157</span>
+<span class="svelte-byc5ph">157</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BRN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BRN.svg)">
 
 </div>
 
@@ -7095,40 +6765,19 @@ country.
 </div>
 
 **Brunei**
-<span class="svelte-1jnkadc">141</span>
+<span class="svelte-byc5ph">141</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ABW.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Aruba**
-<span class="svelte-1jnkadc">124</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MCO.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MCO.svg)">
 
 </div>
 
@@ -7137,33 +6786,54 @@ country.
 </div>
 
 **Monaco**
-<span class="svelte-1jnkadc">121</span>
+<span class="svelte-byc5ph">123</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SYC.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Seychelles** <span class="svelte-1jnkadc">114</span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SYC.svg)">
 
 </div>
 
 </div>
 
-<div class="show-all-container svelte-1sqapi1">
+</div>
+
+**Seychelles**
+<span class="svelte-byc5ph">114</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BTN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Bhutan** <span class="svelte-byc5ph">103</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-ckkuwb">
 
 \+ Show all + Show less
 
@@ -7179,51 +6849,51 @@ country.
 
 Total cases Cases per capita
 
-<div class="per-capita tab-content svelte-1sqapi1">
+<div class="per-capita tab-content svelte-ckkuwb">
 
 Charts show daily cases per capita and are on the same
 scale.
 
-<div class="chart-wrapper svelte-1sqapi1">
+<div class="chart-wrapper svelte-ckkuwb">
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ZAF.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ZAF.svg)">
 
 </div>
 
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**South Africa** <span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
+**South Africa** <span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SAU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SAU.svg)">
 
 </div>
 
@@ -7236,15 +6906,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PAK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PAK.svg)">
 
 </div>
 
@@ -7256,15 +6926,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BGD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BGD.svg)">
 
 </div>
 
@@ -7276,35 +6946,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CAN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Canada**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/QAT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/QAT.svg)">
 
 </div>
 
@@ -7316,15 +6966,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/EGY.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/EGY.svg)">
 
 </div>
 
@@ -7336,35 +6986,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KAZ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kazakhstan**
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SWE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SWE.svg)">
 
 </div>
 
@@ -7376,15 +7006,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/OMN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/OMN.svg)">
 
 </div>
 
@@ -7396,15 +7026,35 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BLR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ISR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Israel**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BLR.svg)">
 
 </div>
 
@@ -7416,15 +7066,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GTM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GTM.svg)">
 
 </div>
 
@@ -7436,15 +7086,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PRT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PRT.svg)">
 
 </div>
 
@@ -7456,15 +7106,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NGA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NGA.svg)">
 
 </div>
 
@@ -7476,15 +7126,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HND.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/HND.svg)">
 
 </div>
 
@@ -7496,15 +7146,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BHR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BHR.svg)">
 
 </div>
 
@@ -7516,15 +7166,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/ARM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/ARM.svg)">
 
 </div>
 
@@ -7536,15 +7186,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/KGZ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KGZ.svg)">
 
 </div>
 
@@ -7556,15 +7206,15 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/AZE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/AZE.svg)">
 
 </div>
 
@@ -7576,15 +7226,55 @@ Arabia**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CIV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SRB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Serbia**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CMR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Cameroon**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CIV.svg)">
 
 </div>
 
@@ -7597,15 +7287,15 @@ Coast**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/PSE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/PSE.svg)">
 
 </div>
 
@@ -7618,15 +7308,35 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SDN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MDG.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Madagascar**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SDN.svg)">
 
 </div>
 
@@ -7638,15 +7348,36 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/SEN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MKD.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North
+Macedonia**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SEN.svg)">
 
 </div>
 
@@ -7658,15 +7389,15 @@ Gaza**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/COD.svg)">
 
 </div>
 
@@ -7679,15 +7410,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HTI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/HTI.svg)">
 
 </div>
 
@@ -7699,15 +7430,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/GIN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GIN.svg)">
 
 </div>
 
@@ -7719,15 +7450,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LUX.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LUX.svg)">
 
 </div>
 
@@ -7739,15 +7470,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MRT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MRT.svg)">
 
 </div>
 
@@ -7759,15 +7490,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/HRV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/HRV.svg)">
 
 </div>
 
@@ -7779,15 +7510,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/NIC.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/NIC.svg)">
 
 </div>
 
@@ -7799,15 +7530,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/COG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/COG.svg)">
 
 </div>
 
@@ -7820,15 +7551,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/MNE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/MNE.svg)">
 
 </div>
 
@@ -7840,15 +7571,15 @@ Congo**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/CPV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/CPV.svg)">
 
 </div>
 
@@ -7861,15 +7592,35 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/RWA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/SVN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Slovenia**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/RWA.svg)">
 
 </div>
 
@@ -7881,15 +7632,35 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/YEM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Benin**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/YEM.svg)">
 
 </div>
 
@@ -7901,15 +7672,35 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/LBR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/URY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Uruguay**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/LBR.svg)">
 
 </div>
 
@@ -7921,15 +7712,35 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BWA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/GEO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Georgia**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BWA.svg)">
 
 </div>
 
@@ -7941,15 +7752,15 @@ Verde**
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/per-capita/BDI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/BDI.svg)">
 
 </div>
 
@@ -7961,9 +7772,29 @@ Verde**
 
 </div>
 
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/KHM.svg)">
+
 </div>
 
-<div class="show-all-container svelte-1sqapi1">
+</div>
+
+</div>
+
+**Cambodia**
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-ckkuwb">
 
 \+ Show all + Show less
 
@@ -7971,54 +7802,54 @@ Verde**
 
 </div>
 
-<div class="absolute tab-content svelte-1sqapi1">
+<div class="absolute tab-content svelte-ckkuwb">
 
 Charts show daily cases and are individually scaled to the maximum for
 each
 country.
 
-<div class="chart-wrapper svelte-1sqapi1">
+<div class="chart-wrapper svelte-ckkuwb">
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ZAF.svg)">
-
-</div>
-
-<div class="point svelte-1jnkadc" style="left: 15.384615384615383%; top: 97%">
-
-<span class="annotation svelte-1jnkadc">7-day average</span>
-<span class="line svelte-1jnkadc"></span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ZAF.svg)">
 
 </div>
 
+<div class="point svelte-byc5ph" style="left: 15.306122448979592%; top: 97%">
+
+<span class="annotation svelte-byc5ph">7-day average</span>
+<span class="line svelte-byc5ph"></span>
+
+</div>
+
 </div>
 
 </div>
 
-**South Africa** <span class="svelte-1jnkadc">516,862</span>
-<span class="svelte-1jnkadc">total cases</span>
-<span class="first svelte-1jnkadc">Jan. 22</span>
-<span class="last svelte-1jnkadc">Aug.
-3</span>
+**South Africa** <span class="svelte-byc5ph">521,318</span>
+<span class="svelte-byc5ph">total cases</span>
+<span class="first svelte-byc5ph">Jan. 22</span>
+<span class="last svelte-byc5ph">Aug.
+4</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SAU.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SAU.svg)">
 
 </div>
 
@@ -8027,19 +7858,19 @@ country.
 </div>
 
 **Saudi Arabia**
-<span class="svelte-1jnkadc">281,456</span>
+<span class="svelte-byc5ph">281,456</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PAK.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PAK.svg)">
 
 </div>
 
@@ -8048,19 +7879,19 @@ country.
 </div>
 
 **Pakistan**
-<span class="svelte-1jnkadc">280,461</span>
+<span class="svelte-byc5ph">280,461</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BGD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BGD.svg)">
 
 </div>
 
@@ -8069,40 +7900,19 @@ country.
 </div>
 
 **Bangladesh**
-<span class="svelte-1jnkadc">244,020</span>
+<span class="svelte-byc5ph">244,020</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CAN.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Canada**
-<span class="svelte-1jnkadc">117,031</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/QAT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/QAT.svg)">
 
 </div>
 
@@ -8111,19 +7921,19 @@ country.
 </div>
 
 **Qatar**
-<span class="svelte-1jnkadc">111,538</span>
+<span class="svelte-byc5ph">111,538</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/EGY.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/EGY.svg)">
 
 </div>
 
@@ -8132,40 +7942,19 @@ country.
 </div>
 
 **Egypt**
-<span class="svelte-1jnkadc">94,640</span>
+<span class="svelte-byc5ph">94,752</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KAZ.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kazakhstan**
-<span class="svelte-1jnkadc">93,820</span>
-
-</div>
-
-<div class="chart-outer svelte-1sqapi1">
-
-<span class="chart-container svelte-1jnkadc"></span>
-
-<div class="chart svelte-1jnkadc">
-
-<div class="chart-inner svelte-1jnkadc">
-
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SWE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SWE.svg)">
 
 </div>
 
@@ -8174,19 +7963,19 @@ country.
 </div>
 
 **Sweden**
-<span class="svelte-1jnkadc">81,181</span>
+<span class="svelte-byc5ph">81,181</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/OMN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/OMN.svg)">
 
 </div>
 
@@ -8195,19 +7984,40 @@ country.
 </div>
 
 **Oman**
-<span class="svelte-1jnkadc">79,159</span>
+<span class="svelte-byc5ph">79,159</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BLR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ISR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Israel**
+<span class="svelte-byc5ph">76,198</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BLR.svg)">
 
 </div>
 
@@ -8216,19 +8026,19 @@ country.
 </div>
 
 **Belarus**
-<span class="svelte-1jnkadc">68,250</span>
+<span class="svelte-byc5ph">68,250</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GTM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GTM.svg)">
 
 </div>
 
@@ -8237,19 +8047,19 @@ country.
 </div>
 
 **Guatemala**
-<span class="svelte-1jnkadc">52,365</span>
+<span class="svelte-byc5ph">52,365</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PRT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PRT.svg)">
 
 </div>
 
@@ -8258,19 +8068,19 @@ country.
 </div>
 
 **Portugal**
-<span class="svelte-1jnkadc">51,681</span>
+<span class="svelte-byc5ph">51,681</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NGA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NGA.svg)">
 
 </div>
 
@@ -8279,19 +8089,19 @@ country.
 </div>
 
 **Nigeria**
-<span class="svelte-1jnkadc">44,129</span>
+<span class="svelte-byc5ph">44,433</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HND.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/HND.svg)">
 
 </div>
 
@@ -8300,19 +8110,19 @@ country.
 </div>
 
 **Honduras**
-<span class="svelte-1jnkadc">43,794</span>
+<span class="svelte-byc5ph">43,794</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BHR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BHR.svg)">
 
 </div>
 
@@ -8321,19 +8131,19 @@ country.
 </div>
 
 **Bahrain**
-<span class="svelte-1jnkadc">41,835</span>
+<span class="svelte-byc5ph">42,132</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/ARM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/ARM.svg)">
 
 </div>
 
@@ -8342,19 +8152,19 @@ country.
 </div>
 
 **Armenia**
-<span class="svelte-1jnkadc">39,298</span>
+<span class="svelte-byc5ph">39,298</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/KGZ.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KGZ.svg)">
 
 </div>
 
@@ -8363,19 +8173,19 @@ country.
 </div>
 
 **Kyrgyzstan**
-<span class="svelte-1jnkadc">37,541</span>
+<span class="svelte-byc5ph">37,541</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/AZE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/AZE.svg)">
 
 </div>
 
@@ -8384,19 +8194,61 @@ country.
 </div>
 
 **Azerbaijan**
-<span class="svelte-1jnkadc">32,910</span>
+<span class="svelte-byc5ph">32,910</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CIV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SRB.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Serbia**
+<span class="svelte-byc5ph">26,738</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CMR.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Cameroon**
+<span class="svelte-byc5ph">17,718</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CIV.svg)">
 
 </div>
 
@@ -8405,19 +8257,19 @@ country.
 </div>
 
 **Ivory Coast**
-<span class="svelte-1jnkadc">16,220</span>
+<span class="svelte-byc5ph">16,293</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/PSE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/PSE.svg)">
 
 </div>
 
@@ -8426,19 +8278,40 @@ country.
 </div>
 
 **West Bank & Gaza**
-<span class="svelte-1jnkadc">12,770</span>
+<span class="svelte-byc5ph">12,770</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SDN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MDG.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Madagascar**
+<span class="svelte-byc5ph">11,895</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SDN.svg)">
 
 </div>
 
@@ -8447,19 +8320,40 @@ country.
 </div>
 
 **Sudan**
-<span class="svelte-1jnkadc">11,780</span>
+<span class="svelte-byc5ph">11,780</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/SEN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MKD.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North Macedonia**
+<span class="svelte-byc5ph">11,202</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SEN.svg)">
 
 </div>
 
@@ -8468,19 +8362,19 @@ country.
 </div>
 
 **Senegal**
-<span class="svelte-1jnkadc">10,432</span>
+<span class="svelte-byc5ph">10,432</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COD.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/COD.svg)">
 
 </div>
 
@@ -8489,19 +8383,19 @@ country.
 </div>
 
 **Democratic Republic of Congo**
-<span class="svelte-1jnkadc">9,178</span>
+<span class="svelte-byc5ph">9,178</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HTI.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/HTI.svg)">
 
 </div>
 
@@ -8510,19 +8404,19 @@ country.
 </div>
 
 **Haiti**
-<span class="svelte-1jnkadc">7,511</span>
+<span class="svelte-byc5ph">7,511</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/GIN.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GIN.svg)">
 
 </div>
 
@@ -8531,19 +8425,19 @@ country.
 </div>
 
 **Guinea**
-<span class="svelte-1jnkadc">7,364</span>
+<span class="svelte-byc5ph">7,489</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LUX.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LUX.svg)">
 
 </div>
 
@@ -8552,19 +8446,19 @@ country.
 </div>
 
 **Luxembourg**
-<span class="svelte-1jnkadc">6,864</span>
+<span class="svelte-byc5ph">6,917</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MRT.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MRT.svg)">
 
 </div>
 
@@ -8573,19 +8467,19 @@ country.
 </div>
 
 **Mauritania**
-<span class="svelte-1jnkadc">6,382</span>
+<span class="svelte-byc5ph">6,418</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/HRV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/HRV.svg)">
 
 </div>
 
@@ -8594,19 +8488,19 @@ country.
 </div>
 
 **Croatia**
-<span class="svelte-1jnkadc">5,318</span>
+<span class="svelte-byc5ph">5,318</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/NIC.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/NIC.svg)">
 
 </div>
 
@@ -8615,19 +8509,19 @@ country.
 </div>
 
 **Nicaragua**
-<span class="svelte-1jnkadc">3,672</span>
+<span class="svelte-byc5ph">3,902</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/COG.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/COG.svg)">
 
 </div>
 
@@ -8636,19 +8530,19 @@ country.
 </div>
 
 **Republic of Congo**
-<span class="svelte-1jnkadc">3,546</span>
+<span class="svelte-byc5ph">3,546</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/MNE.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/MNE.svg)">
 
 </div>
 
@@ -8657,19 +8551,19 @@ country.
 </div>
 
 **Montenegro**
-<span class="svelte-1jnkadc">3,301</span>
+<span class="svelte-byc5ph">3,361</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/CPV.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/CPV.svg)">
 
 </div>
 
@@ -8678,19 +8572,40 @@ country.
 </div>
 
 **Cape Verde**
-<span class="svelte-1jnkadc">2,583</span>
+<span class="svelte-byc5ph">2,631</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/RWA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/SVN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Slovenia**
+<span class="svelte-byc5ph">2,190</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/RWA.svg)">
 
 </div>
 
@@ -8699,19 +8614,40 @@ country.
 </div>
 
 **Rwanda**
-<span class="svelte-1jnkadc">2,092</span>
+<span class="svelte-byc5ph">2,099</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/YEM.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BEN.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Benin**
+<span class="svelte-byc5ph">1,914</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/YEM.svg)">
 
 </div>
 
@@ -8720,19 +8656,40 @@ country.
 </div>
 
 **Yemen**
-<span class="svelte-1jnkadc">1,734</span>
+<span class="svelte-byc5ph">1,760</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/LBR.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/URY.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Uruguay**
+<span class="svelte-byc5ph">1,300</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/LBR.svg)">
 
 </div>
 
@@ -8741,19 +8698,40 @@ country.
 </div>
 
 **Liberia**
-<span class="svelte-1jnkadc">1,216</span>
+<span class="svelte-byc5ph">1,216</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BWA.svg)">
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/GEO.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Georgia**
+<span class="svelte-byc5ph">1,182</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BWA.svg)">
 
 </div>
 
@@ -8762,33 +8740,54 @@ country.
 </div>
 
 **Botswana**
-<span class="svelte-1jnkadc">804</span>
+<span class="svelte-byc5ph">804</span>
 
 </div>
 
-<div class="chart-outer svelte-1sqapi1">
+<div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-1jnkadc"></span>
+<span class="chart-container svelte-byc5ph"></span>
 
-<div class="chart svelte-1jnkadc">
+<div class="chart svelte-byc5ph">
 
-<div class="chart-inner svelte-1jnkadc">
+<div class="chart-inner svelte-byc5ph">
 
-<div class="chart-image svelte-1jnkadc" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/curve-grid/cases/total/BDI.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Burundi** <span class="svelte-1jnkadc">395</span>
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/BDI.svg)">
 
 </div>
 
 </div>
 
-<div class="show-all-container svelte-1sqapi1">
+</div>
+
+**Burundi**
+<span class="svelte-byc5ph">395</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-byc5ph"></span>
+
+<div class="chart svelte-byc5ph">
+
+<div class="chart-inner svelte-byc5ph">
+
+<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/KHM.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Cambodia** <span class="svelte-byc5ph">243</span>
+
+</div>
+
+</div>
+
+<div class="show-all-container svelte-ckkuwb">
 
 \+ Show all + Show less
 
@@ -8849,7 +8848,7 @@ day.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 65.36508662191835%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 65.16104307837023%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -8860,7 +8859,7 @@ day.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 30.730173243836717%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 30.32208615674047%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -8873,56 +8872,56 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 5.128205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 5.1020408163265305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.89795918367347%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.8974358974359%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.714285714285715%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.28205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.02040816326531%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.17948717948717%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.83673469387755%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.56410256410255%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.14285714285714%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.46153846153845%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.9591836734694%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 96.66666666666666%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 92.60204081632654%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.46153846153846%; top: 73.11430214113034%">
+<div class="pancake-point svelte-11ba04d" style="left: 36.734693877551024%; top: 74.75295446797179%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -8996,56 +8995,56 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 5.128205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 5.1020408163265305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Feb.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 20%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.89795918367347%; top: 100%">
 
 <span class="month x-label svelte-bw547y">March</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.8974358974359%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.714285714285715%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 51.28205128205128%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 51.02040816326531%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 67.17948717948717%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 66.83673469387755%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 82.56410256410255%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 82.14285714285714%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.46153846153845%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.9591836734694%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 49.99999999999999%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.744897959183675%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 59.99999999999999%; top: 57.008762612851825%">
+<div class="pancake-point svelte-11ba04d" style="left: 59.69387755102041%; top: 57.008762612851825%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -9090,10 +9089,10 @@ here.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.
 ## <span class="g-balancer" data-id="9">United States</span>
 
 The number of known coronavirus cases in the United States continues to
-grow quickly. As of Tuesday afternoon, at least 4,750,500 people across
+grow quickly. As of Wednesday morning, at least 4,778,600 people across
 every state, plus Washington, D.C., and four U.S. territories, have
 tested positive for the virus, according to a New York Times database,
-and at least 156,500 patients with the virus have died.
+and at least 157,300 patients with the virus have died.
 
 See our [page of maps, charts and
 tables](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)

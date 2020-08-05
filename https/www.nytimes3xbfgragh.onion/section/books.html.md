@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-books" class="section css-15h4p1b e9abtgs0">
 
@@ -167,9 +143,33 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mae
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-thumbStandard.jpg)](/2020/08/04/books/review-luster-raven-leilani.html)
+    
+    </div>
+    
+    ### Books of The Times
+    
+    ## [In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family](/2020/08/04/books/review-luster-raven-leilani.html)
+    
+    Raven Leilani’s novel concerns a young Black woman who becomes
+    involved with an older white man who is in an open
+    marriage.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Parul
+    Sehgal</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mae
     Astute/Walt Disney Television via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-videoLarge.jpg)
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
@@ -192,31 +192,32 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-jumbo.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-mediumThreeByTwo440-v3.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### Books of The Times
+        
+        ## [Lady Macbeth in Appalachia, and Other Tales by an American Master](/2020/08/02/books/ron-rash-in-valley-serena.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbStandard-v2.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
+        
+        </div>
+        
+        With a new collection, “In the Valley,” Ron Rash revisits the
+        monstrous protagonist of “Serena” and plumbs the depths of
+        Southern
+        hearts.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Janet
+        Maslin</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbStandard-v2.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
-    
-    </div>
-    
-    ### Books of The Times
-    
-    ## [Lady Macbeth in Appalachia, and Other Tales by an American Master](/2020/08/02/books/ron-rash-in-valley-serena.html)
-    
-    With a new collection, “In the Valley,” Ron Rash revisits the
-    monstrous protagonist of “Serena” and plumbs the depths of Southern
-    hearts.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Janet
-    Maslin</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -238,32 +239,6 @@ story](#after-sponsor)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Dwight
         Garner</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
-        Barnes for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/28Leilani2/28Leilani2-videoLarge-v4.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Raven Leilani, a Flâneur Who Is Going Places](/2020/07/31/books/raven-leilani-luster.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/28Leilani2/28Leilani2-thumbStandard-v4.jpg)](/2020/07/31/books/raven-leilani-luster.html)
-        
-        </div>
-        
-        The novelist’s debut, “Luster,” is winning accolades for its
-        unfiltered depiction of sex, failure and a Black woman adrift in
-        work and
-        life.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Concepción
-        de
-    León</span></span>
         
         </div>
 

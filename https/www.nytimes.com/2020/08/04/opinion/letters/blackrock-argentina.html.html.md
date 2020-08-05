@@ -200,12 +200,13 @@ letters
 </div>
 
 The firm says its role is consistent with its commitment to stakeholder
-capitalism. Also: Transgender service members.
+capitalism. Also: Transgender service members; a paucity of
+conversation; second-home owners.
 
 <div class="css-bn0qp euiyums0">
 
-Aug. 4, 2020, <span class="css-epvm6">12:37 p.m.
-ET</span>
+Aug. 4,
+2020
 
 <div class="css-4xjgmj">
 
@@ -237,6 +238,8 @@ ET</span>
 ### More from our inbox:
 
   - [Transgender Military Ban](#link-41dc3ccd)
+  - [Chance Conversations, Gone for Now](#link-39030f85)
+  - [Second Home Privilege](#link-7febb0b)
 
 </div>
 
@@ -385,6 +388,148 @@ Sasha Buchert
 Washington  
 *The writer is a senior attorney with Lambda Legal and a Marine Corps
 veteran.*
+
+## Chance Conversations, Gone for Now
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:256.4888888888889px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Gracia
+Lam</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+**To the Editor:**
+
+Re “[The Weak Ties That
+Bind](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html),”
+by Jane E. Brody (Personal Health, Aug. 4):
+
+Talking to strangers is part of the rich texture of city life. During
+these highly uncertain and socially distanced times, in addition to
+missing loved ones, I miss talking to strangers I would formerly
+encounter in the subway, and on street corners. I miss talking with
+unknown babies and children, and trying to make them smile or laugh.
+
+And I especially miss those “known strangers” I would see in coffee
+shops and while doing errands; I worry about workers I would talk with
+in these venues, and hope that they are healthy and are able to survive
+economically.
+
+Alas, given the need to maintain social distancing to protect everyone’s
+health, I regret that these joyful daily encounters will not return for
+a long while, especially as many people ignore the mask mandate. As a
+result, one now feels safer limiting in-person contact, particularly
+with strangers.
+
+One hopes that with time this will change.
+
+Ilene
+Starger  
+Brooklyn
+
+## Second Home Privilege
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Tony
+Cenicola/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+**To the Editor:**
+
+Re “[Second Home, Full
+Time](https://www.nytimes.com/2020/07/24/realestate/coronavirus-second-homes-.html)”
+(Real Estate, July 26), about families who have retreated to their
+weekend homes:
+
+I usually look forward to reading the Real Estate section, even during
+this pandemic. But the cover story focusing on those who have fled New
+York City and are worrying about how to make adjustments to their
+“summer home” just hit me in the gut.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+I don’t begrudge those who are fortunate enough to be able to have the
+luxury of owning two homes and the ability to escape the isolation and
+tension that exist in the city, but I just found this article to be
+totally insensitive by focusing on renovations when people are suffering
+across the country.
+
+Millions of people lost their additional $600-a-week unemployment
+benefits at the end of July. Is this the appropriate moment for The
+Times to devote prime real estate coverage to those who are concerned
+about renovations rather than those who are trying to determine where
+are they going to find money to pay August’s rent?
+
+Sharon Myrie  
+Brooklyn
 
 </div>
 

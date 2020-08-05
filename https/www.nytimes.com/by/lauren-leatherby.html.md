@@ -162,6 +162,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mapping the Damage From the Beirut Explosions
+    
+    Damage was seen at least two miles from the explosions, encompassing
+    an area with more than 750,000 residents.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
+    McCann, Lauren Leatherby <span>and</span> Blacki
+    Migliozzi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/07/23/us/coronavirus-hotspots-countries.html)
     
     <div class="css-79elbk">
@@ -191,7 +226,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -226,7 +261,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -261,7 +296,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -296,7 +331,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -329,7 +364,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -365,7 +400,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -400,7 +435,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -434,7 +469,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -458,44 +493,7 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">James Glanz, Benedict Carey, Josh
     Holder, Derek Watkins, Jennifer Valentino-DeVries, Rick Rojas
-    <span>and</span> Lauren
-    Leatherby</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/03/20/us/coronavirus-model-us-outbreak.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/03/20/reader-center/infection-poster-image/infection-poster-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Could Overwhelm U.S. Without Urgent Action, Estimates Say
-    
-    Immediate steps to limit social contact in parts of the United
-    States where few cases have been identified are needed to slow the
-    outbreak, a model suggests.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">James Glanz, Lauren Leatherby, Matthew
-    Bloch, Mitch Smith, Larry Buchanan, Jin Wu <span>and</span> Nicholas
-    Bogel-Burroughs</span>
+    <span>and</span> Lauren Leatherby</span>
     
     </div>
     

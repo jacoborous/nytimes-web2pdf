@@ -299,7 +299,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     <div class="css-10wtrbd">
     
-    ## [Thinking of Traveling in the U. S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
+    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
     
     Nearly half of the states have strict measures in place for
     visitors, from mandatory testing to quarantine
@@ -592,6 +592,41 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Richtel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/insider/letting-their-cameras-transport-you.html)
     
     <div class="css-79elbk">
@@ -623,7 +658,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -657,7 +692,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -692,7 +727,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -723,7 +758,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -757,7 +792,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -794,7 +829,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -829,7 +864,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -863,7 +898,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -884,42 +919,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/us/abandoned-properties-to-explore.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/multimedia/00xp-abandoned1/00xp-abandoned1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Urban Explorers Give Modern Ruins a Second Life
-    
-    In photos and videos, researchers and thrill-seekers celebrate the
-    allure of abandoned schools, factories, hotels, movie palaces and
-    other forgotten properties.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher Mele</span>
+    By <span class="css-1n7hynb">Kenneth Chang</span>
     
     </div>
     

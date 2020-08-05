@@ -234,8 +234,8 @@ Feuer</span>](https://www.nytimes.com/by/alan-feuer)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:10 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -243,7 +243,7 @@ Feuer</span>](https://www.nytimes.com/by/alan-feuer)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -272,8 +272,8 @@ Feuer</span>](https://www.nytimes.com/by/alan-feuer)
 <div class="css-53u6y8">
 
 In the past few weeks, Mayor Bill de Blasio and his police commissioner,
-Dermot F. Shea, have blamed the steep rise in shootings in New York City
-on a breakdown in the criminal justice system that they contend has
+Dermot F. Shea, have tied the steep rise in shootings in New York City
+to a breakdown in the criminal justice system that they contend has
 allowed criminals back out on the streets.
 
 The mayor and commissioner have cited a range of causes that they have
@@ -353,7 +353,7 @@ they need to reopen as fully and as quickly as possible.”
 But prosecutors, court officials and defense lawyers have pushed back
 against that theory.
 
-Lawrence Marks, the state’s chief administrative judge, told the NY 1
+Lawrence Marks, the state’s chief administrative judge, told the NY1
 cable news station that the mayor’s attacks on the courts were “false,
 misleading and irresponsible.”
 
@@ -379,8 +379,10 @@ there were 40. In the week of June 28, the number of shootings spiked to
 
 <div class="css-53u6y8">
 
-At the end of July, gun arrests began to climb again, the police said,
-rising to 54 during the week of July 27.
+At a new conference on Tuesday, Mr. de Blasio said the city had deployed
+more officers to troubled precincts, and gun arrests were beginning to
+rise again. During the week ending on July 27, arrests for firearms
+climbed up back up to 54, the police said.
 
 The confidential analysis that was obtained by The Times was prepared by
 city officials with Police Department data and shared with the city’s
@@ -388,13 +390,19 @@ district attorneys’ offices. It was provided to The Times by an official
 who wanted to counter the mayor’s narrative, but wished to remain
 anonymous because the report was not intended to be released.
 
-Asked about the analysis, Bill Neidhardt, a spokesman for Mr. de Blasio,
-maintained the mayor has always blamed the rise in violence on “a
-perfect storm” of causes, including the pandemic’s devastating effects
-on the city’s economy and daily life.
+On Tuesday, Mr. de Blasio denied that he had ever blamed the rise in
+violent crime solely on the changes the pandemic had wrought on the
+courts. He said he had always cited a “perfect storm” of causes,
+including the virus’s devastating effect on the city’s economy.
 
-“He also talks about how a non-fully functioning criminal justice system
-is playing a role in this as well,” Mr. Neidhardt said.
+Still, he said that the slowdown in the courts and the lack of trials
+had affected the behavior of some people, sending a signal that there
+would not be consequences for their acts. “And it affects the ability to
+ensure that someone who should not be on the street, isn’t,” he added.
+
+“You cannot take away all the underpinnings of normal life and expect
+the same outcome, and then when you don’t have all of the pieces of the
+criminal justice system working, that does affect the reality,” he said.
 
 But the city’s own analysis suggests the bail law, which allows many
 defendants accused of nonviolent crimes to be released before trial
@@ -407,11 +415,6 @@ close to the same rate as before the pandemic. According to the Police
 Department’s data, there were 2,181 unresolved gun cases in July —
 slightly fewer than the 2,285 gun cases that were open in December 2019.
 
-Similarly, the courts handled 642 gun and murder arraignments from
-October 2019 to December 2019. Between April and June of this year, they
-handled 819 gun and murder arraignments — and all of them were conducted
-remotely by video.
-
 </div>
 
 </div>
@@ -419,6 +422,11 @@ remotely by video.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Similarly, the courts handled 642 gun and murder arraignments from
+October 2019 to December 2019. Between April and June of this year, they
+handled 819 gun and murder arraignments — and all of them were conducted
+remotely by video.
 
 “The way we are processing arrests has not changed at all,” said Cyrus
 R. Vance, Jr., the Manhattan district attorney. “In May, the volume and
@@ -446,10 +454,6 @@ back home on a separate case under the new, more lenient bail law. Nor
 were they free because of the slowdown in court proceedings, the records
 showed.
 
-Still, Michael LiPetri, the Police Department’s chief of crime control
-strategies, said that the virus’s effects on the criminal justice system
-were being felt on the streets.
-
 </div>
 
 </div>
@@ -457,6 +461,10 @@ were being felt on the streets.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Still, Michael LiPetri, the Police Department’s chief of crime control
+strategies, said that the virus’s effects on the criminal justice system
+were being felt on the streets.
 
 Early in the pandemic, Chief LiPetri said, many suspects arrested on gun
 charges who in the past would have been asked to post bail were instead

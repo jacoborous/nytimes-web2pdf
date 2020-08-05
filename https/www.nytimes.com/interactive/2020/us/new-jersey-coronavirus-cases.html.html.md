@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 2:10 P.M.
+Times</span>Updated August 4, 2020, 6:23 P.M.
 E.T.
 
 </div>
@@ -474,9 +474,9 @@ New Jersey on Aug. 3. Over the past week, there have been an average of
 394 cases per day, an increase of 58 percent from the average two weeks
 earlier.
 
-As of Tuesday afternoon, there have been at least 184,489 cases and
-15,846 deaths in New Jersey since the beginning of the pandemic,
-according to a New York Times
+As of Tuesday evening, there have been at least 184,489 cases and 15,846
+deaths in New Jersey since the beginning of the pandemic, according to a
+New York Times
 database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
@@ -933,7 +933,7 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/new_jersey.svg" alt="New Jersey heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/new_jersey.svg" alt="New Jersey heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -947,7 +947,7 @@ in last<br />
 <td><span>2 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/cumberland.svg" alt="Cumberland heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/cumberland.svg" alt="Cumberland heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -961,7 +961,7 @@ in last<br />
 <td><span>12 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/atlantic.svg" alt="Atlantic heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/atlantic.svg" alt="Atlantic heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -975,7 +975,7 @@ in last<br />
 <td><span>9 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/camden.svg" alt="Camden heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/camden.svg" alt="Camden heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -989,7 +989,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/burlington.svg" alt="Burlington heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/burlington.svg" alt="Burlington heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1003,7 +1003,7 @@ in last<br />
 <td><span>6 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/gloucester.svg" alt="Gloucester heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/gloucester.svg" alt="Gloucester heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1017,7 +1017,7 @@ in last<br />
 <td><span>1 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/union.svg" alt="Union heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/union.svg" alt="Union heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1031,7 +1031,7 @@ in last<br />
 <td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/ocean.svg" alt="Ocean heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/ocean.svg" alt="Ocean heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1045,7 +1045,7 @@ in last<br />
 <td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/monmouth.svg" alt="Monmouth heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/monmouth.svg" alt="Monmouth heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -1059,7 +1059,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/passaic.svg" alt="Passaic heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/passaic.svg" alt="Passaic heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1073,7 +1073,7 @@ in last<br />
 <td><span>7 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_34/mercer.svg" alt="Mercer heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9a2ea60f217840cc7fda1473f18f9230d0ada8d4/build/heatmaps/nyt_world/usa/usa_34/mercer.svg" alt="Mercer heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>

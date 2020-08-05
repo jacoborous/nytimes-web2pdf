@@ -149,14 +149,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -296,6 +296,12 @@ Wells</span>](https://www.nytimes.com/by/pete-wells)
 
 </div>
 
+<div class="css-mdjrty">
+
+[阅读简体中文版](https://cn.nytimes.com/style/20200804/chinatown-outdoor-dining-coronavirus/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/style/20200804/chinatown-outdoor-dining-coronavirus/zh-hant/ "Read in Traditional Chinese")
+
+</div>
+
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
@@ -328,8 +334,9 @@ people opened at a string of communal [dining platforms designed to sit
 on the pavement by the Rockwell
 Group](https://www.rockwellgroup.com/projects/dineout-nyc#:~:text=Our%20solution%2C%20DineOut%20NYC%2C%20designed,to%20feel%20safe%20and%20comfortable.)
 architecture firm. The installation, done in bright primary colors and
-then painted by local artists and public-school students, is essentially
-a socially distanced food court.
+then painted by local artists and students from the nearby
+[Transfiguration School](https://www.transfigurationschoolnyc.org/), is
+essentially a socially distanced food court.
 
 </div>
 

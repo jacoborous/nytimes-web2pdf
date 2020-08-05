@@ -173,25 +173,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    [](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Arc of Homeland Security Bends Toward Trump. Chad Wolf Bends With It.
+    ## After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries
     
-    Mr. Wolf joined the Department of Homeland Security in its infancy
-    to help prevent another 9/11. Now he is helping President Trump use
-    it to achieve his political ambitions.
+    Representative Carolyn Maloney and Councilman Ritchie Torres won in
+    New York City after a Democratic primary that raised concerns about
+    mail-in voting.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Jesse
-    McKinley</span>
+    By <span class="css-1n7hynb">Jesse McKinley, Shane Goldmacher
+    <span>and</span> Matt
+    Stevens</span>
     
     </div>
     
@@ -209,7 +209,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/nyc-congress-carolyn-mahoney-ballots.html)
+    [](/2020/08/04/us/politics/trump-homeland-security.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Meet the Official Accused of Helping Trump Politicize Homeland Security
+    
+    Chad F. Wolf joined the Department of Homeland Security in its
+    infancy to help prevent another 9/11. Now he is helping President
+    Trump use it to achieve his political ambitions.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
+    Jesse
+    McKinley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/nyc-congress-carolyn-maloney-ballots.html)
     
     <div class="css-79elbk">
     
@@ -238,7 +274,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +309,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -308,7 +344,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +378,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -377,7 +413,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -412,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +483,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -469,43 +505,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jesse
-    McKinley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/nyregion/election-absentee-ballots-primary.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/nyregion/16nyabsentee/16nyabsentee-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 3 Weeks After Primary, N.Y. Officials Still Can’t Say Who Won Key Races
-    
-    Tens of thousands of absentee ballots in New York are still
-    uncounted and many races have yet to be called. What will November
-    look like?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jesse McKinley <span>and</span> Luis
-    Ferré-Sadurní</span>
+    By <span class="css-1n7hynb">Jesse McKinley</span>
     
     </div>
     

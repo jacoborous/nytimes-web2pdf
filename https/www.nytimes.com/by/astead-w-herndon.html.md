@@ -173,6 +173,43 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/kobach-tlaib.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries
+    
+    In Missouri, Cori Bush, a progressive activist, upset the 10-term
+    incumbent William Lacy Clay Jr., marking another major step forward
+    for the progressive movement in its bid to threaten centrist
+    officials.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
+    Katie
+    Glueck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/trump-biden-polls-vp.html)
     
     <div class="css-79elbk">
@@ -204,7 +241,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +277,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +312,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +347,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +382,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -380,7 +417,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -416,7 +453,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -452,7 +489,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -478,43 +515,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Sarah Kerr, Astead W. Herndon, Ben
-    Laffin <span>and</span> Emily
-    Rhyne</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/21/us/politics/trump-rally-supporters.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/20/us/politics/20Tulsa-memo/merlin_173759622_e9dbba95-8f13-4fff-938d-fbe7cc8a8bed-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Political Memo</span>
-    
-    ## Trump Seeks a Cultural Safe Space Amid a Deadly Pandemic
-    
-    In his first rally since the global coronavirus pandemic suspended
-    the campaign trail, President Trump played the hits.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Astead W. Herndon</span>
+    Laffin <span>and</span> Emily Rhyne</span>
     
     </div>
     

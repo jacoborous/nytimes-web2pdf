@@ -237,8 +237,8 @@ Lyons</span>](https://www.nytimes.com/by/margaret-lyons)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">10:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

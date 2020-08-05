@@ -466,13 +466,46 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="helen-jones-woods" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/03Woods/03Woods-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Helen Jones Woods
+
+<div class="g-meta">
+
+<span>d. Sarasota, Fla. </span>
+
+</div>
+
+<div class="g-summ">
+
+Musician in all-female, multi-racial jazz
+band
+
+</div>
+
+</div>
+
+</div>
+
 <div id="bernaldina-josé-pedro" class="g-obit">
 
 <div class="g-flex-wrapper-image">
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/obituaries/30Pedro/30Pedro-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/30Pedro/30Pedro-square640.jpg)
 
 </div>
 
@@ -505,7 +538,7 @@ Macuxi
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
 
 </div>
 
@@ -571,7 +604,7 @@ Republic
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
 
 </div>
 
@@ -622,40 +655,7 @@ Coast
 
 <div class="g-summ">
 
-Jamaican singer and
-songwriter
-
-</div>
-
-</div>
-
-</div>
-
-<div id="waldemar-gonzalez" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Waldemar Gonzalez
-
-<div class="g-meta">
-
-<span>d. White Plains, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Teacher and social worker
+Jamaican singer and songwriter
 
 </div>
 

@@ -155,8 +155,8 @@ qué Trump no puede postergar las elecciones de
     
     </div>
     
-    [Election
-    Updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Latest
+    Results](https://www.nytimes.com/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -670,11 +670,11 @@ Updated Aug. 4, 2020
     
     ## The Latest
     
-      - Five states are holding primary elections Tuesday, with voters
-        in Arizona, Kansas, Michigan, Missouri and Washington State
-        choosing nominees for Congress and local offices. [Follow live
-        election updates
-        here.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - Kris Kobach, a polarizing figure in Kansas politics, [lost the
+        Senate primary
+        there](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        relieving G.O.P. officials who feared he could jeopardize a safe
+        seat.
 
   - 
     

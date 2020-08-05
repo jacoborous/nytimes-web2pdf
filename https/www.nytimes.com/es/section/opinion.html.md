@@ -157,11 +157,31 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
-    Archive/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/merlin_172941285_c80cf40d-d9c9-41fd-9512-ed590e430634-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ### Comentario
+    
+    ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+    
+    Las clases medias mexicanas claudicaron de intentar atenderse en
+    hospitales públicos y los más pobres los usan pensando que ahí solo
+    van a morirse. Esto debe
+    cambiar.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz last-byline" itemprop="name">Viri
+    Ríos</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+    Archive/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Comentario
     
@@ -178,7 +198,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
     Sura/EPA vía
     Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
     
@@ -200,7 +220,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
     Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -217,27 +237,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">Jorge
     Carrión</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Comentario
-    
-    ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
-    
-    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
-    o trabajado en la región, conocemos bien de mandatarios que juegan
-    con los límites de su poder. Adiós al “excepcionalismo
-    estadounidense”.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Jorge
-    Ramos</span></span>
     
     </div>
 
@@ -340,43 +339,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## La salud pública en México es eso-que-nadie-quiere-usar
-    
-    Las clases medias mexicanas claudicaron de intentar atenderse en
-    hospitales públicos y los más pobres los usan pensando que ahí solo
-    van a morirse. Esto debe cambiar.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Viri
-    Ríos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/es/2020/08/01/espanol/opinion/coronavirus-aire.html)
     
     <div class="css-79elbk">
@@ -402,6 +364,44 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes.com/2020/07/30/opinion/coronavirus-aerosols.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## Tentaciones autoritarias: cómo América Latina nos preparó para Trump
+    
+    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
+    o trabajado en la región, conocemos bien de mandatarios que juegan
+    con los límites de su poder. Adiós al “excepcionalismo
+    estadounidense”.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Jorge
+    Ramos</span>
     
     </div>
     

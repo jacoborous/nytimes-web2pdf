@@ -240,7 +240,7 @@ community.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Gracia
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Gracia
 Lam</span></span></span>](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>

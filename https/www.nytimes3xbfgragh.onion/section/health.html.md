@@ -159,19 +159,71 @@ Outbreak](/news-event/coronavirus)
 
 <div id="collection-highlights-container" class="section css-18l1u7x e46isfb1">
 
-<div class="css-gfgt40 ekkqrpp1">
+<div class="template-1 css-gfgt40 ekkqrpp1">
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NIAID</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-videoLarge.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
+    Fremson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-jumbo.jpg)
+    
+    <div class="css-gjijuv">
+    
+    ## [As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies](/2020/08/04/health/trump-plasma.html)
+    
+    Thousands of Covid-19 patients have been treated with blood plasma
+    outside of rigorous clinical trials — hampering research that would
+    have shown whether the therapy
+    worked.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Katie Thomas</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Noah
+    Weiland</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Caballero-Reynolds/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04VIRUS-NOVAVAX1/04VIRUS-NOVAVAX1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    <div class="css-1dqkjed">
+    ## [Scientists Are Optimistic About New Vaccine Studies From Novavax](/2020/08/04/health/covid-19-vaccine-novavax.html)
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-thumbStandard.jpg)](/2020/08/04/health/coronavirus-immune-system.html)
+    The company has received a $1.6 billion grant from the government’s
+    Operation Warp Speed to have 100 million doses ready by early
+    2021.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Carl Zimmer</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Thomas</span></span>
     
     </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+    Schukar for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the
+    coronavirus.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Richtel</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NIAID</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](/2020/08/04/health/coronavirus-immune-system.html)
     
@@ -185,19 +237,19 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### GLOBAL HEALTH
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
     Dhaliwal for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-thumbStandard.jpg)](/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html)
-    
-    </div>
-    
-    ### GLOBAL HEALTH
     
     ## [‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.](/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html)
     
@@ -212,63 +264,45 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-        O'Hare for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbStandard-v2.jpg)](/2020/08/03/health/covid-telemedicine-congress.html)
-        
-        </div>
-        
-        The answer largely depends on whether Medicare and private
-        health insurers will adequately cover virtual doctor visits once
-        coronavirus outbreaks
-        subside.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Reed
-        Abelson</span></span>
-        
-        </div>
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
+    O'Hare for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-        Gallup/Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Dementia on the Retreat in the U.S. and Europe](/2020/08/03/health/alzheimers-dementia-rates.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-thumbStandard.jpg)](/2020/08/03/health/alzheimers-dementia-rates.html)
-        
-        </div>
-        
-        Rates of dementia have steadily fallen over the past 25 years, a
-        new study finds. But the disease is increasingly common in some
-        parts of the
-        world.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Gina
-        Kolata</span></span>
-        
-        </div>
+    <div class="css-10wtrbd">
+    
+    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
+    
+    The answer largely depends on whether Medicare and private health
+    insurers will adequately cover virtual doctor visits once
+    coronavirus outbreaks
+    subside.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Reed
+    Abelson</span></span>
+    
+    </div>
 
-</div>
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+    Gallup/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Dementia on the Retreat in the U.S. and Europe](/2020/08/03/health/alzheimers-dementia-rates.html)
+    
+    Rates of dementia have steadily fallen over the past 25 years, a new
+    study finds. But the disease is increasingly common in some parts of
+    the
+    world.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Gina
+    Kolata</span></span>
+    
+    </div>
 
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
     Vucci/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-videoLarge.jpg)
     
@@ -287,7 +321,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
     Barwick/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-videoLarge.jpg)
     
@@ -302,66 +336,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Roni Caryn
     Rabin</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
-    Sladky/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRUS-TRACE3/28VIRUS-TRACE3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Contact Tracing Is Failing in Many States. Here’s Why.](/2020/07/31/health/covid-contact-tracing-tests.html)
-    
-    Inadequate testing and protracted delays in producing results have
-    crippled tracking and hampered efforts to contain major
-    outbreaks.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jennifer Steinhauer</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Abby
-    Goodnough</span></span>
-    
-    </div>
-
-4.  ### The New Old Age
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
-    Belleme for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/31SCI-SPAN/31SCI-SPAN-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Should Youth Come First in Coronavirus Care?](/2020/07/31/health/coronavirus-ethics-rationing-elderly.html)
-    
-    If medical rationing becomes necessary, some older adults are
-    prepared to step aside. But many have the opposite concern: that
-    they will be arbitrarily sent to the rear of the
-    line.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paula
-    Span</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Behrouz
-    Mehri/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/00VIRUS-DIAMOND1/00VIRUS-DIAMOND1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Aboard the Diamond Princess, a Case Study in Aerosol Transmission](/2020/07/30/health/diamond-princess-coronavirus-aerosol.html)
-    
-    A computer model of the cruise-ship outbreak found that the virus
-    spread most readily in microscopic droplets light enough to linger
-    in the
-    air.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Benedict Carey</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">James
-    Glanz</span></span>
     
     </div>
 
@@ -494,13 +468,13 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Samuel
-    Corum for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools](/2020/08/04/world/coronavirus-cases.html)
+    ## [Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension](/2020/08/04/world/coronavirus-cases.html)
     
     Tens of millions of Americans have lost crucial jobless benefits,
     and lawmakers still can’t seem to agree on a relief measure.
@@ -567,22 +541,22 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
-    J. Brown/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4xp-sanitizer/4xp-sanitizer-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gianni
+    Cipriano para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/04italy-ES-00/31virus-italy-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [F.D.A. Adds More Hand Sanitizers to List of Products to Avoid](/2020/08/04/health/fda-hand-sanitizer-recall.html)
+    ## [Cómo logró Italia contener la calamidad del coronavirus](/es/2020/08/05/espanol/mundo/italia-reapertura-coronavirus.html)
     
-    The agency has moved to keep several of the products, which it found
-    to have inadequate concentrations of alcohol, from entering the
-    United
-    States.
+    Después de un comienzo tambaleante, el país pasó de ser paria global
+    a adoptar un modelo —aunque imperfecto— de contención viral que
+    ofrece lecciones para sus vecinos y para Estados
+    Unidos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Derrick Bryson
-    Taylor</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jason
+    Horowitz</span></span>
     
     </div>
 
@@ -638,15 +612,50 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/fda-hand-sanitizer-recall.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4xp-sanitizer/4xp-sanitizer-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.D.A. Adds More Hand Sanitizers to List of Products to Avoid
+    
+    The agency has moved to keep several of the products, which it found
+    to have inadequate concentrations of alcohol, from entering the
+    United States.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Derrick Bryson
+    Taylor</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/world/coronavirus-cases.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools
+    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
     
     Tens of millions of Americans have lost crucial jobless benefits,
     and lawmakers still can’t seem to agree on a relief measure.
@@ -665,7 +674,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -698,7 +707,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -732,7 +741,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -766,7 +775,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -800,7 +809,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -836,7 +845,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -872,7 +881,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -904,7 +913,7 @@ story](#after-mid2)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -926,42 +935,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryan
-    Pietsch</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/us/salmonella-outbreak-onions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/multimedia/01xp-onion-salmonella--ox/01xp-onion-salmonella--ox-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Red Onions Linked to Salmonella Outbreak, Officials Say
-    
-    More than 500 cases and at least 75 hospitalizations have been
-    reported in the United States and Canada, the health authorities
-    said.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christina Morales</span>
+    By <span class="css-1n7hynb">Bryan Pietsch</span>
     
     </div>
     

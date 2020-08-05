@@ -235,8 +235,8 @@ Ovide</span>](https://www.nytimes3xbfgragh.onion/by/shira-ovide)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">12:53 p.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

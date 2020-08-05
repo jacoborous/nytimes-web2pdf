@@ -493,44 +493,44 @@ funds.
 
 <div class="briefing-block-update-time active">
 
-[5m
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
+[6h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
 
 </div>
 
 <div>
 
-[The ad giant Publicis has ‘parted ways’ with an executive over his
-virus
-tweets.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
+[Fox Corporation’s plunging profit is cushioned by Fox
+News.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
 
 </div>
 
 <div class="briefing-block-update-time active">
 
-[1h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
+[6h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
 
 </div>
 
 <div>
 
-[NBCUniversal to cut about 10 percent of its work
-force.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
+[Trading in Kodak shares comes under
+scrutiny.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
 
 </div>
 
 <div class="briefing-block-update-time active">
 
-[3h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+[7h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
 
 </div>
 
 <div>
 
-[Loans are harder to get, even as interest rates are
-low.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+[Disney lost $4.7 billion last quarter, but its newest business was a
+big
+hit.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
 
 </div>
 

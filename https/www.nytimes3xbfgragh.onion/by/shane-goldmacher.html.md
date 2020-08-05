@@ -181,6 +181,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries
+    
+    Representative Carolyn Maloney and Councilman Ritchie Torres won in
+    New York City after a Democratic primary that raised concerns about
+    mail-in voting.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jesse McKinley, Shane Goldmacher
+    <span>and</span> Matt
+    Stevens</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/biden-lobbyist-ties.html)
     
     <div class="css-79elbk">
@@ -210,7 +246,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -245,7 +281,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -279,7 +315,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +350,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -350,7 +386,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -386,7 +422,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -422,7 +458,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -458,7 +494,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -477,41 +513,6 @@ story](#after-mid1)
     Senators and donors worry that with President Trump in trouble and
     the House probably out of reach, the Senate could be their last
     chance to hold power in Washington.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Shane
-    Goldmacher</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/us/politics/joe-biden-fund-raising.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/politics/16money-2020/merlin_174563214_cde09ec7-4392-4983-a80d-3e59753604da-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden Banks $242 Million as Big-Name Donors Write Huge Checks
-    
-    Mr. Biden is relying on some of his party’s wealthiest donors — and
-    power brokers in Silicon Valley, Hollywood and Wall Street — to cut
-    President Trump’s financial edge, new filings show.
     
     <div class="css-1nqbnmb ea5icrr0">
     

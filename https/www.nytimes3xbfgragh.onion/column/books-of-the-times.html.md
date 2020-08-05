@@ -184,6 +184,40 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/books/review-luster-raven-leilani.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family
+    
+    Raven Leilani’s novel concerns a young Black woman who becomes
+    involved with an older white man who is in an open marriage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Parul
+    Sehgal</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/books/ron-rash-in-valley-serena.html)
     
     <div class="css-79elbk">
@@ -213,7 +247,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -248,7 +282,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -283,7 +317,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -317,7 +351,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -352,7 +386,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -386,7 +420,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +454,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -455,7 +489,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -477,42 +511,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer
-    Szalai</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/books/eat-buddha-life-death-tibetan-town-barbara-demick.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/books/15BOOKDEMICK1/15BOOKDEMICK1-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Eat the Buddha’ Reports From the ‘World Capital of Self-Immolations’
-    
-    Barbara Demick’s new book covers an awe-inspiring breadth of history
-    — from the heyday of the Tibetan empire to the present-day Tibetan
-    effort at cultural and spiritual survival.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Parul Sehgal</span>
+    By <span class="css-1n7hynb">Jennifer Szalai</span>
     
     </div>
     

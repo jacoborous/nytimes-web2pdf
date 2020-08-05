@@ -174,6 +174,148 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/hurricane-isaias-updates.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/04isaias-01/04isaias-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast
+    
+    Officials warned residents to stay out of harm’s way as at least two
+    people were killed by tornadoes, and two others from fallen trees.
+    Millions were left without power.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael Venutolo-Mantovani
+    <span>and</span> Rick
+    Rojas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/nyregion/isaias-ny.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area
+    
+    The storm that tore through New York City on Tuesday was second only
+    to Hurricane Sandy in knocking out service to Con Edison customers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mihir Zaveri <span>and</span> Ed
+    Shanahan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/isaias-east-coast-landfall.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/03isaias-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## East Coast Braces for Floods and Wind as Isaias Intensifies
+    
+    A heavy soaking is expected in the Carolinas and Maryland, with
+    tropical storm warnings and watches in effect all the way up the
+    Eastern Seaboard.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Rick Rojas <span>and</span> Lucy
+    Tompkins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/nyregion/nyc-subway-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/06/09/nyregion/03nytoday-1/00nysubway-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">New York Today</span>
+    
+    ## Is Riding the Subway Safer Than Dining Indoors?
+    
+    In major global cities where the pandemic has ebbed, it appears that
+    public transportation may not be as risky as nervous New Yorkers
+    believe.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mihir
+    Zaveri</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/nyregion/liberty-belle-illegal-party.html)
     
     <div class="css-79elbk">
@@ -204,7 +346,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -238,7 +380,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +414,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +449,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +486,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -367,150 +509,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nicole Hong, Mihir Zaveri
-    <span>and</span> William K.
-    Rashbaum</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/nyregion/roy-den-hollander-esther-salas.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/22/nyregion/22nj-judgeSUB/22nj-judgeSUB-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Suspect in Death of N.J. Judge’s Son Is Linked to California Killing
-    
-    Roy Den Hollander, the “anti-feminist” who is the prime suspect in
-    the New Jersey shooting, may also have killed a rival men’s rights
-    lawyer, officials say.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicole Hong, William K. Rashbaum, Mihir
-    Zaveri <span>and</span> Katherine
-    Rosman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/nyregion/esther-salas.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/20/world/20njjudge-promo/20njjudge-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Anti-Feminist’ Lawyer Is Suspect in Killing of Son of Federal Judge in N.J.
-    
-    Roy Den Hollander had openly seethed against the judge, Esther
-    Salas. After the shooting at her home, he was found dead in an
-    apparent suicide.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicole Hong, William K. Rashbaum
-    <span>and</span> Mihir
-    Zaveri</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/nyregion/nyc-phase-4-reopening-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/nyregion/20nytoday1/merlin_174645075_68d720c7-ae95-47ed-bbd2-2a31276313fc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">New York Today</span>
-    
-    ## New York City’s Phase 4, Explained
-    
-    It's a landmark in the reopening process, but with bans remaining on
-    indoor dining, cinemas and museums, life is hardly back to normal.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/nyregion/murray-hill-scaffolding-collapse.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/16/nyregion/16nyscaffolding2/16nyscaffolding2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 1 Dead and 3 Injured as Construction Platform Plummets in Manhattan
-    
-    The workers were restoring the facade of a Murray Hill apartment
-    building when the scaffolding suddenly came crashing down.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mihir Zaveri <span>and</span> Sean
-    Piccoli</span>
+    <span>and</span> William K. Rashbaum</span>
     
     </div>
     

@@ -154,8 +154,8 @@ Power</span>
     
     </div>
     
-    [Election
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Latest
+    Results](https://www.nytimes3xbfgragh.onion/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -345,8 +345,8 @@ Medina</span>](https://www.nytimes3xbfgragh.onion/by/jennifer-medina)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">3:03 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -354,7 +354,7 @@ Medina</span>](https://www.nytimes3xbfgragh.onion/by/jennifer-medina)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -579,7 +579,7 @@ Trump.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T18:55:19.561Z
+Updated 2020-08-05T03:23:56.561Z
 
 </div>
 
@@ -588,11 +588,11 @@ Updated 2020-08-04T18:55:19.561Z
   - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
     to
     Trump.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
+  - [The military-style uniforms of federal agents who responded to the
+    unrest in Portland will be
+    replaced.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-62a8e06b)
   - [President Trump is suddenly a big supporter of mail-in voting — in
     Florida.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
-  - [Election experts warn Congress about widespread disenfranchisement
-    of voters of color in
-    November.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6d019753)
 
 <div class="briefing-block-footer">
 
@@ -1169,11 +1169,11 @@ Updated Aug. 4, 2020
     
     ## The Latest
     
-      - Five states are holding primary elections Tuesday, with voters
-        in Arizona, Kansas, Michigan, Missouri and Washington State
-        choosing nominees for Congress and local offices. [Follow live
-        election updates
-        here.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - Kris Kobach, a polarizing figure in Kansas politics, [lost the
+        Senate primary
+        there](https://www.nytimes3xbfgragh.onion/2020/08/04/us/politics/kobach-tlaib.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        relieving G.O.P. officials who feared he could jeopardize a safe
+        seat.
 
   - 
     

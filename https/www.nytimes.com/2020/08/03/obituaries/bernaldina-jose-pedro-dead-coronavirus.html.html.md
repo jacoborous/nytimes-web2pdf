@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -226,7 +226,7 @@ Those We’ve Lost
 </div>
 
 Ms. Pedro was a leader of Brazil’s Macuxi people and carried a message
-of alarm for their fate to Pope Francis in 2018. She died of the novel
+of alarm for their fate to Pope Francis. She died of the novel
 coronavirus.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
@@ -241,7 +241,7 @@ coronavirus.
 José Pedro was an important leader during a long-running land conflict
 in her Indigenous
 territory.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Jaider
-Esbell</span></span></span>](https://static01.nyt.com/images/2020/07/30/obituaries/30Pedro/merlin_175120329_f9fbbf3d-bbbd-43ac-bb1f-0ee5a4d7ee77-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Esbell</span></span></span>](https://static01.nyt.com/images/2020/08/05/obituaries/30Pedro/merlin_175120329_f9fbbf3d-bbbd-43ac-bb1f-0ee5a4d7ee77-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -260,8 +260,14 @@ Astor</span>
 
 </div>
 
-  - Aug. 3,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 3,
     2020
+    
+    </div>
 
   - 
     
@@ -299,17 +305,17 @@ coronavirus pandemic. Read about others*
 [*here*](https://www.nytimes.com/interactive/2020/obituaries/people-died-coronavirus-obituaries.html)*.*
 
 Bernaldina José Pedro possessed a wealth of knowledge about the songs,
-dances, crafts, medicines and prayers of the Macuxi Indigenous people
-who live in northernmost Brazil. She was also considered a respected
-voice in the struggle to establish a 4 million-acre Indigenous
-territory, where her people live, on the border with Guyana.
+dances, crafts, medicines and prayers of the Macuxi Indigenous people,
+who live in northernmost Brazil. And she was a respected voice in the
+successful struggle to establish a 4 million-acre Indigenous territory
+on the border with Guyana.
 
 But what was especially satisfying to her was a 2018 trip to Rome to
-meet Pope Francis, because it showed the world a woman could be an
-Indigenous leader.
+meet Pope Francis, because to her it showed the world that a woman could
+be an Indigenous leader.
 
 “It made a great impression on her,” said her son, Jaider Esbell. “It
-was the first time she left Brazil and she was proud to be performing
+was the first time she left Brazil, and she was proud to be performing
 what would usually be a man’s role, usually something a chief would do.”
 
 </div>
@@ -324,12 +330,14 @@ Ms. Pedro died on June 24 at a hospital in Boa Vista, the capital of
 Roraima state in Brazil. She was 75. Mr. Esbell said the cause was
 Covid-19.
 
-Better known as Vovó Bernaldina (Grandma Bernaldina, her Portuguese
-name), Ms. Pedro was Catholic and a big fan of the pope even without
-renouncing her traditional beliefs — a common practice in the region.
-During the short meeting, in a general audience in St. Peter’s Square,
-she gave Francis a letter warning that the government might try to
-reclaim the reservation and asking for his help.
+Better known as Vovó Bernaldina (Portuguese for Grandma Bernaldina), Ms.
+Pedro was Roman Catholic and a big fan of the Argentine-born pope, the
+first from Latin America, even without renouncing her traditional
+beliefs — a common practice in the region. During her short meeting with
+Francis, in a general audience in St. Peter’s Square, she gave him a
+letter warning that the Brazilian government might try to reclaim the
+Indigenous reservation on which her people lived. She asked for his
+help.
 
 The
 [meeting](https://www.ecoamazonia.org.br/2018/11/indigenas-macuxi-recebidos-papa-francisco/)was
@@ -337,10 +345,10 @@ captured in the 2020 documentary “Amazonian Cosmos,” by Daniel
 Schweizer, which recounted her son’s efforts to raise awareness about
 his people.
 
-Ms. Pedro was born Koko Meriná Eremunkon on March 25, 1945 to Samuel
+Ms. Pedro was born Koko Meriná Eremunkon on March 25, 1945, to Samuel
 José de Souza and Marina José in the Indigenous village of Pedra Preta,
-in Guyana, where they hunted, farmed and fished for a living. In her
-20s, she married Marcelo Pedro and moved to his village, Mataruca, just
+in Guyana, where they hunted, farmed and fished for a living. In her 20s
+she married Marcelo Pedro and moved to his village, Mataruca, just
 across the border in Brazil.
 
 </div>
@@ -355,12 +363,11 @@ across the border in Brazil.
 
 <div class="css-53u6y8">
 
-Her husband’s family were tribal leaders and she rose through marriage
-but she commanded respect on her own for the traditional wisdom,
-charisma and the guidance she offered while the Macuxi fought off court
-challenges, squatters and often violent attacks, until the reservation
-where they live, the Raposa Serra do Sol, was officially established in
-2009.
+Her husband’s family were tribal leaders, and she rose in influence
+through marriage, but she also commanded respect for the wisdom,
+charisma and guidance she offered while the Macuxi fought off court
+challenges, squatters and often violent attacks until their reservation,
+the Raposa Serra do Sol, was officially established in 2009.
 
 </div>
 
@@ -370,23 +377,23 @@ where they live, the Raposa Serra do Sol, was officially established in
 
 <div class="css-53u6y8">
 
-In 2019, she published a book, “Chants and Enchantment — Meriná
-Eremunkon,” with Devair Fiorotti.
+Ms. Pedro was the author of “Chants and Enchantment — Meriná Eremunkon,”
+a 2019 book written with Devair Fiorotti.
 
-Aside from Mr. Esbell, Ms. Pedro is survived by her children Marcilio,
-Benjamin, Aguinês, Jorge, Eldina and Charles. Her sons Jaime and Horacio
-died earlier. She had 15 grandchildren.
+In addition to Mr. Esbell, she is survived by six other children,
+Marcilio, Benjamin, Aguinês, Jorge, Eldina and Charles; and 15
+grandchildren. Her sons Jaime and Horacio died earlier.
 
 When Covid-19 first appeared in her village, Ms. Pedro was the one whom
 people called on to fight the new disease. She would perform a
-shamanistic ritual which involved filling the hut of an ailing person
+shamanistic ritual that involved filling the hut of an ailing person
 with smoke, chanting and dance. That was how she may have become
 infected, her son said.
 
-“She died doing what she liked to do,” Mr. Esbell explained, adding that
-Ms. Pedro imparted much of her traditional knowledge to her daughter
-Eldina, who will now assume her
-role
+“She died doing what she liked to do,” Mr. Esbell added. He said his
+mother had imparted much of her cultural knowledge to her daughter
+Eldina, who will now assume Ms. Pedro’s role as a keeper of Macuxi
+traditions.
 
 </div>
 
@@ -428,13 +435,46 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="helen-jones-woods" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.nyt.com/images/2020/08/05/obituaries/03Woods/03Woods-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Helen Jones Woods
+
+<div class="g-meta">
+
+<span>d. Sarasota, Fla. </span>
+
+</div>
+
+<div class="g-summ">
+
+Musician in all-female, multi-racial jazz
+band
+
+</div>
+
+</div>
+
+</div>
+
 <div id="bernaldina-josé-pedro" class="g-obit">
 
 <div class="g-flex-wrapper-image">
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/30/obituaries/30Pedro/30Pedro-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/30Pedro/30Pedro-square640.jpg)
 
 </div>
 
@@ -467,7 +507,7 @@ Macuxi
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
 
 </div>
 
@@ -533,7 +573,7 @@ Republic
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
 
 </div>
 
@@ -584,40 +624,7 @@ Coast
 
 <div class="g-summ">
 
-Jamaican singer and
-songwriter
-
-</div>
-
-</div>
-
-</div>
-
-<div id="waldemar-gonzalez" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Waldemar Gonzalez
-
-<div class="g-meta">
-
-<span>d. White Plains, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Teacher and social worker
+Jamaican singer and songwriter
 
 </div>
 

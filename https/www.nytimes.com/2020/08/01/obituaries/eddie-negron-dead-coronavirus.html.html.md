@@ -146,14 +146,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [College
     Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -237,10 +237,10 @@ He died of the novel coronavirus.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Dr. Eddie
-Negron spent more than 30 years as a family physician in
-Florida.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>via
+Negron spent more than 30 years as a family physician in the Florida
+Panhandle.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>via
 Negron
-family</span></span></span>](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+family</span></span></span>](https://static01.nyt.com/images/2020/08/05/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -267,14 +267,20 @@ Genzlinger</span>](https://www.nytimes.com/by/neil-genzlinger)
 
 </div>
 
-  - Aug. 1,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 4,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -327,9 +333,10 @@ medically.’”
 
 <div class="css-53u6y8">
 
-Mr. Roberts wasn’t just a friend, he was also a patient — fun-loving,
+Mr. Roberts wasn’t just a friend; he was also a patient: Fun-loving,
 dancing Eddie was Dr. Eddie A. Negrón, a longtime internist in [Fort
-Walton Beach](https://www.fwb.org/), Fla., on the Emerald Coast.
+Walton Beach](https://www.fwb.org/), along the Florida Panhandle’s
+Emerald Coast.
 
 If Dr. Negrón was a good dancer, he was an even better doctor. Mr.
 Roberts’s niece in Ohio was once having a problem that her own doctors
@@ -352,9 +359,9 @@ Dr. Negrón, Mr. Roberts said, diagnosed it from 800 miles away.
 Roberts said. “And he said, ‘No, but I remember it from medical
 school.’”
 
-In early July Dr. Negrón contracted the Covid-19 virus. His daughter
-Marisa Hutchinson said the family doubts his medical work was the
-source.
+Dr. Negrón contracted the Covid-19 virus in early July. His daughter
+Marisa Hutchinson said the family doubts that his medical work was the
+source of the infection.
 
 </div>
 
@@ -378,27 +385,27 @@ and to treat them,” Mr. Roberts said, “Eddie was one of them.”
 Eddie Alberto Negrón was born on Sept. 9, 1950, in [Vega
 Baja](https://welcome.topuertorico.org/city/vegabaja.shtml), on Puerto
 Rico’s north central coast, to David and Ana Lydia (Rosado) Negrón. When
-he was 10 the family moved to the Bronx, and his parents soon divorced;
-his mother, a certified nursing assistant, raised him and his two
-siblings. He spoke no English when he arrived in New York.
+he was 10 the family moved to the Bronx, and his parents soon divorced.
+His mother, a certified nursing assistant, raised him and his two
+siblings. He spoke no English when he had arrived in New York.
 
 “He always told me that’s where his love of science and math began,” Ms.
-Hutchinson said, since those subjects were not as language-intensive as
-others.
+Hutchinson said, explaining that those subjects were not as
+language-intensive as others.
 
-He shined shoes to earn a little money and worked hard in school, where
-he also took up the cello. After graduating from Dewitt Clinton High
-School in the Bronx, he earned a scholarship to the [University of
-Wisconsin-Platteville](https://www.uwplatt.edu/). He graduated in 1972
-with a bachelor of science degree.
+Eddie shined shoes to earn a little money and worked hard in school,
+where he also took up the cello. After graduating from Dewitt Clinton
+High School in the Bronx, he earned a scholarship to the [University of
+Wisconsin-Platteville](https://www.uwplatt.edu/), where he earned a
+bachelor of science degree in 1972.
 
-He was a laboratory technician at a Wisconsin hospital when he met his
-future mother-in-law, who worked in the cafeteria. She introduced him to
-her daughter, Patricia Renee Wright, a respiratory technician; they
-married in 1976.
+Dr. Negrón was a laboratory technician at a Wisconsin hospital when he
+met his future mother-in-law, who worked in the cafeteria. She
+introduced him to her daughter, Patricia Renee Wright, a respiratory
+technician; they married in 1976.
 
 Eventually he returned to school to get his medical degree at the
-University of Wisconsin School of Medicine; after he completed his
+University of Wisconsin School of Medicine. After he completed his
 residency in 1986, the family settled on the Emerald Coast, where he
 worked at the White-Wilson Medical Center for 14 years before starting
 his own practice.
@@ -459,13 +466,46 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="helen-jones-woods" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.nyt.com/images/2020/08/05/obituaries/03Woods/03Woods-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Helen Jones Woods
+
+<div class="g-meta">
+
+<span>d. Sarasota, Fla. </span>
+
+</div>
+
+<div class="g-summ">
+
+Musician in all-female, multi-racial jazz
+band
+
+</div>
+
+</div>
+
+</div>
+
 <div id="bernaldina-josé-pedro" class="g-obit">
 
 <div class="g-flex-wrapper-image">
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/30/obituaries/30Pedro/30Pedro-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/30Pedro/30Pedro-square640.jpg)
 
 </div>
 
@@ -498,7 +538,7 @@ Macuxi
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
 
 </div>
 
@@ -564,7 +604,7 @@ Republic
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
 
 </div>
 
@@ -615,40 +655,7 @@ Coast
 
 <div class="g-summ">
 
-Jamaican singer and
-songwriter
-
-</div>
-
-</div>
-
-</div>
-
-<div id="waldemar-gonzalez" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Waldemar Gonzalez
-
-<div class="g-meta">
-
-<span>d. White Plains, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Teacher and social worker
+Jamaican singer and songwriter
 
 </div>
 

@@ -210,7 +210,7 @@ Aug. 4,
 
 <div class="css-4xjgmj">
 
-<div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -529,7 +529,7 @@ about renovations rather than those who are trying to determine where
 are they going to find money to pay August’s rent?
 
 Sharon Myrie  
-New York
+Brooklyn
 
 </div>
 

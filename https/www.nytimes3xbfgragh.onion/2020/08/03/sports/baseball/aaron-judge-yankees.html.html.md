@@ -242,9 +242,8 @@ Wagner</span>](https://www.nytimes3xbfgragh.onion/by/james-wagner)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">10:39 a.m.
-    ET</span>
+    Aug. 3,
+    2020
     
     </div>
 
@@ -252,7 +251,7 @@ Wagner</span>](https://www.nytimes3xbfgragh.onion/by/james-wagner)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

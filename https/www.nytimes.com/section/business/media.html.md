@@ -186,6 +186,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of operation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brooks
+    Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
     
     <div class="css-79elbk">
@@ -194,10 +229,10 @@ story](#after-sponsor)
     
     </div>
     
-    ## McClatchy, Family-Run News Chain, Is Set to Go to Hedge Fund in Bankruptcy Sale
+    ## McClatchy, Family-Run News Chain, Goes to Hedge Fund in Bankruptcy Sale
     
-    A federal judge is expected to sign off on a $312 million deal for
-    the prestigious newspaper company to Chatham Asset Management at a
+    A federal judge signed off on a $312 million deal for the
+    prestigious newspaper company to Chatham Asset Management at a
     hearing Tuesday.
     
     <div class="css-1nqbnmb ea5icrr0">
@@ -215,7 +250,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -251,7 +286,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -285,7 +320,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -320,7 +355,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -357,7 +392,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -392,7 +427,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -415,8 +450,14 @@ story](#after-sponsor)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen
-    Browning</span>
+    <span>and</span> Kellen Browning</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
     
     </div>
     
@@ -428,7 +469,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -464,7 +505,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -486,43 +527,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/business/media/facebook-boycott.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## More Than 1,000 Companies Boycotted Facebook. Did It Work?
-    
-    Major advertisers on Facebook reduced their spending by millions of
-    dollars in July, but not enough to significantly damage the
-    platform’s revenue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tiffany Hsu <span>and</span> Eleanor
-    Lutz</span>
+    By <span class="css-1n7hynb">Sapna Maheshwari</span>
     
     </div>
     

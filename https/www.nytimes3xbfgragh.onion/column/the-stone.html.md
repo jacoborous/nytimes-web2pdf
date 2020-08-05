@@ -188,7 +188,7 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04stone/04stone-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/opinion/06stone/04stone-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

@@ -169,6 +169,78 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/politics/kobach-tlaib.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries
+    
+    In Missouri, Cori Bush, a progressive activist, upset the 10-term
+    incumbent William Lacy Clay Jr., marking another major step forward
+    for the progressive movement in its bid to threaten centrist
+    officials.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
+    Katie
+    Glueck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/politics/kris-kobach-kansas-senate-primary.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/3kansas-senate/merlin_175161510_f4c4d151-1bde-4939-8c87-e3f4369c7410-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Kansas Senate Primary Has Arrived, and the Anxiety Over Kobach Is High
+    
+    Republicans worry that if Kris Kobach, a polarizing figure in the
+    state, wins the nomination, it would pave the way for Democrats to
+    capture the seat and perhaps gain control of the Senate.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie
+    Glueck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/us/politics/joseph-biden-vice-president.html)
     
     <div class="css-79elbk">
@@ -199,7 +271,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +306,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -269,7 +341,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -303,7 +375,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -339,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +456,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +492,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -451,75 +523,6 @@ story](#after-mid1)
     
     [Leer en
     español](https://www.nytimes.com/es/2020/07/17/espanol/estados-unidos/cambio-climatico-trump-biden.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/14/us/politics/biden-climate-plan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/14/us/politics/14biden-climate/merlin_174409197_377ba489-9b74-4630-8c89-f84ee35a5b52-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Biden Announces $2 Trillion Climate Plan
-    
-    Joe Biden’s plan connects tackling climate change with the economic
-    recovery from the coronavirus crisis, while also addressing racism.
-    The proposal drew praise from his onetime critics.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie Glueck <span>and</span> Lisa
-    Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/interactive/2020/espanol/estados-unidos/joe-biden-elecciones.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2019/09/10/us/politics/10-biden-candidatepage/10-biden-candidatepage-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Joe Biden: Quién es y qué representa
-    
-    El exvicepresidente, ahora virtual nominado del Partido Demócrata,
-    dice que puede construir sobre el legado de Obama y unir a Estados
-    Unidos en un momento desafiante.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Katie Glueck</span>
     
     </div>
     

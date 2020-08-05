@@ -214,8 +214,8 @@ Closson</span>](https://www.nytimes3xbfgragh.onion/by/troy-closson)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">3:15 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -223,7 +223,7 @@ Closson</span>](https://www.nytimes3xbfgragh.onion/by/troy-closson)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -381,18 +381,18 @@ outages.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:52:48.739Z
+Updated 2020-08-05T03:55:25.341Z
 
 </div>
 
 </div>
 
-  - [Isaias is bringing the threat of tornadoes as it barrels
-    north.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-362830dd)
+  - [Isaias brought winds and rain to much of the East
+    Coast.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-38d68049)
   - [At least two people were killed by a tornado in North
     Carolina.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7961bdbc)
-  - [The storm is knocking out power over wide
-    areas.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34e5d4e4)
+  - [The storm knocked out power over wide
+    areas.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3480f4a1)
 
 <div class="briefing-block-footer">
 

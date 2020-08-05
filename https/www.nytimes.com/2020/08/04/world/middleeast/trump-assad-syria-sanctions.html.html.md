@@ -228,6 +228,27 @@ Without a broader diplomatic effort, the newest and toughest penalties
 will worsen a humanitarian crisis without forcing a leadership change,
 experts say.
 
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Syrians
+fled the city of Ariha, in the Idlib Province, in March after government
+forces, backed by Russian air power, bombed parts of the region in an
+effort to obtain control. New sanctions by the United States could scare
+off companies interested in rebuilding Syria’s
+cities.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Tyler
+Hicks/The New York
+Times</span></span></span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-syria-sanctions/merlin_170451123_c94169bd-de3a-4340-90d7-06525b9de1dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
 <div class="css-18e8msd">
 
 <div class="css-pdw9fk epjyd6m0">
@@ -257,8 +278,8 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:07 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -266,7 +287,7 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -288,27 +309,6 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Syrians
-fled the city of Ariha, in the Idlib Province, in March after government
-forces, backed by Russian air power, bombed parts of the region in an
-effort to obtain control. New sanctions by the United States could scare
-off companies interested in rebuilding Syria’s
-cities.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Tyler
-Hicks/The New York
-Times</span></span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-syria-sanctions/merlin_170451123_c94169bd-de3a-4340-90d7-06525b9de1dd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
@@ -407,21 +407,20 @@ targeted.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:32:24.665Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental
+    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 
@@ -478,8 +477,7 @@ until the Syrian regime and its allies accede.”
 <div class="css-53u6y8">
 
 The sanctions arrive at a time when Mr. al-Assad has nearly won Syria’s
-nine-year civil war, and finds his economy
-crumbling.
+nine-year civil war, and finds his economy crumbling.
 
 </div>
 
@@ -493,25 +491,12 @@ crumbling.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Shopping at
-a market in Raqqa in March. The value of Syria’s currency has fallen so
-far that basic commodities are unaffordable to many
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Shopping
+at a market in Raqqa in March 2019. The value of Syria’s currency has
+fallen so far that basic commodities are unaffordable to many
 residents.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Ivor
-Prickett for The New York Times</span></span>
+Prickett for The New York
+Times</span></span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-syria-sanctions2/merlin_153682044_c2ddd686-4c38-435c-87da-3026b051bfbb-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

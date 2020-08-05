@@ -232,8 +232,8 @@ Boudette</span>](https://www.nytimes3xbfgragh.onion/by/neal-e-boudette)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">3:57 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -241,7 +241,7 @@ Boudette</span>](https://www.nytimes3xbfgragh.onion/by/neal-e-boudette)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -384,7 +384,7 @@ course and presented only broad targets and revealed its plans piecemeal
 as it rolled out specific initiatives and projects.
 
 Ford shares were trading at about $11 when Mr. Hackett arrived. The
-stock was trading at $6.85 Tuesday afternoon, up about 2 percent.
+stock closed at $6.86 on Tuesday, up 2.5 percent.
 
 Mr. Hackett “faced challenges in technology changes and current
 operations without technology or auto industry experience,” said Erik

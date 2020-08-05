@@ -198,6 +198,23 @@ Home](https://nytimesads.gtspayments.com/)
     </div>
 
 2.  1.  <span class="css-1dv1kvn">Photo</span>
+        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karsten
+        Moran for The New York
+        Times</span>
+        <div class="css-1r9cexg">
+        <div class="css-1ox3lt4">
+        [![](https://static01.nyt.com/images/2020/08/05/realestate/05LIVING-GREENWOODHEIGHTS-slide-GQMA/05LIVING-GREENWOODHEIGHTS-slide-GQMA-thumbStandard.jpg)](/2020/08/05/realestate/greenwood-heights-brooklyn-open-space-and-room-to-breathe.html)
+        </div>
+        ### Living in
+        ## [Greenwood Heights, Brooklyn: Open Space and Room to Breathe](/2020/08/05/realestate/greenwood-heights-brooklyn-open-space-and-room-to-breathe.html)
+        The neighborhood around the Green-Wood Cemetery is known for
+        being ‘spacious and airy’ — an appealing quality in the age of
+        coronavirus.
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Andrew
+        Cotto</span></span>
+        </div>
+    2.  <span class="css-1dv1kvn">Photo</span>
         <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sarah
         Kobos</span>
         <div class="css-1r9cexg">
@@ -212,7 +229,7 @@ Home](https://nytimesads.gtspayments.com/)
         <span class="css-1baulvz last-byline" itemprop="name">Dorie
         Chevlen</span></span>
         </div>
-    2.  <span class="css-1dv1kvn">Photo</span>
+    3.  <span class="css-1dv1kvn">Photo</span>
         <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stefano
         Ukmar for The New York
         Times</span>
@@ -228,22 +245,6 @@ Home](https://nytimesads.gtspayments.com/)
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Joanne
         Kaufman</span></span>
-        </div>
-    3.  <span class="css-1dv1kvn">Photo</span>
-        <span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rancho
-        Photos</span>
-        <div class="css-1r9cexg">
-        <div class="css-1ox3lt4">
-        [![](https://static01.nyt.com/images/2020/08/03/realestate/03WYG-slide-HUST/03WYG-slide-HUST-thumbStandard.jpg)](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
-        </div>
-        ### What you Get
-        ## [$3 Million Homes in California](/2020/08/03/realestate/3-million-dollar-homes-for-sale-ca.html)
-        A Spanish-style retreat in Coronado, a midcentury-modern home in
-        Piedmont and a remodeled 1953 house in Los
-        Angeles.
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Angela
-        Serratore</span></span>
         </div>
 
 </div>

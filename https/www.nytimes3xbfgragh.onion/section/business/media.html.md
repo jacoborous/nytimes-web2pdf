@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-business-media" class="section css-15h4p1b e9abtgs0">
 
@@ -162,6 +186,41 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of operation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brooks
+    Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
     
     <div class="css-79elbk">
@@ -170,10 +229,10 @@ story](#after-sponsor)
     
     </div>
     
-    ## McClatchy, Family-Run News Chain, Is Set to Go to Hedge Fund in Bankruptcy Sale
+    ## McClatchy, Family-Run News Chain, Goes to Hedge Fund in Bankruptcy Sale
     
-    A federal judge is expected to sign off on a $312 million deal for
-    the prestigious newspaper company to Chatham Asset Management at a
+    A federal judge signed off on a $312 million deal for the
+    prestigious newspaper company to Chatham Asset Management at a
     hearing Tuesday.
     
     <div class="css-1nqbnmb ea5icrr0">
@@ -191,7 +250,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -227,7 +286,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -261,7 +320,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -296,7 +355,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -333,7 +392,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -368,7 +427,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -410,7 +469,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -446,7 +505,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -468,43 +527,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/business/media/facebook-boycott.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/facebook-july-ads-1596240062542/facebook-july-ads-1596240062542-thumbWide.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## More Than 1,000 Companies Boycotted Facebook. Did It Work?
-    
-    Major advertisers on Facebook reduced their spending by millions of
-    dollars in July, but not enough to significantly damage the
-    platform’s revenue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tiffany Hsu <span>and</span> Eleanor
-    Lutz</span>
+    By <span class="css-1n7hynb">Sapna Maheshwari</span>
     
     </div>
     

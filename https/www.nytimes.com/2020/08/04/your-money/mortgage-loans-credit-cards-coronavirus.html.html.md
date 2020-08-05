@@ -271,8 +271,8 @@ Bernard</span>](https://www.nytimes.com/by/tara-siegel-bernard)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:32 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -280,7 +280,7 @@ Bernard</span>](https://www.nytimes.com/by/tara-siegel-bernard)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -325,9 +325,9 @@ The economic crisis caused by the pandemic has driven [interest rates to
 rock-bottom
 levels](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html),
 meaning there has hardly been a better time to borrow. But with tens of
-million of people out of work and coronavirus infections surging in many
-parts of the country, qualifying for a loan — from mortgages to auto
-loans — has become more trying, even for well-positioned borrowers.
+millions of people out of work and coronavirus infections surging in
+many parts of the country, qualifying for a loan — from mortgages to
+auto loans — has become more trying, even for well-positioned borrowers.
 
 </div>
 
@@ -375,21 +375,20 @@ bureau.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:32:24.665Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental
+    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 
@@ -701,7 +700,7 @@ more detailed proof of their earnings — at least when they’re getting a
 loan that will be backed by [Fannie
 Mae](https://singlefamily.fanniemae.com/media/22316/display?_ga=2.27818620.1955261175.1593457830-553926868.1583167746&_gac=1.52708252.1591220517.EAIaIQobChMIyYH3gc7m6QIVlovICh2LUgv0EAMYASAAEgJkPvD_BwE)
 or [Freddie
-Mac](https://guide.freddiemac.com/app/guide/bulletin/2020-19). .
+Mac](https://guide.freddiemac.com/app/guide/bulletin/2020-19).
 
 “Employment and income verification for self-employed borrowers is now
 multiple times more detailed as it previously was,” said Ted Rood, a

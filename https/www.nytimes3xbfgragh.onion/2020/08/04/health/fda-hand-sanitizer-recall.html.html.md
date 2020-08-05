@@ -240,8 +240,8 @@ Taylor</span>](https://www.nytimes3xbfgragh.onion/by/derrick-bryson-taylor)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">2:48 p.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

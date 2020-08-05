@@ -388,6 +388,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+    
+    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
+    is coming to Audible ahead of a film adaptation with Julianne Moore.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elisabeth
+    Egan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/theater/the-first-equity-authorized-indoor-theater-is-moving-outdoors.html)
     
     <div class="css-79elbk">
@@ -417,7 +451,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -451,7 +485,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -487,7 +521,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -522,7 +556,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -557,7 +591,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -591,7 +625,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -627,7 +661,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -662,7 +696,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -682,43 +716,9 @@ story](#after-mid1)
     
     How can you get your cultural fix when many arts institutions remain
     closed? Our writers offer suggestions for what to listen to, read
-    and
-    watch.
+    and watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/theater/finish-the-fight-suffrage-centennial-performance.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/22/multimedia/22suffrage-theater-03/22suffrage-theater-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Finish the Fight’: A Special Digital Theater Performance Celebrates 100 Years of Women’s Right to Vote
-    
-    Join The New York Times for an original play from some of the
-    brightest young voices working today.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The New York Times</span>
     
     </div>
     

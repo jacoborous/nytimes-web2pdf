@@ -270,8 +270,9 @@ Fandos</span>](https://www.nytimes3xbfgragh.onion/by/nicholas-fandos)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 2,
-    2020
+    Published Aug. 2, 2020Updated Aug. 5, 2020,
+    <span class="css-epvm6">1:33 a.m.
+    ET</span>
     
     </div>
 
@@ -279,7 +280,7 @@ Fandos</span>](https://www.nytimes3xbfgragh.onion/by/nicholas-fandos)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -301,6 +302,10 @@ Fandos</span>](https://www.nytimes3xbfgragh.onion/by/nicholas-fandos)
 </div>
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div>
+
+</div>
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 

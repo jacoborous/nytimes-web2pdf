@@ -757,7 +757,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/obituaries/31Swing/31Swing-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/31Swing/31Swing-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

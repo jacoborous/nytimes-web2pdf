@@ -392,6 +392,109 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04levandowski2/04levandowski2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Star Technologist Who Crossed Google Sentenced to 18 Months in Prison
+    
+    Anthony Levandowski, a onetime star Silicon Valley engineer of
+    self-driving cars, had pleaded guilty to stealing trade secrets.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of operation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brooks
+    Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Apple Replaces Phil Schiller as Its Top Marketing Executive
+    
+    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
+    at the company.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Davey Alba <span>and</span> Brian X.
+    Chen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/business/robot-cleaning-coronavirus.html)
     
     <div class="css-79elbk">
@@ -423,7 +526,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -457,7 +560,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -480,8 +583,14 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen
-    Browning</span>
+    <span>and</span> Kellen Browning</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
     
     </div>
     
@@ -493,7 +602,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -533,7 +642,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -567,7 +676,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -602,7 +711,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -625,112 +734,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    Gelles</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/your-money/birkin-bag-racehorse-invest.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/business/01Wealth-01/31Wealth-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Wealth Matters</span>
-    
-    ## Can’t Afford a Birkin Bag or a Racehorse? You Can Invest in One
-    
-    Interest in fractional investments has grown as the pandemic has
-    forced more people to spend time at home, but advisers say the
-    strategy has risks.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul
-    Sullivan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/business/dealbook/tech-earnings-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/business/31db-newsletter-tech/merlin_143699331_c29bfe0a-ad1b-4166-b608-8b284713156f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">DealBook Newsletter</span>
-    
-    ## They Made How Much?
-    
-    Big tech companies reported bumper profits in the shadow of
-    congressional scrutiny over their outsize market
-    power.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/business/dealbook/tech-hearing-highlights.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/business/30db-newsletter-tech/merlin_175082016_1abaa848-e171-431a-9a82-816fab57fc05-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">DealBook Newsletter</span>
-    
-    ## Congress Versus the ‘Emperors’
-    
-    These moments stood out during the congressional hearing about Big
-    Tech’s market power.
-    
-    <div class="css-1nqbnmb ea5icrr0">
+    By <span class="css-1n7hynb">David Gelles</span>
     
     </div>
     

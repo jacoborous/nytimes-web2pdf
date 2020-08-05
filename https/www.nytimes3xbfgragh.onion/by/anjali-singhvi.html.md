@@ -174,6 +174,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mapping the Damage From the Beirut Explosions
+    
+    Damage was seen at least two miles from the explosions, encompassing
+    an area with more than 750,000 residents.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
+    McCann, Lauren Leatherby <span>and</span> Blacki
+    Migliozzi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/es/2020/06/26/espanol/latinos-coronavirus.html)
     
     <div class="css-79elbk">
@@ -211,7 +246,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -252,7 +287,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -288,7 +323,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -324,7 +359,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -360,7 +395,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +432,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -433,7 +468,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -468,7 +503,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -490,42 +525,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Larry Buchanan, Jugal K. Patel, Brian
-    M. Rosenthal <span>and</span> Anjali
-    Singhvi</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/world/coronavirus-maps-italy-iran-korea.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/11/us/coronavirus-hotspots-promo-1583984359996/coronavirus-hotspots-promo-1583984359996-thumbWide-v6.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How the World’s Largest Coronavirus Outbreaks Are Growing
-    
-    The world’s hardest-hit countries are trying a variety of measures
-    to stop the spread of the virus. Here’s how they’re doing.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Anjali Singhvi, Allison McCann, Jin Wu
-    <span>and</span> Blacki Migliozzi</span>
+    M. Rosenthal <span>and</span> Anjali Singhvi</span>
     
     </div>
     

@@ -236,9 +236,8 @@ Kepner</span>](https://www.nytimes3xbfgragh.onion/by/tyler-kepner)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">2:03 p.m.
-    ET</span>
+    Aug. 3,
+    2020
     
     </div>
 
@@ -246,7 +245,7 @@ Kepner</span>](https://www.nytimes3xbfgragh.onion/by/tyler-kepner)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -385,13 +384,13 @@ disciplined.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-96558" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
 <div>
 
-### The Games Resume
+### The Coronavirus Outbreak
 
 #### Sports and the Virus
 
@@ -414,7 +413,7 @@ life:
         out](https://www.nytimes3xbfgragh.onion/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         of the 2020 baseball season for Covid-related reasons.
 
-<div id="styln-survey-component-29614" class="styln-survey-component">
+<div id="styln-survey-component-96558" class="styln-survey-component">
 
 </div>
 

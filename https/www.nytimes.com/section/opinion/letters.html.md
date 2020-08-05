@@ -183,8 +183,9 @@ story](#after-sponsor)
     ## BlackRock, on Argentina’s Debt Accord
     
     The firm says its role is consistent with its commitment to
-    stakeholder capitalism. Also: Transgender service
-    members.
+    stakeholder capitalism. Also: Transgender service members; a paucity
+    of conversation; second-home
+    owners.
     
     <div class="css-1nqbnmb ea5icrr0">
     

@@ -174,6 +174,77 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/us/hurricane-isaias-updates.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/04isaias-01/04isaias-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast
+    
+    Officials warned residents to stay out of harm’s way as at least two
+    people were killed by tornadoes, and two others from fallen trees.
+    Millions were left without power.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael Venutolo-Mantovani
+    <span>and</span> Rick
+    Rojas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/us/isaias-east-coast-landfall.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/03isaias-01/03isaias-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## East Coast Braces for Floods and Wind as Isaias Intensifies
+    
+    A heavy soaking is expected in the Carolinas and Maryland, with
+    tropical storm warnings and watches in effect all the way up the
+    Eastern Seaboard.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Rick Rojas <span>and</span> Lucy
+    Tompkins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/tropical-storm-isaias-florida-carolina.html)
     
     <div class="css-79elbk">
@@ -202,7 +273,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +308,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +343,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -307,7 +378,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -342,7 +413,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -377,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -411,7 +482,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -434,78 +505,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Sergio Olmos, Rick Rojas
-    <span>and</span> Mike
-    Baker</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/18/us/John-Lewis-Atlanta.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/us/19lewis-activists-print1/merlin_174704760_5940e9c3-a784-4415-8251-d6b542e10807-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘They Didn’t Just Love Him. They Knew Him.’ Young Atlanta Activists Mourn John Lewis.
-    
-    Mr. Lewis, who died on Friday, served as a connective tissue linking
-    the lions of the civil rights movement to a new generation of
-    activists in the city.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rick
-    Rojas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/13/us/coronavirus-governors.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/10/us/00VIRUS-GOVS-inslee/merlin_174411192_cf734c54-f5d0-436a-8474-8e41fc9edf9a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## America’s Governors Get Tested for a Virus That Is Testing Them
-    
-    The pandemic has put many governors of both parties under a
-    spotlight for which none of their aides and consultants have a
-    playbook.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Manny Fernandez, Rick Rojas, Shawn
-    Hubler <span>and</span> Mike Baker</span>
+    <span>and</span> Mike Baker</span>
     
     </div>
     

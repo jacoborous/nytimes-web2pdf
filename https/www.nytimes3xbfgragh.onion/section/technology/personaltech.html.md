@@ -483,7 +483,25 @@ story](#after-mid1)
 [More in Technology
     »](/section/technology)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    Sullivan/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04levandowski2/04levandowski2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Star Technologist Who Crossed Google Sentenced to 18 Months in Prison](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    
+    Anthony Levandowski, a onetime star Silicon Valley engineer of
+    self-driving cars, had pleaded guilty to stealing trade
+    secrets.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
     Wright for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
     
@@ -501,7 +519,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
     Lam/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -516,24 +534,6 @@ story](#after-mid1)
     <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
     Chen</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-    Henry for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
-    
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve
-    ads.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kate
-    Conger</span></span>
     
     </div>
 
@@ -554,19 +554,22 @@ story](#after-mid1)
     
     </div>
 
-5.  
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
+    Burbank/Orlando Sentinel, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Faces European Inquiry Into Fitbit Acquisition](/2020/08/04/business/google-fitbit-europe.html)
+    ## [Disney, Staggered by Pandemic, Sees a Streaming Boom](/2020/08/04/business/media/disney-earnings-coronavirus.html)
     
-    Authorities are investigating how Google will use health and
-    wellness data collected from Fitbit’s fitness tracking
-    devices.
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of
+    operation.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Satariano</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brooks
+    Barnes</span></span>
     
     </div>
 

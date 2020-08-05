@@ -218,7 +218,7 @@ story](#after-subheader)
     
     </div>
     
-    ## Rafael Nadal Won’t Chase Repeat Title at U.S. Open
+    ## Rafael Nadal Won’t Chase a Repeat of His U.S. Open Title
     
     Nadal said he would prefer not to travel to the New York tournament
     during the coronavirus pandemic.

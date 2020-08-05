@@ -242,9 +242,8 @@ begun to reopen, with fraught results.
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">2:39 p.m.
-    ET</span>
+    Published Aug. 3, 2020Updated Aug. 4,
+    2020
     
     </div>
 
@@ -395,9 +394,11 @@ Twitter,” Mr. Biden said.
 <div class="css-53u6y8">
 
 But other Republicans piled on. “Dr. Birx, like Dr. Fauci, has been
-wrong much more than she has been right on COVID-19, & their destructive
-prescriptions have led to the devastation of countless American lives,”
-Representative Andy Biggs, Republican of Arizona, [wrote on
+wrong much more than she has been right on
+[COVID-19](https://www.nytimes3xbfgragh.onion/2020/08/04/health/coronavirus-immune-system.html),
+& their destructive prescriptions have led to the devastation of
+countless American lives,” Representative Andy Biggs, Republican of
+Arizona, [wrote on
 Twitter](https://twitter.com/RepAndyBiggsAZ/status/1290297517582610433?s=20).
 
 Dr. Birx had warned during an appearance on the CNN program “State of
@@ -459,13 +460,13 @@ families.
 
 <div class="g-svelte" data-component="1">
 
-<div class="dashboard svelte-1o1rjf3">
+<div class="dashboard svelte-1d7tjro">
 
 ## [Tracking the Coronavirus ›](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-<div class="grid svelte-1o1rjf3">
+<div class="grid svelte-1d7tjro">
 
-<div class="section svelte-1o1rjf3">
+<div class="section svelte-1d7tjro">
 
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
@@ -479,7 +480,7 @@ families.
 <thead>
 <tr class="header">
 <th><strong>United States ›</strong></th>
-<th>On Aug. 3</th>
+<th>On Aug. 4</th>
 <th>14-day<br />
 change</th>
 <th>Trend</th>
@@ -488,16 +489,16 @@ change</th>
 <tbody>
 <tr class="odd">
 <td>New cases</td>
-<td>47,832</td>
-<td>-9%</td>
+<td>53,304</td>
+<td>-11%</td>
 <td><div class="chart-container svelte-m2fyje" style="color: #cc0000">
 
 </div></td>
 </tr>
 <tr class="even">
 <td>New deaths</td>
-<td>602</td>
-<td>+36%</td>
+<td>1,358</td>
+<td>+33%</td>
 <td><div class="chart-container svelte-m2fyje" style="color: #333">
 
 </div></td>
@@ -507,7 +508,7 @@ change</th>
 
 </div>
 
-<div class="section svelte-1o1rjf3">
+<div class="section svelte-1d7tjro">
 
 <div class="rising">
 
@@ -536,13 +537,13 @@ R.I.
 </div>
 
 N.J.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)
 
 <div class="chart-container svelte-sxbviw">
 
 </div>
 
-Alaska
+Mass.
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)
 
 <div class="chart-container svelte-sxbviw">
@@ -557,13 +558,6 @@ Neb.
 </div>
 
 Mo.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Mass.
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
 <div class="chart-container svelte-sxbviw">
@@ -571,13 +565,6 @@ Mass.
 </div>
 
 S.D.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/puerto-rico-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-P.R.
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)
 
 <div class="chart-container svelte-sxbviw">
@@ -592,13 +579,27 @@ Ill.
 </div>
 
 Okla.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maryland-coronavirus-cases.html)
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
 
 <div class="chart-container svelte-sxbviw">
 
 </div>
 
-Md.
+Alaska
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/puerto-rico-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+P.R.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Mont.
 
 </div>
 
@@ -606,7 +607,7 @@ Md.
 
 </div>
 
-<div class="section svelte-1o1rjf3">
+<div class="section svelte-1d7tjro">
 
 <div class="maps svelte-2bdny">
 
@@ -615,13 +616,13 @@ Md.
 ### U.S. hot spots ›
 
 ![US coronavirus
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/images/orphan_usa-threeByTwoSmallAt2X.png)
 [](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
 
 ### Worldwide ›
 
 ![Worldwide coronavirus
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_world-threeByTwoSmallAt2X.png)
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -807,21 +808,20 @@ Monday.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T20:08:28.255Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
   - [Novavax sees encouraging results from two studies of its
     experimental
     vaccine.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 

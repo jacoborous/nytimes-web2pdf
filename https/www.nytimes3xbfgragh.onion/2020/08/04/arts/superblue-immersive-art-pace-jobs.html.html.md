@@ -237,8 +237,8 @@ Rose</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:54 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -246,7 +246,7 @@ Rose</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -494,9 +494,9 @@ infinity.
 
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">“Universe of
 Water Particles on a Rock Where People Gather,” a kinetic installation
-at teamLab Borderless, the group’s showcase on the Tokyo waterfront,
-attracted 2.3 million
-people.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>teamLab
+at teamLab Borderless, the group’s showcase in Tokyo. The art group is
+joining
+Superblue.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>teamLab
 and Pace Gallery</span></span>
 
 </div>

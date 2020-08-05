@@ -260,8 +260,8 @@ Shattuck</span>](https://www.nytimes.com/by/kathryn-shattuck)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">10:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

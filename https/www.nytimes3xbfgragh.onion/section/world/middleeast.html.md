@@ -176,6 +176,217 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05beirut-questions-1/merlin_175322967_91935e7a-fece-4ef5-879e-9e033021942f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What We Know and Don’t Know About the Beirut Explosions
+    
+    More than 100 people were killed, and the second blast was felt in
+    Cyprus. An investigation and a search for survivors are underway.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Austin
+    Ramzy</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/world/middleeast/beirut-explosion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-briefing-1sub/merlin_175321077_5b30b6db-7a82-407b-9bf0-064c6b78641d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## After Deadly Beirut Explosion, a Search for Answers and Survivors: Live Updates
+    
+    Rescue workers dug through rubble searching for survivors as fires
+    continued to burn in the Lebanese capital, where an explosion killed
+    more than 100 and injured
+    thousands.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04beirut-first-account/merlin_175303311_606f30a4-a476-48ec-9327-c93d6f96b2d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## I Was Bloodied and Dazed. Beirut Strangers Treated Me Like a Friend.
+    
+    In a land conditioned by calamity, people knew what to do, including
+    helping wounded people they didn’t know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Vivian
+    Yee</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/world/20200805/beirut-explosion-first-person/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/world/20200805/beirut-explosion-first-person/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mapping the Damage From the Beirut Explosions
+    
+    Damage was seen at least two miles from the explosions, encompassing
+    an area with more than 750,000 residents.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
+    McCann, Lauren Leatherby <span>and</span> Blacki
+    Migliozzi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/lebanon-explosion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/world/04lebanon-ledeall-1sub/04lebanon-ledeall-1sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Blasts Rock Beirut, Killing Dozens and Wounding Thousands
+    
+    The cause remained unclear hours later. But officials in the
+    Lebanese capital said 2,750 tons of highly explosive ammonium
+    nitrate had been stored in a depot at the center of the explosion.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben
+    Hubbard</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/beirut-lebanon-explosions-photos.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-photos-1/merlin_175321224_4c4f7459-f64e-471a-8f2c-f934b55c6329-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Lebanon Explosions in Photos
+    
+    Images from Beirut show the extent of the devastation from blasts
+    that shook the Lebanese capital on Tuesday.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The New York
+    Times</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
     
     <div class="css-79elbk">
@@ -205,7 +416,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -215,21 +426,20 @@ story](#after-sponsor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon/04lebanon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon5/merlin_175300464_f2bfa9c9-20e6-4321-b833-b5160a0ead76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## At Least 25 Killed as Powerful Explosion Rocks Beirut: Live Updates
+    ## What We Know About the Explosions in Beirut, Lebanon
     
-    The government had stored “highly explosive materials” at the blast
-    scene on the Lebanese capital’s waterfront, a top military official
-    said. Thousands of people were injured and the shock was felt across
-    the city.
+    Dozens are dead and thousands hurt. The cause is unclear but the
+    government said “highly explosive materials” had been stored at the
+    blast scene in the Lebanese capital.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Hubbard</span>
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Maria
+    Abi-Habib</span>
     
     </div>
     
@@ -241,7 +451,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +486,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -298,220 +508,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabel
-    Kershner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/middleeast/israel-Netanyahus-son-tweets.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02israel-netanyahu/02israel-netanyahu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Israeli Court Rebukes Prime Minister’s Son Over Harassing Protest Leaders
-    
-    Yair Netanyahu tweeted the addresses and phone numbers of three men
-    who led protests against his father’s administration. All three said
-    they later received death threats.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam
-    Rasgon</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/middleeast/uae-nuclear-Barakah.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01uae-nuclear/01uae-nuclear-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.A.E. Becomes First Arab Nation to Open a Nuclear Power Plant
-    
-    The launch is raising concerns about the growing number of nuclear
-    programs in the volatile Middle East.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Vivian
-    Yee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/world/middleeast/iran-jamshid-sharmahd-arrested-kingdom-assembly.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01iran/01iran-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Iran Says It Detained Leader of California-Based Exile Group
-    
-    The detained man, Jamshid Sharmahd of the Kingdom Assembly of Iran,
-    is accused of planning attacks on Iran, including a 2008 one that
-    killed 14 and injured 200.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/world/middleeast/100000007268443/iran-united-states-nuclear-program-negotiation.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/world/01iran01/01iran01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Iran Won’t Negotiate With U.S., Supreme Leader Says
-    
-    In a televised speech, Iran’s supreme leader, Ayatollah Ali
-    Khamenei, said the country would expand its nuclear program and
-    would not negotiate with the United States.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/middleeast/isis-beatles-hostages.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-isis-beatles/merlin_136198725_e417b546-3fd9-4835-a71f-c60e3d42c320-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Officials Reconsider Prosecuting ISIS ‘Beatles’ Without Death Penalty
-    
-    American military officials in Iraq want two detainees taken off
-    their hands and a British court has blocked sharing evidence for any
-    death-penalty case. But other options are also getting a second
-    look.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Charlie Savage <span>and</span> Eric
-    Schmitt</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31heatwave/merlin_175001865_05582ad2-bf6c-4d4f-acee-82bf1880bac9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Scorching Temperatures Bake Middle East Amid Eid al-Adha Celebrations
-    
-    Record high temperatures were recorded in Baghdad and Damascus, and
-    experts warned of the effects of prolonged heat waves as the planet
-    warms.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Falih Hassan <span>and</span> Elian
-    Peltier</span>
+    By <span class="css-1n7hynb">Isabel Kershner</span>
     
     </div>
     

@@ -177,6 +177,112 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+    
+    The upset of the veteran congressman from St. Louis sent tremors
+    though the Democratic establishment in Missouri and Washington, D.C.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/coronavirus-recovery-plan-negotiations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-virus-cong/merlin_175309938_0696afcb-d343-4aea-b5c1-8fd0ba2769de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trading Concessions on Recovery Plan, Negotiators Set Week’s End Deadline for a Deal
+    
+    White House officials and top Democrats reported some movement in
+    their talks on a pandemic relief package as the talks reached a
+    crisis point on Capitol Hill.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
+    Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## In St. Louis, Testing Liberal Might Against a Democratic Fixture
+    
+    Cori Bush, an activist backed by the progressive group Justice
+    Democrats, is trying to unseat 10-term Representative William Lacy
+    Clay in a bid to turn protest-movement fervor into hard political
+    power.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/us/politics/gohmert-coronavirus-congress.html)
     
     <div class="css-79elbk">
@@ -206,7 +312,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -242,7 +348,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -278,7 +384,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -313,7 +419,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -380,7 +486,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -404,112 +510,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
     Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/us/politics/igor-danchenko-steele-dossier.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/us/politics/23dc-fbi1/23dc-fbi1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The F.B.I. Pledged to Keep a Source Anonymous. Trump Allies Aided His Unmasking.
-    
-    After a Russia expert who had collected research on Donald Trump for
-    a disputed dossier agreed to tell the F.B.I. what he knew about it,
-    law enforcement officials declassified a road map to identifying
-    him.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam Goldman <span>and</span> Charlie
-    Savage</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/us/politics/republicans-stimulus-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/us/politics/23dc-cong/merlin_174871641_5ed4391a-79a1-4dde-b33b-34a68b9b438a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Republican Stimulus Talks Stall Over Differences on Unemployment
-    
-    Disputes over how to extend supplemental jobless benefits — and a
-    White House push for money for a new F.B.I. building — slowed
-    efforts to agree to an opening bid in negotiations with Democrats.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane, Jim Tankersley
-    <span>and</span> Alan
-    Rappeport</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/us/politics/democrats-congress-presidential-pardons.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/23/us/politics/23dc-pardons-1/23dc-pardons-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## House Democrats Advance New Checks on Presidential Pardon Power
-    
-    The measures face major political and constitutional hurdles, but
-    amount to the most substantial attempt by Congress in recent history
-    to put guardrails around such powers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos</span>
     
     </div>
     

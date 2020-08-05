@@ -155,102 +155,105 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ringo
+    H.W. Chiu/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbStandard.jpg)](/2020/07/30/climate/bangladesh-floods.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbStandard.jpg)](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
     
     </div>
     
-    ### Inequity at the boiling point
+    ## [Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
     
-    ## [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](/2020/07/30/climate/bangladesh-floods.html)
-    
-    The country’s latest calamity illustrates a striking inequity of our
-    time: The people least responsible for climate change are among
-    those most hurt by its
-    consequences.
+    Twin emergencies on two coasts this week — Hurricane Isaias and the
+    Apple Fire — offer a preview of life in a warming world and the
+    steady danger of overlapping
+    disasters.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Somini Sengupta</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Julfikar Ali
-    Manik</span></span>
+    <span class="css-1baulvz" itemprop="name">Christopher
+    Flavelle</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Henry
+    Fountain</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Munir
-    Uz Zaman/Agence France-Presse \&mdash; Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Sirlin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-TORNADOES/04CLI-TORNADOES-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbStandard.jpg)](/2020/07/30/climate/sea-level-inland-floods.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-TORNADOES/04CLI-TORNADOES-thumbStandard.jpg)](/2020/08/04/climate/hurricanes-tornadoes.html)
     
     </div>
     
-    ## [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](/2020/07/30/climate/sea-level-inland-floods.html)
+    ## [Why Hurricanes Bring Tornadoes After They Make Landfall](/2020/08/04/climate/hurricanes-tornadoes.html)
     
-    As climate change raises sea levels, storm surges and high tides
-    will push farther inland, a team of researchers
-    says.
+    Tornadoes start in the outer edges of hurricanes. Once a storm is
+    over land, the increase in surface friction can lead to
+    twisters.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brad
-    Plumer</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Henry
+    Fountain</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Win
-        Mcnamee/Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/climate/27CLI-EPA/27CLI-EPA-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [E.P.A. Inspector General to Investigate Trump’s Biggest Climate Rollback](/2020/07/27/climate/trump-fuel-efficiency-rule.html)
+        ### Inequity at the boiling point
+        
+        ## [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](/2020/07/30/climate/bangladesh-floods.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/climate/27CLI-EPA/27CLI-EPA-thumbStandard.jpg)](/2020/07/27/climate/trump-fuel-efficiency-rule.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbStandard.jpg)](/2020/07/30/climate/bangladesh-floods.html)
         
         </div>
         
-        The agency’s watchdog office said Monday it would investigate
-        whether the reversal of Obama-era fuel efficiency standards
-        violated government
-        rules.
+        The country’s latest calamity illustrates a striking inequity of
+        our time: The people least responsible for climate change are
+        among those most hurt by its
+        consequences.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Coral Davenport</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Lisa
-        Friedman</span></span>
+        <span class="css-1baulvz" itemprop="name">Somini Sengupta</span>
+        and
+        <span class="css-1baulvz last-byline" itemprop="name">Julfikar
+        Ali
+        Manik</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/climate/24cli-pebblemine-12/24cli-pebblemine-12-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Munir
+        Uz Zaman/Agence France-Presse \&mdash; Getty
+        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Gold vs. Salmon: An Alaska Mine Project Just Got a Boost](/2020/07/24/climate/pebble-mine-alaska-environment.html)
+        ## [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](/2020/07/30/climate/sea-level-inland-floods.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/climate/24cli-pebblemine-12/24cli-pebblemine-12-thumbStandard.jpg)](/2020/07/24/climate/pebble-mine-alaska-environment.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbStandard.jpg)](/2020/07/30/climate/sea-level-inland-floods.html)
         
         </div>
         
-        The Trump Administration, rejecting concerns over the risks to
-        Alaska’s fishery, cleared the way on Friday for the Pebble
-        Mine.
+        As climate change raises sea levels, storm surges and high tides
+        will push farther inland, a team of researchers
+        says.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Henry Fountain</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Acacia
-        Johnson</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Brad
+        Plumer</span></span>
         
         </div>
 
@@ -260,20 +263,20 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/16/us/virus-emissions-reopening-promo-1592366098511/virus-emissions-reopening-promo-1592366098511-videoLarge-v2.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/climate/24cli-pebblemine-12/24cli-pebblemine-12-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Emissions Are Surging Back as Countries and States Reopen](/interactive/2020/06/17/climate/virus-emissions-reopening.html)
+    ## [Gold vs. Salmon: An Alaska Mine Project Just Got a Boost](/2020/07/24/climate/pebble-mine-alaska-environment.html)
     
-    As the pandemic rages, the world is still far from getting global
-    warming under
-    control.
+    The Trump Administration, rejecting concerns over the risks to
+    Alaska’s fishery, cleared the way on Friday for the Pebble
+    Mine.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Brad Plumer</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nadja
-    Popovich</span></span>
+    <span class="css-1baulvz" itemprop="name">Henry Fountain</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Acacia
+    Johnson</span></span>
     
     </div>
 
@@ -407,23 +410,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
+    [](/2020/08/04/us/politics/trump-land-conservation-bill.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
+    ## Trump Signs Landmark Land Conservation Bill
     
-    The European oil giant has plans for a future with more electrical
-    generation.
+    The bipartisan Great American Outdoors Act guarantees funding for
+    federal land use efforts. The president claimed credit for
+    Republicans.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley
-    Reed</span>
+    By <span class="css-1n7hynb">Annie
+    Karni</span>
     
     </div>
     
@@ -441,25 +445,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
+    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
     
-    Twin emergencies on two coasts this week — Hurricane Isaias and the
-    Apple Fire — offer a preview of life in a warming world and the
-    steady danger of overlapping disasters.
+    The European oil giant has plans for a future with more electrical
+    generation.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
-    Henry
-    Fountain</span>
+    By <span class="css-1n7hynb">Stanley
+    Reed</span>
     
     </div>
     
@@ -725,25 +727,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/nyregion/nyc-midtown-manhattan-coronavirus.html)
+    [](/2020/07/27/climate/trump-fuel-efficiency-rule.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/27nytoday/merlin_174828966_25d532f1-65d9-4313-8dcb-5d5508f72082-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/climate/27CLI-EPA/27CLI-EPA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">New York Today</span>
+    ## E.P.A. Inspector General to Investigate Trump’s Biggest Climate Rollback
     
-    ## The Uncertain Future of Midtown
-    
-    Midtown Manhattan faces an economic catastrophe, a cascade of loss
-    upon loss in the city's corporate heart that threatens to alter its
-    identity. 
+    The agency’s watchdog office said Monday it would investigate
+    whether the reversal of Obama-era fuel efficiency standards violated
+    government rules.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir Zaveri</span>
+    By <span class="css-1n7hynb">Coral Davenport <span>and</span> Lisa
+    Friedman</span>
     
     </div>
     

@@ -140,7 +140,31 @@ Scene](/column/anatomy-of-a-scene)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jackson
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hopper
+    Stone/HBO
+    Max</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/05americanpickle2/05americanpickle2-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/05americanpickle2/05americanpickle2-thumbStandard.jpg)](/2020/08/04/movies/an-american-pickle-review.html)
+    
+    </div>
+    
+    ## [‘An American Pickle’ Review: Keeping It Kosher](/2020/08/04/movies/an-american-pickle-review.html)
+    
+    A time-travel farce plays as a Jewish joke about an old-world
+    immigrant and his millennial great-grandson, both played by Seth
+    Rogen.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">A.O.
+    Scott</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jackson
     Finter/IFC
     Midnight</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/23horror-isolation1/23horror-isolation1-videoLarge.jpg)
     
@@ -167,57 +191,34 @@ Scene](/column/anatomy-of-a-scene)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    White/Parkwood Entertainment and Disney+, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/merlin_175156710_9a080074-027a-45b4-b8e5-62196ac030c8-jumbo.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
-    
-    </div>
-    
-    ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
-    
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative
-    power.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
-    <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>,
-    <span class="css-1baulvz" itemprop="name">Gia Kourlas</span>,
-    <span class="css-1baulvz" itemprop="name">Wesley Morris</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Salamishah
-    Tillet</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+        White/Parkwood Entertainment and Disney+, via Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### anatomy of a scene
-        
-        ## [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](/2020/07/31/movies/palm-springs-clip-hulu.html)
+        ## [Beyoncé’s ‘Black Is King’: Let’s Discuss](/2020/07/31/arts/music/beyonce-black-is-king.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-thumbStandard.jpg)](/2020/07/31/movies/palm-springs-clip-hulu.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbStandard.jpg)](/2020/07/31/arts/music/beyonce-black-is-king.html)
         
         </div>
         
-        The director Max Barbakow narrates a wedding sequence from his
-        comedy, now streaming on
-        Hulu.
+        Six critics on the visual album rooted in her “Lion
+        King”-inspired record “The Gift,” a grand statement of
+        African-diaspora pride and creative
+        power.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Mekado
-        Murphy</span></span>
+        <span class="css-1baulvz" itemprop="name">Jason Farago</span>,
+        <span class="css-1baulvz" itemprop="name">Vanessa
+        Friedman</span>, <span class="css-1baulvz" itemprop="name">Gia
+        Kourlas</span>, <span class="css-1baulvz" itemprop="name">Wesley
+        Morris</span>, <span class="css-1baulvz" itemprop="name">Jon
+        Pareles</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+        Tillet</span></span>
         
         </div>
     
@@ -250,7 +251,25 @@ Scene](/column/anatomy-of-a-scene)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
+1.  ### anatomy of a scene
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’](/2020/07/31/movies/palm-springs-clip-hulu.html)
+    
+    The director Max Barbakow narrates a wedding sequence from his
+    comedy, now streaming on
+    Hulu.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mekado
+    Murphy</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hollywood
     Pictures</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/obituaries/01Parker-obit1/31Parker6-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -267,7 +286,7 @@ Scene](/column/anatomy-of-a-scene)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
     Ord/Getty Images; Roy Rochlin, via Getty
     Images;</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/00SODERBERGH-COMBO/00SODERBERGH-COMBO-videoLarge-v2.jpg)
     
@@ -283,24 +302,6 @@ Scene](/column/anatomy-of-a-scene)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kyle
     Buchanan</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Columbia
-    Pictures</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/00brimley/00brimley-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85](/2020/08/01/obituaries/wilford-brimley-dead.html)
-    
-    Recognizable by his walrus mustache, the actor specialized in
-    playing cantankerous characters in “Absence of Malice,” “The
-    Natural” and other
-    films.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">William
-    Grimes</span></span>
     
     </div>
 
@@ -396,6 +397,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of operation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brooks
+    Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/movies/red-penguins-review.html)
     
     <div class="css-79elbk">
@@ -425,7 +461,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -460,7 +496,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -495,7 +531,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -529,7 +565,42 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/obituaries/wilford-brimley-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/00brimley/00brimley-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Wilford Brimley, ‘Cocoon’ Star and Quaker Oats Pitchman, Is Dead at 85
+    
+    Recognizable by his walrus mustache, the actor specialized in
+    playing cantankerous characters in “Absence of Malice,” “The
+    Natural” and other films.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">William
+    Grimes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -564,7 +635,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -598,7 +669,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -634,7 +705,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -655,77 +726,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Teo
-    Bugbee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/latte-and-the-magic-waterstone-review.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/latte1/latte1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Latte and the Magic Waterstone’ Review: A Hedgehog’s Journey
-    
-    Cuddly animals go on wild adventures in this animated Netflix movie.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maya
-    Phillips</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## The 1964 Olympics Certified a New Japan, in Steel and on the Screen
-    
-    The world’s elite athletes would have been in Tokyo right now if not
-    for the coronavirus pandemic. When they went half a century ago,
-    they discovered a capital transformed by design.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason Farago</span>
+    By <span class="css-1n7hynb">Teo Bugbee</span>
     
     </div>
     

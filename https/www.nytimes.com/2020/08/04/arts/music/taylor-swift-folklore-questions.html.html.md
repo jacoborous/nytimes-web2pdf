@@ -539,8 +539,8 @@ of</span><span class="css-cbc4vz">Popcast</span>](https://www.nytimes.com/column
 
 <div class="css-1tlsmx">
 
-Aug. 4, 2020, <span class="css-epvm6">11:24 a.m.
-ET</span>
+Aug. 4,
+2020
 
 <div>
 

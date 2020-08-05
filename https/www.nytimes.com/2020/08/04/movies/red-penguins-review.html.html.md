@@ -206,9 +206,9 @@ went awry.
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A scene
-from “Red Penguins.” In the new documentary, sports are incidental. The
-movie is really about Russia’s transition to
-capitalism.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Universal</span></span></span>](https://static01.nyt.com/images/2020/08/04/arts/04redpenguins/04redpenguins-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+from “Red Penguins.” The new documentary tells the story of two
+Pittsburgh Penguins owners who invested in a Russian
+team.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Universal</span></span></span>](https://static01.nyt.com/images/2020/08/04/arts/04redpenguins/04redpenguins-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -231,8 +231,8 @@ Kenigsberg</span>](https://www.nytimes.com/by/ben-kenigsberg)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:42 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -240,7 +240,7 @@ Kenigsberg</span>](https://www.nytimes.com/by/ben-kenigsberg)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

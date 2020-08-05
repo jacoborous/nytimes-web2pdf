@@ -237,9 +237,8 @@ Khatib</span>](https://nytimes3xbfgragh.onion/by/joumana-khatib)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 30, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">4:07 p.m.
-    ET</span>
+    Published July 30, 2020Updated Aug. 4,
+    2020
     
     </div>
 

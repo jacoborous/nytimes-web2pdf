@@ -258,8 +258,14 @@ Carmel</span>](https://www.nytimes.com/by/julia-carmel)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">1:50 p.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4,
+    2020
+    
+    </div>
 
   - 
     
@@ -298,9 +304,9 @@ the show at Radio City Music Hall won’t go on, the owner of the venue
 said Tuesday.
 
 “We regret that the 2020 production of the ‘Christmas Spectacular
-Starring the Radio City Rockettes’” has been canceled, MSG Entertainment
-said in a statement, citing “uncertainty associated with the Covid-19
-pandemic.”
+Starring the Radio City Rockettes’” has been canceled, Madison Square
+Garden Entertainment said in a statement, citing “uncertainty associated
+with the Covid-19 pandemic.”
 
 According to [the Rockettes’ website](https://www.rockettes.com/blog/),
 more than 75 million people have seen the dancers perform since the
@@ -322,10 +328,10 @@ year,” she added with two broken-heart emojis. “Please Wear a Mask.”
 
 <div class="css-53u6y8">
 
-A spokeswoman for Madison Square Garden Entertainment, which also
-manages the show, confirmed that the Madison Square Garden Company plans
-to lay off 350 people — about one-third of the company’s corporate work
-force, [The New York
+A spokeswoman for MSG Entertainment, which also manages the show,
+confirmed that the Madison Square Garden Company plans to lay off 350
+people — about one-third of the company’s corporate work force, [The New
+York
 Post](https://nypost.com/2020/08/04/radio-city-christmas-spectacular-canceled-for-first-time-ever/?utm_source=browser&utm_medium=push-notification&utm_campaign=radio-city-christmas-spectacular-canceled-for-first-time-ever)
 reported.
 

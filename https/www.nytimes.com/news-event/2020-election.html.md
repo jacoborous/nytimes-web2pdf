@@ -217,8 +217,8 @@ story](#after-subheader)
     
     </div>
     
-    [Election
-    Updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    [Latest
+    Results](https://www.nytimes.com/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html)
     
     </div>
 
@@ -323,10 +323,11 @@ Newsletter](https://www.nytimes.com/newsletters/politics)
 
 ### The Latest
 
-Five states are holding primary elections Tuesday, with voters in
-Arizona, Kansas, Michigan, Missouri and Washington State choosing
-nominees for Congress and local offices. [Follow live election updates
-here.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+Kris Kobach, a polarizing figure in Kansas politics, [lost the
+Republican Senate primary
+there](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html),
+relieving G.O.P. officials who feared he could jeopardize a safe red
+seat.
 
 </div>
 
@@ -361,7 +362,7 @@ contenders.
 
 <div class="headshot-wrapper" style="background:#1a80c4; ">
 
-![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/855e17443cc43c7f3b32de9d2d19719bae50ba6c/headshots/biden.png)
+![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/603bb89344a26f1184f8f99841f32139d47262ef/headshots/biden.png)
 
 </div>
 
@@ -378,7 +379,7 @@ Democrat
 
 <div class="headshot-wrapper" style="background:#cf222c; ">
 
-![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/855e17443cc43c7f3b32de9d2d19719bae50ba6c/headshots/trump.png)
+![](https://static01.nyt.com/newsgraphics/2019/10/24/2020-landing-page/603bb89344a26f1184f8f99841f32139d47262ef/headshots/trump.png)
 
 </div>
 
@@ -419,24 +420,23 @@ Republican
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Allison
+    Farrand for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04whattowatch1/merlin_170318628_cc5fe952-825b-47c8-8354-897171b41804-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/07/13/us/politics/elections-briefing-promo-image/elections-briefing-promo-image-thumbStandard-v2.jpg)](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    [![](https://static01.nyt.com/images/2020/08/04/us/politics/04whattowatch1/04whattowatch1-thumbStandard.jpg)](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
     
     </div>
     
-    ## [Live 2020 Election Updates: Kris Kobach and Rashida Tlaib Are on the Primary Ballot](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
+    ## [What to Watch For in Today’s Primaries](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
     
-    President Trump downplayed the legacy of John Lewis in an interview.
-    In St. Louis, Cori Bush, a progressive activist, will try again to
-    unseat William Lacy Clay, a 20-year
-    incumbent.
+    Representative Rashida Tlaib faces a rematch in Michigan. And some
+    Republicans aren’t thrilled about Kris Kobach’s Senate campaign in
+    Kansas.
     
     <span class="css-me3p27"></span>
     
@@ -575,24 +575,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-4-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
-    
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record instead.
+    ## Arizona Primary Election Results: Fourth Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
     
     </div>
     
@@ -610,25 +603,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-prosecutors.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-primary-elections.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/04/20/us/onpolitics-speech-bubble-white-still/onpolitics-speech-bubble-white-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics</span>
-    
-    ## A Wider-Than-Thought Trump Investigation
-    
-    New York prosecutors may be circling the president’s business
-    practices: This is your morning tip sheet.
+    ## Live: Michigan State Primary Election Results 2020
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Giovanni
-    Russonello</span>
     
     </div>
     
@@ -646,25 +631,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-8-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
-    
-    At every step in her political career, the California congresswoman
-    had to be coaxed to run for a higher office. Now she’s a top
-    contender to be Joe Biden’s running mate.
+    ## Arizona Primary Election Results: Eighth Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
-    Jennifer
-    Medina</span>
     
     </div>
     
@@ -682,24 +659,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/trump-mail-in-voting.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-10-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-trump/03dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Again Assails Mail-In Voting
-    
-    The president has been raging against voting by mail for several
-    months, claiming without evidence that the process is plagued by
-    fraud.
+    ## Michigan Primary Election Results: 10th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D.
-    Shear</span>
     
     </div>
     
@@ -717,24 +687,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/tata-pentagon.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-13-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/03dc-military/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Puts Pentagon in Political Crossfire With Tata Appointment
-    
-    The president sidestepped Congress when it became clear that his
-    nominee for a top Defense Department position would not win Senate
-    approval.
+    ## Michigan Primary Election Results: 13th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Helene
-    Cooper</span>
     
     </div>
     
@@ -752,23 +715,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/michigan-primary-rashida-tlaib-brenda-jones.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-11-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03michigan-setup1/03michigan-setup1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Rashida Tlaib Beat Her Primary Opponent by 900 Votes in 2018. How Will the Rematch Go?
-    
-    The Michigan Democrat is facing a rematch against a challenger who
-    says she hasn’t done enough for her district in Detroit.
+    ## Michigan Primary Election Results: 11th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kathleen
-    Gray</span>
     
     </div>
     
@@ -786,20 +743,15 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/elections/biden-vs-trump.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-2-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03elections-briefing-trump-top/merlin_175275168_1ebc9de7-c419-4b57-a9f8-72c282befd31-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Attacking Mail-In Voting, Trump Suggests Rerunning a New York Race
-    
-    Former President Barack Obama endorsed 118 candidates, hoping to tip
-    the scales in key battlegrounds. Primary races in several states on
-    Tuesday have the attention of national party
-    leaders.
+    ## Arizona Primary Election Results: Second Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -819,23 +771,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/the-federalist-trump-liberals.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-primary-elections.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30thelibs-1/30thelibs-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## These Conservatives Have a Laser Focus: ‘Owning the Libs’
-    
-    On The Federalist and in Fox News appearances, some of President
-    Trump’s supporters don’t really defend him. They attack the critics.
+    ## Live: Arizona State Primary Election Results 2020
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeremy W.
-    Peters</span>
     
     </div>
     
@@ -853,24 +799,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/nyc-mail-ballots-voting.html)
+    [](/interactive/2020/08/04/us/elections/results-washington-house-district-5-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/nyregion/00nyvoting-02/00nyvoting-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/washington-standard/washington-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why the Botched N.Y.C. Primary Has Become the November Nightmare
-    
-    Nearly six weeks later, two congressional races remain undecided,
-    and officials are trading blame over the mishandling of tens of
-    thousands of mail-in ballots.
+    ## Washington Primary Election Results: Fifth Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jesse
-    McKinley</span>
     
     </div>
     
@@ -888,24 +827,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/interactive/2020/08/04/us/elections/results-missouri-house-district-1-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/missouri-standard/missouri-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
-    
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    ## Missouri Primary Election Results: First Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie Karni</span>
     
     </div>
     

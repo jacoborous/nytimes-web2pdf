@@ -210,6 +210,40 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/sports/tennis/rafael-nadal-us-open.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/sports/04usopen-protocols01/merlin_160464417_c050389e-e841-43cb-b413-d8af8282a247-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rafael Nadal Won’t Chase a Repeat of His U.S. Open Title
+    
+    Nadal said he would prefer not to travel to the New York tournament
+    during the coronavirus pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christopher
+    Clarey</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/sports/tennis/us-open-hawkeye-line-judges.html)
     
     <div class="css-79elbk">
@@ -241,7 +275,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +310,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +345,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +380,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -381,7 +415,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -415,7 +449,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -450,7 +484,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -485,7 +519,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -508,42 +542,7 @@ story](#after-subheader)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Christopher Clarey <span>and</span>
-    Elian
-    Peltier</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/22/sports/tennis/djokovic-exhibition-positive-tests-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/22/sports/22virus-tennis-web-1/22virus-tennis-web-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## After Virus Tests, Djokovic Is Criticized for Holding Exhibition
-    
-    A match on the Adria Tour, an exhibition circuit organized by Novak
-    Djokovic in the Balkans, was canceled on Sunday after a player
-    tested positive for the coronavirus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher Clarey</span>
+    Elian Peltier</span>
     
     </div>
     

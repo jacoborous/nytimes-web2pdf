@@ -209,8 +209,8 @@ Satariano</span>](https://www.nytimes.com/by/adam-satariano)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">12:33 p.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

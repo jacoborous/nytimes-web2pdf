@@ -276,8 +276,8 @@ McKinley</span>](https://www.nytimes.com/by/jesse-mckinley)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:09 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -285,7 +285,7 @@ McKinley</span>](https://www.nytimes.com/by/jesse-mckinley)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -570,11 +570,11 @@ not, including by now being a frequent visitor of the conservative
 television shows that Mr. Trump follows.
 
 He has even embraced the hard-liner image that the president values.
-Before Mr. Wolf agreed last week to pull tactical teams out of Portland
-and allow the state police to handle the protests, he flew to the city
-and stood for photographs alongside officers in front of graffiti-laced
-walls at the federal courthouse — even as officials in the department
-addressed [a
+Before Mr. Wolf agreed last week to **** withdraw the tactical teams
+from the courthouse on the condition that state police handle the
+protests, he flew to the city and stood for photographs alongside
+officers in front of graffiti-laced walls at the federal courthouse —
+even as officials in the department addressed [a
 memo](https://int.nyt.com/data/documenttools/dh-stacticalagent-memo1/d490e392eab7d7d6/full.pdf)
 to him warning that the tactical teams did not have the [proper training
 to quell the

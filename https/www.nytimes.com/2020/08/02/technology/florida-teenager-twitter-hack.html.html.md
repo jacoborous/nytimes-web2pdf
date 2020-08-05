@@ -181,9 +181,8 @@ Browning</span>](https://www.nytimes.com/by/kellen-browning)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 2, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">3:38 p.m.
-    ET</span>
+    Published Aug. 2, 2020Updated Aug. 4,
+    2020
     
     </div>
 

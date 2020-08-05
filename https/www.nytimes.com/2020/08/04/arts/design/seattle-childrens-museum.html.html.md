@@ -240,7 +240,7 @@ the Seattle Children’s Museum posted this list of books that feature
 anti-racist messaging in May. Hours later, they found that certain parts
 had been deleted, like the phrase “Black Lives Matter.” The label at the
 top right was added by
-staff.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>-</span></span></span>](https://static01.nyt.com/images/2020/08/04/arts/04pulldown3/04pulldown3-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+staff.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>-</span></span></span>](https://static01.nyt.com/images/2020/08/05/arts/04pulldown3/04pulldown3-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -259,8 +259,8 @@ Jacobs</span>](https://www.nytimes.com/by/julia-jacobs)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">12:56 p.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     
@@ -394,7 +394,7 @@ of trustees of the children’s museum hired an outside investigator to
 get to the root of what happened with the Black Lives Matter
 posts.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Seattle
 Children's
-Museum</span></span>](https://static01.nyt.com/images/2020/08/04/arts/04pulldown-02/04pulldown-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Museum</span></span>](https://static01.nyt.com/images/2020/08/05/arts/04pulldown-02/04pulldown-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

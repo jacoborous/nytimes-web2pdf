@@ -183,13 +183,13 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.nyt.com/images/2020/08/04/arts/04pulldown3/04pulldown3-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.nyt.com/images/2020/08/05/arts/04pulldown3/04pulldown3-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/04/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
+    [![](https://static01.nyt.com/images/2020/08/05/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
     
     </div>
     

@@ -232,8 +232,8 @@ Boudette</span>](https://www.nytimes.com/by/neal-e-boudette)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:32 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -241,7 +241,7 @@ Boudette</span>](https://www.nytimes.com/by/neal-e-boudette)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -268,31 +268,23 @@ Boudette</span>](https://www.nytimes.com/by/neal-e-boudette)
 
 <div class="css-53u6y8">
 
-Ford Motor said its chief executive, Jim Hackett, will retire on Oct. 1,
-ending a three-year run in which the automaker has tried to [streamline
-its operations and focus its business on electric cars, trucks and
-sport-utility
-vehicles](https://www.nytimes.com/2018/06/17/business/ford-detroit-station.html)
-with mixed success.
+Three years ago, Ford Motor brought in a new chief executive, Jim
+Hackett, to streamline the company’s inner workings and raise profits.
 
-Mr. Hackett, 65, will be succeeded by James D. Farley Jr., who had been
-[named chief operating officer in
-February](https://www.nytimes.com/2020/02/07/business/ford-motor-jim-farley.html).
+Now, after he achieved mixed results, the company is again turning to a
+new boss, hoping he can accelerate the process and finish the job.
+
+On Tuesday, Ford said Mr. Hackett will retire on Oct. 1 and will be
+succeeded by James D. Farley Jr., whose promotion to [chief operating
+officer in
+February](https://www.nytimes.com/2020/02/07/business/ford-motor-jim-farley.html)
+had fueled speculation that Mr. Hackett’s tenure was nearing an end.
 
 “I am very grateful to Jim Hackett for all he has done to modernize Ford
 and prepare us to compete and win in the future,” said William Clay Ford
 Jr., Ford’s executive chairman. [The
 company](https://www.nytimes.com/topic/company/ford-motor-company), he
 added, is becoming “much more nimble.”
-
-Mr. Hackett, a former chief executive of Steelcase, an office furniture
-manufacturer that is much smaller and less complex, was named to [the
-top job at
-Ford](https://www.nytimes.com/2017/05/22/business/jim-hackett-ford.html)
-in May 2017, as the company’s business was slumping. He promised to
-revitalize Ford’s operations and steer the company toward vehicles that
-would generate profits and invest in emerging technologies like electric
-and self-driving vehicles.
 
 </div>
 
@@ -302,15 +294,39 @@ and self-driving vehicles.
 
 <div class="css-53u6y8">
 
+Mr. Farley will take the titles of president and C.E.O., and join Ford’s
+board of directors, the company said.
+
+Mr. Hackett, a former chief executive of Steelcase, an office furniture
+manufacturer that is much smaller and less complex, was named to [the
+top job at
+Ford](https://www.nytimes.com/2017/05/22/business/jim-hackett-ford.html)
+in May 2017, as the company’s business was slumping under his
+predecessor, Mark Fields. Mr. Hackett promised to revitalize Ford’s
+operations and steer the company toward vehicles that would generate
+profits — pickup trucks and sport-utility vehicles — and invest in
+emerging technologies like electric and self-driving vehicles.
+
 The company is starting to introduce some of the models developed under
-Mr. Hackett, including a redesigned F-150 pickup truck and the Mustang
-Mach E, [an electric S.U.V. styled to resemble the storied sports
-car](https://www.nytimes.com/2019/11/17/business/ford-mustang-electric-suv.html).
+Mr. Hackett, including a redesigned F-150 pickup truck and a new series
+of S.U.V.s under its dormant Bronco brand. The Mustang Mach E, [an
+electric S.U.V. styled to resemble the storied sports
+car](https://www.nytimes.com/2019/11/17/business/ford-mustang-electric-suv.html),
+has generated lots of buzz and is set to go into production later this
+year.
 
 “We have lots of work ahead of us to complete our mission, but thanks to
 Jim, we are a very different company today than we were three years
 ago,” Mr. Ford said in a conference call to discuss the leadership
 change.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Mr. Hackett is credited with eliminating money-losing cars from Ford’s
 North American lineup in favor of more profitable pickups and S.U.V.s.
@@ -356,13 +372,10 @@ dropping to $47 million last year. This year, the pandemic has hammered
 its business, and the company lost $876 million in the first half of the
 year.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
+“Making the C.E.O. change now could be viewed as Ford is ready to move
+faster, more aggressively,” Joseph Spak, an analyst with RBC Capital
+Markets, wrote in a note to clients. “Farley’s persona and style may be
+what is needed for that.”
 
 Wall Street analysts have criticized Mr. Hackett for stopping short of
 presenting a full turnaround plan with detailed financial goals and
@@ -371,7 +384,7 @@ course and presented only broad targets and revealed its plans piecemeal
 as it rolled out specific initiatives and projects.
 
 Ford shares were trading at about $11 when Mr. Hackett arrived. The
-stock was trading at $6.77 Tuesday afternoon, up about 1 percent.
+stock closed at $6.86 on Tuesday, up 2.5 percent.
 
 Mr. Hackett “faced challenges in technology changes and current
 operations without technology or auto industry experience,” said Erik
@@ -383,19 +396,6 @@ capitalization of [Tesla, the electric
 automaker](https://www.nytimes.com/topic/company/tesla-motors-inc) that
 makes far fewer cars and has been around only since 2003.
 
-Mr. Farley, 58, joined Ford in 2007 from Toyota Motor, and has held a
-variety of jobs, including running the company’s marketing, its European
-operations and a new business strategy group.
-
-Mr. Farley said his first priority is ensuring a smooth transition. He
-added that he is optimistic about the company’s prospects now that it
-has introduced the new F-150, a new Bronco S.U.V. and the Mustang Mach
-E, a potential Tesla rival slated to go into production late this year.
-
-On his list of tasks are raising Ford’s profit margin in North America
-to 10 percent or more, cutting costs and reviving the company’s sales in
-Europe, China and South America.
-
 </div>
 
 </div>
@@ -403,6 +403,40 @@ Europe, China and South America.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Mr. Farley, 58, joined Ford in 2007 from Toyota Motor, where he played a
+key role in launching the company’s Lexus luxury brand. Since arriving
+at Ford, he has held a variety of jobs, including running the company’s
+marketing, its European operations and a new business strategy group.
+
+Mr. Farley’s temperament is very different from Mr. Hackett’s. The
+current chief executive has a cerebral, grandfatherly presence and is
+known for writing long companywide emails about his thoughts on Ford and
+its future. Mr. Farley is known as an intense and animated personality.
+
+In a conference call, Mr. Farley noted the automaker has a history going
+back 117 years. Over more than a century, Ford has competed with and
+been closely compared to its two Detroit rivals, General Motors and the
+company now known as Fiat Chrysler.
+
+But given the technological changes and disruption now rippling through
+the auto industry, Mr. Farley said Ford’s competitors today include
+companies like Amazon, Tesla, Toyota and Baidu, a Chinese
+artificial-intelligence technology company that is working on
+self-driving cars.
+
+Mr. Farley said his first priority would be to ensure a smooth
+transition. He added that he is optimistic about the company’s prospects
+now that it has introduced the new F-150, Bronco S.U.V. and the Mustang
+Mach E. Ford is hoping the Mustang Mach E will emerge as a serious
+challenger to Tesla, which [has faced little serious
+competition](https://www.nytimes.com/2020/07/22/business/tesla-electric-car-audi-polestar.html).
+The company is also taking aim at Jeep, a Fiat Chrysler brand, with its
+new Bronco, for which it has taken 150,000 reservations.
+
+On Mr. Farley’s list of tasks are raising Ford’s profit margin in North
+America to 10 percent or more, cutting costs and reviving the company’s
+sales in Europe, China and South America.
 
 “I’m inspired by the momentum we are building,” Mr. Farley said in the
 conference call. “To fulfill our mission, we need to swing for the

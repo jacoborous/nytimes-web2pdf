@@ -269,8 +269,8 @@ Seibert</span>](https://www.nytimes.com/by/brian-seibert)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">8:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     
@@ -358,7 +358,7 @@ Forget all-star game: This is the ultimate dance camp finale.
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A scene
 from “In This Life,” a film directed by Bat-Sheva
 Guez.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Giacomo
-Belletti</span></span>](https://static01.nyt.com/images/2020/08/04/arts/04watching-moving-2NEW/merlin_175266327_2f561bde-2945-456d-9d9a-e55483014009-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Belletti</span></span>](https://static01.nyt.com/images/2020/08/05/arts/04watching-moving-2NEW/merlin_175266327_2f561bde-2945-456d-9d9a-e55483014009-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

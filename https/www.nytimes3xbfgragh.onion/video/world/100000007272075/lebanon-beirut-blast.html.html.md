@@ -40,10 +40,87 @@
 
 <div>
 
-new video loaded: Huge Blast Shakes
+new video loaded: Videos Capture Aftermath of Deadly Blast in
 Beirut
 
 <div>
+
+<div class="css-1g7y0i5 e1drnplw0">
+
+<div class="css-1ceswkc e1drnplw1">
+
+</div>
+
+<div class="css-f2fzwx e1drnplw2">
+
+<div data-aria-labelledby="modal-title" data-role="region">
+
+<div id="modal-title" class="css-mln36k">
+
+transcript
+
+</div>
+
+<div class="css-pbq7ev">
+
+</div>
+
+<span>Back</span>
+
+<div class="css-f6lhej">
+
+<div class="css-1ialerq">
+
+<div class="css-1701swk">
+
+bars
+
+</div>
+
+<div>
+
+<div class="css-1t7yl1y">
+
+0:00/1:30
+
+</div>
+
+<div class="css-og85jy">
+
+\-1:30
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## Videos Capture Aftermath of Deadly Blast in Beirut
+
+#### Videos captured the toll of the deadly blast in Beirut that killed dozens of people and injured thousands.
+
+</div>
+
+  -   
+    \[screaming\] \[smaller explosions\] \[giant blast\] \[alarms\]
+    \[alarms\]
+\[crying\]
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
 
@@ -91,18 +168,19 @@ Beirut
 
 <div class="css-ggwicp">
 
-# <span>Huge Blast Shakes Beirut</span>
+# <span>Videos Capture Aftermath of Deadly Blast in Beirut</span>
 
 <div class="css-19m31ns">
 
-By The New York Times<span class="css-1iknmmf">•</span>August 4,
+By Maya Blackstone and Christiaan
+Triebert<span class="css-1iknmmf">•</span>August 4,
 2020
 
 </div>
 
 </div>
 
-## Footage shows a powerful explosion and its aftermath in Beirut, Lebanon, on Tuesday.
+## Videos captured the toll of the deadly blast in Beirut that killed dozens of people and injured thousands.
 
 </div>
 
@@ -156,19 +234,32 @@ By The New York Times<span class="css-1iknmmf">•</span>August 4,
     
     ### After the Storm, a Fight for Survival in Mozambique
 
-  - <span class="css-1k4szha"></span>
+  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007272762/un-secretary-generational-catastrophe-schools-reopen.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-briefing-un/merlin_174338310_a5db87e5-45e5-4b44-a65b-b846a42948cf-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:31</span>
+    
+    ### U.N. Says Virus Causing ‘Largest Disruption of Education Ever’
+
+  - <span class="css-1nlzxd2"></span>
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
     
-    ### Huge Blast Shakes Beirut
+    ### Videos Capture Aftermath of Deadly Blast in Beirut
 
   - [](https://www.nytimes3xbfgragh.onion/video/world/100000007271927/pacific-island-rescue-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
     
@@ -442,19 +533,6 @@ By The New York Times<span class="css-1iknmmf">•</span>August 4,
     <span class="css-1xigvfz">0:43</span>
     
     ### European Health Care Workers Protest for Better Working Conditions
-
-  - [](https://www.nytimes3xbfgragh.onion/video/world/asia/100000007193762/north-korea-blows-office-south-korea.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/world/16nkorea-top/16nkorea-top-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:38</span>
-    
-    ### North Korea Blows Up Office Shared With South Korea
 
 </div>
 

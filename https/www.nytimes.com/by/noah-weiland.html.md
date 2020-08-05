@@ -173,6 +173,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/trump-plasma.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies
+    
+    Thousands of Covid-19 patients have been treated with blood plasma
+    outside of rigorous clinical trials — hampering research that would
+    have shown whether the therapy worked.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie Thomas <span>and</span> Noah
+    Weiland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
@@ -203,7 +238,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -238,7 +273,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +309,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +345,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +381,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -382,7 +417,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -418,7 +453,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -453,7 +488,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -475,41 +510,6 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Michael D. Shear <span>and</span> Noah
-    Weiland</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/08/us/politics/coronavirus-tulsa-trump-rally.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/08/multimedia/08virus-tulsa-health/merlin_173763288_19b0b218-eb9d-40de-b8c8-9d69ca87abfb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Surge in Tulsa ‘More Than Likely’ Linked to Trump Rally
-    
-    Dr. Bruce Dart, the director of the Tulsa Health Department, said
-    Tulsa County had reported nearly 500 new cases of Covid-19 in the
-    past two days.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Astor <span>and</span> Noah
     Weiland</span>
     
     </div>

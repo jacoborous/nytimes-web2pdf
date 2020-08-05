@@ -237,14 +237,21 @@ Landler</span>](https://www.nytimes3xbfgragh.onion/by/mark-landler)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">3:08 p.m.
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 4, 2020Updated Aug. 5, 2020,
+    <span class="css-epvm6">12:36 a.m.
     ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -537,8 +544,8 @@ majestic chamber.
 There was less debate about Mr. Johnson’s decision to recommend a
 peerage for his brother, Jo Johnson. While the younger Mr. Johnson has a
 good reputation — he served in Parliament and the cabinet before
-resigning to protest his brother’s handing of Brexit — most viewed it as
-an open-and-shut case of
+resigning to protest his brother’s handling of Brexit — most viewed it
+as an open-and-shut case of
 nepotism.
 
 </div>

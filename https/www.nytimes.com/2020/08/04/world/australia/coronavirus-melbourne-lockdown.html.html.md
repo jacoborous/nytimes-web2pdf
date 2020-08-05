@@ -272,8 +272,8 @@ Cave</span>](https://www.nytimes.com/by/damien-cave)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:21 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -281,7 +281,7 @@ Cave</span>](https://www.nytimes.com/by/damien-cave)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -310,41 +310,23 @@ Cave</span>](https://www.nytimes.com/by/damien-cave)
 <div class="css-53u6y8">
 
 Australia’s second-largest city, Melbourne, is grappling with a
-spiraling coronavirus outbreak in a country that once thought it had the
-pandemic beat.
+spiraling coronavirus outbreak that has led to a lockdown with some of
+the toughest restrictions in the world — offering a preview of what many
+urban dwellers elsewhere could confront in coming weeks and months.
 
-It has now imposed some of the toughest restrictions in the world,
-offering a preview of what many urban dwellers elsewhere could confront
-in coming weeks and months.
+The new lockdown is the product of early success; the country thought it
+had the virus beat in June. But there was a [breakdown in the quarantine
+program for
+hotels](https://www.theage.com.au/national/victoria/how-hotel-quarantine-let-covid-19-out-of-the-bag-in-victoria-20200703-p558og.html).
+Returning travelers passed the virus to hotel security guards in
+Melbourne, who carried the contagion home.
 
-Melbourne, and the rest of Australia, was once a shining victor,
-believing the virus to have been vanquished as of late June. But
-assumptions made about hotel guests turned out to be the weak link.
-
-A [breakdown in the quarantine program for
-hotels](https://www.theage.com.au/national/victoria/how-hotel-quarantine-let-covid-19-out-of-the-bag-in-victoria-20200703-p558og.html),
-which was contracted out to private security, meant that returning
-travelers passed the virus to hotel security guards, who carried the
-contagion into their neighborhoods.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The spread continued even after Melbourne started a so-called Stage 3
-lockdown in early July — until recently, the highest level of
-restrictions — with no large gatherings and most people working from
-home. Officials grew increasingly angry as they discovered that the
-perception of a problem solved had produced complacency.
-
-As officials cast about for ways to break the chain of infections, the
-city has developed a confounding matrix of hefty fines for disobedience
-to the lockdown, with minor exceptions for everything from romantic
-partners to home building, and endless versions of the question: So,
+Even after masks became mandatory in the city two weeks ago, the spread
+continued. And now, as officials try to break the chain of infections,
+Melbourne is being reshaped by sweeping enforcement and fine print. A
+confounding matrix of hefty fines for disobedience to the lockdown and
+minor exceptions for everything from romantic partners to home building
+has led to silenced streets and endless versions of the question: So,
 wait, can I \_\_\_\_?
 
 Restaurant owners are wondering about food delivery after an 8 p.m.
@@ -353,6 +335,14 @@ and girlfriends count as essential partners. Can animal shelter
 volunteers walk dogs at night? Are house cleaners essential for those
 struggling with their mental health? Can people who have been tested
 exercise outside?
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 “This is such a weird, scary, bizarro time that we live in,” said
 Tessethia Von Tessle Roberts, 25, a student in Melbourne who admits to
@@ -364,80 +354,11 @@ alive,” she said. “Our politicians are as scared as we are, but they
 have to pretend like they have a better idea than we do of what’s going
 to happen next.”
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Pandemic lockdowns, never easy, are getting ever more confusing and
 contentious as they evolve in the face of second and third rounds of
 outbreaks that have exhausted both officials and residents. With success
 against the virus as fleeting as the breeze, the new waves of
-restrictions feel to many like a bombing raid that just won’t
-end.
-
-<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-04T18:55:17.683Z
-
-</div>
-
-</div>
-
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-<div class="briefing-block-briefinglinks">
-
-<span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+restrictions feel to many like a bombing raid that just won’t end.
 
 For some places, risk calculations can change overnight. In Hong Kong,
 officials banned daytime dining in restaurants last month, only to
@@ -445,6 +366,14 @@ officials banned daytime dining in restaurants last month, only to
 later](https://www.nytimes.com/2020/07/31/world/asia/hongkong-dining-lunch-coronavirus.html)
 after an outcry. Schools in some cities are opening and closing like
 screen doors in summer.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 In many areas where the virus has retreated and then resurged, the
 future looks like a long, complicated haul. Leaders are reaching for
@@ -482,12 +411,79 @@ switch.”](https://www.nytimes.com/2020/06/30/us/coronavirus-california-cases-r
 Dan Andrews, the premier in Victoria, the state of which Melbourne is
 the capital, has repeatedly referred to “pilot light mode” for
 industries like construction and meatpacking, which have been ordered to
-temporarily reduce their work forces.
+temporarily reduce their work
+forces.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-08-05T06:48:23.151Z
+
+</div>
+
+</div>
+
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental
+    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 Whatever the metaphor, the situation is bleak.
 
 In Melbourne, a city of five million that is considered a capital of
-food and culture, traffic data showed people [driving more in
+food and culture, the pandemic has come raging back even after a
+so-called Stage 3 lockdown began in early July — until recently the
+highest level of restrictions.
+
+Officials have been flummoxed at every turn by the persistent
+complacency of just enough people to let the virus thrive and multiply.
+
+Traffic data showed people [driving more in
 July](https://www.theage.com.au/national/victoria/lockdown-2-0-traffic-worse-compared-with-april-but-less-than-pre-covid-20200801-p55hlq.html)
 than they had during the first Stage 3 lockdown, in March and April.
 Even worse, almost nine out of 10 people with Covid-19 had not been
@@ -498,7 +494,13 @@ waiting for their test results.
 “That means people have felt unwell and just gone about their business,”
 Mr. Andrews said.
 
-He made face masks mandatory the next day, on July 22.
+Sounding the alarm, he made face masks mandatory the next day, on July
+22.
+
+Still, infections have continued to rise. They peaked at 753 new cases
+on July 30, and have hovered around 500 a day ever since, with the death
+toll in Victoria now standing at 147, after 11 deaths were recorded on
+Monday.
 
 </div>
 
@@ -508,14 +510,10 @@ He made face masks mandatory the next day, on July 22.
 
 <div class="css-53u6y8">
 
-Still, infections have continued to rise. They peaked at 753 new cases
-on July 30, and have hovered around 500 a day ever since, with the death
-toll in Victoria now standing at 147, after 11 deaths were recorded on
-Monday.
-
-Those figures have paved the way for a Stage 4 lockdown — what officials
-are calling a “shock and awe” attack on the virus — that will last at
-least six
+Those figures, while far less troublesome than those in the United
+States, have paved the way for a Stage 4 lockdown — what officials are
+calling a “shock and awe” attack on the virus — that will last at least
+six
 weeks.
 
 </div>
@@ -572,6 +570,11 @@ centers will be available only for permitted workers.
 Those restrictions are already well understood. The rules requiring more
 explanation are tied to the curfew and industries that have to cut back.
 
+Large-scale construction projects of more than three stories, for
+example, will have to reduce their on-site work force by 75 percent, and
+workers will not be able to work at more than one location. Small-scale
+construction cannot have more than five workers.
+
 </div>
 
 </div>
@@ -579,11 +582,6 @@ explanation are tied to the curfew and industries that have to cut back.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-Large-scale construction projects of more than three stories, for
-example, will have to reduce their on-site work force by 75 percent, and
-workers will not be able to work at more than one location. Small-scale
-construction cannot have more than five workers.
 
 All of which sounds clear. But does a bathroom renovation, for example,
 amount to home building in an apartment with one bathroom? And what
@@ -640,12 +638,8 @@ Mr. Andrews, a Labor politician sometimes described as
 [awkward](https://www.theage.com.au/national/victoria/the-strange-feeling-i-have-when-i-watch-daniel-andrews-20200710-p55av5.html)
 and paternal, has become the dad everyone needs answers from. He now
 oversees, under the lockdown rules, what may be the country’s most
-intrusive bureaucracy since its days as a penal colony.
-
-On Tuesday, he answered questions from reporters about dog-walking
-(allowed after curfew, sort of, only near home) and other subjects of
-great confusion at a news conference in
-Melbourne.
+intrusive bureaucracy since its days as a penal
+colony.
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -795,10 +789,18 @@ community.
 
 </div>
 
+On Tuesday, he answered questions from reporters about dog-walking
+(allowed after curfew, sort of, only near home) and other subjects of
+great confusion at a news conference in Melbourne.
+
 Thanking those who complied with the new rules and scolding those who
 did not, he announced that no one in self-isolation would now be allowed
 to exercise outdoors. A door-knocking campaign to check in on 3,000
 people who had Covid-19 found that 800 of them were not at home.
+
+All 800 have been referred to the Victoria police for investigation. The
+fine for violators going forward, he said, will be 4,957 Australian
+dollars, $3,532.
 
 </div>
 
@@ -807,10 +809,6 @@ people who had Covid-19 found that 800 of them were not at home.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-All 800 have been referred to the Victoria police for investigation. The
-fine for violators going forward, he said, will be 4,957 Australian
-dollars, $3,532.
 
 Working, even legally, will also become trickier. Other than, say,
 hospital workers with formal identification, everyone traveling for a
@@ -878,6 +876,11 @@ face mask.
 Some criminologists are questioning whether the harsher enforcement will
 help. Mostly, though, Melburnians are just trying to endure.
 
+Walking to get groceries, Peter Barnes, 56, said he welcomed the
+stricter rules, though he admitted his city was starting to feel like
+George Orwell’s “1984,” with the heavy hand of the state around every
+corner.
+
 </div>
 
 </div>
@@ -885,11 +888,6 @@ help. Mostly, though, Melburnians are just trying to endure.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-Walking to get groceries, Peter Barnes, 56, said he welcomed the
-stricter rules, though he admitted his city was starting to feel like
-George Orwell’s “1984,” with the heavy hand of the state around every
-corner.
 
 Those focused solely on the economics, he said, should remember the
 obvious: “You can’t hire a corpse. Very bad employment prospects for

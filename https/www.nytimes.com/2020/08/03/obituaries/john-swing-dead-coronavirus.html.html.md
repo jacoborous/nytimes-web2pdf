@@ -241,9 +241,9 @@ the coronavirus.
 Swing was an important community leader in Los Angeles. Mayor Eric
 Garcetti and the filmmaker Ava DuVernay took part in an online memorial
 to
-him. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Search
+him.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Search
 to Involve Pilipino
-Americans</span></span></span>](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Americans</span></span></span>](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -274,9 +274,8 @@ Leland</span>](https://www.nytimes.com/by/john-leland)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">11:07 a.m.
-    ET</span>
+    Published Aug. 3, 2020Updated Aug. 4,
+    2020
     
     </div>
 
@@ -404,11 +403,11 @@ PJ Swing.
 
 He died with plans unrealized, including a workshop to address
 anti-Black stereotypes among Filipinos. He also took part in community
-efforts, like a nearly $500,000
-[project](https://www.theeastsiderla.com/neighborhoods/historic_filipinotown/plans-unveiled-for-452-000-gateway-to-historic-filipinotown/article_096736f6-ad28-11ea-8a45-d34c6d8d6822.html#:~:text=%22Historic%20Filipinotown%20will%20have%20a,%2C%22%20O'Farrell%20said.&text=Designed%20by%20Filipino%20artist%20Eliseo,Gabay%3A%20Our%20Guiding%20Star.%E2%80%9D),
-led by Councilman O’Farrell, to build a gateway arch and columns marking
-the entrance to Historic Filipinotown, which crosses the neighborhoods
-of Echo Park and Silver Lake.
+efforts, like a nearly $500,000 city ****
+[project](https://www.theeastsiderla.com/neighborhoods/historic_filipinotown/plans-unveiled-for-452-000-gateway-to-historic-filipinotown/article_096736f6-ad28-11ea-8a45-d34c6d8d6822.html#:~:text=%22Historic%20Filipinotown%20will%20have%20a,%2C%22%20O'Farrell%20said.&text=Designed%20by%20Filipino%20artist%20Eliseo,Gabay%3A%20Our%20Guiding%20Star.%E2%80%9D)
+to build a gateway arch and columns marking the entrance to Historic
+Filipinotown, which crosses the neighborhoods of Echo Park and Silver
+Lake.
 
 Next up was a plan to redevelop SIPA’s headquarters to include 64 units
 of affordable housing. Its small business center will bear Mr. Swing’s
@@ -468,13 +467,46 @@ more</span>
 
 <div class="g-obits-embed-wrap">
 
+<div id="helen-jones-woods" class="g-obit">
+
+<div class="g-flex-wrapper-image">
+
+<div class="g-image g-asset-inner">
+
+![](https://static01.nyt.com/images/2020/08/05/obituaries/03Woods/03Woods-square640.jpg)
+
+</div>
+
+</div>
+
+<div class="g-flex-wrapper-text">
+
+# Helen Jones Woods
+
+<div class="g-meta">
+
+<span>d. Sarasota, Fla. </span>
+
+</div>
+
+<div class="g-summ">
+
+Musician in all-female, multi-racial jazz
+band
+
+</div>
+
+</div>
+
+</div>
+
 <div id="bernaldina-josé-pedro" class="g-obit">
 
 <div class="g-flex-wrapper-image">
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/30/obituaries/30Pedro/30Pedro-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/30Pedro/30Pedro-square640.jpg)
 
 </div>
 
@@ -507,7 +539,7 @@ Macuxi
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/merlin_175167783_8913bc90-0d64-43f3-a655-1bb1bf1601c9-square640.jpg)
 
 </div>
 
@@ -573,7 +605,7 @@ Republic
 
 <div class="g-image g-asset-inner">
 
-![](https://static01.nyt.com/images/2020/07/31/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
+![](https://static01.nyt.com/images/2020/08/05/obituaries/31Negron/merlin_175160169_516322ae-fd23-4969-b6b2-193ced371105-square640.jpg)
 
 </div>
 
@@ -624,40 +656,7 @@ Coast
 
 <div class="g-summ">
 
-Jamaican singer and
-songwriter
-
-</div>
-
-</div>
-
-</div>
-
-<div id="waldemar-gonzalez" class="g-obit">
-
-<div class="g-flex-wrapper-image">
-
-<div class="g-image g-asset-inner">
-
-![](https://static01.nyt.com/images/2020/08/01/obituaries/28Gonzalez/merlin_175002771_beb57888-3951-409a-ae13-03a94b2e962e-square640.jpg)
-
-</div>
-
-</div>
-
-<div class="g-flex-wrapper-text">
-
-# Waldemar Gonzalez
-
-<div class="g-meta">
-
-<span>d. White Plains, N.Y.</span>
-
-</div>
-
-<div class="g-summ">
-
-Teacher and social worker
+Jamaican singer and songwriter
 
 </div>
 

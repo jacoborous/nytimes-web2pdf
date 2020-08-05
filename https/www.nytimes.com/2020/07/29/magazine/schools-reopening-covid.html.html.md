@@ -253,9 +253,8 @@ Tingley</span>
     
     <div class="css-1ea1lzw e16638kd2">
     
-    Published July 29, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">8:22 a.m.
-    ET</span>
+    Published July 29, 2020Updated Aug. 4,
+    2020
     
     </div>
 

@@ -210,11 +210,47 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/sports/basketball/wnba-dream-loeffler-warnock.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/sports/04wnba-dream-1/merlin_175030845_bef46721-096f-4eb5-b04e-b1574eafa348-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## W.N.B.A. Players Escalate Protest of Anti-B.L.M. Team Owner
+    
+    Led by the members of the Atlanta Dream, players have begun wearing
+    T-shirts supporting a political opponent of Senator Kelly Loeffler,
+    who co-owns the Dream and has spoken against the Black Lives Matter
+    movement.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sopan
+    Deb</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/sports/03nba-morant-lede/merlin_170038836_d4fdfa5a-5a4b-4d18-b73c-b492710d646c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -239,7 +275,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +310,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +346,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +380,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +414,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -414,7 +450,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -449,7 +485,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -484,7 +520,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -506,42 +542,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gillian R.
-    Brassil</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/sports/basketball/nba-schedule.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/sports/30nba-watch-1/merlin_169876500_a02025d0-1738-486d-979f-d285d36fa5c2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## N.B.A. Restart Day 1 Schedule: Guide of Matchups, Tipoff Time and Channel
-    
-    Some of the league’s biggest stars — LeBron James, Kawhi Leonard and
-    maybe Zion Williamson — will be in action for the opening night of
-    the resumed season.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Scott Cacciola</span>
+    By <span class="css-1n7hynb">Gillian R. Brassil</span>
     
     </div>
     

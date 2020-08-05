@@ -134,7 +134,7 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 7:55 A.M.
+Times</span>Updated August 5, 2020, 12:06 A.M.
 E.T.
 
 </div>
@@ -331,44 +331,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 93.91025641025642%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 93.31210191082802%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.230769230769234%; top: 94.44444444444444%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.108280254777068%; top: 94.44444444444444%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -404,7 +404,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-4,062
+4,123
 
 </div>
 
@@ -461,12 +461,11 @@ news
 
 </div>
 
-At least 1 new coronavirus death and 80 new cases were reported in
-Alaska on Aug. 3. Over the past week, there have been an average of 123
-cases per day, an increase of 51 percent from the average two weeks
-earlier.
+At least 61 new cases were reported in Alaska on Aug. 4. Over the past
+week, there have been an average of 111 cases per day, an increase of 24
+percent from the average two weeks earlier.
 
-As of Tuesday morning, there have been at least 4,062 cases and 23
+As of Wednesday morning, there have been at least 4,123 cases and 23
 deaths in Alaska since the beginning of the pandemic, according to a New
 York Times
 database.
@@ -906,13 +905,13 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Alaska </span></td>
-<td><span>4,062 </span></td>
-<td><span>555 </span></td>
+<td><span>4,123 </span></td>
+<td><span>564 </span></td>
 <td><span>23 </span></td>
 <td><span>3 </span></td>
-<td><span>858 </span></td>
-<td><span>117 </span></td>
-<td><span>4 </span></td>
+<td><span>775 </span></td>
+<td><span>106 </span></td>
+<td><span>3 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
@@ -920,15 +919,29 @@ in last<br />
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
 <span class="first x-label svelte-ig1tx7">Mar. 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 3</span>
+<div class="pancake-point svelte-11ba04d" style="left: 100.00000000000001%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Aug. 4</span>
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/alaska.svg" alt="Alaska heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/alaska.svg" alt="Alaska heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
+<td><span>Wrangell City and Borough </span></td>
+<td><span>15 </span></td>
+<td><span>600 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>7 </span></td>
+<td><span>280 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/wrangell_city_and_borough.svg" alt="Wrangell City and Borough heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
 <td><span>Northwest Arctic Borough </span></td>
 <td><span>33 </span></td>
 <td><span>433 </span></td>
@@ -939,41 +952,27 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/northwest_arctic_borough.svg" alt="Northwest Arctic Borough heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Anchorage Municipality </span></td>
-<td><span>2,042 </span></td>
-<td><span>709 </span></td>
-<td><span>13 </span></td>
-<td><span>5 </span></td>
-<td><span>529 </span></td>
-<td><span>184 </span></td>
-<td><span>4 </span></td>
-<td><span>1 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/anchorage_municipality.svg" alt="Anchorage Municipality heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/northwest_arctic_borough.svg" alt="Northwest Arctic Borough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Kenai Peninsula Borough </span></td>
-<td><span>454 </span></td>
-<td><span>773 </span></td>
+<td><span>Anchorage Municipality </span></td>
+<td><span>2,083 </span></td>
+<td><span>723 </span></td>
+<td><span>13 </span></td>
+<td><span>5 </span></td>
+<td><span>482 </span></td>
+<td><span>167 </span></td>
+<td><span>4 </span></td>
 <td><span>1 </span></td>
-<td><span>2 </span></td>
-<td><span>83 </span></td>
-<td><span>141 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/kenai_peninsula_borough.svg" alt="Kenai Peninsula Borough heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/anchorage_municipality.svg" alt="Anchorage Municipality heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Valdez-Cordova Census Area </span></td>
-<td><span>93 </span></td>
-<td><span>1,011 </span></td>
+<td><span>95 </span></td>
+<td><span>1,032 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><span>12 </span></td>
@@ -981,38 +980,52 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/valdez_cordova_census_area.svg" alt="Valdez-Cordova Census Area heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/valdez_cordova_census_area.svg" alt="Valdez-Cordova Census Area heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Juneau City and Borough </span></td>
-<td><span>150 </span></td>
-<td><span>469 </span></td>
+<td><span>Kenai Peninsula Borough </span></td>
+<td><span>458 </span></td>
+<td><span>780 </span></td>
 <td><span>1 </span></td>
-<td><span>3 </span></td>
-<td><span>33 </span></td>
-<td><span>103 </span></td>
+<td><span>2 </span></td>
+<td><span>70 </span></td>
+<td><span>119 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/juneau_city_and_borough.svg" alt="Juneau City and Borough heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/kenai_peninsula_borough.svg" alt="Kenai Peninsula Borough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Yukon-Koyukuk Census Area </span></td>
-<td><span>47 </span></td>
-<td><span>899 </span></td>
+<td><span>48 </span></td>
+<td><span>918 </span></td>
 <td><span>1 </span></td>
 <td><span>19 </span></td>
-<td><span>5 </span></td>
-<td><span>96 </span></td>
+<td><span>6 </span></td>
+<td><span>115 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/yukon_koyukuk_census_area.svg" alt="Yukon-Koyukuk Census Area heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/yukon_koyukuk_census_area.svg" alt="Yukon-Koyukuk Census Area heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
+<td><span>Juneau City and Borough </span></td>
+<td><span>157 </span></td>
+<td><span>491 </span></td>
+<td><span>1 </span></td>
+<td><span>3 </span></td>
+<td><span>31 </span></td>
+<td><span>97 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/juneau_city_and_borough.svg" alt="Juneau City and Borough heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
 <td><span>Kodiak Island Borough </span></td>
 <td><span>26 </span></td>
 <td><span>200 </span></td>
@@ -1023,41 +1036,27 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/kodiak_island_borough.svg" alt="Kodiak Island Borough heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Matanuska-Susitna Borough </span></td>
-<td><span>319 </span></td>
-<td><span>295 </span></td>
-<td><span>2 </span></td>
-<td><span>2 </span></td>
-<td><span>79 </span></td>
-<td><span>73 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/matanuska_susitna_borough.svg" alt="Matanuska-Susitna Borough heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/kodiak_island_borough.svg" alt="Kodiak Island Borough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Prince of Wales-Hyder Census Area </span></td>
-<td><span>9 </span></td>
-<td><span>145 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>4 </span></td>
-<td><span>64 </span></td>
+<td><span>Matanuska-Susitna Borough </span></td>
+<td><span>325 </span></td>
+<td><span>300 </span></td>
+<td><span>2 </span></td>
+<td><span>2 </span></td>
+<td><span>76 </span></td>
+<td><span>70 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/prince_of_wales_hyder_census_area.svg" alt="Prince of Wales-Hyder Census Area heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/matanuska_susitna_borough.svg" alt="Matanuska-Susitna Borough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>North Slope Borough </span></td>
-<td><span>17 </span></td>
-<td><span>173 </span></td>
+<td><span>18 </span></td>
+<td><span>183 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><span>5 </span></td>
@@ -1065,7 +1064,7 @@ in last<br />
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/9e7a5a3163aeda6ed1e2a3ff6a1fd620e0ad92bd/build/heatmaps/nyt_world/usa/usa_02/north_slope_borough.svg" alt="North Slope Borough heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_02/north_slope_borough.svg" alt="North Slope Borough heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1150,44 +1149,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 93.91025641025642%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 93.31210191082802%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.230769230769234%; top: 94.44444444444444%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.108280254777068%; top: 94.44444444444444%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1270,44 +1269,44 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 74.67948717948718%; top: 80%">
+<div class="pancake-point svelte-11ba04d" style="left: 74.20382165605095%; top: 80%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 28.205128205128208%; top: 95.71428571428571%">
+<div class="pancake-point svelte-11ba04d" style="left: 28.025477707006367%; top: 95.71428571428571%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>

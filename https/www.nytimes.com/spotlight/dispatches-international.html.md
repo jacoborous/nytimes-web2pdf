@@ -183,6 +183,496 @@ story](#after-subheader)
 
 </div>
 
+<div class="css-185go5a e1o5byef0">
+
+<div class="css-15cbhtu">
+
+  - [Latest](#stream-panel)
+  - <span class="css-6n7j50">Search</span>
+    <div class="control">
+    <div class="label-container css-1dv1kvn">
+    Search
+    </div>
+    <div class="css-wm4t3d">
+    **<span id="clear-search-input" class="css-1dv1kvn">Clear this text
+    input</span>
+    </div>
+    </div>
+    <span class="css-1iovbfw"></span>
+
+<div id="stream-panel" class="section css-8msx5b e1jz0cab1">
+
+<div class="css-13mho3u">
+
+1.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/31/world/00spearfishing-dispatch-1/00spearfishing-dispatch-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Sydney Dispatch</span>
+    
+    ## Taking a Spear Into the Sea, and Washing Anxiety Away
+    
+    I kept seeing people in Sydney carry spearguns to and from the
+    ocean. To understand why, I held my breath and dived in.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/world/europe/russia-moscow-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/world/02moscowdispatch2/merlin_174764931_b934ad94-2385-453a-83a6-f8e42d4ad928-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Moscow Dispatch</span>
+    
+    ## ‘Cocktails and Masks Don’t Really Go Together’
+    
+    Young Russians are partying again, seeking a return to normal life
+    and willing to risk a coronavirus surge. “We are people, not robots,
+    and want to have a life,” said a bar patron (and doctor).
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Andrew
+    Higgins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/29/world/africa/senegal-tabaski-sheep-eid-adha.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/28/world/28Senegal-Sheep-Dispatch/28Senegal-Sheep-Dispatch-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Senegal Dispatch</span>
+    
+    ## For Senegal’s Biggest Holiday, a Shortage of the All-Important Sheep
+    
+    Properly celebrating Tabaski, as Eid al-Adha is known in Senegal,
+    requires a sacrificial sheep. Coronavirus restrictions have made the
+    animals more expensive, putting them out of reach of many.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ruth
+    Maclean</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/27/world/europe/france-alsace-wine-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/24/world/00france-wine1/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">France Dispatch</span>
+    
+    ## Of Wine, Hand Sanitizer and Heartbreak
+    
+    Between the coronavirus and the Trump tariffs, the French wine
+    market has collapsed. So winemakers are — sadly — sending their
+    excess product off to another life as hand sanitizer.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam Nossiter</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/07/28/espanol/mundo/vino-blanco-alsacia-coronavirus.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/26/world/europe/france-algeria-summer-vacations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/22/world/00france-holiday-dispatch/00toulouse-holiday-dispatch-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">TOULOUSE Dispatch</span>
+    
+    ## For French-Algerian Families, Virus Disrupts Cherished Summer Ritual
+    
+    Holidays in Algeria are a cornerstone of the cross-cultural identity
+    of many French people with roots there. This year, they are stuck at
+    home, and the pain is acute: “It’s sacred for us to leave.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Constant
+    Méheut</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/25/world/asia/thailand-monkeys.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/26/world/26monkeys-dispatch1/merlin_174060687_ac420efb-4bb8-4e0c-9ebe-727d5f66ca2e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Thailand Dispatch</span>
+    
+    ## These Monkeys Were Once Revered. Now They Are Taking Over.
+    
+    The monkeys of Lopburi, Thailand, were once a draw for tourists and
+    pilgrims who would feed them. But with few recent visitors, the
+    monkeys are getting hungry — and aggressive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Hannah
+    Beech</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/20/world/europe/france-paris-tati-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/19/world/xxparis-store-dispatch01sub/xxparis-store-dispatch01sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Paris Dispatch</span>
+    
+    ## ‘A Place Where Everybody Can Shop’ Is Closing Its Doors
+    
+    The famed department store Tati is shutting. And a lot of people are
+    very sad.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Adam
+    Nossiter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/18/world/middleeast/iraq-coronovirus-cemetery.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/19/world/xxiraq-graveyard/xxiraq-graveyard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Iraq Dispatch</span>
+    
+    ## ‘Our Role Is to Reduce Their Grief’
+    
+    None of Iraq’s existing graveyards wanted the bodies of Covid-19
+    patients. So Shiite leaders created a burial ground for them that is
+    also open to Sunnis and Christians.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alissa J.
+    Rubin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/16/world/asia/coronavirus-thailand-photos.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/06/25/world/00virus-thailand-photos-promo1/merlin_173899668_3cb53f8d-f789-4496-9f25-0218e93a0037-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Thailand Dispatch</span>
+    
+    ## No One Knows What Thailand Is Doing Right, but So Far, It’s Working
+    
+    Can the country’s low rate of coronavirus infections be attributed
+    to culture? Genetics? Face masks? Or a combination of all three?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Hannah Beech <span>and</span> Adam
+    Dean</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/07/21/espanol/mundo/coronavirus-tailandia.html "Read in Spanish")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/12/world/middleeast/beirut-lebanon-economic-crisis.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/12/world/11Lebanon-Dispatch/11Lebanon-Dispatch-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Lebanon Dispatch</span>
+    
+    ## Bartering Child’s Dress for Food: Life in Lebanon’s Economic Crisis
+    
+    A TV chef abandons unaffordable beef. Blackouts make for sweltering
+    summer nights. Changing money feels like a drug deal: The financial
+    meltdown means daily pain and a blow to a country’s pride.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Hwaida
+    Saad</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+<div class="css-13mho3u">
+
+<div class="css-1t62hi8">
+
+<div class="css-1stvaey">
+
+Show
+More
+
+<div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-g6hk37 supplemental">
+
+<div id="mid1-wrapper" class="css-10wkyv7 eaca97t0" type="lede">
+
+<div id="mid1-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-mid1)
+
+<div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+</div>
+
+<div id="after-mid1">
+
+</div>
+
+</div>
+
+<div id="mktg-wrapper" class="css-oxle51 eaca97t0" type="mktg">
+
+<div id="mktg-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-mktg)
+
+<div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-mktg">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 </div>

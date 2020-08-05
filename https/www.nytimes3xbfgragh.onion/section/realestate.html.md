@@ -868,6 +868,39 @@ story](#after-feat4)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/recent-commercial-real-estate-transactions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04trans1/merlin_174836691_604803ac-4932-4894-85ec-9d2c8370b2a2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Recent Commercial Real Estate Transactions
+    
+    Recent commercial real estate transactions in New York.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sophia
+    June</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/business/robot-cleaning-coronavirus.html)
     
     <div class="css-79elbk">
@@ -899,7 +932,7 @@ story](#after-feat4)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -931,7 +964,7 @@ story](#after-feat4)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -945,7 +978,7 @@ story](#after-feat4)
     
     </div>
     
-    ### <span class="css-m70j1g">Igood question</span>
+    ### <span class="css-m70j1g">good question</span>
     
     ## How Hot Is Too Hot?
     
@@ -967,7 +1000,7 @@ story](#after-feat4)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1001,7 +1034,7 @@ story](#after-feat4)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1033,7 +1066,7 @@ story](#after-feat4)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1068,7 +1101,7 @@ story](#after-feat4)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1100,7 +1133,7 @@ story](#after-feat4)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1132,7 +1165,7 @@ story](#after-feat4)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1149,39 +1182,7 @@ story](#after-feat4)
     ## On the Market in the New York Region
     
     This week’s properties are four-bedroom homes in Old Westbury, N.Y.,
-    and Crosswicks,
-    N.J.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/slideshow/2020/07/30/realestate/on-the-market-in-new-york-city.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/30otm-nyc-slide-UW05/30otm-nyc-slide-UW05-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## On the Market in New York City
-    
-    This week’s properties are on in Greenwich Village, Cobble Hill and
-    on the Grand Concourse.
+    and Crosswicks, N.J.
     
     <div class="css-1nqbnmb ea5icrr0">
     

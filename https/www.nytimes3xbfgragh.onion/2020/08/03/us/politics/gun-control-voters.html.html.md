@@ -145,12 +145,12 @@ Guns?</span>
 and</span><span class="css-1pje3qr">
 America</span></span>](https://www.nytimes3xbfgragh.onion/news-event/george-floyd-protests-minneapolis-new-york-los-angeles?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
-  - [Protesters Return to Other
-    Cities](https://www.nytimes3xbfgragh.onion/2020/07/26/us/protests-portland-seattle-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Portland at the
-    Center](https://www.nytimes3xbfgragh.onion/2020/07/24/us/portland-oregon-protests-white-race.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Podcast: Showdown in
-    Portland](https://www.nytimes3xbfgragh.onion/2020/07/23/podcasts/the-daily/portland-protests.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Black Lives Matter
+    Movement](https://www.nytimes3xbfgragh.onion/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [History of ‘I Can’t
+    Breathe’](https://www.nytimes3xbfgragh.onion/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [How Public Opinion
+    Shifted](https://www.nytimes3xbfgragh.onion/interactive/2020/06/10/upshot/black-lives-matter-attitudes.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [45 Days in
     Louisville](https://www.nytimes3xbfgragh.onion/interactive/2020/07/16/us/black-lives-matter-protests-louisville-breonna-taylor.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
@@ -270,9 +270,8 @@ Russonello</span>](https://www.nytimes3xbfgragh.onion/by/giovanni-russonello)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">12:20 a.m.
-    ET</span>
+    Aug. 3,
+    2020
     
     </div>
 
@@ -280,7 +279,7 @@ Russonello</span>](https://www.nytimes3xbfgragh.onion/by/giovanni-russonello)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

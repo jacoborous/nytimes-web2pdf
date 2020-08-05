@@ -169,6 +169,75 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/trump-plasma.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies
+    
+    Thousands of Covid-19 patients have been treated with blood plasma
+    outside of rigorous clinical trials — hampering research that would
+    have shown whether the therapy worked.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie Thomas <span>and</span> Noah
+    Weiland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/health/covid-19-vaccine-novavax.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04VIRUS-NOVAVAX1/04VIRUS-NOVAVAX1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scientists Are Optimistic About New Vaccine Studies From Novavax
+    
+    The company has received a $1.6 billion grant from the government’s
+    Operation Warp Speed to have 100 million doses ready by early 2021.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carl Zimmer <span>and</span> Katie
+    Thomas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
@@ -199,7 +268,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +303,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -270,7 +339,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +374,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -340,7 +409,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -410,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -429,75 +498,6 @@ story](#after-mid1)
     The National Institutes of Health decided to stop one trial because
     the drug was unlikely to benefit patients, and another because not
     enough people enrolled.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Thomas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/19/health/coronavirus-lung-treatment-funding.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/22/science/00JPVIRUS-BARDA1-print/00VIRUS-BARDA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Attacks the Lungs. A Federal Agency Just Halted Funding for New Lung Treatments.
-    
-    The shift, quietly disclosed on a government website, highlights how
-    the Trump administration is favoring development of vaccines over
-    treatments for the sickest patients.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Thomas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/15/health/fda-hydroxychloroquine-malaria.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/15/science/15VIRUS-HCQ/15VIRUS-HCQ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## F.D.A. Revokes Emergency Approval of Malaria Drugs Promoted by Trump
-    
-    The agency said that a review of some studies showed that the drugs’
-    potential benefits in treating Covid-19 did not outweigh the risks.
     
     <div class="css-1nqbnmb ea5icrr0">
     

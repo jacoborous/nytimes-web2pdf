@@ -240,7 +240,7 @@ Williams and other people who live on Minneapolis’s North Side complain
 of rampant police mistreatment, but also of out-of-control crime and
 violence.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Nina
 Robinson for The New York
-Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-01/00blackdefund-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00blackdefund-01/00blackdefund-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -267,8 +267,14 @@ Eligon</span>](https://www.nytimes3xbfgragh.onion/by/john-eligon)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4,
+    2020
+    
+    </div>
 
   - 
     
@@ -429,7 +435,7 @@ for it, but at the end of the day, he still relied on her.
 person like me might need the police,” Royal Jones, a North Sider,
 said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nina
 Robinson for The New York
-Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-02/00blackdefund-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00blackdefund-02/00blackdefund-02-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -491,7 +497,7 @@ which has a much smaller Black population.
 
 “They’ve made this choice for us as Black people, when they don’t
 necessarily live or engage with Black people,” said Raeisha Williams, a
-North Side activist whose brother was fatally shot two years ago. “When
+community activist whose brother was fatally shot two years ago. “When
 my house is broken into, I want to be able to call the police. When my
 security alarm goes off, I want to know they’re going to arrive and
 protect my family.”

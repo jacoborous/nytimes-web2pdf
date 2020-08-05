@@ -213,8 +213,8 @@ Cantú</span>
 
 </div>
 
-  - 4 de agosto de 2020 a las <span class="css-epvm6">05:00
-    ET</span>
+  - 4 de agosto de
+    2020
 
   - 
     

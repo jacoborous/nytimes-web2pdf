@@ -275,8 +275,8 @@ Es periodista brasilera.
 
 </div>
 
-  - 4 de agosto de 2020 a las <span class="css-epvm6">07:07
-    ET</span>
+  - 4 de agosto de
+    2020
 
   - 
     

@@ -206,8 +206,8 @@ Sandoval</span>](https://www.nytimes.com/by/edgar-sandoval)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">2:51 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -215,7 +215,7 @@ Sandoval</span>](https://www.nytimes.com/by/edgar-sandoval)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -282,7 +282,7 @@ been merciless, with more than 2,110 cases in the county and nearly 70
 deaths that are suspected of being linked to Covid-19, local officials
 said.
 
-Nearby counties in the Valley are also battling surges in infections,
+Nearby counties in the valley are also battling surges in infections,
 but Starr County lacks the medical staffing and facilities of its more
 populated neighbors. On a good day, about 12 full-time doctors serve the
 entire county.
@@ -332,21 +332,20 @@ panels.”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:32:24.665Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental
+    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 
@@ -435,8 +434,8 @@ authors.
 
 As cases climbed in Starr County and the hospital struggled, it began
 transporting a handful of its most severe cases by helicopter and
-ambulance to bigger hospitals in Lubbock, Dallas, Houston San Antonio,
-and even across the state line in
+ambulance to bigger hospitals in Lubbock, Dallas, Houston and San
+Antonio, and even across the state line in
 Oklahoma.
 
 </div>
@@ -483,12 +482,12 @@ nurses rushed in and out of the clinic’s improvised Covid-19 unit,
 roughly the size of one and a half tractor-trailers.
 
 It was put together behind a makeshift wall of plywood, heavy plastic
-and duct tape, to separate coronavirus patients from those in the rest
-of the hospital.
+and duct tape to separate coronavirus patients from those in the rest of
+the hospital.
 
 Doctors and nurses, most of them wearing several layers of protective
 gear, fanned themselves desperately during their rounds. Any hint of
-cool air sputtering from the hospital’s overburdened air conditioning
+cool air sputtering from the hospital’s overburdened air-conditioning
 system was quickly overcome by the unforgiving Texas heat seeping
 through the walls.
 
@@ -503,7 +502,7 @@ contracted the virus in late July while she was undergoing chemotherapy
 for breast cancer.
 
 For a while, the family held off sending her to Starr County Memorial,
-he said: “We knew it was a small hospital. They don’t have enough of
+he said. “We knew it was a small hospital. They don’t have enough of
 everything.”
 
 </div>
@@ -603,7 +602,7 @@ Lee for The New York Times</span></span>
 </div>
 
 But when the state reopened its economy in May, the virus began
-spreading rapidly through nearby Hidalgo and Cameron counties, fueled by
+spreading rapidly through nearby Hidalgo and Cameron Counties, fueled by
 poverty and chronic disease. [Large family
 outbreaks](https://www.nytimes.com/2020/07/14/us/coronavirus-texas-rio-grande-valley-border.html)
 occurred as soon as people were allowed to leave their homes freely,
@@ -928,7 +927,7 @@ Lee for The New York Times</span></span>
 Not far away, his colleagues were trying to save the lives of several
 other patients who were fading fast.
 
-Panlilio, the nurse in charge, watched closely as three other nurses
+Mr. Panlilio, the nurse in charge, watched closely as three other nurses
 wrapped bandages around the knees of a woman in her 60s who was
 connected to a ventilator. Her treatment at the hospital, he said, had
 run its course.

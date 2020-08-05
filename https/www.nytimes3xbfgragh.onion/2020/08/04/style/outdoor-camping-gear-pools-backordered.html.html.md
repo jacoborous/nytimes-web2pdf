@@ -82,9 +82,9 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Summer
-Recreation? It’s
-Backordered</span>
+<span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">The
+New Panic Buys: Kayaks, Pools, Tents and
+Trampolines</span>
 
 </div>
 
@@ -222,12 +222,12 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Summer Recreation? It’s Backordered
+# The New Panic Buys: Kayaks, Pools, Tents and Trampolines
 
 </div>
 
-Americans seeking outdoor getaways in the pandemic bought up all the
-pools, tents, kayaks and trampolines.
+Americans seeking getaways (or staycations) in the pandemic are putting
+outdoor retailers in a supply crunch.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -241,7 +241,7 @@ pools, tents, kayaks and trampolines.
 gear is in high demand this
 summer.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Jeremy
 and Claire Weiss for The New York
-Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03BACKORDER1/merlin_172496982_de7aa074-951d-4362-ba4c-5fe9eb17553e-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/03BACKORDER1/merlin_172496982_de7aa074-951d-4362-ba4c-5fe9eb17553e-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -264,8 +264,8 @@ Herrman</span>](https://www.nytimes3xbfgragh.onion/by/john-herrman)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:14 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -273,7 +273,7 @@ Herrman</span>](https://www.nytimes3xbfgragh.onion/by/john-herrman)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -366,7 +366,7 @@ supplies. “They surprised us out of the gate.”
 pools have also become newly
 coveted.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Elizabeth
 D. Herman for The New York
-Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/fashion/03BACKORDER2/merlin_141725751_aeb974b8-b764-4e32-b179-2d7200dc4394-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/03BACKORDER2/merlin_141725751_aeb974b8-b764-4e32-b179-2d7200dc4394-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

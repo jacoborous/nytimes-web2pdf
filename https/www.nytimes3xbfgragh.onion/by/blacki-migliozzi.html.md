@@ -169,6 +169,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Mapping the Damage From the Beirut Explosions
+    
+    Damage was seen at least two miles from the explosions, encompassing
+    an area with more than 750,000 residents.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
+    McCann, Lauren Leatherby <span>and</span> Blacki
+    Migliozzi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/07/14/nyregion/nypd-george-floyd-protests.html)
     
     <div class="css-79elbk">
@@ -199,7 +234,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +269,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -270,7 +305,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +340,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -341,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +410,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -410,7 +445,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -445,7 +480,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -467,43 +502,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nadja Popovich, Blacki Migliozzi,
-    Karthik Patanjali, Anjali Singhvi <span>and</span> Jon
-    Huang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2019/10/31/us/politics/trump-impeachment-inquiry-house-vote.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/10/31/us/politics/trump-impeachment-inquiry-house-vote-1572536582141/trump-impeachment-inquiry-house-vote-1572536582141-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Democrats and Republicans Voted on Trump Impeachment Rules
-    
-    See how each representative voted on the resolution to guide the
-    impeachment inquiry into President Donald J. Trump.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Weiyi Cai, Annie Daniel, Jasmine C.
-    Lee, Denise Lu, Blacki Migliozzi, Alicia Parlapiano <span>and</span>
-    Jugal K. Patel</span>
+    Karthik Patanjali, Anjali Singhvi <span>and</span> Jon Huang</span>
     
     </div>
     

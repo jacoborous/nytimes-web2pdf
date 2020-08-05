@@ -124,9 +124,9 @@ story](#after-sponsor)
 
 <div class="section css-1vbo4s9">
 
-<div class="section capsule-content" data-id="100000007133866" data-uri="https://www.nytimes.com/2020/08/03/at-home-capsule.html">
+<div class="section capsule-content" data-id="100000007133866" data-uri="https://www.nytimes.com/2020/08/04/at-home-capsule.html">
 
-### **It is Tuesday.** We may be venturing outside, tentatively or with purpose, but with the virus still raging we’re still safest inside. **At Home** can help make that tolerable, even fun.
+### **It is Wednesday.** We may be venturing outside, tentatively or with purpose, but with the virus still raging we’re still safest inside. **At Home** can help make that tolerable, even fun.
 
 -----
 
@@ -134,11 +134,139 @@ story](#after-sponsor)
 
 <div class="css-18bsdtk epkadsg1">
 
-**Remote learning.** Take a virtual trip to the remote schoolhouses of
-Magallanes, Chile’s largest but second least populated region. Many of
-them are led by a sole teacher who instructs multiple grade levels
-inside a single
-room.
+**Straight talk.** Listen to Jesse Eisenberg’s audio drama before it
+becomes a movie. If you get a chance to see a live (socially-distanced)
+dance performance, Gia Kourlas says it’s glorious. Then check out the
+Netflix special by Sam Jay, a comic who’s on the cusp of breaking
+out.
+
+</div>
+
+<div class="css-kjfhp0 epkadsg2">
+
+<div class="css-xv2r4i e16ij5yr7">
+
+[](https://www.nytimes.com/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1jo6or8 e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+Jesse Eisenberg’s audio drama, “When You Finish Saving the World,” is
+coming to Audible ahead of a film adaptation with Julianne Moore.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+Aug. 2,
+2020
+
+</div>
+
+</div>
+
+<div class="css-6rnapk e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-threeByTwoSmallAt2X.jpg)
+
+</div>
+
+</div>
+
+<div class="css-xv2r4i e16ij5yr7">
+
+[](https://www.nytimes.com/2020/08/03/arts/dance/kaatsbaan-dance.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1jo6or8 e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+What Is It Like to Watch Live Dance Again? Amazing
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+Kaatsbaan hosts a welcome summer festival in the Hudson Valley, where
+nature and dancers join forces to put on a show.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+Aug. 3,
+2020
+
+</div>
+
+</div>
+
+<div class="css-6rnapk e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-threeByTwoSmallAt2X.jpg)
+
+</div>
+
+</div>
+
+<div class="css-xv2r4i e16ij5yr7">
+
+[](https://www.nytimes.com/2020/08/04/arts/television/sam-jay-netflix-special.html?action=click&module=RelatedLinks&pgtype=collection)
+
+<div class="css-1jo6or8 e16ij5yr5">
+
+<div class="css-lukm9m e16ij5yr3">
+
+Sam Jay: A Comic Who Belongs to No Camp
+
+</div>
+
+<div class="css-copog6 e16ij5yr4">
+
+With a deadpan glare, the stand-up takes shots at everyone and won’t say
+something funny just for a laugh. Now she’s on the cusp of breaking out,
+thanks to a Netflix special.
+
+</div>
+
+<div class="css-x7rtpa e16638kd1">
+
+Aug. 4,
+2020
+
+</div>
+
+</div>
+
+<div class="css-6rnapk e16ij5yr0">
+
+![](https://static01.nyt.com/images/2020/08/05/arts/04sam-jay1/04sam-jay1-threeByTwoSmallAt2X-v2.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+-----
+
+<div class="related-links-block css-l21bvc epkadsg3">
+
+<div class="css-18bsdtk epkadsg1">
+
+**Corn meal.** The Colombian chef Carlos Gaviria told J. Kenji López-Alt
+how you can turn regular store-bought popcorn kernels into masa for the
+crispiest
+empanadas.
 
 </div>
 
@@ -146,26 +274,26 @@ room.
 
 <div class="css-x96mvb e16ij5yr7">
 
-[](https://www.nytimes.com/2020/08/03/travel/remote-schools-patagonia.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1khrzdl e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-A Visit to 5 of Patagonia’s Most Remote Schoolhouses
+A Colombian Chef Shares His Secret to Better Empanadas
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-Community life within the isolated villages of southern Chile is
-facilitated in part by an unlikely source: a network of rural schools.
+For even better flavor and texture in his masa, J. Kenji López-Alt
+borrowed a technique from the chef Carlos Gaviria: milling popcorn.
 
 </div>
 
 <div class="css-x7rtpa e16638kd1">
 
-Aug. 3,
+Aug. 4,
 2020
 
 </div>
@@ -174,7 +302,7 @@ Aug. 3,
 
 <div class="css-f99wo4 e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-threeByTwoSmallAt2X.jpg)
+![](https://static01.nyt.com/images/2020/08/05/dining/03Kenji4/merlin_174846099_dd3040d6-88f8-4e4c-b38e-3bc5247c1482-threeByTwoSmallAt2X.jpg)
 
 </div>
 
@@ -190,11 +318,10 @@ Aug. 3,
 
 <div class="css-18bsdtk epkadsg1">
 
-**Up stream.** Watch a documentary about Creem, the 1970s music magazine
-that was equal parts profound and profane. It’s no indie, but 1991’s
-“Terminator 2” is worth another look. But if you prefer something more
-recent, “Jojo Rabbit” is available for
-streaming.
+**Move ahead.** The pandemic has made saving money more challenging. We
+can help. We also have tips for how to diversify your children’s toys
+and games. And if you’re having trouble finding stuff at the store, try
+bartering.
 
 </div>
 
@@ -202,21 +329,20 @@ streaming.
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/08/03/arts/music/creem-magazine-documentary.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-budget-save-money.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’
+4 Simple Ways to Take Control of Your Coronavirus Budget
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-A new documentary traces the rise and fall of the irreverent,
-boundary-smashing music publication where Lester Bangs did some of his
-most famous work.
+The pandemic has changed the way we budget. Here’s some advice to get
+back on track.
 
 </div>
 
@@ -231,7 +357,7 @@ Aug. 3,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-threeByTwoSmallAt2X-v2.jpg)
+![](https://static01.nyt.com/images/2020/08/03/smarter-living/04sl-virus-budgetimage/04sl-virus-budgetimage-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -239,149 +365,20 @@ Aug. 3,
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/07/31/movies/comfort-viewing-terminator-2.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/03/parenting/multiracial-toys-diversity-play.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
+How to Diversify Your Toy Box
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-Killer robots may not seem like soothing fare, but unlike real life, the
-world’s horrors come to an end when the movie does.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-July 31,
-2020
-
-</div>
-
-</div>
-
-<div class="css-6rnapk e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-threeByTwoSmallAt2X.jpg)
-
-</div>
-
-</div>
-
-<div class="css-xv2r4i e16ij5yr7">
-
-[](https://www.nytimes.com/2020/07/31/arts/television/new-to-stream-netflix.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1jo6or8 e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-The Best Movies and TV Shows Coming to Netflix, Amazon and More in
-August
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-Every month, subscription streaming services add a new batch of titles
-to their libraries. Here are our picks for August.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-July 31,
-2020
-
-</div>
-
-</div>
-
-<div class="css-6rnapk e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/08/01/multimedia/01streamaugust1/merlin_175127256_c78e620b-ca85-4153-91c9-adee0a480817-threeByTwoSmallAt2X.jpg)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
------
-
-<div class="related-links-block css-l21bvc epkadsg3">
-
-<div class="css-18bsdtk epkadsg1">
-
-**New rules.** Taking public transportation? No eating, no touching —
-and don’t forget a mask. The usual summer safety protocols for kids
-still apply, even during a pandemic. And take a look at these everyday
-objects made newly relevant in the time of
-coronavirus.
-
-</div>
-
-<div class="css-kjfhp0 epkadsg2">
-
-<div class="css-xv2r4i e16ij5yr7">
-
-[](https://www.nytimes.com/2020/08/01/at-home/coronavirus-public-transportation-subway.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1jo6or8 e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-How to Stay Safer on Mass Transit
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-Timing your trip strategically, using contactless payments and not
-eating onboard are some of the things to keep in mind.
-
-</div>
-
-<div class="css-x7rtpa e16638kd1">
-
-Aug. 1,
-2020
-
-</div>
-
-</div>
-
-<div class="css-6rnapk e16ij5yr0">
-
-![](https://static01.nyt.com/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-threeByTwoSmallAt2X.jpg)
-
-</div>
-
-</div>
-
-<div class="css-xv2r4i e16ij5yr7">
-
-[](https://www.nytimes.com/2020/08/03/well/family/children-summer-safety.html?action=click&module=RelatedLinks&pgtype=collection)
-
-<div class="css-1jo6or8 e16ij5yr5">
-
-<div class="css-lukm9m e16ij5yr3">
-
-In This Pandemic Summer, Don’t Forget About Kids’ Other Risks
-
-</div>
-
-<div class="css-copog6 e16ij5yr4">
-
-Reinforcing summer safety with some of the special twists and dangers of
-this dangerous and twisty time.
+Ways to create a multiracial and multicultural spectrum in a child’s
+activities and toys.
 
 </div>
 
@@ -396,7 +393,7 @@ Aug. 3,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/08/03/well/03klass-summer/03klass-summer-threeByTwoSmallAt2X.jpg)
+![](https://static01.nyt.com/images/2020/08/03/autossell/diversetoys-still/diversetoys-still-threeByTwoSmallAt2X.jpg)
 
 </div>
 
@@ -404,26 +401,25 @@ Aug. 3,
 
 <div class="css-xv2r4i e16ij5yr7">
 
-[](https://www.nytimes.com/2020/08/01/arts/design/virus-design-objects.html?action=click&module=RelatedLinks&pgtype=collection)
+[](https://www.nytimes.com/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html?action=click&module=RelatedLinks&pgtype=collection)
 
 <div class="css-1jo6or8 e16ij5yr5">
 
 <div class="css-lukm9m e16ij5yr3">
 
-The Strange Lives of Objects in the Coronavirus Era
+Can’t Find It at the Store?
 
 </div>
 
 <div class="css-copog6 e16ij5yr4">
 
-The pandemic has inspired a flurry of new and novel items — and given
-ordinary ones new meanings.
+How to make sure everyone gets what they need — and feels good about it.
 
 </div>
 
 <div class="css-x7rtpa e16638kd1">
 
-Aug. 1,
+Aug. 3,
 2020
 
 </div>
@@ -432,7 +428,7 @@ Aug. 1,
 
 <div class="css-6rnapk e16ij5yr0">
 
-![](https://static01.nyt.com/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-threeByTwoSmallAt2X.png)
+![](https://static01.nyt.com/images/2020/05/29/smarter-living/00sl-barter-promo/00sl-barter-promo-threeByTwoSmallAt2X.jpg)
 
 </div>
 
@@ -455,88 +451,89 @@ Aug. 1,
 [More in How to Deal
     »](/spotlight/how-to-deal)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-    O'Hare for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
+    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
     
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks
-    subside.
+    Despite precautions, the coronavirus has swept through a number of
+    weddings, large and small, infecting guests and
+    vendors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reed
-    Abelson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joohee
-    Yoon</span>](https://static01.nyt.com/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Randall
+    Munroe</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How to Ace an Online Job Interview](/2020/08/03/business/online-job-interview-tips.html)
+    ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
-    A handful of classic techniques and some tips unique to the
-    work-from-home era can help you land that next
-    job.
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to
+    sweat.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Weed</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Randall
+    Munroe</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>iStock</span>](https://static01.nyt.com/images/2020/07/29/smarter-living/commute-burst-promo/commute-burst-promo-videoLarge.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/well/04sharenting/04sharenting-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Reclaim That Commute Time for Yourself](/interactive/2020/08/03/burst/reclaim-commute-time.html)
+    ## [Why Parents Should Pause Before Oversharing Online](/2020/08/04/well/family/parents-social-media-privacy.html)
     
-    If you find yourself still working from home, here are some tips on
-    reclaiming the time you once spent commuting to and from the
-    office.
+    As social media comes of age, will we regret all the information we
+    revealed about our families during its early
+    years?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Anna
-    Goldfarb</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stacey
+    Steinberg</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
-    Lam</span>](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kennedi
+    Carter for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/04borrow1/04borrow1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Benefits of Talking to Strangers](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
+    ## [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
     
-    Casual connections with people we encounter in the course of daily
-    life can give us the sense of belonging to a
-    community.
+    Banks have tightened standards, becoming more choosy about their
+    borrowers and asking a lot of
+    questions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jane E.
-    Brody</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tara Siegel
+    Bernard</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fran
-    Caballero</span>](https://static01.nyt.com/images/2020/05/29/smarter-living/00sl-barter-promo/00sl-barter-promo-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/autossell/diversetoys-still/diversetoys-still-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Can’t Find It at the Store?](/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+    ## [How to Diversify Your Toy Box](/2020/08/03/parenting/multiracial-toys-diversity-play.html)
     
-    How to make sure everyone gets what they need — and feels good about
-    it.
+    Ways to create a multiracial and multicultural spectrum in a child’s
+    activities and
+    toys.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">A.C.
-    Shilton</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Shanicia
+    Boswell</span></span>
     
     </div>
 
@@ -666,7 +663,24 @@ story](#after-mid1)
 
 ## [What to Watch](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+    Johnson/SundanceTV</span>](https://static01.nyt.com/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [After ‘The Good Fight,’ Try ‘The Split’](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    
+    Our television critic answers your questions and offers guidance on
+    what to watch
+    next.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Margaret
+    Lyons</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
     Cartwright/ABC</span>](https://static01.nyt.com/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -683,7 +697,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -699,7 +713,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artisan
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Artisan
     Home
     Entertainment</span>](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-videoLarge.jpg)
     
@@ -717,7 +731,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Universal
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Universal
     Pictures</span>](https://static01.nyt.com/images/2020/07/28/arts/peacock1/peacock1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -734,24 +748,6 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anuj
-    Shrestha</span>](https://static01.nyt.com/images/2020/07/31/arts/31Weekend-Watch-LoveBasketball/31Weekend-Watch-LoveBasketball-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Director Gina Prince-Bythewood Has Always Had Game](/2020/07/28/movies/love-basketball-viewing-party.html)
-    
-    Our readers and critic revisited “Love & Basketball,” the director’s
-    feature debut about a Black girl who plays ball, falls in love and
-    carves out her own path to
-    happiness.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Manohla
-    Dargis</span></span>
-    
-    </div>
-
 </div>
 
 <div class="section 5-band css-jhqenn ep7jkp60">
@@ -761,7 +757,23 @@ story](#after-mid1)
 [More in Pass the Time
     »](/spotlight/pass-the-time)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Black Pianist Helped Birth Bossa Nova. His Story Is Rarely Told.](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+    
+    Johnny Alf has always been revered by Antônio Carlos Jobim and João
+    Gilberto, but his legacy remains obscure, even among
+    Brazilians.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Beatriz
+    Miranda</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Rutter</span>](https://static01.nyt.com/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -778,7 +790,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
     Krulwich/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/04/arts/03kaatsbaan-review-1/03kaatsbaan-review-1-videoLarge.jpg)
     
@@ -796,7 +808,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jodi
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jodi
     Levine for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-activity-flowers6/02ah-activity-flowers6-videoLarge.jpg)
     
@@ -814,7 +826,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
     Oktar Yalkin for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/arts/00anna-sale1/00anna-sale1-videoLarge.jpg)
     
@@ -830,23 +842,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Reggie
     Ugwu</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
-    Audible</span>](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [It’s a Book. It’s a Podcast. It’s a Three-Act Play, in Your Ears.](/2020/08/02/books/jesse-eisenberg-when-you-finish-saving-the-world-audio.html)
-    
-    Jesse Eisenberg’s audio drama, “When You Finish Saving the World,”
-    is coming to Audible ahead of a film adaptation with Julianne
-    Moore.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elisabeth
-    Egan</span></span>
     
     </div>
 
@@ -1116,6 +1111,287 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/movies/an-american-pickle-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/arts/05americanpickle2/05americanpickle2-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘An American Pickle’ Review: Keeping It Kosher
+    
+    A time-travel farce plays as a Jewish joke about an old-world
+    immigrant and his millennial great-grandson, both played by Seth
+    Rogen.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">A.O.
+    Scott</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Comedy</span>
+    
+    ## Sam Jay: A Comic Who Belongs to No Camp
+    
+    With a deadpan glare, the stand-up takes shots at everyone and won’t
+    say something funny just for a laugh. Now she’s on the cusp of
+    breaking out, thanks to a Netflix special.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jason
+    Zinoman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/08/03/burst/reclaim-commute-time.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/29/smarter-living/commute-burst-promo/commute-burst-promo-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Reclaim That Commute Time for Yourself
+    
+    If you find yourself still working from home, here are some tips on
+    reclaiming the time you once spent commuting to and from the office.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anna
+    Goldfarb</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">tech fix</span>
+    
+    ## Google Pixel 4A Review: At $350, a Win for Those on a Budget
+    
+    Yes, you can now pay less than $399 for a smartphone — and it won’t
+    stink.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brian X.
+    Chen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/business/online-job-interview-tips.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Ace an Online Job Interview
+    
+    A handful of classic techniques and some tips unique to the
+    work-from-home era can help you land that next job.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julie
+    Weed</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Personal Health</span>
+    
+    ## The Benefits of Talking to Strangers
+    
+    Casual connections with people we encounter in the course of daily
+    life can give us the sense of belonging to a community.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jane E.
+    Brody</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/05/29/smarter-living/00sl-barter-promo/00sl-barter-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Can’t Find It at the Store?
+    
+    How to make sure everyone gets what they need — and feels good about
+    it.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">A.C.
+    Shilton</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/health/covid-telemedicine-congress.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Is Telemedicine Here to Stay?
+    
+    The answer largely depends on whether Medicare and private health
+    insurers will adequately cover virtual doctor visits once
+    coronavirus outbreaks subside.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reed
+    Abelson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
     
     <div class="css-79elbk">
@@ -1144,306 +1420,29 @@ story](#after-mid3)
     
     </div>
 
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/alan-parker-stream.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31parker-streaming1/31parker-streaming1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Where to Stream Alan Parker’s Best Movies
-    
-    Though he may not have stamped a specific style on his work, he
-    brought an intelligence and professionalism to each film, whether
-    musicals or dark dramas.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason
-    Bailey</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/parenting/eid-al-adha-families-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/30/multimedia/30par-eid-al-adha-pandemic1/30par-eid-al-adha-pandemic1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Families Are Celebrating Eid al-Adha This Year
-    
-    You can make the festival feel special for kids, without having to
-    leave home.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tasmiha
-    Khan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/at-home/newsletter.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/30go-gos/30go-gos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">at home newsletter</span>
-    
-    ## This Week, Clean Your Stove
-    
-    Some straightforward advice for a reader who feels directionless
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/shakuntala-devi-movie.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31shakuntala-primer2/merlin_175165059_16547c37-e893-491f-95ef-35e15e153060-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 5 Things to Know About Shakuntala Devi
-    
-    A film about the Indian mathematics genius is now streaming on
-    Amazon Prime Video. Here are five facts to get you more familiar.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Priya
-    Arora</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/arts/television/goldbergs-abc-stream.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Comfort Viewing: Why I Still Love ‘The Goldbergs’
-    
-    The period sitcom about a Jewish family in the ’80s has for seven
-    seasons been a weekly gift of old-fashioned zingers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Noel
-    Murray</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/comfort-viewing-terminator-2.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/arts/31comfort-terminator4/31comfort-terminator4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Comfort Viewing: 3 Reasons I Love ‘Terminator 2: Judgment Day’
-    
-    Killer robots may not seem like soothing fare, but unlike real life,
-    the world’s horrors come to an end when the movie does.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicolas
-    Rapold</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/31/travel/coronavirus-travel-risk.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Should I Travel This Year?
-    
-    Travel looks very different in 2020. Here are some questions to help
-    you consider the risks to yourself and others if you take a trip.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sara Aridi <span>and</span> Umi
-    Syam</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/movies/palm-springs-clip-hulu.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">anatomy of a scene</span>
-    
-    ## How Andy Samberg and Cristin Milioti Meet Cute in ‘Palm Springs’
-    
-    The director Max Barbakow narrates a wedding sequence from his
-    comedy, now streaming on Hulu.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mekado
-    Murphy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/business/housing-market-prices-risk.html)
+    [](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/business/31View-illo-sub/31View-illo-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-calendar2-illo-web/02AH-calendar2-illo-web-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Economic View</span>
+    ## Spend Time with Shakespeare’s Family and Take a Master Class in Ballet
     
-    ## How to Navigate the Coronavirus Real Estate Market
-    
-    Suburbs and fashionable exurbs are hot, but don’t forget that home
-    prices have fallen before, a Nobel laureate warns.
+    As August arrives, you can learn how an author conjured Elizabethan
+    England and engage your children’s five senses in a mystery game.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Robert J. Shiller</span>
+    By <span class="css-1n7hynb">Adriana Balsamo <span>and</span> Hilary
+    Moss</span>
     
     </div>
     

@@ -415,13 +415,13 @@ schools.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-29614" class="css-19mumt8" data-role="complementary" data-storyline="The Games Resume" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-96558" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
 <div>
 
-### The Games Resume
+### The Coronavirus Outbreak
 
 #### Sports and the Virus
 
@@ -444,7 +444,7 @@ life:
         out](https://www.nytimes.com/2020/08/02/sports/baseball/Yoenis-cespedes-opt-out-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
         of the 2020 baseball season for Covid-related reasons.
 
-<div id="styln-survey-component-29614" class="styln-survey-component">
+<div id="styln-survey-component-96558" class="styln-survey-component">
 
 </div>
 

@@ -83,8 +83,8 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Isaias
-Live Updates: Tornadoes Are a Threat as Storm Charges
-North</span>
+Reaches Canada as a Dwindling
+Storm</span>
 
 </div>
 
@@ -161,6 +161,8 @@ story](#after-top)
 
 </div>
 
+<div>
+
 <div id="sponsor-wrapper" class="css-1hyfx7x">
 
 <div id="sponsor-slug" class="css-19vbshk">
@@ -182,45 +184,50 @@ story](#after-sponsor)
 
 </div>
 
-<div class="css-14oxmzc edomiq20">
-
-<div class="css-40v4b6">
-
-<span class="css-sgss5">LIVE UPDATES</span>
-
-</div>
-
-<span>Updated </span>
-
-<div class="css-ki347z">
-
-<span class="css-1656jku">Aug. 4, 2020, 3:13 p.m.
-ET</span><span class="css-xwx5dt"></span>
-
-</div>
-
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 3:13
-p.m. ET</span>
+<div class="css-186x18t">
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Isaias Live Updates: Tornadoes Are a Threat as Storm Charges North
+# Isaias Reaches Canada as a Dwindling Storm
 
 </div>
 
 At least two people were killed after a tornado touched down in Bertie
-County, N.C., and caused significant damage to a neighborhood there.
+County, N.C., and two others in the United States were killed by falling
+trees.
 
-<div class="css-192lewg e1oheyly0">
+<div class="css-bn0qp euiyums0">
 
-Right Now
+<div class="css-75y64v e16638kd2">
 
-The center of Isaias is northwest of New York City, with the storm
-bringing heavy rain and strong winds, and causing power losses for as
-many as two million electricity
-customers.
+Aug. 4,
+2020
+
+</div>
+
+<div class="css-4xjgmj">
+
+<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -230,18 +237,18 @@ customers.
 
 ### Here’s what you need to know:
 
-  - [Isaias is bringing the threat of tornadoes as it barrels
-    north.](#link-362830dd)
+  - [Isaias brought winds and rain to much of the East
+    Coast.](#link-38d68049)
   - [At least two people were killed by a tornado in North
     Carolina.](#link-7961bdbc)
-  - [The storm is knocking out power over wide areas.](#link-34e5d4e4)
-  - [New York City may get less rain but more wind.](#link-29c12cc)
+  - [The storm knocked out power over wide areas.](#link-3480f4a1)
+  - [High winds topple trees in New York City, killing one
+    person.](#link-2673c54)
+  - [Why a hurricane spawned so many tornadoes.](#link-5275f1d1)
   - [Homes burned and cars were swept away where the storm made
     landfall.](#link-5066ef1c)
   - [Simultaneous disasters are exposing the hard reality of climate
     change.](#link-665175e7)
-  - [Is a face mask much use in a tropical storm? Not if it gets
-    wet.](#link-e77dd06)
 
 </div>
 
@@ -256,19 +263,7 @@ Press</span></span></span>](https://static01.nyt.com/images/2020/08/04/us/4hpsto
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-362830dd" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Isaias is bringing the threat of tornadoes as it barrels north.
+## Isaias brought winds and rain to much of the East Coast.
 
 Isaias pounded a large swath of the Atlantic Coast on Tuesday,
 unleashing heavy rains and winds as fast as 70 miles per hour as it
@@ -277,19 +272,14 @@ swept through the Carolinas and into the Northeast.
 Isaias, which made landfall in North Carolina as a Category 1 hurricane
 and quickly weakened to a tropical storm, left a trail of floods, fires
 and hundreds of thousands of people without electricity. Some of the
-storm’s most devastating effects, including the deaths of at least two
-people, were wrought by a series of tornadoes that it spawned across its
-path.
+storm’s most devastating effects were wrought by a series of tornadoes
+that it spawned across its path.
 
-New York and New England were on alert and bracing for the worst of the
-storm to hit later on Tuesday, with tropical storm warnings reaching as
-far up the Atlantic Coast as Martha’s Vineyard in Massachusetts.
-
-Gov. Philip D. Murphy of New Jersey [declared a state of
-emergency](https://twitter.com/GovMurphy/status/1290468549232922624) for
-the entire state, and closed government offices. Gov. Andrew M. Cuomo of
-New York said the front end of the storm had already arrived in parts of
-the state.
+The authorities said at least four people had died in the storm,
+including two people who were killed when a tornado struck a
+neighborhood in northeast North Carolina. A woman died in St. Mary’s
+County, Md., when a tree toppled by the winds landed on her vehicle, and
+a person died in New York City under similar circumstances.
 
 </div>
 
@@ -299,15 +289,12 @@ the state.
 
 <div class="css-53u6y8">
 
-“I urge New Yorkers to look out for local weather alerts, exercise
-caution and avoid unnecessary travel, especially if you are in the
-storm’s direct path,” he [said on
-Twitter](https://twitter.com/NYGovCuomo/status/1290660414666178562).
-
-At 3 p.m. Eastern, the center of Isaias, which is written as Isaías in
-Spanish and pronounced ees-ah-EE-ahs, was about 60 miles west-northwest
-of New York City, near the village of
-Monticello.
+By 11 p.m. Eastern, the center of Isaias, which is written as Isaías in
+Spanish and pronounced ees-ah-EE-ahs, had crossed into southern Canada,
+about 45 miles east-southeast of Montreal. Most tropical storm warnings
+in the United States have ended, but tornadoes could still form in
+Maine, according to the National Hurricane
+Center.
 
 </div>
 
@@ -337,14 +324,29 @@ Follow the storm’s path as it moves north along the Atlantic Coast.
 
 <div class="css-53u6y8">
 
-Officials said that the storm’s rapid pace, moving nearly 35 m.p.h.,
+Officials said that the storm’s rapid pace — as fast as 40 m.p.h. —
 stood to help limit river flooding and allowed the authorities to
-mobilize swiftly in assessing the toll.
+mobilize swiftly.
 
 “All in all, this storm got in, got out pretty quickly,” Gov. Roy Cooper
 of North Carolina said in an interview on “Good Morning America” on
 Tuesday. Because of that, he added, the damage was not “as great as it
 could have been.”
+
+Tornadoes had landed in parts of northeastern North Carolina,
+southeastern Virginia and southern New Jersey. Another likely touched
+down near Dover, Del.
+[Photos](https://slack-redir.net/link?url=https%3A%2F%2Ftwitter.com%2FRichWirdzekWx%2Fstatus%2F1290684400825438208)
+and
+[videos](https://slack-redir.net/link?url=https%3A%2F%2Ftwitter.com%2FDKDRinc%2Fstatus%2F1290688365830995969)
+posted to social media showed trees snapped and pieces of buildings
+blown on top of vehicles. The New York City region was under a tornado
+watch until 4 p.m.
+
+The storm had delivered only a glancing blow to Florida as it skirted
+the coast there, with officials expressing relief that it failed to
+cause the level of damage they had feared. Georgia was largely spared as
+well.
 
 </div>
 
@@ -354,38 +356,7 @@ could have been.”
 
 <div class="css-53u6y8">
 
-Tornadoes had landed in parts of northeastern North Carolina,
-southeastern Virginia and southern New Jersey. Another likely touched
-down near Dover, Del.
-[Photos](https://slack-redir.net/link?url=https%3A%2F%2Ftwitter.com%2FRichWirdzekWx%2Fstatus%2F1290684400825438208)
-and
-[videos](https://slack-redir.net/link?url=https%3A%2F%2Ftwitter.com%2FDKDRinc%2Fstatus%2F1290688365830995969)
-posted to social media showed trees snapped and pieces of buildings
-blown on top of vehicles. Tornado threats would continue north along the
-coast and into New England, and the New York City region was under a
-tornado watch until 4 p.m.
-
-Isaias could cause flash flooding around much of the Mid-Atlantic
-region, the National Hurricane Center said, with “potentially
-life-threatening urban flooding” possible in Washington, Baltimore and
-other cities along and just west of I-95. The storm had delivered only a
-glancing blow to Florida as it skirted the coast there, with officials
-expressing relief that it failed to cause the level of damage they had
-feared. Georgia was largely spared as well.
-
-## 
-
-<div id="link-7961bdbc" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-At least two people were killed by a tornado in North Carolina.
+## At least two people were killed by a tornado in North Carolina.
 
 The authorities in Bertie County, N.C., were assessing the devastation
 caused by a tornado that ripped through a neighborhood overnight,
@@ -395,6 +366,17 @@ Television footage showed a rural patch of mobile homes that had been
 eviscerated, leaving streaks of debris. One home had been reduced to
 splintered wood and metal, piled with kitchen appliances, furniture and
 laundry.
+
+The Bertie County sheriff, John Holley, told reporters on Tuesday that
+the tornado touched down in the early morning hours on Tuesday,
+shredding the cluster of homes so intensely that only two still stood.
+
+“The rest of them is pretty much gone,” he said [in an interview with
+WVEC-TV](https://www.13newsnow.com/video/news/local/north-carolina/bertie-county-sheriff-john-holley-talks-about-fatality-in-north-carolina/291-99306d30-d640-4e9a-97fa-0221d565f5df),
+a television station based in Hampton, Va., adding that the community he
+regularly passed during 38 years with the Sheriff’s Department was now
+unrecognizable. “It don’t look real,” he said. “It’s sad and it’s
+hard.”
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -412,18 +394,18 @@ laundry.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T18:55:20.971Z
+Updated 2020-08-05T03:55:25.341Z
 
 </div>
 
 </div>
 
-  - [Isaias is bringing the threat of tornadoes as it barrels
-    north.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-362830dd)
+  - [Isaias brought winds and rain to much of the East
+    Coast.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-38d68049)
   - [At least two people were killed by a tornado in North
     Carolina.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7961bdbc)
-  - [The storm is knocking out power over wide
-    areas.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34e5d4e4)
+  - [The storm knocked out power over wide
+    areas.](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3480f4a1)
 
 <div class="briefing-block-footer">
 
@@ -446,30 +428,9 @@ updates](https://www.nytimes.com/2020/08/04/us/isaias-storm-updates.html?action=
 
 </div>
 
-The Bertie County sheriff, John Holley, told reporters on Tuesday that
-the tornado touched down<span class="css-8l6xbc evw5hdy0"> </span>in the
-early morning hours on Tuesday, shredding the cluster
-of<span class="css-8l6xbc evw5hdy0"> </span>homes so intensely that only
-two still stood.
-
-“The rest of them is pretty much gone,” he said [in an interview with
-WVEC-TV](https://www.13newsnow.com/video/news/local/north-carolina/bertie-county-sheriff-john-holley-talks-about-fatality-in-north-carolina/291-99306d30-d640-4e9a-97fa-0221d565f5df),
-a television station based in Hampton, Va., adding that he had regularly
-passed the community during 38 years with the Sheriff’s Department and
-it was now unrecognizable. “It don’t look real,” he said. “It’s sad and
-it’s hard.”
-
-The authorities said that at least 12 people had been hospitalized. Mr.
-Holley said that his deputies were looking for at least three people who
-were unaccounted for.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
+The authorities said at least 12 people had been hospitalized, and Mr.
+Holley said his deputies were looking for at least three people who were
+unaccounted for.
 
 “Our hearts are heavy as we continue to survey damage and get the big
 picture about what transpired and just how many were impacted,” said Ron
@@ -480,13 +441,21 @@ state before the storm had even passed, county officials said, with
 emergency workers contending with the wind and rain in the dark of night
 as they pulled people from their homes.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “We want to emphasize that this is not a recovery mission, and rescues
 are still taking place,” Mitch Cooper, the emergency management director
 for Bertie County, said on Tuesday.
 
 Officials were also trying to take stock of the aftermath across the
-state. “We’ve had a number of tornadoes,” Governor Cooper, a Democrat,
-said on “Good Morning America.” “I’m not sure of the count yet.”
+state. “We’ve had a number of tornadoes,” Governor Cooper said on “Good
+Morning America.” “I’m not sure of the count yet.”
 
 </div>
 
@@ -514,39 +483,18 @@ Press</span></span>](https://static01.nyt.com/images/2020/08/04/us/04isaias-brie
 
 <div class="css-53u6y8">
 
-## 
+## The storm knocked out power over wide areas.
 
-<div id="link-34e5d4e4" class="css-105iojl">
+More than three million utility customers along the storm’s path in
+North Carolina, Virginia, Maryland, Delaware, New Jersey, Pennsylvania
+and New York were without power, according to
+[Poweroutage.us](https://poweroutage.us/), a website that tracks and
+aggregates reports from utilities.
 
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The storm is knocking out power over wide areas.
-
-More than two million utility customers along the storm’s path in North
-Carolina, Virginia, Maryland, Delaware, New Jersey, Pennsylvania and New
-York were without power, according to
-[Poweroutage.us](https://slack-redir.net/link?url=http%3A%2F%2FPoweroutage.us),
-a website that tracks and aggregates reports from utilities.
-
-As of 1:45 p.m. Eastern time, more than one million customers were
-without power in New Jersey, a number significantly higher than in any
-other state. In Eastern North Carolina and Virginia, 448,066 utility
-customers were without power, and in Pennsylvania more than 356,000
-customers were affected.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
+As of 11 p.m. Eastern time, nearly 1.2 million customers were without
+power in New Jersey, a number significantly higher than in any other
+state. In New York, more than 800,000 people were without power, and
+Connecticut had at least 600,000 customers without power.
 
 Storms can disrupt power in a number of ways. Strong wind gusts can
 sometimes snap cables and poles directly, though utilities try to build
@@ -561,28 +509,23 @@ Dominion Energy warn the public to [stay at least 30 feet
 away](https://twitter.com/DominionEnergy/status/1290609115954323457),
 and not to attempt to move them.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Loss of off-site power caused one reactor at the Brunswick nuclear power
 plant in Southport, N.C., to automatically shut down overnight,
 according to [a Nuclear Regulatory Commission
 notice](https://www.nrc.gov/reading-rm/doc-collections/event-status/event/2020/20200804en.html).
 The plant’s other reactor was unaffected. The report said safety systems
 worked as intended and the impact of the shutdown was
-minimal.<span class="css-8l6xbc evw5hdy0"> </span>
+minimal.
 
-## 
-
-<div id="link-29c12cc" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-New York City may get less rain but more
-wind.
+## High winds topple trees in New York City, killing one person.
 
 </div>
 
@@ -610,10 +553,10 @@ wind.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Park rangers
-patroled the beach ahead of Tropical Storm Isaias in Queens on
-Tuesday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Brendan
-Mcdermid/Reuters</span></span>
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A person was
+killed in Queens when a tree crushed a vehicle on
+Tuesday. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Frank
+Franklin II/Associated Press</span></span>
 
 </div>
 
@@ -623,76 +566,67 @@ Mcdermid/Reuters</span></span>
 
 <div class="css-53u6y8">
 
-The projected path of the storm has shifted slightly westward on
-Tuesday, giving New York City and the surrounding areas a slight
-reprieve from the heaviest expected rainfall.
+At least one person was killed after Tropical Storm Isaias swept into
+New York, battering the Northeast with heavy rain, nearly
+hurricane-force winds and tornadoes.
 
-But the shift has also increased the chance of severe weather in the
-region, including the possibility of “weak, brief” tornadoes, said
-Matthew Wunsch, a meteorologist with the National Weather Service. A
-tornado watch is in effect until 4 p.m. for New York City, Long Island,
-much of New Jersey and parts of Connecticut.
+The strong winds snapped branches and felled trees across the region. In
+Queens, the person was killed after [a tree fell onto a
+vehicle](https://1010wins.radio.com/articles/tree-falls-onto-parked-vehicle-in-queens-killing-1-person),
+a spokesman for Mayor Bill de Blasio said.
 
-Even with the worst rain falling to the west, the New York City area
-could still see some heavy bands of rainfall pass through in the morning
-and afternoon, Mr. Wunsch said. Winds will pick up in the afternoon,
-with sustained speeds of 35 to 45 m.p.h. and gusts over 60 m.p.h., he
-said, and coastal flooding is expected in the evening and through
-tomorrow.
+By 3 p.m., high winds had already caused mayhem in and around New York
+City, with the Weather Service expecting “damaging winds” and the threat
+of tornadoes to continue through the afternoon.
+
+Branches from trees lining neighborhood streets snapped and fell onto
+cars. In Gramercy Park, entire trees were toppled and one was split in
+half. Near Washington Square Park, a tree [crashed into a parked
+van](https://twitter.com/michelledozois/status/1290733797344935936).
 
 </div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Mr. Wunsch said the fast-moving storm was likely to inflict far less
-damage overall than Hurricane Sandy did in October 2012. “Sandy was such
-a large-scale event, and it happened over such a long period of time,”
-he said. “It was just a different beast altogether.”
-
-Even so, officials in New York City were bracing for the bad weather and
-urging residents to be vigilant for wind, rain and power outages.
-Beaches were closed on Tuesday.
-
-Gov. Phillip D. Murphy of New Jersey declared a state of emergency and
-asked people to stay off the roads and to secure loose furniture and
-other items that could be blown around by the high winds. He said
-“hundreds of thousands” of utility customers could lose power in the
-state, depending on the severity of the wind gusts and the specific
-track of the storm.
-
-The southern end of the state was already being hit Tuesday morning,
-with a tornado reported in Strathmere in Cape May County.
-
-Gov. Andrew M. Cuomo of New York said in a statement that the state had
-rescue teams standing by with boats and high-water vehicles in areas
-that could be hardest hit by the storm. The state had also sent out
-water pumps, chain saws, sandbags and bottled water, he said, noting
-that up to six inches of rain could fall in some areas.
-
-## 
-
-<div id="link-5066ef1c" class="css-105iojl">
 
 </div>
 
 <div>
 
-<span height="1"></span>
-
 </div>
 
-Homes burned and cars were swept away where the storm made landfall.
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
 
-Several homes caught fire, cars were swept away in floodwater, and
-outdoor stairways were ripped off houses as Hurricane Isaias made
-landfall in Ocean Isle Beach, N.C., on Monday night.
+<div class="css-53u6y8">
 
-Morgan Strenk watched from her vacation home as rising water flooded the
-streets outside and filled her basement with three feet of water.
+On Tuesday afternoon, the Metropolitan Transportation Authority said
+some aboveground subway service, the Metro-North Railroad, Long Island
+Rail Road and the Staten Island Ferry were all temporarily suspended.
+
+The Verrazzano-Narrows Bridge was temporarily closed to traffic in both
+directions. At a briefing on Tuesday afternoon, Sarah Feinberg, the
+interim president of the transit authority, said she could not say when
+full subway service would resume.
+
+“As soon as the trees and debris are removed, we’ll obviously be back to
+full service,” she said. “Which may take some time given the number of
+trees and branches that are down and fences and other debris.”
+
+Before the storm hit, Gov. Andrew M. Cuomo said in a statement on
+Tuesday that some inland areas in New York State could see up to six
+inches of rain.
+
+He said the state had deployed rescue teams, with boats and high-water
+vehicles, to areas that could be hardest-hit by the storm. The state had
+also sent out water pumps, chain saws, sandbags and bottled water.
+
+## Why a hurricane spawned so many tornadoes.
+
+As Hurricane Isaias worked its way through the Mid-Atlantic states on
+Tuesday, its winds steadily diminishing, a new hazard arose: tornadoes.
+
+[It is not uncommon for hurricanes to spawn
+tornadoes](https://www.nytimes.com/2020/08/04/climate/hurricanes-tornadoes.html),
+and they are similar to those that arise out of large thunderstorms in
+the Central Plains, said Jana Houser, an associate professor of
+meteorology at Ohio University.
 
 </div>
 
@@ -701,6 +635,68 @@ streets outside and filled her basement with three feet of water.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Tornadoes are created in the outer rain bands of hurricanes, Dr. Houser
+said, which contain convective cells — thunderstorms — of their own.
+Once the rain bands reach land, surface friction greatly increases,
+slowing the storm’s winds that are close to the ground.
+
+“You suddenly create a situation where you have a change in wind speed
+and often direction” compared with higher-altitude winds, Dr. Houser
+said. This is called wind shear, and it can induce a spinning movement
+in the air.
+
+At first this creates a spinning cylinder of air that is parallel to the
+ground. But if updrafts tilt the spinning air upright, a tornado is
+born.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Part of a
+damaged pier washed ashore in North Myrtle Beach,
+S.C.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Sean
+Rayford/Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## Homes burned and cars were swept away where the storm made landfall.
+
+Several homes caught fire, cars were swept away in floodwater, and
+outdoor stairways were ripped off houses as Isaias made landfall in
+Ocean Isle Beach, N.C., late Monday night.
+
+Morgan Strenk watched from her vacation home as rising water flooded the
+streets outside and filled her basement with three feet of water.
 
 “We didn’t think it was going to get to this level,” she said.
 
@@ -708,10 +704,17 @@ And while the water crept higher, a more urgent threat emerged: Stepping
 onto her porch, Ms. Strenk smelled smoke, and saw a house across the
 street going up in flames. The fire then spread to a neighboring house.
 
-When a family came out of another nearby house, Ms.
-Strenk<span class="css-8l6xbc evw5hdy0"> </span>said she signaled with
-her flashlight to invite them to come shelter with her on the opposite
-side of the street.
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+When a family came out of another nearby house, Ms. Strenk said she
+signaled with her flashlight to invite them to come shelter with her on
+the opposite side of the street.
 
 One of the houses burned completely to the ground, Ms. Strenk said. Only
 a burned front porch and stairway remains of the other. Photos she took
@@ -724,7 +727,8 @@ pieces of furniture all over the place.”
 
 In all, fire crews had to put out at least five structure fires, said
 Tony Casey, a spokesman for Horry County Fire Rescue, which had come
-from South Carolina to help the local firefighters.
+from South Carolina to help the local
+firefighters.
 
 </div>
 
@@ -738,32 +742,12 @@ from South Carolina to help the local firefighters.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-665175e7" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Simultaneous disasters are exposing the hard reality of climate change.
+## Simultaneous disasters are exposing the hard reality of climate change.
 
 Twin emergencies on two coasts this week — Hurricane Isaias and the
 Apple Fire, which has burned 27,000 acres in Southern California — offer
 a preview of life in a warming world and the steady danger of
 overlapping disasters.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 And in both places, as well as everywhere between, a
 [pandemic](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
@@ -772,6 +756,14 @@ that keeps worsening.
 Experts say that the pair of hazards bracketing the country this week
 offers a preview of life under climate change: a relentless grind of
 overlapping disasters, major or minor.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 The coronavirus pandemic has further [exposed
 flaws](https://www.nytimes.com/2020/05/22/climate/fema-volunteer-disaster-response.html)
@@ -791,7 +783,8 @@ accelerate.
 now stretch even further,” said Lisa Anne Hamilton, adaptation program
 director at the Georgetown Climate Center in Washington. Better planning
 and preparation are crucial, she added, as the frequency and intensity
-of disasters increase.
+of disasters
+increase.
 
 </div>
 
@@ -805,20 +798,7 @@ of disasters increase.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-e77dd06" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Is a face mask much use in a tropical storm? Not if it gets
-wet.
+## Is a face mask much use in a tropical storm? Not if it gets wet.
 
 </div>
 
@@ -869,6 +849,13 @@ probably not: Face masks [aren’t as
 effective](https://www.nursingtimes.net/clinical-archive/infection-control/the-effectiveness-of-surgical-face-masks-what-the-literature-shows-30-09-2003/)
 when they are wet.
 
+For one thing, it’s much harder to breathe through a wet mask than a dry
+one, Ms. Parker-Pope notes. And on top of that, a moist or wet mask
+doesn’t filter as well as a dry mask. The Centers for Disease Control
+and Prevention, which recommends mask-wearing in general, says they
+[should not be worn when doing things that may get the mask
+wet.](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
+
 </div>
 
 </div>
@@ -877,19 +864,11 @@ when they are wet.
 
 <div class="css-53u6y8">
 
-For one thing, it’s much harder to breathe through a wet mask than a dry
-one, Ms. Parker-Pope notes. And on top of that, a moist or wet mask
-doesn’t filter as well as a dry mask. The Centers for Disease Control
-and Prevention, which recommends mask-wearing in general, says they
-[should not be worn when doing things that may get the mask
-wet.<span class="css-8l6xbc evw5hdy0">
-</span>](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
-
 It doesn’t take a tropical storm to drench a mask, of course. They can
 become soaked with condensation from your breath or sweat from your
 face, and some people think of wetting them deliberately to cool off in
 hot weather. But the harm done is the same, wherever the moisture comes
-from.<span class="css-8l6xbc evw5hdy0"> </span>
+from.
 
 A paper surgical mask that gets soaked should probably be discarded, Ms.
 Parker-Pope advises, but a cloth mask can be washed, dried and re-used.
@@ -902,12 +881,9 @@ little need to wear a mask out in a rainstorm, Ms. Parker-Pope notes:
 duck into a store to wait out the storm, you have a dry mask to wear
 indoors.”
 
-Reporting was contributed by Johnny Diaz, Christopher
-Flavelle,<span class="css-8l6xbc evw5hdy0"> </span>Henry
-Fountain,<span class="css-8l6xbc evw5hdy0"> </span>Patrick J. Lyons,
-Tara Parker-Pope,<span class="css-8l6xbc evw5hdy0"> </span>Rick Rojas,
-Daniel Victor, Will Wright,<span class="css-8l6xbc evw5hdy0">
-</span>Alan Yuhas and Mihir Zaveri
+Reporting was contributed by Johnny Diaz, Christopher Flavelle, Henry
+Fountain, Patrick J. Lyons, Tara Parker-Pope, Rick Rojas, Lucy Tompkins,
+Daniel Victor, Will Wright, Alan Yuhas and Mihir Zaveri
 
 </div>
 

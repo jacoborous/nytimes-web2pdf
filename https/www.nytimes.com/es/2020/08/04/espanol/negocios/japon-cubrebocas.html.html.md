@@ -211,8 +211,8 @@ Dooley</span>](https://www.nytimes.com/by/ben-dooley) y
     
     <div class="css-ld3wwf e16638kd2">
     
-    4 de agosto de 2020Actualizado <span class="css-epvm6">09:14
-    ET</span>
+    4 de agosto de
+    2020
     
     </div>
 
@@ -220,7 +220,7 @@ Dooley</span>](https://www.nytimes.com/by/ben-dooley) y
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

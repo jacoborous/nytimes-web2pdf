@@ -210,6 +210,40 @@ story](#after-subheader)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/05/sports/golf/pga-championship-harding-park.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/sports/05golf-harding-1/05golf-harding-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A Memorable Golf Course Honors a Forgettable President
+    
+    This week’s P.G.A. Championship site is named for Warren G. Harding.
+    The course’s reputation has fared better than his did.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John
+    Branch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/sports/golf/us-open-westchester-without-fans.html)
     
     <div class="css-79elbk">
@@ -239,7 +273,7 @@ story](#after-subheader)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -274,7 +308,7 @@ story](#after-subheader)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +344,7 @@ story](#after-subheader)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +378,7 @@ story](#after-subheader)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +412,7 @@ story](#after-subheader)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -412,7 +446,7 @@ story](#after-subheader)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -447,7 +481,7 @@ story](#after-subheader)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -482,7 +516,7 @@ story](#after-subheader)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -503,42 +537,7 @@ story](#after-subheader)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bill
-    Pennington</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/12/sports/golf/workday-charity-tv-collin-morikawa-justin-thomas.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/sports/12golf-final/merlin_174500928_8e76e1f6-30ec-40b3-b840-8926b07a68f5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Collin Morikawa Is Near-Perfect to Beat Justin Thomas in a Playoff
-    
-    Morikawa made up a three-shot deficit on the final three holes in
-    regulation and beat fifth-ranked Justin Thomas in a three-hole
-    playoff to win the Workday Charity Open.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Associated Press</span>
+    By <span class="css-1n7hynb">Bill Pennington</span>
     
     </div>
     

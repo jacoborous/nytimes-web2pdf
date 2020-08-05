@@ -204,8 +204,8 @@ in the Trump family and to revelations by the president’s niece.
 
 <div class="css-bn0qp euiyums0">
 
-Aug. 4, 2020, <span class="css-epvm6">11:43 a.m.
-ET</span>
+Aug. 4,
+2020
 
 <div class="css-4xjgmj">
 

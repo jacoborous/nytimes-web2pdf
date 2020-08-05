@@ -237,8 +237,8 @@ Kanno-Youngs</span>](https://www.nytimes3xbfgragh.onion/by/zolan-kanno-youngs)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">2:50 p.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

@@ -156,20 +156,33 @@ By Storyful<span class="css-1iknmmf">•</span>August 4,
     
     ### After the Storm, a Fight for Survival in Mozambique
 
+  - [](https://www.nytimes.com/video/us/100000007272762/un-secretary-generational-catastrophe-schools-reopen.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/world/04virus-briefing-un/merlin_174338310_a5db87e5-45e5-4b44-a65b-b846a42948cf-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:31</span>
+    
+    ### U.N. Says Virus Causing ‘Largest Disruption of Education Ever’
+
   - [](https://www.nytimes.com/video/world/100000007272075/lebanon-beirut-blast.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
+    poster](https://static01.nyt.com/images/2020/08/05/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">0:54</span>
+    <span class="css-1xigvfz">1:30</span>
     
-    ### Huge Blast Shakes Beirut
+    ### Videos Capture Aftermath of Deadly Blast in Beirut
 
-  - <span class="css-1nlzxd2"></span>
+  - <span class="css-oobuol"></span>
     
     <div class="css-1aetz0h">
     
@@ -442,19 +455,6 @@ By Storyful<span class="css-1iknmmf">•</span>August 4,
     <span class="css-1xigvfz">0:43</span>
     
     ### European Health Care Workers Protest for Better Working Conditions
-
-  - [](https://www.nytimes.com/video/world/asia/100000007193762/north-korea-blows-office-south-korea.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/world)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/06/17/world/16nkorea-top/16nkorea-top-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:38</span>
-    
-    ### North Korea Blows Up Office Shared With South Korea
 
 </div>
 

@@ -109,7 +109,7 @@ Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=cl
 
 ![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The Neo
 floor-scrubbing robot at Cincinnati/Northern Kentucky International
-Airport. Demand for the robot has shot up 100 percent since March.
+Airport. Demand for the robot has shot up 100 percent since March.
 </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Ty
 Wright for The New York
 Times</span></span></span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
@@ -162,7 +162,7 @@ challenge, stoking interest in machines as cost-effective solutions.
 <div class="css-nwzfg5 e1gnum310">
 
 <span class="css-1f9pvn2 business">The Neo floor-scrubbing robot at
-Cincinnati/Northern Kentucky International Airport. Demand for the robot
+Cincinnati/Northern Kentucky International Airport. Demand for the robot
 has shot up 100 percent since March.
 </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Ty
 Wright for The New York Times</span></span></span>
@@ -209,8 +209,8 @@ Prevost</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">12:32 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -218,7 +218,7 @@ Prevost</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -362,44 +362,44 @@ time.”
 
 <div class="briefing-block-update-time active">
 
-[11m
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
+[11h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
 
 </div>
 
 <div>
 
-[The ad giant Publicis has ‘parted ways’ with an executive over his
-virus
-tweets.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
+[Fox Corporation’s plunging profit is cushioned by Fox
+News.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
 
 </div>
 
 <div class="briefing-block-update-time active">
 
-[1h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
+[11h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
 
 </div>
 
 <div>
 
-[NBCUniversal to cut about 10 percent of its work
-force.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
+[Trading in Kodak shares comes under
+scrutiny.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
 
 </div>
 
 <div class="briefing-block-update-time active">
 
-[3h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+[12h
+ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
 
 </div>
 
 <div>
 
-[Loans are harder to get, even as interest rates are
-low.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+[Disney lost $4.7 billion last quarter, but its newest business was a
+big
+hit.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
 
 </div>
 
@@ -442,36 +442,7 @@ prohibitive.”
 
 </div>
 
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The cameras
-on the Neo robot can be monitored through a mobile
-app.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Ty
-Wright for The New York Times</span></span>
-
-</div>
-
-</div>
+![](https://static01.nyt.com/images/2020/08/04/autossell/04Virus-Robots-vid-still-2/04Virus-Robots-vid-still-2-videoSixteenByNineJumbo1600.jpg)
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
@@ -594,7 +565,36 @@ said.
 
 </div>
 
-![](https://static01.nyt.com/images/2020/08/04/autossell/04Virus-Robots-vid-still-2/04Virus-Robots-vid-still-2-videoSixteenByNineJumbo1600.jpg)
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The cameras
+on the Neo robot can be monitored through a mobile
+app.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Ty
+Wright for The New York Times</span></span>
+
+</div>
+
+</div>
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 

@@ -231,7 +231,8 @@ Krueger</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">11:07 a.m.
+    Published Aug. 4, 2020Updated Aug. 5, 2020,
+    <span class="css-epvm6">2:02 a.m.
     ET</span>
     
     </div>
@@ -353,11 +354,11 @@ That vendor, despite her nervousness, pointed out that she is
 contractually obligated to carry out terms of the contract signed with
 the couple.
 
-Sarah Betts, a wedding planner in Houston, said even if vendors had
-power to reign in rowdy guests, the bride and groom could just move
-their event to a less strict venue. “Some venues make the bride wear
-masks, while others say those walking down the aisle are exempt,” she
-said. “It’s a little lawless down here.”
+Sarah Bett, a wedding planner in Houston, said even if vendors had power
+to rein in rowdy guests, the bride and groom could just move their event
+to a less strict venue. “Some venues make the bride wear masks, while
+others say those walking down the aisle are exempt,” she said. “It’s a
+little lawless down here.”
 
 Without universal standards she is at the mercy of her clients, many of
 whom want their festivities indoors, without masks, with out-of-town
@@ -383,7 +384,7 @@ example, you can fill venues to 66 percent capacity. So an event in a
 events are limited to the size of the group. In parts of New York, for
 example, gatherings are limited to 50 people regardless of the space.
 
-Ms. Betts said many of her clients feel safer with smaller affairs. “I
+Ms. Bett said many of her clients feel safer with smaller affairs. “I
 have clients doing private, intimate ceremonies, because no one is
 making a big stink about those,” she said. “No one wants to be the new
 epicenter of the outbreak.”
@@ -477,7 +478,7 @@ liability to drive them toward more protective measures. “I tell them,
 the host of this event,’” she said. “You want to say at the end of the
 day you did everything you could possible to keep your guests safe.”
 
-Ms. Betts said, “I tell my clients, ‘If you really feel you have to push
+Ms. Bett said, “I tell my clients, ‘If you really feel you have to push
 this form, why are we having this wedding in the first place?’”
 
 Then there are the newlyweds who feel little responsibility for wedding

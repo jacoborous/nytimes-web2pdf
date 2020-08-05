@@ -228,8 +228,14 @@ López-Alt</span>](https://www.nytimes.com/by/j-kenji-lopez-alt)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">11:46 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4,
+    2020
+    
+    </div>
 
   - 
     
@@ -295,8 +301,8 @@ provided that extraordinary taste and texture: popcorn.
 But, before we get to that, let’s talk about the dough, the element that
 makes a truly great arepa or empanada — just I would argue as the key to
 a great taco is the tortilla, or a great pizza is in the crust. In
-Colombia, more often than not, that dough is made with masarepa: corn
-that is parcooked, dried and ground into a flour.
+Colombia, that dough is often made with masarepa: corn that is
+parcooked, dried and ground into a flour.
 
 Masarepa is enticing. All you need to do is add warm water, knead it a
 touch, let it rest and you’ve got masa, ready to shape into arepas or
@@ -488,7 +494,7 @@ Jurkevich</span></span>
 <div class="css-53u6y8">
 
 Empanadas can come filled with a variety of flavors: the tiny,
-half-dollar-sized empanadas de pipián of Boyacá, served with a spicy
+half-dollar-sized empanadas de pipián of Popayán, served with a spicy
 peanut sauce; hefty empanadas de arroz in Bogotá, filled with rice and
 meat; or the most common variety, ground meat and potatoes seasoned with
 hogao, a cooked mixture of onion and tomato. Both the filling and masa

@@ -101,7 +101,7 @@ The Mini Crossword
 
 <div class="PuzzleDetails-date--1HNzj">
 
-<span>Tuesday, </span>August 4, 2020
+<span>Wednesday, </span>August 5, 2020
 
 </div>
 
@@ -194,7 +194,7 @@ Back</span>
 Puzzle Board
 
 Game Board for the
-    Crossword12345678
+    Crossword1234567
 
 </div>
 
@@ -208,20 +208,18 @@ Game Board for the
 
 ### Across
 
-1.  <span class="Clue-label--2IdMY">1</span><span class="Clue-text--3lZl7">Pop
-    star born Cherilyn
-    Sarkisian</span>
-2.  <span class="Clue-label--2IdMY">5</span><span class="Clue-text--3lZl7">\_\_\_
-    oil (spicy
-    condiment)</span>
-3.  <span class="Clue-label--2IdMY">6</span><span class="Clue-text--3lZl7">Congressional
-    staffers</span>
-4.  <span class="Clue-label--2IdMY">7</span><span class="Clue-text--3lZl7">Style
-    of
-    sweater</span>
-5.  <span class="Clue-label--2IdMY">8</span><span class="Clue-text--3lZl7">Either
-    "E" in
-    ESE</span>
+1.  <span class="Clue-label--2IdMY">1</span><span class="Clue-text--3lZl7">Pronoun
+    for the slight majority of
+    Americans</span>
+2.  <span class="Clue-label--2IdMY">4</span><span class="Clue-text--3lZl7">Command
+    to a dog made with an open
+    palm</span>
+3.  <span class="Clue-label--2IdMY">5</span><span class="Clue-text--3lZl7">See
+    3-Down</span>
+4.  <span class="Clue-label--2IdMY">6</span><span class="Clue-text--3lZl7">"Essential"
+    products</span>
+5.  <span class="Clue-label--2IdMY">7</span><span class="Clue-text--3lZl7">Revolutionary
+    Guevara</span>
 
 </div>
 
@@ -229,20 +227,18 @@ Game Board for the
 
 ### Down
 
-1.  <span class="Clue-label--2IdMY">1</span><span class="Clue-text--3lZl7">Country
-    where TikTok is
-    based</span>
-2.  <span class="Clue-label--2IdMY">2</span><span class="Clue-text--3lZl7">Prepares
-    for a surprise
-    party</span>
-3.  <span class="Clue-label--2IdMY">3</span><span class="Clue-text--3lZl7">Political
-    lawn sign
-    word</span>
-4.  <span class="Clue-label--2IdMY">4</span><span class="Clue-text--3lZl7">Put
-    in
-    jeopardy</span>
-5.  <span class="Clue-label--2IdMY">5</span><span class="Clue-text--3lZl7">Kentucky's
-    Mammoth \_\_\_ National Park</span>
+1.  <span class="Clue-label--2IdMY">1</span><span class="Clue-text--3lZl7">Fashion
+    sense</span>
+2.  <span class="Clue-label--2IdMY">2</span><span class="Clue-text--3lZl7">Nonkosher
+    entrees</span>
+3.  <span class="Clue-label--2IdMY">3</span><span class="Clue-text--3lZl7">With
+    5-Across, word that looks like it would sound similarly but
+    doesn't</span>
+4.  <span class="Clue-label--2IdMY">4</span><span class="Clue-text--3lZl7">\_\_\_
+    Tzu
+    (dog)</span>
+5.  <span class="Clue-label--2IdMY">5</span><span class="Clue-text--3lZl7">\_\_\_
+    Nation (Jay Z's company)</span>
 
 </div>
 

@@ -217,9 +217,8 @@ León</span>](https://www.nytimes.com/by/concepcion-de-leon)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 31, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">3:55 p.m.
-    ET</span>
+    Published July 31, 2020Updated Aug. 4,
+    2020
     
     </div>
 

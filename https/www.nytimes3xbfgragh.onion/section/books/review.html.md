@@ -168,13 +168,13 @@ story](#after-sponsor)
 
 1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Private
     collection/Picture Research Consultants and
-    Archives</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Isaacson/04Isaacson-videoLarge.jpg)
+    Archives</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/books/review/04Isaacson/04Isaacson-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Isaacson/04Isaacson-thumbStandard.jpg)](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/books/review/04Isaacson/04Isaacson-thumbStandard-v2.jpg)](/2020/08/04/books/review/life-of-a-klansman-edward-ball.html)
     
     </div>
     

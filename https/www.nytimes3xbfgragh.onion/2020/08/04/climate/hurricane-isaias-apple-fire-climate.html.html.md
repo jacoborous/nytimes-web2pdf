@@ -266,8 +266,8 @@ Fountain</span>](https://www.nytimes3xbfgragh.onion/by/henry-fountain)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:47 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -275,7 +275,7 @@ Fountain</span>](https://www.nytimes3xbfgragh.onion/by/henry-fountain)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -331,6 +331,14 @@ Experts argue that the country must fundamentally rethink how it
 prepares for similar disasters as the effects of global warming
 accelerate.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “State and local governments already stretched with Covid responses must
 now stretch even further,” said Lisa Anne Hamilton, adaptation program
 director at the Georgetown Climate Center in Washington. Better planning
@@ -341,17 +349,22 @@ of disasters increase.
 
 </div>
 
+<div>
+
+</div>
+
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
 
-By Tuesday morning Hurricane Isaias had pushed its way along the coast
-of Florida and Georgia and made landfall in the Carolinas, its 75
-mile-an-hour winds driving a storm surge as great as five feet in some
-parts of North Carolina and drenching the Mid-Atlantic with rain,
-according to the National Weather Service. Although it will weaken over
-land, when it reaches the Canadian border by Wednesday it is expected to
-have caused flooding in parts of New England.
+Hurricane Isaias made landfall<span class="css-8l6xbc evw5hdy0">
+</span>in the Carolinas on Monday evening, its 75 mile-an-hour winds
+driving a storm surge as great as five feet. By Tuesday afternoon,
+downgraded to a tropical storm, Isaias had pushed north to the
+Mid-Atlantic states and the Northeast. Flash flooding was reported in
+Pennsylvania, and damaging winds left more than 1.2 million people in
+New Jersey and New York without power. The storm also spawned tornadoes,
+including one that killed two people in North Carolina.
 
 </div>
 
@@ -396,10 +409,6 @@ droughts and rainstorms,” said Marshall Shepherd, a professor of
 atmospheric sciences and geography at the University of Georgia and
 director of its atmospheric sciences program.
 
-For hurricanes, warmer oceans provide more energy, making them stronger.
-And warmer air holds more moisture, so [the storms bring more
-rain](https://www.nytimes3xbfgragh.onion/2019/07/11/climate/hurricane-tropical-storms.html).
-
 </div>
 
 </div>
@@ -408,9 +417,9 @@ rain](https://www.nytimes3xbfgragh.onion/2019/07/11/climate/hurricane-tropical-s
 
 <div class="css-53u6y8">
 
-“Climate change shifts us into an era of sustained elevated risk from
-extreme weather and climate events,” Dr. Shepherd
-said.
+For hurricanes, warmer oceans provide more energy, making them stronger.
+And warmer air holds more moisture, so [the storms bring more
+rain](https://www.nytimes3xbfgragh.onion/2019/07/11/climate/hurricane-tropical-storms.html).
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -420,7 +429,7 @@ said.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-37356" class="css-19mumt8" data-role="complementary" data-storyline="Climate and Environment" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-9439" class="css-19mumt8" data-role="complementary" data-storyline="Climate and Environment" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -432,22 +441,24 @@ said.
 
 #### Keep Up on the Latest Climate News
 
-Updated July 30, 2020
+Updated Aug. 4, 2020
 
 Here’s what you need to know about the latest climate change news this
 week:
 
-  -   - [Floods
+  -   - [Twin emergencies on two coasts this
+        week](https://www.nytimes3xbfgragh.onion/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
+        — Hurricane Isaias and the Apple Fire — offer a preview of life
+        in a warming world and the steady danger of overlapping
+        disasters.
+      - [Floods
         in](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/bangladesh-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)[Bangladesh](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/bangladesh-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
         are punishing the people least responsible for climate change.
-      - As climate change raises sea levels, [storm surges and high
-        tides](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/sea-level-inland-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
-        are likely to push farther inland.
       - The E.P.A. inspector general plans to investigate whether a
         rollback of fuel efficiency standards [violated government
         rules](https://www.nytimes3xbfgragh.onion/2020/07/27/climate/trump-fuel-efficiency-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup).
 
-<div id="styln-survey-component-37356" class="styln-survey-component">
+<div id="styln-survey-component-9439" class="styln-survey-component">
 
 </div>
 
@@ -464,6 +475,9 @@ week:
 </div>
 
 </div>
+
+“Climate change shifts us into an era of sustained elevated risk from
+extreme weather and climate events,” Dr. Shepherd said.
 
 Isaias has captured much of the public’s attention, but it’s far from
 the only natural disaster facing the country. In Southern California,
@@ -507,14 +521,6 @@ wildfire is [carried
 eastward](https://rapidrefresh.noaa.gov/hrrr/HRRRsmoke/jsloopLocalDiskDateDomainZipTZA.cgi?dsKeys=hrrr_smoke_jet:&runTime=2020080314&plotName=trc1_t4sfc&fcstInc=60&numFcsts=49&model=hrrr&ptitle=HRRR-Smoke%20Model%20Fields%20-%20Experimental&maxFcstLen=48&fcstStrLen=-1&resizePlot=1&domain=t4).
 In Las Vegas, Clark County air-quality officials issued a two-day smoke
 advisory, urging people with respiratory problems to stay indoors.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Wildfire smoke contains high amounts of soot and other fine particles
 that can [aggravate asthma and other respiratory
@@ -592,11 +598,6 @@ more money before a storm or wildfire hits, reinforcing homes and
 infrastructure, rather than just trying to build better afterward. And
 local emergency departments need increased funding as their jobs expand.
 
-When state and local governments can’t keep up with the need,
-responsibility falls to FEMA. But the agency risks being overwhelmed,
-according to Brock Long, who was FEMA’s administrator during the
-hurricanes and wildfires of 2017 and 2018.
-
 </div>
 
 </div>
@@ -604,6 +605,11 @@ hurricanes and wildfires of 2017 and 2018.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+When state and local governments can’t keep up with the need,
+responsibility falls to FEMA. But the agency risks being overwhelmed,
+according to Brock Long, who was FEMA’s administrator during the
+hurricanes and wildfires of 2017 and 2018.
 
 <div class="css-1q1hscp">
 
@@ -688,14 +694,6 @@ areas](https://www.bloomberg.com/news/articles/2018-11-14/california-s-wildfire-
 which home builders often oppose for fear of increased costs. If cities
 and towns had better building codes, he said, fewer people would need to
 evacuate their homes, reducing their exposure to the coronavirus.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “Mass evacuation has become a man-made disaster, because we failed to
 put proper residential codes or building codes in place,” Mr. Long said.

@@ -176,6 +176,109 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+    
+    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
+    billed as an opportunity to highlight Taiwan’s success in battling
+    the coronavirus pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Amy
+    Qin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    
+    The president’s assertion undercuts diplomats who have said
+    withdrawals will depend on the Taliban’s commitment to its peace
+    deal with the United States.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Thomas
+    Gibbons-Neff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/briefing/beirut-explosion-melbourne-lockdown-pakistan.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Beirut Blasts, Melbourne Lockdown, Island SOS: Your Wednesday Briefing
+    
+    Here’s what you need to know.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carole
+    Landry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
     
     <div class="css-79elbk">
@@ -205,7 +308,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +343,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -277,7 +380,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -310,7 +413,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -344,7 +447,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +482,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -401,117 +504,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maria
-    Abi-Habib</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/asia/china-hong-kong-national-security-law.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/world/00china-hardliners-1/merlin_174541701_189de3ad-c3df-49d2-aff4-fd96d8fe02a6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Clean Up This Mess’: The Chinese Thinkers Behind Xi’s Hard Line
-    
-    Chinese academics have been honing the Communist Party’s
-    authoritarian response in Hong Kong, rejecting the liberal ideas of
-    their youth.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Chris
-    Buckley</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/china/20200803/china-hong-kong-national-security-law/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/china/20200803/china-hong-kong-national-security-law/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/briefing/coronavirus-vaccine-india-us-tiktok-spacex.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/briefing/03ambriefing-asia-promo/03ambriefing-asia-slide-EI5E-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Vaccine, TikTok, SpaceX: Your Monday Briefing
-    
-    Here’s what you need to know.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carole
-    Landry</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/world/asia/afghan-prison-attack-prisoners.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/world/02afghan-prison-sub/02afghan-prison-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Militants Attack Afghan Prison as Brief Cease-Fire Expires
-    
-    The Islamic State reportedly took responsibility for an assault at a
-    time when releasing insurgents from prisons has become a major issue
-    in the Afghan peace process.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
-    Mashal</span>
+    By <span class="css-1n7hynb">Maria Abi-Habib</span>
     
     </div>
     
