@@ -167,110 +167,108 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
+    Heying/The Wichita Eagle, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/03bass1-thumbStandard.jpg)](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    [![](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-thumbStandard.jpg)](/2020/08/04/us/politics/kobach-tlaib.html)
     
     </div>
     
-    ## [From Outsider to Insider: Karen Bass’s Unexpected Journey to Power](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    ## [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](/2020/08/04/us/politics/kobach-tlaib.html)
     
-    At every step in her political career, the California congresswoman
-    had to be coaxed to run for a higher office. Now she’s a top
-    contender to be Joe Biden’s running
-    mate.
+    In Missouri, Cori Bush, a progressive activist, upset the 10-term
+    incumbent William Lacy Clay Jr., marking another major step forward
+    for the progressive movement in its bid to threaten centrist
+    officials.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Adam Nagourney</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Medina</span></span>
+    <span class="css-1baulvz" itemprop="name">Astead W. Herndon</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Glueck</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Albert
-    Cesare/The Montgomery Advertiser, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/04elections-briefing-lewis-thumbStandard.jpg)](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-thumbStandard.jpg)](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
     
     </div>
     
-    ## [Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    ### Fact Check
     
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record
-    instead.
+    ## [Trump Cherry-Picks Coronavirus Data in Briefing Appearance](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
+    
+    The president selectively highlighted statistics, falsely claimed
+    New York and New Jersey were solely responsible for high national
+    death rates and again wrongly asserted that a rise in cases was
+    because of
+    testing.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Neil
-    Vigdor</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Linda
+    Qiu</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>T.J.
-    Kirkpatrick for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    B. Thomas for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Meet the Official Accused of Helping Trump Politicize Homeland Security](/2020/08/04/us/politics/trump-homeland-security.html)
+    ## [In St. Louis, Testing Liberal Might Against a Democratic Fixture](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/04dc-unrest-dhs3-thumbLarge.jpg)](/2020/08/04/us/politics/trump-homeland-security.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbLarge.jpg)](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
     
     </div>
     
-    Chad F. Wolf joined the Department of Homeland Security in its
-    infancy to help prevent another 9/11. Now he is helping President
-    Trump use it to achieve his political
-    ambitions.
+    Cori Bush, an activist backed by the progressive group Justice
+    Democrats, is trying to unseat 10-term Representative William Lacy
+    Clay in a bid to turn protest-movement fervor into hard political
+    power.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Zolan Kanno-Youngs</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Jesse
-    McKinley</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
+    Fandos</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Parker
+    Michels-Boyce for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    ## [What Happened to the Young Voters Focused on Guns?](/2020/08/03/us/politics/gun-control-voters.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbLarge.jpg)](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbLarge.jpg)](/2020/08/03/us/politics/gun-control-voters.html)
     
     </div>
     
-    As his top advisers met with Democratic leaders to try to hash out a
-    compromise, President Trump hurled insults at Democrats and mused
-    aloud about short-circuiting the talks and acting on his
-    own.
+    It’s not their top issue anymore, but many see it as a part of
+    other, larger
+    concerns.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span>,
-    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Jim
-    Tankersley</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
+    Russonello</span></span>
     
     </div>
 
@@ -330,6 +328,251 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+    
+    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
+    billed as an opportunity to highlight Taiwan’s success in battling
+    the coronavirus pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Amy
+    Qin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/kanye-west-president-republicans.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04KANYE/merlin_174748251_b5592810-884e-4313-95a3-a327a0a3c5a3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot
+    
+    At least four people involved in the effort to get Kanye West’s name
+    before voters in several states have G.O.P. connections, renewing
+    questions about the aim of his
+    campaign.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/coronavirus-recovery-plan-negotiations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-virus-cong/merlin_175309938_0696afcb-d343-4aea-b5c1-8fd0ba2769de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trading Concessions on Recovery Plan, Negotiators Set Week’s End Deadline for a Deal
+    
+    White House officials and top Democrats reported some movement in
+    their talks on a pandemic relief package as the talks reached a
+    crisis point on Capitol Hill.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
+    Nicholas
+    Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/decoding-the-trump-ad-buy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04onpolitics-pm/merlin_175276041_e18fad70-18ca-41e9-8430-c0e6a0591a59-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Politics Media Watch</span>
+    
+    ## Decoding the Trump Ad Buy
+    
+    After going dark on the TV airwaves last week, the Trump campaign
+    has returned, targeting early voting states.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nick
+    Corasaniti</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/trump-land-conservation-bill.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Signs Landmark Land Conservation Bill
+    
+    The bipartisan Great American Outdoors Act guarantees funding for
+    federal land use efforts. The president claimed credit for
+    Republicans.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Annie
+    Karni</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/4xp-interpreter/4xp-interpreter-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Lawsuit Demands Sign Language at White House Virus Briefings
+    
+    The lack of American Sign Language interpreters at coronavirus
+    briefings violates the First Amendment, the National Association of
+    the Deaf says.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Aimee
+    Ortiz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    
+    The president’s assertion undercuts diplomats who have said
+    withdrawals will depend on the Taliban’s commitment to its peace
+    deal with the United States.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Thomas
+    Gibbons-Neff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/us/politics/trump-immigration-wealth-test.html)
     
     <div class="css-79elbk">
@@ -359,7 +602,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -394,7 +637,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -417,262 +660,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/us/politics/trump-homeland-security.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/world/04dc-unrest-dhs3/merlin_169518027_abcb011b-c157-4051-81b6-b16fa05ffa57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Meet the Official Accused of Helping Trump Politicize Homeland Security
-    
-    Chad F. Wolf joined the Department of Homeland Security in its
-    infancy to help prevent another 9/11. Now he is helping President
-    Trump use it to achieve his political ambitions.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Jesse
-    McKinley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
-    
-    At every step in her political career, the California congresswoman
-    had to be coaxed to run for a higher office. Now she’s a top
-    contender to be Joe Biden’s running mate.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
-    Jennifer
-    Medina</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/upshot/missouri-election-medicaid-expansion.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/upshot/04up-medicaid-ballots/04up-medicaid-ballots-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Ballot Initiatives Changed the Game on Medicaid Expansion
-    
-    Missouri is the latest state where a nonprofit has helped put the
-    issue before voters, bypassing Republican officials. And the vote is
-    today.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah
-    Kliff</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/merritt-corrigan-usaid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-usaid/03dc-usaid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Appointee With History of Anti-L.G.B.T.Q. Remarks Leaves Aid Agency
-    
-    Merritt Corrigan, the former deputy White House liaison for the U.S.
-    Agency for International Development, had drawn scrutiny shortly
-    after being named to the position.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pranshu
-    Verma</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
-    
-    As his top advisers met with Democratic leaders to try to hash out a
-    compromise, President Trump hurled insults at Democrats and mused
-    aloud about short-circuiting the talks and acting on his own.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
-    <span>and</span> Jim
-    Tankersley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
-    
-    The president’s interventions in company dealings based on his own
-    instincts are a departure from the arm’s-length approach of
-    predecessors of either party.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
-    Shear</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/us/politics/joe-biden-vp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/29/us/onpolitics-biden/onpolitics-biden-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
-    
-    ## Why Biden Won’t Find His Biden
-    
-    He would be wise to remember that Barack Obama didn’t pick him
-    simply because they were “simpatico.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lisa Lerer</span>
+    By <span class="css-1n7hynb">Giovanni Russonello</span>
     
     </div>
     

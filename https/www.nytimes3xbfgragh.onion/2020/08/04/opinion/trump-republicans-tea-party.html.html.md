@@ -235,7 +235,7 @@ Opinion Columnist
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -407,7 +407,7 @@ Draper method and the “this happened, let’s learn from it” approaches to
 the Trump experience is that they assume not only that Trump will lose
 (a strong bet but of course not a certain one) but also that in defeat
 he will recede sufficiently to be willfully forgotten, or allow a more
-robust nationalism supplant his ersatz, personalized version.
+robust nationalism to supplant his ersatz, personalized version.
 
 Will he? I don’t know. No politician’s mystique is permanent; maybe a
 sweeping defeat will really be the end of Trump’s. But nobody should be

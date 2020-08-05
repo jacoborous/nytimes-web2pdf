@@ -83,9 +83,8 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between
-Public and Private
-Schools</span>
+Live Updates: McConnell Signals Openness to Jobless Aid
+Extension</span>
 
 </div>
 
@@ -225,20 +224,20 @@ story](#after-sponsor)
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 4, 2020, 2:55 p.m.
+<span class="css-1656jku">Aug. 5, 2020, 3:58 a.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 2:55
-p.m.
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 5, 2020, 3:58
+a.m.
 ET</span>
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools
+# Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
 
 </div>
 
@@ -250,10 +249,9 @@ troubled school reopenings could be a lesson for the U.S.
 
 Right Now
 
-The inspector general overseeing the Treasury Department’s $500 billion
-pandemic recovery fund released his first report to Congress since being
-appointed by President Trump in
-June.
+Gov. Tate Reeves of Mississippi, a Republican, said that masks would be
+mandatory in public and retail spaces statewide starting
+Tuesday.
 
 </div>
 
@@ -263,19 +261,20 @@ June.
 
 ### Here’s what you need to know:
 
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person instruction.](#link-4825b93)
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a deadline.](#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental vaccine.](#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](#link-794484ed)
+  - [The top U.S. health official will visit Taiwan, lauded for its
+    coronavirus response.](#link-30928a04)
+  - [The United Nations calls on policymakers to ‘plan thoroughly for
+    school reopenings.’](#link-50f7386d)
+  - [A small border hospital in Texas is overwhelmed by a surge in
+    cases.](#link-567c6115)
   - [N.Y.C.’s health commissioner resigns after clashing with the mayor
     over the virus.](#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus relief.](#link-6b644638)
-  - [As Isaias makes landfall, the virus makes it trickier to shelter
-    from the storm.](#link-5c0d6427)
-  - [Trump addresses the death toll: ‘It is what it
-    is.’](#link-76dff678)
-  - [The W.H.O. cautions Russia on its vaccine rollout.](#link-27d0cbff)
-  - [Two N.I.H. studies are recruiting patients to test possible
-    Covid-19 treatments.](#link-86f22d6)
 
 </div>
 
@@ -287,13 +286,12 @@ June.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Among the
-private schools affected by Gov. Larry Hogan’s order is St. Andrew’s
-Episcopal School in Potomac, Md., where Barron Trump, President Trump’s
-youngest son, is
-enrolled. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Samuel
-Corum for The New York
-Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mitch
+McConnell, the Senate majority leader, signaled he might be willing to
+accept the extension of the jobless-aid payments that many in his party
+oppose.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
+Schaff/The New York
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -303,11 +301,9 @@ Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/u
 
 <div class="css-53u6y8">
 
-education roundup
-
 ## 
 
-<div id="link-4825b93" class="css-105iojl">
+<div id="link-762df92" class="css-105iojl">
 
 </div>
 
@@ -317,36 +313,37 @@ education roundup
 
 </div>
 
-Public and private schools in Maryland and elsewhere are divided over
-in-person instruction.
+As talks drag on, McConnell signals openness to jobless aid extension,
+and negotiators agree on a deadline.
 
-An emergency order [issued
-Monday](https://twitter.com/GovLarryHogan/status/1290330304830246912) by
-Gov. Larry Hogan of Maryland, which countermanded a Montgomery County
-Health Department directive regarding school closures, has highlighted a
-divide between public and private schools over reopening plans.
+Negotiators on Capitol Hill reported little progress on Tuesday toward
+reaching an agreement over an economic recovery package. But the top
+Senate Republican signaled that he might be willing to reverse course
+and accept the extension of $600-per-week jobless-aid payments that many
+in his party oppose if it would yield a compromise, and the White House
+and congressional Democrats agreed to an end-of-the-week deadline to
+seal a deal.
 
-The county health department had instructed all private schools to
-[start the year teaching
-remotely](https://www.montgomerycountymd.gov/OPI/Resources/Files/pdf/2020/NonPublicSchools_07-31-20.pdf),
-as every public school district in the Washington area has already
-decided to do, including those in Montgomery County. Private schools
-would not be allowed to begin in-person classes until after Oct. 1, the
-order said.
+“The American people, in the end, need help,” Senator Mitch McConnell,
+Republican of Kentucky and the majority leader, told reporters. “And
+wherever this thing settles between the president of the United States
+and his team that has to sign it into law and the Democrat
+not-insignificant minority in the Senate and majority in the House is
+something I am prepared to support, even if I have some problems with
+certain parts of it.”
 
-But Mr. Hogan, a Republican, said on Monday that county health officers
-didn’t have the authority to stop private schools from reopening,
-[noting in his
-statement](https://twitter.com/GovLarryHogan/status/1290330304830246912/photo/1)
-that public school boards and superintendents have made individual
-decisions with the help of local health officials and saying that
-private institutions should be allowed to do the same.
+Democrats [have rejected narrow
+proposals](https://www.nytimes3xbfgragh.onion/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+extending the expired benefits, insisting that the problem must be dealt
+with in a broader package of relief measures. They also want aid for
+states and cities whose budgets have been crippled.
 
-“Private and parochial schools deserve the same opportunity and
-flexibility to make reopening decisions based on public health
-guidance,” Mr. Hogan said. “The blanket closure mandate imposed by
-Montgomery County was overly broad and inconsistent with the powers
-intended to be delegated to the county health officer.”
+Mr. McConnell’s comments came after he and other Republicans huddled
+privately over lunch with Mark Meadows, the White House chief of staff,
+and Steven Mnuchin, the Treasury secretary. Afterward, Republican
+senators who have largely sat out the talks sounded downbeat about
+striking a deal before they are scheduled to begin a monthlong recess on
+Friday.
 
 </div>
 
@@ -356,35 +353,342 @@ intended to be delegated to the county health officer.”
 
 <div class="css-53u6y8">
 
-A similar dynamic is [playing out in some other parts of the
-country](https://www.nytimes3xbfgragh.onion/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html),
-where public schools are opening remotely while private schools are
-planning in-person or various hybrid models.
+But later, after a meeting with Mr. Meadows and Mr. Mnuchin, top
+Democrats indicated there had been progress.
 
-Montgomery County, just outside the nation’s capital, is home to some of
-the nation’s most prestigious private schools, attended by the children
-of politicians, public officials and diplomats. They include St.
-Andrew’s Episcopal School, attended by Barron Trump, the president’s
-youngest child.
+“They made some concessions, which we appreciated; we made some
+concessions, which they appreciated,” Senator Chuck Schumer of New York,
+the Democratic leader, said after the 90-minute meeting, which Speaker
+Nancy Pelosi of California hosted in her Capitol Hill suite. “We’re
+still far away on a lot of the important issues, but we’re continuing to
+go at it.”
 
-St. Andrew’s [has not yet
-decided](https://www.saes.org/covid-19-information) whether it will
-begin the school year with distance learning or a hybrid model. But some
-other private schools in Maryland, including [Georgetown
-Preparatory](https://www.gprep.org/about/news/~post/response-to-the-montgomery-county-health-departments-july-31-directive-20200803),
-an all-male Jesuit school in North Bethesda, planned to let families
-choose between online or in-person classes, and would have had to alter
-those plans under the county order.
+Tens of millions of Americans have lost crucial [unemployment
+benefits](https://slack-redir.net/link?url=https%3A%2F%2Fwww.nytimes3xbfgragh.onion%2F2020%2F07%2F30%2Fbusiness%2Funemployment-payments-change.html)
+that formally expired on Friday, and economists warn that permanent
+damage could be wrought on the economy without action.
 
-Other key education developments:
+Republican leaders have put forward their own plan to extend the weekly
+benefit at a significantly lower level. But many of their own
+rank-and-file members oppose even that, giving them little leverage
+against the united Democrats.
 
-  - Students in **Mexico** will exclusively take classes broadcast on
-    television or the radio when the school year begins later this
-    month, in an effort to avoid further coronavirus outbreaks, the
-    government announced on Monday. Schools will only reopen when
-    authorities determine that new and active infections, which remain
-    high across the nation, decline enough for a safe return to the
-    classroom.
+At the White House, Mr. Trump continued to dangle the possibility that
+he could circumvent Congress and take executive action to halt evictions
+nationwide and suspend the payroll tax. It is far from clear that the
+president has the power to do either of
+these<span class="css-8l6xbc evw5hdy0"> </span>unilaterally, but his
+deputies appeared to be using the possibility as a negotiating tactic
+with Democrats — and to get around the objections even within Mr.
+Trump’s own party on the payroll-tax issue.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“We want to take care of the eviction problem,” Mr. Trump said at a news
+conference. “People are being evicted unfairly. It’s not their fault.
+It’s China’s fault.”
+
+The president blamed the Democrats for rejecting White House offers to
+pass a short-term extension of the expired unemployment benefits and
+said the only thing Democrats “really want to do is bail out states that
+have been poorly managed by Democrats.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-1228a480" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Novavax sees encouraging results from two studies of its experimental
+vaccine.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:259.7111111111111px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Vaccine
+research at a Novavax laboratory in Maryland earlier this year. The
+company has said that if its vaccine is shown to be effective, it can
+produce 100 million doses by the beginning of next
+year.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Andrew
+Caballero-Reynolds/Agence France-Presse — Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Novavax, the little-known Maryland company that [received a $1.6
+billion](https://www.nytimes3xbfgragh.onion/2020/07/16/health/coronavirus-vaccine-novavax.html)
+deal from the federal government for its experimental coronavirus
+vaccine, announced encouraging results in two preliminary studies on
+Tuesday.
+
+In one study, 56 volunteers produced a high level of antibodies against
+the virus without any dangerous side effects. In the other, researchers
+found that the vaccine strongly protected monkeys from coronavirus
+infections.
+
+Although it’s not possible to directly compare the data from clinical
+trials of different coronavirus vaccines, John Moore, a virologist at
+Weill Cornell Medicine who was not involved in the studies, said the
+Novavax results were the most impressive he had seen so far.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“This is the first one I’m looking at and saying, ‘Yeah, I’d take
+that,’” Dr. Moore said.
+
+Angela Rasmussen, a virologist at Columbia University who was not
+involved in the studies, called them “encouraging preliminary results,”
+but cautioned that it won’t be possible to say whether the vaccine is
+safe and effective until Novavax conducts a large-scale study — known as
+Phase III — comparing people who get vaccinated with people who get a
+placebo.
+
+The company, which has never brought a vaccine to market in its 33-year
+history, has said that if its vaccine is shown to be effective, it can
+produce 100 million doses by the beginning of next year, or enough to
+give to 50 million people if administered in two doses. Under its deal
+with the federal government, the company will also receive money to
+undertake large-scale manufacturing of millions more doses if the
+vaccine is shown to work.
+
+Novavax’s vaccine is [one of more than two dozen
+products](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+to have entered the first round of safety tests in people, known as
+Phase I trials. Five other coronavirus vaccines are already in Phase III
+trials, in which thousands of people are tested to see if a vaccine
+works.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1sngw6j">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+
+<div class="css-1eoytci">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/06/09/us/coronavirus-vaccine-tracker-promo-1591728041922/coronavirus-vaccine-tracker-promo-1591728041922-articleLarge-v34.png)
+
+</div>
+
+<div class="css-1rha1bf">
+
+## Coronavirus Vaccine Tracker
+
+A look at all the vaccines that have reached trials in humans.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+U.S. roundup
+
+## 
+
+<div id="link-794484ed" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Mississippians must now wear masks in public, governor
+says.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">People
+wearing masks inside a restaurant in Oxford, Miss. Gov. Tate Reeves said
+he was “implementing a statewide mask
+mandate.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Timothy
+Ivy for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In Mississippi, masks are now mandatory in public and retail spaces
+statewide, the governor announced Tuesday.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Gov. Tate Reeves, a Republican, said at a news conference that he was
+“implementing a statewide mask mandate today.” He also said that all
+students and teachers would be mandated to wear masks when schools open
+in the fall, unless they have a medical reason not to. And he said that
+he was pushing back the start of the school year in eight counties that
+have been hit hardest by the coronavirus.
+
+“I know that I want to see college football in the fall,” he added. “The
+best way for that to occur is for us all to recognize that wearing a
+mask, as irritating as it can be — and I promise you, I hate it more
+than anybody watching today — it is critical.”
+
+Previously, masks had been mandated in 37 of Mississippi’s 82 counties.
+At the news conference, Mr. Reeves noted that his “piecemeal approach”
+had been criticized “by an awful lot of people.”
+
+Mr. Reeves has also been criticized for [failing to encourage many
+businesses to shut
+down](https://www.nytimes3xbfgragh.onion/2020/03/26/us/mississippi-coronavirus-essential-businesses-tate-reeves.html)
+during the early months of the pandemic. And in the months that
+followed, he had been eager to lift restrictions that were stalling
+Mississippi’s economy, hoping to have the whole state open by July 1.
+
+According to [a New York Times
+database](https://www.nytimes3xbfgragh.onion/interactive/2020/us/mississippi-coronavirus-cases.html),
+at least 8 new coronavirus deaths and 572 new cases were reported in
+Mississippi on Monday. Over the past week, there have been an average of
+1,167 cases per day, an increase of 13 percent from the average two
+weeks earlier.
+
+On Monday, Mr. Reeves said the state was “starting to turn a corner.”
+
+“Things are improving here,” he said. “But that does not mean that we
+can declare victory and take a step back.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Elsewhere in the U.S:
+
+  - **Students in Ohio** will also wear face coverings when they return
+    to school in the fall, Gov. Mike DeWine, a Republican, said Tuesday.
+    The order will apply to students from kindergarten through Grade 12,
+    with exemptions for children who have developmental delays or who
+    cannot remove their masks without assistance. Mr. DeWine [cited
+    recommendations](https://twitter.com/GovMikeDeWine/status/1290715998102880259)
+    from the Ohio Children’s Hospital Association and the state’s
+    chapter of the American Academy of Pediatrics, which said in a
+    letter Tuesday that children returning to school should wear masks.
+    “We are going to make that an order from the health department,”
+    Mr. DeWine said. “I have great confidence that the teachers will
+    work this out with kids.”
+
+  - Public and private schools in **Maryland** are divided over
+    in-person instruction. An emergency order [issued
+    Monday](https://twitter.com/GovLarryHogan/status/1290330304830246912)
+    by Gov. Larry Hogan countermanded a Montgomery County Health
+    Department directive instructing private schools to [start the year
+    teaching
+    remotely](https://www.montgomerycountymd.gov/OPI/Resources/Files/pdf/2020/NonPublicSchools_07-31-20.pdf),
+    as every public school district in the Washington area has already
+    decided to do. Mr. Hogan, a Republican, said that county health
+    officers didn’t have the authority to stop private schools from
+    reopening. A similar dynamic is [playing out in some other parts of
+    the
+    country](https://www.nytimes3xbfgragh.onion/2020/07/16/upshot/coronavirus-school-reopening-private-public-gap.html),
+    where public schools are opening remotely while private schools are
+    planning in-person or various hybrid models.
 
   - A [rash of positive
     cases](https://www.nytimes3xbfgragh.onion/2020/08/03/us/school-closing-coronavirus.html)
@@ -394,16 +698,500 @@ Other key education developments:
     classroom and remotely at home because of infections and
     quarantines.
 
-  - **Israel** reopened schools in May, and within days [infections were
-    reported](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
-    at a Jerusalem high school. The virus rippled out to the students’
-    homes and then to other schools and neighborhoods, ultimately
-    infecting hundreds of students, teachers and relatives. Other
-    outbreaks forced hundreds of schools to close, and across the
-    country, tens of thousands of students and teachers were
-    quarantined. As countries consider back-to-school strategies for the
-    fall, the outbreaks there [illustrates the dangers of moving too
-    precipitously](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html).
+  - In his first report to Congress since being appointed by Mr. Trump
+    in June, **Brian D. Miller**, the inspector general overseeing the
+    Treasury Department’s $500 billion pandemic recovery fund, said some
+    individuals and companies have been able to draw from multiple pots
+    of federal pandemic relief money at the same time, a practice he
+    warned could lead to an increase in fraud and abuse. Mr. Miller, a
+    former White House lawyer, offered a broad overview of his
+    responsibilities in his report on Tuesday and provided status
+    updates on the lending programs that Treasury is managing as part of
+    the $2.2 trillion law enacted in March.
+
+  - Counting for **the 2020 census** will end on Sept. 30, a month
+    earlier than previously scheduled, the Census Bureau [said in a
+    statement on
+    Monday](https://www.census.gov/newsroom/press-releases/2020/delivering-complete-accurate-count.html).
+    In recent weeks, the Trump administration and Senate Republicans
+    appeared to signal that they [wanted the census finished well ahead
+    of
+    schedule](https://www.nytimes3xbfgragh.onion/2020/07/28/us/trump-census.html).
+
+  - Isaias pounded a large swath of the Atlantic Coast on Tuesday,
+    unleashing heavy rains and winds as fast as 70 miles per hour as the
+    storm swept through the Carolinas and into the Northeast. Shelters
+    had prepared to deal with a dual threat from severe weather and the
+    virus by screening for symptoms, socially distancing people and
+    distributing protective gear. The storm has also closed **testing
+    centers** from Florida to Maryland, which could complicate efforts
+    to gauge virus
+transmission.
+
+</div>
+
+</div>
+
+<div id="virus-dashboard-promo-article" class="section interactive-content interactive-size-scoop css-174j8de" data-id="100000007209771">
+
+<div class="css-17ih8de interactive-body" data-sourceid="100000007209771">
+
+<div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
+
+<div class="g-asset g-svelte g-article-embed-dashboard" style="max-width: 1200px">
+
+<div class="g-svelte" data-component="1">
+
+<div class="dashboard svelte-1d7tjro">
+
+## [Tracking the Coronavirus ›](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<div class="grid svelte-1d7tjro">
+
+<div class="section svelte-1d7tjro">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>United States ›</strong></th>
+<th>On Aug. 4</th>
+<th>14-day<br />
+change</th>
+<th>Trend</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>New cases</td>
+<td>53,304</td>
+<td>-11%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #cc0000">
+
+</div></td>
+</tr>
+<tr class="even">
+<td>New deaths</td>
+<td>1,358</td>
+<td>+33%</td>
+<td><div class="chart-container svelte-m2fyje" style="color: #333">
+
+</div></td>
+</tr>
+</tbody>
+</table>
+
+</div>
+
+<div class="section svelte-1d7tjro">
+
+<div class="rising">
+
+### Where cases are **rising** fastest
+
+<div class="state-grid svelte-sxbviw">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/hawaii-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Hawaii
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/rhode-island-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+R.I.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-jersey-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+N.J.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Mass.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Neb.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Mo.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/south-dakota-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+S.D.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Ill.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/oklahoma-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Okla.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Alaska
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/puerto-rico-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+P.R.
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="chart-container svelte-sxbviw">
+
+</div>
+
+Mont.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section svelte-1d7tjro">
+
+<div class="maps svelte-2bdny">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+### U.S. hot spots ›
+
+![US coronavirus
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/images/orphan_usa-threeByTwoSmallAt2X.png)
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
+
+### Worldwide ›
+
+![Worldwide coronavirus
+cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/images/orphan_world-threeByTwoSmallAt2X.png)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-30928a04" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+The top U.S. health official will visit Taiwan, lauded for its
+coronavirus
+response.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Alex M. Azar
+II, the health and human services secretary, praised Taiwan as “a model
+of transparency and cooperation in global health during the
+Covid-19.”</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Al
+Drago for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The United States’ top health official, Alex M. Azar II, will lead a
+delegation on a trip to Taiwan, a rare high-level visit by an American
+official to the island that has won praise for its success in battling
+the coronavirus.
+
+Despite the likelihood that the visit will anger China and further fray
+ties between Beijing and Washington, officials billed it as an
+opportunity to strengthen economic and public health cooperation between
+the United States and Taiwan, a self-ruled territory that is claimed by
+Beijing.
+
+As of Tuesday, the island of 23 million people just off the coast of
+southern China had reported 476 coronavirus cases and seven deaths.
+Officials in Taiwan have tried to turn their relative success in
+battling the coronavirus at home [into a geopolitical
+victory.](https://www.nytimes3xbfgragh.onion/2020/04/22/world/asia/coronavirus-china-taiwan.html?searchResultPosition=4)
+The island has sent millions of masks, emblazoned with the words “made
+in Taiwan,” to the United States, Italy and other countries devastated
+by the coronavirus.
+
+No date was given for the visit. The trip by Mr. Azar, the secretary of
+health and human services, will be the first by a U.S. health secretary
+and the first in six years by a U.S. cabinet member, the department said
+in a
+[statement](https://www.hhs.gov/about/news/2020/08/04/hhs-secretary-alex-azar-lead-delegation-taiwan-in-first-visit-by-us-hhs-secretary.html)
+on Tuesday. He is scheduled to meet with senior Taiwanese counterparts
+to discuss Taiwan’s role as a supplier of medical equipment and critical
+technology, among other issues, the health department said.
+
+“Taiwan has been a model of transparency and cooperation in global
+health during the Covid-19 pandemic and long before it,” Mr. Azar said
+in the department’s statement. “I look forward to conveying President
+Trump’s support for Taiwan’s global health leadership and underscoring
+our shared belief that free and democratic societies are the best model
+for protecting and promoting health.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-50f7386d" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+The United Nations calls on policymakers to ‘plan thoroughly for school
+reopenings.’
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">The U.N. Secretary-General Antonio
+Guterres announced the “Save the Future” campaign to address the
+educational inequities caused by the
+pandemic.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Sylvia
+Jarrus for The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-briefing-un/merlin_174338310_a5db87e5-45e5-4b44-a65b-b846a42948cf-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The United Nations on Tuesday called for the world’s schools to make
+plans to reopen safely — but only after countries suppress transmission
+of the virus and control outbreaks.
+
+“With the combined effect of the pandemic’s worldwide economic impact
+and the school closures, the learning crisis could turn into a
+generational catastrophe,” [a U.N. policy
+brief](https://www.un.org/sites/un2.un.org/files/sg_policy_brief_covid-19_and_education_august_2020.pdf)
+from U.N. Secretary General António Guterres said.
+
+The announcement argued that the adjustments made by schools worldwide
+to closing orders made in response to the coronavirus — providing
+lessons online, over radio, even on television in some places —
+highlighted inequalities among students and school districts and left
+many children behind, including those with disabilities.
+
+“Parents, especially women, have been forced to assume heavy care
+burdens in the home,” the brief said.
+
+In many countries around the world, including the United States, school
+districts planning to reopen are considering various measures, including
+holding classes in shifts or outdoors, mask wearing and so-called
+blended classes, in which students supplement in-person lessons with
+virtual ones.
+
+## 
+
+<div id="link-567c6115" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+A small border hospital in Texas is overwhelmed by a surge in
+cases.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Medical
+staff at Starr County Memorial move a patient to a helicopter to be
+transported to a larger hospital in San
+Antonio.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Christopher
+Lee for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Nearly every day, a crew at [Starr County Memorial, a small rural
+hospital on the Mexican
+border](https://www.nytimes3xbfgragh.onion/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html),
+prepares a patient whom its doctors are unable to help, loads the gurney
+into a helicopter and stands back as the aircraft roars into the country
+sky.
+
+“Very, very unfortunately, of all of the patients we have transferred,
+none have come back alive,” said Dr. Jose Vazquez, the health authority
+in Starr County, a remote section of the Rio Grande Valley in Texas that
+before the coronavirus outbreak did not have a single I.C.U. bed.
+
+Starr County Memorial’s 45 beds were once sufficient for the roughly
+65,000 people spread out along the border near Tamaulipas, Mexico. But
+the new wave of coronavirus infections has been merciless, with more
+than 2,110 cases in the county and nearly 70 deaths that are suspected
+of being linked to Covid-19, local officials said.
+
+The surge was slow to arrive. After neighboring counties began reporting
+an explosion of infections in the spring, 21 days passed before a single
+case was detected in Starr County, Dr. Vazquez said.
+
+But when the state reopened its economy in May, the virus began
+spreading rapidly through nearby Hidalgo and Cameron Counties, fueled by
+poverty and chronic disease. [Large family
+outbreaks](https://www.nytimes3xbfgragh.onion/2020/07/14/us/coronavirus-texas-rio-grande-valley-border.html)
+occurred as soon as people were allowed to leave their homes freely,
+health officials said.
+
+Starr County, [one of the poorest in the
+nation](https://www.usatoday.com/story/money/2019/01/25/poorest-counties-in-the-us-median-household-income/38870175/),
+is not alone. A [study published this week in the journal Health
+Affairs](https://www.healthaffairs.org/doi/10.1377/hlthaff.2020.00581),
+warning of stark disparities in the availability of critical care
+facilities, found that nearly half of the nation’s communities with a
+median income of $35,000 or less had no intensive care beds at all.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+NEW YORK ROUNDUP
 
 ## 
 
@@ -447,11 +1235,12 @@ virus.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Dr. Oxiris
-Barbot, New York City’s health commissioner, during a coronavirus
-meeting in New York in March. She resigned on
-Tuesday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Dave
-Sanders for The New York Times</span></span>
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">New York
+City’s health commissioner, Dr. Oxiris Barbot, in March. Her resignation
+on Tuesday could renew questions about the mayor’s handling of the
+response to the
+outbreak.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Gabriela
+Bhaskar for The New York Times</span></span>
 
 </div>
 
@@ -467,22 +1256,16 @@ disappointment”](https://www.nytimes3xbfgragh.onion/2020/08/04/nyregion/oxiris
 with Mayor Bill de Blasio’s handling of the coronavirus outbreak and
 subsequent efforts to keep the outbreak in check.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 Her departure came after [escalating
 tensions](https://www.nytimes3xbfgragh.onion/2020/05/14/nyregion/coronavirus-de-blasio-mitchell-katz.html)
-between City Hall and top Health Department officials, which began at
-the start of the city’s outbreak in March, burst into public view.
+between City Hall and top city health department officials, which had
+begun at the start of the outbreak in March, burst into public view and
+raised concerns that the feuding was undermining crucial public health
+policies.
 
 “I leave my post today with deep disappointment that during the most
-critical public health crisis in our lifetime, that the Health
-Department’s incomparable disease control expertise was not used to the
+critical public health crisis in our lifetime, that the health
+department’s incomparable disease control expertise was not used to the
 degree it could have been,” she said in her resignation email sent to
 Mr. de Blasio, a copy of which was shared with The New York Times.
 
@@ -490,44 +1273,72 @@ Mr. de Blasio, a copy of which was shared with The New York Times.
 response work. The city would be well served by having them at the
 strategic center of the response not in the background.”
 
-Dr. Barbot’s resignation could renew questions about Mr. de Blasio’s
-handling of the response to the outbreak, which devastated the city in
-the spring, killing more than 20,000 residents, even as it has largely
-subsided in recent weeks. And it comes at a pivotal moment: Public
-schools are scheduled to partially open next month, which could be
-crucial for the city’s recovery, and fears are growing that the outbreak
-could surge again when the weather cools.
+Mr. de Blasio reacted to her resignation by defending his handling of
+the outbreak, which devastated the city in the spring, killing more than
+20,000 residents, even as it has largely subsided in recent weeks.
 
-The mayor had been faulted by public health experts, including some
-within the Health Department, for not moving faster to close down
-schools and businesses in March, when New York emerged as an epicenter
-of the pandemic.
+Still, the turnover in the Department of Health and Mental Hygiene comes
+at a pivotal moment: Public schools are scheduled to partially open next
+month — which could be crucial for the city’s recovery — and fears are
+growing that the outbreak could surge again when the weather cools.
 
-Public health officials have bristled at the mayor’s decision to strip
-the Health Department of its responsibility for contact tracing and
-[give it
-instead](https://www.nytimes3xbfgragh.onion/2020/05/07/nyregion/coronavirus-contact-tracing-nyc.html)
-to the public hospital system, known as Health + Hospitals. The Health
-Department has performed such tracing for decades; the public hospitals
-have not.
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 “It had been clear in recent days that it was time for a change,” Mr. de
 Blasio said in a hastily called news conference. “We need an atmosphere
 of unity. We need an atmosphere of common purpose.”
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The mayor moved quickly to replace Dr. Barbot, immediately announcing
 the appointment of a new health commissioner, Dr. Dave A. Chokshi, a
-former senior leader at Health + Hospitals.
+former senior leader at Health + Hospitals, the city’s public hospital
+system. The speed of the appointment and the robustness of the
+announcement — Mr. de Blasio had lined up [a former surgeon
+general](https://wayback.archive-it.org/4765/20170106172109/https:/www.hhs.gov/about/leadership/vadm-vivek-murthy/index.html)
+to speak highly of Dr. Chokshi — suggested that Dr. Barbot’s resignation
+had not occurred in a vacuum. One city official said she had done so on
+Tuesday because she believed she was going to be fired.
+
+Elsewhere in the New York area:
+
+  - The governors of **New York** and
+    **[Connecticut](https://twitter.com/GovNedLamont/status/1290658706003238913)**
+    said Tuesday their states would now require travelers from Rhode
+    Island [to quarantine for 14
+    days](https://coronavirus.health.ny.gov/covid-19-travel-advisory),
+    an addition to a list of 33 other states and Puerto Rico. The weekly
+    update also saw Delaware and Washington, D.C., removed from the
+    list. The travelers can otherwise face fines, [with some
+    exceptions](https://portal.ct.gov/Coronavirus/Travel).
+
+  - **[New
+    Jersey](https://twitter.com/GovMurphy/status/1290656319578484737)**
+    also said travelers from those 35 places were subject to a 14-day
+    quarantine, [though complying is
+    voluntary](https://covid19.nj.gov/faqs/nj-information/travel-information/which-states-are-on-the-travel-advisory-list-are-there-travel-restrictions-to-or-from-new-jersey).
+    Many states across the country [have added travel
+    restrictions](https://www.nytimes3xbfgragh.onion/2020/07/10/travel/state-travel-restrictions.html?referringSource=articleShare).
+
+<!-- end list -->
+
+  - **In New York City**, the 2020 holiday production of “Christmas
+    Spectacular Starring the Radio City Rockettes” [has been canceled
+    because of the
+    pandemic](https://www.nytimes3xbfgragh.onion/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html),
+    Madison Square Garden Entertainment, which manages the show,
+    announced on Tuesday. The Madison Square Garden Company plans to lay
+    off 350 people, a spokeswoman said.
 
 </div>
+
+</div>
+
+<div>
 
 </div>
 
@@ -539,9 +1350,11 @@ former senior leader at Health + Hospitals.
 
 <div class="css-53u6y8">
 
+Global Roundup
+
 ## 
 
-<div id="link-6b644638" class="css-105iojl">
+<div id="link-5244aced" class="css-105iojl">
 
 </div>
 
@@ -551,9 +1364,8 @@ former senior leader at Health + Hospitals.
 
 </div>
 
-‘Long days, long nights’: Washington prepares for a prolonged fight over
-virus
-relief.
+Tanzania’s president says the country is virus-free, but others are
+skeptical.
 
 </div>
 
@@ -573,7 +1385,7 @@ relief.
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+<div data-testid="lazyimage-container" style="height:266.8px">
 
 </div>
 
@@ -581,46 +1393,11 @@ relief.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Treasury
-Secretary Steven Mnuchin, left, and Mark Meadows, the White House chief
-of staff, on Capitol Hill last week. The two will meet with
-Congressional leaders again on Tuesday to work on the coronavirus relief
-package.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
-Scott/Reuters</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Negotiators on Tuesday are set to reconvene on Capitol Hill to continue
-hammering out differences over a coronavirus relief package, with top
-Trump administration officials scheduled to return for [another meeting
-with congressional
-Democrats](https://www.nytimes3xbfgragh.onion/2020/08/02/us/politics/coronavirus-jobless-aid.html).
-
-Treasury Secretary Steven Mnuchin and Mark Meadows, the White House
-chief of staff, will meet with Speaker Nancy Pelosi of California and
-Senator Chuck Schumer of New York, the minority leader. Mr. Mnuchin and
-Mr. Meadows will also join Senate Republicans for a closed-door policy
-lunch.
-
-The Senate is scheduled to take a monthlong recess at the end of the
-week, but it is unclear if lawmakers will leave Washington without a
-deal. Tens of millions of Americans have lost crucial [unemployment
-benefits](https://www.nytimes3xbfgragh.onion/2020/07/30/business/unemployment-payments-change.html)
-as well as a [federal moratorium on
-evictions](https://www.nytimes3xbfgragh.onion/2020/07/23/business/evictions-moratorium-cares-act.html),
-and economists warn that permanent damage could be wrought on the
-economy without action.
-
-“I’ve never been a gambler,” said Senator Lisa Murkowski, Republican of
-Alaska, when asked about the prospect of a deal before the end of the
-week. “But if I were a gambler, I’d say we need to have some long days,
-long nights. Work hard.”
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Members of
+Tanzania’s ruling party had their temperature checked and sanitized
+their hands as a precaution against the virus in
+July.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Associated
+Press</span></span>
 
 </div>
 
@@ -630,41 +1407,18 @@ long nights. Work hard.”
 
 <div class="css-53u6y8">
 
-White House officials and Democratic leaders reported some progress over
-the weekend, but there are still [substantial
-differences](https://www.nytimes3xbfgragh.onion/2020/08/02/us/politics/coronavirus-jobless-aid.html).
-Democrats are proposing a $3 trillion rescue plan that would include
-restoring $600-per-week jobless aid payments that expired on Friday and
-extending them through January, while Republicans are pushing a $1
-trillion package that would reduce those payments substantially.
+More than [87 days have
+passed](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200803-covid-19-sitrep-196-cleared.pdf?sfvrsn=8a8a3ca4_6)
+since **** Tanzania reported even a single new virus case — far longer
+than any other African country. Tanzania’s president has declared the
+scourge “absolutely finished” and encouraged tourists to come back.
 
-President Trump on Monday raised the idea of using an executive order to
-address the moratorium on evictions, while also hurling insults at
-Democratic leaders who were meeting with his top advisers in search of a
-compromise. But he [has been notably absent from the
-negotiations](https://www.nytimes3xbfgragh.onion/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
-themselves.
-
-Mr. Trump accused Democrats of being focused on getting “bailout money”
-for states controlled by Democrats, and unconcerned with extending
-unemployment benefits.
-
-Democrats have proposed providing more than $900 billion to strapped
-states and cities whose budgets have been decimated, but it is
-Republicans who have proposed slashing the jobless aid. Democrats have
-refused to do so, cementing the stalemate.
-
-Fueling an already complicated impasse, outside advisers are also trying
-to get the president to bypass Congress and unilaterally impose a
-[temporary payroll tax cut, an idea that Mr. Trump has
-championed](https://www.nytimes3xbfgragh.onion/2020/07/23/business/payroll-tax-cut-trump-recession.html)
-but that his negotiators dropped amid opposition from both parties.
-
-Congressional staff and lobbyists who are engaged in discussions said on
-Monday that the talks between administration officials and Ms. Pelosi
-and Mr. Schumer had essentially frozen negotiations between top
-Democrats and Republicans on key committees who would have to hammer out
-the details of any deal.
+But outside the country, people are skeptical, and inside, few dare
+stand up to the president, John Magufuli, who has become increasingly
+autocratic since he was elected. Mr. Magufuli has said that the power of
+prayer helped purge the virus from Tanzania, even as the African
+continent is expected this week to cross the threshold of one million
+reported cases.
 
 </div>
 
@@ -674,310 +1428,99 @@ the details of any deal.
 
 <div class="css-53u6y8">
 
-That could leave the parties little time to flesh out any compromises
-over additional aid to businesses or individuals, yielding a plan that
-mostly consists of re-upping existing aid programs like the Paycheck
-Protection Program and direct payments to
-individuals.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div id="virus-dashboard-promo-article" class="section interactive-content interactive-size-scoop css-174j8de" data-id="100000007209771">
-
-<div class="css-17ih8de interactive-body" data-sourceid="100000007209771">
-
-<div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
-
-<div class="g-asset g-svelte g-article-embed-dashboard" style="max-width: 1200px">
-
-<div class="g-svelte" data-component="1">
-
-<div class="dashboard svelte-1o1rjf3">
-
-## [Tracking the Coronavirus ›](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
-
-<div class="grid svelte-1o1rjf3">
-
-<div class="section svelte-1o1rjf3">
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>United States ›</strong></th>
-<th>On Aug. 3</th>
-<th>14-day<br />
-change</th>
-<th>Trend</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>New cases</td>
-<td>47,832</td>
-<td>-9%</td>
-<td><div class="chart-container svelte-m2fyje" style="color: #cc0000">
-
-</div></td>
-</tr>
-<tr class="even">
-<td>New deaths</td>
-<td>602</td>
-<td>+36%</td>
-<td><div class="chart-container svelte-m2fyje" style="color: #333">
-
-</div></td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
-<div class="section svelte-1o1rjf3">
-
-<div class="rising">
-
-### Where cases are **rising** fastest
-
-<div class="state-grid svelte-sxbviw">
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/hawaii-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Hawaii
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/rhode-island-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-R.I.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-jersey-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-N.J.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Alaska
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Neb.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Mo.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Mass.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/south-dakota-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-S.D.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/puerto-rico-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-P.R.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Ill.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/oklahoma-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Okla.
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maryland-coronavirus-cases.html)
-
-<div class="chart-container svelte-sxbviw">
-
-</div>
-
-Md.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="section svelte-1o1rjf3">
-
-<div class="maps svelte-2bdny">
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
-
-### U.S. hot spots ›
-
-![US coronavirus
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
-
-### Worldwide ›
-
-![Worldwide coronavirus
-cases](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_world-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-5c0d6427" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-As Isaias makes landfall, the virus makes it trickier to shelter from
-the
-storm.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true"> Damage in
-Southport, N.C., on Tuesday as Hurricane Isaias moved through the
-state.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Gerry
-Broome/Associated Press</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Storm shelters in North Carolina, [where Hurricane Isaias made landfall
-late
-Monday](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html),
-prepared to deal with a dual threat from severe weather and the virus by
-screening for symptoms of the virus and socially distancing people who
-took shelter.
-
-“Our state has weathered our fair share of storms in recent years,” Gov.
-Roy Cooper said over the weekend. “We know how to plan, prepare and
-respond when it’s over. Nothing about that has changed, but this time,
-we’re going to have to do it with a mask on.”
-
-The state’s Department of Public Safety also urged residents to bring
-their own blankets and bedding, and asked people to stay at motels or
-with relatives if possible. Shelters will serve meals in sealed
-containers rather than in typical serving lines.
-
-Gov. Philip D. Murphy of New Jersey also urged residents to take
-shelter, but not to break social-distancing guidelines by staying with
-large groups of friends or relatives.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-“I’m not a fan of hurricane parties,” Mr. Murphy said on Monday,
-referring to the events that became something of a tradition in Florida
-during minor storms. “If it’s a hurricane party, you’re inside. It just
-doesn’t make sense, folks. It doesn’t end well. And we know that.”
-
-The storm made landfall on Monday night in Ocean Isle Beach, N.C., as a
-Category 1 hurricane, but weakened as it pushed through North Carolina
-and into Virginia on Tuesday morning. Still, forecasters warn that
-Isaias will bring powerful winds and heavy rains as it continues moving
-north toward New York and New Jersey and into New England.
+The Tanzanian president has promoted an unproven herbal tea from
+Madagascar as a cure. He has disparaged social distancing and mask
+wearing. And his government has not disseminated any recent data to the
+World Health Organization. The group last heard from Tanzania on April
+29, when the country reported 509 cases and 21 deaths from Covid-19.
+
+Mr. Magufuli’s handling of the pandemic “has been nothing short of an
+irresponsible disaster,” said Tundu Lissu, an opposition leader who
+[fled the country in 2017 but recently
+returned](https://www.nytimes3xbfgragh.onion/aponline/2020/07/27/world/africa/ap-af-tanzania-opposition-leader-returns.html)
+to run for president. “His attitude has been Covid-19 will somehow go
+away if we all stop talking about it.”
+
+In neighboring Kenya, lawmakers have also [expressed
+concern](https://www.youtube.com/watch?v=K1PeaFeAxGM) about Tanzania’s
+virus response. The Kenyan authorities denied entry to dozens of
+Tanzanian truck drivers who had tested positive at border points.
+
+Health experts warn that Mr. Magufuli’s denial around the virus could be
+calamitous.
+
+“With no testing data or clinical surveillance information, Tanzania
+will be late in detecting and dealing with a potentially delayed
+explosion of severe clinical cases,” said Frank Minja, a Tanzanian
+doctor who is an associate professor of radiology and biomedical imaging
+at the Yale School of Medicine.
+
+October could be a “make-or-break election” in Tanzania’s history, Mr.
+Lissu said. “We stand on the brink of disaster,” he added. “But we are
+also on the brink of a miracle.”
+
+Elsewhere around the world:
+
+  - Many hospitals in **Lebanon**, already dealing with virus patients,
+    are now overwhelmed after [an immense explosion in
+    Beirut](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+    injured thousands. The country has reported 5,062 cases and 65
+    deaths from the virus, while lockdown measures have aggravated an
+    already [dire economic
+    crisis](https://www.nytimes3xbfgragh.onion/2020/07/12/world/middleeast/beirut-lebanon-economic-crisis.html).
+
+  - After Moscow announced that it would begin widespread vaccination of
+    its population in October with a vaccine that had not yet been fully
+    tested in clinical trials, the **World Health Organization** on
+    Tuesday urged caution, recommending that the country follow
+    established guidelines for producing safe vaccines. Russia is moving
+    ahead with several vaccine prototypes, its officials said, and at
+    least one effort, developed by the Gamaleya Institute in Moscow, is
+    in advanced stages of testing and has reportedly has been tested to
+    some extent on soldiers.
+
+<!-- end list -->
+
+  - Prime Minister Hubert Alexander Minnis of **the Bahamas** [announced
+    Monday](https://www.youtube.com/watch?v=ZzwLiboOXe0) that the
+    country would resume a national lockdown “for a minimum of two
+    weeks,” starting at 10 p.m. on Tuesday. “Nearing the end of this
+    period, we will assess the health data and advise whether a further
+    lockdown period is necessary,” he said. The Bahamas previously
+    instituted a strict 24-hour lockdown for residents, which if broken
+    could result in a $10,000 fine or 18 months in prison. Virus cases
+    have [skyrocketed there
+    recently](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html),
+    with almost 44 percent of the total 679 cases being reported in the
+    past seven days.
+
+  - The state of Victoria in **Australia**, which has had a resurgence
+    of the coronavirus and has [enforced among the strictest lockdown
+    measures in the
+    world](https://www.nytimes3xbfgragh.onion/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html),
+    reported 725 new cases and 15 deaths from the coronavirus on
+    Wednesday, the highest numbers since the pandemic began. New curfews
+    and restrictions in the state mean essential workers must now carry
+    a permit before leaving home.
+
+  - Students in **Mexico** will exclusively take classes broadcast on
+    television or the radio when the school year begins later this
+    month, in an effort to avoid further coronavirus outbreaks, the
+    government announced on Monday. Schools will only reopen when
+    authorities determine that new and active infections, which remain
+    high across the nation, decline enough for a safe return to the
+    classroom.
+
+  - **Israel** reopened schools in May, and within days [infections were
+    reported](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    at a Jerusalem high school. The virus rippled out to the students’
+    homes and then to other schools and neighborhoods, ultimately
+    infecting hundreds of students, teachers and relatives. Other
+    outbreaks forced hundreds of schools to close, and across the
+    country, tens of thousands of students and teachers were
+    quarantined. As countries consider back-to-school strategies for the
+    fall, the outbreaks there [illustrate the dangers of moving too
+    precipitously](https://www.nytimes3xbfgragh.onion/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html).
 
 </div>
 
@@ -1019,8 +1562,8 @@ Trump addresses the death toll: ‘It is what it is.’
 
 A day before the United States surpassed [150,000 deaths from the
 coronavirus](https://www.nytimes3xbfgragh.onion/2020/07/29/us/coronavirus-deaths-150000.html),
-President Trump appeared resigned to the toll, saying in an interview,
-“It is what it is.”
+Mr. Trump appeared resigned to the toll, saying in an interview, “It is
+what it is.”
 
 “They are dying. That’s true,” Mr. Trump told [Axios in an
 interview](https://www.axios.com/full-axios-hbo-interview-donald-trump-cd5a67e1-6ba1-46c8-bb3d-8717ab9f3cc5.html)
@@ -1032,14 +1575,6 @@ The president’s critics say he could have done much more to keep the
 virus from spreading to the extent it has, including encouraging states
 to be more cautious in reopening instead of encouraging them.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The country’s death toll, currently nearly 156,000, is far from the
 total of “75, 80 to 100,000” deaths that [Mr. Trump predicted in early
 May](https://www.nytimes3xbfgragh.onion/2020/05/03/us/politics/trump-coronavirus.html)
@@ -1048,7 +1583,7 @@ when he credited himself with preventing the toll from being worse.
 Even after his predictions proved wrong, Mr. Trump has continued to
 credit himself for the United States not being even worse off.
 
-“One person’s too much,” Mr. Trump told Axios. ”And those people that
+“One person’s too much,” Mr. Trump told Axios. “And those people that
 really understand it, that really understand it, they said it’s an
 incredible job that we’ve done.”
 
@@ -1064,9 +1599,11 @@ incredible job that we’ve done.”
 
 <div class="css-53u6y8">
 
+SCIENCE AND TECHNOLOGY ROUNDUP
+
 ## 
 
-<div id="link-27d0cbff" class="css-105iojl">
+<div id="link-5673bec1" class="css-105iojl">
 
 </div>
 
@@ -1076,8 +1613,8 @@ incredible job that we’ve done.”
 
 </div>
 
-The W.H.O. cautions Russia on its vaccine
-rollout.
+Six U.S. governors join forces to buy 3 million
+tests.
 
 </div>
 
@@ -1105,12 +1642,10 @@ rollout.
 
 </div>
 
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Work on a
-coronavirus vaccine at a laboratory in St. Petersburg, Russia, in June.
-Moscow’s aggressive timeline for vaccinating its population has raised
-safety
-concerns. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anton
-Vaganov/Reuters</span></span>
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Gov. Larry
+Hogan of Maryland, who created the new
+compact.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jonathan
+Ernst/Reuters</span></span>
 
 </div>
 
@@ -1120,616 +1655,95 @@ Vaganov/Reuters</span></span>
 
 <div class="css-53u6y8">
 
-The World Health Organization on Tuesday urged Russia to follow
-established guidelines for producing safe and effective vaccines, after
-Moscow announced that it would begin widespread vaccination of its
-population in October with a vaccine that had not yet been fully tested
-in clinical trials.
+Governors of six states said on Tuesday that they were partnering to
+purchase millions of [virus
+tests](https://www.nytimes3xbfgragh.onion/2020/08/04/us/virus-testing-delays.html)
+and expand their testing capability as many states continue to struggle
+to keep up with the demand for tests.
 
-Amid a global race to develop the first effective coronavirus vaccine,
-experts have raised concerns about cutting corners in research and
-putting people at risk with an unsafe product. Last week Dr. Anthony
-Fauci, director of the National Institute of Allergy and Infectious
-Diseases in the United States, warned Congress about programs like
-Russia’s that are not transparent.
+The governors of Louisiana, Maryland, Massachusetts, Michigan, Ohio and
+Virginia are negotiating a purchase of three million antigen tests —
+500,000 per state — as part of the new compact, which was created by
+Gov. Larry Hogan of Maryland, a Republican and the outgoing chair of the
+National Governors Association.
 
-</div>
+Members of the compact hope that it will show companies that there is
+“significant demand” to create more tests, according to a statement
+from Mr. Hogan’s office, something made apparent by the long lines that
+continue to plague virus testing sites across the country. The governors
+— three Republicans and three Democrats — also hoped the compact would
+help states buy tests in a more “cost-effective manner.” More states and
+local governments may join the group.
 
-</div>
+[Antigen tests, the type the states would buy, can provide
+results](https://www.nytimes3xbfgragh.onion/2020/07/06/health/fast-coronavirus-tests.html)
+in less than an hour, but scientists have said that they fear the tests
+will frequently miss infections. The governors are negotiating to
+purchase the three million tests from two medical companies — Becton,
+Dickinson & Company and the [Quidel
+Corporation](https://www.nytimes3xbfgragh.onion/2020/05/09/health/antigen-testing-fda-coronavirus.html)
+— whose tests [could produce false negative
+results](https://www.nytimes3xbfgragh.onion/2020/07/06/health/fast-coronavirus-tests.html)
+between 15 and 20 percent of the time. The companies were [the first to
+receive emergency
+authorization](https://www.nytimes3xbfgragh.onion/2020/07/06/health/fast-coronavirus-tests.html)
+from the Food and Drug Administration for their coronavirus antigen
+tests.
 
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
+The Rockefeller Foundation, a philanthropic organization in New York, is
+also part of the compact between the governors and said it was ready to
+help find sources of funding for the testing operation.
 
-<div class="css-53u6y8">
+“With severe shortages and delays in testing and the federal
+administration attempting to cut funding for testing, the states are
+banding together to acquire millions of faster tests to help save lives
+and slow the spread of Covid-19,” Mr. Hogan said in a statement.
 
-“I do hope that the Chinese and the Russians are actually testing the
-vaccine before they are administering the vaccine to anyone,” Dr. Fauci
-said at hearing.
+  - The National Institutes of Health is now recruiting patients for two
+    studies to test possible **antibody treatments** for Covid-19. The
+    studies, which are now in their second phase, are testing drugs
+    called monoclonal antibodies produced by Eli Lilly and its partner,
+    Abcellera Biologics in Vancouver. The process began in March, and
+    has progressed at “record speed,” said Daniel Skovronsky, chief
+    scientific officer at Eli Lilly. Researchers hope to have results in
+    October or November.
 
-Russia is moving ahead with several prototypes, its officials said, and
-at least one effort, developed by the Gamaleya Institute in Moscow, has
-reached advanced stages of testing. The vaccine candidate is similar to
-one developed by Oxford University and AstraZeneca, using modified
-viruses that typically cause mild colds in humans.
+  - Researchers are studying why in certain patients, according to a
+    flurry of recent studies, the virus appears to
+    [make](https://www.nytimes3xbfgragh.onion/2020/08/04/health/coronavirus-immune-system.html)**[the
+    immune
+    system](https://www.nytimes3xbfgragh.onion/2020/08/04/health/coronavirus-immune-system.html)**[go
+    haywire](https://www.nytimes3xbfgragh.onion/2020/08/04/health/coronavirus-immune-system.html).
+    Unable to marshal the right cells and molecules to fight off the
+    invader, the bodies of the infected instead launch an entire arsenal
+    of weapons — a misguided barrage that can wreak havoc on healthy
+    tissues, experts said. Researchers studying these unusual responses
+    are finding patterns that distinguish patients on the path to
+    recovery from those who fare far worse. Insights gleaned from the
+    data might [help tailor treatments to
+    individuals](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-drugs-treatments.html),
+    easing symptoms or perhaps even vanquishing the virus before it has
+    a chance to [push the immune system too
+    far](https://www.nytimes3xbfgragh.onion/2020/04/01/health/coronavirus-cytokine-storm-immune-system.html).
 
-Russia said it will start so-called Phase III trials of the vaccine this
-month. In Phase III, trials test for effectiveness in humans, after
-testing in animals. It is the last stage before approval, allowing
-widespread use.
-
-The candidate vaccine reportedly has been tested to some extent on
-soldiers, and the Russian defense ministry said those soldiers all had
-volunteered. The institute’s director said on Russian television that he
-himself had also tried the vaccine before it finished testing in
-monkeys.
-
-## 
-
-<div id="link-86f22d6" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Two N.I.H. studies are recruiting patients to test possible Covid-19
-treatments.
-
-The National Institutes of Health announced Tuesday the launch of a key
-second, phase of clinical trials for an antibody treatment **** to help
-patients early in the course of Covid-19.
-
-The two studies, which are now recruiting patients, are testing drugs
-called monoclonal antibodies produced by Eli Lilly and its partner,
-Abcellera Biologics in Vancouver. Researchers hope to have results in
-October or November.
-
-The process began in March, and has progressed at “record speed,” said
-Daniel Skovronsky, chief scientific officer at Eli Lilly. Two and a half
-months later, the company began safety tests in humans, “surely a record
-speed,” he said.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The first study, dubbed ACTIV 2, will start with 220 Covid-19 patients
-who are ill but not hospitalized. Half will receive the antibodies and
-half a placebo infusion. If there are signs the drug is helping, the
-trial will expand to a total of 2,000 patients with the hope that the
-drug reduces the duration of symptoms and speeds the time it takes for
-the virus to be undetectable in the patients’ upper respiratory tracts.
-
-The second study, ACTIV 3, will begin with 300 patients who are
-hospitalized but not gravely ill who have had symptoms for 10 days or
-less, though patients with virus-caused organ damage are excluded. Half
-of the patients will receive a placebo infusion. If the drug appears
-helpful, the study will move on to 1,000 individuals.
-
-The antibodies used in these trials were produced from serum from a
-Washington patient who was one of the first people to recover from
-Covid-19. Researchers at Abcellera selected this antibody from many in
-the patient’s blood because it was most effective at blocking the virus.
-
-Without knowing if the drug will be beneficial, Eli Lilly is preparing
-to meet a goal of having 100,000 doses by the end of the year, Dr.
-Skovronsky said.
-
-As these clinical trials progress, the researchers may add other
-treatments as well.
-
-## 
-
-<div id="link-31e70709" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-What Lockdown 2.0 looks like: Harsher rules and deeper
-confusion.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:225.55555555555557px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Police
-officers and soldiers on patrol at a popular running track in Melbourne,
-Australia on Tuesday. The city has become a confounding matrix of hefty
-fines for disobeying strict lockdown
-rules.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>William
-West/Agence France-Presse — Getty Images</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Australia’s second-largest city, Melbourne [has imposed some of the
-toughest restrictions in the
-world](https://www.nytimes3xbfgragh.onion/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
-as it grapples with a spiraling coronavirus outbreak in a country that
-once thought it had the pandemic beat.
-
-But as officials cast about for ways to break the chain of infections,
-the city has become a confounding matrix of hefty fines for
-disobedience, minor exceptions for everything from romantic partners to
-home building, and endless versions of the question: So, wait, can I
-\_\_\_\_?
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Restaurant owners are wondering about food delivery after an 8 p.m.
-curfew began on Sunday. Teenagers are asking if their boyfriends and
-girlfriends count as essential partners. Can animal shelter volunteers
-walk dogs at night? Are house cleaners essential for those struggling
-with their mental health? Can the virus-tested exercise outside?
-
-“This is such a weird, scary, bizarro time that we live in,” said
-Tessethia Von Tessle Roberts, 25, a student in Melbourne who admits to
-having hit a breaking point a few days ago, when her washing machine
-broke.
-
-“Our health care workers are hustling around the clock to keep us
-alive,” she said. “Our politicians are as scared as we are, but they
-have to pretend like they have a better idea than we do of what’s going
-to happen next.”
-
-Pandemic lockdowns, never easy, are getting ever more confusing and
-contentious as they evolve in the face of second and third rounds of
-outbreaks that have exhausted both officials and residents. With success
-against the virus as fleeting as the breeze, the new waves of
-restrictions feel to many like a bombing raid that just won’t end.
+  - Thousands of Covid-19 patients have been [treated
+    with](https://www.nytimes3xbfgragh.onion/2020/08/04/health/blood-plasma-covid-19.html)**[blood
+    plasma](https://www.nytimes3xbfgragh.onion/2020/08/04/health/blood-plasma-covid-19.html)**
+    outside of rigorous clinical trials — hampering research that would
+    have shown whether the therapy worked. Doctors and hospitals
+    desperate to save the sickest patients have been eager to try a
+    therapy that is safe and might work. Many patients and their doctors
+    — knowing they could get the treatment under a government program —
+    have been unwilling to join clinical trials that might provide them
+    with a placebo instead of the plasma. The unexpected demand for
+    plasma has inadvertently undercut the research that could prove that
+    it works.
 
 </div>
 
 </div>
 
 <div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-U.S. ROUNDUP
-
-## 
-
-<div id="link-6031871d" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The virus reaches the last untouched corner of
-California.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:264.22222222222223px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">When Modoc
-County reported its first two coronavirus cases last week, officials
-asked to hear from any residents who had been to a bar recently. An
-owner of the Brass Rail in Alturas said one of the new cases was a
-waitress at the
-bar.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Scott
-Sonner/Associated Press</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-In rural Modoc County, Calif., population 8,800, social distancing was a
-way of life well before the virus. The county seat, Alturas, has just
-one blinking red traffic signal. And for five months, officials hoped
-that the county’s isolation in the northeastern corner of the state
-would spare it.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-But the virus finally reached Modoc, the last county in the state
-without a confirmed case, when a couple in Alturas tested positive last
-week.
-
-The county has not named the two people who contracted the virus, but
-Jodie Larranaga, an owner of the Brass Rail bar and restaurant, said it
-was a waitress who worked at the bar and her husband. She said the
-couple had recently returned from a family vacation in Fresno.
-
-The county Health Department put out a request on Tuesday for anyone who
-had visited a bar in the previous two weeks to call a hotline. But Ms.
-Larranaga said that the department was not casting the net wide enough.
-“This couple has been all over the place,” she said. “They were all
-around town.”
-
-Most people still go maskless when they shop in Alturas, despite a
-statewide order to wear masks in public places — an order that the
-county sheriff refuses to enforce.
-
-Juan Ledezma, the owner of a thrift store in Alturas, estimated that 20
-percent of customers come in with a mask on. “I don’t ask them to do it
-because they might get offended,” he said.
-
-## 
-
-<div id="link-536e9d69" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-Caterers rush to adjust as most events are canceled or severely scaled
-down.<span class="css-8l6xbc evw5hdy0">
-</span>
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">David
-Cingari picks up an order for his pop-up restaurant in Stamford, CT last
-month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Amr
-Alfiky/The New York Times</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The pandemic has the nation’s caterers — roughly 12,000 individuals or
-companies with annual revenues of more than $60 billion — reeling. Many
-say they [expect their business to be down between 80 and 90 percent
-this
-year](https://www.nytimes3xbfgragh.onion/2020/08/04/business/coronavirus-struggling-caterers.html).
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Corporate cafeterias that they provide food and staff to remain closed.
-Events like graduation and anniversary parties, bar mitzvahs, charity
-dinners and weddings have been canceled or pushed into next year.
-
-And the ones that took place were on a decidedly smaller scale. “We did
-one 50-person wedding,” said David Cingari of David’s Soundview Catering
-in Stamford, Conn. “It was a clambake in the backyard. That was supposed
-to be a 250-person wedding.”
-
-On a recent Saturday, he was dashing about at a pop-up restaurant he
-opened in mid-June, serving lobster rolls, blackened mahi-mahi tacos and
-smashburgers alongside cocktails like the Painkiller to socially
-distanced diners.
-
-He made about $600, far from the roughly $6,600 that a 210-person
-wedding (petite lobster rolls on toasted brioche, coconut shrimp with
-mango aioli) and a bar mitzvah party for 180 (torched s’mores and a
-chocolate fountain) planned for that day, pre-pandemic, would have
-brought in.
-
-The collapse of the catering industry this year also directly affects
-bartenders, wait staff and others who typically work these events as
-part-time employees.
-
-The industry — a collection of large corporations like Aramark and
-Compass Group and thousands of smaller companies owned by individuals —
-is not tracking how many caterers have permanently closed because of the
-pandemic, but they say it will happen.
-
-And while caterers say they are taking a financial beating, many feel
-better situated than those in the restaurant business. Instead of paying
-often expensive rent in desirable locations like most restaurants,
-caterers typically pay less for large kitchens that can be off the
-beaten track.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-3bc78c4" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The deadline for the 2020 census has been moved up by a
-month.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Census data
-is used to divvy up trillions of dollars in federal
-aid.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Gabriele
-Holtermann/Sipa, via Associated Press</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Counting for the 2020 census will end on Sept. 30, a month earlier than
-previously scheduled, the Census Bureau said in a statement on Monday.
-
-The census is constitutionally required to count all residents of the
-United States every 10 years, but the 2020 effort [has faltered amid the
-pandemic](https://www.nytimes3xbfgragh.onion/2020/04/18/us/coronavirus-census.html).
-In recent weeks, the Trump administration and Senate Republicans
-appeared to signal that they [wanted the census finished well ahead of
-schedule](https://www.nytimes3xbfgragh.onion/2020/07/28/us/trump-census.html).
-
-Census data is enormously important. It is used to reapportion all 435
-House seats and thousands of state and local districts, as well as to
-divvy up trillions of dollars in federal aid.
-
-“Under this plan, the Census Bureau intends to meet a similar level of
-household responses as collected in prior censuses, including outreach
-to hard-to-count communities,” the Census Bureau said in its
-[statement](https://www.census.gov/newsroom/press-releases/2020/delivering-complete-accurate-count.html).
-
-Critics said the move was pushed by the White House and motivated by
-partisanship.
-
-“We’re dealing with a census that’s been really challenged by Covid-19,”
-said Vanita Gupta, a former head of the Justice Department’s civil
-rights division who is now the [president of the Leadership Conference
-on Civil and Human
-Rights](https://civilrights.org/about/our-staff/vanita-gupta/). “And in
-the middle of this pandemic, the administration has tried to sabotage
-the census for partisan gain, to move its anti-immigrant agenda and to
-silence communities of color.”
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-She added that rural communities could be badly hurt by an undercount.
-
-On Monday night, the White House referred questions to the Commerce
-Department, which oversees the Census Bureau. It did not immediately
-respond to a request for comment.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-609cc7cc" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-A reporter offers a glimpse inside the N.B.A.
-bubble.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:288.06666666666666px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Illustration
-by The New York Times; Getty Images</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The Times’s Marc Stein has covered pro basketball for almost 30 years,
-but he says he has seen nothing like [life inside the league’s so-called
-bubble](https://www.nytimes3xbfgragh.onion/interactive/2020/08/04/sports/nba-bubble-coronavirus.html)
-at Walt Disney World in Florida:
-
-> Every day in the bubble starts the same for reporters. We record our
-> temperature and oxygen saturation readings via a league-sanctioned app
-> to receive access at checkpoints within the bubble.
-> 
-> Then we head to the testing room, with access set aside exclusively
-> for reporters in the 9 a.m. hour, to receive three shallow throat
-> swabs and one shallow swab of each nostril — daily.
-> 
-> There is no guarantee that the N.B.A. can continue to keep the
-> coronavirus from infiltrating this first-of-a-kind village that houses
-> 22 teams.
-> 
-> But it already seems clear that the bubble approach was the only
-> approach that had any shot in 2020.
-
-</div>
 
 </div>
 
@@ -1745,11 +1759,13 @@ at Walt Disney World in Florida:
 
 <div class="css-53u6y8">
 
-Reporting was contributed by Livia Albeck-Ripka, Pam Belluck, Emma
-Bubola, Ben Carey, Damien Cave, Emily Cochrane, Michael Gold, J. David
-Goodman, Maggie Haberman, Mike Ives, Isabel Kershner, Gina Kolata,
-Giulia McDonnell Nieto del Rio, Marc Stein, Eileen Sullivan, Jim
-Tankersley, Michael Wines, Will Wright and Karen Zraick.
+Reporting was contributed by Livia Albeck-Ripka, Pam Belluck, Nicholas
+Bogel-Burroughs**,** Emma Bubola, Benedict Carey, Julia Carmel, Damien
+Cave, Emily Cochrane, Abdi Latif Dahir, Jacey Fortin, Nicholas Fandos,
+Michael Gold, J. David Goodman, Maggie Haberman, Mike Ives, Juliana Kim,
+Isabel Kershner, Gina Kolata, Giulia McDonnell Nieto del Rio, Emily
+Palmer, Amy Qin, Marc Stein, Eileen Sullivan, Jim Tankersley, Michael
+Wines, Will Wright and Karen Zraick.
 
 </div>
 

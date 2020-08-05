@@ -153,107 +153,106 @@ Estate](https://www.nytimes.com/section/realestate)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noriko
-    Hayashi para The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/business/03Mascarillas-ES-01/25virus-japan-masks-1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/04/world/04uribe-ES/merlin_138461055_e8f62ffd-95e1-4b71-8a94-dda7b8b50083-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/28/business/03Mascarillas-ES-01/00virus-japan-masks-1-thumbStandard.jpg)](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
+    [![](https://static01.nyt.com/images/2020/08/04/world/04uribe-ES/merlin_138461055_e8f62ffd-95e1-4b71-8a94-dda7b8b50083-thumbStandard.jpg)](/es/2020/08/04/espanol/america-latina/alvaro-uribe-detencion-colombia.html)
     
     </div>
     
-    ## [Llevaremos cubrebocas por algún tiempo. ¿Por qué no hacerlos bonitos?](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
+    ## [Álvaro Uribe enfrenta una posible detención](/es/2020/08/04/espanol/america-latina/alvaro-uribe-detencion-colombia.html)
     
-    Con purificadores motorizados, desinfectantes, tejidos transpirables
-    y estampados chic. Los protectores faciales han dejado de ser solo
-    productos descartables y baratos y ahora los hay para clientes más
-    exigentes.
+    La decisión de detener al expresidente de Colombia, que aún no ha
+    sido confirmada por la Corte Suprema, podría ser un punto de
+    inflexión en una nación acostumbrada a ver que políticos poderosos
+    evaden la justicia a pesar de años de
+    investigaciones.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz" itemprop="name">Ben Dooley</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Hisako
-    Ueno</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Turkewitz</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
-    Zender</span>](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/business/04TwitterTeen-ES-00/02twitterteen-clark-copy-jumbo.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-thumbStandard.jpg)](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
+    [![](https://static01.nyt.com/images/2020/08/02/business/04TwitterTeen-ES-00/02twitterteen-clark-copy-thumbStandard.jpg)](/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html)
     
     </div>
     
-    ### Comentario
+    ## [De jugador de Minecraft a ciberpirata: la oscura carrera virtual de un chico de Florida](/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html)
     
-    ## [Por qué los brasileños deberían temer a la oficina de odio](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
-    
-    El presidente Jair Bolsonaro, sus hijos y aliados han sembrado el
-    odio en línea contra las instituciones que defienden la democracia.
-    Ahora la indignación se está desbordando en la
-    calle.
+    El cerebro adolescente detrás del reciente ciberataque a Twitter
+    tuvo una vida familiar difícil y volcó su energía en los videojuegos
+    y las
+    criptomonedas.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Patrícia
-    Campos
-        Mello</span></span>
+    <span class="css-1baulvz" itemprop="name">Nathaniel Popper</span>,
+    <span class="css-1baulvz" itemprop="name">Kate Conger</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Kellen
+    Browning</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Departamento
-        de Agricultura de Estados
-        Unidos</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-videoLarge.jpg)
-        
-        <div class="css-7l6h4f">
-        
-        ## [Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-thumbStandard.jpg)](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
-        
-        </div>
-        
-        Las 14 variedades reconocidas incluyen plantas comunes como
-        hibisco, campanilla morada y lavanda. Aún así, los expertos
-        advirtieron a los destinatarios que no las
-        sembraran.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Allyson
-        Waller</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
-        Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+        Zender</span>](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+        ## [Por qué los brasileños deberían temer a la oficina de odio](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-thumbStandard.jpg)](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+        [![](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-thumbStandard.jpg)](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
         
         </div>
         
-        Las clases medias mexicanas claudicaron de intentar atenderse en
-        hospitales públicos y los más pobres los usan pensando que ahí
-        solo van a morirse. Esto debe
-        cambiar.
+        El presidente Jair Bolsonaro, sus hijos y aliados han sembrado
+        el odio en línea contra las instituciones que defienden la
+        democracia. Ahora la indignación se está desbordando en la
+        calle.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz last-byline" itemprop="name">Viri
-        Ríos</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Patrícia
+        Campos
+        Mello</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Universidad
+        Kobe</span>](https://static01.nyt.com/images/2020/08/03/science/04Beetle-ES/03TB-BEETLE1-videoLarge.jpg)
+        
+        <div class="css-7l6h4f">
+        
+        ### Mundo animal
+        
+        ## [Hay dos formas de salir de la panza de una rana y este escarabajo eligió la más inesperada](/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/03/science/04Beetle-ES/03TB-BEETLE1-thumbStandard.jpg)](/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html)
+        
+        </div>
+        
+        Un investigador alimentó unas ranas con escarabajos. La historia
+        parecía la conocida: cuando el depredador se come a la presa es
+        el fin. Pero este escarabajo encontró una vía
+        alternativa.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+        <span class="css-1baulvz last-byline" itemprop="name">Katherine
+        Wu</span></span>
         
         </div>
 
@@ -263,22 +262,23 @@ Estate](https://www.nytimes.com/section/realestate)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dustin
-    Chambers para The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/science/29masks-es/27VIRUS-MASKS-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noriko
+    Hayashi para The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/business/03Mascarillas-ES-01/25virus-japan-masks-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Las mascarillas pueden reducir la dosis viral, afirman algunos expertos](/es/2020/07/29/espanol/ciencia-y-tecnologia/proteccion-cubrebocas-coronavirus.html)
+    ## [Llevaremos cubrebocas por algún tiempo. ¿Por qué no hacerlos bonitos?](/es/2020/08/04/espanol/negocios/japon-cubrebocas.html)
     
-    Según la evidencia, las personas que usan protección facial captarán
-    menos partículas de coronavirus, lo que hará que la enfermedad sea
-    menos
-    grave.
+    Con purificadores motorizados, desinfectantes, tejidos transpirables
+    y estampados chic. Los protectores faciales han dejado de ser solo
+    productos descartables y baratos y ahora los hay para clientes más
+    exigentes.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
+    <span class="css-1baulvz" itemprop="name">Ben Dooley</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Hisako
+    Ueno</span></span>
     
     </div>
 
@@ -387,7 +387,27 @@ story](#after-mid1)
 [Más en Opinión
     »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## <span class="css-1baulvz last-byline" itemprop="name">Viri Ríos</span>
+    
+    ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+    
+    Las clases medias mexicanas claudicaron de intentar atenderse en
+    hospitales públicos y los más pobres los usan pensando que ahí solo
+    van a morirse. Esto debe
+    cambiar.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Viri
+    Ríos</span></span>
+    
+    </div>
+
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
     Archive/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
     
@@ -408,7 +428,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rodrigo
     Sura/EPA vía
     Shutterstock</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Martinez-ES/merlin_175051002_8b6c73d6-78b1-44b6-9806-b42f2b7f3923-videoLarge.jpg)
     
@@ -430,45 +450,23 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
-    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Carrión</span>
-    
-    ## [Los algoritmos son los nuevos editores](/es/2020/08/02/espanol/opinion/facebook-amazon-instagram.html)
-    
-    ¿Qué tienen en común Instagram, YouTube, Facebook, Amazon, Weibo y
-    Twitter? No son solo redes sociales o plataformas: son los grandes
-    editores de nuestra
-    realidad.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jorge
-    Carrión</span></span>
-    
-    </div>
-
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-        Drago para The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
+        Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02Carrion-ES/merlin_171683256_836a51a0-dc07-4047-b169-4bbbb85b62b4-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Ramos</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Jorge Carrión</span>
         
-        ## [Tentaciones autoritarias: cómo América Latina nos preparó para Trump](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+        ## [Los algoritmos son los nuevos editores](/es/2020/08/02/espanol/opinion/facebook-amazon-instagram.html)
         
-        La democracia en Estados Unidos está a prueba. Quienes hemos
-        vivido o trabajado en la región, conocemos bien de mandatarios
-        que juegan con los límites de su poder. Adiós al
-        “excepcionalismo
-        estadounidense”.
+        ¿Qué tienen en común Instagram, YouTube, Facebook, Amazon, Weibo
+        y Twitter? No son solo redes sociales o plataformas: son los
+        grandes editores de nuestra
+        realidad.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Jorge
-        Ramos</span></span>
+        Carrión</span></span>
         
         </div>
     
@@ -523,49 +521,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/04/espanol/ciencia-y-tecnologia/escarabajo-excremento-rana.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/science/04Beetle-ES/03TB-BEETLE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Mundo animal</span>
-    
-    ## Hay dos formas de salir de la panza de una rana y este escarabajo eligió la más inesperada
-    
-    Un investigador alimentó unas ranas con escarabajos. La historia
-    parecía la conocida: cuando el depredador se come a la presa es el
-    fin. Pero este escarabajo encontró una vía alternativa.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Katherine Wu</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/08/03/science/beetle-frog-poop.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/es/2020/08/04/espanol/coronavirus-bolsonaro-facebook.html)
     
     <div class="css-79elbk">
@@ -584,6 +539,47 @@ story](#after-mid1)
     
     Por <span class="css-1n7hynb">Elda
     Cantú</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China
+    
+    Las 14 variedades reconocidas incluyen plantas comunes como hibisco,
+    campanilla morada y lavanda. Aún así, los expertos advirtieron a los
+    destinatarios que no las sembraran.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Allyson Waller</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/02/us/Seed-packets-China-USA.html "Read in English")
     
     </div>
     
@@ -727,6 +723,44 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/es/2020/08/01/espanol/opinion/trump-autoritarismo.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/01/multimedia/01Ramos-ES/merlin_175175088_ad2b68a7-8076-4175-a205-2f0a1352507f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Comentario</span>
+    
+    ## Tentaciones autoritarias: cómo América Latina nos preparó para Trump
+    
+    La democracia en Estados Unidos está a prueba. Quienes hemos vivido
+    o trabajado en la región, conocemos bien de mandatarios que juegan
+    con los límites de su poder. Adiós al “excepcionalismo
+    estadounidense”.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    Por <span class="css-1n7hynb">Jorge
+    Ramos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1kjito4 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
     
     <div class="css-79elbk">
@@ -765,7 +799,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -798,7 +832,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -842,7 +876,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -874,50 +908,6 @@ story](#after-mid1)
     
     [Read in
     English](https://www.nytimes.com/2020/07/30/us/politics/trump-postpone-election.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1kjito4 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/30/espanol/opinion/usar-cubrebocas-politica.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/opinion/28friedmanWeb/28friedmanWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Comentario</span>
-    
-    ## Si nuestros cubrebocas pudieran hablar
-    
-    ¿Cómo nos volvimos tan ineficaces para combatir al coronavirus? Los
-    arqueólogos del futuro que vinieran a excavar al país más rico del
-    mundo, encontrarían la clave en un artefacto sencillo: la
-    mascarilla.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    Por <span class="css-1n7hynb">Thomas L. Friedman</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/07/28/opinion/coronavirus-masks.html "Read in English")
     
     </div>
     

@@ -229,8 +229,8 @@ Gilded Age.”
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     
@@ -281,9 +281,9 @@ Images</span></span></span>](https://static01.nyt.com/images/2020/08/05/opinion/
 <div class="css-53u6y8">
 
 The spectacle of the chief executives of Amazon, Apple, Facebook and
-Google testifying before Congress last week made for good TV drama. Yet
-the theatrics of the showdown distracted from the real payoff of the
-hearings: the [accompanying
+Google’s parent testifying before Congress last week made for good TV
+drama. Yet the theatrics of the showdown distracted from the real payoff
+of the hearings: the [accompanying
 cache](https://judiciary.house.gov/online-platforms-and-market-power/)
 of subpoenaed emails and texts from the past decade and a half. These
 documents provide compelling evidence — long rumored but seldom

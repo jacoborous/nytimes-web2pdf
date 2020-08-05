@@ -206,6 +206,49 @@ Estate](https://www.nytimes.com/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
+[](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
+
+<div class="css-1g8bx4t">
+
+![](https://static01.nyt.com/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-square640-v2.png?quality=75&auto=webp&disable=upscale&width=350)
+
+</div>
+
+</div>
+
+[](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
+
+<div class="css-8oysku e18972d71" type="1">
+
+<div class="css-1iexn6j e1voiwgp1">
+
+## Your Wednesday Briefing
+
+</div>
+
+</div>
+
+<div class="css-8oysku e18972d71">
+
+Here’s what you need to
+know.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ydsmmq">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-geek62">
+
+<div class="css-1d537rb e18972d70" media="[object Object]">
+
 [](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
 
 <div class="css-1g8bx4t">
@@ -284,49 +327,6 @@ authoritarianism.”
 
 </div>
 
-<div class="css-ydsmmq">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-geek62">
-
-<div class="css-1d537rb e18972d70" media="[object Object]">
-
-[](/2020/07/30/podcasts/nice-white-parents-serial.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-square320.jpg)
-
-</div>
-
-</div>
-
-[](/2020/07/30/podcasts/nice-white-parents-serial.html)
-
-<div class="css-8oysku e18972d71" type="1">
-
-<div class="css-1iexn6j e1voiwgp1">
-
-## Listen to ‘Nice White Parents’
-
-</div>
-
-</div>
-
-<div class="css-8oysku e18972d71">
-
-When a group of white families came to one predominantly Black
-school.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 <div class="css-1y8l3jc">
@@ -367,27 +367,34 @@ school.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
-<div class="css-1ee8y2t assetWrapper">
-
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/05/world/middleeast/beirut-explosion.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Explosions Rock East Beirut</span>
+## <span>After Deadly Beirut Explosion, a Search for Answers and Survivors</span>
 
 </div>
 
-  - Hundreds of people were injured when two blasts, the second much
-    larger, struck the waterfront of the Lebanese capital, shaking much
-    of the city.
-  - The cause of the explosions remains unclear, government officials
-    said. Here’s the
+  - A blast in the Lebanese capital, so powerful that it could be felt
+    more than 150 miles away, killed more than 100 people and injured
+    more than 4,000.
+  - Officials believe the explosion was caused by the detonation of more
+    than 2,700 tons of ammonium nitrate stored in a warehouse at the
+    port.
+  - Rescue workers were digging through the rubble searching for
+    survivors, while dozens were listed as missing. Here’s the
 latest.
 
 <div class="css-1slnf6i">
@@ -404,15 +411,221 @@ latest.
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Here is a look at what we know and don’t know about the explosions.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1mnngwr eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
+<div class="css-1ee8y2t assetWrapper">
+
+<div>
+
+<div class="css-1xaqcky">
+
+[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+
 <div class="css-1g8bx4t">
 
-![Footage shows a powerful explosion and its aftermath in Beirut,
-Lebanon, on Tuesday. <span class="credit">Wael Hamzeh/EPA, via
-Shutterstock</span>](https://static01.nyt.com/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-videoSixteenByNine3000.jpg)
+![](https://static01.nyt.com/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-threeByTwoMediumAt2X-v3.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1nl6p6m">
+
+[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Mapping the Damage From the Beirut Explosions
+
+</div>
+
+A shockwave raced from the city’s industrial waterfront into densely
+populated residential neighborhoods and shopping districts
+downtown.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/us/politics/kobach-tlaib.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries</span>
+
+</div>
+
+G.O.P. leaders had worried that if Mr. Kobach, a polarizing figure, were
+victorious, he would jeopardize the seat in the general election.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1mnngwr eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-ws86q6 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+
+<div class="css-1g8bx4t">
+
+![If elected to the House in November, Cori Bush would be the first
+Black woman to represent Missouri in Congress. 
+<span class="credit">Michael B. Thomas/Getty
+Images</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-nmg095 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+
+</div>
+
+The upset of the veteran congressman from St. Louis sent tremors though
+the Democratic establishment in Missouri and Washington,
+D.C.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## After six weeks of delays, New York City confirmed results in a pair of congressional primaries.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -448,16 +661,16 @@ Shutterstock</span>](https://static01.nyt.com/images/2020/08/04/world/04lebanon-
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>N.Y.C. Health Commissioner Resigns Over Mayor’s Coronavirus Response</span>
+## <span>McConnell Signals Openness to Accepting Jobless Aid Extension</span>
 
 </div>
 
-  - In her email to Mayor Bill de Blasio, Dr. Oxiris Barbot said that
-    the health department’s “expertise was not used to the degree it
-    could have been.”
-  - Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure. Here’s
-    the
+  - As talks on coronavirus assistance drag on, Senator Mitch McConnell
+    seemed open to reversing course on extending the payments, which
+    Republicans have opposed.
+  - Two preliminary studies of an experimental vaccine yielded
+    encouraging results, the Maryland-based company Novavax announced.
+    Here’s the
 latest.
 
 <div class="css-1slnf6i">
@@ -486,7 +699,7 @@ latest.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/04/us/4hpvirus1/4hpvirus1-videoLarge.jpg)
+![](https://static01.nyt.com/images/2020/08/04/reader-center/04virus-hp-fader-nashville/merlin_175315365_1ed7972d-297f-4a7e-acbd-ae38d2584a47-videoLarge.jpg)
 
 </div>
 
@@ -510,17 +723,17 @@ latest.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/03/business/how-schools-reopen.html)
+[](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## The United States Is Reopening Many of the Wrong Schools
+## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
 
 </div>
 
-When it is safe enough to return to school, young children would benefit
-the most. Yet financial pressures are pushing colleges to reopen most
-rapidly.
+The trip by Alex Azar, a rare high-level U.S. visit, is being billed as
+an opportunity to highlight the island’s success in battling the
+pandemic.
 
 <div>
 
@@ -546,17 +759,18 @@ rapidly.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+[](/2020/08/04/health/trump-plasma.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion
+## As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies
 
 </div>
 
-Melbourne, Australia’s second-largest city, is becoming a case study in
-handling a second wave of infections. There are lots of unanswered
-questions.
+Thousands of Covid-19 patients have been treated with blood plasma
+outside of clinical trials — hampering research that could prove whether
+it
+works.
 
 <div>
 
@@ -569,257 +783,6 @@ questions.
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-bs48m0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Politics Updates: What to Watch For in Today’s Primaries</span>
-
-</div>
-
-  - Arizona, Kansas, Michigan, Missouri and Washington State are
-    choosing nominees for Congress and local offices.
-  - Some Republicans aren’t thrilled about Kris Kobach’s Senate campaign
-    in Kansas. Follow updates
-here.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## How Karen Bass Rose in Politics to Become a V.P. Contender
-
-</div>
-
-The California congresswoman is barely known to many Americans, or even
-to many leading Democrats. Now she’s a top contender to be Joe Biden’s
-running
-mate.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/us/politics/trump-john-lewis-axios.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
-
-</div>
-
-President Trump was asked by an interviewer to reflect on the late
-congressman’s contributions to the civil rights movement. He talked up
-his own record
-instead.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/us/isaias-storm-updates.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Fires, Flooding and Tornadoes as Isaias Charges Over Land</span>
-
-</div>
-
-At least two people were killed after a tornado touched down in Bertie
-County, N.C., and caused significant damage to a neighborhood there.
-Here’s the
-latest.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Emergencies on two coasts — Hurricane Isaias and the Apple Fire — show the harsh reality of climate change.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-<div class="section css-1xdhyk6 e2u1rkt0">
-
-Isaias, now a tropical storm, made landfall as a hurricane in North
-Carolina and is causing widespread power outages as it cuts a path
-north. <span class="credit">Matt Slocum/Associated Press</span>
 
 </div>
 
@@ -857,31 +820,13 @@ north. <span class="credit">Matt Slocum/Associated Press</span>
 
 <div class="css-1yoguk1 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/dining/chef-restaurant-culture.html)
+[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-<div class="css-hb0qj3">
-
-The Great Read
-
-</div>
-
-## <span>Twilight of the Imperial Chef</span>
-
-</div>
-
-The notion of the lone genius in the kitchen has long fostered culinary
-creativity — and restaurants marred by abuse. This may be the time for
-change.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
+## <span>Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained</span>
 
 </div>
 
@@ -893,22 +838,15 @@ change.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/dining/chef-restaurant-culture.html)
+[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
 
-<div class="css-1g8bx4t">
+A decision to put Mr. Uribe under house arrest could be a turning point
+in a nation used to seeing powerful politicians avoid
+prosecution.
 
-<div class="css-zjzyr8">
+<div>
 
-<div data-testid="lazyimage-container" style="height:480px">
-
-</div>
-
-</div>
-
-<div class="section css-1xdhyk6 e2u1rkt0">
-
-<span class="credit">Ryan
-Garcia</span>
+<div class="css-na047m">
 
 </div>
 
@@ -926,25 +864,29 @@ Garcia</span>
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div class="css-1ee8y2t assetWrapper">
-
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/04/magazine/behrouz-boochani-australia.html)
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/nyregion/isaias-ny.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>He Was Detained for 7 Years. Now He’s Reclaiming His Identity.</span>
+## <span>2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area</span>
 
 </div>
 
-After he fled Iran’s Revolutionary Guard and exposed Australia’s
-offshore detention camps from the inside, what’s next for Behrouz
-Boochani?
+The storm that tore through New York City was second only to Hurricane
+Sandy in knocking out service to Con Edison
+customers.
 
 <div>
 
@@ -958,17 +900,19 @@ Boochani?
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
+</div>
 
-<div class="css-1qj0wac eqveam61">
+</div>
 
-[](/2020/08/04/magazine/behrouz-boochani-australia.html)
+</div>
 
-<div class="css-1qiat4j eqveam63">
+<div class="css-pwtn0q eqveam60">
 
-<div class="css-ws86q6 eqveam60">
+<div class="css-qvz0vj eqveam61">
 
-<div class="css-1ygu6hu eqveam61">
+[](/2020/08/04/nyregion/isaias-ny.html)
+
+<div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
@@ -982,16 +926,24 @@ Boochani?
 
 </div>
 
+</div>
+
 <div class="css-nmg095 eqveam60">
 
-<div class="css-1ygu6hu eqveam61">
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div data-aria-hidden="true">
+
+[](/2020/08/04/nyregion/isaias-ny.html)
+
+<div class="css-1g8bx4t">
 
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-Behrouz Boochani’s book, “No Friend but the Mountains,” won the
-prestigious Victorian Prize for Literature in 2019 while he was still
-detained on Manus Island. <span class="credit">Birgit Krippner for The
-New York
+Workers removed tree limbs that fell on a car in Queens, killing a
+passenger. <span class="credit">Johnny Milano for The New York
 Times</span>
 
 </div>
@@ -1000,9 +952,47 @@ Times</span>
 
 </div>
 
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/us/hurricane-isaias-updates.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Isaias pounded the Atlantic Coast with wind and rain, flooding communities and spawning tornadoes along its path.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
 
 </div>
 
@@ -1028,7 +1018,55 @@ Times</span>
 
 ### Opinion
 
-<div class="css-dlmg09">
+<div class="css-anz6u5">
+
+<div class="css-tub26b">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
+
+<div class="css-dcl9ft">
+
+![Charlie
+Warzel](https://static01.nyt.com/images/2019/03/15/opinion/charlie-warzel/charlie-warzel-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-1dvlumo e18df3gd0">
+
+Charlie Warzel
+
+</div>
+
+</div>
+
+## How QAnon Creates a Dangerous Alternate Reality
+
+</div>
+
+Game designer Adrian Hon says QAnon parallels the immersive worlds of
+alternate reality games.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-tub26b">
 
@@ -1040,14 +1078,7 @@ Times</span>
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/04/opinion/trump-2020-electoral-college.html)
-
-<div class="css-dcl9ft">
-
-![Jamelle
-Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1055,19 +1086,19 @@ Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-
 
 <div class="css-1dvlumo e18df3gd0">
 
-Jamelle Bouie
+The Editorial Board
 
 </div>
 
 </div>
 
-## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+## New York Needs Less Bickering, More Teamwork
 
 </div>
 
-Government of the minority, chosen by a minority, on behalf of a
-minority, is not what Lincoln had in mind at
-Gettysburg.
+Residents are nervous and exhausted. It’s not too much to ask for a
+unified leadership from the mayor and the
+governor.
 
 <div>
 
@@ -1085,11 +1116,11 @@ Gettysburg.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/opinion/trump-2020-electoral-college.html)
+[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/04/opinion/04bouie/04bouie-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.nyt.com/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1111,6 +1142,150 @@ Gettysburg.
 
 <div class="css-6p6lnl">
 
+[](/2020/08/04/opinion/trump-2020-electoral-college.html)
+
+<div class="css-dcl9ft">
+
+![Jamelle
+Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Jamelle Bouie
+
+</div>
+
+</div>
+
+## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/gin-tonic-summer-drink.html)
+
+<div class="css-dcl9ft">
+
+![Jennifer Finney
+Boylan](https://static01.nyt.com/images/2011/08/04/opinion/BOYLAN_NEW/BOYLAN_NEW-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Jennifer Finney Boylan
+
+</div>
+
+</div>
+
+## The Doggiest Days of Summer Demand Gin and Tonics
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/tiktok-microsoft-trump.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Greg Bensinger
+
+</div>
+
+</div>
+
+## Is Microsoft Sure It Wants to Buy TikTok?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ed Simon
+
+</div>
+
+</div>
+
+## Jefferson, Lee or Douglass. It Matters Who Is Preserved in Bronze.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+The Editorial Board
+
+</div>
+
+</div>
+
+## No Relief Bill, No Vacation
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
 [](/2020/08/04/opinion/covid-rural-hospitals.html)
 
 <div class="css-debyuq e1voiwgp1">
@@ -1126,42 +1301,6 @@ Daniela J. Lamas
 </div>
 
 ## ‘If I Hadn’t Been Transferred, I Would Have Died’
-
-</div>
-
-Conversations about death from Covid-19 revolve around patient
-characteristics. But hospitals matter, too.
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/republicans-unemployed-coronavirus.html)
-
-<div class="css-dcl9ft">
-
-![Paul
-Krugman](https://static01.nyt.com/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Paul Krugman
-
-</div>
-
-</div>
-
-## The Unemployed Stare Into the Abyss. Republicans Look Away.
 
 </div>
 
@@ -1195,124 +1334,6 @@ Ross Douthat
 </div>
 
 ## Republicans Are Ready for the Don Draper Method
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Patrícia Campos Mello
-
-</div>
-
-</div>
-
-## Brazil’s Troll Army Moves Into the Streets
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ed Simon
-
-</div>
-
-</div>
-
-## We Need a Monument to the Unknown America
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
-
-<div class="css-dcl9ft">
-
-![Michelle
-Cottle](https://static01.nyt.com/images/2019/06/25/opinion/michelle-cottle-circular/michelle-cottle-circular-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Michelle Cottle
-
-</div>
-
-</div>
-
-## Disenchanted Seniors for Biden
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
-
-<div class="css-dcl9ft">
-
-![Bret
-Stephens](https://static01.nyt.com/images/2017/08/27/insider/bretstephens/bretstephens-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Bret Stephens
-
-</div>
-
-</div>
-
-## The Siren Song of ‘One State’
 
 </div>
 
@@ -1373,23 +1394,7 @@ Hunter
 
 </div>
 
-## Voting Isn’t Everything
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/letters/trump-family.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## How Trump’s Upbringing Molded His Personality
+## Don’t Believe the Lie That Voting Is All You Can Do
 
 </div>
 
@@ -1423,7 +1428,7 @@ Hunter
 
 <div class="css-1xaqcky">
 
-[](/2020/08/03/us/mask-protests-1918.html)
+[](/2020/08/04/style/college-coronavirus-hoax.html)
 
 <div class="css-1g8bx4t">
 
@@ -1437,8 +1442,8 @@ Hunter
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">Hamilton Henry Dobbin, via California State
-Library</span>
+<span class="credit">Lane Turner/The Boston Globe, via Getty
+Images</span>
 
 </div>
 
@@ -1448,17 +1453,15 @@ Library</span>
 
 <div class="css-1nl6p6m">
 
-[](/2020/08/03/us/mask-protests-1918.html)
+[](/2020/08/04/style/college-coronavirus-hoax.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>The Mask Slackers of 1918</span>
+## <span>The Anonymous Professor Who Wasn’t</span>
 
 </div>
 
-As the influenza pandemic swept across the United States in 1918 and
-1919, masks took a role in political and cultural
-wars.
+A professor at Arizona State University does not exist.
 
 <div>
 
@@ -1490,17 +1493,16 @@ wars.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
+[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## A History of Hurricanes in America and the Devastation They Have Wrought
+## How to Think Like an Epidemiologist
 
 </div>
 
-In “A Furious Sky,” Eric Jay Dolin recounts 500 years of reckoning with
-the monster storms that come in off the Atlantic
-Ocean.
+Don’t worry, a little Bayesian analysis won’t hurt
+you.
 
 <div>
 
@@ -1518,7 +1520,7 @@ Ocean.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review/a-furious-sky-hurricanes-eric-jay-dolan.html)
+[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
 
 <div class="css-1g8bx4t">
 
@@ -1552,18 +1554,17 @@ Ocean.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/30/magazine/black-soldiers-wwii-racism.html)
+[](/2020/08/04/books/review-luster-raven-leilani.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Returning From War, Returning to Racism
+## In ‘Luster,’ a Woman Moves in With Her Lover … and His Family
 
 </div>
 
-After the war, Black soldiers faced violence and segregation at home.
-Lewis W. Matthews managed to push through racism, but that wasn’t an
-option for
-many.
+Our critic weighs in on Raven Leilani’s highly anticipated debut novel,
+which has won praise for its boldness, humor and frank depictions of
+sex.
 
 <div>
 
@@ -1581,7 +1582,7 @@ many.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/07/30/magazine/black-soldiers-wwii-racism.html)
+[](/2020/08/04/books/review-luster-raven-leilani.html)
 
 <div class="css-1g8bx4t">
 

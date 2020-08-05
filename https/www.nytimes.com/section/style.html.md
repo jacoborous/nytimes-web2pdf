@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
@@ -163,17 +139,53 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
-    and Claire Weiss for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/fashion/03BACKORDER1/merlin_172496982_de7aa074-951d-4362-ba4c-5fe9eb17553e-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lane
+    Turner/The Boston Globe, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/fashion/04McLaughlin/04McLaughlin-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Summer Recreation? It’s Backordered](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    ## [The Anonymous Professor Who Wasn’t](/2020/08/04/style/college-coronavirus-hoax.html)
     
-    Americans seeking outdoor getaways in the pandemic bought up all the
-    pools, tents, kayaks and
-    trampolines.
+    A professor at Arizona State University does not
+    exist.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Jonah Engel
+    Bromwich</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Ezra
+    Marcus</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+    Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO2/00TINYLOVE-ILLO2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Modern Love
+    
+    ## [Tiny Love Stories: ‘I Almost Left Him Three Times’](/2020/08/04/style/tiny-modern-love-stories-coronavirus-i-almost-left-him.html)
+    
+    Modern Love in miniature, featuring reader-submitted stories of no
+    more than 100
+    words.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
+    and Claire Weiss for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The New Panic Buys: Kayaks, Pools, Tents and Trampolines](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    
+    Americans seeking getaways (or staycations) in the pandemic are
+    putting outdoor retailers in a supply
+    crunch.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">John
@@ -181,7 +193,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
     Tompkins for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-videoLarge.jpg)
     
@@ -199,7 +211,13 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
     Dawn Bottoms/The New York
     Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
     
@@ -217,7 +235,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
     Walter Banks for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
     
@@ -236,13 +254,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     Illustration by The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-videoLarge.jpg)
     
@@ -260,7 +272,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
     Heimer</span>](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -278,7 +290,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### Up Next
+5.  ### Up Next
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
     Jalloh for The New York
@@ -294,41 +306,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brianna
     Holt</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Matija
-    Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Love Letter: Making Room for More Love (and Sheep)](/2020/07/31/fashion/weddings/love-letter-newsletter-making-room-for-more-love-and-sheep.html)
-    
-    And, a legacy of “Loving”
-    continued.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Charanna
-    Alexander</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fabio
-    Frustaci/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/07/31/fashion/31stella-1/merlin_173300313_20e6e049-5489-41f9-be5a-9b7d5473ddd8-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Italian Fashion Hasn’t Changed Enough, Black Designers Say](/2020/07/31/fashion/italian-fashion-black-designers.html)
-    
-    A new letter sent by independent designers to fashion executives
-    demands reform, or at least a serious conversation about
-    race.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jessica
-    Testa</span></span>
     
     </div>
 
@@ -1541,6 +1518,41 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Richtel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
     
     <div class="css-79elbk">
@@ -1569,7 +1581,7 @@ story](#after-mid6)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1605,7 +1617,7 @@ story](#after-mid6)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1640,7 +1652,7 @@ story](#after-mid6)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1650,14 +1662,14 @@ story](#after-mid6)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Summer Recreation? It’s Backordered
+    ## The New Panic Buys: Kayaks, Pools, Tents and Trampolines
     
-    Americans seeking outdoor getaways in the pandemic bought up all the
-    pools, tents, kayaks and trampolines.
+    Americans seeking getaways (or staycations) in the pandemic are
+    putting outdoor retailers in a supply crunch.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1674,7 +1686,7 @@ story](#after-mid6)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1709,7 +1721,7 @@ story](#after-mid6)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1744,7 +1756,7 @@ story](#after-mid6)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1767,8 +1779,14 @@ story](#after-mid6)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen
-    Browning</span>
+    <span>and</span> Kellen Browning</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
     
     </div>
     
@@ -1780,7 +1798,7 @@ story](#after-mid6)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1815,7 +1833,7 @@ story](#after-mid6)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1838,39 +1856,6 @@ story](#after-mid6)
     
     By <span class="css-1n7hynb">Adriana Balsamo <span>and</span> Hilary
     Moss</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/01/business/video-game-remake-remaster-nostalgia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/business/00Remake-print/00Remake-RE2-lede-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Like Old Hollywood Movies, Video Games Get a Polish for New Audiences
-    
-    Game publishers are digging through their vaults to remake or
-    remaster popular titles in a bid to kindle players’ nostalgia.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Imad Khan</span>
     
     </div>
     

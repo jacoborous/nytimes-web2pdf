@@ -76,9 +76,9 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div class="css-epjblv">
 
-<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Voting
-Isn’t
-Everything</span>
+<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Don’t
+Believe the Lie That Voting Is All You Can
+Do</span>
 
 </div>
 
@@ -193,7 +193,7 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Voting Isn’t Everything
+# Don’t Believe the Lie That Voting Is All You Can Do
 
 </div>
 
@@ -219,8 +219,8 @@ Crow.”
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     
@@ -258,7 +258,7 @@ the crowd at the historic 1963 March on Washington. Movements can
 amplify complex questions that are often simplified to sound bites in
 elections.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Leonard
 Freed/Magnum
-Photos</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/opinion/30Hunter1/30Hunter1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Photos</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/30Hunter1/30Hunter1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 

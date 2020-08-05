@@ -155,56 +155,84 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Patrick
+    Semansky/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1dqkjed">
+    
+    [![](https://static01.nyt.com/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-thumbStandard.jpg)](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+    
+    </div>
+    
+    ## [After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+    
+    Representative Carolyn Maloney and Councilman Ritchie Torres won in
+    New York City after a Democratic primary that raised concerns about
+    mail-in
+    voting.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Jesse McKinley</span>,
+    <span class="css-1baulvz" itemprop="name">Shane Goldmacher</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Stevens</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
     Milano for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm1/04tristate-storm1-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm1/04tristate-storm1-thumbStandard.jpg)](/2020/08/04/nyregion/nj-ny-Isaias-hurricane-storm.html)
+    [![](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-thumbStandard.jpg)](/2020/08/04/nyregion/isaias-ny.html)
     
     </div>
     
-    ## [Isaias Batters New York Region, With a Million Losing Power](/2020/08/04/nyregion/nj-ny-Isaias-hurricane-storm.html)
+    ## [2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area](/2020/08/04/nyregion/isaias-ny.html)
     
-    Videos posted on social media showed at least one tornado touching
-    down in New
-    Jersey.
+    The storm that tore through New York City on Tuesday was second only
+    to Hurricane Sandy in knocking out service to Con Edison
+    customers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mihir
-    Zaveri</span></span>
+    <span class="css-1baulvz" itemprop="name">Mihir Zaveri</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Ed
+    Shanahan</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
-    Sanders for The New York
-    Times</span>](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
+        Sanders for The New York
+        Times</span>](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-thumbStandard.jpg)](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        
+        </div>
+        
+        The resignation of Dr. Oxiris Barbot, the commissioner since
+        2018, came after Mayor Bill de Blasio stripped her agency of a
+        key virus-tracing
+        program.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">J. David
+        Goodman</span></span>
+        
+        </div>
     
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-thumbStandard.jpg)](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
-    
-    </div>
-    
-    ## [N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
-    
-    The resignation of Dr. Oxiris Barbot, the commissioner since 2018,
-    came after Mayor Bill de Blasio stripped her agency of a key virus
-    tracing
-    program.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">J. David
-    Goodman</span></span>
-    
-    </div>
-
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
         Lane/EPA, via
         Shutterstock</span>](https://static01.nyt.com/images/2020/08/03/nyregion/00POLICEDATA/merlin_174653094_a9ca17cb-5305-4a9c-907b-1b2caaadcd37-videoLarge.jpg)
         
@@ -228,30 +256,6 @@ story](#after-sponsor)
         Feuer</span></span>
         
         </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
-        Masuike/The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbStandard.jpg)](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
-        
-        </div>
-        
-        Despite the pandemic, the social media giant leased all the
-        office space in the former main post office at Penn Station in
-        Midtown.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Matthew
-        Haag</span></span>
-        
-        </div>
 
 </div>
 
@@ -259,7 +263,25 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
+    Masuike/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+    
+    Despite the pandemic, the social media giant leased all the office
+    space in the former main post office at Penn Station in
+    Midtown.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Matthew
+    Haag</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
     Mills/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-videoLarge.jpg)
     
@@ -279,7 +301,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/nyregion/03salas-1/merlin_175108872_f48b9331-2145-4010-8684-75c41c4a349b-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/nyregion/03salas-1/merlin_175108872_f48b9331-2145-4010-8684-75c41c4a349b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -295,7 +317,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ### New York Today
+4.  ### New York Today
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
     Martinez for The New York
@@ -315,7 +337,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
     J. Blue for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/31/nyregion/00nyvoting-02/00nyvoting-02-videoLarge-v2.jpg)
     
@@ -331,25 +353,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jesse
     McKinley</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-    Alfiky/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/27/nyregion/00nyvirus-smallbusiness/00nyvirus-smallbusiness-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [One-Third of New York’s Small Businesses May Be Gone Forever](/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
-    
-    Small-business owners said they have exhausted federal and local
-    assistance and see no end in sight after months of sharp revenue
-    drops. Now, many are closing their shops and restaurants for
-    good.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Haag</span></span>
     
     </div>
 
@@ -409,6 +412,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Richtel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
     
     <div class="css-79elbk">
@@ -437,7 +475,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -473,7 +511,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -483,11 +521,11 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools
+    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
     
     Tens of millions of Americans have lost crucial jobless benefits,
     and lawmakers still can’t seem to agree on a relief measure.
@@ -506,7 +544,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -541,7 +579,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -576,7 +614,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -618,7 +656,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -655,7 +693,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -688,7 +726,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -710,43 +748,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emma G.
-    Fitzsimmons</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/realestate/coronavirus-roommate-renters.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/realestate/03renters1/merlin_175089951_ad28cb14-0ee4-44c8-82eb-944ad75dd910-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">renters</span>
-    
-    ## The Challenge: Finding a Roommate During a Pandemic
-    
-    With social distancing required, two new roommates discovered, it’s
-    a little like marrying someone before you meet.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kim Velsey</span>
+    By <span class="css-1n7hynb">Emma G. Fitzsimmons</span>
     
     </div>
     

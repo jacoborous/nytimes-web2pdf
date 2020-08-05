@@ -155,90 +155,102 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-threeByTwoMediumAt2X-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+    Harnik/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbStandard-v2.jpg)](/2020/08/04/us/isaias-storm-updates.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbStandard.jpg)](/2020/08/04/us/2020-census-ending-early.html)
     
     </div>
     
-    ## [Isaias Live Updates: Tornadoes Are a Threat as Storm Charges North](/2020/08/04/us/isaias-storm-updates.html)
+    ## [With Census Count Finishing Early, Fears of a Skewed Tally Rise](/2020/08/04/us/2020-census-ending-early.html)
     
-    At least two people were killed after a tornado touched down in
-    Bertie County, N.C., and caused significant damage to a neighborhood
-    there.
+    With 60 million households still uncounted, the bureau said it would
+    wrap up the survey a month early. Critics called it a bald move to
+    politicize the count in favor of
+    Republicans.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Michael Wines</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Richard
+    Fausset</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/00tribes-justice01/merlin_174879450_f5946007-96ca-4a36-bfa4-5af71c874eeb-jumbo.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
+        Milano for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04isaias-01/04isaias-01-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/00tribes-justice01/00tribes-justice01-thumbStandard.jpg)](/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04isaias-01/04isaias-01-thumbStandard.jpg)](/2020/08/04/us/hurricane-isaias-updates.html)
         
         </div>
         
-        ## [A Historic Supreme Court Ruling Upends Courts in Oklahoma](/2020/08/03/us/Supreme-court-Oklahoma-tribal-land-ruling.html)
+        ## [Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast](/2020/08/04/us/hurricane-isaias-updates.html)
         
-        Local prosecutors are referring criminal cases to the federal
-        and tribal courts, which are now flooded with new
-        cases.
+        Officials warned residents to stay out of harm’s way as at least
+        two people were killed by tornadoes, and two others from fallen
+        trees. Millions were left without
+        power.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jack
-        Healy</span></span>
+        <span class="css-1baulvz" itemprop="name">Michael
+        Venutolo-Mantovani</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Rick
+        Rojas</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
-        Robinson for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/merlin_175266675_9e971eee-3d10-4a98-88ee-a499b4648531-jumbo.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-threeByTwoMediumAt2X-v2.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/00blackdefund-03/00blackdefund-03-thumbStandard.jpg)](/2020/08/04/us/minneapolis-defund-police.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbStandard-v2.jpg)](/2020/08/04/us/isaias-storm-updates.html)
         
         </div>
         
-        ## [Distrust of the Minneapolis Police, and Also the Effort to Defund Them](/2020/08/04/us/minneapolis-defund-police.html)
+        ## [Isaias Reaches Canada as a Dwindling Storm](/2020/08/04/us/isaias-storm-updates.html)
         
-        Residents on Minneapolis’s North Side, which has a majority
-        Black population, have mixed opinions on the City Council’s
-        effort to significantly reduce the police
-        force.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">John
-        Eligon</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/merlin_175230825_510b9c1b-d6dd-4198-9601-f0ff0e6ca839-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-thumbStandard.jpg)](/2020/08/03/us/isaias-storm-updates.html)
-        
-        </div>
-        
-        ## [Hurricane Makes Landfall in North Carolina](/2020/08/03/us/isaias-storm-updates.html)
-        
-        Isaias regained strength into a Category 1 hurricane on Monday
-        night, bringing heavy winds and rain to the East Coast. Flash
-        flooding and tornadoes are possible.
+        At least two people were killed after a tornado touched down in
+        Bertie County, N.C., and two others in the United States were
+        killed by falling
+        trees.
         
         <span class="css-me3p27"></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+        Goldman/Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04VIRUS-TESTING-mass/merlin_174443316_57fadf4c-cbfd-45c0-b35b-8a68c9821b14-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04VIRUS-TESTING-mass/04VIRUS-TESTING-mass-thumbStandard.jpg)](/2020/08/04/us/virus-testing-delays.html)
+        
+        </div>
+        
+        ## [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](/2020/08/04/us/virus-testing-delays.html)
+        
+        A shortage of chemicals needed to test for the virus is part of
+        what is slowing turnaround
+        times.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Manny
+        Fernandez</span></span>
         
         </div>
 
@@ -296,24 +308,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html)
+    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04virus-ruraltexas/merlin_175264749_b521b6a7-6869-418b-bba4-07ec27cae42c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Like a Horror Movie’: A Small Border Hospital Battles the Coronavirus
+    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
     
-    The hospital in Starr County, Texas, had no I.C.U. at all, and only
-    one doctor on duty for each shift. Then the coronavirus began
-    surging through the Rio Grande Valley.
+    The upset of the veteran congressman from St. Louis sent tremors
+    though the Democratic establishment in Missouri and Washington, D.C.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Edgar
-    Sandoval</span>
+    By <span class="css-1n7hynb">Nicholas
+    Fandos</span>
     
     </div>
     
@@ -331,25 +342,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007272140/trump-stumbles-over-yosemite.html)
+    [](/2020/08/04/us/lamborghini-coronavirus-stimulus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/4xp-lamborghini/merlin_160627941_dc8e6d9d-876c-411b-9659-513038022edc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## Second Person Used Covid Relief Money to Buy a Lamborghini, Prosecutors Say
     
-    ## Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
-    
-    During a routine bill signing of the Great American Outdoors Act,
-    President Trump appeared to pronounce Yosemite as “Yo Semites.”
+    A Houston man who received more than $1.6 million bought a 2019
+    Lamborghini Urus, prosecutors said. Last week, a Miami man bought a
+    Lamborghini Huracán, according to the authorities.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Associated
-    Press</span>
+    By <span class="css-1n7hynb">Azi
+    Paybarah</span>
     
     </div>
     
@@ -367,24 +377,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/2020-census-ending-early.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-4-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## After Census Bureau Announces Early End to Its Count, Fears of a Skewed Tally Rise
-    
-    With 60 million households still uncounted, the bureau said it would
-    wrap up the survey a month early. Critics called it a bald move to
-    politicize the count in favor of Republicans.
+    ## Arizona Primary Election Results: Fourth Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael
-    Wines</span>
     
     </div>
     
@@ -402,25 +405,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-primary-elections.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
-    
-    Twin emergencies on two coasts this week — Hurricane Isaias and the
-    Apple Fire — offer a preview of life in a warming world and the
-    steady danger of overlapping disasters.
+    ## Live: Michigan State Primary Election Results 2020
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
-    Henry
-    Fountain</span>
     
     </div>
     
@@ -438,25 +433,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007271780/wyoming-hot-air-balloon-crash.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-8-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## 3 Hot Air Balloons Crash in Wyoming
-    
-    Video shows the aftermath of a tourist hot air balloon crash after a
-    strong gust of wind threw the balloons out of control.
+    ## Arizona Primary Election Results: Eighth Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The New York
-    Times</span>
     
     </div>
     
@@ -474,24 +461,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-10-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
-    
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record instead.
+    ## Michigan Primary Election Results: 10th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
     
     </div>
     
@@ -509,24 +489,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/ford-jim-hackett-james-farley.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-13-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Ford, Struggling in a Changing Industry, Replaces Its C.E.O.
-    
-    Jim Hackett, who failed to impress Wall Street, will be replaced by
-    James Farley, an auto industry veteran who started his career at
-    Toyota.
+    ## Michigan Primary Election Results: 13th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Neal E.
-    Boudette</span>
     
     </div>
     
@@ -544,26 +517,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/video/us/100000007271735/tropical-storm-isaias-carolinas.html)
+    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-11-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Tropical Storm Isaias Moves Up the East Coast
-    
-    Isaias, now a tropical storm, made landfall as a hurricane in North
-    Carolina and is causing widespread power outages as it cuts a path
-    north.
+    ## Michigan Primary Election Results: 11th Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Associated Press <span>and</span>
-    Reuters</span>
     
     </div>
     
@@ -581,26 +545,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-2-primary-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Square Feet</span>
-    
-    ## For Robots, It’s a Time to Shine (and Maybe Disinfect)
-    
-    The pandemic has turned cleaning and other mundane building tasks
-    into a challenge, stoking interest in machines as cost-effective
-    solutions.
+    ## Arizona Primary Election Results: Second Congressional District
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lisa
-    Prevost</span>
     
     </div>
     
@@ -618,24 +573,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/biden-vp-karen-bass-kamala-harris.html)
+    [](/interactive/2020/08/04/us/elections/results-arizona-primary-elections.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04basscatoday/merlin_175261437_21e95f0b-eb62-45c6-b3a5-cf7c8fdc54e6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">California Today</span>
-    
-    ## Could a Californian Be Vice President?
-    
-    Tuesday: Yes, and here’s what it would mean for the Golden State.
-    Also: California’s coronavirus data is slightly encouraging.
+    ## Live: Arizona State Primary Election Results 2020
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jill Cowan</span>
     
     </div>
     

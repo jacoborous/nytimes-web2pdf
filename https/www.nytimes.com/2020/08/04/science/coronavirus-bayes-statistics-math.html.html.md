@@ -118,6 +118,7 @@ Epidemiologist</span>
     </div>
 
   - 
+  - 
 
 </div>
 
@@ -254,8 +255,14 @@ Roberts</span>
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">2:30 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4,
+    2020
+    
+    </div>
 
   - 
     
@@ -272,6 +279,7 @@ Roberts</span>
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -365,7 +373,7 @@ this uncertainty through the model.”
 
 <div class="css-53u6y8">
 
-A textbook application of Bayes theorem is serology testing for
+A textbook application of Bayes’s theorem is serology testing for
 Covid-19, which looks for the presence of antibodies to the virus. All
 tests are imperfect, and the accuracy of an antibody test turns on many
 factors including,
@@ -389,21 +397,20 @@ disease.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:51:30.714Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
+  - [Novavax sees encouraging results from two studies of its
+    experimental
+    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 
@@ -434,11 +441,11 @@ updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=
 </div>
 
 The first SARS-CoV-2 antibody test approved by the F.D.A., in April,
-seemed to be wrong as often as it was right. With Bayes theorem, you can
-calculate what you really want to know: the probability that the test
-result is correct. As one
+seemed to be wrong as often as it was right. With Bayes’s theorem, you
+can calculate what you really want to know: the probability that the
+test result is correct. As one
 [commenter](https://twitter.com/Riderius/status/1246172832071135236) on
-Twitter put it: “Understanding Bayes’ theorem is a matter of life and
+Twitter put it: “Understanding Bayes’s theorem is a matter of life and
 death right now.”
 
 ## The logic of uncertainty
@@ -812,7 +819,7 @@ the bowels of Christ, think it possible you may be mistaken.”
 
 In the Bayesian world, Cromwell’s law means you should always “keep a
 bit back — with a little bit of probability, a little tiny bit — for the
-fact that you may be wrong, ”Dr. Spiegelhalter said. “Then if new
+fact that you may be wrong,” Dr. Spiegelhalter said. “Then if new
 evidence comes along that totally contradicts your main prior belief,
 you can quickly ditch what you thought before and lurch over to that new
 way of thinking.”

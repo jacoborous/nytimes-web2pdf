@@ -166,15 +166,39 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
-    Wright for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    Sullivan/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/business/04levandowski2/merlin_161433504_890e9630-5bd1-47f0-b55c-504c6980e87a-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Star Technologist Who Crossed Google Sentenced to 18 Months in Prison](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    
+    Anthony Levandowski, a onetime star Silicon Valley engineer of
+    self-driving cars, had pleaded guilty to stealing trade
+    secrets.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
+    Wright for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### Square Feet
     
     ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    
+    <div class="css-ajkwsy">
+    
+    [![](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbStandard.jpg)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    
+    </div>
     
     The pandemic has turned cleaning and other mundane building tasks
     into a challenge, stoking interest in machines as cost-effective
@@ -186,7 +210,7 @@ Money](/section/your-money)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
     Lam/Reuters</span>](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -207,30 +231,6 @@ Money](/section/your-money)
     <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
     Chen</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-    Henry for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [F.T.C. Investigating Twitter for Potential Privacy Violations](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
-    
-    <div class="css-ajkwsy">
-    
-    [![](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-thumbStandard.jpg)](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
-    
-    </div>
-    
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve
-    ads.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kate
-    Conger</span></span>
     
     </div>
 
@@ -407,6 +407,40 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of operation.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brooks Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/business/google-fitbit-europe.html)
     
     ## Google Faces European Inquiry Into Fitbit Acquisition
@@ -429,7 +463,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -464,7 +498,41 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    
+    The social media company said the agency was examining whether it
+    had misused people’s personal information to serve ads.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
     
     <div class="css-1cp3ece">
     
@@ -505,7 +573,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -539,7 +607,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -574,7 +642,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -610,7 +678,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -650,7 +718,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -671,77 +739,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Karen
-    Weise</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## This Tool Could Protect Your Photos From Facial Recognition
-    
-    Researchers at the University of Chicago want you to be able to post
-    selfies without worrying that the next Clearview AI will use them to
-    identify you.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kashmir
-    Hill</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## TikTok Ban? Creators and Fans Are Big Mad
-    
-    The uncertainty over the future of the wildly popular video app has
-    brought chaos to its user community — and to the entertainment and
-    advertising industries as well.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Taylor Lorenz</span>
+    By <span class="css-1n7hynb">Karen Weise</span>
     
     </div>
     

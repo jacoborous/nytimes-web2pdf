@@ -164,6 +164,696 @@ story](#after-top)
 
 <div>
 
+<div class="css-1g7y0i5 e1drnplw0">
+
+<div class="css-1ceswkc e1drnplw1">
+
+</div>
+
+<div class="css-f2fzwx e1drnplw2">
+
+<div data-aria-labelledby="modal-title" data-role="region">
+
+<div id="modal-title" class="css-mln36k">
+
+transcript
+
+</div>
+
+<div class="css-pbq7ev">
+
+</div>
+
+<span>Back to The
+Daily</span>
+
+<div class="css-f6lhej">
+
+<div class="css-1ialerq">
+
+<div class="css-1701swk">
+
+bars
+
+</div>
+
+<div>
+
+<div class="css-1t7yl1y">
+
+0:00/25:27
+
+</div>
+
+<div class="css-og85jy">
+
+\-25:27
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## Is the U.S. Ready to Vote by Mail?
+
+### Hosted by Michael Barbaro; produced by Luke Vander Ploeg and Rachel Quester; with help from Michael Simon Johnson; and edited by Lisa Chow
+
+#### What we’ve learned from the very different experiences of two states, Georgia and Montana.
+
+Tuesday, August 4th, 2020
+
+</div>
+
+  - michael barbaro  
+    From The New York Times, I’m Michael Barbaro. This is “The Daily.”
+
+  - \[music\]  
+    Today: The United States is preparing to hold its first socially
+    distant presidential election in history. Will it actually work? My
+    colleague, Reid Epstein, on what we’ve learned from the very
+    different experience of two states.
+    
+    It’s Tuesday, August 4.
+    
+    So Reid, it is precisely three months to the day until Election Day.
+    And from what you can tell, given the state of the pandemic, will
+    voting on November 3 at all resemble the way we have cast ballots in
+    the past?
+
+  - reid epstein  
+    For a lot of us, no.
+    
+    You know, the idea that people have that they wake up the morning of
+    Election Day and go to the middle school or a church or something
+    nearby and wait in line for a few minutes and vote, for a lot of us
+    that’s going to be replaced with opening your mailbox and seeing a
+    ballot that comes from your local board of elections. And sitting
+    down at the kitchen table and figuring out sort of who’s running for
+    what and looking for what they stand for, and filling in the ovals
+    as you see fit. And then when you’re done with that, you’ll either
+    put it back in the mailbox or you’ll drop it off in a ballot
+    collection box. And that will be how people vote. And it will take
+    place over a matter of weeks, and not just crammed in on Election
+    Day.
+
+  - michael barbaro  
+    And just to be clear, what you’re describing is mail-in voting. And
+    I want to make sure I understand exactly what that is, because I
+    think for a lot of people there is a familiarity with absentee
+    voting. And is that different?
+
+  - reid epstein  
+    I mean, it’s basically the same. A lot of us have received an
+    absentee ballot if we’re traveling for work or at school and not at
+    home. But mail-in voting is on a mass scale of absentee voting that
+    we’re going to see for this election.
+
+  - michael barbaro  
+    Right.
+    
+    And so what has been our experience in the United States with
+    mail-in voting up to this point?
+
+  - reid epstein  
+    It’s very different depending on where you live. There are five
+    states that have been conducting their elections entirely by mail —
+    Washington, Oregon, Hawaii, Utah and Colorado, where they send
+    ballots to every registered voter and people return them either
+    through the mail or in drop boxes. And so if you live in one of
+    those places, this year’s election will look pretty normal to you.
+    You’ll get your ballot. If you live in a Washington state you’ll get
+    a little booklet, which will be 80 to 100 pages with testimonials
+    from everyone who’s running for every office on the ballot —
+    dogcatcher to president of the United States — that you have a
+    chance to read and study. And you’ll fill it out at your leisure,
+    and as long as you have it returned by whatever the local deadline
+    is, your vote will count.
+
+  - michael barbaro  
+    And by all accounts, how well does mail-in voting work in those five
+    states?
+
+  - reid epstein  
+    It works great by almost all accounts from anybody you talk to in
+    those states, from both parties. It has increased turnout,
+    particularly among demographics of people who are least likely to
+    vote otherwise. I had a conversation last week with the Republican
+    state party chairman in Utah, who said that Utahns have been voting
+    by mail for over a decade, and that they have effective safeguards
+    and procedures in place to keep the voting on the up and up. And
+    that they don’t expect any problems there with mail voting this
+    fall, because they haven’t had any in the past.
+
+  - michael barbaro  
+    So mail-in voting is smooth in the states that have it. And of
+    course, many other states have some level of experience with
+    absentee ballots, which would seem to suggest there’s a pretty
+    straightforward path to taking mail-in voting nationwide for the
+    entire country in 2020.
+
+  - reid epstein  
+    You might think that, but it’s been proven to not be that simple.
+    And the best example of where things have gotten messy was in
+    Georgia. Georgia’s presidential primary was supposed to be back in
+    March. And a couple weeks before it was held, the secretary of
+    state, a Republican named Brad Raffensperger, postponed it to May.
+    And then a couple of weeks before the May primary, everything was
+    postponed to June, because they didn’t quite know what to do with
+    the pandemic. And after the second postponement, it was clear that
+    they needed to do something to alleviate what they expected to be a
+    crush of people voting on their primary day.
+    
+    And so they sent absentee ballot application forms to nearly 7
+    million active registered voters in Georgia in an effort to get
+    people to vote by mail and not come into either early voting centers
+    or Election Day voting sites.
+
+  - michael barbaro  
+    So 7 million people got applications for ballots, but not ballots
+    themselves?
+
+  - reid epstein  
+    That’s right.
+
+  - michael barbaro  
+    So how many people ultimately sought a ballot with these
+    applications in Georgia?
+
+  - reid epstein  
+    About a million and a half people returned the ballot applications
+    from the state to their county board of elections. And almost all of
+    those people received a ballot, but there were still tens of
+    thousands of people who requested ballots and didn’t receive them.
+    Either it didn’t show up, or it showed up after the election. Or it
+    showed up a malfunctioning ballot or a bad return envelope, or some
+    way that it couldn’t be returned properly. One example of that is
+    Stacey Abrams, who was the Democratic party nominee for governor in
+    2018.
+
+  - archived recording (stacey abrams)  
+    I applied for my absentee ballot in May when there was some delay in
+    receiving it. But when it finally arrived —
+
+reid epstein
+
+Received a ballot.
+
+  - archived recording (stacey abrams)  
+    — I filled out the ballot, completed it and got ready to put it in
+    the return envelope.
+
+reid epstein
+
+And the return envelope was sealed shut. And she talked about using an
+iron to try to unseal it.
+
+  - archived recording (stacey abrams)  
+    And I attempted to steam it open, because I’ve watched lots of
+    mystery shows. It did not work.
+
+michael barbaro
+
+Wow.
+
+reid epstein
+
+But was unsuccessful, and so she went and stood in line at an early
+voting site that Georgia had kept open for people to vote and was able
+to cast her ballot.
+
+  - archived recording (stacey abrams)  
+    Luckily for me, I live in an area where the lines were not terribly
+    long. But all I can think about are the people who did not receive
+    their ballots, who were forced instead into hours-long lines.
+
+reid epstein
+
+Jon Ossoff, who is the Democratic nominee for Senate from Georgia —
+
+  - archived recording (jon ossoff)  
+    My wife Alisha and I applied for our absentee ballots a month ago.
+    We wrote the county. We sent letters to the county. We sounded the
+    alarm publicly. We never got our ballots, and I’m on the ballot.
+
+reid epstein
+
+— waited five hours in line at a community swimming pool.
+
+  - archived recording (jon ossoff)  
+    We waited five hours to do so.
+
+reid epstein
+
+Because he never received his absentee ballot.
+
+  - archived recording (jon ossoff)  
+    And we are strong, so we can do that. But think of the seniors.
+
+reid epstein
+
+And so after he waits in line for five hours and votes, he gets home.
+And what’s come in the mail after a month? Is his absentee ballot. And
+then once Election Day came in Georgia —
+
+  - archived recording  
+    Now to the Primary Day chaos — hundreds of voters waiting in
+    hours-long lines.
+
+reid epstein
+
+You had limits of how many people could be inside those rooms at
+churches and schools, because of the pandemic.
+
+  - archived recording  
+    Voters told us they waited for as long as four hours to get inside
+    to vote.
+
+reid epstein
+
+So you had images of people waiting five, six hours in line outside the
+buildings in the summer Georgia heat.
+
+  - archived recording  
+    We saw two voters turn around and drive off because the line was so
+    long.
+
+reid epstein
+
+And not indoors waiting to vote inside.
+
+  - archived recording (voter)  
+    Once I got inside, I think the most frustrating part was that
+    several of the machines were broken. It seemed like maybe half of
+    the machines were down.
+
+  - archived recording (poll worker)  
+    Equipment was delivered late. Some of it’s not charged up. The
+    check-in folks aren’t really clear about what to do.
+
+michael barbaro
+
+Why do you think things went so badly in Georgia? Both the mail-in and
+the in-person voting?
+
+reid epstein
+
+The bottom line, really, is that it’s really hard to run either a mail
+election or an in-person election. And doing them both at the same time,
+without really the resources to do either, is a recipe for disaster. The
+elections administrator for Fulton County, which includes Atlanta in
+Georgia, the night of the primary, said during a Zoom press conference —
+
+  - archived recording (election administrator)  
+    The absentee-by-mail process, it was an election in and of itself.
+
+reid epstein
+
+He was asked to run two elections at once.
+
+  - archived recording (election administrator)  
+    We became an absentee-by-mail state. We still had to do our full
+    complement of Election Day infrastructure. And it stretched us.
+
+reid epstein
+
+And that he didn’t have the resources or the capacity to do that. And
+that was precisely what led to all of the problems that people
+experienced on their primary day.
+
+  - archived recording (election administrator)  
+    We ran into a lot of challenges this time. So I think we are going
+    to learn from this and move forward.
+
+michael barbaro
+
+So Georgia seems almost like a case study of how not to hold an election
+in the middle of a pandemic.
+
+reid epstein
+
+Yeah. I mean, they kind of did all elements of what you would think of
+an election, plus the mail-in voting, but didn’t really do any of them
+well. And didn’t really devote adequate resources to any part of it. And
+in the end, the result was about as bad an experience as you can get.
+
+\[music\]
+
+michael barbaro
+
+We’ll be right back.
+
+Reid, did any state get a pandemic primary right over the past couple of
+weeks and months? Were there any anti-Georgias?
+
+reid epstein
+
+I mean, the best example is probably Montana. The governor there, Steve
+Bullock, by executive order gave the state’s 56 counties the authority
+to mail ballots to all of their registered voters. And every registered
+voter in the state got a ballot in the mail.
+
+michael barbaro
+
+And just to be clear, they got a ballot, not a ballot application?
+
+reid epstein
+
+They got a ballot, and not the application. So they skipped the step
+that Georgia and other states required. And so voters there got the
+ballots in the mail. They filled them out. And as long as they were
+returned before the deadline, the ballots counted. And in the end,
+Montana had the highest voter turnout of any state in this year’s
+presidential primary.
+
+michael barbaro
+
+So what happened with in-person voting in Montana?
+
+reid epstein
+
+They kept some of it, but not in a form that would be really
+recognizable in a pre-pandemic world. There were boards of elections’
+offices that were open for people who needed to change their
+registration or cast a ballot, but for the vast majority of voters in
+Montana the election took place through the mail.
+
+michael barbaro
+
+Reid, I’m mindful that as smooth as this all seemed to go in Montana,
+Montana is not necessarily representative of the whole country, right?
+It has a pretty small population.
+
+reid epstein
+
+That’s right. There’s about the same amount of people in the state of
+Montana as there are in Fulton County in Georgia, in the state’s biggest
+county. And so it is a much more challenging situation to run an
+election with a lot more people than it is in a small state.
+
+michael barbaro
+
+So how useful is Montana as a model?
+
+reid epstein
+
+I mean, what Montana shows is that if you give people ballots and don’t
+make them jump through hoops to get to them, you’re more likely to have
+more of them return them and vote.
+
+michael barbaro
+
+Meaning just mailing them the actual ballots, and not making them apply
+and then get the ballots the way Georgia did?
+
+reid epstein
+
+That’s right.
+
+michael barbaro
+
+So kind of in summary, mail-in voting is complicated, especially
+complicated in big states. But it can work when local authorities get
+ballots into people’s hands. In other words, this can work under ideal
+circumstances around the country?
+
+reid epstein
+
+It can work when there is a concerted effort by local elections
+officials to make it work.
+
+  - archived recording (donald trump)  
+    If we went to mail-in balloting, our election all over the world
+    would look as a total joke. It would be a total joke.
+
+reid epstein
+
+What’s going on in this country now is you have the president who is
+making a concerted effort to make it not work.
+
+  - archived recording (donald trump)  
+    And they’re in all the mailboxes. And kids go and they raid the
+    mailboxes, and they hand them to people that are signing the ballots
+    down the end of the street, which is happening. They grab the
+    ballots. You don’t think that happens?
+
+reid epstein
+
+He regularly tweets and speaks about how mail voting is sort of fraud
+filled, and a recipe for disaster, and a reason Republicans won’t win.
+
+  - archived recording (donald trump)  
+    In some cases, they won’t sell them, like, to a Republican
+    community, a conservative community. They don’t happen to send the
+    ballots to those communities. And there’s no way of checking. No.
+    You have to go and you have to vote.
+
+reid epstein
+
+And so it hasn’t taken long for this idea to take hold among Republican
+voters, particularly base Republican voters, that there is something
+inherently wrong with voting by mail.
+
+michael barbaro
+
+And is there any documented evidence of that? That mail-in voting is
+somehow more open to fraud?
+
+reid epstein
+
+No, there’s not. There have been a couple of isolated instances of
+what’s called “ballot harvesting.” We saw it in a congressional race
+in North Carolina a couple of years ago from the Republican side. But
+most of what you hear when people describe fraud in the vote-by-mail
+system are either old wives’ tales or fantastic stories of an apartment
+building with 30 ballots in the mailbox. Things that have been chain
+letters or Facebook memes that aren’t necessarily grounded in any real
+evidence.
+
+michael barbaro
+
+So how do you explain why the president is claiming that this is a
+problematic mode of voting? What accounts for that?
+
+reid epstein
+
+I mean, there is a widespread belief among Republican voters and some
+Republican elected officials that allowing more people to vote will be
+advantageous to Democrats. And so taken in that context, it makes sense
+that he would resist some of the push toward mail-in voting, because it
+does make it easier for a lot more people to vote.
+
+michael barbaro
+
+Reid, is there a version of this where the president seems to be
+discouraging mail-in voting, but mail-in voting becomes the predominant
+way that voting occurs in this fall’s election? And therefore, wouldn’t
+that mean that the president was telling his own voters, don’t trust the
+most important way of voting for my re-election, for his re-election?
+
+reid epstein
+
+There’s a lot of concern about that happening already. You know, you see
+in states that aren’t entirely vote-by-mail, but where it’s a
+predominant way of voting — like Florida and Arizona, that have large
+populations of older Republican voters — that Republican officials in
+those states have been trying to push a message that’s expressly counter
+to what the president has been saying about voting by mail. That we’ve
+seen in Utah, where the Republican state chairman told me that their
+system is not like what happens in other states, and that President
+Trump, in describing fraud elsewhere, must be talking about somewhere
+else other than Utah.
+
+michael barbaro
+
+So in other words, these officials are trying to tell their voters trust
+the system, even if the president doesn’t tell you to trust it.
+
+reid epstein
+
+Trust the system here, because the system where you live is functional,
+and the president is talking about other places. But that sort of nuance
+is lost on a lot of voters who, you know, hear what the president says
+and are generally disinclined to believe people who disagree with him,
+particularly within their own party, because of the way that the party
+and the president have functioned over the last four years.
+
+michael barbaro
+
+So couldn’t the president be actually hurting his own re-election
+chances by doing this?
+
+reid epstein
+
+He’s certainly hurting the enthusiasm for voting by mail among his
+Republican supporters.
+
+michael barbaro
+
+So Reid, back to this moment — three months to the day that we will have
+the presidential election. Where would you say the whole country is? Are
+most states looking like Georgia? You know, this is going to be a mess?
+Or are a lot of states looking like Montana in terms of their
+preparations for this election? Which is to say, they can pull it off.
+
+reid epstein
+
+I think we have more states that at the moment are looking like Georgia
+than Montana. Of the 45 states that have some sort of in-person voting,
+almost all of them are going to open polling places for people to show
+up at. But as we’ve seen, it’s really hard to do two elections at once.
+And it’s complex. It involves a lot of resources. And most of these
+states haven’t done a big general election where most of their voters
+cast ballots in the mail. It’s going to be new for the voters. It’s
+going to be new for the elections administrators. And it’s going to be
+new for the people that count the ballots on election night.
+
+michael barbaro
+
+And Reid, what are the likely consequences of so many states trying this
+for the first time?
+
+reid epstein
+
+I mean, the first obvious consequence is on November 3, in the evening
+when we’re used to turning on television and the internet and seeing the
+results of the elections come in, we may not have them. And what
+President Trump and Joe Biden do about declaring victory or not. Trump
+has said the election should be called on election night, no matter
+what. But we know that there will be millions and millions of ballots
+that aren’t counted on election night, whether it’s because states have
+voting rules that say your ballot counts as long as it’s postmarked by
+Election Day, or because it takes some of these states longer to count
+an absentee ballot that came in the mail than it would have taken them
+to count a ballot that was marked and delivered into a machine at a
+polling place. And all of that is going to have a real significant
+impact on what we know about the presidential contest, the Senate races
+and races all down the ballot.
+
+michael barbaro
+
+And of course, that’s just when we know the results. If this election is
+as messy and complicated as everything you’re saying suggests it might
+be, I wonder if that raises a much bigger question? Which is how much do
+you think the country will trust the outcome of the elections on
+November 3 if voting ends up feeling kind of haphazard?
+
+reid epstein
+
+I mean, a lot of that will depend on people’s experiences heading into
+the election. Whether a lot of people have problems voting by mail, or
+don’t even try to vote by mail, or have to wait in line for hours at
+either early voting centers or on Election Day. You know, a lot of the
+feelings about this was going to be dictated frankly by what the
+president says and does. You know, if the president wakes up on the
+morning of November 4 and says, I don’t care that there are more votes
+left to be counted, I won. Then you can sort of imagine how that’s going
+to play out.
+
+Or if there’s a state, like take Arizona, where it appears that
+President Trump has won on election night, but four days later they’ve
+received more votes and it flips to Joe Biden and that’s the deciding
+state, there’s innumerable chaos that could happen from that. And so it
+doesn’t take much to make this system look like it’s chaotic, even
+though in a lot of times it’s either sort of how the system is designed
+to work, because mail-in-voting just does take longer. Even though it’s
+a more efficient way of getting more people to vote, it can take longer
+to tabulate the results from that.
+
+michael barbaro
+
+So you’re basically telling us to be patient. And Americans are not
+patient.
+
+reid epstein
+
+They’re not. You know, I mean if you want to not stress out about the
+results of the election, buy a plane ticket to some place without
+internet access or cell signal on November 2 and come back a week and a
+half later.
+
+michael barbaro
+
+Or three weeks or four weeks.
+
+reid epstein
+
+Go to the Galapagos Islands or somewhere, and come back in a couple of
+weeks. And by then, you’ll probably know who won.
+
+michael barbaro
+
+\[LAUGHS\] Well, Reid, thank you very much.
+
+reid epstein
+
+Thank you, Michael.
+
+michael barbaro
+
+On Monday, the Democratic governor of Nevada, Steve Sisolak, signed a
+law that would require sending ballots to every registered voter in the
+state, saying that it would ensure, quote, “the safest, most accessible
+election possible under these unprecedented circumstances.” In response,
+President Trump threatened legal action to try to block the measure.
+
+  - archived recording (donald trump)  
+    Well, there’s never been a push like this for mail-in ballots, and
+    if you look at —
+
+michael barbaro
+
+During a news conference at the White House, Trump was asked whether he
+would consider restricting mail-in voting nationwide through an
+executive order.
+
+  - archived recording (donald trump)  
+    Universal mail-in ballots is going to be a great embarrassment to
+    our country. I have the right to do it. We haven’t gotten there yet,
+    but we’ll see what happens. We will be suing in Nevada.
+
+michael barbaro
+
+We’ll be right back.
+
+\[music\]
+
+Here’s what else you need to know today. On Monday, the Manhattan
+District Attorney, Cy Vance, suggested that his investigation into
+President Trump’s finances and company is much broader than previously
+known. A new court filing indicates that the investigation, which was
+thought to focus on hush money payments made to women during the 2016
+campaign, may actually be examining a range of possible criminal
+activity, including potential bank and insurance fraud. The Supreme
+Court sided with Vance in a major ruling last month, saying that the
+president lacked the legal basis to block the district attorney from
+seeking years of his tax records as part of the investigation.
+
+And, The Times reports that nearly 3,000 small businesses in New York
+City have permanently closed because of the pandemic — more than in any
+U.S. city. A new report estimates that one third of the city’s small
+businesses, or about 75,000 of them, may never reopen because of
+lockdowns and lost revenue.
+
+That’s it for “The Daily.” I’m Michael Barbaro. See you
+tomorrow.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div style="position:absolute;width:0;height:0;visibility:hidden;display:none">
 
 </div>
@@ -212,6 +902,12 @@ Daily</span></span>](https://www.nytimes.com/column/the-daily)<span class="css-1
 Luke Vander Ploeg and Rachel Quester; with help from Michael Simon
 Johnson; and edited by Lisa Chow</span>
 
+<div class="css-1vd84sn">
+
+<span class="css-16bt4xd">Transcript</span>
+
+</div>
+
 </div>
 
 <div class="css-1g7y0i5 e1drnplw0">
@@ -234,7 +930,8 @@ transcript
 
 </div>
 
-<span>Back to The Daily</span>
+<span>Back to The
+Daily</span>
 
 <div class="css-f6lhej">
 
@@ -250,7 +947,7 @@ bars
 
 <div class="css-1t7yl1y">
 
-0:00/0:00
+0:00/25:27
 
 </div>
 
@@ -263,6 +960,636 @@ bars
 </div>
 
 </div>
+
+</div>
+
+<div class="css-15fbio0">
+
+<div class="css-1p4nyns">
+
+transcript
+
+## Is the U.S. Ready to Vote by Mail?
+
+### Hosted by Michael Barbaro; produced by Luke Vander Ploeg and Rachel Quester; with help from Michael Simon Johnson; and edited by Lisa Chow
+
+#### What we’ve learned from the very different experiences of two states, Georgia and Montana.
+
+Tuesday, August 4th, 2020
+
+</div>
+
+  - michael barbaro  
+    From The New York Times, I’m Michael Barbaro. This is “The Daily.”
+
+  - \[music\]  
+    Today: The United States is preparing to hold its first socially
+    distant presidential election in history. Will it actually work? My
+    colleague, Reid Epstein, on what we’ve learned from the very
+    different experience of two states.
+    
+    It’s Tuesday, August 4.
+    
+    So Reid, it is precisely three months to the day until Election Day.
+    And from what you can tell, given the state of the pandemic, will
+    voting on November 3 at all resemble the way we have cast ballots in
+    the past?
+
+  - reid epstein  
+    For a lot of us, no.
+    
+    You know, the idea that people have that they wake up the morning of
+    Election Day and go to the middle school or a church or something
+    nearby and wait in line for a few minutes and vote, for a lot of us
+    that’s going to be replaced with opening your mailbox and seeing a
+    ballot that comes from your local board of elections. And sitting
+    down at the kitchen table and figuring out sort of who’s running for
+    what and looking for what they stand for, and filling in the ovals
+    as you see fit. And then when you’re done with that, you’ll either
+    put it back in the mailbox or you’ll drop it off in a ballot
+    collection box. And that will be how people vote. And it will take
+    place over a matter of weeks, and not just crammed in on Election
+    Day.
+
+  - michael barbaro  
+    And just to be clear, what you’re describing is mail-in voting. And
+    I want to make sure I understand exactly what that is, because I
+    think for a lot of people there is a familiarity with absentee
+    voting. And is that different?
+
+  - reid epstein  
+    I mean, it’s basically the same. A lot of us have received an
+    absentee ballot if we’re traveling for work or at school and not at
+    home. But mail-in voting is on a mass scale of absentee voting that
+    we’re going to see for this election.
+
+  - michael barbaro  
+    Right.
+    
+    And so what has been our experience in the United States with
+    mail-in voting up to this point?
+
+  - reid epstein  
+    It’s very different depending on where you live. There are five
+    states that have been conducting their elections entirely by mail —
+    Washington, Oregon, Hawaii, Utah and Colorado, where they send
+    ballots to every registered voter and people return them either
+    through the mail or in drop boxes. And so if you live in one of
+    those places, this year’s election will look pretty normal to you.
+    You’ll get your ballot. If you live in a Washington state you’ll get
+    a little booklet, which will be 80 to 100 pages with testimonials
+    from everyone who’s running for every office on the ballot —
+    dogcatcher to president of the United States — that you have a
+    chance to read and study. And you’ll fill it out at your leisure,
+    and as long as you have it returned by whatever the local deadline
+    is, your vote will count.
+
+  - michael barbaro  
+    And by all accounts, how well does mail-in voting work in those five
+    states?
+
+  - reid epstein  
+    It works great by almost all accounts from anybody you talk to in
+    those states, from both parties. It has increased turnout,
+    particularly among demographics of people who are least likely to
+    vote otherwise. I had a conversation last week with the Republican
+    state party chairman in Utah, who said that Utahns have been voting
+    by mail for over a decade, and that they have effective safeguards
+    and procedures in place to keep the voting on the up and up. And
+    that they don’t expect any problems there with mail voting this
+    fall, because they haven’t had any in the past.
+
+  - michael barbaro  
+    So mail-in voting is smooth in the states that have it. And of
+    course, many other states have some level of experience with
+    absentee ballots, which would seem to suggest there’s a pretty
+    straightforward path to taking mail-in voting nationwide for the
+    entire country in 2020.
+
+  - reid epstein  
+    You might think that, but it’s been proven to not be that simple.
+    And the best example of where things have gotten messy was in
+    Georgia. Georgia’s presidential primary was supposed to be back in
+    March. And a couple weeks before it was held, the secretary of
+    state, a Republican named Brad Raffensperger, postponed it to May.
+    And then a couple of weeks before the May primary, everything was
+    postponed to June, because they didn’t quite know what to do with
+    the pandemic. And after the second postponement, it was clear that
+    they needed to do something to alleviate what they expected to be a
+    crush of people voting on their primary day.
+    
+    And so they sent absentee ballot application forms to nearly 7
+    million active registered voters in Georgia in an effort to get
+    people to vote by mail and not come into either early voting centers
+    or Election Day voting sites.
+
+  - michael barbaro  
+    So 7 million people got applications for ballots, but not ballots
+    themselves?
+
+  - reid epstein  
+    That’s right.
+
+  - michael barbaro  
+    So how many people ultimately sought a ballot with these
+    applications in Georgia?
+
+  - reid epstein  
+    About a million and a half people returned the ballot applications
+    from the state to their county board of elections. And almost all of
+    those people received a ballot, but there were still tens of
+    thousands of people who requested ballots and didn’t receive them.
+    Either it didn’t show up, or it showed up after the election. Or it
+    showed up a malfunctioning ballot or a bad return envelope, or some
+    way that it couldn’t be returned properly. One example of that is
+    Stacey Abrams, who was the Democratic party nominee for governor in
+    2018.
+
+  - archived recording (stacey abrams)  
+    I applied for my absentee ballot in May when there was some delay in
+    receiving it. But when it finally arrived —
+
+reid epstein
+
+Received a ballot.
+
+  - archived recording (stacey abrams)  
+    — I filled out the ballot, completed it and got ready to put it in
+    the return envelope.
+
+reid epstein
+
+And the return envelope was sealed shut. And she talked about using an
+iron to try to unseal it.
+
+  - archived recording (stacey abrams)  
+    And I attempted to steam it open, because I’ve watched lots of
+    mystery shows. It did not work.
+
+michael barbaro
+
+Wow.
+
+reid epstein
+
+But was unsuccessful, and so she went and stood in line at an early
+voting site that Georgia had kept open for people to vote and was able
+to cast her ballot.
+
+  - archived recording (stacey abrams)  
+    Luckily for me, I live in an area where the lines were not terribly
+    long. But all I can think about are the people who did not receive
+    their ballots, who were forced instead into hours-long lines.
+
+reid epstein
+
+Jon Ossoff, who is the Democratic nominee for Senate from Georgia —
+
+  - archived recording (jon ossoff)  
+    My wife Alisha and I applied for our absentee ballots a month ago.
+    We wrote the county. We sent letters to the county. We sounded the
+    alarm publicly. We never got our ballots, and I’m on the ballot.
+
+reid epstein
+
+— waited five hours in line at a community swimming pool.
+
+  - archived recording (jon ossoff)  
+    We waited five hours to do so.
+
+reid epstein
+
+Because he never received his absentee ballot.
+
+  - archived recording (jon ossoff)  
+    And we are strong, so we can do that. But think of the seniors.
+
+reid epstein
+
+And so after he waits in line for five hours and votes, he gets home.
+And what’s come in the mail after a month? Is his absentee ballot. And
+then once Election Day came in Georgia —
+
+  - archived recording  
+    Now to the Primary Day chaos — hundreds of voters waiting in
+    hours-long lines.
+
+reid epstein
+
+You had limits of how many people could be inside those rooms at
+churches and schools, because of the pandemic.
+
+  - archived recording  
+    Voters told us they waited for as long as four hours to get inside
+    to vote.
+
+reid epstein
+
+So you had images of people waiting five, six hours in line outside the
+buildings in the summer Georgia heat.
+
+  - archived recording  
+    We saw two voters turn around and drive off because the line was so
+    long.
+
+reid epstein
+
+And not indoors waiting to vote inside.
+
+  - archived recording (voter)  
+    Once I got inside, I think the most frustrating part was that
+    several of the machines were broken. It seemed like maybe half of
+    the machines were down.
+
+  - archived recording (poll worker)  
+    Equipment was delivered late. Some of it’s not charged up. The
+    check-in folks aren’t really clear about what to do.
+
+michael barbaro
+
+Why do you think things went so badly in Georgia? Both the mail-in and
+the in-person voting?
+
+reid epstein
+
+The bottom line, really, is that it’s really hard to run either a mail
+election or an in-person election. And doing them both at the same time,
+without really the resources to do either, is a recipe for disaster. The
+elections administrator for Fulton County, which includes Atlanta in
+Georgia, the night of the primary, said during a Zoom press conference —
+
+  - archived recording (election administrator)  
+    The absentee-by-mail process, it was an election in and of itself.
+
+reid epstein
+
+He was asked to run two elections at once.
+
+  - archived recording (election administrator)  
+    We became an absentee-by-mail state. We still had to do our full
+    complement of Election Day infrastructure. And it stretched us.
+
+reid epstein
+
+And that he didn’t have the resources or the capacity to do that. And
+that was precisely what led to all of the problems that people
+experienced on their primary day.
+
+  - archived recording (election administrator)  
+    We ran into a lot of challenges this time. So I think we are going
+    to learn from this and move forward.
+
+michael barbaro
+
+So Georgia seems almost like a case study of how not to hold an election
+in the middle of a pandemic.
+
+reid epstein
+
+Yeah. I mean, they kind of did all elements of what you would think of
+an election, plus the mail-in voting, but didn’t really do any of them
+well. And didn’t really devote adequate resources to any part of it. And
+in the end, the result was about as bad an experience as you can get.
+
+\[music\]
+
+michael barbaro
+
+We’ll be right back.
+
+Reid, did any state get a pandemic primary right over the past couple of
+weeks and months? Were there any anti-Georgias?
+
+reid epstein
+
+I mean, the best example is probably Montana. The governor there, Steve
+Bullock, by executive order gave the state’s 56 counties the authority
+to mail ballots to all of their registered voters. And every registered
+voter in the state got a ballot in the mail.
+
+michael barbaro
+
+And just to be clear, they got a ballot, not a ballot application?
+
+reid epstein
+
+They got a ballot, and not the application. So they skipped the step
+that Georgia and other states required. And so voters there got the
+ballots in the mail. They filled them out. And as long as they were
+returned before the deadline, the ballots counted. And in the end,
+Montana had the highest voter turnout of any state in this year’s
+presidential primary.
+
+michael barbaro
+
+So what happened with in-person voting in Montana?
+
+reid epstein
+
+They kept some of it, but not in a form that would be really
+recognizable in a pre-pandemic world. There were boards of elections’
+offices that were open for people who needed to change their
+registration or cast a ballot, but for the vast majority of voters in
+Montana the election took place through the mail.
+
+michael barbaro
+
+Reid, I’m mindful that as smooth as this all seemed to go in Montana,
+Montana is not necessarily representative of the whole country, right?
+It has a pretty small population.
+
+reid epstein
+
+That’s right. There’s about the same amount of people in the state of
+Montana as there are in Fulton County in Georgia, in the state’s biggest
+county. And so it is a much more challenging situation to run an
+election with a lot more people than it is in a small state.
+
+michael barbaro
+
+So how useful is Montana as a model?
+
+reid epstein
+
+I mean, what Montana shows is that if you give people ballots and don’t
+make them jump through hoops to get to them, you’re more likely to have
+more of them return them and vote.
+
+michael barbaro
+
+Meaning just mailing them the actual ballots, and not making them apply
+and then get the ballots the way Georgia did?
+
+reid epstein
+
+That’s right.
+
+michael barbaro
+
+So kind of in summary, mail-in voting is complicated, especially
+complicated in big states. But it can work when local authorities get
+ballots into people’s hands. In other words, this can work under ideal
+circumstances around the country?
+
+reid epstein
+
+It can work when there is a concerted effort by local elections
+officials to make it work.
+
+  - archived recording (donald trump)  
+    If we went to mail-in balloting, our election all over the world
+    would look as a total joke. It would be a total joke.
+
+reid epstein
+
+What’s going on in this country now is you have the president who is
+making a concerted effort to make it not work.
+
+  - archived recording (donald trump)  
+    And they’re in all the mailboxes. And kids go and they raid the
+    mailboxes, and they hand them to people that are signing the ballots
+    down the end of the street, which is happening. They grab the
+    ballots. You don’t think that happens?
+
+reid epstein
+
+He regularly tweets and speaks about how mail voting is sort of fraud
+filled, and a recipe for disaster, and a reason Republicans won’t win.
+
+  - archived recording (donald trump)  
+    In some cases, they won’t sell them, like, to a Republican
+    community, a conservative community. They don’t happen to send the
+    ballots to those communities. And there’s no way of checking. No.
+    You have to go and you have to vote.
+
+reid epstein
+
+And so it hasn’t taken long for this idea to take hold among Republican
+voters, particularly base Republican voters, that there is something
+inherently wrong with voting by mail.
+
+michael barbaro
+
+And is there any documented evidence of that? That mail-in voting is
+somehow more open to fraud?
+
+reid epstein
+
+No, there’s not. There have been a couple of isolated instances of
+what’s called “ballot harvesting.” We saw it in a congressional race
+in North Carolina a couple of years ago from the Republican side. But
+most of what you hear when people describe fraud in the vote-by-mail
+system are either old wives’ tales or fantastic stories of an apartment
+building with 30 ballots in the mailbox. Things that have been chain
+letters or Facebook memes that aren’t necessarily grounded in any real
+evidence.
+
+michael barbaro
+
+So how do you explain why the president is claiming that this is a
+problematic mode of voting? What accounts for that?
+
+reid epstein
+
+I mean, there is a widespread belief among Republican voters and some
+Republican elected officials that allowing more people to vote will be
+advantageous to Democrats. And so taken in that context, it makes sense
+that he would resist some of the push toward mail-in voting, because it
+does make it easier for a lot more people to vote.
+
+michael barbaro
+
+Reid, is there a version of this where the president seems to be
+discouraging mail-in voting, but mail-in voting becomes the predominant
+way that voting occurs in this fall’s election? And therefore, wouldn’t
+that mean that the president was telling his own voters, don’t trust the
+most important way of voting for my re-election, for his re-election?
+
+reid epstein
+
+There’s a lot of concern about that happening already. You know, you see
+in states that aren’t entirely vote-by-mail, but where it’s a
+predominant way of voting — like Florida and Arizona, that have large
+populations of older Republican voters — that Republican officials in
+those states have been trying to push a message that’s expressly counter
+to what the president has been saying about voting by mail. That we’ve
+seen in Utah, where the Republican state chairman told me that their
+system is not like what happens in other states, and that President
+Trump, in describing fraud elsewhere, must be talking about somewhere
+else other than Utah.
+
+michael barbaro
+
+So in other words, these officials are trying to tell their voters trust
+the system, even if the president doesn’t tell you to trust it.
+
+reid epstein
+
+Trust the system here, because the system where you live is functional,
+and the president is talking about other places. But that sort of nuance
+is lost on a lot of voters who, you know, hear what the president says
+and are generally disinclined to believe people who disagree with him,
+particularly within their own party, because of the way that the party
+and the president have functioned over the last four years.
+
+michael barbaro
+
+So couldn’t the president be actually hurting his own re-election
+chances by doing this?
+
+reid epstein
+
+He’s certainly hurting the enthusiasm for voting by mail among his
+Republican supporters.
+
+michael barbaro
+
+So Reid, back to this moment — three months to the day that we will have
+the presidential election. Where would you say the whole country is? Are
+most states looking like Georgia? You know, this is going to be a mess?
+Or are a lot of states looking like Montana in terms of their
+preparations for this election? Which is to say, they can pull it off.
+
+reid epstein
+
+I think we have more states that at the moment are looking like Georgia
+than Montana. Of the 45 states that have some sort of in-person voting,
+almost all of them are going to open polling places for people to show
+up at. But as we’ve seen, it’s really hard to do two elections at once.
+And it’s complex. It involves a lot of resources. And most of these
+states haven’t done a big general election where most of their voters
+cast ballots in the mail. It’s going to be new for the voters. It’s
+going to be new for the elections administrators. And it’s going to be
+new for the people that count the ballots on election night.
+
+michael barbaro
+
+And Reid, what are the likely consequences of so many states trying this
+for the first time?
+
+reid epstein
+
+I mean, the first obvious consequence is on November 3, in the evening
+when we’re used to turning on television and the internet and seeing the
+results of the elections come in, we may not have them. And what
+President Trump and Joe Biden do about declaring victory or not. Trump
+has said the election should be called on election night, no matter
+what. But we know that there will be millions and millions of ballots
+that aren’t counted on election night, whether it’s because states have
+voting rules that say your ballot counts as long as it’s postmarked by
+Election Day, or because it takes some of these states longer to count
+an absentee ballot that came in the mail than it would have taken them
+to count a ballot that was marked and delivered into a machine at a
+polling place. And all of that is going to have a real significant
+impact on what we know about the presidential contest, the Senate races
+and races all down the ballot.
+
+michael barbaro
+
+And of course, that’s just when we know the results. If this election is
+as messy and complicated as everything you’re saying suggests it might
+be, I wonder if that raises a much bigger question? Which is how much do
+you think the country will trust the outcome of the elections on
+November 3 if voting ends up feeling kind of haphazard?
+
+reid epstein
+
+I mean, a lot of that will depend on people’s experiences heading into
+the election. Whether a lot of people have problems voting by mail, or
+don’t even try to vote by mail, or have to wait in line for hours at
+either early voting centers or on Election Day. You know, a lot of the
+feelings about this was going to be dictated frankly by what the
+president says and does. You know, if the president wakes up on the
+morning of November 4 and says, I don’t care that there are more votes
+left to be counted, I won. Then you can sort of imagine how that’s going
+to play out.
+
+Or if there’s a state, like take Arizona, where it appears that
+President Trump has won on election night, but four days later they’ve
+received more votes and it flips to Joe Biden and that’s the deciding
+state, there’s innumerable chaos that could happen from that. And so it
+doesn’t take much to make this system look like it’s chaotic, even
+though in a lot of times it’s either sort of how the system is designed
+to work, because mail-in-voting just does take longer. Even though it’s
+a more efficient way of getting more people to vote, it can take longer
+to tabulate the results from that.
+
+michael barbaro
+
+So you’re basically telling us to be patient. And Americans are not
+patient.
+
+reid epstein
+
+They’re not. You know, I mean if you want to not stress out about the
+results of the election, buy a plane ticket to some place without
+internet access or cell signal on November 2 and come back a week and a
+half later.
+
+michael barbaro
+
+Or three weeks or four weeks.
+
+reid epstein
+
+Go to the Galapagos Islands or somewhere, and come back in a couple of
+weeks. And by then, you’ll probably know who won.
+
+michael barbaro
+
+\[LAUGHS\] Well, Reid, thank you very much.
+
+reid epstein
+
+Thank you, Michael.
+
+michael barbaro
+
+On Monday, the Democratic governor of Nevada, Steve Sisolak, signed a
+law that would require sending ballots to every registered voter in the
+state, saying that it would ensure, quote, “the safest, most accessible
+election possible under these unprecedented circumstances.” In response,
+President Trump threatened legal action to try to block the measure.
+
+  - archived recording (donald trump)  
+    Well, there’s never been a push like this for mail-in ballots, and
+    if you look at —
+
+michael barbaro
+
+During a news conference at the White House, Trump was asked whether he
+would consider restricting mail-in voting nationwide through an
+executive order.
+
+  - archived recording (donald trump)  
+    Universal mail-in ballots is going to be a great embarrassment to
+    our country. I have the right to do it. We haven’t gotten there yet,
+    but we’ll see what happens. We will be suing in Nevada.
+
+michael barbaro
+
+We’ll be right back.
+
+\[music\]
+
+Here’s what else you need to know today. On Monday, the Manhattan
+District Attorney, Cy Vance, suggested that his investigation into
+President Trump’s finances and company is much broader than previously
+known. A new court filing indicates that the investigation, which was
+thought to focus on hush money payments made to women during the 2016
+campaign, may actually be examining a range of possible criminal
+activity, including potential bank and insurance fraud. The Supreme
+Court sided with Vance in a major ruling last month, saying that the
+president lacked the legal basis to block the district attorney from
+seeking years of his tax records as part of the investigation.
+
+And, The Times reports that nearly 3,000 small businesses in New York
+City have permanently closed because of the pandemic — more than in any
+U.S. city. A new report estimates that one third of the city’s small
+businesses, or about 75,000 of them, may never reopen because of
+lockdowns and lost revenue.
+
+That’s it for “The Daily.” I’m Michael Barbaro. See you tomorrow.
 
 </div>
 
@@ -312,7 +1639,8 @@ Daily</span>
 
 <div class="css-1qq8bvn">
 
-August 4, 2020<span class="css-i5svdo">Is the U.S. Ready to Vote by
+August 4, 2020<span>  <span class="css-orcm78">•</span> 
+25:27</span><span class="css-i5svdo">Is the U.S. Ready to Vote by
 Mail?</span>
 
 </div>
@@ -537,8 +1865,8 @@ Daily</span>](https://www.nytimes.com/column/the-daily)
 
 <div class="css-1tlsmx">
 
-Aug. 4, 2020, <span class="css-epvm6">6:00 a.m.
-ET</span>
+Aug. 4,
+2020
 
 <div>
 

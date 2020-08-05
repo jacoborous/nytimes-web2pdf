@@ -165,53 +165,53 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Noble Jr. for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
+    Burbank/Orlando Sentinel, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbStandard.jpg)](/2020/08/04/business/ford-jim-hackett-james-farley.html)
+    [![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbStandard.jpg)](/2020/08/04/business/media/disney-earnings-coronavirus.html)
     
     </div>
     
-    ## [Ford, Struggling in a Changing Industry, Replaces Its C.E.O.](/2020/08/04/business/ford-jim-hackett-james-farley.html)
+    ## [Disney, Staggered by Pandemic, Sees a Streaming Boom](/2020/08/04/business/media/disney-earnings-coronavirus.html)
     
-    Jim Hackett, who failed to impress Wall Street, will be replaced by
-    James Farley, an auto industry veteran who started his career at
-    Toyota.
+    The company lost $4.7 billion in the latest quarter, but also
+    reported that Disney+ has about 60.5 million subscribers after nine
+    months of
+    operation.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neal E.
-    Boudette</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brooks
+    Barnes</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
-    Wright for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
+    Solomon for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbStandard.jpg)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    [![](https://static01.nyt.com/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-thumbStandard.jpg)](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
     
     </div>
     
-    ### Square Feet
+    ## [McClatchy, Family-Run News Chain, Goes to Hedge Fund in Bankruptcy Sale](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
     
-    ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
-    
-    The pandemic has turned cleaning and other mundane building tasks
-    into a challenge, stoking interest in machines as cost-effective
-    solutions.
+    A federal judge signed off on a $312 million deal for the
+    prestigious newspaper company to Chatham Asset Management at a
+    hearing
+    Tuesday.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lisa
-    Prevost</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Marc
+    Tracy</span></span>
     
     </div>
 
@@ -240,27 +240,30 @@ story](#after-sponsor)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-        Alfiky/The New York
-        Times</span>](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
+        Wright for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](/2020/08/04/business/coronavirus-struggling-caterers.html)
+        ### Square Feet
+        
+        ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-thumbStandard.jpg)](/2020/08/04/business/coronavirus-struggling-caterers.html)
+        [![](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbStandard.jpg)](/2020/08/04/business/robot-cleaning-coronavirus.html)
         
         </div>
         
-        The pandemic has devastated the industry. But some entrepreneurs
-        are finding creative ways to keep their businesses
-        afloat.
+        The pandemic has turned cleaning and other mundane building
+        tasks into a challenge, stoking interest in machines as
+        cost-effective
+        solutions.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Julie
-        Creswell</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Lisa
+        Prevost</span></span>
         
         </div>
 
@@ -270,33 +273,71 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    Noble Jr. for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Faces European Inquiry Into Fitbit Acquisition](/2020/08/04/business/google-fitbit-europe.html)
+    ## [Ford, Struggling in a Changing Industry, Replaces Its C.E.O.](/2020/08/04/business/ford-jim-hackett-james-farley.html)
     
-    Authorities are investigating how Google will use health and
-    wellness data collected from Fitbit’s fitness tracking
-    devices.
+    Jim Hackett, who failed to impress Wall Street, will be replaced by
+    James Farley, an auto industry veteran who started his career at
+    Toyota.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Satariano</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Neal E.
+    Boudette</span></span>
     
     </div>
 
-2.  
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
+    Alfiky/The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Black-Owned Businesses Hit Harder by Virus Crisis: Live Updates](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus)
+    ## [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    
+    The pandemic has devastated the industry. But some entrepreneurs are
+    finding creative ways to keep their businesses
+    afloat.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Creswell</span></span>
+    
+    </div>
+
+3.  
+    
+    <div class="css-10wtrbd">
+    
+    ## [Disney+ Hits 58 Million Subscribers](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus)
     
     <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
+    Lam/Reuters</span>](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Apple Replaces Phil Schiller as Its Top Marketing Executive](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    
+    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
+    at the
+    company.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
+    Chen</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
     Edelheit for The New York
     Times</span>](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-videoLarge.jpg)
     
@@ -311,42 +352,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kellen
     Browning</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SAND
-    Lab, University of
-    Chicago</span>](https://static01.nyt.com/images/2020/07/31/business/31fawkes4/31fawkes4-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [This Tool Could Protect Your Photos From Facial Recognition](/2020/08/03/technology/fawkes-tool-protects-photos-from-facial-recognition.html)
-    
-    Researchers at the University of Chicago want you to be able to post
-    selfies without worrying that the next Clearview AI will use them to
-    identify
-    you.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kashmir
-    Hill</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dado
-    Ruvic/Reuters</span>](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide](/2020/08/03/technology/tiktok-bytedance-us-china.html)
-    
-    The founder of ByteDance, Zhang Yiming, dreamed of building a global
-    tech company based in China. Then the geopolitical reality set
-    in.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Raymond
-    Zhong</span></span>
     
     </div>
 
@@ -543,24 +548,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
+    [](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/business/04levandowski2/04levandowski2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## McClatchy, Family-Run News Chain, Is Set to Go to Hedge Fund in Bankruptcy Sale
+    ## Star Technologist Who Crossed Google Sentenced to 18 Months in Prison
     
-    A federal judge is expected to sign off on a $312 million deal for
-    the prestigious newspaper company to Chatham Asset Management at a
-    hearing Tuesday.
+    Anthony Levandowski, a onetime star Silicon Valley engineer of
+    self-driving cars, had pleaded guilty to stealing trade secrets.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marc
-    Tracy</span>
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
     
     </div>
     
@@ -573,6 +577,74 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Richtel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/business/recent-commercial-real-estate-transactions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/business/04trans1/merlin_174836691_604803ac-4932-4894-85ec-9d2c8370b2a2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Recent Commercial Real Estate Transactions
+    
+    Recent commercial real estate transactions in New York.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sophia
+    June</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -606,7 +678,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -627,73 +699,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley
-    Reed</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Apple Replaces Phil Schiller as Its Top Marketing Executive
-    
-    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
-    at the company.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Davey Alba <span>and</span> Brian X.
-    Chen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/04/business/the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/business/03markets-brf-fed/merlin_174643971_c2bde9e9-1cb8-4956-987a-7f1f383f28fc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Chicago Fed president says it’s up to Congress to save the economy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeanna
-    Smialek</span>
+    By <span class="css-1n7hynb">Stanley Reed</span>
     
     </div>
     
@@ -711,20 +717,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max.html)
+    [](/2020/08/04/business/google-fitbit-europe.html)
     
-    <div class="css-79elbk">
+    ## Google Faces European Inquiry Into Fitbit Acquisition
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03Markets-Brf-Boeing/merlin_158452899_47c48d86-bf32-4c5f-9c78-c2d814405b4a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737 Max.
+    Authorities are investigating how Google will use health and
+    wellness data collected from Fitbit’s fitness tracking devices.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Niraj
-    Chokshi</span>
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
     
     </div>
     
@@ -742,20 +745,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-rushed-into-the-hand-sanitizer-market-now-some-are-trying-to-get-out.html)
+    [](/2020/08/04/business/google-faces-an-eu-investigation-into-its-fitbit-acquisition.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries4/00virus-distilleries4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2019/11/01/us/01FitBit/merlin_151320936_350a749c-24be-4a05-8737-137d747262b2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries rushed into the hand sanitizer market. Now some are trying to get out.
+    ## Google faces an E.U. investigation into its Fitbit acquisition.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
     
     </div>
     
@@ -773,23 +776,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    [](/2020/08/04/business/fords-chief-jim-hackett-to-retire-as-company-tries-to-regain-momentum.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Summer Recreation? It’s Backordered
-    
-    Americans seeking outdoor getaways in the pandemic bought up all the
-    pools, tents, kayaks and trampolines.
+    ## Ford’s chief Jim Hackett to retire as company tries to regain momentum.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Herrman</span>
+    By <span class="css-1n7hynb">Neal E.
+    Boudette</span>
     
     </div>
     
@@ -807,24 +807,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    [](/2020/08/04/business/argentina-secures-a-deal-to-restructure-65-billion-in-debt.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/business/04markets-brf-argentina/04markets-brf-argentina-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Caribbean Dilemma
-    
-    Many islands are open to American travelers. Going could mean
-    bringing coronavirus to places ill prepared to deal with it. Not
-    going could mean deepening economic woes. How do you choose?
+    ## Argentina secures a deal to restructure $65 billion in debt.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nina
-    Burleigh</span>
+    By <span class="css-1n7hynb">Eshe Nelson <span>and</span> Daniel
+    Politi</span>
     
     </div>
     
@@ -842,22 +838,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    [](/2020/08/04/business/bp-to-step-up-renewable-investment-as-it-reports-a-huge-loss.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/world/04markets-brf-bp/04markets-brf-bp-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## F.T.C. Investigating Twitter for Potential Privacy Violations
-    
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve ads.
+    ## BP to step up renewable investment as it reports a huge loss.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate Conger</span>
+    By <span class="css-1n7hynb">Stanley Reed</span>
     
     </div>
     

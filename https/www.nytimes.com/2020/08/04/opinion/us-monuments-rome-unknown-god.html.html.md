@@ -227,7 +227,7 @@ Mr. Simon is an editor and writer.
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -256,7 +256,7 @@ Mr. Simon is an editor and writer.
 
 ![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Illustration
 by Mike McQuade; Photograph via Library of
-Congress</span></span></span>](https://static01.nyt.com/images/2020/08/04/opinion/04stone/04stone-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Congress</span></span></span>](https://static01.nyt.com/images/2020/08/06/opinion/06stone/04stone-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -293,7 +293,7 @@ undepictable God of the Jews, or that they’re a bit of pragmatic
 hedge-betting for any deities who should be worshiped but that have
 escaped the attention of the otherwise pious. Regardless of the exact
 intent of their makers, the altars for the Unknown God present an
-arresting memorial — the blessing of a lacunae, the sacralization of an
+arresting memorial — the blessing of a lacuna, the sacralization of an
 absence.
 
 The altar to the Unknown God also provides an opportunity for us to
@@ -310,10 +310,10 @@ argument. Almost seven feet tall, the emperor is represented with an
 arresting beauty, the breastplate depicting his diplomatic and military
 victories that resulted in Pax Romana, ** and symbols associated with
 Venus and Mars that conflate Augustus with divinity. Augustus of Primo
-Porta’s sculptors made a claim about their subject just as the designers
-of the statues of Robert E. Lee, Stonewall Jackson and Jefferson Davis
-that line Monument Avenue in Richmond, Va., made an argument about their
-subject.
+Porta’s sculptors made a claim about their subjects just as the
+designers of the statues of Robert E. Lee, Stonewall Jackson and
+Jefferson Davis that line Monument Avenue in Richmond, Va., made an
+argument about their subject.
 
 </div>
 
@@ -332,7 +332,7 @@ to the Unknown God’s claim is different — there’s a humility in its
 design, an ambiguity in its meaning and even an uncertainty in its
 subject. The historian Alain Besançon explains in “The Forbidden Image:
 An Intellectual History of Iconoclasm” that the tradition of avoiding
-images of God are born from “two incoercible facts about our nature:
+images of God is born from “two incoercible facts about our nature:
 first that we must look toward the divine … and, second, that
 representing it is futile, sacrilegious, inconceivable.” The sculptors
 of statues and memorials promise us gods and heroes, but those who
@@ -358,7 +358,7 @@ so are “freedom,” “democracy” and “America.” We are better served in
 memorializing the contradictory, conflicted and hypocritical history of
 this nation not in monumental equestrian statues punctuating traffic
 roundabouts but in a humbler idiom that paradoxically expresses an
-inherent greatness in all the more remarkable of a way.
+inherent greatness in all the more remarkable way.
 
 This would be nothing new for the United States as a nation. One of the
 most popular memorials on the National Mall already considers its

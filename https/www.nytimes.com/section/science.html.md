@@ -197,7 +197,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
     
-    ### Igood question
+    ### good question
     
     ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
@@ -616,11 +616,11 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/04virus-briefing-mdschools/merlin_172035453_a62b7a02-8ceb-457e-ab5d-c17c7edfcf33-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: As U.S. Considers Fall Classes, a Divide Emerges Between Public and Private Schools
+    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
     
     Tens of millions of Americans have lost crucial jobless benefits,
     and lawmakers still can’t seem to agree on a relief measure.

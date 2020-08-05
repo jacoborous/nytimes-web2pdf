@@ -235,7 +235,7 @@ Opinion Columnist
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -275,9 +275,30 @@ Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
 
+<div class="audioFigureHeading">
+
+### Listen to This Op-Ed
+
+<span class="css-16qbtva">Audio Recording by Audm</span>
+
+</div>
+
+<div class="css-qe9gm7">
+
+<div>
+
+</div>
+
+</div>
+
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+*To hear more audio stories from publishers like The New York Times,
+download*[**](https://www.audm.com/?utm_source=nytmag&utm_medium=embed&utm_campaign=left_behind_draper)[*Audm
+for iPhone or
+Android*](https://www.audm.com/?utm_source=nytopinion&utm_medium=embed&utm_campaign=trump_votes_want)*.*
 
 Nearly everyone involved in reporting on, analyzing or forecasting the
 upcoming presidential election agrees that Donald Trump could win

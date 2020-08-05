@@ -424,7 +424,7 @@ run.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T22:25:13.336Z
+Updated 2020-08-04T23:01:34.126Z
 
 </div>
 
