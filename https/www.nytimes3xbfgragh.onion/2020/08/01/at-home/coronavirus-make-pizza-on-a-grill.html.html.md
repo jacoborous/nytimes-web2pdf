@@ -391,14 +391,6 @@ fun.
 aspect,” said Audrey Kelly, 34, a pizzaiola and the owner of [Audrey
 Jane’s Pizza Garage](https://www.thepizzagarage.com/) in Boulder, Colo.
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 Either way, put the dough down fast to keep it from sticking. A dusting
 of flour should do the trick. A little olive oil will, too, but go easy.
 You don’t want your pizza to burst into flames.

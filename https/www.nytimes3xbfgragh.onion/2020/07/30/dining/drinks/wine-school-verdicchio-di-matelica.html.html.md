@@ -423,14 +423,6 @@ appellations in the Marche region, on the Adriatic coast of Italy inland
 from the city of Ancona. The other, bigger and better known, is
 Verdicchio dei Castelli di Jesi.
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 Verdicchio di Matelica is farther from the coast and generally at a
 higher elevation, in the foothills of the [Apennine
 Mountains](https://www.britannica.com/place/Apennine-Range). The wines

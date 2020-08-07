@@ -580,14 +580,6 @@ that we call the “mooseway” for no particular reason. (There are no
 moose in the area.) Whenever we travel to an area where there’s even the
 remotest possibility of sighting a moose, we’re on high alert.
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 And because of my minor obsession, seeing one on this trip was my top
 priority — and I felt both excited and relieved that it happened so
 quickly.

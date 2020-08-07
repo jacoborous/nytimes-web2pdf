@@ -453,14 +453,6 @@ minerals. It’s likely that antioxidants will also minimize the damage of
 a blue LED light device used at home to treat acne. (A mineral sunscreen
 would block the blue light and stop its bacteria-killing action.)
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 As far as antioxidants go, vitamin C is a good choice because the
 molecule is actually small enough to penetrate the skin. [Hyper Skin
 Hyper Clear Brightening Clearing Vitamin C

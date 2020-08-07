@@ -221,8 +221,8 @@ Gleick</span>](https://www.nytimes3xbfgragh.onion/by/james-gleick)
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

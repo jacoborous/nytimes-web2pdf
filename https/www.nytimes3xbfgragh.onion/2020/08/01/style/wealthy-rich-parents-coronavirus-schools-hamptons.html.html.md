@@ -271,9 +271,8 @@ Williams</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">1:27 p.m.
-    ET</span>
+    Published Aug. 1, 2020Updated Aug. 4,
+    2020
     
     </div>
 

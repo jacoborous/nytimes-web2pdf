@@ -654,14 +654,6 @@ sees the damage that unreliable access to food and water can wreak on
 her patients. Some who struggle with obesity drink five or six sodas a
 day.
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 With help from community partners, Dr. Kim started the Shiprock Area
 Food Access Coalition in 2018 to increase access to healthy food and
 water. She asked managers of a local grocery to move produce to the

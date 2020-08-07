@@ -241,7 +241,7 @@ power: A customer receives fancy press-on nails at the Vanity Projects
 salon in
 Manhattan. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Caroline
 Tompkins for The New York
-Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/fashion/04PRESSONNAILS4/merlin_175247874_7c5f95ca-9e44-470b-8231-2ad3e2b6e01a-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/04PRESSONNAILS4/merlin_175247874_7c5f95ca-9e44-470b-8231-2ad3e2b6e01a-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -264,8 +264,8 @@ Snow</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">1:34 p.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -273,7 +273,7 @@ Snow</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -302,9 +302,8 @@ Snow</span>
 
 Yewande Moore used to get an acrylic overlay with a gel-polish manicure
 every couple of weeks before coronavirus hit. But when Ohio, where she
-lives in the town of Athens, shut down salons, she went to Walmart to
-get tools to take her nails off, not knowing when she could get them
-done again.
+lives in Athens, shut down salons, she went to Walmart to get tools to
+take her nails off, not knowing when she could get them done again.
 
 There, taking a look at the press-on nails in the beauty aisle, Ms.
 Moore, 32, who works with student leaders at a nearby university, had an

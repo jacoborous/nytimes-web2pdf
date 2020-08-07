@@ -267,9 +267,8 @@ Rodell</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 28, 2020Updated Aug. 4, 2020,
-    <span class="css-epvm6">9:43 a.m.
-    ET</span>
+    Published July 28, 2020Updated Aug. 4,
+    2020
     
     </div>
 
@@ -460,14 +459,6 @@ Paulsen for The New York Times</span></span>
 During the weeks between lockdowns, dining out here looked and felt very
 different from its pre-coronavirus incarnation. And it was far more
 expensive.
-
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
 
 I ate out voraciously and often, reveling in food I didn’t have to cook,
 dishes I didn’t have to wash and the friendly faces of people I hadn’t

@@ -268,8 +268,8 @@ recommendation site owned by The New York Times Company.*
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">8:00 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

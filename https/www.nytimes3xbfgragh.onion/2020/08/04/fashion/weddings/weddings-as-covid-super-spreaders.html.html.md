@@ -231,7 +231,8 @@ Krueger</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">4:04 p.m.
+    Published Aug. 4, 2020Updated Aug. 5, 2020,
+    <span class="css-epvm6">2:02 a.m.
     ET</span>
     
     </div>
@@ -354,10 +355,10 @@ contractually obligated to carry out terms of the contract signed with
 the couple.
 
 Sarah Bett, a wedding planner in Houston, said even if vendors had power
-to reign in rowdy guests, the bride and groom could just move their
-event to a less strict venue. “Some venues make the bride wear masks,
-while others say those walking down the aisle are exempt,” she said.
-“It’s a little lawless down here.”
+to rein in rowdy guests, the bride and groom could just move their event
+to a less strict venue. “Some venues make the bride wear masks, while
+others say those walking down the aisle are exempt,” she said. “It’s a
+little lawless down here.”
 
 Without universal standards she is at the mercy of her clients, many of
 whom want their festivities indoors, without masks, with out-of-town

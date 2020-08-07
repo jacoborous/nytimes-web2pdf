@@ -149,14 +149,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Take: A Literary Road
-    Trip](https://www.nytimes.com/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes.com/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes.com/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -274,8 +274,9 @@ Sifton</span>](https://www.nytimes.com/by/sam-sifton)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 31,
-    2020
+    Published July 31, 2020Updated Aug. 4, 2020,
+    <span class="css-epvm6">3:02 p.m.
+    ET</span>
     
     </div>
 
@@ -283,7 +284,7 @@ Sifton</span>](https://www.nytimes.com/by/sam-sifton)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -404,6 +405,38 @@ Muroya</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/02RANDO
     We explored the history of the name and how it has evolved in pop
     culture.
 
+</div>
+
+</div>
+
+<div id="ask-questionnaire" class="css-13v3in5">
+
+![](https://static01.nyt.com/images/2020/08/04/smarter-living/flower-test-byline/flower-test-byline-jumbo-v5.jpg?quality=75&auto=webp&disable=upscale)
+
+<div class="css-1b3vq3x">
+
+How can we help you lead a better, more fulfilling life at home during
+the pandemic?
+
+</div>
+
+<div class="css-kclpqo">
+
+*Ask us a question or tell us what’s on your mind.*
+
+</div>
+
+Log in to ask your question
+
+New to The Times? [Create a free
+account](#)
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 -----
 
 ## What to watch.
@@ -473,6 +506,14 @@ possibility.*
 
 -----
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 ## How to deal.
 
 </div>
@@ -531,14 +572,6 @@ New York Times</span></span>
     while.
 
 -----
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 ### Like what you see?
 

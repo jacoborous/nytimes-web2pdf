@@ -399,7 +399,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/yorkshire-towers-305-east-86th-st/46-4322149?)
     
     ![<span class="css-5hkc96">$3,806</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage13-06a8d8340071117eab5c766a51ce054c.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage7-78b8a74e7eb2b9790425f76d4b3a2c32.svg)
     
     <div class="css-1ht6mw8">
     
@@ -665,7 +665,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/greenpoint/homes-for-rent/93-herbert-street/44-6118702?)
     
     ![<span class="css-5hkc96">$3,599</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118702_1.jpg&width=1136)
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-6118702_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
@@ -893,7 +893,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/greenwood-heights/homes-for-rent/308-prospect-avenue/13278-PRCH-3015693?)
     
     ![<span class="css-5hkc96">$2,899</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage12-f56a285eab9f0008e9fdccadf2238737.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage7-78b8a74e7eb2b9790425f76d4b3a2c32.svg)
     
     <div class="css-1ht6mw8">
     
@@ -944,6 +944,43 @@ bathrooms (most to least)Sort by bathrooms (least to
     <span>Studio</span><span class="css-pa1wgl"> | </span><span>1
     Bath</span><span class="css-pa1wgl"> |
     </span><span>Co-op</span>
+    
+    </div>
+    
+    <div class="css-1by2q8c">
+    
+    **
+    
+    </div>
+    
+    </div>
+    
+    NEW
+    
+    </div>
+
+  - 
+    
+    <div id="56-20230556" class="css-1fvngt3">
+    
+    <div class="css-c7p4ud">
+    
+    [](/real-estate/usa/ny/new-york/chelsea/homes-for-rent/515-west-23rd-street-12/56-20230556?)
+    
+    ![<span class="css-5hkc96">$18,500</span> ¶
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f56-20230556_1.jpg&width=297)
+    
+    <div class="css-1ht6mw8">
+    
+    $18,500
+    
+    Chelsea
+    
+    515 West 23rd Street 12 unit 12
+    
+    <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
+    Baths</span><span class="css-pa1wgl"> |
+    </span><span>Condo</span>
     
     </div>
     
@@ -1116,7 +1153,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/new-york/upper-east-side/homes-for-rent/301-east-66th-street/44-CORC-6113675?)
     
     ![<span class="css-5hkc96">$4,300</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6113675_1.jpg&width=1136)
+    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f44-corc-6113675_1.jpg&width=297)
     
     <div class="css-1ht6mw8">
     
@@ -1164,44 +1201,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     505 West 43rd St unit 3B
     
     <span>3 Beds</span><span class="css-pa1wgl"> | </span><span>3
-    Baths</span><span class="css-pa1wgl"> |
-    </span><span>Condo</span>
-    
-    </div>
-    
-    <div class="css-1by2q8c">
-    
-    **
-    
-    </div>
-    
-    </div>
-    
-    NEW
-    
-    </div>
-
-  - 
-    
-    <div id="2958-PRCH-3016702" class="css-1fvngt3">
-    
-    <div class="css-c7p4ud">
-    
-    [](/real-estate/usa/ny/new-york/hells-kitchen/homes-for-rent/750-ninth-avenue/2958-PRCH-3016702?)
-    
-    ![<span class="css-5hkc96">$2,800</span> ¶
-    **](https://d39q1vwco01fgc.cloudfront.net/getimage?imageURL=https%3a%2f%2fs3.amazonaws.com%2fgabriels.images.pre-download%2fnyt%2fprocessed%2f2958-prch-3016702_1.jpg&width=297)
-    
-    <div class="css-1ht6mw8">
-    
-    $2,800
-    
-    Hell'S Kitchen
-    
-    750 Ninth Avenue unit 1RR
-    
-    <span>2 Beds</span><span class="css-pa1wgl"> | </span><span>1
-    Bath</span><span class="css-pa1wgl"> | </span><span>Apartment</span>
+    Baths</span><span class="css-pa1wgl"> | </span><span>Condo</span>
     
     </div>
     
@@ -1219,7 +1219,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
 <div class="css-317rfz">
 
-1 - 24 of 23757 Homes
+1 - 24 of 23669 Homes
 
   - 
   - 1
@@ -1230,7 +1230,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
   - ...
 
-  - 990
+  - 987
 
   - 
 

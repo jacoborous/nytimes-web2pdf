@@ -1680,6 +1680,40 @@ story](#after-mid7)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/05/style/scrapbooking-blm-black-lives-matter.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/21scrapbooking5/21scrapbooking5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Scrapbooking Isn’t Just for White People
+    
+    People of color who craft are done being overlooked as customers and
+    designers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michelle
+    Garcia</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
     
     <div class="css-79elbk">
@@ -1709,7 +1743,7 @@ story](#after-mid7)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1743,7 +1777,7 @@ story](#after-mid7)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1777,7 +1811,7 @@ story](#after-mid7)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1811,7 +1845,7 @@ story](#after-mid7)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1845,7 +1879,7 @@ story](#after-mid7)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1880,7 +1914,7 @@ story](#after-mid7)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1914,7 +1948,7 @@ story](#after-mid7)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1948,7 +1982,7 @@ story](#after-mid7)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1971,41 +2005,6 @@ story](#after-mid7)
     
     By <span class="css-1n7hynb">Priya Arora <span>and</span> Sapna
     Maheshwari</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/25/nyregion/nyc-barber-shops-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/nyregion/00nyvirus-haircuts-STILL/00nyvirus-haircuts-STILL-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 3 Long (Haired) Months: Barbershop Before-and-Afters
-    
-    As salons and barbershops opened up in the city on Monday, New
-    Yorkers relished the opportunity to freshen up.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Claudio E. Cabrera, Laylah Amatullah
-    Barrayn, Elias Williams, September Dawn Bottoms <span>and</span>
-    James Estrin</span>
     
     </div>
     

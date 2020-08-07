@@ -226,8 +226,8 @@ Miranda</span>
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">10:49 a.m.
-    ET</span>
+  - Aug. 4,
+    2020
 
   - 
     

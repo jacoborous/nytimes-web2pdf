@@ -394,7 +394,35 @@ country.
 
 <div class="briefing-block-update-time active">
 
-[20m
+[12h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
+
+</div>
+
+<div>
+
+[Fox Corporation’s plunging profit is cushioned by Fox
+News.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[12h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
+
+</div>
+
+<div>
+
+[Trading in Kodak shares comes under
+scrutiny.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[13h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
 
 </div>
@@ -404,35 +432,6 @@ ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-to
 [Disney lost $4.7 billion last quarter, but its newest business was a
 big
 hit.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[1h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
-
-</div>
-
-<div>
-
-[The ad giant Publicis has ‘parted ways’ with an executive over his
-virus
-tweets.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[3h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
-
-</div>
-
-<div>
-
-[NBCUniversal to cut about 10 percent of its work
-force.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
 
 </div>
 

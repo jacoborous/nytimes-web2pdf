@@ -206,7 +206,50 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+[](/2020/08/07/briefing/jobs-school-reopenings-summer-desserts.html)
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/briefing/07pm-briefing-us-ss-slide-TBOZ/07pm-briefing-us-ss-slide-TBOZ-square640-v2.jpg?quality=75&auto=webp&disable=upscale&width=350)
+
+</div>
+
+</div>
+
+[](/2020/08/07/briefing/jobs-school-reopenings-summer-desserts.html)
+
+<div class="css-8oysku e18972d71" type="1">
+
+<div class="css-1iexn6j e1voiwgp1">
+
+## Your Friday Evening Briefing
+
+</div>
+
+</div>
+
+<div class="css-8oysku e18972d71">
+
+Here’s what you need to know at the end of the
+day.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ydsmmq">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-geek62">
+
+<div class="css-1d537rb e18972d70" media="[object Object]">
+
+[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 
 <div class="css-1g8bx4t">
 
@@ -216,7 +259,7 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 </div>
 
-[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
@@ -230,8 +273,8 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-8oysku e18972d71">
 
-Is America ready to vote by
-mail?
+Jack Dorsey on Twitter’s
+mistakes.
 
 </div>
 
@@ -249,50 +292,7 @@ mail?
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-square320.jpg)
-
-</div>
-
-</div>
-
-[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
-
-<div class="css-8oysku e18972d71" type="1">
-
-<div class="css-1iexn6j e1voiwgp1">
-
-## The Book Review Podcast
-
-</div>
-
-</div>
-
-<div class="css-8oysku e18972d71">
-
-Anne Applebaum on the “seductive lure of
-authoritarianism.”
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ydsmmq">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-geek62">
-
-<div class="css-1d537rb e18972d70" media="[object Object]">
-
-[](/2020/07/30/podcasts/nice-white-parents-serial.html)
+[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 
 <div class="css-1g8bx4t">
 
@@ -302,7 +302,7 @@ authoritarianism.”
 
 </div>
 
-[](/2020/07/30/podcasts/nice-white-parents-serial.html)
+[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
@@ -316,8 +316,8 @@ authoritarianism.”
 
 <div class="css-8oysku e18972d71">
 
-When a group of white families came to one predominantly Black
-school.
+How white parents can shape a school, even when they aren’t
+there.
 
 </div>
 
@@ -367,11 +367,15 @@ school.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div class="css-1aew2eb eqveam62">
+
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
-<div class="css-1qj0wac eqveam61">
+<div class="css-qvz0vj eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -379,23 +383,20 @@ school.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/05/world/middleeast/beirut-explosion.html)
+[](/2020/08/07/world/covid-19-news.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>After Deadly Beirut Explosion, a Search for Answers and Survivors</span>
+## <span>As U.S. Stimulus Talks Near Collapse, Trump Eyes Executive Orders</span>
 
 </div>
 
-  - A blast in the Lebanese capital, so powerful that it could be felt
-    more than 150 miles away, killed more than 100 people and injured
-    more than 4,000.
-  - Officials believe the explosion was caused by the detonation of more
-    than 2,700 tons of ammonium nitrate stored in a warehouse at the
-    port.
-  - Rescue workers were digging through the rubble searching for
-    survivors, while dozens were listed as missing. Here’s the
-latest.
+  - The White House and top Democrats remain divided on a recovery
+    package and President Trump’s advisers said they would recommend he
+    act on his own.
+  - It was not clear what power Mr. Trump might have to extend jobless
+    aid amid the pandemic, since Congress controls spending. Here’s the
+    latest.
 
 <div class="css-1slnf6i">
 
@@ -411,73 +412,94 @@ latest.
 
 </div>
 
-<div class="css-1ee8y2t assetWrapper">
+</div>
 
-<div class="css-6p6lnl">
+</div>
 
-[](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
+</div>
 
-<div class="css-debyuq e1voiwgp1">
+<div class="css-zmmks0 eqveam60">
 
-## Here is a look at what we know and don’t know about the explosions.
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07VIRUS-tab-pm-slide-X1EH/07VIRUS-tab-pm-slide-X1EH-videoLarge.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
 <div>
 
-<div class="css-na047m">
+<div class="css-1qiat4j eqveam63">
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1mnngwr eqveam60">
+<div class="css-bs48m0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
 <div class="css-1ee8y2t assetWrapper">
 
-<div>
+<div class="css-6p6lnl">
 
-<div class="css-1xaqcky">
-
-[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-threeByTwoMediumAt2X-v3.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-<div class="css-1nl6p6m">
-
-[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+[](/2020/08/07/business/economy/july-jobs-report.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Mapping the Damage From the Beirut Explosions
+## Job Growth Slowed in July, Signaling a Loss of Economic Momentum
 
 </div>
 
-A shockwave raced from the city’s industrial waterfront into densely
-populated residential neighborhoods and shopping districts
-downtown.
+Employers added 1.8 million jobs, a drop from the pace of the previous
+two months, as renewed business closings hampered the recovery.
 
 <div>
 
 <div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Millions of Households at Risk of Eviction as Government Support Ends
+
+</div>
+
+Without more federal aid for workers, experts are expecting the largest
+disruption to the housing market since the
+Depression.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -511,16 +533,17 @@ downtown.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/us/politics/kobach-tlaib.html)
+[](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries</span>
+## <span>Russia Continues Interfering in Election to Try to Help Trump, U.S. Says</span>
 
 </div>
 
-G.O.P. leaders had worried that if Mr. Kobach, a polarizing figure, were
-victorious, he would jeopardize the seat in the general election.
+But a new assessment says China would prefer to see President Trump
+defeated, though it’s unclear how much Beijing is doing to meddle in the
+campaign.
 
 <div>
 
@@ -552,14 +575,14 @@ victorious, he would jeopardize the seat in the general election.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+[](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
 
 <div class="css-1g8bx4t">
 
-![If elected to the House in November, Cori Bush would be the first
-Black woman to represent Missouri in Congress. 
-<span class="credit">Michael B. Thomas/Getty
-Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+![Some Democrats wish former Vice President Joe Biden had adhered to his
+original timeline for choosing a running mate.
+<span class="credit">Michelle V. Agins/The New York
+Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07biden-memo1/07biden-memo1-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -575,17 +598,17 @@ Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/poli
 
 <div class="css-6p6lnl">
 
-[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+[](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+## Why Joe Biden Keeps Missing His Own Deadlines
 
 </div>
 
-The upset of the veteran congressman from St. Louis sent tremors though
-the Democratic establishment in Missouri and Washington,
-D.C.
+On issues big and small, including choosing a running mate, Mr. Biden
+will not be rushed. And he doesn’t mind extending his timetable — again
+and again.
 
 <div>
 
@@ -609,68 +632,22 @@ D.C.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+[](/2020/08/07/us/elections/trump-biden.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## After six weeks of delays, New York City confirmed results in a pair of congressional primaries.
+<div class="css-1rczz1p">
+
+LIVE
 
 </div>
 
-<div>
-
-<div class="css-na047m">
+## Election Updates: High Stakes for Biden’s V.P. Pick
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1aew2eb eqveam62">
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/world/coronavirus-cases.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>McConnell Signals Openness to Accepting Jobless Aid Extension</span>
-
-</div>
-
-  - As talks on coronavirus assistance drag on, Senator Mitch McConnell
-    seemed open to reversing course on extending the payments, which
-    Republicans have opposed.
-  - Two preliminary studies of an experimental vaccine yielded
-    encouraging results, the Maryland-based company Novavax announced.
-    Here’s the
+Vice President Mike Pence plans to visit Wisconsin after Joe Biden opted
+out of traveling there for the convention. Here’s the
 latest.
 
 <div class="css-1slnf6i">
@@ -693,29 +670,17 @@ latest.
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/reader-center/04virus-hp-fader-nashville/merlin_175315365_1ed7972d-297f-4a7e-acbd-ae38d2584a47-videoLarge.jpg)
-
 </div>
 
 </div>
 
-</div>
-
-</div>
-
-</div>
+<div class="css-1nuzdmm e1aa0s8g0">
 
 <div>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-bs48m0 eqveam60">
+<div class="css-96x60l eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -723,17 +688,17 @@ latest.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+[](/2020/08/07/nyregion/cuomo-schools-reopening.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+## <span>N.Y. Schools Can Reopen, Cuomo Says, in Contrast With Much of U.S.</span>
 
 </div>
 
-The trip by Alex Azar, a rare high-level U.S. visit, is being billed as
-an opportunity to highlight the island’s success in battling the
-pandemic.
+In a long-awaited announcement, Gov. Andrew Cuomo said schools can
+welcome back students if the rate of infection in their communities
+remains low.
 
 <div>
 
@@ -751,124 +716,9 @@ pandemic.
 
 </div>
 
-<div class="css-bs48m0 eqveam60">
+<div class="css-96x60l eqveam60">
 
 <div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/health/trump-plasma.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies
-
-</div>
-
-Thousands of Covid-19 patients have been treated with blood plasma
-outside of clinical trials — hampering research that could prove whether
-it
-works.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained</span>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
-
-A decision to put Mr. Uribe under house arrest could be a turning point
-in a nation used to seeing powerful politicians avoid
-prosecution.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -876,23 +726,282 @@ prosecution.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/nyregion/isaias-ny.html)
+[](/2020/08/07/us/remote-learning-fall-2020.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area</span>
+## Lost Summer: How Schools Missed a Chance to Fix Remote Learning
 
 </div>
 
-The storm that tore through New York City was second only to Hurricane
-Sandy in knocking out service to Con Edison
-customers.
+Education leaders spent months preparing to reopen classrooms. But with
+online learning set to continue for millions of students this fall,
+schools must catch up with
+reality.
 
 <div>
 
 <div class="css-na047m">
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/us/coronavirus-students.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## School is back in session. Here’s what students said it’s like in the age of Covid-19.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-96x60l eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/us/politics/tiktok-security-threat.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Is TikTok More of a Parenting Problem Than a Security Threat?</span>
+
+</div>
+
+Even as the White House moves against the Chinese social media app, the
+intelligence agencies do not see it as a major issue along the lines of
+Huawei.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-96x60l eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/world/asia/pompeo-russia-afghanistan-bounties.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Pompeo Warned Russia Against Bounties on U.S. Troops in Afghanistan
+
+</div>
+
+Secretary of State Mike Pompeo rebuked his Russian counterpart,
+officials said, running counter to President Trump’s insistence that the
+matter was a
+“hoax.”
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## The Trump administration imposed sanctions on Chinese officials for repressing pro-democracy protests in Hong Kong.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/us/defund-police-seattle-protests.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Abolish the Police? Survivors of the Chaos in Seattle Aren’t So Sure</span>
+
+</div>
+
+What is it like when a city abandons a neighborhood and the police
+vanish? Business owners describe a harrowing
+experience.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## A helicopter and dozens of officers were deployed for the arrest of a Black Lives Matter organizer in Manhattan.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="true">
+
+[](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
+
+<div class="css-1g8bx4t">
+
+<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+
+More than two dozen officers surrounded the Manhattan apartment of a
+Black Lives Matter organizer on Friday. <span class="credit">Jeenah Moon
+for The New York
+Times</span>
 
 </div>
 
@@ -908,9 +1017,9 @@ customers.
 
 <div class="css-pwtn0q eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-14dkh1l eqveam61">
 
-[](/2020/08/04/nyregion/isaias-ny.html)
+[](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
 
 <div class="css-1g8bx4t">
 
@@ -928,55 +1037,17 @@ customers.
 
 </div>
 
-<div class="css-nmg095 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div data-aria-hidden="true">
-
-[](/2020/08/04/nyregion/isaias-ny.html)
-
-<div class="css-1g8bx4t">
-
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
-
-Workers removed tree limbs that fell on a car in Queens, killing a
-passenger. <span class="credit">Johnny Milano for The New York
-Times</span>
-
 </div>
 
 </div>
 
-</div>
+<div class="css-1nuzdmm e1aa0s8g0">
 
 <div class="css-1ee8y2t assetWrapper">
 
-<div class="css-6p6lnl">
-
-[](/2020/08/04/us/hurricane-isaias-updates.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Isaias pounded the Atlantic Coast with wind and rain, flooding communities and spawning tornadoes along its path.
-
-</div>
+<div class="css-1g8bx4t">
 
 <div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -990,9 +1061,67 @@ Times</span>
 
 <div class="css-1ee8y2t assetWrapper">
 
-<div class="css-1g8bx4t">
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+[](/2020/08/07/us/farmer-influencer-youtube.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-hb0qj3">
+
+The Great Read
+
+</div>
+
+## <span>In a Wistful Age, Farmers Find a New Angle: Chore TV</span>
+
+</div>
+
+Enter the “farmer-influencer,” who can earn more by streaming farm life
+to a growing online audience than by selling farm products.
 
 <div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/us/farmer-influencer-youtube.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:480px">
+
+</div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0">
+
+<span class="credit">Hilary Swift for The New York
+Times</span>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 
@@ -1026,14 +1155,7 @@ Times</span>
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
-
-<div class="css-dcl9ft">
-
-![Charlie
-Warzel](https://static01.graylady3jvrrxbe.onion/images/2019/03/15/opinion/charlie-warzel/charlie-warzel-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1041,18 +1163,17 @@ Warzel](https://static01.graylady3jvrrxbe.onion/images/2019/03/15/opinion/charli
 
 <div class="css-1dvlumo e18df3gd0">
 
-Charlie Warzel
+Michael T. Osterholm and Neel Kashkari
 
 </div>
 
 </div>
 
-## How QAnon Creates a Dangerous Alternate Reality
+## Here’s How to Crush the Virus Until Vaccines Arrive
 
 </div>
 
-Game designer Adrian Hon says QAnon parallels the immersive worlds of
-alternate reality games.
+To save lives, and save the economy, we need another lockdown.
 
 <div>
 
@@ -1078,7 +1199,14 @@ alternate reality games.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+[](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
+
+<div class="css-dcl9ft">
+
+![David
+Brooks](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/david-brooks/david-brooks-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1086,19 +1214,19 @@ alternate reality games.
 
 <div class="css-1dvlumo e18df3gd0">
 
-The Editorial Board
+David Brooks
 
 </div>
 
 </div>
 
-## New York Needs Less Bickering, More Teamwork
+## Where Do Republicans Go From Here?
 
 </div>
 
-Residents are nervous and exhausted. It’s not too much to ask for a
-unified leadership from the mayor and the
-governor.
+The party looks brain-dead at every spot Trump touches. But off in the
+corners, there’s a lot of intellectual
+ferment.
 
 <div>
 
@@ -1116,11 +1244,11 @@ governor.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+[](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/opinion/sunday/09brooks/09brooks-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1142,7 +1270,73 @@ governor.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/trump-2020-electoral-college.html)
+[](/2020/08/06/opinion/coronavirus-us-recession.html)
+
+<div class="css-dcl9ft">
+
+![Paul
+Krugman](https://static01.graylady3jvrrxbe.onion/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Paul Krugman
+
+</div>
+
+</div>
+
+## Coming Next: The Greater Recession
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
+
+<div class="css-dcl9ft">
+
+![Josephine
+Wolff](https://static01.graylady3jvrrxbe.onion/images/2020/01/07/opinion/josephine-wolff/josephine-wolff-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Josephine Wolff
+
+</div>
+
+</div>
+
+## So What Does Trump Have Against TikTok?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/trump-2020-census.html)
 
 <div class="css-dcl9ft">
 
@@ -1163,7 +1357,7 @@ Jamelle Bouie
 
 </div>
 
-## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+## Trump and His Allies Think They Know Who Counts
 
 </div>
 
@@ -1175,92 +1369,7 @@ Jamelle Bouie
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/gin-tonic-summer-drink.html)
-
-<div class="css-dcl9ft">
-
-![Jennifer Finney
-Boylan](https://static01.graylady3jvrrxbe.onion/images/2011/08/04/opinion/BOYLAN_NEW/BOYLAN_NEW-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Jennifer Finney Boylan
-
-</div>
-
-</div>
-
-## The Doggiest Days of Summer Demand Gin and Tonics
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/tiktok-microsoft-trump.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Greg Bensinger
-
-</div>
-
-</div>
-
-## Is Microsoft Sure It Wants to Buy TikTok?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ed Simon
-
-</div>
-
-</div>
-
-## Jefferson, Lee or Douglass. It Matters Who Is Preserved in Bronze.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+[](/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1274,7 +1383,7 @@ The Editorial Board
 
 </div>
 
-## No Relief Bill, No Vacation
+## The World Can Still Be Destroyed in a Flash
 
 </div>
 
@@ -1286,7 +1395,7 @@ The Editorial Board
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/covid-rural-hospitals.html)
+[](/2020/08/06/opinion/coronavirus-baruch-haviv-death.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1294,13 +1403,13 @@ The Editorial Board
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Daniela J. Lamas
+Ron Haviv
 
 </div>
 
 </div>
 
-## ‘If I Hadn’t Been Transferred, I Would Have Died’
+## Could This Be the Last Time We See Our Dad?
 
 </div>
 
@@ -1312,12 +1421,12 @@ Daniela J. Lamas
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/trump-republicans-tea-party.html)
+[](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
 
 <div class="css-dcl9ft">
 
-![Ross
-Douthat](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+![Elizabeth
+Bruenig](https://static01.graylady3jvrrxbe.onion/images/2020/01/24/opinion/elizabeth-bruenig/elizabeth-bruenig-thumbLarge.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1327,13 +1436,14 @@ Douthat](https://static01.graylady3jvrrxbe.onion/images/2018/04/03/opinion/ross-
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Ross Douthat
+Elizabeth
+Bruenig
 
 </div>
 
 </div>
 
-## Republicans Are Ready for the Don Draper Method
+## Why Won’t More White Christians Say Black Lives Matter?
 
 </div>
 
@@ -1345,29 +1455,11 @@ Ross Douthat
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
-
-<div class="css-dcl9ft">
-
-![Tim
-Wu](https://static01.graylady3jvrrxbe.onion/images/2017/04/05/opinion/tim-wu/tim-wu-thumbLarge-v4.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/video/opinion/100000007278127/coronavirus-vaccine-update.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Tim
-Wu
-
-</div>
-
-</div>
-
-## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
+## Covid Update: Reasons for Hope, and Caution, on a Vaccine
 
 </div>
 
@@ -1379,7 +1471,23 @@ Wu
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+[](/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/sunday-review/middle-class-prosperity.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1387,14 +1495,14 @@ Wu
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Daniel
-Hunter
+Jim
+Tankersley
 
 </div>
 
 </div>
 
-## Don’t Believe the Lie That Voting Is All You Can Do
+## News Analysis: The Real Reason the American Economy Boomed After World War II
 
 </div>
 
@@ -1428,13 +1536,13 @@ Hunter
 
 <div class="css-1xaqcky">
 
-[](/2020/08/04/style/college-coronavirus-hoax.html)
+[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 
 <div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:480px">
+<div data-testid="lazyimage-container" style="height:480.47999999999996px">
 
 </div>
 
@@ -1442,8 +1550,7 @@ Hunter
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">Lane Turner/The Boston Globe, via Getty
-Images</span>
+<span class="credit">via The Metropolitan Museum of Art</span>
 
 </div>
 
@@ -1453,15 +1560,17 @@ Images</span>
 
 <div class="css-1nl6p6m">
 
-[](/2020/08/04/style/college-coronavirus-hoax.html)
+[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>The Anonymous Professor Who Wasn’t</span>
+## <span>A Picture of Change for a World in Constant Motion</span>
 
 </div>
 
-A professor at Arizona State University does not exist.
+Here’s what a masterpiece of Japanese printmaking teaches us about the
+way images
+circulate.
 
 <div>
 
@@ -1493,16 +1602,17 @@ A professor at Arizona State University does not exist.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+[](/2020/08/07/arts/music/illegal-parties-coronavirus-europe.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## How to Think Like an Epidemiologist
+## At Europe’s Illegal Parties, Covid-19 Is the Last Thing on Anyone’s Mind
 
 </div>
 
-Don’t worry, a little Bayesian analysis won’t hurt
-you.
+Across the continent, crowds are flocking to events organized on social
+media and messaging apps, despite risks and a
+backlash.
 
 <div>
 
@@ -1520,7 +1630,7 @@ you.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+[](/2020/08/07/arts/music/illegal-parties-coronavirus-europe.html)
 
 <div class="css-1g8bx4t">
 
@@ -1554,17 +1664,17 @@ you.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review-luster-raven-leilani.html)
+[](/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## In ‘Luster,’ a Woman Moves in With Her Lover … and His Family
+## How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk
 
 </div>
 
-Our critic weighs in on Raven Leilani’s highly anticipated debut novel,
-which has won praise for its boldness, humor and frank depictions of
-sex.
+A woman has a misogynist at her job. A 56-year-old despairs about his
+prospects. And employees are asked to pay for their own diversity
+training.
 
 <div>
 
@@ -1582,7 +1692,7 @@ sex.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review-luster-raven-leilani.html)
+[](/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
 
 <div class="css-1g8bx4t">
 

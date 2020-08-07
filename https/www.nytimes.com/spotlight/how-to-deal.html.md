@@ -189,74 +189,75 @@ story](#after-subheader)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-    O'Hare for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+    Dawn Bottoms/The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
+    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
     
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks
-    subside.
+    Despite precautions, the coronavirus has swept through a number of
+    weddings, large and small, infecting guests and
+    vendors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reed
-    Abelson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alyson
+    Krueger</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joohee
-    Yoon</span>](https://static01.nyt.com/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-videoLarge.jpg)
+2.  ### good question
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Randall
+    Munroe</span>](https://static01.nyt.com/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How to Ace an Online Job Interview](/2020/08/03/business/online-job-interview-tips.html)
+    ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
     
-    A handful of classic techniques and some tips unique to the
-    work-from-home era can help you land that next
-    job.
+    The human body can survive at surprisingly high temperatures, so
+    long as you’re prepared to
+    sweat.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Weed</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Randall
+    Munroe</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>iStock</span>](https://static01.nyt.com/images/2020/07/29/smarter-living/commute-burst-promo/commute-burst-promo-videoLarge.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/well/04sharenting/04sharenting-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Reclaim That Commute Time for Yourself](/interactive/2020/08/03/burst/reclaim-commute-time.html)
+    ## [Why Parents Should Pause Before Oversharing Online](/2020/08/04/well/family/parents-social-media-privacy.html)
     
-    If you find yourself still working from home, here are some tips on
-    reclaiming the time you once spent commuting to and from the
-    office.
+    As social media comes of age, will we regret all the information we
+    revealed about our families during its early
+    years?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Anna
-    Goldfarb</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stacey
+    Steinberg</span></span>
     
     </div>
 
-4.  ### Personal Health
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
-    Lam</span>](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kennedi
+    Carter for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/04/business/04borrow1/04borrow1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Benefits of Talking to Strangers](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
+    ## [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
     
-    Casual connections with people we encounter in the course of daily
-    life can give us the sense of belonging to a
-    community.
+    Banks have tightened standards, becoming more choosy about their
+    borrowers and asking a lot of
+    questions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jane E.
-    Brody</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tara Siegel
+    Bernard</span></span>
     
     </div>
 
@@ -266,70 +267,71 @@ story](#after-subheader)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fran
-    Caballero</span>](https://static01.nyt.com/images/2020/05/29/smarter-living/00sl-barter-promo/00sl-barter-promo-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/autossell/diversetoys-still/diversetoys-still-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Can’t Find It at the Store?](/2020/08/03/smarter-living/coronavirus-how-to-trade-barter.html)
+    ## [How to Diversify Your Toy Box](/2020/08/03/parenting/multiracial-toys-diversity-play.html)
     
-    How to make sure everyone gets what they need — and feels good about
-    it.
+    Ways to create a multiracial and multicultural spectrum in a child’s
+    activities and
+    toys.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">A.C.
-    Shilton</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Shanicia
+    Boswell</span></span>
     
     </div>
 
-2.  ### tech fix
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
-    Wilson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
+    and Claire Weiss for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Pixel 4A Review: At $350, a Win for Those on a Budget](/2020/08/03/technology/personaltech/google-pixel-4a-review.html)
+    ## [The New Panic Buys: Kayaks, Pools, Tents and Trampolines](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
     
-    Yes, you can now pay less than $399 for a smartphone — and it won’t
-    stink.
+    Americans seeking getaways (or staycations) in the pandemic are
+    putting outdoor retailers in a supply
+    crunch.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Herrman</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/arts/02diary-project-kleon-02/02diary-project-kleon-02-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aubrey
+    Trinnaman for The New York
+    Times</span>](https://static01.nyt.com/images/2020/02/28/multimedia/6parenting-polyamory/merlin_169675530_0daa7c39-bf76-4a11-9327-f5784bef4455-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Unschooled Artists](/2020/07/31/arts/quarantine-parenting-art.html)
+    ## [The Challenges of Polyamorous Parenting](/2020/08/04/parenting/polyamorous-parenting.html)
     
-    Taking lessons in creativity from my
-    kids.
+    Starting a family with more than two parents can present legal and
+    social pitfalls. Here’s how some parents are making it
+    work.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Austin
-    Kleon</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Cynthia
+    McKelvey</span></span>
     
     </div>
 
 4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Heimer</span>](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
+    Steinberg</span>](https://static01.nyt.com/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Rich City Tykes Swell Schools in Hamptons and Hudson Valley](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
     
-    New York parents of means are seeking less congested classrooms near
-    their second — third? —
-    homes.
+    Don’t worry, a little Bayesian analysis won’t hurt
+    you.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Williams</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
+    Roberts</span></span>
     
     </div>
 
@@ -423,6 +425,74 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Little Fraught Schoolhouse
+    
+    New York parents of means are seeking less congested classrooms near
+    their second homes in the Hamptons and Hudson Valley. Not everyone
+    is happy about this.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alex
+    Williams</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/31/arts/quarantine-parenting-art.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/arts/02diary-project-kleon-02/02diary-project-kleon-02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Unschooled Artists
+    
+    Taking lessons in creativity from my kids.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Austin
+    Kleon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/25/business/the-great-au-pair-rush.html)
     
     <div class="css-79elbk">
@@ -451,7 +521,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -486,7 +556,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -520,7 +590,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -554,7 +624,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -588,7 +658,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -627,7 +697,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -648,77 +718,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Libby
-    Banks</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/12/arts/design/eastward-ho-even-art-is-leaving-for-the-hamptons.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/12/arts/12hamptons-roundup1/12hamptons-roundup1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Eastward, Ho\! Even Art Is Leaving for the Hamptons
-    
-    With vacation homes becoming full-time residences because of the
-    coronavirus pandemic, New York galleries are opening outposts to be
-    near collectors.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ted
-    Loos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/11/at-home/couples-coronavirus-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/12/multimedia/12ah-couples-promo/12ah-couples-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Tackle Reopening Choices as a Couple
-    
-    The world is reopening, and differing levels of anxiety can strain
-    already tense relationships. Here are some strategies for getting
-    through it together.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Amelia Nierenberg</span>
+    By <span class="css-1n7hynb">Libby Banks</span>
     
     </div>
     

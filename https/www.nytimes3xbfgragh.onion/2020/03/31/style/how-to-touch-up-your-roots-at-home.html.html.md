@@ -452,14 +452,6 @@ choose a lighter color.
 load is heavy because companies want to make users feel like their
 result is luscious and rich.”
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 If you’re still having trouble deciding, reach out to your stylist for
 some guidance. “I’ve been helping my clients take the online
 questionnaires and have even walked them through dyeing over FaceTime,”

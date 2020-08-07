@@ -520,7 +520,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/clinton-hill/homes-for-sale/94-waverly-avenue/12436-OLRS-0079241?)
     
     ![<span class="css-5hkc96">$2,550,000</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage9-7d957b3565c1347fb7a2349b570bc483.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage18-f792cd4a098881535ad2360cba09d976.svg)
     
     <div class="css-1ht6mw8">
     
@@ -818,7 +818,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/flatlands/homes-for-sale/1234-east-37-street/15055-5535909?)
     
     ![<span class="css-5hkc96">$775,000</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage3-2ec8f5869678308325e74f557e773222.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage11-0cfcc5dbaac029c795adf6f57db096c9.svg)
     
     <div class="css-1ht6mw8">
     
@@ -898,7 +898,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/new-york/harlem/homes-for-sale/102-west-123rd-street/12436-OLRS-0048859?)
     
     ![<span class="css-5hkc96">$4,650,000</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage10-0a15d7edd5a5e03a0a6a92941bc15b28.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage8-f147527419183d9b7a295a48b124e196.svg)
     
     <div class="css-1ht6mw8">
     
@@ -1010,7 +1010,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/sheepshead-bay/homes-for-sale/2310-jerome-avenue/13063-5538020?)
     
     ![<span class="css-5hkc96">$3,000,000</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage7-78b8a74e7eb2b9790425f76d4b3a2c32.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage15-5cca47f80c99bb61653efdbdabb4e10a.svg)
     
     <div class="css-1ht6mw8">
     
@@ -1048,7 +1048,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/marine-park/homes-for-sale/2255-east-38th-street/14888-5537978?)
     
     ![<span class="css-5hkc96">$849,000</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage8-f147527419183d9b7a295a48b124e196.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage19-4c8b49a3622b3c5028e61a0ace8eafa4.svg)
     
     <div class="css-1ht6mw8">
     
@@ -1235,7 +1235,7 @@ bathrooms (most to least)Sort by bathrooms (least to
     [](/real-estate/usa/ny/brooklyn/borough-park/homes-for-sale/863-50-street/15091-5522733?)
     
     ![<span class="css-5hkc96">$674,999</span> ¶
-    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage6-66af2271f50855411d2719380bb04700.svg)
+    **](https://g1.nyt.com/assets/realestate/vi-assets/static-assets/defaultListingImage12-f56a285eab9f0008e9fdccadf2238737.svg)
     
     <div class="css-1ht6mw8">
     
@@ -1265,7 +1265,7 @@ bathrooms (most to least)Sort by bathrooms (least to
 
 <div class="css-317rfz">
 
-1 - 24 of 17391 Homes
+1 - 24 of 17396 Homes
 
   - 
   - 1

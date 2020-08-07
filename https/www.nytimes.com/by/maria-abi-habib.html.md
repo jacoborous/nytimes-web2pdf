@@ -175,6 +175,76 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/16/world/00pakistan-hindus1/00pakistan-hindus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
+    
+    Drawn by jobs or land offered by Muslim groups, some Hindus, facing
+    discrimination and a virus-ravaged economy, are essentially
+    converting to survive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
+    ur-Rehman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/world/04lebanon5/merlin_175300464_f2bfa9c9-20e6-4321-b833-b5160a0ead76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What We Know About the Explosions in Beirut, Lebanon
+    
+    Dozens are dead and thousands hurt. The cause is unclear but the
+    government said “highly explosive materials” had been stored at the
+    blast scene in the Lebanese capital.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Maria
+    Abi-Habib</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/world/asia/pakistan-media-abductions.html)
     
     <div class="css-79elbk">
@@ -204,7 +274,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -244,7 +314,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -279,7 +349,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -319,7 +389,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -354,7 +424,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +467,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -433,7 +503,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -456,87 +526,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Zia ur-Rehman, Salman Masood
-    <span>and</span> Maria
-    Abi-Habib</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/22/world/asia/pakistan-plane-crash.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/22/world/22pakistan6/22pakistan1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Celebratory Flight Ends in Tragedy as Plane Crashes in Pakistan, Killing Scores
-    
-    The plane, an Airbus A320, crashed in a residential area near the
-    Karachi airport. At least 80 are dead, but the toll may climb.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zia ur-Rehman, Salman Masood
-    <span>and</span> Maria
-    Abi-Habib</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/05/19/espanol/mundo/deuda-china-virus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/19/business/19virus-china-debt-ES-01/00virus-china-debt-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Asia</span>
-    
-    ## ¿Qué va a pasar con los créditos millonarios que China otorgó a los países pobres?
-    
-    Sus economías sufren y las naciones deudoras quieren que Pekín
-    perdone o renegocie los préstamos. Hacerlo sería costoso. Rehusarse
-    puede dañar la imagen global del gigante asiático.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Keith
-    Bradsher</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes.com/2020/05/18/business/china-loans-coronavirus-belt-road.html "Read in English")
+    <span>and</span> Maria Abi-Habib</span>
     
     </div>
     

@@ -412,14 +412,6 @@ York Times. Send the opening sentence<span class="css-8l6xbc evw5hdy0">
 **Where**
 [timesevents.nytimes3xbfgragh.onion](https://timesevents.nytimes3xbfgragh.onion/astorywritingclasswithcurtissittenfeld)
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 -----
 
 ## Friday

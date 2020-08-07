@@ -405,14 +405,6 @@ In general, our quarantine house is a surprisingly harmonious set-up,
 but even our close family bonds would be stretched to the limit on the
 first hot, muggy day of summer. A pool, then, my sister suggested.
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 “Absolutely not,” I said. “The property values. The housing insurance.
 It’s not worth it.”
 

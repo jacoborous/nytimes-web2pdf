@@ -189,7 +189,23 @@ story](#after-subheader)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### critic’s notebook
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Black Pianist Helped Birth Bossa Nova. His Story Is Rarely Told.](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+    
+    Johnny Alf has always been revered by Antônio Carlos Jobim and João
+    Gilberto, but his legacy remains obscure, even among
+    Brazilians.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Beatriz
+    Miranda</span></span>
+    
+    </div>
+
+2.  ### critic’s notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Rutter</span>](https://static01.nyt.com/images/2020/08/04/arts/03farmscrounger-notebook-4/merlin_175262493_88d58a34-1b1e-4dd1-87a6-75756ba29c80-videoLarge.jpg)
@@ -208,7 +224,7 @@ story](#after-subheader)
     
     </div>
 
-2.  ### Critic’s Notebook
+3.  ### Critic’s Notebook
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sara
     Krulwich/The New York
@@ -228,7 +244,7 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jodi
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jodi
     Levine for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-activity-flowers6/02ah-activity-flowers6-videoLarge.jpg)
     
@@ -246,7 +262,13 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Devin
     Oktar Yalkin for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/03/arts/00anna-sale1/00anna-sale1-videoLarge.jpg)
     
@@ -265,13 +287,7 @@ story](#after-subheader)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Audible</span>](https://static01.nyt.com/images/2020/08/04/books/04Eisenberg1/merlin_174776955_5e1cd9f2-e7e2-4c7a-b8bc-e3a2a9787aa9-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -285,26 +301,6 @@ story](#after-subheader)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Elisabeth
     Egan</span></span>
-    
-    </div>
-
-2.  ### The Playlist
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
-    Cappello</span>](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
-    
-    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
-    others.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
-    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
     
     </div>
 
@@ -326,21 +322,23 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leigh
-    Wells</span>](https://static01.nyt.com/images/2020/08/02/fashion/31NAMED-KAREN-art/00KAREN-videoLarge-v2.jpg)
+4.  ### The Playlist
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenneth
+    Cappello</span>](https://static01.nyt.com/images/2020/07/31/arts/31playlist/31playlist-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Brief History of ‘Karen’](/2020/07/31/style/karen-name-meme-history.html)
+    ## [Billie Eilish’s Isolation Awakening, and 8 More New Songs](/2020/07/31/arts/music/playlist-billie-eilish-snakehips-a-boogie.html)
     
-    In 1965, it was the third-most-popular baby name in the United
-    States. In 2018, it was the 635th — and today it’s even less
-    popular. How did Karens fall so
-    far?
+    Hear tracks by Laura Veirs, A.G. Cook, Bill Frisell and
+    others.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Henry
-    Goldblatt</span></span>
+    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
+    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
+    Russonello</span></span>
     
     </div>
 
@@ -435,6 +433,47 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/31/style/karen-name-meme-history.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/02/fashion/31NAMED-KAREN-art/00KAREN-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## A Brief History of ‘Karen’
+    
+    In 1965, it was the third-most-popular baby name in the United
+    States. In 2018, it was the 635th — and today it’s even less
+    popular. How did Karens fall so far?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Henry
+    Goldblatt</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/culture/20200805/karen-name-meme-history/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/culture/20200805/karen-name-meme-history/zh-hant/ "Read in Traditional Chinese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/article/dominic-fike-at-first.html)
     
     <div class="css-79elbk">
@@ -463,7 +502,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -497,7 +536,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -534,7 +573,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -568,7 +607,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -602,7 +641,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -637,7 +676,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -673,7 +712,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -697,39 +736,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Gal Beckerman <span>and</span> Noor
     Qasim</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/at-home/coronavirus-learn-to-draw.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/multimedia/26AH-drawingcontour/26AH-drawingcontour-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## To Learn to Draw, Start With Your Shoe
-    
-    Drawing depends first on really seeing what’s in front of you,
-    contour drawing can help train your hand to follow your eyes.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Diane Olivier</span>
     
     </div>
     

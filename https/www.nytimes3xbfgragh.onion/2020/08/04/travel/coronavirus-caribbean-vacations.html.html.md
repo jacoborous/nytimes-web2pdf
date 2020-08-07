@@ -265,8 +265,8 @@ Burleigh</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4, 2020Updated <span class="css-epvm6">10:52 a.m.
-    ET</span>
+    Aug. 4,
+    2020
     
     </div>
 
@@ -274,7 +274,7 @@ Burleigh</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -434,21 +434,20 @@ all.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T20:08:28.255Z
+Updated 2020-08-05T07:58:24.076Z
 
 </div>
 
 </div>
 
+  - [As talks drag on, McConnell signals openness to jobless aid
+    extension, and negotiators agree on a
+    deadline.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
   - [Novavax sees encouraging results from two studies of its
     experimental
     vaccine.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Public and private schools in Maryland and elsewhere are divided
-    over in-person
-    instruction.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4825b93)
-  - [N.Y.C.’s health commissioner resigns after clashing with the mayor
-    over the
-    virus.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4d1eafa8)
+  - [Mississippians must now wear masks in public, governor
+    says.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
 
 <div class="briefing-block-footer">
 

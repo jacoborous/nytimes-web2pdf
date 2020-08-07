@@ -1,0 +1,518 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Business](https://www.nytimes.com/section/business)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Business](/section/business)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">How
+to Succeed in Your Office Job When There Is No
+Office</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/3hQqpxe</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+<div>
+
+<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="at-home-nav__innerContainer">
+
+<div class="at-home-nav__title">
+
+[At
+Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# How to Succeed in Your Office Job When There Is No Office
+
+</div>
+
+The coronavirus has many of us trying to be productive at home. Here are
+some tips for all of us, including our
+bosses.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Joohee
+Yoon</span></span></span>](https://static01.nyt.com/images/2020/06/22/business/22wfh-success/22wfh-success-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz last-byline" itemprop="name">Julie
+Weed</span>
+
+</div>
+
+</div>
+
+  - June 21,
+    2020
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The challenges of working from home are myriad. There are children to
+tutor, dogs to walk, shows to binge on. Hallway hellos and brainstorming
+at the whiteboard have given way to the stilted cadence of Zoom
+meetings. But three months into the work-from-home era, some best
+practices are emerging.
+
+### **For Everyone**
+
+  - **Shift your mind-set.** More than ever you will be measured on
+    output, not how many hours you sat at your desk. “It’s a different
+    way to approach work” and translates to more freedom to design your
+    day, said Ann Herrmann-Nehdi, the chief executive of
+    [Herrmann](https://www.thinkherrmann.com/), a multinational company
+    that creates tools to help employees communicate better. While there
+    are still unavoidable meetings, creating chunks of time to turn off
+    notifications and focus deeply on your own projects, called
+    “time-boxing,” can lift the quality of your output, she said.
+
+  - **Take the initiative.** Don’t expect your higher-ups to have it all
+    figured out. Almost every aspect of work is being reconsidered, so
+    jump in with suggestions, big or small. Even figuring out new Zoom
+    or Teams features and giving a quick lesson can be useful. Ms.
+    Herrmann-Nehdi said a colleague recently began creating infographics
+    that better explained her work findings to her remote teammates than
+    the usual slide deck.
+
+  - **Speak up quickly if something isn’t working**. “Raise a flag if
+    something looks off,” said Lauren Kaplowitz, a customer success
+    manager at Lively, a small company that helps people manage health
+    savings accounts. The business is based in San Francisco but she is
+    working from the Seattle area. Check in with others to see if they
+    are experiencing the same problems, Ms. Kaplowitz said. It’s harder
+    now for managers to see that you are spinning your wheels and aren’t
+    making progress, so let them know.
+
+  - **Re-create “in person.”** If you do your best collaborating in the
+    same room with a work partner, use technology and block a few hours
+    to “share a room,” Ms. Herrmann-Nehdi suggested. That way, you and
+    your teammate can see each other, view each other’s screens and
+    share a virtual white board for ideas.
+
+  - **Find office allies.** Brainstorm, review work together before
+    submitting it or just check in. Crossing paths in the break room is
+    a thing of the past, so Ms. Kaplowitz schedules short “coffee chats”
+    via videoconference to catch up with colleagues on work, or just to
+    talk.
+
+  - **Remove distractions.** Without the boss periodically peeking over
+    your shoulder, it’s easy to take a quick break and realize an hour
+    later you’re still on that unending Twitter or Instagram scroll.
+    Take social media off your work machine. Leave your phone in another
+    room.
+
+  - **Use what worked before**. Take home with you the best habits you
+    formed at the office. Setting priorities and communicating, for
+    example, are still essential to effective work. Iyobosa
+    Bello-Asemota, an investment banking analyst at Morgan Stanley,
+    creates financial analyses for a number of different teams. She
+    makes sure to keep them all apprised of the tasks she is juggling
+    and how she is organizing her time. “It helps set expectations and
+    is something I’ve always done,” she said, but it’s even more
+    important now that the teams are physically separated.
+
+  - **Don’t forget career advancement.** Keep thinking and talking about
+    the areas you want to improve, the parts of the company you want to
+    explore and how you may get there. While it’s not as easy as poking
+    her head in an office, Ms. Bello-Asemota carves out time to connect
+    with her mentor, a vice president at the firm, to get feedback on
+    topics like work style and the level of responsibility she is being
+    given.
+
+### **For Managers**
+
+  - **Overcommunicate.** Provide additional context. Explain the “whys”
+    of decisions and their possible effects to replace the information
+    picked up organically in the office. Make sure to clarify goals,
+    identify resources and explain where to find information, Ms.
+    Herrmann-Nehdi said. If you can, share how the company is doing
+    financially, what’s going on with reorganizations, layoffs, raises
+    and when staff can expect to be back in the office.
+
+  - **Make consistency a priority**. Updates should come at predictable
+    times and days. “It’s important to have a consistent cadence to
+    communication,” especially when so many other things are uncertain,
+    said Tracey Armstrong, chief executive of Copyright Clearance
+    Center, a 500-employee organization that helps companies license
+    copyrighted materials. Managers should also regularly check
+    communication channels like email, text, Slack and Teams to make
+    sure they are not creating a roadblock.
+
+  - **Meet differently.** In phone calls and videoconferences, take
+    extra time to encourage questions and engage those who haven’t
+    chimed in, Ms. Herrmann-Nehdi suggested. Afterward, reiterate shared
+    information, confirm understanding and distribute decisions, actions
+    and key discussion points in writing. Frequent short meetings like a
+    daily “Stand Up,” where team members each say what they are working
+    on that day, resources they need or challenges they face, can keep
+    them from moving in the wrong direction.
+
+  - **Rotate responsibilities.** New ways of doing things offer new
+    experiences**.** Brooke O’Berry, vice president for digital customer
+    experiences at Starbucks, helps team members feel comfortable in
+    videoconferences by rotating roles so everyone gets a chance to lead
+    the meeting or act as a moderator, managing the questions and
+    suggestions in the comment stream or chat window.
+
+  - **Repurpose your teams**. Find new ways to meet old objectives. Ms.
+    Armstrong’s trade-show team, whose goals included increasing
+    awareness of the company’s services, now meets that objective by
+    raising the company’s presence on LinkedIn, working with employees
+    to fill out their profiles and post content from the company.
+
+  - **Keep Experimenting.** Jean-Claude Saghbini, chief technology
+    officer at Wolters Kluwer Health, a global provider of health care
+    information technology, said at the beginning of the pandemic his
+    team was working “beyond full capacity” in creating ways to get
+    things done to keep their systems updated for front-line health care
+    workers. Now that the situation has changed from a “sprint to a
+    marathon,” Mr. Saghbini said, managers must keep checking in with
+    employees to hear what’s working and what isn’t, and to keep making
+    adjustments. Along with feedback on new processes and technologies
+    put in place for remote work, “managers need to ask employees about
+    their individual constraints like child-care hours,” he said, “and
+    design around each person’s constraints.”
+
+  - **Find ways to highlight your teams’ great work** **with
+    higher-ups**. Upper management may be physically out of sight, Ms.
+    O’Berry said, but “it’s important for the team to still feel
+    recognized.”
+
+  - **Remember the extra stress.** Employees aren’t just figuring out
+    how to work from home. They are managing newly full households, and
+    worrying about a potentially deadly virus as well as economic
+    fallout and social justice issues. Part of understanding that is
+    accepting messiness, and showing your team that you are not immune
+    to it, Mr. Saghbini said. “If your kids interrupt your video call,
+    if you have to get off the phone because the plumber is there, if
+    you just don’t want to turn on your video that day, as a manager, do
+    it, and show that’s OK.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

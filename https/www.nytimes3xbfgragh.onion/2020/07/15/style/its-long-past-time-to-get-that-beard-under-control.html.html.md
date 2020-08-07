@@ -421,14 +421,6 @@ much as he’s adding volume to it, which is helped along by some
 Beardbrand [Sea Salt
 Spray](https://www.beardbrand.com/products/sea-salt-spray).
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 “Facial hair is very different from the hair that grows on top of your
 head,” said Matty Conrad, the founder of throwback barbershops in
 British Columbia and a line of men’s grooming products, [Victory Barber

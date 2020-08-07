@@ -431,14 +431,6 @@ germ magnet. And anytime you’re in close quarters with other people,
 wear your mask, which “protects you from them and them from you,” Dr.
 Benjamin said.
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 Some transportation agencies have made this easier by installing
 sanitizer dispensers and offering masks. In San Francisco, Bay Area
 Rapid Transit agents have distributed masks to riders [at stations

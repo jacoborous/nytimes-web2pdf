@@ -562,14 +562,6 @@ aims to recapture them at Ever. But a week into July, he was still
 conceptualizing dishes on paper because he couldn’t get into his kitchen
 amid the cacophony of behind-schedule work.
 
-<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 “I just want the construction to get the hell out,” he said, glowering.
 
 Uncertainty over the availability of ingredients also delayed Mr.

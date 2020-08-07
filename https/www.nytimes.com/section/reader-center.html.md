@@ -55,7 +55,8 @@ Center](https://www.nytimes.com/section/reader-center)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ Center](https://www.nytimes.com/section/reader-center)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-reader-center" class="section css-15h4p1b e9abtgs0">
 
@@ -289,7 +265,25 @@ story](#after-mid1)
 [More in Times Insider
     »](/series/times-insider)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dan
+    Gluibizzi</span>](https://static01.nyt.com/images/2020/08/05/insider/05insider/05insider-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Taking Times Journalism to Another Stage](/2020/08/05/insider/times-events.html)
+    
+    With online programming that has included virtual workouts, a
+    discussion on protesters and a night with Broadway stars, the Times
+    Events team has expanded its scope to reach new
+    audiences.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Nancy
+    Coleman</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
     Beatty</span>](https://static01.nyt.com/images/2020/08/02/insider/28insider-scifi/28insider-scifi-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -307,7 +301,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shawna
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shawna
     X</span>](https://static01.nyt.com/images/2020/07/24/us/24insider-call/24insider-call-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -325,7 +319,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lawrence
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lawrence
     Jackson/Associated
     Press</span>](https://static01.nyt.com/images/2020/07/23/us/23insider-lewis-print/23insider-lewis-print-videoLarge.jpg)
     
@@ -343,7 +337,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.nyt.com/images/2020/07/22/insider/22insider-googlecos/22insider-googlecos-videoLarge.jpg)
     
@@ -360,25 +354,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jake
     Lucas</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lauren
-    Hall</span>](https://static01.nyt.com/images/2020/07/17/multimedia/17insider-ADA2/17insider-ADA2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Exploring What Disability Means Today, and Could Mean Tomorrow](/2020/07/20/insider/disability-ADA.html)
-    
-    Thirty years after the passage of the A.D.A., a Times project
-    featuring more than two dozen articles looks at the many facets of
-    the law’s impact and the work that still lies
-    ahead.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Amisha Padnani</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Dan
-    Sanchez</span></span>
     
     </div>
 
@@ -918,6 +893,43 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/20/insider/disability-ADA.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/17/multimedia/17insider-ADA2/17insider-ADA2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Times Insider</span>
+    
+    ## Exploring What Disability Means Today, and Could Mean Tomorrow
+    
+    Thirty years after the passage of the A.D.A., a Times project
+    featuring more than two dozen articles looks at the many facets of
+    the law’s impact and the work that still lies ahead.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Amisha Padnani <span>and</span> Dan
+    Sanchez</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/19/insider/times-book-review-remote.html)
     
     <div class="css-79elbk">
@@ -948,7 +960,7 @@ story](#after-mid3)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -985,7 +997,7 @@ story](#after-mid3)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1022,7 +1034,7 @@ story](#after-mid3)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1057,7 +1069,7 @@ story](#after-mid3)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1094,7 +1106,7 @@ story](#after-mid3)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1130,7 +1142,7 @@ story](#after-mid3)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1151,44 +1163,7 @@ story](#after-mid3)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Hannah
-    Wise</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/06/insider/could-we-fight-misinformation-with-blockchain-technology.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/06/pageoneplus/06insider-blockchain/xx-insider-blockchain-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Times Insider</span>
-    
-    ## Could We Fight Misinformation With Blockchain Technology?
-    
-    The Times’s Research and Development team conducted an experiment in
-    surfacing news photos’ metadata to help ensure they would be used to
-    advance the truth.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pooja Reddy</span>
+    By <span class="css-1n7hynb">Hannah Wise</span>
     
     </div>
     

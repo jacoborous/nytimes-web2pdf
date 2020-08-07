@@ -40,8 +40,9 @@
 
 <div>
 
-new video loaded: Trump Stumbles Over the Word ‘Yosemite’ During Bill
-Signing
+new video loaded: He Predicted Trump’s Win in 2016. Now He’s Ready to
+Call
+2020.
 
 <div>
 
@@ -81,13 +82,13 @@ bars
 
 <div class="css-1t7yl1y">
 
-0:00/0:52
+0:00/7:14
 
 </div>
 
 <div class="css-og85jy">
 
-\-0:52
+\-7:14
 
 </div>
 
@@ -103,26 +104,97 @@ bars
 
 transcript
 
-## Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
+## He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
 
-#### During a routine bill signing of the Great American Outdoors Act, President Trump appeared to pronounce Yosemite as “Yo Semites.”
+#### Most historians just study the past. But Allan Lichtman has successfully predicted the future.
 
 </div>
 
   -   
-    We’re here today to celebrate the passage of truly landmark
-    legislation that will preserve America’s majestic natural wonders,
-    priceless historic treasures, and that’s exactly what they are.
-    President Theodore Roosevelt was right when he called these
-    exquisite resources the most glorious heritage a people ever
-    receive. We want every American child to have access to pristine
-    outdoor spaces. When young Americans experience the breathtaking
-    beauty of the Grand Canyon, when their eyes widen in amazement as
-    Old Faithful bursts into the sky, when they gaze upon Yosemite’s
-    — Yosemite’s towering sequoias, their love of country grows
-    stronger and they know that every American has truly a duty to
-    preserve this wondrous
-inheritance.
+    This is professor Allan Lichtman. He’s taught history at American
+    University for almost 50 years. He’s a former steeplechase champion.
+    “It’s a race designed for horses but run by people.”
+    “Tic-Tac-Dough.” And a former quiz show winner. “I had a 16-show
+    winning streak. Won four cars.” But we’re not here to talk about any
+    of that. We’re here because “Allan Lichtman” “Allan Lichtman” “Allan
+    Lichtman” is the Nostradamus of presidential elections. He’s
+    accurately predicted them for four decades. Yes, even that one.
+    “Donald Trump sent me a note. Congrats professor. Good call. In
+    his big Sharpie letters.” Now Allan’s ready to tell us who will win
+    in 2020. But we’ll come back to that. Allan Lichtman is certain
+    we’ve been thinking about elections all wrong. “The pollsters and
+    the pundits cover elections as though they were horse races. But
+    history tells us voters are not fooled by the tricks of the
+    campaign. Voters vote pragmatically according to how well the party
+    holding the White House has governed the country.” So polls are
+    worthless? “They are snapshots in time. None of this in the end has
+    any impact whatsoever on the outcome of a presidential election.” So
+    Allan Lichtman designed a better system to predict presidential
+    winners. He calls it “The Keys to the White House.” And like some
+    other politics these days, there’s a Russian involved. “In 1981, I
+    met Vladimir Keilis-Borok. Vladimir turned to me and said, we are
+    going to collaborate.” By the way, Vladimir wasn’t a historian or a
+    politician. He was a leading expert in predicting earthquakes. “This
+    point, I thought the guy was either nuts or KGB.” He wasn’t. “We
+    recast American presidential elections as stability, the party
+    holding the White House keeps the White House. And earthquake, the
+    White House party is turned out of power.” So they got to work. “We
+    looked at every presidential election from 1860 to 1980.” What they
+    found were 13 keys. Only two of which have anything to do with the
+    traits of the candidates. Allan has used the keys to accurately
+    predict every election. First in 1984, calling it two years early
+    before anyone even knew who Reagan’s contender would be. In 1988,
+    calling it in spring when Bush was trailing Dukakis. Again in ‘92,
+    ‘96 and in 2000, when he called it for Al Gore? Hey, Allan. “No,
+    no, I wasn’t wrong. I correctly predicted that Al Gore would win the
+    popular vote. When I first developed the system in ‘81, you had to
+    go all the way back to 1888 to find a divergence between the popular
+    vote and the Electoral College vote.” So Allan eventually started
+    calling the winner, not just the popular vote, which was useful 16
+    years later when, well, you know. “I’m a Democrat. And the toughest
+    thing in being a forecaster is to keep your own politics out of it.”
+    But that’s enough history, professor. Let’s get to it. What do
+    Allan’s 13 keys predict for 2020? “And remember, an answer of
+    ‘true’ always favors the re-election of the White House party. If
+    six or more of the keys are false, you get a political earthquake.”
+    OK, No. 1: The White House party gained House seats between midterm
+    elections. “Republicans lost the U.S. House midterms in 2018. So
+    false.” No. 2: There is no primary contest for the White House
+    party. “No Republicans challenged Trump for his renomination. So
+    true.” No. 3: The incumbent seeking. The sitting president is
+    running for re-election. “Doesn’t look like he’s stepping down, so
+    true.” Four: There is no third-party challenger. “Despite claims by
+    Kanye West to be running, this is a two-party race.” This is looking
+    pretty good for Trump so far. No. 5: The short-term economy is
+    strong. “The pandemic has pushed the economy into recession. False.”
+    Six: Long-term economic growth during this presidential term has
+    been as good as the past two terms. “The pandemic has caused such
+    negative G.D.P. growth in 2020 that the key has turned false.” No.
+    7: The White House has made major changes to national policy.
+    “Through his big tax cut, but mostly through his executive orders,
+    Trump has fundamentally changed the policies of the Obama era. So
+    true.” No. 8: There is no social unrest during the term. “There has
+    been considerable social unrest on the streets, with enough violence
+    to threaten the social order. So false.” No. 9: The White House is
+    untainted by scandal. “My favorite key. As I predicted, Trump was
+    impeached. Plus he has plenty of other scandals. So false.” No. 10:
+    The White House has no major foreign or military failures abroad.
+    “We’ve had some very difficult moments with Donald Trump. But so
+    far, true.” 11: The White House has a major success abroad. “While
+    Trump hasn’t had any big splashy failures, he hasn’t had any major
+    successes either. So false.” 12: The incumbent-party candidate is
+    charismatic. “Donald Trump is a great showman. But he only appeals
+    to a narrow slice of the American people. And as a result, false.”
+    13: The challenger is uncharismatic. “Biden is a decent empathetic
+    person, but he’s not inspirational or charismatic. So true.” That
+    means — “The keys predict that Trump will lose the White House.”
+    That’s Allan Lichtman’s prediction. And Allan Lichtman is always
+    right. “Don’t just take my word for it. There are forces at play
+    outside the keys — voter suppression, Russian meddling. It’s up to
+    you the voters to decide the future of our democracy. So get out and
+    vote. Vote in person. Vote by mail. As Abraham Lincoln said, the
+    best way to predict the future is to choose it.” \[MUSIC
+PLAYING\]
 
 </div>
 
@@ -178,18 +250,18 @@ inheritance.
 
 <div class="css-ggwicp">
 
-# <span>Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing</span>
+# <span>He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.</span>
 
 <div class="css-19m31ns">
 
-By The Associated Press<span class="css-1iknmmf">•</span>August 4,
+Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
 2020
 
 </div>
 
 </div>
 
-## During a routine bill signing of the Great American Outdoors Act, President Trump appeared to pronounce Yosemite as “Yo Semites.”
+## Most historians just study the past. But Allan Lichtman has successfully predicted the future.
 
 </div>
 
@@ -235,12 +307,38 @@ By The Associated Press<span class="css-1iknmmf">•</span>August 4,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-square320.jpg)
+    poster](https://static01.nyt.com/images/2020/07/07/autossell/op-Lichtman_thumb1/op-Lichtman_thumb1-square320.png)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
+    
+    ### He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
+
+  - [](https://www.nytimes.com/video/us/100000007272762/un-secretary-generational-catastrophe-schools-reopen.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/world/04virus-briefing-un/merlin_174338310_a5db87e5-45e5-4b44-a65b-b846a42948cf-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:31</span>
+    
+    ### U.N. Says Virus Causing ‘Largest Disruption of Education Ever’
+
+  - [](https://www.nytimes.com/video/us/100000007272140/trump-stumbles-over-yosemite.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:52</span>
     
     ### Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
 
@@ -249,13 +347,13 @@ By The Associated Press<span class="css-1iknmmf">•</span>August 4,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
+    poster](https://static01.nyt.com/images/2020/08/05/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">0:54</span>
+    <span class="css-1xigvfz">1:30</span>
     
-    ### Huge Blast Shakes Beirut
+    ### Videos Capture Aftermath of Deadly Blast in Beirut
 
   - [](https://www.nytimes.com/video/world/100000007271927/pacific-island-rescue-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
     
@@ -516,32 +614,6 @@ By The Associated Press<span class="css-1iknmmf">•</span>August 4,
     <span class="css-1xigvfz">0:54</span>
     
     ### Audio of Trump’s Speakerphone Conversation With Inhofe
-
-  - [](https://www.nytimes.com/video/us/100000007264733/obama-john-lewis-funeral.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/30/us/politics/30elections-briefing-obama1/merlin_175121262_57a7d3a6-5799-4df4-b104-477a47b17db6-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">39:34</span>
-    
-    ### Full Video: Obama Delivers Eulogy for Rep. John Lewis
-
-  - [](https://www.nytimes.com/video/us/politics/100000007264823/john-lewis-funeral.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/30/us/politics/30elections-briefing-obama1/merlin_175121262_57a7d3a6-5799-4df4-b104-477a47b17db6-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">3:16</span>
-    
-    ### ‘This Beautiful Man’: Obama, Bush, Clinton and Pelosi Honor John Lewis
 
 </div>
 

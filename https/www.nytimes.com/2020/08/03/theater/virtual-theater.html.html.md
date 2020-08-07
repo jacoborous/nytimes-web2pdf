@@ -134,6 +134,38 @@ Center</span>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
 
+<div>
+
+<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="at-home-nav__innerContainer">
+
+<div class="at-home-nav__title">
+
+[At
+Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+  - [Talk: To
+    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Grilled
+    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Watch: 'The
+    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: Reporters' Google
+    Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div id="top-wrapper" class="css-1sy8kpn">
@@ -237,14 +269,20 @@ Green</span>](https://www.nytimes.com/by/jesse-green)
 
 </div>
 
-  - Aug. 3,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 3, 2020Updated Aug. 4,
     2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -297,6 +335,18 @@ drama](https://www.nytimes.com/2020/07/26/theater/in-these-uncertain-times-revie
 devised by Source Material. On Saturday I added an in-your-face
 autobiographical memoir about a wheelchair and a multimedia memory play
 produced, in part, by an academic think tank.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Mind you, offbeat material, by its nature, is not always as coherent or
 as charming as the polished commercial kind. Nor is everything offbeat
@@ -368,6 +418,14 @@ the European Union nor a social media campaign that drew thousands of
 supporters seemed to help; she remained all but trapped in her apartment
 for weeks.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 It says a lot about Stevens’s mordant tone that she named the play (and
 her character) for the insult online haters flung at her, as if she were
 perpetrating a scam instead of trying to regain her independent
@@ -376,14 +434,6 @@ only to authorities, but also to her boyfriend and even to the audience.
 She begins the play by congratulating us for being so “delightfully
 progressive” as to watch “a borderline freak show” in order to brag
 about it later.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “You’ll say how hard it was to watch me,” she predicts witheringly, “but
 you stuck through the awkward moments because you are a good person
@@ -469,6 +519,14 @@ memories of that Eden after it is bulldozed, a woman (Marlene Beltran)
 tells the story of the queer family and vibrant Chicano culture that
 flourished among its walnut trees.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Directed (“virtually”) by Elena Araoz, “a farm for meme” was produced by
 a consortium that includes [Cara Mía
 Theater](https://www.caramiatheatre.org/) of North Texas and
@@ -478,14 +536,6 @@ research program Araoz leads at Princeton University. We are going to
 need those innovations, though it’s hard to say whether all of the ones
 I heard about in a companion seminar are viable. Plays on eBay? Ghost
 audiences?
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 But that’s the point, really. Ideas bubble up from underground during
 crises, thanks to people who couldn’t find a platform before. Now that

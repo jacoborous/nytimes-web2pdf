@@ -412,14 +412,6 @@ facilitated by organizers and educators, according to the book club’s
 Patreon page. The program is specifically focused on political
 education, and will focus on themes like Marxism and feminism.
 
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-</div>
-
-</div>
-
 “We read books, but under the umbrella that I am continuously trying to
 expand different initiatives through book club,” she said.
 

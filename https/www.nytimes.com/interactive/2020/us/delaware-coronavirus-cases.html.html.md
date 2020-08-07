@@ -187,7 +187,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 2:10 P.M.
+Times</span>Updated August 5, 2020, 4:51 A.M.
 E.T.
 
 </div>
@@ -331,44 +331,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.57692307692308%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.35031847133758%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.00000000000001%; top: 59.32626325639426%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.68152866242038%; top: 59.32626325639426%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -461,11 +461,12 @@ news
 
 </div>
 
-At least 106 new cases were reported in Delaware on Aug. 3. Over the
-past week, there have been an average of 93 cases per day, a decrease of
-13 percent from the average two weeks earlier.
+At least 2 new coronavirus deaths and 82 new cases were reported in
+Delaware on Aug. 4. Over the past week, there have been an average of 94
+cases per day, a decrease of 15 percent from the average two weeks
+earlier.
 
-As of Tuesday afternoon, there have been at least 15,137 cases and 587
+As of Wednesday morning, there have been at least 15,137 cases and 587
 deaths in Delaware since the beginning of the pandemic, according to a
 New York Times
 database.
@@ -909,9 +910,9 @@ in last<br />
 <td><span>1,554 </span></td>
 <td><span>587 </span></td>
 <td><span>60 </span></td>
-<td><span>649 </span></td>
-<td><span>67 </span></td>
-<td><span>6 </span></td>
+<td><span>661 </span></td>
+<td><span>68 </span></td>
+<td><span>7 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
@@ -919,12 +920,12 @@ in last<br />
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
 <span class="first x-label svelte-ig1tx7">Mar. 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 3</span>
+<div class="pancake-point svelte-11ba04d" style="left: 100.00000000000001%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Aug. 4</span>
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/delaware.svg" alt="Delaware heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/045d80898803a58939817627e6384cb8cea5062a/build/heatmaps/nyt_world/usa/delaware.svg" alt="Delaware heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
@@ -933,40 +934,40 @@ in last<br />
 <td><span>1,252 </span></td>
 <td><span>289 </span></td>
 <td><span>52 </span></td>
-<td><span>378 </span></td>
-<td><span>68 </span></td>
-<td><span>3 </span></td>
+<td><span>406 </span></td>
+<td><span>73 </span></td>
+<td><span>4 </span></td>
 <td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_10/new_castle.svg" alt="New Castle heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/045d80898803a58939817627e6384cb8cea5062a/build/heatmaps/nyt_world/usa/usa_10/new_castle.svg" alt="New Castle heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Sussex </span></td>
-<td><span>5,685 </span></td>
-<td><span>2,427 </span></td>
-<td><span>191 </span></td>
-<td><span>82 </span></td>
-<td><span>144 </span></td>
-<td><span>61 </span></td>
-<td><span>1 </span></td>
-<td><span>&lt;1 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_10/sussex.svg" alt="Sussex heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
 <td><span>Kent </span></td>
 <td><span>2,226 </span></td>
 <td><span>1,231 </span></td>
 <td><span>107 </span></td>
 <td><span>59 </span></td>
-<td><span>90 </span></td>
-<td><span>50 </span></td>
+<td><span>94 </span></td>
+<td><span>52 </span></td>
 <td><span>2 </span></td>
 <td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_10/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/045d80898803a58939817627e6384cb8cea5062a/build/heatmaps/nyt_world/usa/usa_10/kent.svg" alt="Kent heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Sussex </span></td>
+<td><span>5,685 </span></td>
+<td><span>2,427 </span></td>
+<td><span>191 </span></td>
+<td><span>82 </span></td>
+<td><span>121 </span></td>
+<td><span>52 </span></td>
+<td><span>1 </span></td>
+<td><span>&lt;1 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/045d80898803a58939817627e6384cb8cea5062a/build/heatmaps/nyt_world/usa/usa_10/sussex.svg" alt="Sussex heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -1066,44 +1067,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.57692307692308%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.35031847133758%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 50.00000000000001%; top: 59.32626325639426%">
+<div class="pancake-point svelte-11ba04d" style="left: 49.68152866242038%; top: 59.32626325639426%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1197,37 +1198,37 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 92.62820512820514%; top: -3.000000000000014%">
+<div class="pancake-point svelte-11ba04d" style="left: 92.03821656050955%; top: -3.000000000000014%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Additional
 deaths
@@ -1235,14 +1236,14 @@ released</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 48.397435897435905%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.08917197452229%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.230769230769234%; top: 90.47619047619048%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.108280254777068%; top: 90.47619047619048%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1251,7 +1252,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 73.07692307692308%; top: 0%; width: 0.64%"></span><span class="break svelte-1iuahvx" style="left: 92.94871794871796%; top: 0%; width: 0.64%"></span>
+<span class="break svelte-1iuahvx" style="left: 72.61146496815286%; top: 0%; width: 0.64%"></span><span class="break svelte-1iuahvx" style="left: 92.35668789808916%; top: 0%; width: 0.64%"></span>
 
 </div>
 
