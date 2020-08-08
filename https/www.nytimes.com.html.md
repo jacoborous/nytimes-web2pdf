@@ -360,67 +360,6 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-[](/2020/08/08/us/politics/voting-nov-3-election.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>What Will Happen After Voting Ends on Election Day?</span>
-
-</div>
-
-  - The clash between Democrats and Republicans over expanding voter
-    rights ahead of a national election has been exacerbated by the
-    pandemic.
-  - President Trump’s litigiousness and unfounded claims of fraud have
-    increased the likelihood of epic postelection court fights.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/08/us/politics/voting-nov-3-election.html)
-
-![Counting ballots in Florida after the 2000 election. Court fights
-after the 2020 campaign are shaping up to be more intense.
-<span class="credit">Keith Meyers/The New York
-Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-threeByTwoSmallAt2X-v2.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1aew2eb eqveam62">
-
-<div>
-
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
@@ -437,19 +376,48 @@ Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Weeks Before Classes Start, Colleges Make Reopening Plans</span>
+## <span>Trump Signs Limited Orders on Economic Aid as Stimulus Talks Stall</span>
 
 </div>
 
-Parents are facing a tough choice: force their children to stay home, or
-allow them back on campus, possibly risking infection. Here’s the
-latest.
+  - The executive orders came as crucial benefits were expiring and no
+    new pandemic relief was in sight.
+  - White House officials and top congressional Democrats remained
+    bitterly, and widely, divided on a number of critical issues. Here’s
+    the latest.
 
 <div class="css-1slnf6i">
 
 <div class="css-na047m">
 
 <span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Analysis: Pelosi Confidently Plays Hardball on Virus Relief
+
+</div>
+
+Emboldened by Republican divisions and a favorable political landscape,
+Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
+
+<div>
+
+<div class="css-na047m">
 
 </div>
 
@@ -483,11 +451,13 @@ latest.
 
 </div>
 
+<div class="css-1nuzdmm e1aa0s8g0">
+
 <div>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-bs48m0 eqveam60">
+<div class="css-1fgqvm0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -495,17 +465,16 @@ latest.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
+[](/2020/08/08/us/politics/voting-nov-3-election.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Without $600 Weekly Benefit, Unemployed Face Bleak Choices
+## <span>What Will Happen After Voting Ends on Election Day?</span>
 
 </div>
 
-A federal supplement to jobless pay was a lifeline for millions and for
-the economy. Its cutoff, even if temporary, may have lasting
-consequences.
+President Trump’s litigiousness and unfounded claims of fraud have
+increased the likelihood of epic postelection court fights.
 
 <div>
 
@@ -523,24 +492,27 @@ consequences.
 
 </div>
 
-<div class="css-bs48m0 eqveam60">
+<div class="css-ws86q6 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
 
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+[](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Analysis: Pelosi Confidently Plays Hardball on Virus Relief
+## How Kristi Noem Fueled Speculation About Mike Pence’s Job
 
 </div>
 
-Emboldened by Republican divisions and a favorable political landscape,
-Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
+After her flight on Air Force One provoked rumors, Gov. Kristi Noem of
+South Dakota returned to Washington to smooth things over with the vice
+president.
 
 <div>
 
@@ -724,114 +696,6 @@ Times</span>](https://static01.nyt.com/images/2020/08/03/world/00virus-nursingho
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-96x60l eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>How Kristi Noem Fueled Speculation About Mike Pence’s Job</span>
-
-</div>
-
-After her flight on Air Force One provoked rumors, Gov. Kristi Noem of
-South Dakota returned to Washington to smooth things over with the vice
-president.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-96x60l eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Chris Dodd, a Washington uber-veteran, has been tasked with finding Joe Biden’s running mate.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## President Trump wants the U.S. to get a cut of any deal with TikTok. No one knows how that might work.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1g8bx4t">
@@ -884,47 +748,6 @@ protesters.
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="css-pwtn0q eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
-
-<div class="css-1g8bx4t">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:177.77777777777777px">
-
-</div>
-
-</div>
-
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
-
-Protesters clashed with security forces on Saturday in Beirut.
-<span class="credit">Hassan Ammar/Associated Press</span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
@@ -949,6 +772,31 @@ country’s former prime minister and his entourage in a bombing in 2005.
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+<div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0">
+
+Demonstrators took hold of Lebanon’s capital, fueled by widespread
+outrage after a blast in Beirut’s port that killed at least 154 people
+and destroyed entire neighborhoods. <span class="credit">Hassan
+Ammar/Associated Press</span>
 
 </div>
 
@@ -999,6 +847,44 @@ Burna Boy’s Afro-fusion music. And more.
 
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<div class="css-pwtn0q eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/briefing/best-weekend-reads.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:177.77777777777777px">
+
+</div>
+
+</div>
+
+<div class="css-e4gm3y">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
@@ -1020,32 +906,6 @@ Burna Boy’s Afro-fusion music. And more.
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/07/briefing/best-weekend-reads.html)
-
-<div class="css-1g8bx4t">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:480px">
-
-</div>
-
-</div>
-
-<div class="css-e4gm3y">
 
 </div>
 
