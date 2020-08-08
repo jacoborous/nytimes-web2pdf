@@ -379,9 +379,8 @@ President Trump swings against TikTok and WeChat.
   - The clash between Democrats and Republicans over expanding voter
     rights ahead of a national election has been exacerbated by the
     pandemic.
-  - Additionally, President Trump’s litigiousness and unfounded claims
-    of fraud have increased the likelihood of epic postelection court
-    fights.
+  - President Trump’s litigiousness and unfounded claims of fraud have
+    increased the likelihood of epic postelection court fights.
 
 <div>
 
@@ -404,7 +403,7 @@ President Trump swings against TikTok and WeChat.
 ![Counting ballots in Florida after the 2000 election. Court fights
 after the 2020 campaign are shaping up to be more intense.
 <span class="credit">Keith Meyers/The New York
-Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/08DC-VOTING-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-threeByTwoSmallAt2X-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1076,47 +1075,7 @@ Burna Boy’s Afro-fusion music. And more.
 
 ### Opinion
 
-<div class="css-anz6u5">
-
-<div class="css-tub26b">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-1dvlumo e18df3gd0">
-
-Michael T. Osterholm and Neel Kashkari
-
-</div>
-
-</div>
-
-## Here’s How to Crush the Virus Until Vaccines Arrive
-
-</div>
-
-To save lives, and save the economy, we need another lockdown.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<div class="css-dlmg09">
 
 <div class="css-tub26b">
 
@@ -1128,14 +1087,7 @@ To save lives, and save the economy, we need another lockdown.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
-
-<div class="css-dcl9ft">
-
-![Maureen
-Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1143,18 +1095,18 @@ Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-do
 
 <div class="css-1dvlumo e18df3gd0">
 
-Maureen Dowd
+The Editorial Board
 
 </div>
 
 </div>
 
-## No Wrist Corsages, Please
+## America Could Control the Pandemic by October. Let’s Get to It.
 
 </div>
 
-Has America grown since 1984, or will the knives still be out for
-Biden’s running mate?
+The solutions to combating the coronavirus are no mystery. It’s time to
+do this right.
 
 <div>
 
@@ -1172,11 +1124,11 @@ Biden’s running mate?
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
+[](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-square640-v3.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1193,6 +1145,68 @@ Biden’s running mate?
 </div>
 
 <div class="css-dh19r0">
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
+
+<div class="css-dcl9ft">
+
+![Maureen
+Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Maureen Dowd
+
+</div>
+
+</div>
+
+## No Wrist Corsages, Please
+
+</div>
+
+Has America grown since 1984, or will the knives still be out for
+Biden’s running mate?
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Michael T. Osterholm and Neel Kashkari
+
+</div>
+
+</div>
+
+## Here’s How to Crush the Virus Until Vaccines Arrive
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-tub26b">
 
@@ -1444,39 +1458,6 @@ Roger Cohen
 </div>
 
 ## Beirut on the Potomac
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/06/opinion/coronavirus-us-recession.html)
-
-<div class="css-dcl9ft">
-
-![Paul
-Krugman](https://static01.nyt.com/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Paul Krugman
-
-</div>
-
-</div>
-
-## Coming Next: The Greater Recession
 
 </div>
 
