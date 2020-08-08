@@ -166,6 +166,33 @@ Supported by
 
 1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
     Schaff/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    <div class="css-1hyfx7x">
+    
+    [![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbStandard.jpg)](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+    
+    </div>
+    
+    ### News analysis
+    
+    ## [Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+    
+    Emboldened by Republican divisions and a favorable political
+    landscape, the speaker is refusing to agree to a narrow relief
+    measure, unbothered by charges that she is an impediment to a deal.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
+    Fandos</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
     Times</span>](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -186,30 +213,6 @@ Supported by
     <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Jim
     Tankersley</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
-    V. Agins/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1hyfx7x">
-    
-    [![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-INTEL/09DC-INTEL-thumbStandard.jpg)](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
-    
-    </div>
-    
-    ## [Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
-    
-    But a new assessment says China would prefer to see the president
-    defeated, though it is not clear Beijing is doing much to meddle in
-    the 2020 campaign to help Joseph R. Biden Jr.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julian E.
-    Barnes</span></span>
     
     </div>
 
@@ -239,30 +242,31 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
+    Meyers/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ### News analysis
-    
-    ## [Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+    ## [The Voting Will End Nov. 3. The Legal Battle Probably Won’t.](/2020/08/08/us/politics/voting-nov-3-election.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbLarge.jpg)](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+    [![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/08DC-VOTING-thumbLarge.jpg)](/2020/08/08/us/politics/voting-nov-3-election.html)
     
     </div>
     
-    Emboldened by Republican divisions and a favorable political
-    landscape, the speaker is refusing to agree to a narrow relief
-    measure, unbothered by charges that she is an impediment to a deal.
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
-    Fandos</span></span>
+    <span class="css-1baulvz" itemprop="name">Peter Baker</span>,
+    <span class="css-1baulvz" itemprop="name">Nick Corasaniti</span>,
+    <span class="css-1baulvz" itemprop="name">Michael S. Schmidt</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Maggie
+    Haberman</span></span>
     
     </div>
 
@@ -321,6 +325,42 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
     
     <div class="css-79elbk">
@@ -350,7 +390,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -386,7 +426,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -423,7 +463,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -457,7 +497,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -492,7 +532,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -525,7 +565,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -560,7 +600,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -597,7 +637,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -622,43 +662,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Robert Draper</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/trump-biden-polls-interview.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08moments1/08moments1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News Analysis</span>
-    
-    ## Trump’s Axios Interview, Kanye West’s Campaign: The Latest in the 2020 Race
-    
-    President Trump wants to brand Joe Biden as a doddering gaffe
-    machine. But the incumbent’s own rhetoric causes so much controversy
-    it is overwhelming the strategy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
-    Annie Karni</span>
     
     </div>
     

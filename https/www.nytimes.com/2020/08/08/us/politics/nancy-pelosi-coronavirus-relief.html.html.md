@@ -244,7 +244,7 @@ Fandos</span>](https://www.nytimes.com/by/nicholas-fandos)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 8, 2020Updated <span class="css-epvm6">11:33 a.m. ET</span>
+    Aug. 8, 2020Updated <span class="css-epvm6">1:27 p.m. ET</span>
     
     </div>
 
@@ -406,7 +406,7 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/08/us/politics/08DC
 
 <div class="css-53u6y8">
 
-But Ms. Pelosi, in her second term as speaker and arguably as powerful
+But Ms. Pelosi, in her second round as speaker and arguably as powerful
 as she has ever been, has seen little reason to change course. Instead,
 with public opinion she says is in favor of expansive government
 intervention and polls showing Republicans up and down the ballot

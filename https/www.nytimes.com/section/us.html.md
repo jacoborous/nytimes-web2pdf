@@ -299,6 +299,110 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/obituaries/robbie-waters-dead-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/11/obituaries/06Waters/06Waters-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    
+    ## Robbie Waters, an Old-School Cop and Legislator, Dies at 84
+    
+    A Sacramento fixture, Mr. Waters drove a 1932 Ford and crossed paths
+    with Patty Hearst and Squeaky Fromme. He died of the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">John Leland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/marines-training-accident-recovered.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/multimedia/08xp-marines-recovered-pix/08xp-marines-recovered-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Remains of Sailor and 7 Marines Killed in Training Accident Are Recovered
+    
+    The servicemen had been missing since the amphibious assault vehicle
+    they were in sank off the coast of Southern California on July 30.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Bryan Pietsch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/video/us/100000007279713/sturgis-motorcycle-rally-coronavirus.html)
     
     <div class="css-79elbk">
@@ -329,7 +433,7 @@ Advertisement
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -364,7 +468,7 @@ Advertisement
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -400,7 +504,7 @@ Advertisement
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -437,7 +541,7 @@ Advertisement
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -470,7 +574,7 @@ Advertisement
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -504,7 +608,7 @@ Advertisement
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -526,110 +630,6 @@ Advertisement
     the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/trump-russia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump, Russia and an Intelligence Document: Key Moments
-    
-    Officials told The New York Times Magazine that the draft of a
-    classified document reporting that Russia favored President Trump in
-    the 2020 election was changed to soften its assessment.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan Yuhas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/business/economy/lost-unemployment-benefits.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1c/00virus-cliff1c-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Without $600 Weekly Benefit, Unemployed Face Bleak Choices
-    
-    A federal supplement to jobless pay was a lifeline for millions and
-    for the economy. Its cutoff, even if temporary, may have lasting
-    consequences.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben Casselman <span>and</span> Gillian
-    Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/us/politics/00dodd1/merlin_36514615_dcf57ca5-d1c3-4ae1-b32d-a6c14fe5ca3c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Chris Dodd, an Insider From Biden’s Past, Is Helping Him Pick His Future
-    
-    As Biden works to win over progressive voters, he has empowered a
-    Washington uber-veteran long trailed by allegations of personal and
-    financial indiscretion.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matt Flegenheimer, Rebecca R. Ruiz
-    <span>and</span> Sydney Ember</span>
     
     </div>
     

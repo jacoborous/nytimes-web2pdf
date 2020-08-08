@@ -225,21 +225,20 @@ Series
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
-    J. Brown/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicholas
+    Konrad/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Here’s How to Crush the Virus Until Vaccines Arrive](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+    ## [America Could Control the Pandemic by October. Let’s Get to It.](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
     
-    To save lives, and save the economy, we need another lockdown.
+    The solutions to combating the coronavirus are no mystery. It’s time
+    to do this right.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael T.
-    Osterholm</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Neel
-    Kashkari</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
+    Board</span></span>
     
     </div>
 
@@ -262,7 +261,25 @@ Series
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SDI
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
+    J. Brown/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Here’s How to Crush the Virus Until Vaccines Arrive](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+    
+    To save lives, and save the economy, we need another lockdown.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Michael T.
+    Osterholm</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Neel
+    Kashkari</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SDI
     Productions/E+, via Getty
     Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Ramos/07Ramos-videoLarge.jpg)
     
@@ -281,42 +298,28 @@ Series
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/06/opinion/06argSub/merlin_173801661_39539801-5ac0-4026-a458-7ae3610f6610-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### The Argument
-    
-    ## [Trump Supporters Make Their Case for 2020](/2020/08/06/opinion/the-argument-trump-coronavirus-election.html)
-    
-    Conservatives Helen Andrews and Daniel McCarthy join Ross for a
-    reelection roundtable.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
 </div>
 
 <div class="css-1xdhyk6 e46isfb0">
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Elliot Ackerman
+1.  ### Ruchir Sharma
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannibal
-    Hanschke/Reuters</span>](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Gray/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [America’s Military Should Confront Its Past, Not Bury It](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
+    ## [Why Is Everyone Buying Gold?](/2020/08/08/opinion/gold-investment-coronavirus.html)
     
-    The German military’s infiltration by far-right extremists should be
-    a warning for how we confront our own troubled history.
+    It’s one of the best performing assets in the world this year.
+    That’s not a great sign.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elliot
-    Ackerman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ruchir
+    Sharma</span></span>
     
     </div>
 
@@ -338,22 +341,21 @@ Series
     
     </div>
 
-3.  ### Ruchir Sharma
+3.  ### Elliot Ackerman
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-    Gray/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannibal
+    Hanschke/Reuters</span>](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why Is Everyone Buying Gold?](/2020/08/08/opinion/gold-investment-coronavirus.html)
+    ## [America’s Military Should Confront Its Past, Not Bury It](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
     
-    It’s one of the best performing assets in the world this year.
-    That’s not a great sign.
+    The German military’s infiltration by far-right extremists should be
+    a warning for how we confront our own troubled history.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ruchir
-    Sharma</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Elliot
+    Ackerman</span></span>
     
     </div>
 
@@ -642,6 +644,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/07/opinion/trump-2020-census.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08bouie_print/merlin_153869544_fe018d11-1ded-4eef-909b-30ab36d22516-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump and His Allies Think They Know Who Counts
+    
+    But history has a way of confounding those who think they can
+    control it.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/opinion/republicans-climate-change.html)
     
     <div class="css-79elbk">
@@ -669,7 +704,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -702,7 +737,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -724,39 +759,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Ron Haviv</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/opinion/06nuke-still/06nuke-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The World Can Still Be Destroyed in a Flash
-    
-    It seems that the United States is plunging into a new arms race
-    without learning the lessons of the last.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     

@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -106,7 +104,7 @@ Voting</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -148,14 +146,27 @@ Voting</span>
 
   - 
     
-    <div id="live_container" class="nytslm_li_loud">
+    <div id="default_container" class="nytslm_li_loud">
     
-    <div id="live" class="nytslm_li_live_loud">
+    <div id="default" class="nytslm_li_default_loud">
     
     </div>
     
-    [Latest
-    Results](https://www.nytimes.com/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Election
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Tennessee
+    Results](https://www.nytimes.com/interactive/2020/08/06/us/elections/results-tennessee-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -169,32 +180,6 @@ Voting</span>
     
     [Biden’s V.P.
     Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Map of
-    Donations](https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Delegate
-    Count](https://www.nytimes.com/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -242,8 +227,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -269,8 +253,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -333,14 +316,13 @@ Vogel</span>](https://www.nytimes.com/by/kenneth-p-vogel)
 
 </div>
 
-  - July 31,
-    2020
+  - July 31, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -497,42 +479,6 @@ pandemic.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-05T03:23:56.561Z
-
-</div>
-
-</div>
-
-  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
-    to
-    Trump.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
-  - [The military-style uniforms of federal agents who responded to the
-    unrest in Portland will be
-    replaced.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-62a8e06b)
-  - [President Trump is suddenly a big supporter of mail-in voting — in
-    Florida.](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -642,8 +588,7 @@ that said, “Rigged Election, and EVERYONE knows it\!”
 
 But Mr. Trump — who himself has repeatedly voted by mail in recent
 elections — has set in motion changes at the Postal Service that could
-make the problem
-worse.
+make the problem worse.
 
 </div>
 
@@ -747,8 +692,7 @@ raising questions about the ban on overtime and the other changes.
 wrote, “in a presidential election year when many states are relying
 heavily on absentee mail-in ballots, increases in mail delivery timing
 would impair the ability of ballots to be received and counted in a
-timely manner — an unacceptable outcome for a free and fair
-election.”
+timely manner — an unacceptable outcome for a free and fair election.”
 
 </div>
 
@@ -862,8 +806,7 @@ and George W. Bush, said that during his time, the board rarely if ever
 had contact with the White House.
 
 “I’ve never seen anything quite like this,” he said. “No one would have
-thought that we would have sought the input of the
-administration.”
+thought that we would have sought the input of the administration.”
 
 </div>
 
@@ -907,7 +850,7 @@ administration.”
 
 # Our 2020 Election Guide
 
-Updated Aug. 4, 2020
+Updated Aug. 7, 2020
 
   - 
     
@@ -915,11 +858,11 @@ Updated Aug. 4, 2020
     
     ## The Latest
     
-      - Kris Kobach, a polarizing figure in Kansas politics, [lost the
-        Senate primary
-        there](https://www.nytimes.com/2020/08/04/us/politics/kobach-tlaib.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
-        relieving G.O.P. officials who feared he could jeopardize a safe
-        seat.
+      - [Russia is using a range of techniques to denigrate Joe
+        Biden](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        American intelligence officials said, declaring that Moscow
+        continues to try to interfere in the 2020 campaign to help
+        President Trump.
 
   - 
     
@@ -978,8 +921,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1023,8 +965,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

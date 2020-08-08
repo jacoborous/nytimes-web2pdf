@@ -30,8 +30,7 @@
 
 <div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
 
-[New
-York](https://www.nytimes.com/section/nyregion)
+[New York](https://www.nytimes.com/section/nyregion)
 
 </div>
 
@@ -59,8 +58,7 @@ York](https://www.nytimes.com/section/nyregion)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -84,8 +82,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <span class="css-17xtcya">[New
 York](/section/nyregion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">After
-6 Weeks, Victors Are Declared in 2 N.Y. Congressional
-Primaries</span>
+6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries</span>
 
 </div>
 
@@ -107,7 +104,7 @@ Primaries</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -118,6 +115,7 @@ Primaries</span>
     
     </div>
 
+  - 
   - 
 
 </div>
@@ -144,8 +142,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -171,8 +168,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -249,8 +245,7 @@ Stevens</span>](https://www.nytimes.com/by/matt-stevens)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4,
-    2020
+    Aug. 4, 2020
     
     </div>
 
@@ -258,7 +253,7 @@ Stevens</span>](https://www.nytimes.com/by/matt-stevens)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -269,6 +264,7 @@ Stevens</span>](https://www.nytimes.com/by/matt-stevens)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -362,7 +358,7 @@ other officials.
 
 Although city elections officials certified the results, they did not
 release updated vote totals; The Associated Press, which typically
-declares election results, has not done so in either race.
+declares election results, reported the results on Wednesday.
 
 </div>
 
@@ -433,9 +429,9 @@ lawyer<span class="css-8l6xbc evw5hdy0"> </span>and business teacher who
 had framed the Democratic primary as a “change election” and himself as
 a change agent, has not conceded.
 
-“This is no longer a Democratic or a Republican fight, this is not an
-establishment versus progressive fight,” he said on Monday. “This is now
-a fight for the voting rights of millions in a pandemic.”
+“The Board of Elections has preliminarily certified our race without a
+final vote tally,” he said on Wednesday. “The Democratic process does
+not end when it becomes politically inconvenient.”
 
 Ms. Maloney has served in Congress since 1993 and [became the first
 woman ever to lead the powerful Oversight and Reform
@@ -476,8 +472,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -521,8 +516,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -201,13 +201,19 @@ Murphy</span>](https://www.nytimes.com/by/heather-murphy)
 
 </div>
 
-  - Aug. 8, 2020, <span class="css-epvm6">10:30 a.m. ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 8, 2020Updated <span class="css-epvm6">3:06 p.m. ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -663,8 +669,8 @@ Jimenez added, is picking one that will filter all the air in the room
 at least twice an hour.
 
 Be aware that if an air-filtration system sounds too good to be true,
-your instincts may be right. Rely on questionable marketing and science,
-Dr. Jimenez said.
+your instincts may be right. Some of them appear to rely on questionable
+marketing and science, Dr. Jimenez said.
 
 ## There’s no ‘good spot’ in a room.
 
@@ -695,9 +701,9 @@ others,” he said. “It’s tough to predict.”
 
 It’s also hard to gauge how many is too many people in a given space.
 After all it only takes one infected person to get other people sick. If
-you have a *c*arbon monoxide detector, you could try a technique
+you have a *c*arbon dioxide detector, you could try a technique
 previously used to manage the spread of tuberculosis, and use that to
-tip you off, Dr. Miller suggests. If CO2 levels are above 1,000 parts
+tip you off, Dr. Miller suggests. If CO₂ levels are above 1,000 parts
 per one million, you’d be wise to decrease the number of people in the
 indoor space, increase the amount of outdoor air or both, she says.
 

@@ -239,7 +239,7 @@ Clarey</span>](https://www.nytimes.com/by/christopher-clarey)
     <div class="css-ld3wwf e16638kd2">
     
     Published Aug. 7, 2020Updated Aug. 8, 2020,
-    <span class="css-epvm6">12:03 p.m. ET</span>
+    <span class="css-epvm6">2:54 p.m. ET</span>
     
     </div>
 
@@ -283,16 +283,13 @@ tour-level tennis will be part of everyone else’s.
 
 Professional players have been on hiatus because the coronavirus
 pandemic shut down both the men’s and women’s circuits in early March.
-The question is, how does that affect Williams’s chances of winning the
-United States Open, the Grand Slam tournament scheduled to begin on Aug.
-31?
 
-“I think she has the same chances that she has had since the birth of
-her daughter,” her coach, Patrick Mouratoglou, said in a telephone
-interview from France this week before traveling to Kentucky. “She
-absolutely has the level. It still depends a great deal on her whether
-she wins a Grand Slam. The Covid, for me, has changed absolutely nothing
-in that department.”
+“That’s the biggest difference,” Williams said during a pretournament
+news conference on Saturday. “Instead of me being injured, it’s kind of
+like everyone had to take a break and a pause, and it will be really fun
+and interesting to see how we play. I feel like everyone has an
+opportunity to actually be more fit now, because we spent so much time
+at home to just kind of work on yourself and your life and your game.”
 
 </div>
 
@@ -301,6 +298,17 @@ in that department.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The question is, how does<span class="css-8l6xbc evw5hdy0"> </span>this
+collective break affect Williams’s chances of winning the United States
+Open, the Grand Slam tournament scheduled to begin on Aug. 31?
+
+“I think she has the same chances that she has had since the birth of
+her daughter,” her coach, Patrick Mouratoglou, said in a telephone
+interview from France this week before traveling to Kentucky. “She
+absolutely has the level. It still depends a great deal on her whether
+she wins a Grand Slam. The Covid, for me, has changed absolutely nothing
+in that department.”
 
 Mouratoglou, who has coached Williams since 2012 and helped her win 10
 of her 23 Grand Slam singles titles, spent much of the pandemic break at
@@ -318,6 +326,14 @@ after a difficult childbirth, she has reached four Grand Slam finals —
 two at Wimbledon and two at the U.S. Open — losing all of them in
 straight sets.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 After winning her first tournament as a mother in January in Auckland,
 New Zealand, she arrived with renewed momentum at this year’s Australian
 Open, only to play one of her shakiest recent matches in a third-round
@@ -328,48 +344,28 @@ There were doubts about Williams’s fitness and ability to handle the
 biggest moments before the pandemic, and those doubts remain as she
 returns at age 38 with the U.S. Open again in her sights.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-“She has been training very well,” said Mouratoglou, who has not seen
-Williams in person since early March but has received regular updates on
-her practices. “She is still motivated, and I think she will be ready.
-The only thing that is missing are the matches, the opponent across the
-net, and there is nothing that can replace the feeling of competition,
-and that’s exactly why we are going to Lexington instead of waiting. She
-needs the matches. We’ll see how many she gets.”
+“I see myself doing it all if happens,” she said of the tennis schedule,
+including the European clay-court circuit set to follow the U.S. Open.
 
 Williams, who has a history of blood clots and has had life-threatening
 pulmonary embolisms that affected her lungs, could potentially face
 greater risks than an average world-class athlete if she contracts
 Covid-19, the disease caused by the virus.
 
-“The best thing for her is definitely not to catch it,” said
-Mouratoglou, emphasizing that he is not a physician and not qualified to
-comment on the potential risks.
+“I don’t have full lung capacity, so I’m not sure what would happen to
+me,”<span class="css-8l6xbc evw5hdy0"> </span>she said. “I’m sure I’ll
+be OK but I don’t want to find out. I have like 50 masks I travel with.
+I never want to be without one.”
 
-Williams, who declined to be interviewed for this article through her
-management team, last competed on Feb. 8, when she was upset by
-Anastasija Sevastova of Latvia in a Fed Cup match.
+“
 
-Since then, she has mostly been at home in Palm Beach Gardens, Fla.,
-with her husband Alexis Ohanian and their 2-year-old daughter Olympia.
+Williams,, last competed on Feb. 8, when she was upset by Anastasija
+Sevastova of Latvia in a Fed Cup match.
 
-She and Ohanian, a venture capitalist, have [invested in a National
-Women’s Soccer League expansion
-franchise](https://www.nytimes.com/2020/07/21/sports/soccer/angel-city-fc-nwsl.html)
-in Los Angeles (Olympia is an investor, too).
-
-Williams, who was active on social media during the shutdown, [often
-kept it lighthearted](https://www.instagram.com/p/CDkFg76HjNX/): singing
-along to the Frozen 2 soundtrack with Olympia and posting a workout with
-her older sister Venus Williams where they adopted Arnold Schwarzenegger
-accents and talked about “pumping iron.”
+Since then, she said she has been<span class="css-8l6xbc evw5hdy0">
+</span>“a little bit of a recluse” and has mostly been at home in Palm
+Beach Gardens, Fla., with her husband Alexis Ohanian and their
+2-year-old daughter Olympia.
 
 </div>
 
@@ -378,6 +374,21 @@ accents and talked about “pumping iron.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+She and Ohanian, a venture capitalist, have [invested in a National
+Women’s Soccer League expansion
+franchise](https://www.nytimes.com/2020/07/21/sports/soccer/angel-city-fc-nwsl.html)
+in Los Angeles (Olympia is an investor, too).They also built a gym at
+home and a tennis court with the U.S. Open’s new hardcourt
+surface.<span class="css-8l6xbc evw5hdy0"> </span>“I go there and it’s
+my own sanctuary,” she said of the court. “I was like why haven’t I done
+this 20 years ago?”
+
+Williamswas active on social media during the shutdown and [often kept
+it lighthearted](https://www.instagram.com/p/CDkFg76HjNX/): singing
+along to the Frozen 2 soundtrack with Olympia and posting a workout with
+her older sister Venus Williams where they adopted Arnold Schwarzenegger
+accents and talked about “pumping iron.”
 
 But she also has ventured into deeper and more topical territory:
 focusing on the Black Lives Matter movement and social justice.
@@ -435,9 +446,6 @@ it wasn’t a celebration on tour,” she said, reflecting on waiting in the
 locker room when Venus was playing and listening to the crowd’s
 reaction.
 
-If Serena heard loud cheers, she said her “heart would sink” because she
-knew Venus had lost a point or the match.
-
 </div>
 
 </div>
@@ -445,6 +453,9 @@ knew Venus had lost a point or the match.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+If Serena heard loud cheers, she said her “heart would sink” because she
+knew Venus had lost a point or the match.
 
 “But if it was complete silence, then I would be like, ‘OK, she’s
 winning,’” Serena said.
@@ -483,6 +494,14 @@ Winning her 24th with a new generation of players rising would be
 perhaps her finest achievement. The situation in which tennis finds
 itself only makes the chase more intriguing.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “If she wins this U.S. Open as her 24th, it will be the toughest Grand
 Slam title I think she’s ever going to win or maybe anybody for that
 matter,” said Chris Evert, the ESPN analyst and an 18-time major singles
@@ -491,14 +510,6 @@ champion.
 Evert said players have long complained about the Open coming near the
 end of the season when they are tired and complained about the traffic
 and hectic atmosphere in New York.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “That’s a piece of cake compared to this,” she said of the 2020 Open.
 
@@ -559,9 +570,6 @@ quite a surprise to Jon Sanders, tournament director of the new Top Seed
 Open, a lower-tier WTA event.
 
 “My initial response was, ‘This isn’t real right?’” he said this week.
-“But I was assured it was, and we are honored to have her want to make
-this part of her U.S. Open preparation. We take it as a great
-responsibility to make sure she stays safe when she is here.”
 
 Williams, ranked No. 9 in singles, is the only top 10 player in the
 tournament, which will be the first tour event in North America since
@@ -570,11 +578,6 @@ ample star power with No. 11 Aryna Sabalenka of Belarus, No. 14 Johanna
 Konta of Britain, American teens Amanda Anisimova and Coco Gauff and the
 40-year-old Venus Williams.
 
-During the break many players took part in exhibitions or World
-TeamTennis, the mixed-gender league that played from July 12 to Aug. 2
-at the Greenbrier resort in West Virginia to create a protected
-environment.
-
 </div>
 
 </div>
@@ -582,6 +585,11 @@ environment.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+During the break many players took part in exhibitions or World
+TeamTennis, the mixed-gender league that played from July 12 to Aug. 2
+at the Greenbrier resort in West Virginia to create a protected
+environment.
 
 Though Venus Williams and Sofia Kenin, the 21-year-old American who won
 this year’s Australian Open, played the W.T.T. season, Serena chose to
@@ -599,9 +607,10 @@ careers to heal nagging injuries. There is still a concern that the
 demands of intense competition after a long layoff could lead quickly to
 new injuries.
 
-“After waiting so long, the motivation and enthusiasm will be far above
-average, and that could compensate for some weaknesses,” Mouratoglou
-said.
+“Match fitness is always different than fitness,” Williams said. “We’ve
+been stuck at home for six months and a part of me, well every part of
+me loved it actually because I haven’t been home that long since I was
+literally a teenager. Even when I was pregnant I was traveling a lot.”
 
 </div>
 
@@ -642,19 +651,11 @@ Today Uspw/USA Today Sports, via Reuters</span></span>
 
 <div class="css-53u6y8">
 
-Often Williams’s cheerleader in chief, Mouratoglou does acknowledge that
-the opposition has played a role in Williams’s Grand Slam drought. She
-was beaten by tour veterans Angelique Kerber and Halep at the last two
+Mouratoglou, often Williams’s cheerleader in chief, does acknowledge
+that the opposition has played a role in her Grand Slam drought. She was
+beaten by tour veterans Angelique Kerber and Halep at the last two
 Wimbledons and by young talents Naomi Osaka and Bianca Andreescu at the
 last two U.S. Opens.
-
-“They did play fabulous matches, and if they had not played as well,
-Serena would have had the chance to come back,” he said. “The others are
-of course progressing and are strong, and I am not trying to undervalue
-them. But Serena is Serena, and the real Serena in full possession of
-her powers and with a winning mind-set, the person who will stop her is
-not yet born. Actually she is surely already born but she’s not ready
-yet.”<span class="css-8l6xbc evw5hdy0"> </span>
 
 </div>
 
@@ -663,6 +664,14 @@ yet.”<span class="css-8l6xbc evw5hdy0"> </span>
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“They did play fabulous matches, and if they had not played as well,
+Serena would have had the chance to come back,” he said. “The others are
+of course progressing and are strong, and I am not trying to undervalue
+them. But Serena is Serena, and the real Serena in full possession of
+her powers and with a winning mind-set, the person who will stop her is
+not yet born. Actually she is surely already born but she’s not ready
+yet.”<span class="css-8l6xbc evw5hdy0"> </span>
 
 For Mouratoglou, the keys for Williams to break her streak in New York
 are optimum fitness, quality matches in the lead-up and the right mental

@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -135,8 +133,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -177,6 +174,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/25/sports/rob-manfred-mlb-season.html)
     
     <div class="css-79elbk">
@@ -193,8 +226,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael S.
-    Schmidt</span>
+    By <span class="css-1n7hynb">Michael S. Schmidt</span>
     
     </div>
     
@@ -206,7 +238,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -229,8 +261,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Michael S. Schmidt <span>and</span>
-    Maggie
-    Haberman</span>
+    Maggie Haberman</span>
     
     </div>
     
@@ -242,7 +273,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -264,8 +295,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Adam Goldman <span>and</span> Michael
-    S.
-    Schmidt</span>
+    S. Schmidt</span>
     
     </div>
     
@@ -277,7 +307,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -300,8 +330,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nicholas Fandos <span>and</span>
-    Michael S.
-    Schmidt</span>
+    Michael S. Schmidt</span>
     
     </div>
     
@@ -313,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -336,8 +365,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Adam Goldman, Julian E. Barnes
-    <span>and</span> Katie
-    Benner</span>
+    <span>and</span> Katie Benner</span>
     
     </div>
     
@@ -349,7 +377,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -372,8 +400,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Natalie Kitroeff <span>and</span>
-    Michael S.
-    Schmidt</span>
+    Michael S. Schmidt</span>
     
     </div>
     
@@ -385,7 +412,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -409,8 +436,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Peter Baker, Michael S. Schmidt
-    <span>and</span> Maggie
-    Haberman</span>
+    <span>and</span> Maggie Haberman</span>
     
     </div>
     
@@ -422,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -445,43 +471,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Peter Baker, Maggie Haberman, Danny
-    Hakim <span>and</span> Michael S.
-    Schmidt</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/trump-impeachment-trial-01-31/bolton-oval-office-ukraine)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/01/31/us/politics/31dc-liveblog-bolton/merlin_157114527_b4dea055-c591-49cc-81a3-64ee929018d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bolton says Trump’s aides heard the president ask him in the Oval Office to help pressure Ukraine.
-    
-    The Senate is debating whether to hear additional witnesses in
-    President Trump’s trial.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span>
-    Michael S.
-    Schmidt</span>
+    Hakim <span>and</span> Michael S. Schmidt</span>
     
     </div>
     
@@ -499,19 +489,18 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/01/31/us/politics/trump-bolton-ukraine.html)
+    [](/live/2020/trump-impeachment-trial-01-31/bolton-oval-office-ukraine)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/01/31/us/politics/31dc-bolton1/31dc-bolton1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/01/31/us/politics/31dc-liveblog-bolton/merlin_157114527_b4dea055-c591-49cc-81a3-64ee929018d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Told Bolton to Help His Ukraine Pressure Campaign, Book Says
+    ## Bolton says Trump’s aides heard the president ask him in the Oval Office to help pressure Ukraine.
     
-    The president asked his national security adviser last spring in
-    front of other senior advisers to pave the way for a meeting between
-    Rudolph Giuliani and Ukraine’s new leader.
+    The Senate is debating whether to hear additional witnesses in
+    President Trump’s trial.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -534,24 +523,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -575,8 +563,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -635,8 +622,7 @@ story](#after-mid2)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

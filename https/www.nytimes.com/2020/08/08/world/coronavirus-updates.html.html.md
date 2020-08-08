@@ -219,12 +219,12 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 12:48 p.m.
+<span class="css-1656jku">Aug. 8, 2020, 4:07 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 12:48
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 4:07
 p.m. ET</span>
 
 </div>
@@ -244,9 +244,9 @@ so.
 
 Right Now
 
-In Belgium, party leaders again failed to form a new government. The
-country has been operating with an emergency minority coalition
-throughout the coronavirus epidemic.
+President Trump plans to hold a news conference, where he’s expected to
+sign a handful of executive orders addressing the economic fallout from
+the coronavirus.
 
 </div>
 
@@ -258,17 +258,18 @@ throughout the coronavirus epidemic.
 
   - [Universities make reopening plans, and parents see tough choices no
     matter what.](#link-7bd2f2ea)
-  - [A C.D.C. report on children shows hundreds were sent to intensive
-    care for a syndrome connected to Covid-19.](#link-57c61e05)
   - [As U.S. relief talks falter again, Trump says he’s prepared to act
     on his own.](#link-182e4a8e)
+  - [Motorcycles fill the streets of Sturgis, S.D., for a 10-day rally
+    expected to attract 250,000 people.](#link-6d42ce45)
+  - [A C.D.C. report on children shows hundreds were sent to intensive
+    care for a syndrome connected to Covid-19.](#link-57c61e05)
   - [The blockaded Gaza Strip is nearly untouched, except for tough new
     limits on movement.](#link-bb0ce1a)
   - [Low-wage and unemployed workers find themselves in limbo as
     stimulus measures expire.](#link-1f7e24cf)
-  - [Cases are increasing in Belgium, where the parties missed another
-    deadline to form a government.](#link-4b5029e)
-  - [Are illicit parties endangering New York City?](#link-17b89333)
+  - [Here’s how to regulate indoor air when summer weather coincides
+    with a pandemic.](#link-5bad68cc)
 
 </div>
 
@@ -401,14 +402,6 @@ Other updates from around the U.S.:
 </div>
 
 <div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-</div>
 
 </div>
 
@@ -582,6 +575,203 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29
 
 ## 
 
+<div id="link-182e4a8e" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+As U.S. relief talks falter again, Trump says he’s prepared to act on
+his own.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Though it’s unclear whether he has
+the authority to do so, President Trump said on Friday that if Congress
+did not reach an agreement, he would act unilaterally to extend a
+coronavirus economic aid
+package.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anna
+Moneymaker for The New York
+Times</span></span></span>](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/07vid-trump-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Crisis negotiations between the White House and top Democrats teetered
+on the brink of collapse on Friday, as both sides said they remained
+deeply divided on an economic recovery package and President Trump
+indicated that he was prepared to act on his own to provide relief,
+although it was unclear whether he has the authority to do so.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+On Saturday afternoon, Mr. Trump plans to sign a handful of executive
+orders related to virus relief. The White House declined to describe the
+substance of the orders in advance. One person familiar with what was
+expected said they related to a halt in the payroll tax, an eviction
+moratorium, unemployment benefits and student loan relief.
+
+[At a news conference on
+Friday](https://www.nytimes.com/2020/08/07/us/politics/trump-news-conference-bedminster.html)
+evening at his golf resort in Bedminster, N.J., [Mr. Trump
+said](https://www.nytimes.com/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
+that if an aid agreement with congressional Democrats could not be
+reached, he would sign executive orders reinstating a national
+moratorium on evictions, deferring student loan interest and payments
+“until further notice,” and “enhancing unemployment benefits” through
+the end of the year.
+
+He also said he would defer payroll taxes, retroactive from July 1
+through the end of the year.
+
+The president **** did not specify how the deferral would work, and it
+was unclear whether he had the authority to take such an action without
+approval from Congress. The move, which would not help unemployed
+workers, faces opposition from both Democrats and Republicans in
+Congress.
+
+The news conference came after a meeting between administration
+officials and Democratic leaders that ended with no agreement and no
+additional talks scheduled.
+
+Democrats, who had earlier said they would be willing to lower their
+spending demands to $2 trillion from $3.4 trillion, said the White House
+needed to return with a higher overall price tag after Mr. Trump’s
+negotiators declined to accept that offer. Republicans have proposed a
+$1 trillion plan.
+
+Treasury Secretary Steven Mnuchin and Mark Meadows, the White House
+chief of staff, called for Democrats to lower the amount of aid for
+state and local governments and to provide more specifics on how they
+proposed to revive lapsed unemployment benefits.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+While the executive orders have not been finalized, Mr. Meadows said it
+was likely that action would come over the weekend.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-6d42ce45" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Motorcycles fill the streets of Sturgis, S.D., for a 10-day rally
+expected to attract 250,000 people.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Bikers gathered in the western
+South Dakota community for the annual 10-day motorcycle rally, despite
+objections from residents who feared it could be a superspreader
+event.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Benjamin
+Rasmussen for The New York
+Times</span></span></span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Tens of thousands of [motorcyclists
+swarmed](https://www.nytimes.com/2020/08/07/us/sturgis-motorcyle-rally.html)
+the streets of Sturgis, S.D., on Saturday for an annual rally despite
+[objections from
+residents](https://www.nytimes.com/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
+— and with little regard for the coronavirus.
+
+The herds of people driving recreational vehicles, bikes and classic
+cars overran every street in town, making no effort to keep six feet
+apart. Few masks could be seen, and free bandannas being passed out were
+mostly folded, or wrapped around people’s heads.
+
+With temperatures in the low 80s and not much cloud cover, many people
+crowded under shopping tents where “Screw Covid” shirts were sold,
+seeking shade.
+
+The Sturgis Motorcycle Rally, a 10-day affair that began Friday, is
+expected to attract roughly 250,000 enthusiasts this year — about half
+the number who attended last year, but a figure that puts it on track to
+be among the country’s largest public gatherings since the first
+coronavirus cases emerged.
+
+South Dakota is one of several states that did not impose a lockdown,
+and state officials have not required residents to wear masks.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Health experts say the coronavirus is less likely to spread outdoors,
+especially when people wear masks and socially distance. But large
+gatherings like the motorcycle rally also increase the number of
+visitors inside restaurants and stores.
+
+A few businesses in Sturgis put up signs limiting the number of
+customers who could enter, but most did not.
+
+Over the past week, South Dakota has reported an [average of 87
+coronavirus cases per
+day](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html).
+At least two new virus deaths and 106 new cases were reported on
+Saturday.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
 <div id="link-57c61e05" class="css-105iojl">
 
 </div>
@@ -640,6 +830,10 @@ became so ill that they needed intensive care, according to [a new
 report](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932e2.htm?s_cid=mm6932e2_w#T1_down)
 from the Centers for Disease Control and Prevention.
 
+The syndrome, which can be deadly, has rattled parents and education
+officials as schools across the United States struggle with the prospect
+of reopening in the fall and the coronavirus continues its spread.
+
 </div>
 
 </div>
@@ -647,10 +841,6 @@ from the Centers for Disease Control and Prevention.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-The syndrome, which can be deadly, has rattled parents and education
-officials as schools across the United States struggle with the prospect
-of reopening in the fall and the coronavirus continues its spread.
 
 The researchers said that from early March to late July, the C.D.C.
 received reports of 570 young people — ranging from infants to age 20 —
@@ -682,100 +872,6 @@ previous underlying medical conditions, and most experienced
 complications that involved four or more organ systems, especially the
 heart. Ten died. Nearly two-thirds were admitted to intensive care units
 for a median of five days.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
-<div id="link-182e4a8e" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-As U.S. relief talks falter again, Trump says he’s prepared to act on
-his own.
-
-</div>
-
-</div>
-
-![<span class="css-16f3y1r e13ogyst0">Though it’s unclear whether he has
-the authority to do so, President Trump said on Friday that if Congress
-did not reach an agreement, he would act unilaterally to extend a
-coronavirus economic aid
-package.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anna
-Moneymaker for The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/07vid-trump-videoSixteenByNine3000.jpg)
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Crisis negotiations between the White House and top Democrats teetered
-on the brink of collapse on Friday, as both sides said they remained
-deeply divided on an economic recovery package and President Trump
-indicated that he was prepared to act on his own to provide relief,
-although it was unclear whether he has the authority to do so.
-
-[At a news conference on
-Friday](https://www.nytimes.com/2020/08/07/us/politics/trump-news-conference-bedminster.html)
-evening at his golf resort in Bedminster, N.J., [Mr. Trump
-said](https://www.nytimes.com/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
-that if an aid agreement with congressional Democrats could not be
-reached, he would sign executive orders reinstating a national
-moratorium on evictions, deferring student loan interest and payments
-“until further notice,” and “enhancing unemployment benefits” through
-the end of the year.
-
-He also said he would defer payroll taxes, retroactive from July 1
-through the end of the year.
-
-The president **** did not specify how the deferral would work, and it
-was unclear whether he had the authority to take such an action without
-approval from Congress. The move, which would not help unemployed
-workers, faces opposition from both Democrats and Republicans in
-Congress.
-
-The news conference came after a meeting between administration
-officials and Democratic leaders that ended with no agreement and no
-additional talks scheduled.
-
-Democrats, who had earlier said they would be willing to lower their
-spending demands to $2 trillion from $3.4 trillion, said the White House
-needed to return with a higher overall price tag after Mr. Trump’s
-negotiators declined to accept that offer. Republicans have proposed a
-$1 trillion plan.
-
-Treasury Secretary Steven Mnuchin and Mark Meadows, the White House
-chief of staff, called for Democrats to lower the amount of aid for
-state and local governments and to provide more specifics on how they
-proposed to revive lapsed unemployment benefits.
-
-While the executive orders have not been finalized, Mr. Meadows said it
-was likely that action would come over the weekend.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 ## 
 
@@ -832,10 +928,18 @@ Fatima for The New York Times</span></span>
 
 <div class="css-53u6y8">
 
-The blockaded Gaza Strip might be one of the only places in the world
+The blockaded Gaza Strip might be among the few places in the world
 where no cases of community transmission of the coronavirus have been
 recorded — a phenomenon attributed to the coastal enclave’s isolation as
 well as to swift measures taken by its militant Hamas rulers.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 But the pandemic has not left Gaza untouched.
 
@@ -854,14 +958,6 @@ territory were detected at quarantine facilities.
 
 Still, experts did not rule out the possibility of the pandemic
 penetrating into the area’s densely populated cities and towns.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “All it takes is one small mistake,” said Gerald Rockenschaub, the head
 of the World Health Organization’s mission to the Palestinians. “There’s
@@ -957,14 +1053,6 @@ will replace them, many unemployed workers now find themselves in limbo,
 struggling to find work in an economy that remains significantly
 weakened.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 [Eviction
 moratoriums](https://www.nytimes.com/2020/08/07/business/economy/housing-economy-eviction-renters.html)
 are expiring or have expired in much of the country, and [a report
@@ -990,6 +1078,14 @@ repossessed can make it hard to find another job. And for children,
 periods of hunger, homelessness and stress can have long-term effects on
 development and learning.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 While the U.S. economy has [slowly added back some
 jobs](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus)
 that vanished at the beginning of the pandemic, the unemployment rate
@@ -1011,7 +1107,7 @@ about the future.
 
 ## 
 
-<div id="link-4b5029e" class="css-105iojl">
+<div id="link-5bad68cc" class="css-105iojl">
 
 </div>
 
@@ -1021,8 +1117,118 @@ about the future.
 
 </div>
 
-Cases are increasing in Belgium, where the parties missed another
-deadline to form a government.
+Here’s how to regulate indoor air when summer weather coincides with a
+pandemic.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:261.64444444444445px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Window
+air-conditioning units are typically designed for comfort, not
+health.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Gleb
+Garanich/Reuters</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Even as the coronavirus continues to spread widely, and public health
+officials have urged people to move activities outside as much as
+possible, the summer heat still tends to demand a great deal of time
+spent indoors.
+
+For those who regularly share home or office spaces with others for
+extended periods, this may raise questions about indoor air quality. A
+growing number of scientists are convinced that significant coronavirus
+transmission can occur through the air indoors, and that poor
+ventilation magnifies the risk. But the options available for increasing
+airflow or filtering out are not all created equal.
+
+Experts have a few recommendations.
+
+If the temperature outside is tolerable, consider opening a few windows
+to let outdoor air in. This can be amplified by blowing air inside with
+a box fan.
+
+“The more outside air you have, the more you dilute the virus,” said
+Jose-Luis Jimenez, an aerosol scientist at the University of Colorado
+Boulder.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In hotter climates, some air-conditioners can be used safely if they
+cool and circulate both outdoor and indoor air. But be wary of certain
+models that only recirculate the air inside.
+
+Those looking to be especially cautious may consider using air filters.
+But as with air-conditioners, to derive any real benefit consumers
+should look to those that meet specifications to filter out virus
+particles that are far smaller than other airborne particles like dust
+or pollen.
+
+Above all, experts caution that airflow patterns are difficult to
+predict. The best way to prevent spreading the virus inside may be to
+avoid holding indoor gatherings altogether.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-113c8a44" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+The political parties in Belgium miss another deadline to form a
+government, and virus cases are increasing.
 
 </div>
 
@@ -1073,14 +1279,6 @@ government, more than a year and a half after the last one collapsed.
 The country has been operating with an emergency minority coalition
 throughout the coronavirus epidemic.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 But the crisis has [exposed the weaknesses in a bureaucratic political
 system](https://www.nytimes.com/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
 — it has among the highest Covid-19 death [rates in the
@@ -1088,6 +1286,14 @@ world](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html).
 Belgium has nine health ministers who answer to six parliaments.
 Officials have acknowledged being slow to respond to the outbreak as
 they haggled over who was responsible for what.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Making ambitious change to the political system or taking up an
 aggressive economic stimulus package would most likely require a
@@ -1108,6 +1314,114 @@ a formal government in Belgian history.
 “I hope to form a government as soon as possible,” said Paul Magnette,
 the head of the French-speaking Socialists. “Our country needs it to
 effectively combat the epidemic, which sadly is rising again.”
+
+## 
+
+<div id="link-2bb5ac9e" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+The C.D.C. closes some offices in Atlanta after discovering dangerous
+bacteria in the water.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
+headquarters of the Centers for Disease Control and Prevention in
+Atlanta.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Audra
+Melton for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The nation’s foremost public health agency is learning that it is not
+immune to the complex effects of the coronavirus pandemic.
+
+Recently, the Centers for Disease Control and Prevention told employees
+that some office space it leases in the Atlanta area would be closed
+again after property managers of the buildings discovered Legionella,
+the bacteria that causes Legionnaires’ disease, in water sources at the
+sites. No employees were sickened. The announcement was [reported on
+Friday by
+CNN](https://www.cnn.com/2020/08/07/health/coronavirus-legionnaires-water-cdc/index.html).
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+That the C.D.C. is contending with this problem highlights the
+seriousness of Legionella in the aftermath of coronavirus lockdowns, and
+how complicated it can be to prevent it.
+
+The C.D.C. itself [warns that Legionnaires’
+disease](https://www.cdc.gov/legionella/index.html), a respiratory
+illness, can be fatal in 1 in 10 cases. Since various jurisdictions in
+the United States have put in effect lockdowns to contain the spread of
+the new coronavirus, some experts have been warning of the [risk of
+Legionnaires’
+outbreaks](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
+when people return to buildings left unoccupied for months.
+
+The bacteria that causes the illness, Legionella pneumophila, can form
+in warm, stagnant water that is not properly disinfected. When sinks are
+turned on or toilets flushed, the bacteria can then be sent through the
+air and inhaled.
+
+While most earlier research focused on the growth of Legionella during
+weekends and short holiday periods, scientists are only beginning to
+learn about how the bacteria proliferates during periods of long-term
+stagnation, and which methods are most effective to protect against it.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 ## 
 
@@ -1435,126 +1749,11 @@ accounted for two out of every three coronavirus deaths.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-cd96e18" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-How ‘superspreading’ events may be a case of being in the wrong place at
-the wrong time.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The closed
-Smithfield Foods pork plant in Sioux Falls, S.D., in April. The facility
-was a hotspot for coronavirus infection, with more than 600
-cases.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Shannon
-Stapleton/Reuters</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Most people won’t spread the coronavirus widely. The few who do are
-probably in the wrong place at the wrong time in their infection, new
-models suggest.
-
-In a paper [posted Friday to the website
-medRxiv](https://www.medrxiv.org/content/10.1101/2020.08.07.20169920v1.full.pdf)
-that has [not yet been through peer
-review](https://www.nytimes.com/2020/04/14/science/coronavirus-disinformation.html),
-scientists reported that superspreading events — which have been traced
-to [call
-centers](https://wwwnc.cdc.gov/eid/article/26/8/20-1274_article), [meat
-processing
-facilities](https://www.nytimes.com/2020/04/15/us/coronavirus-south-dakota-meat-plant-refugees.html),
-[weddings](https://wwwnc.cdc.gov/eid/article/26/9/20-1469_article?deliveryName=USCDC_333-DM28908)
-[and
-more](https://www.nytimes.com/2020/03/30/us/coronavirus-funeral-albany-georgia.html)
-— were most likely to happen when an infected person was shedding large
-amounts of virus in a setting where there are plenty of other people
-around to catch it.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The riskiest window for such transmission may be extremely brief — a
-one- to two-day period in the week or so after a person is infected,
-when coronavirus levels are at their highest, according to Dr. Joshua
-Schiffer, a physician and mathematical modeling expert who studies
-infectious diseases at the Fred Hutchinson Cancer Research Center in
-Seattle. He is one of the authors of the paper.
-
-The virus can still ** spread outside this window, and people outside it
-should not let up on measures like mask-wearing and physical distancing,
-Dr. Schiffer said. But the longer an infection lasts, the less likely a
-person is to be contagious — a finding that might help experts advise
-[when to end
-self-isolation](https://www.nytimes.com/2020/07/22/health/coronavirus-isolation-testing.html).
-
-“It really is about opportunity,” said Shweta Bansal, an infectious
-disease ecologist at Georgetown University who was not involved in the
-study. “These processes really come together when you are not only
-infected, but you also don’t know you’re infected because you don’t feel
-crummy.”
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Reporting was contributed by Iyad Abuheweila, Matt Apuzzo, Hannah Beech,
-Pam Belluck, Conor Dougherty, Alex Marshall, Constant Méheut, Zach
-Montague, Julia Echikson, Claire Moses, Monika Pronczuk, Adam Rasgon,
-Thomas Rogers, Constance Sommer, Matina Stevis-Gridneff, Katherine J. Wu
-and Mihir Zaveri.
+Reporting was contributed by Iyad Abuheweila, Matt Apuzzo, Makr Walker,
+Hannah Beech, Pam Belluck, Conor Dougherty, Alex Marshall, Constant
+Méheut, Zach Montague, Heather Murphy, Julia Echikson, Max Horberry,
+Claire Moses, Monika Pronczuk, Adam Rasgon, Thomas Rogers, Constance
+Sommer, Matina Stevis-Gridneff, Katherine J. Wu and Mihir Zaveri.
 
 </div>
 

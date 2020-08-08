@@ -409,7 +409,7 @@ Supported by
 
 3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tatyana
     Zenkovich/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/08/07/world/07belarus01/07belarus01-videoLarge.jpg)
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/07/world/07belarus01/07belarus01-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
@@ -564,20 +564,22 @@ Advertisement
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Audra
-    Melton for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/08/science/08virus-cdcoffices/08virus-cdcoffices-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
+    Lee/USA Today Sports, via
+    Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [C.D.C. Closes Some Offices Over Bacteria Discovery](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
+    ## [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
     
-    The move highlights the risk of Legionnaires’ disease outbreaks when
-    buildings are reopened after coronavirus lockdowns.
+    The players, who have pushed for more-frequent virus testing and
+    stronger protection of their status with the team, said Pac-12
+    Commissioner Larry Scott offered no concrete mandates for the
+    league’s universities.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Max
-    Horberry</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Billy
+    Witz</span></span>
     
     </div>
 
@@ -949,6 +951,42 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/video/world/100000007279742/beirut-explosion-lebanon-protests.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/merlin_175465020_2c9785c9-935a-4d38-bf06-2b83d2aee8de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Protests Erupt on the Streets of a Battered Beirut
+    
+    Demonstrators took hold of Lebanon’s capital, fueled by widespread
+    outrage after a blast in Beirut’s port that killed at least 154
+    people and destroyed entire neighborhoods.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mona El-Naggar</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/world/americas/2-ex-green-berets-sentenced-to-20-years-for-venezuela-attack.html)
     
     <div class="css-79elbk">
@@ -977,7 +1015,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -993,7 +1031,7 @@ Advertisement
     
     ## Clashes Erupt in Beirut at Blast Protest as Lebanon’s Anger Boils Over
     
-    The demonstration was fueled by fury over the corruption and
+    The demonstrations were fueled by fury over the corruption and
     negligence of the country’s ruling elite. Security forces fired tear
     gas to push back the protesters.
     
@@ -1012,7 +1050,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1045,7 +1083,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1079,7 +1117,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1115,7 +1153,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1150,7 +1188,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1186,7 +1224,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1196,7 +1234,7 @@ Advertisement
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v700.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v701.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -1219,7 +1257,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1242,43 +1280,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Katherine J. Wu</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/video/beirut-ship-a/beirut-ship-a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">visual investigations</span>
-    
-    ## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
-    
-    The explosive material responsible for the Aug. 4 blast in Beirut
-    was carried there by the ailing cargo ship Rhosus in 2013. Here’s
-    what happened next.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christoph Koettl <span>and</span> Drew
-    Jordan</span>
     
     </div>
     

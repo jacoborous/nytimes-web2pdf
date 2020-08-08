@@ -372,7 +372,7 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>The Voting Will End Nov. 3. The Legal Battle Probably Won’t.</span>
+## <span>What Will Happen After Voting Ends on Election Day?</span>
 
 </div>
 
@@ -1150,6 +1150,35 @@ do this right.
 
 <div class="css-6p6lnl">
 
+[](/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+James Mann
+
+</div>
+
+</div>
+
+## Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’
+
+</div>
+
+As national security adviser, he voiced strong opinions and acted on
+them, especially when it came to Beijing and Moscow.
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
 [](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
 
 <div class="css-dcl9ft">
@@ -1175,8 +1204,38 @@ Maureen Dowd
 
 </div>
 
-Has America grown since 1984, or will the knives still be out for
-Biden’s running mate?
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
+
+<div class="css-dcl9ft">
+
+![Ross
+Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ross Douthat
+
+</div>
+
+</div>
+
+## What to Do When Covid Doesn’t Go Away
+
+</div>
 
 </div>
 
@@ -1186,7 +1245,7 @@ Biden’s running mate?
 
 <div class="css-6p6lnl">
 
-[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1194,13 +1253,13 @@ Biden’s running mate?
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Michael T. Osterholm and Neel Kashkari
+David Hajdu
 
 </div>
 
 </div>
 
-## Here’s How to Crush the Virus Until Vaccines Arrive
+## A Song That Changed Music Forever
 
 </div>
 
@@ -1245,6 +1304,32 @@ Jorge Ramos
 
 <div class="css-6p6lnl">
 
+[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Michael T. Osterholm and Neel Kashkari
+
+</div>
+
+</div>
+
+## Here’s How to Crush the Virus Until Vaccines Arrive
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
 [](/2020/08/08/opinion/gold-investment-coronavirus.html)
 
 <div class="css-dcl9ft">
@@ -1267,32 +1352,6 @@ Ruchir Sharma
 </div>
 
 ## Why Is Everyone Buying Gold?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-David Hajdu
-
-</div>
-
-</div>
-
-## A Song That Changed Music Forever
 
 </div>
 
@@ -1337,39 +1396,6 @@ Elliot Ackerman
 
 <div class="css-6p6lnl">
 
-[](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
-
-<div class="css-dcl9ft">
-
-![David
-Brooks](https://static01.nyt.com/images/2018/04/03/opinion/david-brooks/david-brooks-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-David Brooks
-
-</div>
-
-</div>
-
-## Where Do Republicans Go From Here?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
 [](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
 
 <div class="css-dcl9ft">
@@ -1392,39 +1418,6 @@ Elizabeth Bruenig
 </div>
 
 ## Why Won’t More White Christians Say Black Lives Matter?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/trump-2020-census.html)
-
-<div class="css-dcl9ft">
-
-![Jamelle
-Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Jamelle Bouie
-
-</div>
-
-</div>
-
-## Trump and His Allies Think They Know Who Counts
 
 </div>
 

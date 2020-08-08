@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,32 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
+<div id="site-content" role="main">
 
 <div id="byline" class="section css-15h4p1b e9abtgs0">
 
@@ -134,8 +108,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -176,6 +149,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
@@ -193,8 +202,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    Weiland, Peter Baker <span>and</span> Annie Karni</span>
     
     </div>
     
@@ -206,7 +214,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -230,8 +238,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -243,7 +250,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -267,8 +274,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -280,7 +286,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -304,8 +310,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -317,7 +322,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -342,8 +347,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -355,7 +359,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -377,8 +381,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -390,7 +393,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -412,8 +415,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -425,7 +427,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -446,8 +448,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -459,7 +460,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -481,42 +482,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/us/politics/trump-immigrants-census-redistricting.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/20/us/politics/20dc-immig-eo/20dc-immig-eo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Seeks to Stop Counting Unauthorized Immigrants in Drawing House Districts
-    
-    Critics described the move as unconstitutional and a transparent
-    attempt to help Republicans.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker</span>
     
     </div>
     
@@ -534,24 +500,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -575,8 +540,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -593,8 +557,7 @@ story](#after-mid2)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">peterbakernyt</span><span class="css-1dv1kvn">twitter
-    page for
-    peterbakernyt</span>](https://twitter.com/peterbakernyt)
+    page for peterbakernyt</span>](https://twitter.com/peterbakernyt)
   - [**<span data-aria-hidden="true">peter.baker.351</span><span class="css-1dv1kvn">facebook
     page for
     peter.baker.351</span>](https://www.facebook.com/peter.baker.351)
@@ -639,8 +602,7 @@ story](#after-mid2)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

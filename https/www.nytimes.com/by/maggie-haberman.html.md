@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,32 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
+<div id="site-content" role="main">
 
 <div id="byline" class="section css-15h4p1b e9abtgs0">
 
@@ -133,8 +107,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -175,6 +148,180 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    
+    As the two parties clash over how to conduct an election in a
+    pandemic, President Trump’s litigiousness and unfounded claims of
+    fraud have increased the likelihood of epic postelection court
+    fights.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job
+    
+    After Ms. Noem, the South Dakota governor, flew to Washington on Air
+    Force One, rumors about her ambitions ensued. She made a second trip
+    to smooth things over with Mike Pence.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan Martin <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/us/politics/trump-news-conference-bedminster.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Away From Gridlock in Washington, Trump Puts on a Show for His Club
+    
+    The president held what was billed as a news conference. But there
+    was almost no news, he again said the virus would disappear and his
+    audience seemed at times less the nation than his golf club members.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Annie Karni <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/us/politics/trump-economy-ohio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/06dc-trump/06dc-trump-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump, Facing Headwinds in Ohio, Talks Up Economy in Campaign Swing
+    
+    The president came into 2020 considering the state a lock, but his
+    performance in managing the pandemic and delivering on his promises
+    from four years ago could put it in play.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/us/mike-dewine-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Gov. Mike DeWine of Ohio Tests Positive, Then Negative, for Coronavirus
+    
+    The governor said he felt confident in the results of a negative
+    test that was taken hours after he tested positive while being
+    screened to greet President Trump.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Mervosh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
     
     <div class="css-79elbk">
@@ -204,7 +351,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -227,8 +374,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
-    <span>and</span> Jim
-    Tankersley</span>
+    <span>and</span> Jim Tankersley</span>
     
     </div>
     
@@ -240,7 +386,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -263,8 +409,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Maggie
-    Haberman</span>
+    <span>and</span> Maggie Haberman</span>
     
     </div>
     
@@ -276,7 +421,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -313,7 +458,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -336,188 +481,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Maggie Haberman, Jonathan Martin
-    <span>and</span> Reid J.
-    Epstein</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/us/politics/trump-inhofe-tata-pentagon.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30dc-tata/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Inflammatory Comments Delay Confirmation of Retired General to Pentagon Post
-    
-    Half an hour before a hearing for Anthony J. Tata was to begin, the
-    Oklahoma Republican who is the chairman of the Senate Armed Services
-    Committee delayed it.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Helene Cooper, Catie Edmondson
-    <span>and</span> Maggie
-    Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/us/politics/29TRUMP-SUBURBS/merlin_174387555_a81a394f-9b9a-4bfd-8dfd-dae963e10c8b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters
-    
-    President Trump painted a false picture of suburbs under siege,
-    saying he was protecting them from low-income housing, as he seeks
-    to win over white voters who were key to his 2016 victory.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni, Maggie Haberman
-    <span>and</span> Sydney
-    Ember</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/us/protests-portland-federal-withdrawal.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Federal Agencies Agree to Withdraw From Portland, With Conditions
-    
-    Gov. Kate Brown of Oregon said the teams would begin a withdrawal on
-    Thursday. Federal officials cautioned that they would withdraw only
-    when they were confident the federal courthouse could be secured.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Baker <span>and</span> Zolan
-    Kanno-Youngs</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/world/europe/woody-johnson-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/us/politics/24dc-woody1/24dc-woody1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Woody Johnson Was a Loyal Trump Supporter in 2016. As an Ambassador, He May Be Too Loyal.
-    
-    In the view of some American diplomats, Mr. Johnson’s willingness to
-    carry out President Trump’s request to seek the British government’s
-    help in moving the British Open to his golf resort in Scotland was
-    only the latest example of the envoy’s poor judgment.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mark Landler, Lara Jakes
-    <span>and</span> Maggie
-    Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/24/us/politics/00-GUILFOYLE/merlin_174209379_d5bade2c-87ef-48ce-a2b0-a89745779509-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny
-    
-    Ms. Guilfoyle has raised money from donors and has made inroads with
-    some who have rejected calls from others. Yet Trump supporters
-    inside and outside the campaign say the operation she’s built hasn’t
-    lived up to expectations.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span>
-    Maggie Haberman</span>
+    <span>and</span> Reid J. Epstein</span>
     
     </div>
     
@@ -535,24 +499,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -576,8 +539,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -636,8 +598,7 @@ story](#after-mid2)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

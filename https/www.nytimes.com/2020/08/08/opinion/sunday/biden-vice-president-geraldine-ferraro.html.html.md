@@ -352,6 +352,33 @@ known, would hand off her pocketbook to an aide. Her charming press
 spokesman, Francis O’Brien, sometimes ironed her dresses — as her main
 foreign affairs adviser, Madeleine Albright, looked on.
 
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Geraldine
+Ferraro in May 1984, while she was being considered for Walter Mondale’s
+running
+mate.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Diana
+Walker/The LIFE Images Collection, via Getty
+Images</span></span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 It was fascinating to see age-old customs through the eyes of a woman
 candidate.
 
@@ -378,12 +405,6 @@ voters? The Mondale inner circle wanted Ferraro to play the traditional
 running-mate role of hatchet man. But Gloria Steinem warned, “Nothing
 makes men more anxious than for a woman to be masculine.”
 
-George H.W. Bush excitedly proclaimed after his debate with Ferraro that
-he had tried to [“kick a little
-ass”;](https://www.nytimes.com/1984/10/14/us/aide-to-ferraro-demands-bush-make-apology.html)
-his press aide called Ferraro “bitchy”; and Barbara Bush said Ferraro
-was a word that “rhymes with rich.”
-
 </div>
 
 </div>
@@ -391,6 +412,12 @@ was a word that “rhymes with rich.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+George H.W. Bush excitedly proclaimed after his debate with Ferraro that
+he had tried to [“kick a little
+ass”;](https://www.nytimes.com/1984/10/14/us/aide-to-ferraro-demands-bush-make-apology.html)
+his press aide called Ferraro “bitchy”; and Barbara Bush said Ferraro
+was a word that “rhymes with rich.”
 
 What started as a goose bump blind date with history curdled, as Ferraro
 got dragged into a financial mess involving her husband’s real estate
@@ -421,13 +448,6 @@ me that I’m a gray-haired Southern gentleman, a senator from Texas.” (In
 [her memoir](https://www.nytimes.com/2009/11/15/books/15book.html),
 Sarah Palin aimed her sharpest barbs at John McCain’s aides.)
 
-We don’t know whom Biden will choose but we do know the sort of hell she
-will endure at the hands of Team Trump. Even after the \#MeToo
-revolution, even with women deciding this election, have the
-undercurrents of sexism in America changed so much? Hollywood, after
-all, only just began forking over major budgets to women directors,
-after years of absurdly stereotyping them.
-
 </div>
 
 </div>
@@ -435,6 +455,13 @@ after years of absurdly stereotyping them.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+We don’t know whom Biden will choose but we do know the sort of hell she
+will endure at the hands of Team Trump. Even after the \#MeToo
+revolution, even with women deciding this election, have the
+undercurrents of sexism in America changed so much? Hollywood, after
+all, only just began forking over major budgets to women directors,
+after years of absurdly stereotyping them.
 
 Kimberly Guilfoyle, Kellyanne Conway, Kayleigh McEnany, Lara Trump and
 Jeanine Pirro — the Fox Force Five of retrograde Trumpworld — will have
@@ -457,33 +484,6 @@ lioness on Friday, referring to her negotiations with Republicans on the
 relief bill, he checked with her first to see if she would prefer lion.
 
 The Speaker chose lioness.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Geraldine
-Ferraro in May 1984, while she was being considered for Walter Mondale’s
-running
-mate.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Diana
-Walker/The LIFE Images Collection, via Getty
-Images</span></span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 *The Times is committed to publishing* [*a diversity of
 letters*](https://www.nytimes.com/2019/01/31/opinion/letters/letters-to-editor-new-york-times-women.html)

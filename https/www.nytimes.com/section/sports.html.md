@@ -188,82 +188,33 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
-    Monterrosa for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/merlin_175405419_33dfb7cf-fa3d-40d2-9094-3dc79fc00fc7-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
+    How/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/08/sports/08pga-silence1/08pga-silence1-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/08nfl-optouts-1-thumbStandard.jpg)](/2020/08/08/sports/football/nfl-players-opt-out.html)
+    [![](https://static01.nyt.com/images/2020/08/08/sports/08pga-silence1/08pga-silence1-thumbStandard.jpg)](/2020/08/08/sports/golf/pga-championship-scores.html)
     
     </div>
     
-    ## [Bear Hugs and Bubbles: Why Some N.F.L. Players Opted Out](/2020/08/08/sports/football/nfl-players-opt-out.html)
+    ### P.G.A. Championship
     
-    “I’m literally bear-hugging another creature on the other side of
-    the ball every single play,” Leo Koloamatangi, a Jets offensive
-    lineman, said. “If that guy has any symptoms, I’m going to get
-    them.”
+    ## [The Deafening Silence of a Coronavirus Championship](/2020/08/08/sports/golf/pga-championship-scores.html)
+    
+    Many sports have returned to play without fans. Golf is deciding a
+    major championship without them. For players used to feeding off the
+    crowd’s energy and reactions, it’s just not the same.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Shpigel</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Branch</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
-        Pennington/Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-live-2/merlin_175451520_0749e3d8-5836-4bc3-a036-b0045d77b4a0-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/07/sports/07pga-live-2/07pga-live-2-thumbStandard.jpg)](/2020/08/08/sports/golf/tiger-woods-pga-championship-friday.html)
-        
-        </div>
-        
-        ## [Tiger Woods’s Latest Adjustment Becomes a Burden](/2020/08/08/sports/golf/tiger-woods-pga-championship-friday.html)
-        
-        On Friday, Woods struggled with a new longer putter on the way
-        to a hard-earned two-over-par 72. He finished eight strokes
-        behind the P.G.A. Championship leader Haotong Li.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Brian
-        Murphy</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Seth
-        Wenig/Associated
-        Press</span>](https://static01.nyt.com/images/2020/08/07/sports/07virus-barry-essay-3/merlin_175140492_050c304c-1b14-40bc-911a-d4e02a7b7c26-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/07/sports/07virus-barry-essay-3/07virus-barry-essay-3-thumbStandard-v2.jpg)](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
-        
-        </div>
-        
-        ### essay
-        
-        ## [The Weird, Disturbing (and Comforting) Return of Pro Sports](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
-        
-        The swirl of conflicting emotions about the return of sports,
-        and whether it will last, seems apt for these turbulent times of
-        pandemic and social unrest.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Dan
-        Barry</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Delaney
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Delaney
         Lund</span>](https://static01.nyt.com/images/2020/08/07/sports/07nba-virtualfans01/07nba-virtualfans01-threeByTwoMediumAt2X-v2.jpg)
         
         <div class="css-1r9cexg">
@@ -285,6 +236,57 @@ Supported by
         Cacciola</span></span>
         
         </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+        M. Haffey/Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-thumbStandard.jpg)](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
+        
+        </div>
+        
+        ### on baseball
+        
+        ## [Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
+        
+        Some have resorted to throwing against mattresses in quarantine.
+        Some have sustained early injuries. And all pitchers are trying
+        to cope without their normal routines.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Tyler
+        Kepner</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
+        Monterrosa for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/merlin_175405419_33dfb7cf-fa3d-40d2-9094-3dc79fc00fc7-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/08nfl-optouts-1-thumbStandard.jpg)](/2020/08/08/sports/football/nfl-players-opt-out.html)
+        
+        </div>
+        
+        ## [Bear Hugs and Bubbles: Why Some N.F.L. Players Opted Out](/2020/08/08/sports/football/nfl-players-opt-out.html)
+        
+        “I’m literally bear-hugging another creature on the other side
+        of the ball every single play,” Leo Koloamatangi, a Jets
+        offensive lineman, said. “If that guy has any symptoms, I’m
+        going to get them.”
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Ben
+        Shpigel</span></span>
+        
+        </div>
 
 </div>
 
@@ -292,7 +294,64 @@ Supported by
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
+    Pennington/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-live-2/merlin_175451520_0749e3d8-5836-4bc3-a036-b0045d77b4a0-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Tiger Woods’s Latest Adjustment Becomes a Burden](/2020/08/08/sports/golf/tiger-woods-pga-championship-friday.html)
+    
+    On Friday, Woods struggled with a new longer putter on the way to a
+    hard-earned two-over-par 72. He finished eight strokes behind the
+    P.G.A. Championship leader Haotong Li.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Brian
+    Murphy</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
+    Lee/USA Today Sports, via
+    Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
+    
+    The players, who have pushed for more-frequent virus testing and
+    stronger protection of their status with the team, said Pac-12
+    Commissioner Larry Scott offered no concrete mandates for the
+    league’s universities.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Billy
+    Witz</span></span>
+    
+    </div>
+
+3.  ### essay
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Seth
+    Wenig/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/07/sports/07virus-barry-essay-3/merlin_175140492_050c304c-1b14-40bc-911a-d4e02a7b7c26-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Weird, Disturbing (and Comforting) Return of Pro Sports](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
+    
+    The swirl of conflicting emotions about the return of sports, and
+    whether it will last, seems apt for these turbulent times of
+    pandemic and social unrest.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dan
+    Barry</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
     Mast for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/07/sports/07nfl-employees01/07nfl-employees01-videoLarge.jpg)
     
@@ -311,7 +370,7 @@ Supported by
     
     </div>
 
-2.  ### on tennis
+5.  ### on tennis
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Solomon for The New York
@@ -331,7 +390,15 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -347,7 +414,7 @@ Supported by
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
     Squire/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-koepka/merlin_175392972_a0fbddf9-9c59-4960-8d1a-7d0af2748f2e-videoLarge.jpg)
     
@@ -364,7 +431,7 @@ Supported by
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     J. Terrill/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-angels-fentanyl-pix/07xp-angels-fentanyl-pix-videoLarge.jpg)
     
@@ -382,15 +449,7 @@ Supported by
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### On Horse Racing
+4.  ### On Horse Racing
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
     Schultz for The New York
@@ -407,62 +466,6 @@ Supported by
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Joe
     Drape</span></span>
-    
-    </div>
-
-2.  ### Rory Smith On Soccer
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
-    photo by Shaun
-    Botterill</span>](https://static01.nyt.com/images/2020/08/07/sports/07rorynewsletter-silva1/07rorynewsletter-silva1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [We Know Little About David Silva. That’s How He Wanted It.](/2020/08/07/sports/soccer/david-silva-manchester-city.html)
-    
-    The glowing testimonies to the Manchester City playmaker as he
-    departs the Premier League have focused on his play, not his
-    personality. That was by design.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Rory
-    Smith</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    E. Sauro/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/08/obituaries/00ClarkeH1/00ClarkeH1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Horace Clarke, Standout in a Dismal Yankee Era, Dies at 82](/2020/08/07/sports/baseball/horace-clarke-dead.html)
-    
-    He was a solid, dependable player, but he had the misfortune of
-    joining the Yankees just as they tumbled from greatness.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mathew
-    Brownstein</span></span>
-    
-    </div>
-
-4.  ### On Soccer
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lluis
-    Gene/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/06/sports/06soccer-turan1/06soccer-turan1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Whatever Happened to Arda Turan?](/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
-    
-    For months, Barcelona paid the finest player Turkey has ever
-    produced not to play soccer. Why?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Rory
-    Smith</span></span>
     
     </div>
 
@@ -538,42 +541,6 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">on baseball</span>
-    
-    ## Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.
-    
-    Some have resorted to throwing against mattresses in quarantine.
-    Some have sustained early injuries. And all pitchers are trying to
-    cope without their normal routines.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tyler Kepner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/08/07/sports/baseball/cardinals-game-postponed-coronavirus.html)
     
     <div class="css-79elbk">
@@ -601,7 +568,7 @@ Advertisement
     
     </div>
 
-3.  
+2.  
     
     <div class="css-1cp3ece">
     
@@ -625,6 +592,42 @@ Advertisement
     
     By <span class="css-1n7hynb">Ken Belson, Katherine Rosman
     <span>and</span> Kevin Draper</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/sports/soccer/david-silva-manchester-city.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/sports/07rorynewsletter-silva1/07rorynewsletter-silva1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Rory Smith On Soccer</span>
+    
+    ## We Know Little About David Silva. That’s How He Wanted It.
+    
+    The glowing testimonies to the Manchester City playmaker as he
+    departs the Premier League have focused on his play, not his
+    personality. That was by design.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Rory Smith</span>
     
     </div>
     
@@ -709,6 +712,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/07/sports/baseball/horace-clarke-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/obituaries/00ClarkeH1/00ClarkeH1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Horace Clarke, Standout in a Dismal Yankee Era, Dies at 82
+    
+    He was a solid, dependable player, but he had the misfortune of
+    joining the Yankees just as they tumbled from greatness.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mathew Brownstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/sports/autoracing/formula-1-silverstone-pandemic.html)
     
     <div class="css-79elbk">
@@ -737,7 +773,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -771,7 +807,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -805,62 +841,30 @@ Advertisement
     
     </div>
 
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/sports/06mlb-fiers1/06mlb-fiers1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mike Fiers Is Moving On, Just Like He Always Has
-    
-    Fiers revealed the cheating scheme by the Houston Astros, his former
-    club, but he has fended off attention ever since. “He wants the game
-    to be straightaway,” his father said.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joe Drape</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 10. 
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/sports/baseball/mlb-swearing.html)
+    [](/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/06/sports/06mlb-swearing-1/06mlb-swearing-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/sports/06soccer-turan1/06soccer-turan1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Fair Balls and Foul Language
+    ### <span class="css-m70j1g">On Soccer</span>
     
-    With no live crowd noise as a buffer at M.L.B. games, on-field
-    sounds are easy to hear on broadcasts — and it’s not all rated PG.
+    ## Whatever Happened to Arda Turan?
+    
+    For months, Barcelona paid the finest player Turkey has ever
+    produced not to play soccer. Why?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James Wagner</span>
+    By <span class="css-1n7hynb">Rory Smith</span>
     
     </div>
     

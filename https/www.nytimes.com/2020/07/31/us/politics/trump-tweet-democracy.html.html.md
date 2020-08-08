@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">More
-Than Just a Tweet: Trump’s Campaign to Undercut
-Democracy</span>
+Than Just a Tweet: Trump’s Campaign to Undercut Democracy</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Democracy</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -155,7 +152,20 @@ Democracy</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Tennessee
+    Results](https://www.nytimes.com/interactive/2020/08/06/us/elections/results-tennessee-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -169,32 +179,6 @@ Democracy</span>
     
     [Biden’s V.P.
     Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Map of
-    Donations](https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Delegate
-    Count](https://www.nytimes.com/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -242,8 +226,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -269,8 +252,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -340,14 +322,13 @@ Baker</span>](https://www.nytimes.com/by/peter-baker)
 
 </div>
 
-  - July 31,
-    2020
+  - July 31, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -440,8 +421,7 @@ defined the United States for generations.
 
 “In the long term, I think there’s going to be a lot of institutional
 damage,” he said, “and the rule of law is going to be undermined to a
-very large
-extent.”
+very large extent.”
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -450,41 +430,6 @@ extent.”
 <div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
 
 <div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-04T01:23:51.312Z
-
-</div>
-
-</div>
-
-  - [Trump assails mail-in voting anew, citing delays in declaring a
-    winner in a New York congressional
-    primary.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
-  - [Obama issues his first slate of 2020
-    endorsements.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
-  - [In a big shift, Trump is now encouraging mask-wearing in campaign
-    emails.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -644,8 +589,7 @@ said Michael J. Abramowitz, the president of Freedom House, a
 nonpartisan organization that promotes democracy around the world. “We
 are used to seeing this kind of behavior from authoritarians around the
 globe, but it is particularly disturbing coming from the president of
-the United
-States.”
+the United States.”
 
 </div>
 
@@ -689,7 +633,7 @@ States.”
 
 # Our 2020 Election Guide
 
-Updated Aug. 3, 2020
+Updated Aug. 7, 2020
 
   - 
     
@@ -697,9 +641,11 @@ Updated Aug. 3, 2020
     
     ## The Latest
     
-      - President Trump again assails mail-in voting, [claiming without
-        evidence that the process is plagued by
-        fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+      - [Russia is using a range of techniques to denigrate Joe
+        Biden](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        American intelligence officials said, declaring that Moscow
+        continues to try to interfere in the 2020 campaign to help
+        President Trump.
 
   - 
     
@@ -758,8 +704,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -803,8 +748,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

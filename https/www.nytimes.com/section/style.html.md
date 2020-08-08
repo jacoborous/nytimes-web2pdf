@@ -68,30 +68,6 @@
 
 <div id="site-content" role="main">
 
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
-
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -302,21 +278,19 @@ Supported by
 
 5.  ### Mini-Vows
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nancy
-    Beale/Studio This
-    Is</span>](https://static01.nyt.com/images/2020/08/09/fashion/09Anderson/09Anderson-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caitlin
+    Nielson</span>](https://static01.nyt.com/images/2020/08/09/fashion/09boerner-02/09boerner-02-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Missed Connection, Six Years Later](/2020/08/07/fashion/weddings/a-missed-connection-six-years-later.html)
+    ## [Finally an Upgrade From the ‘Training Rings’](/2020/08/07/fashion/weddings/finally-an-upgrade-from-the-training-rings.html)
     
-    The couple overlapped for a year while studying at Harvard Law
-    School, but didn’t meet until 2017, when they matched on the League
-    dating app.
+    Ted Boerner and Rabbi Oren Postrel found the rapport from the start.
+    Their temporary rings came a couple of years later.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Emma
-    Grillo</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Nina
+    Reyes</span></span>
     
     </div>
 

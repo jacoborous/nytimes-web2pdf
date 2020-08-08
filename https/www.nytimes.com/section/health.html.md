@@ -177,7 +177,24 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Audra
+    Melton for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/science/08virus-cdcoffices/08virus-cdcoffices-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [C.D.C. Closes Some Offices Over Bacteria Discovery](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
+    
+    The move highlights the risk of Legionnaires’ disease outbreaks when
+    buildings are reopened after coronavirus lockdowns.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Max
+    Horberry</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
     Moon/Reuters</span>](https://static01.nyt.com/images/2020/08/07/science/07VIRUS-SUPERSPREADING/07VIRUS-SUPERSPREADING-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -194,7 +211,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Avishek
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Avishek
     Das/SOPA Images/ZUMA Wire, via
     Alamy</span>](https://static01.nyt.com/images/2020/08/05/science/05VIRUS-TESTING1/05VIRUS-TESTING1-videoLarge.jpg)
     
@@ -212,7 +229,13 @@ Supported by
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lee
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lee
     Jin-Man/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/06/science/06VIRUS-ASYMPTOMATIC/06VIRUS-ASYMPTOMATIC-videoLarge.jpg)
     
@@ -229,13 +252,7 @@ Supported by
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
     Nagle/Bloomberg</span>](https://static01.nyt.com/images/2020/08/05/science/05VIRUS-HEALTHINSURERS/05VIRUS-INSURANCE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -251,7 +268,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
     Pennink/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/05/us/politics/05virus-hahn-letter/merlin_175001121_295d8a71-e107-4d2b-9033-73fcf9b5d7a1-videoLarge.jpg)
     
@@ -269,7 +286,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     Caballero-Reynolds/Agence France-Presse — Getty
     Images</span>](https://static01.nyt.com/images/2020/08/04/science/04VIRUS-NOVAVAX1/04VIRUS-NOVAVAX1-videoLarge.jpg)
     
@@ -284,24 +301,6 @@ Supported by
     <span class="css-1baulvz" itemprop="name">Carl Zimmer</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Katie
     Thomas</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](/2020/08/04/health/coronavirus-hotels-infect.html)
-    
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the coronavirus.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Richtel</span></span>
     
     </div>
 
@@ -515,20 +514,22 @@ Advertisement
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
+    Lee/USA Today Sports, via
+    Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump Threatens To Use Executive Order for ‘Critical Relief’](/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
+    ## [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
     
-    Though it’s unclear whether he has the authority to do so, President
-    Trump said on Friday that if Congress did not reach an agreement, he
-    would act unilaterally to extend a coronavirus economic aid package.
+    The players, who have pushed for more-frequent virus testing and
+    stronger protection of their status with the team, said Pac-12
+    Commissioner Larry Scott offered no concrete mandates for the
+    league’s universities.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reuters</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Billy
+    Witz</span></span>
     
     </div>
 
@@ -583,6 +584,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/world/coronavirus-updates.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+    
+    Talks on a new U.S. pandemic relief package are stalled and its
+    crucial benefits are expiring. President Trump said he would use
+    executive orders to provide aid, but it is unclear whether he has
+    the power to do so.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/well/family/college-students-coronavirus-parents-back-to-school.html)
     
     <div class="css-79elbk">
@@ -610,7 +644,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -644,7 +678,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -677,7 +711,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -712,7 +746,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -744,7 +778,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -777,7 +811,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -810,7 +844,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -843,7 +877,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -865,39 +899,6 @@ Advertisement
     of the year.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/smarter-living/00well-anxiety-opener/00well-anxiety-opener-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Five-Minute Coronavirus Stress Resets
-    
-    How to get unstuck from your anxiety.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jenny Taitz • Illustrations by Rozalina
-    Burkova</span>
     
     </div>
     

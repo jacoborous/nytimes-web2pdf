@@ -217,9 +217,9 @@ Supported by
 
 </div>
 
-The demonstration was fueled by fury over the corruption and negligence
-of the country’s ruling elite. Security forces fired tear gas to push
-back the protesters.
+The demonstrations were fueled by fury over the corruption and
+negligence of the country’s ruling elite. Security forces fired tear gas
+to push back the protesters.
 
 ![<span class="css-16f3y1r e13ogyst0">Demonstrators took hold of
 Lebanon’s capital, fueled by widespread outrage after a blast in
@@ -257,7 +257,7 @@ El-Naggar</span>](https://www.nytimes.com/by/mona-el-naggar)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 8, 2020Updated <span class="css-epvm6">1:26 p.m. ET</span>
+    Aug. 8, 2020Updated <span class="css-epvm6">3:37 p.m. ET</span>
     
     </div>
 
@@ -292,26 +292,28 @@ El-Naggar</span>](https://www.nytimes.com/by/mona-el-naggar)
 
 <div class="css-53u6y8">
 
-BEIRUT, Lebanon — Clashes between demonstrators and security forces
-raged near Lebanon’s Parliament on Saturday at a protest fueled by the
-vast public anger over the death and destruction caused by a huge
-explosion in Beirut’s port this week.
+BEIRUT, Lebanon — Violent clashes between demonstrators and security
+forces transformed much of central Beirut into a battle zone of flying
+rocks, swinging batons and clouds of tear gas on Saturday, as the fury
+over a huge explosion in Beirut’s port this week fueled attacks on
+government buildings.
 
-Many Lebanese see [the
+By nightfall, angry protesters had stormed three government ministries,
+a handful of legislators had resigned, and the prime minister had called
+for early elections, the first major signs that the blast could shake up
+the country’s political system, widely derided as dysfunctional.
+
+Many Lebanese considered [the
 blast](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion.html),
 which sent a shock wave through the capital that destroyed entire
-neighborhoods and killed at least 154 people, as the latest and most
-dangerous manifestation of the corruption and negligence of the
+neighborhoods and killed at least 154 people, as only the latest and
+most dangerous manifestation of the corruption and negligence of the
 country’s political elite.
 
-The clashes turned the streets near the Parliament building into battle
-zones, where demonstrators pulled down metal and concrete barricades
-blocking access to the area and threw rocks at the security forces, who
-fired back with volleys of tear gas.
-
-“Haven’t they quenched their thirst for blood? We came here peacefully,
-and they do this?” said Rasha Habbal, a 21-year-old student who had come
-to protest with her 57-year-old mother. Both had been tear-gassed.
+The clashes on Saturday erupted across broad swaths of the city’s
+center, with demonstrators yanking down barricades blocking access to
+the Parliament and throwing rocks at the security forces, who flooded
+the area with tear gas.
 
 </div>
 
@@ -321,58 +323,74 @@ to protest with her 57-year-old mother. Both had been tear-gassed.
 
 <div class="css-53u6y8">
 
+“Haven’t they quenched their thirst for blood? We came here peacefully,
+and they do this?” Rasha Habbal, a 21-year-old student who had come to
+protest with her 57-year-old mother, said of the security forces. Both
+women had been tear-gassed.
+
 “Either they go and we stay, or they stay and we leave,” Ms. Habbal said
 of the country’s leaders.
 
-Large crowds also gathered to demonstrate in the central Martyrs’ Square
-nearby, where protests demanding the removal of the country’s top
-politicians have flared since last fall. Many said it was anger at what
-they had lost in the blast that drove them into the streets.
+Elsewhere in the city, about 200 protesters, including a group of
+retired military officers, took over the Foreign Ministry building for a
+number of hours. They hung red banners with a raised fist from the
+building, which had been damaged in the blast, and proclaimed Beirut a
+“disarmed” city. The group left the building after the army arrived.
+
+Throughout the day, many thousands of people gathered to demonstrate in
+the central Martyrs’ Square, which is not far from the blast site and is
+surrounded by high-priced office buildings and an upscale pedestrian
+shopping mall, both of which were damaged in the blast.
+
+The square, which is also close to the Parliament, has been the central
+site of protests that have [flared since last
+fall](https://www.nytimes.com/2019/10/23/world/middleeast/lebanon-protests.html)
+demanding the removal of the country’s top politicians. Many of
+Saturday’s protesters said it was anger at what they had lost in the
+blast that had driven them back into the streets.
 
 “I lost my house, my car, my job, I lost friends,” said a protester,
-Eddy Gabriel, who carried photo of two neighbors who had died in the
+Eddy Gabriel, who carried a photo of two neighbors who had died in the
 blast. “There is nothing to be afraid of. Everything is gone.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Lebanon was already grappling with an array of crises before this week’s
-explosion. Protests against the political class [have continued to
-flare](https://www.nytimes.com/2020/06/11/world/middleeast/lebanon-protests.html)
-as the [economy has
+explosion, as the [economy has
 sunk](https://www.nytimes.com/2020/07/12/world/middleeast/beirut-lebanon-economic-crisis.html),
 banks have refused to give depositors access to their money, and
-unemployment and inflation have soared.
+unemployment and inflation have soared. In the weeks before the blast,
+the number of coronavirus cases reported daily had begun to spike, and
+many parts of the country were suffering from lengthy power cuts.
 
-Anger at Lebanon’s political class has been building since last fall,
-when protests [toppled a prime
-minister](https://www.nytimes.com/2019/10/29/world/middleeast/saad-hariri-stepping-down-lebanon.html),
-but the explosion, and indications that it was [rooted in governmental
+But the explosion, and indications that it was [rooted in governmental
 neglect](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-lebanon.html),
 have pushed tensions to the boiling point.
 
 Lebanese officials have said the explosion on Tuesday happened when
 2,750 tons of [ammonium
 nitrate](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-ammonium-nitrate.html),
-a compound often used to make fertilizer and bombs, suddenly combusted,
-perhaps because of a fire started by welders working nearby. The
-industrial chemical [had been stored in the
+a compound often used to make fertilizer and bombs, combusted, perhaps
+because of a fire started by welders working nearby. The industrial
+chemical [had been stored in the
 port](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-ship.html)
 since 2014.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The dead included 43 Syrians, the Syrian state news agency said on
-Saturday. Lebanon hosts about one million Syrian refugees and many other
-Syrians live and work in the country.
+Saturday. Lebanon hosts about one million Syrian refugees, and many
+other Syrians live and work in the country.
 
-The blast injured 5,000 people and pushed at least 250,000 from their
-homes. The prime minister has vowed to investigate the blast and hold
-all those who were behind it accountable, but many Lebanese remain
-skeptical that justice will be done.
+The blast injured some 5,000 people and pushed at least 250,000 from
+their homes. The prime minister has vowed to investigate it and hold all
+those who were behind it accountable, but doubts that justice will be
+done abound in a country with a long history of civil strife and
+assassinations whose perpetrators were never prosecuted.
 
 </div>
 
@@ -402,26 +420,6 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/08/world/08Lebanon0
 
 President Michel Aoun on Friday said the blast could have been caused by
 a bomb or “foreign interference,” without providing details or evidence.
-In a televised speech, Hassan Nasrallah, the secretary-general of
-Hezbollah, the powerful militant group and political party, denied his
-group had any connection to the chemicals, the blast or the port.
-
-Many Lebanese accuse Hezbollah of using the port to smuggle and store
-weapons and have suggested that the group would have wanted access to
-the chemicals to make bombs. But no evidence has surfaced linking the
-group to the chemicals or the explosion.
-
-Anger at the country’s top politicians was tangible at the protests in
-the square, where protesters erected gallows and conducted ceremonial
-hangings of cardboard cutouts of Mr. Aoun, Nabih Berri, the speaker of
-Parliament, and Mr. Nasrallah of Hezbollah.
-
-But the fury targeted not just specific figures, but also the political
-system itself, in which everything from top governmental posts to civil
-service jobs are allocated according to a complex sectarian system. Many
-Lebanese consider that system, and the power brokers who use it to
-enrich themselves and channel patronage to their supporters, to be the
-source of many of the country’s problems.
 
 </div>
 
@@ -431,27 +429,59 @@ source of many of the country’s problems.
 
 <div class="css-53u6y8">
 
+In a televised speech, Hassan Nasrallah, the secretary-general of
+Hezbollah, the powerful militant group and political party, denied his
+group had any connection to the chemicals, the blast or the port.
+
+Hezbollah, which is backed by Iran and has sent fighters to help keep
+President Bashar al-Assad of Syria in power, is widely believed to use
+the port to smuggle and store weapons. But no evidence has surfaced
+linking the group to the chemicals or the explosion.
+
+Anger at the country’s top politicians was tangible at the protests,
+where demonstrators erected gallows and conducted ceremonial hangings of
+cardboard cutouts of Mr. Aoun, Nabih Berri, the speaker of Parliament,
+and Mr. Nasrallah of Hezbollah.
+
+But the fury targeted not just specific figures, but also the political
+system itself, in which everything from top governmental posts to civil
+service jobs are allocated according to a complex sectarian system. The
+protesters consider that system, and the power brokers who use it to
+enrich themselves and channel patronage to their supporters, to be the
+source of many of the country’s problems.
+
 “It’s a corrupt government, they have to be held accountable,” said
 Marilyn Kallas, 21, wielding a broom she used to help clean up a damaged
 neighborhood before coming to the protest. “Hopefully they will resign.”
+
+Over the course of Saturday’s protests, some demonstrators broke into
+the Economy Ministry, where they sent papers raining down onto the
+sidewalk, and others made it into the Energy Ministry. On the wall of
+the [Association of Banks in
+Lebanon](https://www.abl.org.lb/english/home), someone had spray painted
+“fallen” in Arabic.
 
 Siding with the protesters, four members of Parliament resigned on
 Saturday. Sami Gemayel, the head of Kataeb, a Christian opposition
 party, said its three legislators had quit and called on others to
 resign for the “birth of a new Lebanon.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Paula Yacoubian, an independent member of Parliament, also resigned, she
 confirmed in a text message.
 
-The resignations fell far short of the number needed to prompt new
-elections for the 128-seat body.
+In a televised speech, Prime Minister Hassan Diab said he would ask his
+cabinet on Monday to approve early parliamentary elections.
 
-Elsewhere in the city, about 200 protesters, including a group of
-retired military officers, entered the Foreign Ministry building, which
-had been damaged in the blast. They hung red banners with a raised fist
-from the balcony proclaiming Beirut a “disarmed” city. Another group
-broke into the Ministry of the Economy, where they lit a fire and sent
-papers raining down onto the sidewalk.
+But those moves fell well short of the sweeping changes to how the
+country is run that protesters have demanded.
 
 While government assistance to the blast victims has been minimal,
 foreign aid has streamed in, along with technicians and medics who are
@@ -474,6 +504,13 @@ The office of President Emmanuel Macron of France announced that an
 international aid summit will be held by video conference on Sunday,
 co-hosted by France and the United Nations.
 
+Mr. Macron was the first foreign leader to visit Lebanon since the
+blast, and he [walked through some of the hardest hit
+areas](https://www.nytimes.com/2020/08/06/world/middleeast/beirut-explosion.html)
+to speak with residents, something that Lebanon’s own president and
+prime minister have not done, likely to avoid becoming the targets of
+public anger.
+
 </div>
 
 </div>
@@ -481,13 +518,6 @@ co-hosted by France and the United Nations.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-Mr. Macron was the first foreign leader to visit Lebanon since the
-blast, and he [walked through some of the hardest hit
-areas](https://www.nytimes.com/2020/08/06/world/middleeast/beirut-explosion.html)
-to speak with residents, something that Lebanon’s own president and
-prime minister have not done, likely to avoid becoming the targets of
-public anger.
 
 The United States is providing more than $15 million in aid, and
 President Trump said on Friday that he would join Sunday’s
@@ -538,10 +568,6 @@ Ibarra Sanchez for The New York Times</span></span>
 
 <div class="css-53u6y8">
 
-In the weeks before the blast, the number of coronavirus cases reported
-daily had begun to spike and many parts of the country were suffering
-from lengthy power cuts.
-
 Despite drawing large numbers of people, the protest movement has so far
 failed to make significant progress toward putting a new governing
 system in place.
@@ -551,7 +577,19 @@ militia commanders from Lebanon’s 15-year civil war, which ended in
 1990, and Lebanese accuse them of looting the country while failing to
 ensure basic services, like regular electricity and drinkable water.
 
+“It had become clear that this regime could not deliver, but now it has
+become clear that it can kill and obliterate an entire neighborhood,”
+said Sami Atallah, director of the Lebanese Center for Policy Studies.
+“The question to me is, is this going to be a game changer, and what
+does it mean to have a game changer?”
+
+Georgi Azar and Kareem Chehayeb contributed reporting.
+
 </div>
+
+</div>
+
+<div>
 
 </div>
 
@@ -559,17 +597,7 @@ ensure basic services, like regular electricity and drinkable water.
 
 <div class="css-53u6y8">
 
-“It had become clear that this regime could not deliver, but now it has
-become clear that it can kill and obliterate an entire neighborhood,”
-said Sami Atallah, director of the Lebanese Center for Policy Studies.
-“The question to me is, is this going to be a game changer, and what
-does it mean to have a game changer?”
-
 </div>
-
-</div>
-
-<div>
 
 </div>
 

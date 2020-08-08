@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -71,8 +69,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-in the U.S.: Latest Map and Case
-Count</span>
+in the U.S.: Latest Map and Case Count</span>
 
 </div>
 
@@ -94,7 +91,7 @@ Count</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -134,14 +131,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -161,8 +158,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -180,14 +176,14 @@ story](#after-top)
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # Coronavirus in the U.S.: Latest Map and Case Count
 
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 5, 2020, 12:06 A.M. E.T.
+Times</span>Updated August 8, 2020, 9:47 A.M. E.T.
 
 </div>
 
@@ -206,7 +202,7 @@ español](https://www.nytimes.com/es/interactive/2020/espanol/mundo/coronavirus-
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -223,7 +219,7 @@ español](https://www.nytimes.com/es/interactive/2020/espanol/mundo/coronavirus-
 
 </div>
 
-<div id="coronavirus-us-cases" class="section interactive-standard interactive-content interactive-size-scoop css-1davkue" data-id="100000007014149">
+<div id="coronavirus-us-cases" class="section interactive-standard interactive-content interactive-size-scoop css-1davkue">
 
 <div class="css-17ih8de interactive-body">
 
@@ -233,33 +229,33 @@ español](https://www.nytimes.com/es/interactive/2020/espanol/mundo/coronavirus-
 
 <div class="g-svelte" data-component="1">
 
-<div class="breadcrumbs false svelte-u8xm87" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
+<div class="breadcrumbs false svelte-1m5f6tq" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
 
 <div class="breadcrumbs__buttons--wrap">
 
-[World](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)<span class="svelte-u8xm87"> 
+[World](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 COUNTRIES
 
-<span class="svelte-u8xm87">| </span>
-[U.S.A.](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq">| </span>
+[U.S.A.](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 STATES
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 [Testing](https://www.nytimes.com/interactive/2020/us/coronavirus-testing.html)
 
 </div>
 
-<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-u8xm87">
+<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-1m5f6tq">
 
 [Brazil](https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html)[Canada](https://www.nytimes.com/interactive/2020/world/canada/canada-coronavirus-cases.html)[France](https://www.nytimes.com/interactive/2020/world/europe/france-coronavirus-cases.html)[Germany](https://www.nytimes.com/interactive/2020/world/europe/germany-coronavirus-cases.html)[India](https://www.nytimes.com/interactive/2020/world/asia/india-coronavirus-cases.html)[Italy](https://www.nytimes.com/interactive/2020/world/europe/italy-coronavirus-cases.html)[Mexico](https://www.nytimes.com/interactive/2020/world/americas/mexico-coronavirus-cases.html)[Spain](https://www.nytimes.com/interactive/2020/world/europe/spain-coronavirus-cases.html)[U.K.](https://www.nytimes.com/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 </div>
 
-<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-u8xm87">
+<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-1m5f6tq">
 
 [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)[Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)[Arizona](https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html)[Arkansas](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)[California](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)[Colorado](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)[Connecticut](https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html)[Delaware](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)[Florida](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)[Georgia](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)[Hawaii](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)[Idaho](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)[Illinois](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)[Indiana](https://www.nytimes.com/interactive/2020/us/indiana-coronavirus-cases.html)[Iowa](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)[Kansas](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)[Kentucky](https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html)[Louisiana](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)[Maine](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)[Maryland](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)[Massachusetts](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)[Michigan](https://www.nytimes.com/interactive/2020/us/michigan-coronavirus-cases.html)[Minnesota](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)[Mississippi](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)[Missouri](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)[Montana](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)[Nebraska](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)[Nevada](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)[New
 Hampshire](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)[New
@@ -277,8 +273,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 </div>
 
-<span class="svelte-u8xm87"> 
-</span>
+<span class="svelte-1m5f6tq">  </span>
 
 </div>
 
@@ -304,8 +299,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -315,8 +309,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">50,000
-cases</span>
+<span class="count-label svelte-bw547y">50,000 cases</span>
 
 </div>
 
@@ -330,44 +323,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 86.94267515923566%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 85.3125%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 25.477707006369425%; top: 58.111191422947506%">
+<div class="pancake-point svelte-11ba04d" style="left: 25%; top: 58.111191422947506%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -400,7 +393,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-4.7 million+
+4.9 million+
 
 </div>
 
@@ -416,7 +409,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-157,302
+160,977
 
 </div>
 
@@ -424,8 +417,7 @@ Deaths
 
 <div class="note svelte-9rb9hv">
 
-Includes confirmed and probable cases where
-available
+Includes confirmed and probable cases where available
 
 </div>
 
@@ -451,21 +443,20 @@ available
 
 [Map](#map)[Cases by state](#states)[Hot
 spots](#hotspots)[Clusters](#clusters)[Latest news
-»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/08/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-At least 1,358 new coronavirus deaths and 53,304 new cases were reported
-in the United States on Aug. 4. Over the past week, there have been an
-average of 58,801 cases per day, a decrease of 11 percent from the
+At least 1,354 new coronavirus deaths and 60,975 new cases were reported
+in the United States on Aug. 7. Over the past week, there have been an
+average of 54,332 cases per day, a decrease of 18 percent from the
 average two weeks earlier.
 
-As of Wednesday morning, more than 4,778,600 people in the United States
-have been infected with the coronavirus and at least 157,300 have died,
-according to a New York Times
-database.
+As of Saturday morning, more than 4,951,000 people in the United States
+have been infected with the coronavirus and at least 160,900 have died,
+according to a New York Times database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-map g-asset-width-bleed" style="">
 
@@ -487,7 +478,7 @@ Per capita
 
 <div class="map-keys">
 
-<div class="map-key doubling-key active" data-type="hotspots">
+<div class="map-key doubling-key active" type="hotspots">
 
 <div class="key-subhed">
 
@@ -623,7 +614,7 @@ Few or no cases
 
 </div>
 
-<div class="map-key cases-key false" data-type="cases">
+<div class="map-key cases-key false" type="cases">
 
 <div class="key-bubbles">
 
@@ -647,7 +638,7 @@ Few or no cases
 
 </div>
 
-<div class="map-key deaths-key false" data-type="deaths">
+<div class="map-key deaths-key false" type="deaths">
 
 <div class="key-bubbles">
 
@@ -671,12 +662,11 @@ Few or no cases
 
 </div>
 
-<div class="map-key percap-key false" data-type="percap">
+<div class="map-key percap-key false" type="percap">
 
 <div class="key-subhed">
 
-Share of population with a reported
-case
+Share of population with a reported case
 
 </div>
 
@@ -819,8 +809,7 @@ of people hospitalized and the percentage of people testing positive is
 also rising in many of those places, the case spike cannot be solely
 explained by increased testing. Still, coronavirus deaths remain well
 below their peak levels. And as some places reimpose restrictions,
-others continue to reopen their
-economies.
+others continue to reopen their economies.
 
 <div id="curves" class="g-asset g-svelte g-constrain-source g-curve-grid" style="max-width: 1000px">
 
@@ -836,8 +825,7 @@ Cases per capita Total cases
 
 Charts show daily cases per capita and are on the same scale. States are
 sorted by cases per capita for the most recent day. Tap a state to see
-detailed map
-page.
+detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
@@ -845,47 +833,25 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-40.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 94.23546207146782%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-40.svg)">
 
 </div>
 
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 53.10394558695874%">
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 94.23546207146782%">
 
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
 
 </div>
 
-</div>
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 51.17477890204824%">
 
-**Oklahoma** <span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-29.svg)">
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -893,67 +859,8 @@ page.
 
 </div>
 
-**Missouri**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-02.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Alaska**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-31.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nebraska**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-24.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Maryland**
+**Oklahoma** <span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
 
 </div>
 
@@ -961,11 +868,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-72.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Puerto Rico**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-gmk5l9"></span>
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-78.svg)">
 
 </div>
 
@@ -973,8 +900,27 @@ page.
 
 </div>
 
-**Puerto
-Rico**
+**U.S. Virgin Islands**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-51.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Virginia**
 
 </div>
 
@@ -982,11 +928,11 @@ Rico**
 
 [](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-17.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-17.svg)">
 
 </div>
 
@@ -1000,96 +946,13 @@ Rico**
 
 <div class="chart-outer svelte-ckkuwb">
 
-<span class="chart-container svelte-byc5ph"></span>
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-78.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**U.S. Virgin
-Islands**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-30.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Montana**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-46.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South
-Dakota**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-44.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Rhode
-Island**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-15.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-15.svg)">
 
 </div>
 
@@ -1103,13 +966,53 @@ Island**
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-46.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**South Dakota**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-44.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Rhode Island**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-25.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-25.svg)">
 
 </div>
 
@@ -1123,21 +1026,21 @@ Island**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
+<span class="chart-container svelte-gmk5l9"></span>
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-34.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-66.svg)">
 
 </div>
 
 </div>
 
-**New Jersey**
+</div>
+
+**Guam**
 
 </div>
 
@@ -1155,8 +1058,7 @@ Island**
 
 Charts show daily cases and are individually scaled to the maximum for
 each state. States are sorted by cases per capita for the most recent
-day. Tap a state to see detailed map
-page.
+day. Tap a state to see detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
@@ -1164,49 +1066,25 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-40.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 91.53300607156699%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-40.svg)">
 
 </div>
 
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 10.193644232011366%">
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 91.53300607156699%">
 
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
 
 </div>
 
-</div>
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 6.378633251517897%">
 
-**Oklahoma** <span class="svelte-byc5ph">39,452</span>
-<span class="svelte-byc5ph">total cases</span>
-<span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-29.svg)">
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -1214,71 +1092,10 @@ page.
 
 </div>
 
-**Missouri**
-<span class="svelte-byc5ph">54,854</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-02.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Alaska**
-<span class="svelte-byc5ph">4,123</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-31.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nebraska**
-<span class="svelte-byc5ph">27,178</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-24.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Maryland**
-<span class="svelte-byc5ph">92,416</span>
+**Oklahoma** <span class="svelte-gmk5l9">42,234</span>
+<span class="svelte-gmk5l9">total cases</span>
+<span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
 
 </div>
 
@@ -1286,11 +1103,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-72.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Puerto Rico** <span class="svelte-gmk5l9">20,686</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+<span class="chart-container svelte-gmk5l9"></span>
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-78.svg)">
 
 </div>
 
@@ -1298,8 +1135,27 @@ page.
 
 </div>
 
-**Puerto Rico**
-<span class="svelte-byc5ph">19,324</span>
+**U.S. Virgin Islands** <span class="svelte-gmk5l9">528</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-51.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Virginia** <span class="svelte-gmk5l9">97,882</span>
 
 </div>
 
@@ -1307,32 +1163,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-17.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Illinois**
-<span class="svelte-byc5ph">186,598</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-<span class="chart-container svelte-byc5ph"></span>
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-78.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-17.svg)">
 
 </div>
 
@@ -1340,71 +1175,7 @@ page.
 
 </div>
 
-**U.S. Virgin Islands**
-<span class="svelte-byc5ph">463</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-30.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Montana**
-<span class="svelte-byc5ph">4,360</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-46.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South Dakota**
-<span class="svelte-byc5ph">9,079</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-44.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Rhode Island**
-<span class="svelte-byc5ph">19,390</span>
+**Illinois** <span class="svelte-gmk5l9">192,482</span>
 
 </div>
 
@@ -1412,11 +1183,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-15.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-15.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Hawaii** <span class="svelte-gmk5l9">3,092</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-46.svg)">
 
 </div>
 
@@ -1424,8 +1215,27 @@ page.
 
 </div>
 
-**Hawaii**
-<span class="svelte-byc5ph">2,568</span>
+**South Dakota** <span class="svelte-gmk5l9">9,371</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/rhode-island-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-44.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Rhode Island** <span class="svelte-gmk5l9">19,738</span>
 
 </div>
 
@@ -1433,40 +1243,39 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-25.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-25.svg)">
 
 </div>
 
 </div>
 
-**Massachusetts**
-<span class="svelte-byc5ph">119,203</span>
+</div>
+
+**Massachusetts** <span class="svelte-gmk5l9">120,291</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
+<span class="chart-container svelte-gmk5l9"></span>
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-34.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-66.svg)">
 
 </div>
 
 </div>
 
-**New Jersey** <span class="svelte-byc5ph">184,845</span>
+</div>
+
+**Guam** <span class="svelte-gmk5l9">1,380</span>
 
 </div>
 
@@ -1497,116 +1306,33 @@ Cases per capita Total cases
 
 Charts show daily cases per capita and are on the same scale. States are
 sorted by cases per capita for the most recent day. Tap a state to see
-detailed map
-page.
+detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-22.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 77.31047688260858%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 28.34500136177965%">
-
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
-
-</div>
-
-</div>
-
-**Louisiana** <span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-28.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Mississippi**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-32.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nevada**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-01.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Alabama**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-13.svg)">
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 90.23357622747939%">
+
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 44.20352824698582%">
+
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -1614,7 +1340,28 @@ page.
 
 </div>
 
-**Georgia**
+**Georgia** <span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-48.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Texas**
 
 </div>
 
@@ -1622,11 +1369,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-47.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-47.svg)">
 
 </div>
 
@@ -1642,11 +1389,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-05.svg)">
 
 </div>
 
@@ -1660,13 +1407,33 @@ page.
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-16.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Idaho**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-29.svg)">
 
 </div>
 
@@ -1674,8 +1441,27 @@ page.
 
 </div>
 
-**North
-Carolina**
+**Missouri**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-38.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North Dakota**
 
 </div>
 
@@ -1683,11 +1469,11 @@ Carolina**
 
 [](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-55.svg)">
 
 </div>
 
@@ -1701,13 +1487,33 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-38.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-19.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Iowa**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-31.svg)">
 
 </div>
 
@@ -1715,8 +1521,27 @@ Carolina**
 
 </div>
 
-**North
-Dakota**
+**Nebraska**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-20.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kansas**
 
 </div>
 
@@ -1724,11 +1549,11 @@ Dakota**
 
 [](https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-21.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-21.svg)">
 
 </div>
 
@@ -1742,53 +1567,13 @@ Dakota**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-27.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Minnesota**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-51.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Virginia**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/indiana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-18.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-18.svg)">
 
 </div>
 
@@ -1802,33 +1587,53 @@ Dakota**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-39.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-24.svg)">
 
 </div>
 
 </div>
 
-**Ohio**
+</div>
+
+**Maryland**
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-10.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-27.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Minnesota**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-02.svg)">
 
 </div>
 
@@ -1836,7 +1641,47 @@ Dakota**
 
 </div>
 
-**Delaware**
+**Alaska**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-30.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Montana**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-53.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Washington**
 
 </div>
 
@@ -1844,20 +1689,19 @@ Dakota**
 
 [](https://www.nytimes.com/interactive/2020/us/washington-dc-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-11.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-11.svg)">
 
 </div>
 
 </div>
 
-**Washington,
-D.C.**
+</div>
+
+**Washington, D.C.**
 
 </div>
 
@@ -1865,11 +1709,11 @@ D.C.**
 
 [](https://www.nytimes.com/interactive/2020/us/oregon-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-41.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-41.svg)">
 
 </div>
 
@@ -1883,33 +1727,13 @@ D.C.**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-08.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Colorado**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/michigan-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-26.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-26.svg)">
 
 </div>
 
@@ -1923,42 +1747,21 @@ D.C.**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/wyoming-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-56.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Wyoming**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-54.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-54.svg)">
 
 </div>
 
 </div>
 
-**West
-Virginia**
+</div>
+
+**West Virginia**
 
 </div>
 
@@ -1966,11 +1769,11 @@ Virginia**
 
 [](https://www.nytimes.com/interactive/2020/us/pennsylvania-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-42.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-42.svg)">
 
 </div>
 
@@ -1984,13 +1787,53 @@ Virginia**
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-34.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**New Jersey**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/new-york-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-36.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-36.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**New York**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-33.svg)">
 
 </div>
 
@@ -1998,8 +1841,7 @@ Virginia**
 
 </div>
 
-**New
-York**
+**New Hampshire**
 
 </div>
 
@@ -2007,11 +1849,11 @@ York**
 
 [](https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-09.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-09.svg)">
 
 </div>
 
@@ -2020,87 +1862,6 @@ York**
 </div>
 
 **Connecticut**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-<span class="chart-container svelte-byc5ph"></span>
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-66.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Guam**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-33.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**New
-Hampshire**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-23.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Maine**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/vermont-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-50.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Vermont**
 
 </div>
 
@@ -2118,121 +1879,33 @@ Hampshire**
 
 Charts show daily cases and are individually scaled to the maximum for
 each state. States are sorted by cases per capita for the most recent
-day. Tap a state to see detailed map
-page.
+day. Tap a state to see detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-22.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 74.68695652173913%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 19.197101449275365%">
-
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
-
-</div>
-
-</div>
-
-**Louisiana** <span class="svelte-byc5ph">124,575</span>
-<span class="svelte-byc5ph">total cases</span>
-<span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-28.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Mississippi**
-<span class="svelte-byc5ph">62,199</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-32.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nevada**
-<span class="svelte-byc5ph">52,256</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-01.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Alabama**
-<span class="svelte-byc5ph">93,702</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-13.svg)">
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 85.62193474434028%">
+
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 8.22020714782822%">
+
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -2240,8 +1913,30 @@ page.
 
 </div>
 
-**Georgia**
-<span class="svelte-byc5ph">182,462</span>
+**Georgia** <span class="svelte-gmk5l9">193,276</span>
+<span class="svelte-gmk5l9">total cases</span>
+<span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-48.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Texas** <span class="svelte-gmk5l9">496,237</span>
 
 </div>
 
@@ -2249,20 +1944,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-47.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-47.svg)">
 
 </div>
 
 </div>
 
-**Tennessee**
-<span class="svelte-byc5ph">109,652</span>
+</div>
+
+**Tennessee** <span class="svelte-gmk5l9">115,940</span>
 
 </div>
 
@@ -2270,32 +1964,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-05.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Arkansas**
-<span class="svelte-byc5ph">45,381</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-05.svg)">
 
 </div>
 
@@ -2303,20 +1976,39 @@ page.
 
 </div>
 
-**North Carolina**
-<span class="svelte-byc5ph">128,294</span>
+**Arkansas** <span class="svelte-gmk5l9">48,039</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-16.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Idaho** <span class="svelte-gmk5l9">24,073</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-29.svg)">
 
 </div>
 
@@ -2324,8 +2016,7 @@ page.
 
 </div>
 
-**Wisconsin**
-<span class="svelte-byc5ph">60,263</span>
+**Missouri** <span class="svelte-gmk5l9">58,284</span>
 
 </div>
 
@@ -2333,11 +2024,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-38.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-38.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North Dakota** <span class="svelte-gmk5l9">7,508</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-55.svg)">
 
 </div>
 
@@ -2345,8 +2056,67 @@ page.
 
 </div>
 
-**North Dakota**
-<span class="svelte-byc5ph">6,937</span>
+**Wisconsin** <span class="svelte-gmk5l9">63,256</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-19.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Iowa** <span class="svelte-gmk5l9">48,040</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-31.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Nebraska** <span class="svelte-gmk5l9">28,104</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-20.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Kansas** <span class="svelte-gmk5l9">30,966</span>
 
 </div>
 
@@ -2354,32 +2124,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-21.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kentucky**
-<span class="svelte-byc5ph">33,209</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-27.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-21.svg)">
 
 </div>
 
@@ -2387,29 +2136,7 @@ page.
 
 </div>
 
-**Minnesota**
-<span class="svelte-byc5ph">57,202</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-51.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Virginia**
-<span class="svelte-byc5ph">94,251</span>
+**Kentucky** <span class="svelte-gmk5l9">35,147</span>
 
 </div>
 
@@ -2417,32 +2144,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/indiana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-18.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Indiana**
-<span class="svelte-byc5ph">70,944</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-39.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-18.svg)">
 
 </div>
 
@@ -2450,20 +2156,39 @@ page.
 
 </div>
 
-**Ohio**
-<span class="svelte-byc5ph">95,106</span>
+**Indiana** <span class="svelte-gmk5l9">73,986</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-10.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-24.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Maryland** <span class="svelte-gmk5l9">94,395</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-27.svg)">
 
 </div>
 
@@ -2471,8 +2196,67 @@ page.
 
 </div>
 
-**Delaware**
-<span class="svelte-byc5ph">15,137</span>
+**Minnesota** <span class="svelte-gmk5l9">59,226</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-02.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Alaska** <span class="svelte-gmk5l9">4,286</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-30.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Montana** <span class="svelte-gmk5l9">4,771</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-53.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Washington** <span class="svelte-gmk5l9">63,976</span>
 
 </div>
 
@@ -2480,20 +2264,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/washington-dc-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-11.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-11.svg)">
 
 </div>
 
 </div>
 
-**Washington, D.C.**
-<span class="svelte-byc5ph">12,398</span>
+</div>
+
+**Washington, D.C.** <span class="svelte-gmk5l9">12,589</span>
 
 </div>
 
@@ -2501,32 +2284,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/oregon-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-41.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Oregon**
-<span class="svelte-byc5ph">19,700</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-08.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-41.svg)">
 
 </div>
 
@@ -2534,8 +2296,7 @@ page.
 
 </div>
 
-**Colorado**
-<span class="svelte-byc5ph">48,492</span>
+**Oregon** <span class="svelte-gmk5l9">20,658</span>
 
 </div>
 
@@ -2543,32 +2304,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/michigan-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-26.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Michigan**
-<span class="svelte-byc5ph">93,293</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/wyoming-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-56.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-26.svg)">
 
 </div>
 
@@ -2576,8 +2316,7 @@ page.
 
 </div>
 
-**Wyoming**
-<span class="svelte-byc5ph">2,884</span>
+**Michigan** <span class="svelte-gmk5l9">95,632</span>
 
 </div>
 
@@ -2585,20 +2324,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-54.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-54.svg)">
 
 </div>
 
 </div>
 
-**West Virginia**
-<span class="svelte-byc5ph">7,051</span>
+</div>
+
+**West Virginia** <span class="svelte-gmk5l9">7,433</span>
 
 </div>
 
@@ -2606,11 +2344,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/pennsylvania-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-42.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-42.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Pennsylvania** <span class="svelte-gmk5l9">122,078</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/new-jersey-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-34.svg)">
 
 </div>
 
@@ -2618,8 +2376,7 @@ page.
 
 </div>
 
-**Pennsylvania**
-<span class="svelte-byc5ph">119,765</span>
+**New Jersey** <span class="svelte-gmk5l9">185,914</span>
 
 </div>
 
@@ -2627,32 +2384,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/new-york-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-36.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**New York**
-<span class="svelte-byc5ph">422,296</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-09.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-36.svg)">
 
 </div>
 
@@ -2660,29 +2396,7 @@ page.
 
 </div>
 
-**Connecticut**
-<span class="svelte-byc5ph">50,110</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-<span class="chart-container svelte-byc5ph"></span>
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-66.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Guam**
-<span class="svelte-byc5ph">1,344</span>
+**New York** <span class="svelte-gmk5l9">424,349</span>
 
 </div>
 
@@ -2690,32 +2404,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-33.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**New Hampshire**
-<span class="svelte-byc5ph">6,693</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-23.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-33.svg)">
 
 </div>
 
@@ -2723,28 +2416,27 @@ page.
 
 </div>
 
-**Maine**
-<span class="svelte-byc5ph">3,975</span>
+**New Hampshire** <span class="svelte-gmk5l9">6,779</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/vermont-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-50.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-09.svg)">
 
 </div>
 
 </div>
 
-**Vermont** <span class="svelte-byc5ph">1,431</span>
+</div>
+
+**Connecticut** <span class="svelte-gmk5l9">50,320</span>
 
 </div>
 
@@ -2770,34 +2462,33 @@ Cases per capita Total cases
 
 Charts show daily cases per capita and are on the same scale. States are
 sorted by cases per capita for the most recent day. Tap a state to see
-detailed map
-page.
+detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-12.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 91.15934528824167%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-22.svg)">
 
 </div>
 
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 17.49623300036106%">
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 77.31047688260858%">
 
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 32.81082460976164%">
+
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -2805,21 +2496,40 @@ page.
 
 </div>
 
-**Florida** <span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
+**Louisiana** <span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-28.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Mississippi**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-12.svg)">
 
 </div>
 
@@ -2827,7 +2537,67 @@ page.
 
 </div>
 
-**Texas**
+**Florida**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-01.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Alabama**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-32.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Nevada**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-45.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**South Carolina**
 
 </div>
 
@@ -2835,11 +2605,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-04.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-04.svg)">
 
 </div>
 
@@ -2853,54 +2623,13 @@ page.
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-45.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South
-Carolina**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-16.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Idaho**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-06.svg)">
 
 </div>
 
@@ -2914,33 +2643,13 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-19.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Iowa**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/utah-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-49.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-49.svg)">
 
 </div>
 
@@ -2954,13 +2663,33 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-20.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-37.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North Carolina**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-10.svg)">
 
 </div>
 
@@ -2968,7 +2697,7 @@ Carolina**
 
 </div>
 
-**Kansas**
+**Delaware**
 
 </div>
 
@@ -2976,32 +2705,51 @@ Carolina**
 
 [](https://www.nytimes.com/interactive/2020/us/new-mexico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-35.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-35.svg)">
 
 </div>
 
 </div>
 
-**New
-Mexico**
+</div>
+
+**New Mexico**
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/per-capita/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-39.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ohio**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-08.svg)">
 
 </div>
 
@@ -3009,7 +2757,67 @@ Mexico**
 
 </div>
 
-**Washington**
+**Colorado**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/wyoming-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-56.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Wyoming**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-23.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Maine**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/vermont-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-50.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Vermont**
 
 </div>
 
@@ -3027,34 +2835,76 @@ Mexico**
 
 Charts show daily cases and are individually scaled to the maximum for
 each state. States are sorted by cases per capita for the most recent
-day. Tap a state to see detailed map
-page.
+day. Tap a state to see detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-22.svg)">
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 74.68695652173913%">
+
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
+
+</div>
+
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 24.257971014492753%">
+
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
+
+</div>
+
+</div>
+
+</div>
+
+**Louisiana** <span class="svelte-gmk5l9">128,864</span>
+<span class="svelte-gmk5l9">total cases</span>
+<span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-28.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Mississippi** <span class="svelte-gmk5l9">65,436</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-12.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 91.15934528824167%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 17.496233000361045%">
-
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-12.svg)">
 
 </div>
 
@@ -3062,53 +2912,47 @@ page.
 
 </div>
 
-**Florida** <span class="svelte-byc5ph">497,322</span>
-<span class="svelte-byc5ph">total cases</span>
-<span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
+**Florida** <span class="svelte-gmk5l9">518,067</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-48.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-01.svg)">
 
 </div>
 
 </div>
 
-**Texas**
-<span class="svelte-byc5ph">471,427</span>
+</div>
+
+**Alabama** <span class="svelte-gmk5l9">98,301</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-04.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-32.svg)">
 
 </div>
 
 </div>
 
-**Arizona**
-<span class="svelte-byc5ph">180,537</span>
+</div>
+
+**Nevada** <span class="svelte-gmk5l9">54,633</span>
 
 </div>
 
@@ -3116,41 +2960,39 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-45.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-45.svg)">
 
 </div>
 
 </div>
 
-**South Carolina**
-<span class="svelte-byc5ph">94,190</span>
+</div>
+
+**South Carolina** <span class="svelte-gmk5l9">98,219</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-16.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-04.svg)">
 
 </div>
 
 </div>
 
-**Idaho**
-<span class="svelte-byc5ph">22,357</span>
+</div>
+
+**Arizona** <span class="svelte-gmk5l9">185,104</span>
 
 </div>
 
@@ -3158,32 +3000,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-06.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**California**
-<span class="svelte-byc5ph">527,353</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-19.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-06.svg)">
 
 </div>
 
@@ -3191,8 +3012,7 @@ page.
 
 </div>
 
-**Iowa**
-<span class="svelte-byc5ph">46,095</span>
+**California** <span class="svelte-gmk5l9">548,142</span>
 
 </div>
 
@@ -3200,32 +3020,51 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/utah-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-49.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-49.svg)">
 
 </div>
 
 </div>
 
-**Utah**
-<span class="svelte-byc5ph">42,018</span>
+</div>
+
+**Utah** <span class="svelte-gmk5l9">43,530</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-20.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-37.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**North Carolina** <span class="svelte-gmk5l9">133,088</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-10.svg)">
 
 </div>
 
@@ -3233,8 +3072,7 @@ page.
 
 </div>
 
-**Kansas**
-<span class="svelte-byc5ph">29,259</span>
+**Delaware** <span class="svelte-gmk5l9">15,445</span>
 
 </div>
 
@@ -3242,32 +3080,51 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/new-mexico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-35.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-35.svg)">
 
 </div>
 
 </div>
 
-**New Mexico**
-<span class="svelte-byc5ph">21,340</span>
+</div>
+
+**New Mexico** <span class="svelte-gmk5l9">21,965</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/cases/total/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-39.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Ohio** <span class="svelte-gmk5l9">98,675</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-08.svg)">
 
 </div>
 
@@ -3275,7 +3132,67 @@ page.
 
 </div>
 
-**Washington** <span class="svelte-byc5ph">61,829</span>
+**Colorado** <span class="svelte-gmk5l9">50,081</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/wyoming-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-56.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Wyoming** <span class="svelte-gmk5l9">3,000</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-23.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Maine** <span class="svelte-gmk5l9">4,014</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/vermont-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-50.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Vermont** <span class="svelte-gmk5l9">1,448</span>
 
 </div>
 
@@ -3297,8 +3214,7 @@ page.
 
 <span class="g-credit">Note: States and territories are grouped
 according to how the seven-day average of new cases has changed from two
-weeks ago to
-today.</span>
+weeks ago to today.</span>
 
 </div>
 
@@ -3318,8 +3234,7 @@ Deaths per capita Total deaths
 
 Charts show daily deaths per capita and are on the same scale. States
 are sorted by deaths per capita for the most recent day. Tap a state to
-see detailed map
-page.
+see detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
@@ -3327,47 +3242,25 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-28.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 91.07721272591074%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-28.svg)">
 
 </div>
 
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 53.35840955934226%">
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 91.07721272591074%">
 
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
 
 </div>
 
-</div>
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 30.602437400999293%">
 
-**Mississippi** <span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-12.svg)">
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -3375,28 +3268,8 @@ page.
 
 </div>
 
-**Florida**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-45.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South
-Carolina**
+**Mississippi** <span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
 
 </div>
 
@@ -3404,11 +3277,11 @@ Carolina**
 
 [](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-22.svg)">
 
 </div>
 
@@ -3422,13 +3295,33 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-12.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Florida**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-48.svg)">
 
 </div>
 
@@ -3442,53 +3335,13 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-01.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Alabama**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-32.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nevada**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-13.svg)">
 
 </div>
 
@@ -3502,33 +3355,13 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-16.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Idaho**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-06.svg)">
 
 </div>
 
@@ -3544,11 +3377,11 @@ Carolina**
 
 [](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-05.svg)">
 
 </div>
 
@@ -3562,22 +3395,61 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-16.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Idaho**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-47.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Tennessee**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-37.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-37.svg)">
 
 </div>
 
 </div>
 
-**North
-Carolina**
+</div>
+
+**North Carolina**
 
 </div>
 
@@ -3585,11 +3457,11 @@ Carolina**
 
 [](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-51.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-51.svg)">
 
 </div>
 
@@ -3603,42 +3475,21 @@ Carolina**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-39.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Ohio**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-46.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-46.svg)">
 
 </div>
 
 </div>
 
-**South
-Dakota**
+</div>
+
+**South Dakota**
 
 </div>
 
@@ -3646,11 +3497,11 @@ Dakota**
 
 [](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-40.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-40.svg)">
 
 </div>
 
@@ -3664,33 +3515,13 @@ Dakota**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-30.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Montana**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-29.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-53.svg)">
 
 </div>
 
@@ -3698,27 +3529,27 @@ Dakota**
 
 </div>
 
-**Missouri**
+**Washington**
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/utah-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-49.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-72.svg)">
 
 </div>
 
 </div>
 
-**Utah**
+</div>
+
+**Puerto Rico**
 
 </div>
 
@@ -3726,11 +3557,11 @@ Dakota**
 
 [](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-31.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-31.svg)">
 
 </div>
 
@@ -3744,13 +3575,53 @@ Dakota**
 
 <div class="chart-outer svelte-ckkuwb">
 
+[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-30.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Montana**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-17.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Illinois**
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
 [](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-55.svg)">
 
 </div>
 
@@ -3764,34 +3635,13 @@ Dakota**
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-38.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**North
-Dakota**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-27.svg)">
 
 </div>
 
@@ -3799,68 +3649,7 @@ Dakota**
 
 </div>
 
-**Puerto
-Rico**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-08.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Colorado**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-20.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Kansas**
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/oregon-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-41.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Oregon**
+**Minnesota**
 
 </div>
 
@@ -3868,11 +3657,11 @@ Rico**
 
 [](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/per-capita/USA-54.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-54.svg)">
 
 </div>
 
@@ -3898,8 +3687,7 @@ Rico**
 
 Charts show daily deaths and are individually scaled to the maximum for
 each state. States are sorted by deaths per capita for the most recent
-day. Tap a state to see detailed map
-page.
+day. Tap a state to see detailed map page.
 
 <div class="chart-wrapper svelte-ckkuwb">
 
@@ -3907,49 +3695,25 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-28.svg)">
-
-</div>
-
-<div class="point svelte-byc5ph" style="left: 19.108280254777068%; top: 88.79342723004694%">
-
-<span class="annotation svelte-byc5ph">7-day average</span>
-<span class="line svelte-byc5ph"></span>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-28.svg)">
 
 </div>
 
-<div class="point svelte-byc5ph" style="left: 95.54140127388534%; top: 36.53051643192488%">
+<div class="point svelte-gmk5l9" style="left: 18.75%; top: 89.74688796680498%">
 
-<span class="annotation svelte-byc5ph" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
-14 days</span> <span class="line svelte-byc5ph"></span>
-
-</div>
+<span class="annotation svelte-gmk5l9">7-day average</span>
+<span class="line svelte-gmk5l9"></span>
 
 </div>
 
-</div>
+<div class="point svelte-gmk5l9" style="left: 95.625%; top: 15.68879668049793%">
 
-**Mississippi** <span class="svelte-byc5ph">1,753</span>
-<span class="svelte-byc5ph">total cases</span>
-<span class="first svelte-byc5ph">Mar. 1</span>
-<span class="last svelte-byc5ph">Aug.
-4</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-12.svg)">
+<span class="annotation svelte-gmk5l9" style="width: 4em; right: -1em; left: auto; text-align: right;">Last
+14 days</span> <span class="line svelte-gmk5l9"></span>
 
 </div>
 
@@ -3957,29 +3721,10 @@ page.
 
 </div>
 
-**Florida**
-<span class="svelte-byc5ph">7,401</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-45.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**South Carolina**
-<span class="svelte-byc5ph">1,847</span>
+**Mississippi** <span class="svelte-gmk5l9">1,848</span>
+<span class="svelte-gmk5l9">total cases</span>
+<span class="first svelte-gmk5l9">March 1</span>
+<span class="last svelte-gmk5l9">Aug. 7</span>
 
 </div>
 
@@ -3987,11 +3732,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-22.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Louisiana** <span class="svelte-gmk5l9">4,207</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-12.svg)">
 
 </div>
 
@@ -3999,8 +3764,7 @@ page.
 
 </div>
 
-**Louisiana**
-<span class="svelte-byc5ph">4,051</span>
+**Florida** <span class="svelte-gmk5l9">7,926</span>
 
 </div>
 
@@ -4008,32 +3772,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-48.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Texas**
-<span class="svelte-byc5ph">7,948</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-01.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-48.svg)">
 
 </div>
 
@@ -4041,29 +3784,7 @@ page.
 
 </div>
 
-**Alabama**
-<span class="svelte-byc5ph">1,666</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-32.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nevada**
-<span class="svelte-byc5ph">862</span>
+**Texas** <span class="svelte-gmk5l9">8,675</span>
 
 </div>
 
@@ -4071,32 +3792,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-13.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Georgia**
-<span class="svelte-byc5ph">3,835</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-16.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-13.svg)">
 
 </div>
 
@@ -4104,8 +3804,7 @@ page.
 
 </div>
 
-**Idaho**
-<span class="svelte-byc5ph">214</span>
+**Georgia** <span class="svelte-gmk5l9">4,029</span>
 
 </div>
 
@@ -4113,20 +3812,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-06.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-06.svg)">
 
 </div>
 
 </div>
 
-**California**
-<span class="svelte-byc5ph">9,699</span>
+</div>
+
+**California** <span class="svelte-gmk5l9">10,197</span>
 
 </div>
 
@@ -4134,11 +3832,31 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-05.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Arkansas** <span class="svelte-gmk5l9">521</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-16.svg)">
 
 </div>
 
@@ -4146,8 +3864,27 @@ page.
 
 </div>
 
-**Arkansas**
-<span class="svelte-byc5ph">490</span>
+**Idaho** <span class="svelte-gmk5l9">231</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-47.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Tennessee** <span class="svelte-gmk5l9">1,190</span>
 
 </div>
 
@@ -4155,20 +3892,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/north-carolina-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-37.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-37.svg)">
 
 </div>
 
 </div>
 
-**North Carolina**
-<span class="svelte-byc5ph">2,038</span>
+</div>
+
+**North Carolina** <span class="svelte-gmk5l9">2,160</span>
 
 </div>
 
@@ -4176,32 +3912,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-51.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Virginia**
-<span class="svelte-byc5ph">2,244</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/ohio-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-39.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-51.svg)">
 
 </div>
 
@@ -4209,8 +3924,7 @@ page.
 
 </div>
 
-**Ohio**
-<span class="svelte-byc5ph">3,570</span>
+**Virginia** <span class="svelte-gmk5l9">2,317</span>
 
 </div>
 
@@ -4218,20 +3932,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/south-dakota-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-46.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-46.svg)">
 
 </div>
 
 </div>
 
-**South Dakota**
-<span class="svelte-byc5ph">136</span>
+</div>
+
+**South Dakota** <span class="svelte-gmk5l9">144</span>
 
 </div>
 
@@ -4239,32 +3952,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/oklahoma-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-40.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Oklahoma**
-<span class="svelte-byc5ph">566</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-30.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-40.svg)">
 
 </div>
 
@@ -4272,41 +3964,19 @@ page.
 
 </div>
 
-**Montana**
-<span class="svelte-byc5ph">64</span>
+**Oklahoma** <span class="svelte-gmk5l9">600</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/washington-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-29.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Missouri**
-<span class="svelte-byc5ph">1,330</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/utah-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-49.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-53.svg)">
 
 </div>
 
@@ -4314,71 +3984,7 @@ page.
 
 </div>
 
-**Utah**
-<span class="svelte-byc5ph">324</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-31.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Nebraska**
-<span class="svelte-byc5ph">339</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-55.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Wisconsin**
-<span class="svelte-byc5ph">970</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/north-dakota-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-38.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**North Dakota**
-<span class="svelte-byc5ph">111</span>
+**Washington** <span class="svelte-gmk5l9">1,744</span>
 
 </div>
 
@@ -4386,32 +3992,11 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/puerto-rico-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-72.svg)">
-
-</div>
-
-</div>
-
-</div>
-
-**Puerto Rico**
-<span class="svelte-byc5ph">237</span>
-
-</div>
-
-<div class="chart-outer svelte-ckkuwb">
-
-[](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)
-
-<div class="chart svelte-byc5ph">
-
-<div class="chart-inner svelte-byc5ph">
-
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-08.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-72.svg)">
 
 </div>
 
@@ -4419,41 +4004,59 @@ page.
 
 </div>
 
-**Colorado**
-<span class="svelte-byc5ph">1,855</span>
+**Puerto Rico** <span class="svelte-gmk5l9">265</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-20.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-31.svg)">
 
 </div>
 
 </div>
 
-**Kansas**
-<span class="svelte-byc5ph">367</span>
+</div>
+
+**Nebraska** <span class="svelte-gmk5l9">352</span>
 
 </div>
 
 <div class="chart-outer svelte-ckkuwb">
 
-[](https://www.nytimes.com/interactive/2020/us/oregon-coronavirus-cases.html)
+[](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-41.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-30.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Montana** <span class="svelte-gmk5l9">71</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-17.svg)">
 
 </div>
 
@@ -4461,8 +4064,47 @@ page.
 
 </div>
 
-**Oregon**
-<span class="svelte-byc5ph">336</span>
+**Illinois** <span class="svelte-gmk5l9">7,833</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/wisconsin-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-55.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Wisconsin** <span class="svelte-gmk5l9">1,001</span>
+
+</div>
+
+<div class="chart-outer svelte-ckkuwb">
+
+[](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)
+
+<div class="chart svelte-gmk5l9">
+
+<div class="chart-inner svelte-gmk5l9">
+
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-27.svg)">
+
+</div>
+
+</div>
+
+</div>
+
+**Minnesota** <span class="svelte-gmk5l9">1,681</span>
 
 </div>
 
@@ -4470,19 +4112,19 @@ page.
 
 [](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-cases.html)
 
-<div class="chart svelte-byc5ph">
+<div class="chart svelte-gmk5l9">
 
-<div class="chart-inner svelte-byc5ph">
+<div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-byc5ph" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/curve-grid/deaths/total/USA-54.svg)">
-
-</div>
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-54.svg)">
 
 </div>
 
 </div>
 
-**West Virginia** <span class="svelte-byc5ph">124</span>
+</div>
+
+**West Virginia** <span class="svelte-gmk5l9">127</span>
 
 </div>
 
@@ -4526,11 +4168,11 @@ emerged.
 
 <div class="g-svelte" data-component="7">
 
-<div class="table-controls svelte-1c7zbrd multi-toggles">
+<div class="table-controls svelte-17o3xv multi-toggles">
 
-<div class="multi-toggle-buttons-container svelte-1c7zbrd">
+<div class="multi-toggle-buttons-container svelte-17o3xv">
 
-<div class="layer-toggles-grid svelte-1c7zbrd">
+<div class="layer-toggles-grid svelte-17o3xv">
 
 Cases
 
@@ -4573,185 +4215,160 @@ in last<br />
 7 days</th>
 <th>Per 100,000</th>
 <th>Weekly cases per capita
-<div class="legend-parent svelte-1x4ysxw">
-<div class="table-legend table-legend-hotspots svelte-1x4ysxw">
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #f2df91;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ffae43;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ff6e0b;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ce0a05;"></span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 2;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 3;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-</div>
+<div class="legend svelte-72ew08">
+<span class="block svelte-72ew08" style="background-color: #f2df91;"></span> <span class="block svelte-72ew08" style="background-color: #ffae43;"></span> <span class="block svelte-72ew08" style="background-color: #ff6e0b;"></span> <span class="block svelte-72ew08" style="background-color: #ce0a05;"></span> <span class="falling svelte-72ew08">Fewer</span> <span class="rising svelte-72ew08">More</span>
 </div></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Louisiana </span> <a href="https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>124,575 </span></td>
-<td><span>2,680 </span></td>
-<td><span>4,051 </span></td>
-<td><span>87 </span></td>
-<td><span>13,425 </span></td>
-<td><span>289 </span></td>
-<td><span>239 </span></td>
-<td><span>5 </span></td>
+<td><span>128,864 </span></td>
+<td><span>2,772 </span></td>
+<td><span>4,207 </span></td>
+<td><span>90 </span></td>
+<td><span>12,470 </span></td>
+<td><span>268 </span></td>
+<td><span>258 </span></td>
+<td><span>6 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
 <div class="pancake-chart svelte-1gzh5rp">
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
-<span class="first x-label svelte-ig1tx7">Mar. 1</span>
+<span class="first x-label svelte-ig1tx7">March 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100.00000000000001%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 4</span>
+<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Aug. 7</span>
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/louisiana.svg" alt="Louisiana heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/louisiana.svg" class="svelte-ig1tx7" alt="Louisiana heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Mississippi </span> <a href="https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>62,199 </span></td>
-<td><span>2,090 </span></td>
-<td><span>1,753 </span></td>
-<td><span>59 </span></td>
-<td><span>7,900 </span></td>
-<td><span>265 </span></td>
-<td><span>210 </span></td>
-<td><span>7 </span></td>
+<td><span>65,436 </span></td>
+<td><span>2,199 </span></td>
+<td><span>1,848 </span></td>
+<td><span>62 </span></td>
+<td><span>6,689 </span></td>
+<td><span>225 </span></td>
+<td><span>185 </span></td>
+<td><span>6 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/mississippi.svg" alt="Mississippi heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/mississippi.svg" class="svelte-ig1tx7" alt="Mississippi heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Florida </span> <a href="https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>497,322 </span></td>
-<td><span>2,316 </span></td>
-<td><span>7,401 </span></td>
-<td><span>34 </span></td>
-<td><span>55,353 </span></td>
-<td><span>258 </span></td>
-<td><span>1,285 </span></td>
-<td><span>6 </span></td>
+<td><span>518,067 </span></td>
+<td><span>2,412 </span></td>
+<td><span>7,926 </span></td>
+<td><span>37 </span></td>
+<td><span>47,689 </span></td>
+<td><span>222 </span></td>
+<td><span>1,084 </span></td>
+<td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/florida.svg" alt="Florida heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/florida.svg" class="svelte-ig1tx7" alt="Florida heatmap" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Nevada </span> <a href="https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>52,256 </span></td>
-<td><span>1,697 </span></td>
-<td><span>862 </span></td>
-<td><span>28 </span></td>
-<td><span>7,265 </span></td>
-<td><span>236 </span></td>
-<td><span>102 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Alabama </span> <a href="https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
+<td><span>98,301 </span></td>
+<td><span>2,005 </span></td>
+<td><span>1,735 </span></td>
+<td><span>35 </span></td>
+<td><span>10,578 </span></td>
+<td><span>216 </span></td>
+<td><span>155 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/nevada.svg" alt="Nevada heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/alabama.svg" class="svelte-ig1tx7" alt="Alabama heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Alabama </span> <a href="https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>93,702 </span></td>
-<td><span>1,911 </span></td>
-<td><span>1,666 </span></td>
-<td><span>34 </span></td>
-<td><span>11,336 </span></td>
-<td><span>231 </span></td>
-<td><span>175 </span></td>
-<td><span>4 </span></td>
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Nevada </span> <a href="https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
+<td><span>54,633 </span></td>
+<td><span>1,774 </span></td>
+<td><span>920 </span></td>
+<td><span>30 </span></td>
+<td><span>6,491 </span></td>
+<td><span>211 </span></td>
+<td><span>89 </span></td>
+<td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/alabama.svg" alt="Alabama heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/nevada.svg" class="svelte-ig1tx7" alt="Nevada heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Georgia </span> <a href="https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>182,462 </span></td>
-<td><span>1,719 </span></td>
-<td><span>3,835 </span></td>
-<td><span>36 </span></td>
-<td><span>22,424 </span></td>
-<td><span>211 </span></td>
-<td><span>347 </span></td>
+<td><span>193,276 </span></td>
+<td><span>1,820 </span></td>
+<td><span>4,029 </span></td>
+<td><span>38 </span></td>
+<td><span>21,934 </span></td>
+<td><span>207 </span></td>
+<td><span>355 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/georgia.svg" alt="Georgia heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/georgia.svg" class="svelte-ig1tx7" alt="Georgia heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Texas </span> <a href="https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>471,427 </span></td>
-<td><span>1,626 </span></td>
-<td><span>7,948 </span></td>
-<td><span>27 </span></td>
-<td><span>58,578 </span></td>
-<td><span>202 </span></td>
-<td><span>1,430 </span></td>
+<td><span>496,237 </span></td>
+<td><span>1,711 </span></td>
+<td><span>8,675 </span></td>
+<td><span>30 </span></td>
+<td><span>54,470 </span></td>
+<td><span>188 </span></td>
+<td><span>1,404 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/texas.svg" alt="Texas heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Arizona </span> <a href="https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>180,537 </span></td>
-<td><span>2,480 </span></td>
-<td><span>3,850 </span></td>
-<td><span>53 </span></td>
-<td><span>14,543 </span></td>
-<td><span>200 </span></td>
-<td><span>426 </span></td>
-<td><span>6 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/arizona.svg" alt="Arizona heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span class="show-hide svelte-5vd9ek">+ </span> <span>South Carolina </span> <a href="https://www.nytimes.com/interactive/2020/us/south-carolina-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>94,190 </span></td>
-<td><span>1,829 </span></td>
-<td><span>1,847 </span></td>
-<td><span>36 </span></td>
-<td><span>10,081 </span></td>
-<td><span>196 </span></td>
-<td><span>282 </span></td>
-<td><span>5 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/south_carolina.svg" alt="South Carolina heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/texas.svg" class="svelte-ig1tx7" alt="Texas heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Tennessee </span> <a href="https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>109,652 </span></td>
-<td><span>1,606 </span></td>
-<td><span>1,103 </span></td>
-<td><span>16 </span></td>
-<td><span>13,334 </span></td>
-<td><span>195 </span></td>
-<td><span>115 </span></td>
+<td><span>115,940 </span></td>
+<td><span>1,698 </span></td>
+<td><span>1,190 </span></td>
+<td><span>17 </span></td>
+<td><span>12,796 </span></td>
+<td><span>187 </span></td>
+<td><span>143 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/tennessee.svg" alt="Tennessee heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/tennessee.svg" class="svelte-ig1tx7" alt="Tennessee heatmap" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Arkansas </span> <a href="https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
+<td><span>48,039 </span></td>
+<td><span>1,592 </span></td>
+<td><span>521 </span></td>
+<td><span>17 </span></td>
+<td><span>5,528 </span></td>
+<td><span>183 </span></td>
+<td><span>68 </span></td>
+<td><span>2 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/arkansas.svg" class="svelte-ig1tx7" alt="Arkansas heatmap" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span class="show-hide svelte-5vd9ek">+ </span> <span>Idaho </span> <a href="https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
+<td><span>24,073 </span></td>
+<td><span>1,347 </span></td>
+<td><span>231 </span></td>
+<td><span>13 </span></td>
+<td><span>3,220 </span></td>
+<td><span>180 </span></td>
+<td><span>38 </span></td>
+<td><span>2 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/idaho.svg" class="svelte-ig1tx7" alt="Idaho heatmap" />
 </div></td>
 </tr>
 </tbody>
@@ -4773,13 +4390,12 @@ and deaths that were reported in the last seven days.</span>
 </div>
 
 See our [live coverage of the coronavirus
-outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
+outbreak](https://www.nytimes.com/2020/08/08/world/coronavirus-covid-19.html)
 for the latest news.
 
 American life has been fundamentally reordered because of the virus.
 Concerts, parades and baseball games have been called off. Unemployment
-claims have spiked. And in most states, case numbers are rising
-again.
+claims have spiked. And in most states, case numbers are rising again.
 
 <div id="cases" class="g-asset g-svelte" style="max-width: 600px">
 
@@ -4799,8 +4415,7 @@ again.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -4810,8 +4425,7 @@ again.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">20,000
-</span>
+<span class="count-label svelte-bw547y">20,000 </span>
 
 </div>
 
@@ -4821,8 +4435,7 @@ again.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">40,000
-</span>
+<span class="count-label svelte-bw547y">40,000 </span>
 
 </div>
 
@@ -4832,8 +4445,7 @@ again.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">60,000
-cases</span>
+<span class="count-label svelte-bw547y">60,000 cases</span>
 
 </div>
 
@@ -4847,44 +4459,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 86.94267515923566%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 85.3125%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 25.477707006369425%; top: 58.111191422947506%">
+<div class="pancake-point svelte-11ba04d" style="left: 25%; top: 58.111191422947506%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -4902,8 +4514,7 @@ average</span>
 <div class="g-source">
 
 <span class="g-credit">Note: The seven-day average is the average of a
-day and the previous six days of
-data.</span>
+day and the previous six days of data.</span>
 
 </div>
 
@@ -4927,8 +4538,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -4938,8 +4548,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">1,000
-</span>
+<span class="count-label svelte-bw547y">1,000 </span>
 
 </div>
 
@@ -4949,8 +4558,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">2,000
-deaths</span>
+<span class="count-label svelte-bw547y">2,000 deaths</span>
 
 </div>
 
@@ -4964,52 +4572,51 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 76.7515923566879%; top: 52.76162790697674%">
+<div class="pancake-point svelte-11ba04d" style="left: 75.3125%; top: 52.76162790697674%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Many
-deaths from unspecified
-days</span>
+deaths from unspecified days</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 41.71974522292994%; top: 1.5988372093023173%">
+<div class="pancake-point svelte-11ba04d" style="left: 40.9375%; top: 1.5988372093023173%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 16.560509554140125%; top: 92.24979235880399%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.25%; top: 92.24979235880399%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -5064,7 +4671,7 @@ world](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html).
 
 </div>
 
-## <span class="g-balancer" data-id="10">The places hit hardest</span>
+## <span id="10" class="g-balancer">The places hit hardest</span>
 
 The coronavirus has left no state unscathed. But its impact has been
 wildly uneven.
@@ -5091,8 +4698,7 @@ in April, case and death numbers have surged to fearsome levels in
 recent weeks. In the county that includes McAllen, Texas, more than 85
 percent of all coronavirus deaths have been announced since the start of
 July. The Miami, Phoenix and Los Angeles areas have at times averaged
-more than 2,000 cases per
-day.
+more than 2,000 cases per day.
 
 <div id="hotspots" class="g-asset g-svelte" style="max-width: 600px">
 
@@ -5100,7 +4706,7 @@ day.
 
 <div class="g-svelte" data-component="11">
 
-<div class="table-controls svelte-1c7zbrd">
+<div class="table-controls svelte-17o3xv">
 
 </div>
 
@@ -5123,145 +4729,120 @@ in last<br />
 7 days</th>
 <th>Per 100,000</th>
 <th>Weekly cases per capita
-<div class="legend-parent svelte-1x4ysxw">
-<div class="table-legend table-legend-hotspots svelte-1x4ysxw">
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #f2df91;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ffae43;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ff6e0b;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ce0a05;"></span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 2;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 3;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-</div>
+<div class="legend svelte-72ew08">
+<span class="block svelte-72ew08" style="background-color: #f2df91;"></span> <span class="block svelte-72ew08" style="background-color: #ffae43;"></span> <span class="block svelte-72ew08" style="background-color: #ff6e0b;"></span> <span class="block svelte-72ew08" style="background-color: #ce0a05;"></span> <span class="falling svelte-72ew08">Fewer</span> <span class="rising svelte-72ew08">More</span>
 </div></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span>Chicot, Ark. </span></td>
-<td><span>552 </span></td>
-<td><span>5,456 </span></td>
-<td><span>221 </span></td>
-<td><span>2,184 </span></td>
+<td><span>Taylor, Fla. </span></td>
+<td><span>936 </span></td>
+<td><span>4,340 </span></td>
+<td><span>606 </span></td>
+<td><span>2,810 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
 <div class="pancake-chart svelte-1gzh5rp">
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
-<span class="first x-label svelte-ig1tx7">Mar. 1</span>
+<span class="first x-label svelte-ig1tx7">March 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100.00000000000001%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 4</span>
+<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Aug. 7</span>
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_05/chicot.svg" alt="Chicot heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/taylor.svg" class="svelte-ig1tx7" alt="Taylor heatmap" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Jefferson, Fla. </span></td>
-<td><span>417 </span></td>
-<td><span>2,927 </span></td>
-<td><span>233 </span></td>
-<td><span>1,636 </span></td>
+<td><span>Franklin, Fla. </span></td>
+<td><span>377 </span></td>
+<td><span>3,109 </span></td>
+<td><span>269 </span></td>
+<td><span>2,219 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_12/jefferson.svg" alt="Jefferson heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/franklin.svg" class="svelte-ig1tx7" alt="Franklin heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Sharkey, Miss. </span></td>
-<td><span>183 </span></td>
-<td><span>4,235 </span></td>
-<td><span>66 </span></td>
-<td><span>1,527 </span></td>
+<td><span>Chicot, Ark. </span></td>
+<td><span>718 </span></td>
+<td><span>7,096 </span></td>
+<td><span>212 </span></td>
+<td><span>2,095 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_28/sharkey.svg" alt="Sharkey heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_05/chicot.svg" class="svelte-ig1tx7" alt="Chicot heatmap" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Cameron, Texas </span></td>
-<td><span>15,118 </span></td>
-<td><span>3,573 </span></td>
-<td><span>6,341 </span></td>
-<td><span>1,498 </span></td>
+<td><span>Karnes, Texas </span></td>
+<td><span>562 </span></td>
+<td><span>3,602 </span></td>
+<td><span>296 </span></td>
+<td><span>1,897 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_48/cameron.svg" alt="Cameron heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_48/karnes.svg" class="svelte-ig1tx7" alt="Karnes heatmap" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Gulf, Fla. </span></td>
+<td><span>569 </span></td>
+<td><span>4,172 </span></td>
+<td><span>233 </span></td>
+<td><span>1,708 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/gulf.svg" class="svelte-ig1tx7" alt="Gulf heatmap" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Martinsville, Va. </span></td>
+<td><span>196 </span></td>
+<td><span>1,561 </span></td>
+<td><span>196 </span></td>
+<td><span>1,561 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_51/martinsville.svg" class="svelte-ig1tx7" alt="Martinsville heatmap" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Jefferson, Fla. </span></td>
+<td><span>447 </span></td>
+<td><span>3,138 </span></td>
+<td><span>218 </span></td>
+<td><span>1,530 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/jefferson.svg" class="svelte-ig1tx7" alt="Jefferson heatmap" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Chase, Kan. </span></td>
+<td><span>41 </span></td>
+<td><span>1,548 </span></td>
+<td><span>35 </span></td>
+<td><span>1,322 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_20/chase.svg" class="svelte-ig1tx7" alt="Chase heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Chattahoochee, Ga. </span></td>
-<td><span>665 </span></td>
-<td><span>6,097 </span></td>
-<td><span>147 </span></td>
-<td><span>1,348 </span></td>
+<td><span>736 </span></td>
+<td><span>6,748 </span></td>
+<td><span>142 </span></td>
+<td><span>1,302 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_13/chattahoochee.svg" alt="Chattahoochee heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_13/chattahoochee.svg" class="svelte-ig1tx7" alt="Chattahoochee heatmap" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Taylor, Fla. </span></td>
-<td><span>551 </span></td>
-<td><span>2,555 </span></td>
-<td><span>260 </span></td>
-<td><span>1,205 </span></td>
+<td><span>Sharkey, Miss. </span></td>
+<td><span>194 </span></td>
+<td><span>4,490 </span></td>
+<td><span>55 </span></td>
+<td><span>1,273 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_12/taylor.svg" alt="Taylor heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>George, Miss. </span></td>
-<td><span>549 </span></td>
-<td><span>2,241 </span></td>
-<td><span>293 </span></td>
-<td><span>1,196 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_28/george.svg" alt="George heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Gulf, Fla. </span></td>
-<td><span>415 </span></td>
-<td><span>3,043 </span></td>
-<td><span>150 </span></td>
-<td><span>1,100 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_12/gulf.svg" alt="Gulf heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Chase, Kan. </span></td>
-<td><span>34 </span></td>
-<td><span>1,284 </span></td>
-<td><span>28 </span></td>
-<td><span>1,057 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_20/chase.svg" alt="Chase heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Big Horn, Mont. </span></td>
-<td><span>363 </span></td>
-<td><span>2,725 </span></td>
-<td><span>137 </span></td>
-<td><span>1,029 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_30/big_horn.svg" alt="Big Horn heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_28/sharkey.svg" class="svelte-ig1tx7" alt="Sharkey heatmap" />
 </div></td>
 </tr>
 </tbody>
@@ -5288,7 +4869,7 @@ days.</span>
 
 </div>
 
-## <span class="g-balancer" data-id="12">Hundreds of thousands of cases traced to clusters</span>
+## <span id="12" class="g-balancer">Hundreds of thousands of cases traced to clusters</span>
 
 Coronavirus outbreaks have been traced to funerals, fast food
 restaurants, cruise ships and Navy vessels. But most of the biggest
@@ -5307,7 +4888,7 @@ of deaths from the virus in the United States have been tied to nursing
 homes and other long-term care facilities.
 
 [We’re tracking the devastating effects of the coronavirus in more
-than 14,000 nursing homes across the country
+than 16,000 nursing homes across the country
 »](https://www.nytimes.com/interactive/2020/us/coronavirus-nursing-homes.html)
 
 “This disease creates the potential for a perfect storm in a long-term
@@ -5327,32 +4908,30 @@ Prison in California, which has become one of the nation’s largest
 coronavirus clusters with more than 2,300 infections and 15 deaths.
 “There’s no way to social distance. We all eat together. We have a
 communal bathroom. There’s no way to address a public health issue in an
-overcrowded
-facility.”
+overcrowded facility.”
 
 <div id="clusters" class="g-asset g-svelte" style="max-width: 600px">
 
 <div class="g-svelte" data-component="13">
 
-<div class="table-controls svelte-1c7zbrd">
+<div class="table-controls svelte-17o3xv">
 
 </div>
 
 | Cases connected to                                                      | Cases               |
 | ----------------------------------------------------------------------- | ------------------- |
-| <span>San Quentin State Prison — San Quentin, Calif. </span>            | <span>2,470 </span> |
+| <span>San Quentin State Prison — San Quentin, Calif. </span>            | <span>2,487 </span> |
 | <span>Marion Correctional Institution — Marion, Ohio </span>            | <span>2,443 </span> |
-| <span>Harris County jail — Houston, Texas </span>                       | <span>1,913 </span> |
-| <span>Pickaway Correctional Institution — Scioto Township, Ohio </span> | <span>1,794 </span> |
-| <span>Avenal State Prison — Avenal, Calif. </span>                      | <span>1,506 </span> |
-| <span>Columbia Correctional Institution — Lake City, Fla. </span>       | <span>1,392 </span> |
+| <span>Miami-Dade County Jail — Miami, Fla. </span>                      | <span>2,099 </span> |
+| <span>Pickaway Correctional Institution — Scioto Township, Ohio </span> | <span>1,795 </span> |
+| <span>Avenal State Prison — Avenal, Calif. </span>                      | <span>1,584 </span> |
+| <span>Columbia Correctional Institution — Lake City, Fla. </span>       | <span>1,395 </span> |
 | <span>Trousdale Turner Correctional Center — Hartsville, Tenn. </span>  | <span>1,382 </span> |
 | <span>North County jail — Castaic, Calif. </span>                       | <span>1,380 </span> |
 | <span>Ouachita River Unit prison — Malvern, Ark. </span>                | <span>1,307 </span> |
-| <span>California Institution for Men — Chino, Calif. </span>            | <span>1,187 </span> |
+| <span>California Institution for Men — Chino, Calif. </span>            | <span>1,202 </span> |
 
-Show
-all
+Show all
 
 </div>
 
@@ -5360,27 +4939,24 @@ all
 
 <div class="g-footer-asset">
 
-## <span class="g-balancer" data-id="14">About the data</span>
+## <span id="14" class="g-balancer">About the data</span>
 
 <div class="g-asset g-svelte g-anomaly-notes g-asset-width-full" style="">
 
 <div class="g-svelte" data-component="15">
 
-<div id="anomaly-notes" class="g-anomaly-notes svelte-11z6hfh">
-
-The Times has found the following reporting anomalies for the data on
-this page:
+<div id="anomaly-notes" class="g-anomaly-notes svelte-bczh6j">
 
 <div class="g-container g-list-circle">
 
-<span class="g-anomaly-notes__date svelte-11z6hfh">June 25:</span> New
+<span class="g-anomaly-notes__date svelte-bczh6j">June 25: </span> New
 Jersey began reporting probable deaths.
 
-<span class="g-anomaly-notes__date svelte-11z6hfh">June 30:</span> New
+<span class="g-anomaly-notes__date svelte-bczh6j">June 30: </span> New
 York City released deaths from earlier periods but did not specify when
 they were from.
 
-<span class="g-anomaly-notes__date svelte-11z6hfh">July 27:</span> Texas
+<span class="g-anomaly-notes__date svelte-bczh6j">July 27: </span> Texas
 began reporting deaths based on death certificates, causing a one-day
 increase.
 
@@ -5429,7 +5005,7 @@ Read more about the methodology and download county-level data for
 coronavirus cases in the United States from The New York Times [on
 GitHub](https://github.com/nytimes/covid-19-data).
 
-## <span class="g-balancer" data-id="16">Tracking the Coronavirus</span>
+## <span id="16" class="g-balancer">Tracking the Coronavirus</span>
 
 <div class="g-asset g-svelte g-footer-nav" style="max-width: 600px">
 
@@ -5466,8 +5042,7 @@ Countries
   - [United
     States](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+State by state
 
   - [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -5548,7 +5123,7 @@ State by
 
 </div>
 
-## <span class="g-balancer" data-id="18">What you can do</span>
+## <span id="18" class="g-balancer">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
 growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
@@ -5556,7 +5131,9 @@ It seems that there are [four factors that most likely play a
 role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
-how much you touch your face afterwards.
+how much you touch your face afterwards. [Here is a guide to the
+symptoms of
+Covid-19.](https://www.nytimes.com/interactive/2020/08/05/well/covid-19-symptoms.html)
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
@@ -5584,8 +5161,7 @@ them.
 
 Here’s a [complete guide on how you can
 prepare](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html)
-for the coronavirus
-outbreak.
+for the coronavirus outbreak.
 
 </div>
 
@@ -5693,7 +5269,7 @@ days.
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -5720,8 +5296,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -5759,8 +5334,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 
