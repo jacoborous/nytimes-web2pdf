@@ -68,30 +68,6 @@
 
 <div id="site-content" role="main">
 
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
-
 <div id="collection-science" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -495,6 +471,72 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/science/08virus-cdcoffices/08virus-cdcoffices-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## C.D.C. Closes Some Offices Over Bacteria Discovery
+    
+    The move highlights the risk of Legionnaires’ disease outbreaks when
+    buildings are reopened after coronavirus lockdowns.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Max Horberry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/nyregion/05xp-virus-aircon/05xp-virus-aircon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow
+    
+    Indoor air is riskier than outdoor air. So what do you do if it’s
+    really hot out?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Heather Murphy</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/world/coronavirus-updates.html)
     
     <div class="css-79elbk">
@@ -503,11 +545,12 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Related Illness Sent Hundreds of Children to Intensive Care
+    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
     
-    With talks on a new U.S. pandemic relief package stalled, President
-    Trump said he would use executive orders to provide aid. It is
-    unclear whether he has the power to do so.
+    Talks on a new U.S. pandemic relief package are stalled and its
+    crucial benefits are expiring. President Trump said he would use
+    executive orders to provide aid, but it is unclear whether he has
+    the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -521,7 +564,7 @@ Advertisement
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -555,7 +598,7 @@ Advertisement
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -589,7 +632,7 @@ Advertisement
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -622,7 +665,7 @@ Advertisement
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -655,7 +698,7 @@ Advertisement
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -688,7 +731,7 @@ Advertisement
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -721,7 +764,7 @@ Advertisement
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -743,73 +786,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Apoorva Mandavilli</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/world/coronavirus-covid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Hours of Talks on U.S. Coronavirus Relief End With No Deal
-    
-    Ohio’s governor tested positive before a planned meeting with
-    President Trump, but a second test was negative. India hit two
-    million cases. China’s exports rose last month at their fastest pace
-    of the year.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/health/rapid-Covid-tests.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/05/science/05VIRUS-TESTING1/05VIRUS-TESTING1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘It’s Kitchen Sink Time’: Fast, Less-Accurate Coronavirus Tests May Be Good Enough
-    
-    Experts are revising their views on the best methods to detect
-    infections, setting aside long-held standards so that the spread of
-    the virus can be more quickly tracked and contained.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katherine J. Wu</span>
     
     </div>
     

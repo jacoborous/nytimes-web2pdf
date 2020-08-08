@@ -360,38 +360,97 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+[](/2020/08/08/us/politics/voting-nov-3-election.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>The Voting Will End Nov. 3. The Legal Battle Probably Won’t.</span>
+
+</div>
+
+  - The clash between Democrats and Republicans over expanding voter
+    rights ahead of a national election has been exacerbated by the
+    pandemic.
+  - Additionally, President Trump’s litigiousness and unfounded claims
+    of fraud have increased the likelihood of epic postelection court
+    fights.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/08/us/politics/voting-nov-3-election.html)
+
+![Counting ballots in Florida after the 2000 election. Court fights
+after the 2020 campaign are shaping up to be more intense.
+<span class="credit">Keith Meyers/The New York
+Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/08DC-VOTING-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1aew2eb eqveam62">
+
 <div>
 
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
-<div class="css-1qj0wac eqveam61">
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
 
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
+[](/2020/08/08/world/coronavirus-updates.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Without $600 Weekly Benefit, Unemployed Face Bleak Choices</span>
+## <span>Weeks Before Classes Start, Colleges Make Reopening Plans</span>
 
 </div>
 
-  - A federal supplement to jobless pay was a lifeline for millions and
-    for the economy. Its cutoff, even if temporary, may have lasting
-    consequences.
-  - For many of the 30 million Americans relying on unemployment
-    benefits, it could already be too late to prevent lasting financial
-    harm.
+Parents are facing a tough choice: force their children to stay home, or
+allow them back on campus, possibly risking infection. Here’s the
+latest.
 
-<div>
+<div class="css-1slnf6i">
 
 <div class="css-na047m">
 
-</div>
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
 
 </div>
 
@@ -403,19 +462,17 @@ President Trump swings against TikTok and WeChat.
 
 </div>
 
-<div class="css-1mg0d7i eqveam60">
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
-
-[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
 
 <div class="css-1g8bx4t">
 
-![Since her recent eviction, Latrish Oseko and her daughter have been
-staying at a Delaware hotel. She said she was following the debate over
-emergency relief, wondering, “Is there going to be hope for me?”
-<span class="credit">Hannah Yoon for The New York
-Times</span>](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1c/00virus-cliff1c-threeByTwoMediumAt2X-v2.jpg?quality=75&auto=webp&disable=upscale)
+![](https://static01.nyt.com/images/2020/08/08/world/08VIRUS-TAB-slide-AF2D/08VIRUS-TAB-slide-AF2D-videoLarge.jpg)
 
 </div>
 
@@ -424,112 +481,75 @@ Times</span>](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1
 </div>
 
 </div>
+
+</div>
+
+<div>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-65h9d3 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1rufx8u">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
+<div class="css-bs48m0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
-
-[](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Millions of Households at Risk of Eviction as Government Support Ends
-
-</div>
-
-Without more federal aid for workers, experts are expecting the largest
-disruption to the housing market since the Depression.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/us/politics/trump-congress-stimulus.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Trump Threatens to Bypass Congress as Stimulus Talks Fail Again
-
-</div>
-
-Democrats called the talks “disappointing,” and President Trump said he
-would use executive orders to provide relief if no agreement could be
-reached.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-8sc6z0 eqveam60">
-
-<div class="css-14dkh1l eqveam61">
-
-<div class="css-1mnef8e" data-aria-hidden="true">
 
 [](/2020/08/08/business/economy/lost-unemployment-benefits.html)
 
-<div class="css-1g8bx4t">
+<div class="css-debyuq e1voiwgp1">
 
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+## Without $600 Weekly Benefit, Unemployed Face Bleak Choices
 
-Since her recent eviction, Latrish Oseko and her daughter have been
-staying at a Delaware hotel. She said she was following the debate over
-emergency relief, wondering, “Is there going to be hope for me?”
-<span class="credit">Hannah Yoon for The New York Times</span>
+</div>
+
+A federal supplement to jobless pay was a lifeline for millions and for
+the economy. Its cutoff, even if temporary, may have lasting
+consequences.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Analysis: Pelosi Confidently Plays Hardball on Virus Relief
+
+</div>
+
+Emboldened by Republican divisions and a favorable political landscape,
+Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
 
 </div>
 
@@ -549,13 +569,13 @@ emergency relief, wondering, “Is there going to be hope for me?”
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1yoguk1 eqveam60">
+<div class="css-65h9d3 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
+<div class="css-1qj0wac eqveam61">
 
 <div class="css-1ee8y2t assetWrapper">
 
@@ -582,25 +602,6 @@ what happened next.
 </div>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-pwtn0q eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/08/magazine/us-russia-intelligence.html)
-
-<div class="css-1g8bx4t">
-
-![<span class="credit">Doug Mills/The New York
-Times</span>](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-threeByTwoSmallAt2X.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -638,28 +639,6 @@ Times</span>](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellge
 
 </div>
 
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Russia continues to meddle in the election to aid President Trump, intelligence officials said.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -674,21 +653,13 @@ Times</span>](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellge
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div class="css-1aew2eb eqveam62">
-
-<div>
+<div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
 <div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
 
 [](/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
 
@@ -704,12 +675,6 @@ pandemic sent them to the back of the line for equipment and care.
 <div>
 
 <div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -740,94 +705,6 @@ Times</span>](https://static01.nyt.com/images/2020/08/03/world/00virus-nursingho
 
 </div>
 
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-bs48m0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/world/coronavirus-updates.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1rczz1p">
-
-LIVE
-
-</div>
-
-## Racial Disparities Found in Related Illness in Children
-
-</div>
-
-An inflammatory syndrome connected to Covid-19 has disproportionately
-affected communities of color, a C.D.C. study showed. Here’s the latest.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-bs48m0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/06/health/coronavirus-immune-cells.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## The Coronavirus Is New, but Your Immune System Might Recognize It
-
-</div>
-
-Some people carry immune cells called T cells that can capitalize on the
-virus’s resemblance to other members of its family tree.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 <div class="css-1nuzdmm e1aa0s8g0">
@@ -860,17 +737,17 @@ virus’s resemblance to other members of its family tree.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
+[](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Chris Dodd, an Insider From Biden’s Past, Is Helping Him Pick His Future</span>
+## <span>How Kristi Noem Fueled Speculation About Mike Pence’s Job</span>
 
 </div>
 
-While trying to win progressive voters, Joe Biden has empowered a
-Washington veteran long trailed by allegations of personal and financial
-indiscretion.
+After her flight on Air Force One provoked rumors, Gov. Kristi Noem of
+South Dakota returned to Washington to smooth things over with the vice
+president.
 
 <div>
 
@@ -898,17 +775,13 @@ indiscretion.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
+[](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How.
+## Chris Dodd, a Washington uber-veteran, has been tasked with finding Joe Biden’s running mate.
 
 </div>
-
-President Trump has called for a payment to the Treasury if a Chinese
-company sells the app to Microsoft. There is no provision in the law for
-that.
 
 <div>
 
@@ -926,11 +799,11 @@ that.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/trump-biden-polls-interview.html)
+[](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Here’s what happened in the 2020 race this week.
+## President Trump wants the U.S. to get a cut of any deal with TikTok. No one knows how that might work.
 
 </div>
 
@@ -988,16 +861,17 @@ that.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+[](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>As Lebanon Reels, Long-Awaited Assassination Verdicts Loom</span>
+## <span>Clashes Erupt in Beirut as Lebanon’s Anger Boils Over</span>
 
 </div>
 
-Almost no one is expecting the full truth about the massacre of the
-country’s former prime minister and his entourage in a bombing in 2005.
+A demonstration was fueled by fury over the corruption and negligence of
+the country’s ruling elite. Security forces fired tear gas at
+protesters.
 
 <div>
 
@@ -1021,7 +895,7 @@ country’s former prime minister and his entourage in a bombing in 2005.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+[](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
 
 <div class="css-1g8bx4t">
 
@@ -1035,9 +909,8 @@ country’s former prime minister and his entourage in a bombing in 2005.
 
 <div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
 
-The crater left by the bombing that targeted the motorcade of former
-Prime Minister Rafik Hariri in Beirut, Lebanon, in 2005.
-<span class="credit">Associated Press</span>
+Protesters clashed with security forces on Saturday in Beirut.
+<span class="credit">Hassan Ammar/Associated Press</span>
 
 </div>
 
@@ -1057,17 +930,16 @@ Prime Minister Rafik Hariri in Beirut, Lebanon, in 2005.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
+[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
+## As Lebanon Reels, Long-Awaited Assassination Verdicts Loom
 
 </div>
 
-The explosive material responsible for the blast in Beirut was carried
-there by the ailing cargo ship Rhosus in 2013. Here’s what happened
-next.
+Almost no one is expecting the full truth about the massacre of the
+country’s former prime minister and his entourage in a bombing in 2005.
 
 <div>
 
@@ -1359,6 +1231,98 @@ Jorge Ramos
 
 <div class="css-6p6lnl">
 
+[](/2020/08/08/opinion/gold-investment-coronavirus.html)
+
+<div class="css-dcl9ft">
+
+![Ruchir
+Sharma](https://static01.nyt.com/images/2018/04/02/opinion/ruchir-sharma/ruchir-sharma-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ruchir Sharma
+
+</div>
+
+</div>
+
+## Why Is Everyone Buying Gold?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+David Hajdu
+
+</div>
+
+</div>
+
+## A Song That Changed Music Forever
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
+
+<div class="css-dcl9ft">
+
+![Elliot
+Ackerman](https://static01.nyt.com/images/2020/03/13/opinion/elliot-ackerman/elliot-ackerman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Elliot Ackerman
+
+</div>
+
+</div>
+
+## America’s Military Should Confront Its Past, Not Bury It
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
 [](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
 
 <div class="css-dcl9ft">
@@ -1381,164 +1345,6 @@ David Brooks
 </div>
 
 ## Where Do Republicans Go From Here?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ron Haviv
-
-</div>
-
-</div>
-
-## Could This Be the Last Time We See Our Dad?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/beirut-explosion.html)
-
-<div class="css-dcl9ft">
-
-![Roger
-Cohen](https://static01.nyt.com/images/2014/11/01/opinion/cohen-circular/cohen-circular-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Roger Cohen
-
-</div>
-
-</div>
-
-## Beirut on the Potomac
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/trump-2020-census.html)
-
-<div class="css-dcl9ft">
-
-![Jamelle
-Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Jamelle Bouie
-
-</div>
-
-</div>
-
-## Trump and His Allies Think They Know Who Counts
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
-
-<div class="css-dcl9ft">
-
-![Josephine
-Wolff](https://static01.nyt.com/images/2020/01/07/opinion/josephine-wolff/josephine-wolff-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Josephine Wolff
-
-</div>
-
-</div>
-
-## So What Does Trump Have Against TikTok?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/06/opinion/coronavirus-us-recession.html)
-
-<div class="css-dcl9ft">
-
-![Paul
-Krugman](https://static01.nyt.com/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Paul Krugman
-
-</div>
-
-</div>
-
-## Coming Next: The Greater Recession
 
 </div>
 
@@ -1583,11 +1389,94 @@ Elizabeth Bruenig
 
 <div class="css-6p6lnl">
 
-[](/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html)
+[](/2020/08/07/opinion/trump-2020-census.html)
+
+<div class="css-dcl9ft">
+
+![Jamelle
+Bouie](https://static01.nyt.com/images/2019/01/24/opinion/jamelle-bouie/jamelle-bouie-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
-## He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Jamelle Bouie
+
+</div>
+
+</div>
+
+## Trump and His Allies Think They Know Who Counts
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/beirut-explosion.html)
+
+<div class="css-dcl9ft">
+
+![Roger
+Cohen](https://static01.nyt.com/images/2014/11/01/opinion/cohen-circular/cohen-circular-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Roger Cohen
+
+</div>
+
+</div>
+
+## Beirut on the Potomac
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/opinion/coronavirus-us-recession.html)
+
+<div class="css-dcl9ft">
+
+![Paul
+Krugman](https://static01.nyt.com/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Paul Krugman
+
+</div>
+
+</div>
+
+## Coming Next: The Greater Recession
 
 </div>
 
@@ -1621,13 +1510,13 @@ Elizabeth Bruenig
 
 <div class="css-1xaqcky">
 
-[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
+[](/2020/08/07/sports/tennis/serena-williams-us-open.html)
 
 <div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:480.47999999999996px">
+<div data-testid="lazyimage-container" style="height:480px">
 
 </div>
 
@@ -1635,7 +1524,7 @@ Elizabeth Bruenig
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">via The Metropolitan Museum of Art</span>
+<span class="credit">Ben Solomon for The New York Times</span>
 
 </div>
 
@@ -1645,16 +1534,17 @@ Elizabeth Bruenig
 
 <div class="css-1nl6p6m">
 
-[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
+[](/2020/08/07/sports/tennis/serena-williams-us-open.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>A Picture of Change for a World in Constant Motion</span>
+## <span>After It All, Serena Williams Still Has No. 24 In Sight</span>
 
 </div>
 
-Here’s what a masterpiece of Japanese printmaking teaches us about the
-way images circulate.
+After a pause because of the pandemic, Williams is preparing for the
+U.S. Open, her next chance to tie Margaret Court’s Grand Slam singles
+title record.
 
 <div>
 
@@ -1686,15 +1576,16 @@ way images circulate.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/style/coronavirus-nyc-historic-season.html)
+[](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## A Season of Grief and Release
+## Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow
 
 </div>
 
-This photographic timeline shows a historic half-year in New York City.
+Indoor air is riskier than outdoor air. So what do you do if it’s really
+hot out?
 
 <div>
 
@@ -1712,7 +1603,7 @@ This photographic timeline shows a historic half-year in New York City.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/style/coronavirus-nyc-historic-season.html)
+[](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
 
 <div class="css-1g8bx4t">
 
@@ -1746,16 +1637,17 @@ This photographic timeline shows a historic half-year in New York City.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
+[](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## The Weird, Disturbing (and Comforting) Return of Pro Sports
+## This Is How It All Ends
 
 </div>
 
-The swirl of conflicting emotions about the return of sports, and
-whether it will last, seems apt for these turbulent times.
+In “The End of Everything,” the theoretical cosmologist Katie Mack takes
+a look at the ultimate doom and destruction of our universe. It’s not
+pretty.
 
 <div>
 
@@ -1773,7 +1665,7 @@ whether it will last, seems apt for these turbulent times.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
+[](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
 
 <div class="css-1g8bx4t">
 

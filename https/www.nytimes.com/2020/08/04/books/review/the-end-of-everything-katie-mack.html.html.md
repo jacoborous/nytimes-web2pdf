@@ -30,8 +30,7 @@
 
 <div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
 
-[Book
-Review](https://www.nytimes.com/section/books/review)
+[Book Review](https://www.nytimes.com/section/books/review)
 
 </div>
 
@@ -59,8 +58,7 @@ Review](https://www.nytimes.com/section/books/review)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -84,8 +82,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <span class="css-17xtcya">[Book
 Review](/section/books/review)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">This
-Is How It All
-Ends</span>
+Is How It All Ends</span>
 
 </div>
 
@@ -107,7 +104,7 @@ Ends</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -169,8 +165,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -221,14 +216,13 @@ Gleick</span>](https://www.nytimes.com/by/james-gleick)
 
 </div>
 
-  - Aug. 4,
-    2020
+  - Aug. 4, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -295,8 +289,7 @@ Does the arc of the moral universe bend toward justice? Does it bend
 anywhere at all? When Martin Luther King Jr. said it did, he was
 paraphrasing the 19th-century abolitionist minister Theodore Parker, who
 also said: “My eye reaches but little ways. I cannot calculate the curve
-and complete the figure by the experience of
-sight.”
+and complete the figure by the experience of sight.”
 
 </div>
 
@@ -457,8 +450,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -502,8 +494,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

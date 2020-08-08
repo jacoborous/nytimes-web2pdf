@@ -211,14 +211,16 @@ Supported by
         
         </div>
         
-        A helicopter and dozens of officers, some in riot gear, were
+        A helicopter and dozens of officers, some in tactical gear, were
         deployed for an arrest at a Manhattan apartment but withdrew
         after protesters arrived.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Liam Stack</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Annie
-        Correal</span></span>
+        <span class="css-1baulvz" itemprop="name">Liam Stack</span>,
+        <span class="css-1baulvz" itemprop="name">Annie Correal</span>
+        and
+        <span class="css-1baulvz last-byline" itemprop="name">Juliana
+        Kim</span></span>
         
         </div>
     
@@ -405,11 +407,12 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Related Illness Sent Hundreds of Children to Intensive Care
+    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
     
-    With talks on a new U.S. pandemic relief package stalled, President
-    Trump said he would use executive orders to provide aid. It is
-    unclear whether he has the power to do so.
+    Talks on a new U.S. pandemic relief package are stalled and its
+    crucial benefits are expiring. President Trump said he would use
+    executive orders to provide aid, but it is unclear whether he has
+    the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
     

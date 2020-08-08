@@ -211,7 +211,7 @@ Supported by
     </div>
 
 3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johannes
-        Eisele/Agence France-Presse — Getty
+        Eisele/Agence France-Presse \&mdash; Getty
         Images</span>](https://static01.nyt.com/images/2020/08/09/business/08berkshire/08berkshire-videoLarge.jpg)
         
         <div class="css-10wtrbd">
@@ -302,19 +302,21 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
-    Blake/Reuters</span>](https://static01.nyt.com/images/2020/08/08/business/07HBO1-print/merlin_137565399_b34b5a2a-f0da-40b5-891b-d7507abfd280-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sam
+    Hodgson for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/business/07BON-APP-01/merlin_141879036_2c11670f-08df-4d43-a374-a86c3e2e7ac2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Three Top Executives Are Out at WarnerMedia, HBO’s Parent Company](/2020/08/07/business/media/hbo-warnermedia-executive-departure.html)
+    ## [2 Black Staff Members Quit Bon Appétit as Tensions Over Race Continue](/2020/08/07/business/media/bon-appetit-race-black-staff-quits.html)
     
-    The shake-up came on the watch of the WarnerMedia chief executive,
-    Jason Kilar, who joined the company in May.
+    Troubles at the magazine surfaced in June, when the top editor
+    resigned under pressure after staff members complained of a toxic
+    culture.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nicole
-    Sperling</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Edmund
+    Lee</span></span>
     
     </div>
 
@@ -544,11 +546,44 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/science/08virus-cdcoffices/08virus-cdcoffices-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## C.D.C. Closes Some Offices Over Bacteria Discovery
+    
+    The move highlights the risk of Legionnaires’ disease outbreaks when
+    buildings are reopened after coronavirus lockdowns.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Max Horberry</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/world/asia/hong-kong-sanctions-united-states.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/08/world/08hk-sanctions01/08hk-sanctions01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/world/09hk-sanctions/08hk-sanctions01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -572,29 +607,28 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/business/media/bon-appetit-race-black-staff-quits.html)
+    [](/2020/08/07/business/media/hbo-warnermedia-executive-departure.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/07/business/07BON-APP-01/merlin_141879036_2c11670f-08df-4d43-a374-a86c3e2e7ac2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/business/07HBO1-print/merlin_137565399_b34b5a2a-f0da-40b5-891b-d7507abfd280-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 2 Black Staff Members Quit Bon Appétit as Tensions Over Race Continue
+    ## Three Top Executives Are Out at WarnerMedia, HBO’s Parent Company
     
-    Troubles at the magazine surfaced in June, when the top editor
-    resigned under pressure after staff members complained of a toxic
-    culture.
+    The shake-up came on the watch of the WarnerMedia chief executive,
+    Jason Kilar, who joined the company in May.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Edmund Lee</span>
+    By <span class="css-1n7hynb">Nicole Sperling</span>
     
     </div>
     
@@ -606,7 +640,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +674,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -672,7 +706,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -696,7 +730,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -730,7 +764,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -766,7 +800,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -800,7 +834,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -819,40 +853,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Gillian Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/business/economy/federal-reserve-main-street-lending.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/business/07DC-MainStreet-print/merlin_171561357_237ae3c7-291b-4d4a-8cbb-6b979b686ddd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Oversight Member Blasts the Fed’s Efforts to Rescue Main Street
-    
-    The Federal Reserve president leading the Main Street lending
-    program testified before a congressional commission, as one member
-    labeled it a “failure.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jeanna Smialek</span>
     
     </div>
     

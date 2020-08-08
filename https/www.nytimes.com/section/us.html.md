@@ -152,9 +152,7 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
-    Rasmussen for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-threeByTwoMediumAt2X-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
@@ -188,9 +186,9 @@ Supported by
         
         </div>
         
-        ## [Jerry Falwell Jr. Taking Leave of Absence From Liberty University](/2020/08/07/us/falwell-liberty.html)
+        ## [Falwell Taking Leave From Liberty University Amid Photo Uproar](/2020/08/07/us/falwell-liberty.html)
         
-        Mr. Falwell, the college’s president and a supporter of
+        Jerry Falwell Jr., the college’s president and a supporter of
         President Trump, agreed to a request by the school’s board of
         trustees.
         
@@ -224,28 +222,27 @@ Supported by
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hilary
-        Swift for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/07/us/07farmerinfluencer1/merlin_175042608_2a4dde30-9e9a-43b9-a4ad-6577fd58351c-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Grant
+        Hindsley for The New York
+        Times</span>](https://static01.nyt.com/images/2020/09/03/us/03CHAZ1/merlin_174979071_1ce12ee2-37f8-44d8-8a9c-d593f10b64ca-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/07/us/07farmerinfluencer1/merlin_175042608_2a4dde30-9e9a-43b9-a4ad-6577fd58351c-thumbStandard.jpg)](/2020/08/07/us/farmer-influencer-youtube.html)
+        [![](https://static01.nyt.com/images/2020/09/03/us/03CHAZ1/03CHAZ1-thumbStandard.jpg)](/2020/08/07/us/defund-police-seattle-protests.html)
         
         </div>
         
-        ## [In a Wistful Age, Farmers Find a New Angle: Chore TV](/2020/08/07/us/farmer-influencer-youtube.html)
+        ## [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](/2020/08/07/us/defund-police-seattle-protests.html)
         
-        It’s hard for small farmers to earn a living selling their
-        products. Enter the “farmer-influencer,” who can earn more by
-        streaming farm life, in all its comforting monotony, to a
-        growing online audience.
+        What is it like when a city abandons a neighborhood and the
+        police vanish? Business owners describe a harrowing experience
+        of calling for help and being left all alone.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ellen
-        Barry</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Nellie
+        Bowles</span></span>
         
         </div>
 
@@ -302,6 +299,183 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/video/us/100000007279713/sturgis-motorcycle-rally-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Despite Pandemic, Thousands Attend Sturgis Motorcycle Rally
+    
+    Bikers gathered in the western South Dakota community for the annual
+    10-day motorcycle rally, despite objections from residents who
+    feared it could be a superspreader event.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reuters</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job
+    
+    After Ms. Noem, the South Dakota governor, flew to Washington on Air
+    Force One, rumors about her ambitions ensued. She made a second trip
+    to smooth things over with Mike Pence.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan Martin <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Trump Threatens to Use Executive Order for ‘Critical Relief’
+    
+    Though it’s unclear whether he has the authority to do so, President
+    Trump said on Friday that if Congress did not reach an agreement, he
+    would act unilaterally to extend a coronavirus economic aid package.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reuters</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">News analysis</span>
+    
+    ## Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.
+    
+    Emboldened by Republican divisions and a favorable political
+    landscape, the speaker is refusing to agree to a narrow relief
+    measure, unbothered by charges that she is an impediment to a deal.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
+    Nicholas Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/nyregion/05xp-virus-aircon/05xp-virus-aircon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow
+    
+    Indoor air is riskier than outdoor air. So what do you do if it’s
+    really hot out?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Heather Murphy</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/us/pajamas-school-springfield-dress-code.html)
     
     <div class="css-79elbk">
@@ -330,7 +504,7 @@ Advertisement
     
     </div>
 
-2.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -344,11 +518,12 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Related Illness Sent Hundreds of Children to Intensive Care
+    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
     
-    With talks on a new U.S. pandemic relief package stalled, President
-    Trump said he would use executive orders to provide aid. It is
-    unclear whether he has the power to do so.
+    Talks on a new U.S. pandemic relief package are stalled and its
+    crucial benefits are expiring. President Trump said he would use
+    executive orders to provide aid, but it is unclear whether he has
+    the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -362,7 +537,7 @@ Advertisement
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -396,7 +571,7 @@ Advertisement
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -431,7 +606,7 @@ Advertisement
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -455,182 +630,6 @@ Advertisement
     
     By <span class="css-1n7hynb">Matt Flegenheimer, Rebecca R. Ruiz
     <span>and</span> Sydney Ember</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08dc-trump-deal01/merlin_175385274_5c253a96-ea25-4174-8386-27b256225651-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">White House MEmo</span>
-    
-    ## Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.
-    
-    The president has repeatedly called for a big payment to the
-    Treasury Department if a Chinese company sells the app to Microsoft,
-    but there is no provision in the law for that.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D. Shear, Alan Rappeport
-    <span>and</span> Ana Swanson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/trump-biden-polls-interview.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08moments1/08moments1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News Analysis</span>
-    
-    ## Trump’s Axios Interview, Kanye West’s Campaign: The Latest in the 2020 Race
-    
-    President Trump wants to brand Joe Biden as a doddering gaffe
-    machine. But the incumbent’s own rhetoric causes so much controversy
-    it is overwhelming the strategy.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
-    Annie Karni</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/us/politics/trump-news-conference-bedminster.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/us/07dc-trump/merlin_175446663_9503e462-47b8-4706-9b11-97d9f9226636-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Away From Gridlock in Washington, Trump Puts on a Show for His Club
-    
-    The president held what was billed as a news conference. But there
-    was almost no news, he again said the virus would disappear and his
-    audience seemed at times less the nation than his golf club members.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Annie Karni <span>and</span> Maggie
-    Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/us/face-masks-baby-pupuu-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-maskfraud-pix/07xp-maskfraud-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Georgia Businessman Charged With Hoarding Face Masks and Price Gouging
-    
-    The man, Milton Ayimadu, allegedly hoarded 200,000 face masks and
-    sold them for double what he paid, according to the U.S. Attorney’s
-    Office.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Marie Fazio</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/us/politics/postal-service-reorganization-mail-ballots.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/us/07dc-postal/merlin_175343967_1193d995-7caf-4b86-99da-3186ac0c799e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Postal Service Leader Sets Reorganization Amid Scrutiny Over Mail Ballots
-    
-    The Trump donor who runs the post office pledged that such changes
-    would not affect the ability to deliver ballots on time this fall.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D. Shear</span>
     
     </div>
     

@@ -327,13 +327,19 @@ Ember</span>](https://www.nytimes.com/by/sydney-ember)
 
 </div>
 
-  - Aug. 8, 2020, <span class="css-epvm6">5:00 a.m. ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 8, 2020Updated <span class="css-epvm6">12:03 p.m. ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 

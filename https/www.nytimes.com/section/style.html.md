@@ -160,26 +160,11 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-jumbo-v3.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adraint
+    Bereal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/merlin_175014747_4c05eddd-69f2-45bb-84bd-a8b4a02bd8cf-jumbo.jpg)
     
     <div class="css-gjijuv">
-    
-    ## [A Season of Grief and Release: 5 Months of the Virus in New York City](/2020/08/07/style/coronavirus-nyc-historic-season.html)
-    
-    A photographic timeline of a historic half-year.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Daniel Arnold</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Dodai
-    Stewart</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adraint
-    Bereal for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/00THELOOK-UT1-videoLarge-v4.jpg)
-    
-    <div class="css-10wtrbd">
     
     ### The Look
     
@@ -196,23 +181,22 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Herman
-    Miller</span>](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [This Is Not a Desk Chair](/2020/08/07/style/gamer-chair-market-herman-miller.html)
+    ## [A Season of Grief and Release: 5 Months of the Virus in New York City](/2020/08/07/style/coronavirus-nyc-historic-season.html)
     
-    The pandemic has put video game equipment in unusually high demand.
-    The gaming chair is ascendant.
+    A photographic timeline of a historic half-year.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sanam
-    Yar</span></span>
+    <span class="css-1baulvz" itemprop="name">Daniel Arnold</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Dodai
+    Stewart</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
     T. Gellerson for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/08/fashion/08KATIE-HILL1/08KATIE-HILL1-videoLarge-v2.jpg)
     
@@ -229,17 +213,11 @@ Supported by
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Go-To-Gifts
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
+    
+    ### Go-To-Gifts
     
     ## [Thoughtful Gift Ideas That Newlyweds Will Actually Use](/2020/08/08/fashion/weddings/thoughtful-gift-ideas-that-newlyweds-will-actually-use.html)
     
@@ -252,7 +230,13 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Matija
     Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
@@ -268,7 +252,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Kibbo</span>](https://static01.nyt.com/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-videoLarge.png)
     
     <div class="css-10wtrbd">
@@ -280,6 +264,22 @@ Supported by
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Candace
     Jackson</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Herman
+    Miller</span>](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [This Is Not a Desk Chair](/2020/08/07/style/gamer-chair-market-herman-miller.html)
+    
+    The pandemic has put video game equipment in unusually high demand.
+    The gaming chair is ascendant.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sanam
+    Yar</span></span>
     
     </div>
 

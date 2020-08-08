@@ -259,7 +259,7 @@ Yee</span>](https://www.nytimes.com/by/vivian-yee)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 8, 2020Updated <span class="css-epvm6">4:13 a.m. ET</span>
+    Aug. 8, 2020Updated <span class="css-epvm6">12:05 p.m. ET</span>
     
     </div>
 
@@ -410,7 +410,7 @@ Hezbollah as responsible for the disaster that befell them.”
 
 The same kind of divisions have loomed over the Hariri case since the
 beginning. Hezbollah has dismissed the court as a tool of its enemies,
-Israel and the United States. Its leader, Mr. Nasrallah, warned against
+Israel and the United States. Its leader, Mr. Nasrallah warned against
 cooperating with the tribunal and threatened to go after any followers
 who did.
 

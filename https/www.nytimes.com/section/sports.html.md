@@ -315,7 +315,7 @@ Supported by
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Solomon for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/07/sports/07tennis-serena-sub/merlin_160252602_261d1c0d-04de-4dbc-b545-949df424aa39-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/09/sports/07tennis-serena-sub/merlin_160252602_261d1c0d-04de-4dbc-b545-949df424aa39-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     

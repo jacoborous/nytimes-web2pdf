@@ -81,8 +81,8 @@
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-Live Updates: Racial Disparities Found in Related Illness in
-Children</span>
+Live Updates: Weeks Before Classes Start, Colleges Make Reopening
+Plans</span>
 
 </div>
 
@@ -219,32 +219,34 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 11:17 a.m.
+<span class="css-1656jku">Aug. 8, 2020, 12:48 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 11:17
-a.m. ET</span>
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 12:48
+p.m. ET</span>
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Coronavirus Live Updates: Racial Disparities Found in Related Illness in Children
+# Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
 
 </div>
 
-With talks on a new U.S. pandemic relief package stalled, President
-Trump said he would use executive orders to provide aid. It is unclear
-whether he has the power to do so.
+Talks on a new U.S. pandemic relief package are stalled and its crucial
+benefits are expiring. President Trump said he would use executive
+orders to provide aid, but it is unclear whether he has the power to do
+so.
 
 <div class="css-192lewg e1oheyly0">
 
 Right Now
 
-Even as crowds flock to large nighttime social gatherings, more
-jurisdictions are closing their bars and clubs.
+In Belgium, party leaders again failed to form a new government. The
+country has been operating with an emergency minority coalition
+throughout the coronavirus epidemic.
 
 </div>
 
@@ -254,6 +256,8 @@ jurisdictions are closing their bars and clubs.
 
 ### Here’s what you need to know:
 
+  - [Universities make reopening plans, and parents see tough choices no
+    matter what.](#link-7bd2f2ea)
   - [A C.D.C. report on children shows hundreds were sent to intensive
     care for a syndrome connected to Covid-19.](#link-57c61e05)
   - [As U.S. relief talks falter again, Trump says he’s prepared to act
@@ -262,11 +266,9 @@ jurisdictions are closing their bars and clubs.
     limits on movement.](#link-bb0ce1a)
   - [Low-wage and unemployed workers find themselves in limbo as
     stimulus measures expire.](#link-1f7e24cf)
+  - [Cases are increasing in Belgium, where the parties missed another
+    deadline to form a government.](#link-4b5029e)
   - [Are illicit parties endangering New York City?](#link-17b89333)
-  - [As Myanmar’s tourism collapses, horses become too expensive to keep
-    alive.](#link-3fdfb923)
-  - [When the virus hit, nursing home residents in some countries were
-    left to die.](#link-6cd5a1c2)
 
 </div>
 
@@ -278,10 +280,14 @@ jurisdictions are closing their bars and clubs.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Children
-cooling off in a fountain in New York City last
-month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jeenah
-Moon/Reuters</span></span>](https://static01.nyt.com/images/2020/08/07/us/07virus-briefing-child/merlin_174951855_7df0945e-183c-4ece-87ab-28490ca9edcd-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Katelyn
+Hutchison, a member of her schools track team, and her father, Kelly
+Hutchison. Seeing her disappointment at a national track championship
+meet being canceled because of the coronavirus “was one of the most
+painful things I’ve ever experienced,” Mr. Hutchison
+said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nolis
+Anderson for The New York
+Times</span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-college/merlin_175377363_8014a0f4-9a2d-44df-9db4-db595c604847-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -293,7 +299,7 @@ Moon/Reuters</span></span>](https://static01.nyt.com/images/2020/08/07/us/07viru
 
 ## 
 
-<div id="link-57c61e05" class="css-105iojl">
+<div id="link-7bd2f2ea" class="css-105iojl">
 
 </div>
 
@@ -303,32 +309,37 @@ Moon/Reuters</span></span>](https://static01.nyt.com/images/2020/08/07/us/07viru
 
 </div>
 
-A C.D.C. report on children shows hundreds were sent to intensive care
-for a syndrome connected to Covid-19.
+Universities make reopening plans, and parents see tough choices no
+matter what.
 
-Hundreds of children in America, most of them previously healthy, have
-experienced an inflammatory syndrome associated with Covid-19, and most
-became so ill that they needed intensive care, according to [a new
-report](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932e2.htm?s_cid=mm6932e2_w#T1_down)
-from the Centers for Disease Control and Prevention.
+The usual parental worries about college-bound children — whether they
+will be happy, or productive, or find a suitable major leading to a
+stable career — are getting sidelined this fall by one overwhelming
+concern: With coronavirus cases [spiking in many parts of the
+country](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html),
+will students be safe at school?
 
-The syndrome, which can be deadly, has rattled parents and education
-officials as schools across the United States struggle with the prospect
-of reopening in the fall and the coronavirus continues its spread.
+[More than a quarter of U.S.
+colleges](https://collegecrisis.shinyapps.io/dashboard/) plan to begin
+fall instruction fully or mostly online, but many are still opening up
+their dorms. And at many schools, upperclassmen are returning to
+off-campus apartments, or fraternity or sorority houses. That leaves
+parents with the choice of forcing their 20-year-olds to stay home
+against their will, or allowing them to leave and join their friends,
+knowing the infection data may not be in their favor.
 
-The researchers said that from early March to late July, the C.D.C.
-received reports of 570 young people — ranging from infants to age 20 —
-who met the definition of the new condition, called [Multisystem
-Inflammatory Syndrome in
-Children](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
-or MIS-C. The reports came from health departments in 40 states, as well
-as New York City and Washington, D.C.
+“This is a situation where you have to pray for the best and be ready
+for the worst,” said Kelly Hutchison, a retired firefighter and [single
+father](https://books.apple.com/us/book/book-title/id1291492202?ls=1) in
+Chicago whose daughter, Katelyn, is a student at Ithaca College.
 
-The patients were disproportionately people of color, echoing a pattern
-in adults who have been struck by the respiratory disease caused by the
-virus. About 40 percent were Hispanic or Latino, 33 percent were Black,
-and 13 percent were white, the report said. The median age was 8. About
-25 percent of the patients had obesity before becoming sick.
+Some parents are still debating whether their child should take the year
+off entirely. For schools on the semester system, tuition bills for
+thousands, or even tens of thousands of dollars, are due this month. But
+up until those due dates, colleges are trying to be flexible. In many
+cases, “you can defer admission, or you can take an academic leave, and
+they’ll allow you to come back,” said Lynn Pasquerella, the president of
+the Association of American Colleges and Universities.
 
 </div>
 
@@ -338,22 +349,64 @@ and 13 percent were white, the report said. The median age was 8. About
 
 <div class="css-53u6y8">
 
-MIS-C was first recognized in May as a condition linked to Covid-19 that
-appears to occur in children and young people who often had not
-developed any of the respiratory symptoms that are the primary way the
-virus attacks adults.
+Taking such a break, however, may not be realistic, said Jill
+Schwitzgebel, a college counselor in Celebration, Fla. “What is your
+child going to do with a gap year?” she said. “Getting a job is tough.
+Flying overseas is not happening.”
 
-The syndrome, which can include a fever, rash, pinkeye, stomach
-distress, confusion, bluish lips, muscle weakness, racing heart rate and
-cardiac shock, appears to emerge days or weeks after the initial viral
-infection, and experts believe it may be the result of a revved-up
-immune system response to defeating the virus’s first assault.
+Other updates from around the U.S.:
 
-The C.D.C. reported that about two-thirds of the patients had no
-previous underlying medical conditions, and most experienced
-complications that involved four or more organ systems, especially the
-heart. Ten died. Nearly two-thirds were admitted to intensive care units
-for a median of five days.
+  - **Princeton**
+    [announced](https://www.princeton.edu/news/2020/08/07/fall-2020-update-undergraduate-education-be-fully-remote)
+    Friday that all undergraduate classes would be held online during
+    the fall semester. In a statement, the university’s president said
+    that the pandemic “prevents a genuinely meaningful on-campus
+    experience for undergraduates.” On Monday, the university also said
+    it would cut tuition by 10 percent for all undergraduates during the
+    2020-21 school year.
+
+  - **Johns Hopkins University** [made a similar
+    announcement](https://hub.jhu.edu/2020/08/06/university-moves-undergraduate-instruction-online/)
+    on Thursday, moving to remote learning and reducing undergraduate
+    tuition by 10 percent for the fall term.
+
+  - Gov. Gavin Newsom of California released
+    [guidance](https://files.covid19.ca.gov/pdf/guidance-higher-education--en.pdf)
+    on Friday for colleges and universities that plan to reopen. For
+    schools in counties that are flagged by the state for elevated
+    transmission for three consecutive days, the guidance would prohibit
+    indoor classes. Many of the campuses of **California State
+    University**, the nation’s largest four-year public university
+    system, have [already committed to remote
+    learning](https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html)
+    for the fall.
+
+  - On Thursday, the **University of Massachusetts, Amherst**
+    [backtracked](https://www.umass.edu/coronavirus/news/significant-changes-our-fall-reopening-plan)
+    on a previous plan to let students enrolled in online classes live
+    on campus. Just weeks before the semester is scheduled to begin, the
+    university said only a small subset of students “enrolled in
+    essential face-to-face classes” would be allowed into dorms and
+    dining halls.
+
+  - Officials at **Harvard**
+    [said](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
+    on Thursday that they planned to allow up to 40 percent of
+    undergraduates, including the entire freshman class, to return to
+    campus for the fall, but that all instruction would be delivered
+    online. The university has not offered discounted tuition.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 </div>
 
@@ -529,6 +582,117 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29
 
 ## 
 
+<div id="link-57c61e05" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+A C.D.C. report on children shows hundreds were sent to intensive care
+for a syndrome connected to Covid-19.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Children
+cooling off in a fountain in New York City last
+month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jeenah
+Moon/Reuters</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Hundreds of children in America, most of them previously healthy, have
+experienced an inflammatory syndrome associated with Covid-19, and most
+became so ill that they needed intensive care, according to [a new
+report](https://www.cdc.gov/mmwr/volumes/69/wr/mm6932e2.htm?s_cid=mm6932e2_w#T1_down)
+from the Centers for Disease Control and Prevention.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The syndrome, which can be deadly, has rattled parents and education
+officials as schools across the United States struggle with the prospect
+of reopening in the fall and the coronavirus continues its spread.
+
+The researchers said that from early March to late July, the C.D.C.
+received reports of 570 young people — ranging from infants to age 20 —
+who met the definition of the new condition, called [Multisystem
+Inflammatory Syndrome in
+Children](https://www.nytimes.com/2020/05/17/health/coronavirus-multisystem-fnflammatory-syndrome-children-teenagers.html)
+or MIS-C. The reports came from health departments in 40 states, as well
+as New York City and Washington, D.C.
+
+The patients were disproportionately people of color, echoing a pattern
+in adults who have been struck by the respiratory disease caused by the
+virus. About 40 percent were Hispanic or Latino, 33 percent were Black,
+and 13 percent were white, the report said. The median age was 8. About
+25 percent of the patients had obesity before becoming sick.
+
+MIS-C was first recognized in May as a condition linked to Covid-19 that
+appears to occur in children and young people who often had not
+developed any of the respiratory symptoms that are the primary way the
+virus attacks adults.
+
+The syndrome, which can include a fever, rash, pinkeye, stomach
+distress, confusion, bluish lips, muscle weakness, racing heart rate and
+cardiac shock, appears to emerge days or weeks after the initial viral
+infection, and experts believe it may be the result of a revved-up
+immune system response to defeating the virus’s first assault.
+
+The C.D.C. reported that about two-thirds of the patients had no
+previous underlying medical conditions, and most experienced
+complications that involved four or more organ systems, especially the
+heart. Ten died. Nearly two-thirds were admitted to intensive care units
+for a median of five days.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
 <div id="link-182e4a8e" class="css-105iojl">
 
 </div>
@@ -546,12 +710,13 @@ his own.
 
 </div>
 
-![<span class="css-16f3y1r e13ogyst0">Lawmakers were still at an impasse
-after meeting Friday, and President Trump’s advisers said they would
-recommend that he act on his own through an executive
-order.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erin
-Schaff/The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/08/07/business/07briefing-virus-dc/merlin_175437309_159f9c40-80e8-485d-b628-182ecd153499-videoSixteenByNine3000.jpg)
+![<span class="css-16f3y1r e13ogyst0">Though it’s unclear whether he has
+the authority to do so, President Trump said on Friday that if Congress
+did not reach an agreement, he would act unilaterally to extend a
+coronavirus economic aid
+package.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anna
+Moneymaker for The New York
+Times</span></span></span>](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/07vid-trump-videoSixteenByNine3000.jpg)
 
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
@@ -562,14 +727,6 @@ on the brink of collapse on Friday, as both sides said they remained
 deeply divided on an economic recovery package and President Trump
 indicated that he was prepared to act on his own to provide relief,
 although it was unclear whether he has the authority to do so.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 [At a news conference on
 Friday](https://www.nytimes.com/2020/08/07/us/politics/trump-news-conference-bedminster.html)
@@ -851,6 +1008,106 @@ about the future.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+## 
+
+<div id="link-4b5029e" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Cases are increasing in Belgium, where the parties missed another
+deadline to form a government.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:308.0444444444445px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">From left,
+Bart De Wever, the leader of the conservative Flemish separatist party
+known as the N-VA, King Philippe and Paul Magnette, the Socialist party
+leader in the French-speaking Walloon region, in Brussels on
+Saturday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Olivier
+Hoslet/EPA, via Shutterstock</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Even a pandemic could not bring Belgium’s fractious political parties
+together.
+
+Party leaders blew through a Saturday afternoon deadline to form a new
+government, more than a year and a half after the last one collapsed.
+The country has been operating with an emergency minority coalition
+throughout the coronavirus epidemic.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But the crisis has [exposed the weaknesses in a bureaucratic political
+system](https://www.nytimes.com/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
+— it has among the highest Covid-19 death [rates in the
+world](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html).
+Belgium has nine health ministers who answer to six parliaments.
+Officials have acknowledged being slow to respond to the outbreak as
+they haggled over who was responsible for what.
+
+Making ambitious change to the political system or taking up an
+aggressive economic stimulus package would most likely require a
+full-fledged majority government, something that has eluded Belgium
+since December 2018. Leaders of the two largest parties — the
+conservative Flemish separatist party known as the N-VA and the
+French-speaking Socialists — are seeking a majority coalition with
+smaller parties.
+
+But party leaders said Saturday that they were unable to meet the
+deadline set by King Philippe, the Belgian head of state. The king
+extended the deadline, once again, to Aug. 17.
+
+The country is polarized along regional and linguistic lines, making
+governing perpetually difficult. This is now the longest period without
+a formal government in Belgian history.
+
+“I hope to form a government as soon as possible,” said Paul Magnette,
+the head of the French-speaking Socialists. “Our country needs it to
+effectively combat the epidemic, which sadly is rising again.”
 
 ## 
 
@@ -1294,9 +1551,10 @@ crummy.”
 <div class="css-53u6y8">
 
 Reporting was contributed by Iyad Abuheweila, Matt Apuzzo, Hannah Beech,
-Pam Belluck, Conor Dougherty, Alex Marshall, Constant Méheut, Claire
-Moses, Monika Pronczuk, Adam Rasgon, Thomas Rogers, Matina
-Stevis-Gridneff, Katherine J. Wu and Mihir Zaveri.
+Pam Belluck, Conor Dougherty, Alex Marshall, Constant Méheut, Zach
+Montague, Julia Echikson, Claire Moses, Monika Pronczuk, Adam Rasgon,
+Thomas Rogers, Constance Sommer, Matina Stevis-Gridneff, Katherine J. Wu
+and Mihir Zaveri.
 
 </div>
 

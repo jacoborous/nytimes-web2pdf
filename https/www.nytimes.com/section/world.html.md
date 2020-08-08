@@ -215,7 +215,7 @@ Supported by
 
 3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Shijith
         Sreedhar/Associated
-        Press</span>](https://static01.nyt.com/images/2020/08/08/world/08india-plane01/merlin_175459413_2fffce78-72ac-4489-96a6-a0bc7071c3bb-videoLarge.jpg)
+        Press</span>](https://static01.nyt.com/images/2020/08/09/world/09india-plane/merlin_175459413_2fffce78-72ac-4489-96a6-a0bc7071c3bb-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -223,7 +223,7 @@ Supported by
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/08/world/08india-plane01/08india-plane01-thumbStandard.jpg)](/2020/08/08/world/asia/india-plane-crash-dubai.html)
+        [![](https://static01.nyt.com/images/2020/08/09/world/09india-plane/08india-plane01-thumbStandard.jpg)](/2020/08/08/world/asia/india-plane-crash-dubai.html)
         
         </div>
         
@@ -242,8 +242,8 @@ Supported by
         </div>
     
     2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anthony
-        Wallace/Agence France-Presse — Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/08/world/08hk-sanctions01/08hk-sanctions01-videoLarge.jpg)
+        Wallace/Agence France-Presse \&mdash; Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/09/world/09hk-sanctions/08hk-sanctions01-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
@@ -251,7 +251,7 @@ Supported by
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/08/world/08hk-sanctions01/08hk-sanctions01-thumbStandard.jpg)](/2020/08/08/world/asia/hong-kong-sanctions-united-states.html)
+        [![](https://static01.nyt.com/images/2020/08/09/world/09hk-sanctions/08hk-sanctions01-thumbStandard.jpg)](/2020/08/08/world/asia/hong-kong-sanctions-united-states.html)
         
         </div>
         
@@ -564,21 +564,20 @@ Advertisement
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johannes
-    Eisele/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/business/08berkshire/08berkshire-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Audra
+    Melton for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/science/08virus-cdcoffices/08virus-cdcoffices-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Profits Rebound at Warren Buffett’s Berkshire Hathaway](/2020/08/08/business/berkshire-hathaway-earnings-warren-buffett.html)
+    ## [C.D.C. Closes Some Offices Over Bacteria Discovery](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
     
-    Berkshire reported earnings of $26.4 billion in the second quarter,
-    a turnaround from its $49.7 billion loss in the first quarter, when
-    the pandemic caused a plunge in the stock market.
+    The move highlights the risk of Legionnaires’ disease outbreaks when
+    buildings are reopened after coronavirus lockdowns.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Peter
-    Eavis</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Max
+    Horberry</span></span>
     
     </div>
 
@@ -950,6 +949,108 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/world/americas/2-ex-green-berets-sentenced-to-20-years-for-venezuela-attack.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/world/08venezuela01/merlin_172163115_2f092164-11ee-46a0-b2de-5b94e72925d6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 2 Ex-Green Berets Sentenced to 20 Years for Venezuela Attack
+    
+    Venezuelan prosecutors said the former Green Berets admitted to
+    taking part in a failed attack aimed at overthrowing the country’s
+    president.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Associated Press</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/merlin_175465020_2c9785c9-935a-4d38-bf06-2b83d2aee8de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Clashes Erupt in Beirut at Blast Protest as Lebanon’s Anger Boils Over
+    
+    The demonstration was fueled by fury over the corruption and
+    negligence of the country’s ruling elite. Security forces fired tear
+    gas to push back the protesters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Mona
+    El-Naggar</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/world/coronavirus-updates.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+    
+    Talks on a new U.S. pandemic relief package are stalled and its
+    crucial benefits are expiring. President Trump said he would use
+    executive orders to provide aid, but it is unclear whether he has
+    the power to do so.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/world/europe/brexit-trucks-dover-mojo.html)
     
     <div class="css-79elbk">
@@ -978,7 +1079,7 @@ Advertisement
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1014,7 +1115,7 @@ Advertisement
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1049,7 +1150,7 @@ Advertisement
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1085,7 +1186,7 @@ Advertisement
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1118,7 +1219,7 @@ Advertisement
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1152,7 +1253,7 @@ Advertisement
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1178,110 +1279,6 @@ Advertisement
     
     By <span class="css-1n7hynb">Christoph Koettl <span>and</span> Drew
     Jordan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/dining/tamarind-recipes.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/12/dining/07Tamarind1/merlin_174769830_439b45c6-cd55-403b-a4b9-a444b9d1f3ac-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Simple Joys of Tamarind
-    
-    Sweet, sour and tender under its brittle shell, the fruit’s pulp is
-    equally at home in desserts and savory dishes.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nik Sharma</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/world/100000007278318/air-india-plane-crash-video.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/world/07india-plane-sub/merlin_175429530_ebd030f5-cdce-404d-955a-73a0866d6803-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Video Shows Aftermath of Air India Plane Crash
-    
-    An Air India Express flight carrying more than 180 passengers
-    skidded off a wet runway and split in half. Dozens of injuries were
-    reported.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maya Blackstone <span>and</span> Haley
-    Willis</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-china-sanctions/07dc-china-sanctions-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Administration Penalizes Hong Kong Officials for Crackdown on Protesters
-    
-    The sanctions are the first punishments brought against officials in
-    China and Hong Kong for suppressing pro-democracy protests.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pranshu Verma <span>and</span> Edward
-    Wong</span>
     
     </div>
     

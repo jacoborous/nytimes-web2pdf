@@ -594,7 +594,7 @@ The Times in Print For
     
     [](/2020/08/07/us/falwell-liberty.html)
     
-    ## Jerry Falwell Jr. Taking Leave of Absence From Liberty University
+    ## Falwell Taking Leave From Liberty University Amid Photo Uproar
     
     <div class="css-9t0aj2 ea5icrr0">
     

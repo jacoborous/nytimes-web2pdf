@@ -281,12 +281,88 @@ Series
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
-    Enthoven</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09brooks/09brooks-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/06/opinion/06argSub/merlin_173801661_39539801-5ac0-4026-a458-7ae3610f6610-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### David Brooks
+    ### The Argument
+    
+    ## [Trump Supporters Make Their Case for 2020](/2020/08/06/opinion/the-argument-trump-coronavirus-election.html)
+    
+    Conservatives Helen Andrews and Daniel McCarthy join Ross for a
+    reelection roundtable.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Elliot Ackerman
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannibal
+    Hanschke/Reuters</span>](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [America’s Military Should Confront Its Past, Not Bury It](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
+    
+    The German military’s infiltration by far-right extremists should be
+    a warning for how we confront our own troubled history.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Elliot
+    Ackerman</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
+    Langmuir African American Photograph Collection at Stuart A. Rose
+    Manuscript, Archives, and Rare Book Library, Emory
+    University</span>](https://static01.nyt.com/images/2020/08/09/opinion/08hajdu/08hajdu-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Song That Changed Music Forever](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
+    
+    100 years ago, Mamie Smith recorded a seminal blues hit that gave
+    voice to outrage at violence against Black Americans.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Hajdu</span></span>
+    
+    </div>
+
+3.  ### Ruchir Sharma
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Gray/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Why Is Everyone Buying Gold?](/2020/08/08/opinion/gold-investment-coronavirus.html)
+    
+    It’s one of the best performing assets in the world this year.
+    That’s not a great sign.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ruchir
+    Sharma</span></span>
+    
+    </div>
+
+4.  ### David Brooks
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
+    Enthoven</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09brooks/09brooks-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Where Do Republicans Go From Here?](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
     
@@ -299,46 +375,7 @@ Series
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The Argument
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/06/opinion/06argSub/merlin_173801661_39539801-5ac0-4026-a458-7ae3610f6610-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Trump Supporters Make Their Case for 2020](/2020/08/06/opinion/the-argument-trump-coronavirus-election.html)
-    
-    Conservatives Helen Andrews and Daniel McCarthy join Ross for a
-    reelection roundtable.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-2.  ### Roger Cohen
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/07/opinion/07cohen1/07cohen1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Beirut on the Potomac](/2020/08/07/opinion/beirut-explosion.html)
-    
-    The American spirit gets a Lebanese makeover.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Roger
-    Cohen</span></span>
-    
-    </div>
-
-3.  ### Jamelle Bouie
+5.  ### Jamelle Bouie
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mandel
     Ngan/Agence France-Presse — Getty
@@ -354,42 +391,6 @@ Series
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jamelle
     Bouie</span></span>
-    
-    </div>
-
-4.  ### Paul Krugman
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Angela
-    Weiss/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/06krugmanWeb/06krugmanWeb-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Coming Next: The Greater Recession](/2020/08/06/opinion/coronavirus-us-recession.html)
-    
-    The suspension of federal benefits would create damage almost as
-    terrifying as the economic effects of the coronavirus.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Paul
-    Krugman</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Wilson/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/07Anderson/07Anderson-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [I’m a Conservative Christian Environmentalist. No, That’s Not an Oxymoron.](/2020/08/07/opinion/republicans-climate-change.html)
-    
-    The G.O.P. may have had a politically expedient change of heart.
-    Better late than never.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ericka
-    Andersen</span></span>
     
     </div>
 
@@ -448,6 +449,71 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/opinion/letters/orchestras-race-diversity.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/19/arts/19race-tommasini-2/19race-tommasini-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">letters</span>
+    
+    ## How to Diversify Orchestras
+    
+    Readers offer their ideas in response to the music critic Anthony
+    Tommasini’s suggestion that blind auditions be ended.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/opinion/beirut-explosion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/opinion/07cohen1/07cohen1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Beirut on the Potomac
+    
+    The American spirit gets a Lebanese makeover.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roger Cohen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/opinion/letters/portland-police.html)
     
     <div class="css-79elbk">
@@ -476,7 +542,7 @@ Advertisement
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -509,7 +575,7 @@ Advertisement
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -544,7 +610,7 @@ Advertisement
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -570,7 +636,7 @@ Advertisement
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -603,7 +669,73 @@ Advertisement
     
     </div>
 
-6.  
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/opinion/07Wolff/07Wolff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## So What Does Trump Have Against TikTok?
+    
+    His foolish and dangerous edicts suggest that the United States,
+    like China, no longer believes in a global internet.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Josephine Wolff</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/00ron9/00ron9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Could This Be the Last Time We See Our Dad?
+    
+    Zoom has become a link between loved ones. But is what we see
+    onscreen real life?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ron Haviv</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -625,138 +757,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">The Editorial Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/debt-coronavirus-senate-republicans.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/opinion/0806debatable/0806debatable-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Debt, Debt, Goose
-    
-    The face-off in the Senate over a pandemic relief package is tied to
-    a yearslong back-and-forth over the relevance of deficits.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Talmon Joseph Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/letters/coronavirus-vaccine.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/world/03-SUB-DC-VIRUS-VACCINE-01-PRINT/merlin_175014810_dc9c4070-f731-44e1-85ef-05a96b8b2208-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Needed: A Safe Vaccine, Masks and Face Shields
-    
-    Readers say we need to make sure any vaccine is safe, and remind us
-    that for now masks and distancing are reliable.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/letters/israel-palestinians.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">letters</span>
-    
-    ## Martin Peretz, on Israeli-Palestinian Peace
-    
-    The former New Republic editor writes about the two-state solution.
-    Also: Donald Trump and Joe McCarthy; the theater industry, in dire
-    straits.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/mothers-discrimination-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04williams/04williams-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Real Life Horror Stories From the World of Pandemic Motherhood
-    
-    ‘I have been given two options: either resign or get fired.’
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joan C. Williams</span>
     
     </div>
     

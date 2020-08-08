@@ -174,13 +174,20 @@ Jordan</span>](https://www.nytimes.com/by/drew-jordan)
 
 </div>
 
-  - Aug. 7, 2020
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 7, 2020Updated Aug. 8, 2020,
+    <span class="css-epvm6">11:44 a.m. ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -216,6 +223,18 @@ ammonium nitrate, which is believed to have [blown up most of the
 port](https://www.nytimes.com/2020/08/05/video/beirut-explosion-footage.html)
 and damaged large parts of the city when it ignited in a warehouse on
 Aug. 4.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 The former captain of the ship, Boris Prokoshev, told The New York Times
 that he heard from other sailors that the Rhosus sank [in 2015
