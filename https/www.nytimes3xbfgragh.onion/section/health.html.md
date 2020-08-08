@@ -163,27 +163,122 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
-    Fremson/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Locher/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-EXAM/07VIRUS-MCAT-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies](/2020/08/04/health/trump-plasma.html)
+    ## [Want to Be a Doctor? Take Your Chances in a Closed Room With Strangers](/2020/08/07/health/coronavirus-exams-mcat.html)
     
-    Thousands of Covid-19 patients have been treated with blood plasma
-    outside of rigorous clinical trials — hampering research that would
-    have shown whether the therapy
-    worked.
+    Admissions tests for many graduate schools have gone online. But not
+    the MCAT, the exam for aspiring doctors. It must still be taken in
+    person, pandemic or
+    not.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Katie Thomas</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Noah
-    Weiland</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Roni Caryn
+    Rabin</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
+    Moon/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-SUPERSPREADING/07VIRUS-SUPERSPREADING-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu](/2020/08/07/health/coronavirus-superspreading-contagion.html)
+    
+    Most people won’t spread the virus widely. The few who do are
+    probably in the wrong place at the wrong time in their infection,
+    new models
+    suggest.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Avishek
+    Das/SOPA Images/ZUMA Wire, via
+    Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/05VIRUS-TESTING1/05VIRUS-TESTING1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘It’s Kitchen Sink Time’: Fast, Less-Accurate Coronavirus Tests May Be Good Enough](/2020/08/06/health/rapid-Covid-tests.html)
+    
+    Experts are revising their views on the best methods to detect
+    infections, setting aside long-held standards so that the spread of
+    the virus can be more quickly tracked and
+    contained.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lee
+    Jin-Man/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/science/06VIRUS-ASYMPTOMATIC/06VIRUS-ASYMPTOMATIC-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Even Asymptomatic People Carry the Coronavirus in High Amounts](/2020/08/06/health/coronavirus-asymptomatic-transmission.html)
+    
+    Researchers in South Korea found that roughly 30 percent of those
+    infected never develop symptoms yet probably spread the
+    virus.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    Nagle/Bloomberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/05VIRUS-HEALTHINSURERS/05VIRUS-INSURANCE-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Major U.S. Health Insurers Report Big Profits, Benefiting From the Pandemic](/2020/08/05/health/covid-insurance-profits.html)
+    
+    Consumers are probably entitled to millions of dollars in rebates
+    under Obamacare rules that cap companies’
+    profits.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Reed
+    Abelson</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hans
+    Pennink/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/politics/05virus-hahn-letter/merlin_175001121_295d8a71-e107-4d2b-9033-73fcf9b5d7a1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Health Experts to F.D.A.: Make Your Vaccine Deliberations Public](/2020/08/05/health/covid-19-vaccine-fda.html)
+    
+    A letter signed by nearly 400 health experts asked the agency to use
+    its vaccine advisory panel when reviewing data on coronavirus
+    trials.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sheila
+    Kaplan</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     Caballero-Reynolds/Agence France-Presse — Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04VIRUS-NOVAVAX1/04VIRUS-NOVAVAX1-videoLarge.jpg)
     
@@ -202,7 +297,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
     Schukar for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-videoLarge.jpg)
     
@@ -221,29 +316,7 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NIAID</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Scientists Uncover Biological Signatures of the Worst Covid-19 Cases](/2020/08/04/health/coronavirus-immune-system.html)
-    
-    Studies of patients with severe cases of Covid-19 show the immune
-    system lacks its usual coordinated
-    response.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### GLOBAL HEALTH
+5.  ### GLOBAL HEALTH
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
     Dhaliwal for The New York
@@ -261,81 +334,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Apoorva
     Mandavilli</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Callaghan
-    O'Hare for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Is Telemedicine Here to Stay?](/2020/08/03/health/covid-telemedicine-congress.html)
-    
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks
-    subside.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Reed
-    Abelson</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-    Gallup/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Dementia on the Retreat in the U.S. and Europe](/2020/08/03/health/alzheimers-dementia-rates.html)
-    
-    Rates of dementia have steadily fallen over the past 25 years, a new
-    study finds. But the disease is increasingly common in some parts of
-    the
-    world.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gina
-    Kolata</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
-    Vucci/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/science/02virus-health/merlin_175125270_9d6d3346-1690-42d2-ae22-9034fc49dbd5-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Birx Says U.S. Epidemic Is in a ‘New Phase’](/2020/08/02/health/dr-birx-coronavirus-phase.html)
-    
-    She and other top health officials in the Trump administration warn
-    states of a deepening spread of the coronavirus, in both rural and
-    urban
-    areas.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Benedict
-    Carey</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Thomas
-    Barwick/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31virus-camp01/merlin_173213445_1b4f2c23-3cd1-4419-95a4-4ce2d53fc649-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Coronavirus Infected Hundreds at a Georgia Summer Camp](/2020/07/31/health/coronavirus-children-camp.html)
-    
-    The camp took precautions but did not require campers to wear masks,
-    the C.D.C. reported. Singing and cheering may have helped spread the
-    virus.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Roni Caryn
-    Rabin</span></span>
     
     </div>
 
@@ -373,34 +371,52 @@ story](#after-mid1)
 [More in From Well
     »](/section/well)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
-    Lam</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Angela
+    Weiss/Agence France-Presse \&mdash; Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/05WELL-COVIDSYMPTOMS3/merlin_173813931_b87dc1ca-a27d-476a-9528-7b813b9a5438-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Benefits of Talking to Strangers](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
+    ## [The Many Symptoms of Covid-19](/2020/08/05/well/live/coronavirus-covid-symptoms.html)
     
-    Casual connections with people we encounter in the course of daily
-    life can give us the sense of belonging to a
-    community.
+    From a sniffle or cough that feels like allergies to severe body
+    aches and crippling fatigue, the symptoms of coronavirus can be
+    unpredictable from head to
+    toe.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jane E.
-    Brody</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tara
+    Parker-Pope</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hana
-    Asano for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/well/physed-runner/physed-runner-videoLarge-v2.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/covid-19-symptoms-promo-1596578167742/covid-19-symptoms-promo-1596578167742-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is Your Blood Sugar Undermining Your Workouts?](/2020/07/29/well/move/blood-sugar-diet-foods-workouts-exercise-muscles.html)
+    ## [Could My Symptoms Be Covid-19?](/interactive/2020/08/05/well/covid-19-symptoms.html)
     
-    Eating a diet high in sugar and processed foods could dent our
-    long-term health in part by changing how well our bodies respond to
-    exercise.
+    These days, every cough, sneeze or headache makes you wonder: Could
+    it be coronavirus? Here’s a guide to help you understand the
+    symptoms.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Tara Parker-Pope</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Mika
+    Gröndahl</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/well/physed-store/physed-store-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Can a Physically Taxing Job Be Bad for Our Brains?](/2020/08/05/well/move/can-a-physically-taxing-job-be-bad-for-our-brains.html)
+    
+    Physical demands required for work may have negative consequences
+    for brain health, a new study
+    suggests.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Gretchen
@@ -408,29 +424,28 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/well/03klass-summer/03klass-summer-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/smarter-living/00well-anxiety-opener/00well-anxiety-opener-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [In This Pandemic Summer, Don’t Forget About Kids’ Other Risks](/2020/08/03/well/family/children-summer-safety.html)
+    ## [Five-Minute Coronavirus Stress Resets](/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
     
-    Reinforcing summer safety with some of the special twists and
-    dangers of this dangerous and twisty
-    time.
+    How to get unstuck from your
+    anxiety.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Perri Klass,
-    M.D.</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jenny Taitz •
+    Illustrations by Rozalina
+    Burkova</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
-    Lam</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/WEL-BRODY-YOUTHEATINGDISORDER/WEL-BRODY-YOUTHEATINGDISORDER-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gracia
+    Lam</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Weekly Health Quiz: Covid, Weight Gain and Intermittent Fasting](/interactive/2020/07/31/well/live/31healthquiz-07312020.html)
+    ## [Weekly Health Quiz: Coronavirus Symptoms, Memory and Talking to Strangers](/interactive/2020/08/07/well/live/07healthquiz-08072020.html)
     
     Test your knowledge of this week’s health
     news.
@@ -438,24 +453,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Toby
     Bilanow</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Furze
-    Chan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/multimedia/00well-loneliness/00well-loneliness-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Pandemic Loneliness in Late Life](/2020/07/30/well/mind/pandemic-loneliness-in-late-life.html)
-    
-    Many seniors comply with the physical distancing and stay-at-home
-    orders, even as we understand that social isolation generates the
-    lethal byproducts of
-    loneliness.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Susan
-    Gubar</span></span>
     
     </div>
 
@@ -468,95 +465,94 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Liz
+    Wright</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-students1/06virus-students1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension](/2020/08/04/world/coronavirus-cases.html)
+    ## [‘I Was a Little Scared’: Inside America’s Reopening Schools](/2020/08/06/us/coronavirus-students.html)
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the
-    U.S.
+    In their first week back, students have faced altered classrooms and
+    emergency quarantines. Here’s what they say school is like in the
+    age of
+    Covid-19.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Adam Wren</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Dan
+    Levin</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    West/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/covid-19-symptoms-promo-1596578167742/covid-19-symptoms-promo-1596578167742-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    ## [Could My Symptoms Be Covid-19?](/interactive/2020/08/05/well/covid-19-symptoms.html)
     
-    Melbourne, Australia’s second-largest city, is becoming a case study
-    in handling a second wave of infections. There are lots of
-    unanswered
-    questions.
+    These days, every cough, sneeze or headache makes you wonder: Could
+    it be coronavirus? Here’s a guide to help you understand the
+    symptoms.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Damien
-    Cave</span></span>
+    <span class="css-1baulvz" itemprop="name">Tara Parker-Pope</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Mika
+    Gröndahl</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
-    Dawn Bottoms/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-videoLarge-v2.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marius
+    Becker/DPA, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/00germany-test04/00germany-test04-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
+    ## [Welcome Back to Germany. Now Take Your Free Virus Test.](/2020/08/05/world/europe/germany-coronavirus-test-travelers.html)
     
-    Send us your medical bills. We’ll use them to investigate hospital
-    and doctor billing
-    practices.
+    The country’s capacity to make testing efficient, affordable and
+    available has distinguished it. Now, to head off a potential second
+    wave, it’s testing anyone returning from a “hot zone” on
+    entry.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Kliff</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Melissa
+    Eddy</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
-    Sladky/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-videoLarge-v2.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/03/18/world/faq-promo/faq-promo-videoLarge-v5.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    ## [Answers to Your New Coronavirus Questions](/interactive/2020/world/coronavirus-tips-advice.html)
     
-    Series have been postponed, teams have been quarantined, and road
-    trips have been rerouted in a season that has been defined above all
-    by its
-    precariousness.
+    The world has changed a lot in the last few months. We’re here to
+    help.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tyler
-    Kepner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The New York
+    Times</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gianni
-    Cipriano para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/04italy-ES-00/31virus-italy-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-gitmo/merlin_158116788_12cbf187-e504-4c14-b0ed-0605a0a0b857-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Cómo logró Italia contener la calamidad del coronavirus](/es/2020/08/05/espanol/mundo/italia-reapertura-coronavirus.html)
+    ## [Red Cross Cancels Guantánamo Visit Over Coronavirus Cases](/2020/08/07/us/politics/red-cross-guantanamo-coronavirus.html)
     
-    Después de un comienzo tambaleante, el país pasó de ser paria global
-    a adoptar un modelo —aunque imperfecto— de contención viral que
-    ofrece lecciones para sus vecinos y para Estados
-    Unidos.
+    The pandemic has forced the longest absence of the humanitarian
+    organization from the remote military prison in Cuba since it opened
+    in January
+    2002.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Horowitz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Carol
+    Rosenberg</span></span>
     
     </div>
 
@@ -612,24 +608,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/fda-hand-sanitizer-recall.html)
+    [](/2020/08/07/us/portsmouth-nh-newsletter-poems.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4xp-sanitizer/4xp-sanitizer-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/multimedia/07xp-virus-poems-pix1/07xp-virus-poems-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## F.D.A. Adds More Hand Sanitizers to List of Products to Avoid
+    ## A New Hampshire Poet Laureate Lifts Her City’s Covid-19 Advisories
     
-    The agency has moved to keep several of the products, which it found
-    to have inadequate concentrations of alcohol, from entering the
-    United States.
+    Tammi Truax, the Portsmouth poet laureate, writes a weekly poem for
+    the city’s coronavirus newsletter, breaking up grim statistics with
+    verse.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Derrick Bryson
-    Taylor</span>
+    By <span class="css-1n7hynb">Johnny
+    Diaz</span>
     
     </div>
     
@@ -647,20 +643,20 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/coronavirus-cases.html)
+    [](/2020/08/07/world/covid-19-news.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
+    ## Coronavirus Live Updates: As U.S. Stimulus Talks Near Collapse, Trump Eyes Executive Orders
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the
-    U.S.
+    New York’s governor said schools can reopen for in-person
+    instruction, but he left the details up to the districts. Africa
+    surpasses a million confirmed cases, though the real number may be
+    higher.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -680,22 +676,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/coronavirus-covid-19.html)
+    [](/2020/08/06/health/coronavirus-immune-cells.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03virus-briefing-fauci/merlin_175155375_a565045c-e0d8-4c45-96ec-718c6bf140c0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/science/06VIRUS-CROSS-REACTIVE1/06VIRUS-CROSS-REACTIVE1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
+    ## The Coronavirus Is New, but Your Immune System Might Still Recognize It
     
-    Counting for the 2020 census will end on Sept. 30, a month earlier
-    than previously announced, the Census Bureau said. Some U.S. schools
-    have begun to reopen, with fraught
-    results.
+    Some people carry immune cells called T cells that can capitalize on
+    the virus’s resemblance to other members of its family tree.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
     
     </div>
     
@@ -713,23 +710,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/reader-center/coronavirus-medical-bills.html)
+    [](/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/autossell/30up-medicalbills-callout-still/30up-medicalbills-callout-still-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/fashion/06INFLUENCER-PARTIES-tana-mongeau/merlin_159784014_0ad93863-3b6d-4f0e-9096-60ecf59256a9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Share Your Medical Bills for Coronavirus
+    ## Why Influencers Won’t Stop Partying Anytime Soon
     
-    As we explore how the pandemic is changing U.S. health care, you can
-    help by showing what you’re being charged for testing and treatment.
+    Creators in Los Angeles say that hosting and posting about big
+    social gatherings is part of their job, coronavirus or no.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Kliff</span>
+    By <span class="css-1n7hynb">Taylor
+    Lorenz</span>
     
     </div>
     
@@ -747,23 +744,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
+    [](/2020/08/06/well/live/fewer-hip-fractures-may-reflect-a-drop-in-smoking-rates.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/02/10/smarter-living/well-pog-body/well-pog-body-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.
+    ## Fewer Hip Fractures May Reflect a Drop in Smoking Rates
     
-    Send us your medical bills. We’ll use them to investigate hospital
-    and doctor billing practices.
+    Bone drugs may account for only a small percentage in the decline in
+    hip fractures over the past 40 years.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Kliff</span>
+    By <span class="css-1n7hynb">Nicholas
+    Bakalar</span>
     
     </div>
     
@@ -781,23 +778,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/reader-center/healthcare-workers-coronavirus-care.html)
+    [](/2020/08/06/world/coronavirus-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03providers-callout/03providers-callout-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Providers: How Has Covid-19 Changed Your Practice?
+    ## Hours of Talks on U.S. Coronavirus Relief End With No Deal
     
-    We want to hear from health care providers in the U.S. about how the
-    pandemic has changed work.
+    Ohio’s governor tested positive before a planned meeting with
+    President Trump, but a second test was negative. India hit two
+    million cases. China’s exports rose last month at their fastest pace
+    of the
+    year.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah
-    Kliff</span>
     
     </div>
     
@@ -815,25 +812,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html)
+    [](/2020/08/06/well/mind/five-minute-coronavirus-stress-resets.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/smarter-living/00well-anxiety-opener/00well-anxiety-opener-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Personal Health</span>
+    ## Five-Minute Coronavirus Stress Resets
     
-    ## The Benefits of Talking to Strangers
-    
-    Casual connections with people we encounter in the course of daily
-    life can give us the sense of belonging to a community.
+    How to get unstuck from your anxiety.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jane E.
-    Brody</span>
+    By <span class="css-1n7hynb">Jenny Taitz • Illustrations by Rozalina
+    Burkova</span>
     
     </div>
     
@@ -851,25 +845,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/2020/08/06/well/family/sensitive-child.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/17/smarter-living/00well-sensitive-child-promo/00well-sensitive-child-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    ## Is Your Child an Orchid, a Tulip or a Dandelion?
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    Highly sensitive children, like orchids, thrive in the right
+    environment, experts say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Richard
+    Schiffman</span>
     
     </div>
     
@@ -887,21 +879,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/coronavirus-covid-19.html)
+    [](/2020/08/05/us/drinking-hand-sanitizer.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/05-xp-sanitizers/05-xp-sanitizers-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Birx Warns That U.S. Epidemic Is in a ‘New Phase’
+    ## C.D.C. Warns Against Drinking Hand Sanitizer
     
-    Colleges are preparing to welcome students back to a complicated
-    campus setting. India’s home minister tests
-    positive.
+    Four people died and nearly a dozen others were poisoned after
+    swallowing alcohol-based hand sanitizer, federal health officials
+    said.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Neil
+    Vigdor</span>
     
     </div>
     
@@ -919,23 +914,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/us/Connie-culp-dead-face-transplant.html)
+    [](/2020/08/05/theater/godspell-berkshires-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/multimedia/01xp-connieculp-pix1/01xp-connieculp-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09BERKSHIRES-6/09BERKSHIRES-6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Connie Culp, First Face Transplant Recipient in U.S., Dies at 57
+    ## ‘Godspell’ in 2020: Masks, Partitions and a Contactless Crucifixion
     
-    Her near-total transplant in 2008 was at the time the most complex
-    one ever performed. She was the fourth patient in the world to
-    undergo such a procedure.
+    The first professional musical staged in the United States since
+    theater shut down is also a de facto public health experiment.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Bryan Pietsch</span>
+    By <span class="css-1n7hynb">Michael Paulson</span>
     
     </div>
     

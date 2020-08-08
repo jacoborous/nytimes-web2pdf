@@ -55,8 +55,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,6 +68,31 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-books" class="section css-15h4p1b e9abtgs0">
 
@@ -143,102 +167,105 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Francis
+    Miller/The LIFE Picture Collection, via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/07miles/07miles-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-thumbStandard.jpg)](/2020/08/04/books/review-luster-raven-leilani.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/07miles/07miles-thumbStandard.jpg)](/2020/07/07/books/review/the-vapors-david-hill.html)
     
     </div>
     
-    ### Books of The Times
+    ### nonfiction
     
-    ## [In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family](/2020/08/04/books/review-luster-raven-leilani.html)
+    ## [Cavorting in Hot Springs, Ark., During Its Sin-Soaked Heyday](/2020/07/07/books/review/the-vapors-david-hill.html)
     
-    Raven Leilani’s novel concerns a young Black woman who becomes
-    involved with an older white man who is in an open
-    marriage.
+    “The Vapors,” by David Hill, brings the mobsters, gamblers, drinkers
+    and crooked politicians to life in an exuberant history of a
+    now-forgotten capital of
+    sleaze.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Parul
-    Sehgal</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
+    Miles</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mae
-    Astute/Walt Disney Television via Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Evan
+    Vucci/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/00donjrbook1/merlin_175038045_8be7ebeb-3839-46ea-8d54-8a980a2e3403-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbStandard.jpg)](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/00donjrbook1/merlin_175038045_8be7ebeb-3839-46ea-8d54-8a980a2e3403-thumbStandard.jpg)](/2020/08/06/books/donald-trump-jr-liberal-privilege.html)
     
     </div>
     
-    ## [Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    ## [Self-Publishing Is a Gamble. Why Is Donald Trump Jr. Doing It?](/2020/08/06/books/donald-trump-jr-liberal-privilege.html)
     
-    The best-selling author talks about her latest book, “Midnight Sun,”
-    which retells “Twilight” from the vampire’s perspective. Why now?
-    “Because I finished it,” she
-    says.
+    His next book, “Liberal Privilege,” comes with an unusual
+    distribution plan and no publishing house behind it, making it
+    something of a curiosity in the
+    industry.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Concepción de
-    León</span></span>
+    <span class="css-1baulvz" itemprop="name">Elizabeth A. Harris</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Annie
+    Karni</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-mediumThreeByTwo440-v3.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
+        Tamaki</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09ByTheBook/09ByTheBook-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Books of The Times
+        ### By the Book
         
-        ## [Lady Macbeth in Appalachia, and Other Tales by an American Master](/2020/08/02/books/ron-rash-in-valley-serena.html)
+        ## [Edmund White Thinks Most People Misread ‘Lolita’](/2020/08/06/books/review/edmund-white-by-the-book-interview.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-thumbStandard-v2.jpg)](/2020/08/02/books/ron-rash-in-valley-serena.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09ByTheBook/09ByTheBook-thumbStandard.jpg)](/2020/08/06/books/review/edmund-white-by-the-book-interview.html)
         
         </div>
         
-        With a new collection, “In the Valley,” Ron Rash revisits the
-        monstrous protagonist of “Serena” and plumbs the depths of
-        Southern
-        hearts.
+        “Nabokov’s job in the book is to make you like the monstrous
+        Humbert Humbert. In the 1960s readers were too swinging to see
+        how evil he was and now readers are too prudish to see how
+        charming he can
+        be.”
         
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Janet
-        Maslin</span></span>
+        <span class="css-me3p27"></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lisa
+        Tegtmeier</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Waite-Romance/09Waite-Romance-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Books of The Times
+        ### Fiction
         
-        ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+        ## [Hot and Bothered: Four New Romance Novels](/2020/08/07/books/review/summer-romance-novels-vanessa-riley.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbStandard.jpg)](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Waite-Romance/09Waite-Romance-thumbStandard.jpg)](/2020/08/07/books/review/summer-romance-novels-vanessa-riley.html)
         
         </div>
         
-        Wilkerson’s new book makes unsettling comparisons between
-        India’s treatment of its untouchables, Nazi Germany’s
-        treatment of Jews and America’s treatment of
-        African-Americans.
+        Looking for a pitch-perfect summer escape? We’ve got some
+        recommendations.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Dwight
-        Garner</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Olivia
+        Waite</span></span>
         
         </div>
 
@@ -267,7 +294,27 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
+2.  ### Fiction
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
+    Barnes for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Hughes/04Hughes-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In ‘Luster,’ Young Black Women Feel Uneasy in a White American Home](/2020/08/06/books/review/raven-leilani-luster.html)
+    
+    Raven Leilani’s debut novel follows an interracial,
+    intergenerational affair as it leads to an unusual redefinition of
+    family.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jazmine
+    Hughes</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/00AUGUST-BOOKS-COMBO/00AUGUST-BOOKS-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -284,37 +331,17 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>From
-    left: Ellie Smith for The New York Times; Tamara Gajic for The New
-    York Times; Andrew Mangum for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/27BOOKER-ITEM-GRID/27BOOKER-ITEM-GRID-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Hilary Mantel, Kiley Reid, Anne Tyler in Running for Booker Prize](/2020/07/27/books/hilary-mantel-booker-prize-longlist.html)
-    
-    “The Mirror and the Light,” the conclusion to Mantel’s Thomas
-    Cromwell trilogy, is one of 13 books nominated for this prestigious
-    British literary
-    award.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Marshall</span></span>
-    
-    </div>
-
 4.  ### The Book Review Podcast
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The ‘Seductive Lure’ of Authoritarianism](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
+    ## [Isabel Wilkerson Talks About ‘Caste’](/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html)
     
-    Anne Applebaum discusses “Twilight of Democracy,” and Barbara Demick
-    talks about “Eat the
-    Buddha.”
+    Wilkerson describes the ideas about race in America that fuel her
+    new book, and David Hill discusses “The
+    Vapors.”
     
     <span class="css-me3p27"></span>
     
@@ -326,7 +353,7 @@ story](#after-sponsor)
     
     <div class="css-10wtrbd">
     
-    ## [Best-Seller Lists: August 9, 2020](/interactive/2020/01/29/books/review/best-sellers-promo-for-front-copy2.html)
+    ## [Best-Seller Lists: August 16, 2020](/interactive/2020/01/29/books/review/best-sellers-promo-for-front-copy2.html)
     
     All the lists: print, e-books, fiction, nonfiction, children’s books
     and more.
@@ -369,7 +396,56 @@ story](#after-mid1)
 [More in Books of The Times
     »](/column/books-of-the-times)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/05BOOKSOBOROFF-KRAUT1/05BOOKSOBOROFF-KRAUT1-videoLarge-v2.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family](/2020/08/04/books/review-luster-raven-leilani.html)
+    
+    Raven Leilani’s novel concerns a young Black woman who becomes
+    involved with an older white man who is in an open
+    marriage.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Parul
+    Sehgal</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/RashValley/RashValley-mediumThreeByTwo440-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Lady Macbeth in Appalachia, and Other Tales by an American Master](/2020/08/02/books/ron-rash-in-valley-serena.html)
+    
+    With a new collection, “In the Valley,” Ron Rash revisits the
+    monstrous protagonist of “Serena” and plumbs the depths of Southern
+    hearts.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Janet
+    Maslin</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Isabel Wilkerson’s ‘Caste’ Is an ‘Instant American Classic’ About Our Abiding Sin](/2020/07/31/books/review-caste-isabel-wilkerson-origins-of-our-discontents.html)
+    
+    Wilkerson’s new book makes unsettling comparisons between India’s
+    treatment of its untouchables, Nazi Germany’s treatment of Jews and
+    America’s treatment of
+    African-Americans.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dwight
+    Garner</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/books/05BOOKSOBOROFF-KRAUT1-sub/05BOOKSOBOROFF-KRAUT1-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
@@ -386,7 +462,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/28BOOKLI1/28BOOKLI1-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -399,55 +475,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Parul
     Sehgal</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/27BOOKTRETHEWEY1/27BOOKTRETHEWEY1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Memorial Drive’ Powerfully Recalls a Southern Childhood and a Mother’s Murder](/2020/07/27/books/review-memorial-drive-memoir-natasha-trethewey.html)
-    
-    In her new memoir, the former poet laureate Natasha Trethewey writes
-    about her upbringing and her mother’s violent death at the hands of
-    an abusive
-    husband.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dwight
-    Garner</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/29BOOKSULLIVAN1/29BOOKSULLIVAN1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Yes, Fake News Is a Problem. But There’s a Real News Problem, Too.](/2020/07/26/books/review-ghosting-news-local-journalism-democracy-crisis-margaret-sullivan.html)
-    
-    In “Ghosting the News,” Margaret Sullivan writes about the
-    consequences of local newspapers closing across the
-    country.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Szalai</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/books/22BOOKSMITH1/22BOOKSMITH1-videoLarge.png)
-    
-    <div class="css-10wtrbd">
-    
-    ## [In ‘Intimations,’ Zadie Smith Applies Her Even Temper to Tumultuous Times](/2020/07/22/books/review-intimations-essays-zadie-smith.html)
-    
-    This short essay collection includes Smith’s recent thoughts on the
-    coronavirus pandemic, race relations in America and other
-    subjects.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Williams</span></span>
     
     </div>
 
@@ -482,25 +509,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/betsy-bonner-the-book-of-atlantis-black.html)
+    [](/2020/08/07/books/bernard-bailyn-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04schaitkin/04schaitkin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/obituaries/08bailyn-obit1/00bailyn-toppix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ## Bernard Bailyn, Eminent Historian of Early America, Dies at 97
     
-    ## A Troubled Artist’s Death Proves as Unknowable as Her Life
-    
-    In “The Book of Atlantis Black,” Betsy Bonner attempts to solve the
-    mysterious fate of her troubled, enigmatic older sister.
+    On topic after topic he shifted the direction of scholarly inquiry,
+    winning two Pulitzers and a Bancroft Prize for his innovative
+    research and groundbreaking works.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alexis
-    Schaitkin</span>
+    By <span class="css-1n7hynb">Renwick McLean <span>and</span>
+    Jennifer
+    Schuessler</span>
     
     </div>
     
@@ -518,14 +545,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html)
+    [](/2020/08/07/arts/television/hp-lovecraft.html)
     
-    ## ‘Wandering in Strange Lands,’ by Morgan Jerkins: An Excerpt
+    <div class="css-79elbk">
     
-    An excerpt from “Wandering in Strange Lands,” by Morgan
-    Jerkins
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09LOVECRAFT-MAN1/09LOVECRAFT-MAN1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy
+    
+    The author’s stories have influenced countless works, including the
+    new HBO series “Lovecraft Country.” But how do modern adapters
+    reckon with his racism, his sexism and his profound weirdness?
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexis
+    Soloski</span>
     
     </div>
     
@@ -543,14 +580,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/life-of-a-klansman-by-edward-ball-an-excerpt.html)
+    [](/2020/08/07/books/review/new-paperbacks.html)
     
-    ## ‘Life of a Klansman,’ by Edward Ball: An Excerpt
+    <div class="css-79elbk">
     
-    An excerpt from “Life of a Klansman,” by Edward
-    Ball
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/09PAPERROW-GRID/09PAPERROW-GRID-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## New in Paperback: ‘Around the World in 80 Trees’ and ‘The Truths We Hold’
+    
+    Six new paperbacks to check out this week.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jennifer
+    Krauss</span>
     
     </div>
     
@@ -568,26 +613,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    [](/2020/08/07/books/review/three-new-memoirs-offer-a-glimpse-into-the-writers-mind.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Shortlist/09Shortlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">feature</span>
+    ### <span class="css-m70j1g">The Shortlist</span>
     
-    ## Behrouz Boochani Just Wants to Be Free
+    ## Three New Memoirs Offer a Glimpse Into the Writer’s Mind
     
-    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
-    detention camps — from the inside. He survived, stateless, for seven
-    years. What’s next?
+    Literary biographies take you from the ’70s New York underground to
+    a contemporary writer’s residency at Google, recalling all the
+    verses and prose along the way.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Megan K.
-    Stack</span>
+    By <span class="css-1n7hynb">Michael
+    Hainey</span>
     
     </div>
     
@@ -605,26 +650,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/fallout-hiroshima-hersey-lesley-m-m-blume.html)
+    [](/2020/08/07/books/review/letters-to-the-editor.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Langewiesche1/04Langewiesche1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/books/review/02McWhorter/02McWhorter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ## Letters to the Editor
     
-    ## The Reporter Who Told the World About the Bomb
-    
-    “Fallout,” by Lesley M.M. Blume, recounts how John Hersey revealed
-    the devastating toll of the atomic bomb on the citizens of
-    Hiroshima.
+    Readers respond to recent issues of the Sunday Book
+    Review.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">William
-    Langewiesche</span>
     
     </div>
     
@@ -642,26 +681,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/looking-for-miss-america-margot-mifflin.html)
+    [](/2020/08/07/books/zadie-smith-lydia-davis-yiyun-li-mark-doty-jamaica-kincaid-colum-mccann-jenny-offill-tommy-orange.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/review/04Fischer1/04Fischer1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/books/review/Kumar-06/Kumar-06-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ### <span class="css-m70j1g">Off the shelf</span>
     
-    ## ‘Looking for Miss America’ Tells the History of the Legendary Pageant
+    ## Authors Distill Their Writing Advice to Just a Few Words
     
-    The new book by Margot Mifflin shows how the famous contest for
-    women reflected conflicting ideas about female beauty, ambition and
-    fame over the past 100 years.
+    A request to fellow writers: Inscribe your book to me with one pithy
+    piece of guidance.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Molly
-    Fischer</span>
+    By <span class="css-1n7hynb">Amitava
+    Kumar</span>
     
     </div>
     
@@ -679,26 +717,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
+    [](/2020/08/06/books/review/eileen-alexander-love-in-the-blitz-james-nolan-jr-atomic-doctors.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/books/review/Gleick1/Gleick1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/WarStoriesColumn1/WarStoriesColumn1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ### <span class="css-m70j1g">nonfiction</span>
     
-    ## This Is How It All Ends
+    ## Experiencing War Far From the Battlefield
     
-    In “The End of Everything,” the theoretical cosmologist Katie Mack
-    takes a look at the ultimate doom and destruction of our universe.
-    It’s not pretty.
+    Two new books look at World War II from the perspectives of
+    outsiders on the fringes of conflict.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">James
-    Gleick</span>
+    By <span class="css-1n7hynb">Thomas E.
+    Ricks</span>
     
     </div>
     
@@ -716,26 +753,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/caste-isabel-wilkerson.html)
+    [](/2020/08/06/books/review/9-new-books-we-recommend-this-week.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/books/review/09Appiah-COVER-Sub01/09Appiah-COVER-Sub01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/books/06RecBooks/06RecBooks-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ### <span class="css-m70j1g">Editors’ Choice</span>
     
-    ## What Do America’s Racial Problems Have in Common With India and Nazi Germany?
+    ## 9 New Books We Recommend This Week
     
-    In “Caste,” the journalist Isabel Wilkerson looks to other
-    countries’ histories to show how our racial order is founded on a
-    hierarchal structure of hereditary status.
+    Suggested reading from critics and editors at The New York
+    Times.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kwame Anthony
-    Appiah</span>
     
     </div>
     
@@ -753,25 +786,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/inferno-catherine-cho.html)
+    [](/2020/08/06/obituaries/diana-russell-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/books/review/Brooks1/Brooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/obituaries/04Russell-03/04Russell-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ## Diana Russell, Who Studied Violence Against Women, Dies at 81
     
-    ## A New Mother Chronicles Her Journey to Hell and Back
-    
-    In “Inferno,” Catherine Cho writes honestly of surviving postpartum
-    psychosis.
+    She popularized the term “femicide,” to highlight the killing of
+    women “because they are women” and to distinguish these killings
+    from other homicides.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kim
-    Brooks</span>
+    By <span class="css-1n7hynb">Katharine Q. Seelye</span>
     
     </div>
     
@@ -789,24 +820,13 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/tender-is-the-flesh-agustina-bazterrica.html)
+    [](/2020/08/06/books/review/luster-by-raven-leilani-an-excerpt.html)
     
-    <div class="css-79elbk">
+    ## ‘Luster,’ by Raven Leilani: An Excerpt
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/books/review/Kraus1/Kraus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Fiction</span>
-    
-    ## What if the Meat We Ate Was Human?
-    
-    Agustina Bazterrica’s dystopian second novel, “Tender Is the Flesh,”
-    uses cannibalism to highlight the inhumanity of factory farming.
+    An excerpt from “Luster,” by Raven Leilani
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Daniel Kraus</span>
     
     </div>
     

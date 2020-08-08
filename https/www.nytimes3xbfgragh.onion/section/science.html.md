@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,31 +69,6 @@ index](#site-index)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
 
 <div id="collection-science" class="section css-15h4p1b e9abtgs0">
 
@@ -164,99 +140,101 @@ Outbreak](/news-event/coronavirus)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Steinberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>L.
+    Calçada/ESO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/00SCI-OUTTHERE-promo/00SCI-OUTTHERE-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbStandard.jpg)](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/00SCI-OUTTHERE-promo/00SCI-OUTTHERE-promo-thumbStandard.jpg)](/2020/08/07/science/supernova-neutron-star-sn1987a.html)
     
     </div>
     
-    ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+    ### Out There
     
-    Don’t worry, a little Bayesian analysis won’t hurt
-    you.
+    ## [A Star Went Supernova in 1987. Where Is It Now?](/2020/08/07/science/supernova-neutron-star-sn1987a.html)
+    
+    Astronomers might have found the ultradense remnant of an explosion
+    that wracked a nearby
+    galaxy.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Siobhan
-    Roberts</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Dennis
+    Overbye</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Randall
-    Munroe</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kelly
+    Boyer
+    Ontl</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/05TB-CHIMPANZEES/05TB-CHIMPANZEES-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbStandard.jpg)](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/05TB-CHIMPANZEES/05TB-CHIMPANZEES-thumbStandard.jpg)](/2020/08/05/science/chimpanzees-caves-senegal.html)
     
     </div>
     
-    ### good question
+    ### Trilobites
     
-    ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
+    ## [Why Chimp Moms Flock to Caves on the Savanna](/2020/08/05/science/chimpanzees-caves-senegal.html)
     
-    The human body can survive at surprisingly high temperatures, so
-    long as you’re prepared to
-    sweat.
+    When forests and woodlands don’t provide a respite from the heat,
+    these primates find cooling centers in their arid
+    landscape.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Randall
-    Munroe</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Priyanka
+    Runwal</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kobe
-        University</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
+        Steinberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Trilobites
-        
-        ## [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](/2020/08/03/science/beetle-frog-poop.html)
+        ## [How to Think Like an Epidemiologist](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-thumbStandard.jpg)](/2020/08/03/science/beetle-frog-poop.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04BAYES-illo/04BAYES-illo-thumbStandard.jpg)](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
         
         </div>
         
-        A researcher fed beetles to frogs. The encounter did not end as
-        expected.
+        Don’t worry, a little Bayesian analysis won’t hurt
+        you.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Katherine
-        J.
-        Wu</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Siobhan
+        Roberts</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
-        Ingalls/NASA, via Agence France-Presse \&mdash; Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Randall
+        Munroe</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
+        ### good question
+        
+        ## [How Hot Is Too Hot?](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbStandard.jpg)](/2020/08/02/science/spacex-astronauts-splashdown.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-MUNROE-ROOM-promo/00SCI-MUNROE-ROOM-promo-thumbStandard.jpg)](/2020/08/04/science/randall-munroe-xkcd-temperature.html)
         
         </div>
         
-        Bob Behnken and Doug Hurley returned to Earth in the first water
-        landing by an American space crew since
-        1975.
+        The human body can survive at surprisingly high temperatures, so
+        long as you’re prepared to
+        sweat.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Kenneth
-        Chang</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Randall
+        Munroe</span></span>
         
         </div>
 
@@ -266,7 +244,43 @@ Outbreak](/news-event/coronavirus)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
+1.  ### Trilobites
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kobe
+    University</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03TB-BEETLE1/03TB-BEETLE1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [There Are Two Ways Out of a Frog. This Beetle Chose the Back Door.](/2020/08/03/science/beetle-frog-poop.html)
+    
+    A researcher fed beetles to frogs. The encounter did not end as
+    expected.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
+    Wu</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
+    Ingalls/NASA, via Agence France-Presse \&mdash; Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since
+    1975.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth
+    Chang</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kim
     Raff for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/29VIRUS-BATS1/29VIRUS-BATS1-videoLarge.jpg)
     
@@ -281,40 +295,6 @@ Outbreak](/news-event/coronavirus)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">James
     Gorman</span></span>
-    
-    </div>
-
-2.  ### Trilobites
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
-    Sorokin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How Woody Vines Do the Twist](/2020/08/01/science/vines-lianas-panama.html)
-    
-    Slowly, scientists are learning how lianas quickly
-    climb.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Devi
-    Lockwood</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
-    Warner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Lizard Popsicles, Anyone?](/2020/07/31/science/lizards-liolaemus-argentina.html)
-    
-    The coolest reptiles on the planet occasionally freeze
-    solid.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Joshua Rapp
-    Learn</span></span>
     
     </div>
 
@@ -338,21 +318,19 @@ Outbreak](/news-event/coronavirus)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Edith
-    A.
-    Widder</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/science/30TB-ANGLERFISH1/30TB-ANGLERFISH1-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Warner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-LIZARDPOPSICLES1/00SCI-LIZARDPOPSICLES1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How the Ultimate Live-in Boyfriend Evolved His Way Around Rejection](/2020/07/30/science/anglerfish-immune-rejection.html)
+    ## [Lizard Popsicles, Anyone?](/2020/07/31/science/lizards-liolaemus-argentina.html)
     
-    Commingling tissues and blood would normally prompt a massive immune
-    response. These deep sea lovers found a
-    workaround.
+    The coolest reptiles on the planet occasionally freeze
+    solid.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Joshua Rapp
+    Learn</span></span>
     
     </div>
 
@@ -390,7 +368,23 @@ story](#after-mid1)
 [More in Trilobites
     »](/column/trilobites)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirsten
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anton
+    Sorokin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How Woody Vines Do the Twist](/2020/08/01/science/vines-lianas-panama.html)
+    
+    Slowly, scientists are learning how lianas quickly
+    climb.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Devi
+    Lockwood</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirsten
     Fisher</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/00SCI-MOSS3/00SCI-MOSS3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -407,7 +401,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Matthew
     Bailey/VWPics/Universal Images Group, via Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/27TB-IMMORTALTREES1/27TB-IMMORTALTREES1-videoLarge.jpg)
     
@@ -425,7 +419,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Hawkins/Nature Picture Library, via
     Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/21TB-BATS/21TB-BATS-videoLarge.jpg)
     
@@ -443,7 +437,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/19TB-VOCAL/19TB-VOCAL-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -456,24 +450,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Joshua
     Sokol</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karen
-    Osborn,
-    Smithsonian</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/16TB-ULTRABLACKFISH1/16TB-ULTRABLACKFISH1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How Ultra-Black Fish Disappear in the Deepest Seas](/2020/07/16/science/ultra-black-fish.html)
-    
-    Researchers have found fish that absorb more than 99.9 percent of
-    the light that hits their
-    skin.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Katherine J.
-    Wu</span></span>
     
     </div>
 
@@ -508,23 +484,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/style/college-coronavirus-hoax.html)
+    [](/2020/08/07/health/coronavirus-superspreading-contagion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/fashion/04McLaughlin/04McLaughlin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-SUPERSPREADING/07VIRUS-SUPERSPREADING-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Anonymous Professor Who Wasn’t
+    ## Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu
     
-    A professor at Arizona State University does not exist.
+    Most people won’t spread the virus widely. The few who do are
+    probably in the wrong place at the wrong time in their infection,
+    new models suggest.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonah Engel Bromwich <span>and</span>
-    Ezra
-    Marcus</span>
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
     
     </div>
     
@@ -542,23 +519,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/coronavirus-immune-system.html)
+    [](/2020/08/07/health/coronavirus-exams-mcat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03VIRUS-IMMUNITY/03VIRUS-IMMUNITY-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-EXAM/07VIRUS-MCAT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Uncover Biological Signatures of the Worst Covid-19 Cases
+    ## Want to Be a Doctor? Take Your Chances in a Closed Room With Strangers
     
-    Studies of patients with severe cases of Covid-19 show the immune
-    system lacks its usual coordinated response.
+    Admissions tests for many graduate schools have gone online. But not
+    the MCAT, the exam for aspiring doctors. It must still be taken in
+    person, pandemic or not.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine J.
-    Wu</span>
+    By <span class="css-1n7hynb">Roni Caryn
+    Rabin</span>
     
     </div>
     
@@ -576,25 +554,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    [](/2020/08/07/world/covid-19-news.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change
+    ## Coronavirus Live Updates: As U.S. Stimulus Talks Near Collapse, Trump Eyes Executive Orders
     
-    Twin emergencies on two coasts this week — Hurricane Isaias and the
-    Apple Fire — offer a preview of life in a warming world and the
-    steady danger of overlapping disasters.
+    New York’s governor said schools can reopen for in-person
+    instruction, but he left the details up to the districts. Africa
+    surpasses a million confirmed cases, though the real number may be
+    higher.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Christopher Flavelle <span>and</span>
-    Henry
-    Fountain</span>
     
     </div>
     
@@ -612,22 +587,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/coronavirus-cases.html)
+    [](/interactive/2020/08/07/briefing/beirut-tiktok-census-bureau-news-quiz.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/07newsquiz-beirut/merlin_175305234_1314394f-2e5f-405d-a313-fc5f3a309056-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
+    ## News Quiz: Beirut, TikTok, Census Bureau
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the
-    U.S.
+    Did you follow the headlines this week?
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    Compiled by <span class="css-1n7hynb">Will Dudding, Anna Schaverien
+    <span>and</span> Jessica
+    Anderson</span>
     
     </div>
     
@@ -645,24 +621,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    [](/2020/08/06/health/coronavirus-immune-cells.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/science/06VIRUS-CROSS-REACTIVE1/06VIRUS-CROSS-REACTIVE1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    ## The Coronavirus Is New, but Your Immune System Might Still Recognize It
     
-    As countries consider back-to-school strategies for the fall, a
-    coronavirus outbreak at a Jerusalem high school offers a cautionary
-    tale.
+    Some people carry immune cells called T cells that can capitalize on
+    the virus’s resemblance to other members of its family tree.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
-    Belluck</span>
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
     
     </div>
     
@@ -680,24 +655,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/health/alzheimers-dementia-rates.html)
+    [](/2020/08/06/climate/hurricanes-noaa-prediction.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/science/03DEMENTIA-DECLINE/03DEMENTIA-DECLINE-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/climate/06CLI-HURRICANES1/06CLI-HURRICANES1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Dementia on the Retreat in the U.S. and Europe
+    ## Hurricane Forecast: ‘One of the Most Active Seasons on Record’
     
-    Rates of dementia have steadily fallen over the past 25 years, a new
-    study finds. But the disease is increasingly common in some parts of
-    the world.
+    Scientists at NOAA updated their prediction for the 2020 hurricane
+    season, and now expect as many as 25 named storms.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gina
-    Kolata</span>
+    By <span class="css-1n7hynb">Henry
+    Fountain</span>
     
     </div>
     
@@ -715,22 +689,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/coronavirus-covid-19.html)
+    [](/2020/08/06/health/coronavirus-asymptomatic-transmission.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03virus-briefing-fauci/merlin_175155375_a565045c-e0d8-4c45-96ec-718c6bf140c0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/science/06VIRUS-ASYMPTOMATIC/06VIRUS-ASYMPTOMATIC-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
+    ## Even Asymptomatic People Carry the Coronavirus in High Amounts
     
-    Counting for the 2020 census will end on Sept. 30, a month earlier
-    than previously announced, the Census Bureau said. Some U.S. schools
-    have begun to reopen, with fraught
-    results.
+    Researchers in South Korea found that roughly 30 percent of those
+    infected never develop symptoms yet probably spread the virus.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Apoorva
+    Mandavilli</span>
     
     </div>
     
@@ -748,26 +723,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html)
+    [](/2020/08/06/world/coronavirus-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00VIRUS-GLOBAL4/00VIRUS-GLOBAL4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">GLOBAL HEALTH</span>
+    ## Hours of Talks on U.S. Coronavirus Relief End With No Deal
     
-    ## ‘The Biggest Monster’ Is Spreading. And It’s Not the Coronavirus.
-    
-    Tuberculosis kills 1.5 million people each year. Lockdowns and
-    supply-chain disruptions threaten progress against the disease as
-    well as H.I.V. and malaria.
+    Ohio’s governor tested positive before a planned meeting with
+    President Trump, but a second test was negative. India hit two
+    million cases. China’s exports rose last month at their fastest pace
+    of the
+    year.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Apoorva
-    Mandavilli</span>
     
     </div>
     
@@ -785,24 +757,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/health/covid-telemedicine-congress.html)
+    [](/2020/08/06/health/rapid-Covid-tests.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/science/00VIRUS-TELEHEALTH1/00VIRUS-TELEHEALTH1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/05VIRUS-TESTING1/05VIRUS-TESTING1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Is Telemedicine Here to Stay?
+    ## ‘It’s Kitchen Sink Time’: Fast, Less-Accurate Coronavirus Tests May Be Good Enough
     
-    The answer largely depends on whether Medicare and private health
-    insurers will adequately cover virtual doctor visits once
-    coronavirus outbreaks subside.
+    Experts are revising their views on the best methods to detect
+    infections, setting aside long-held standards so that the spread of
+    the virus can be more quickly tracked and contained.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Reed
-    Abelson</span>
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
     
     </div>
     
@@ -820,23 +792,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/flag-boat-SpaceX.html)
+    [](/2020/08/05/health/covid-19-vaccine-fda.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/politics/05virus-hahn-letter/merlin_175001121_295d8a71-e107-4d2b-9033-73fcf9b5d7a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Private Boats Enter SpaceX Splashdown Area, Raising Concerns
+    ## Health Experts to F.D.A.: Make Your Vaccine Deliberations Public
     
-    “We need to do a better job next time” of securing the area, the
-    NASA administrator, Jim Bridenstine, said.
+    A letter signed by nearly 400 health experts asked the agency to use
+    its vaccine advisory panel when reviewing data on coronavirus
+    trials.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil Vigdor <span>and</span> Allyson
-    Waller</span>
+    By <span class="css-1n7hynb">Sheila Kaplan</span>
     
     </div>
     

@@ -167,108 +167,110 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
-    Heying/The Wichita Eagle, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+    V. Agins/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07biden-memo1/07biden-memo1-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-thumbStandard.jpg)](/2020/08/04/us/politics/kobach-tlaib.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07biden-memo1/07biden-memo1-thumbStandard.jpg)](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
     
     </div>
     
-    ## [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](/2020/08/04/us/politics/kobach-tlaib.html)
+    ### political memo
     
-    In Missouri, Cori Bush, a progressive activist, upset the 10-term
-    incumbent William Lacy Clay Jr., marking another major step forward
-    for the progressive movement in its bid to threaten centrist
-    officials.
+    ## [Why Joe Biden Keeps Missing His Own V.P. Deadlines](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
+    
+    On issues big and small, Joseph R. Biden Jr. will not be rushed,
+    including the critical choice of a running mate. He’s deliberative,
+    and he doesn’t mind extending his timetable — again and
+    again.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Astead W. Herndon</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Katie
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
     Glueck</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+    V. Agins/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-thumbStandard.jpg)](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/us/politics/09DC-INTEL/09DC-INTEL-thumbStandard.jpg)](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
     </div>
     
-    ### Fact Check
+    ## [Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
-    ## [Trump Cherry-Picks Coronavirus Data in Briefing Appearance](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
-    
-    The president selectively highlighted statistics, falsely claimed
-    New York and New Jersey were solely responsible for high national
-    death rates and again wrongly asserted that a rise in cases was
-    because of
-    testing.
+    But a new assessment says China would prefer to see the president
+    defeated, though it is not clear Beijing is doing much to meddle in
+    the 2020 campaign to help Joseph R. Biden
+    Jr.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Linda
-    Qiu</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julian E.
+    Barnes</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    B. Thomas for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-tiktok01/merlin_175379841_7dd8e79d-d3de-46d9-84e6-e7b0c15e8fb4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [In St. Louis, Testing Liberal Might Against a Democratic Fixture](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    ### White House Memo
+    
+    ## [Is TikTok More of a Parenting Problem Than a Security Threat?](/2020/08/07/us/politics/tiktok-security-threat.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbLarge.jpg)](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-tiktok01/merlin_175379841_7dd8e79d-d3de-46d9-84e6-e7b0c15e8fb4-thumbLarge.jpg)](/2020/08/07/us/politics/tiktok-security-threat.html)
     
     </div>
     
-    Cori Bush, an activist backed by the progressive group Justice
-    Democrats, is trying to unseat 10-term Representative William Lacy
-    Clay in a bid to turn protest-movement fervor into hard political
-    power.
+    Even as the White House moves against the Chinese social media app,
+    the intelligence agencies do not see it as a major issue along the
+    lines of
+    Huawei.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
-    Fandos</span></span>
+    <span class="css-1baulvz" itemprop="name">David E. Sanger</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Julian E.
+    Barnes</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Parker
-    Michels-Boyce for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/politics/06dc-virus-birx01/06dc-virus-birx01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Happened to the Young Voters Focused on Guns?](/2020/08/03/us/politics/gun-control-voters.html)
+    ## [With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus](/2020/08/06/us/politics/birx-coronavirus.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbLarge.jpg)](/2020/08/03/us/politics/gun-control-voters.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/politics/06dc-virus-birx01/06dc-virus-birx01-thumbLarge.jpg)](/2020/08/06/us/politics/birx-coronavirus.html)
     
     </div>
     
-    It’s not their top issue anymore, but many see it as a part of
-    other, larger
-    concerns.
+    Dr. Deborah L. Birx, the White House coronavirus response
+    coordinator, has found herself a woman without a country, denounced
+    by Democrats and called “pathetic” by the
+    president.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sheryl Gay
+    Stolberg</span></span>
     
     </div>
 
@@ -328,24 +330,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    [](/2020/08/07/us/politics/trump-congress-stimulus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+    ## Trump Prepares to Bypass Congress as Stimulus Talks Fail Again
     
-    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
-    billed as an opportunity to highlight Taiwan’s success in battling
-    the coronavirus pandemic.
+    Democrats said the talks had been “disappointing,” and White House
+    officials said they would encourage President Trump to use executive
+    orders to provide relief.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Amy
-    Qin</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -363,22 +365,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/kanye-west-president-republicans.html)
+    [](/2020/08/07/us/politics/red-cross-guantanamo-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04KANYE/merlin_174748251_b5592810-884e-4313-95a3-a327a0a3c5a3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-gitmo/merlin_158116788_12cbf187-e504-4c14-b0ed-0605a0a0b857-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot
+    ## Red Cross Cancels Guantánamo Visit Over Coronavirus Cases
     
-    At least four people involved in the effort to get Kanye West’s name
-    before voters in several states have G.O.P. connections, renewing
-    questions about the aim of his
-    campaign.
+    The pandemic has forced the longest absence of the humanitarian
+    organization from the remote military prison in Cuba since it opened
+    in January 2002.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carol
+    Rosenberg</span>
     
     </div>
     
@@ -396,25 +400,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/coronavirus-recovery-plan-negotiations.html)
+    [](/video/us/politics/100000007279160/coronavirus-ohio-governor.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-virus-cong/merlin_175309938_0696afcb-d343-4aea-b5c1-8fd0ba2769de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trading Concessions on Recovery Plan, Negotiators Set Week’s End Deadline for a Deal
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    White House officials and top Democrats reported some movement in
-    their talks on a pandemic relief package as the talks reached a
-    crisis point on Capitol Hill.
+    ## Ohio Governor Calls Covid-19 Tests ‘Kind of a Roller Coaster’
+    
+    Gov. Mike DeWine tested negative for the coronavirus hours after a
+    positive rapid-result test had prevented him from meeting with
+    President Trump.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
-    Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -432,25 +437,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/decoding-the-trump-ad-buy.html)
+    [](/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04onpolitics-pm/merlin_175276041_e18fad70-18ca-41e9-8430-c0e6a0591a59-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07jpDC-ORDERs-print/merlin_175392885_12569975-dca2-460a-83de-8e4453ec2632-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics Media Watch</span>
+    ## Trump’s Orders on WeChat and TikTok Are Uncertain. That May Be the Point.
     
-    ## Decoding the Trump Ad Buy
-    
-    After going dark on the TV airwaves last week, the Trump campaign
-    has returned, targeting early voting states.
+    The restrictions on the two Chinese-owned apps followed a familiar
+    model for other policy announcements on China from the Trump
+    administration.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nick
-    Corasaniti</span>
+    By <span class="css-1n7hynb">Ana
+    Swanson</span>
     
     </div>
     
@@ -468,24 +472,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-land-conservation-bill.html)
+    [](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Signs Landmark Land Conservation Bill
+    ## Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says
     
-    The bipartisan Great American Outdoors Act guarantees funding for
-    federal land use efforts. The president claimed credit for
-    Republicans.
+    But a new assessment says China would prefer to see the president
+    defeated, though it is not clear Beijing is doing much to meddle in
+    the 2020 campaign to help Joseph R. Biden Jr.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Julian E.
+    Barnes</span>
     
     </div>
     
@@ -503,24 +507,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html)
+    [](/2020/08/07/us/politics/pence-wisconsin-biden-convention.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4xp-interpreter/4xp-interpreter-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07-PENCE/merlin_175336650_34ea6ac2-de46-4c11-ba88-ed3d7e10ddf8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lawsuit Demands Sign Language at White House Virus Briefings
+    ## Pence Will Visit Wisconsin While Biden Stays Home From Milwaukee Convention
     
-    The lack of American Sign Language interpreters at coronavirus
-    briefings violates the First Amendment, the National Association of
-    the Deaf says.
+    The vice president’s decision underscored the different political
+    wagers the two campaigns are making about the value of traveling to
+    battleground states.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Aimee
-    Ortiz</span>
+    By <span class="css-1n7hynb">Annie
+    Karni</span>
     
     </div>
     
@@ -538,24 +542,27 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    [](/2020/08/07/us/politics/tiktok-security-threat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-tiktok01/merlin_175379841_7dd8e79d-d3de-46d9-84e6-e7b0c15e8fb4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    ### <span class="css-m70j1g">White House Memo</span>
     
-    The president’s assertion undercuts diplomats who have said
-    withdrawals will depend on the Taliban’s commitment to its peace
-    deal with the United States.
+    ## Is TikTok More of a Parenting Problem Than a Security Threat?
+    
+    Even as the White House moves against the Chinese social media app,
+    the intelligence agencies do not see it as a major issue along the
+    lines of Huawei.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Gibbons-Neff</span>
+    By <span class="css-1n7hynb">David E. Sanger <span>and</span> Julian
+    E.
+    Barnes</span>
     
     </div>
     
@@ -573,24 +580,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-immigration-wealth-test.html)
+    [](/2020/08/07/us/politics/donald-mcgahn-congress-lawsuit.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-publiccharge/merlin_159196191_d223a2ab-038a-4108-8f96-6f011215a5d6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-mcgahn/07dc-mcgahn-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Appeals Court Blocks Immigrant Wealth Test in the Northeast
+    ## House Can Sue to Force Testimony From McGahn, Appeals Court Rules
     
-    The federal court ruled that the Trump administration’s so-called
-    public charge rule for green card applicants could not go into
-    effect in New York, Connecticut and Vermont.
+    A court endorsed the House Judiciary Committee’s ability to pursue
+    testimony from the former White House counsel as part of its
+    oversight responsibilities.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan
-    Kanno-Youngs</span>
+    By <span class="css-1n7hynb">Hailey
+    Fuchs</span>
     
     </div>
     
@@ -608,24 +615,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [](/2020/08/07/us/politics/tennessee-election-marquita-bradshaw.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07Tennessee-Bradshaw1/merlin_175408299_e61f0499-2594-4d8d-a4a1-f6194d26dc77-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    ## Marquita Bradshaw on Her Tennessee Primary Victory: ‘I Could See the Momentum’
     
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record instead.
+    Ms. Bradshaw, an environmental justice advocate, is the first Black
+    woman to be nominated for the Senate by a major party in Tennessee.
+    “Working people showed that my viability was different,” she said.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
+    By <span class="css-1n7hynb">Elaina
+    Plott</span>
     
     </div>
     
@@ -643,24 +650,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-prosecutors.html)
+    [](/2020/08/07/world/asia/pompeo-russia-afghanistan-bounties.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/20/us/onpolitics-speech-bubble-white-still/onpolitics-speech-bubble-white-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/00dc-bounties/merlin_175110051_aed54ec6-7fc4-4fc3-beca-a13c283adb13-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics</span>
+    ## Pompeo Warned Russia Against Bounties on U.S. Troops in Afghanistan
     
-    ## A Wider-Than-Thought Trump Investigation
-    
-    New York prosecutors may be circling the president’s business
-    practices: This is your morning tip sheet.
+    Secretary of State Mike Pompeo is said to have sternly discussed
+    payouts and red lines in a telephone call with Sergey V. Lavrov,
+    Russia’s foreign minister.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Giovanni Russonello</span>
+    By <span class="css-1n7hynb">Edward Wong <span>and</span> Eric
+    Schmitt</span>
     
     </div>
     

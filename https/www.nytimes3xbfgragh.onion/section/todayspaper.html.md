@@ -162,16 +162,15 @@ The Times in Print For
 </div>
 
 1.  [The Front Page](#thefrontpage)
-2.  [TRACKING AN OUTBREAK](#trackinganoutbreak)
+2.  [Tracking An Outbreak](#trackinganoutbreak)
 3.  [International](#international)
 4.  [National](#national)
 5.  [Obituaries](#obituaries)
 6.  [Editorials, Op-Ed and Letters](#editorials,op-edandletters)
 7.  [Business Day](#businessday)
-8.  [Sports Wednesday](#sportswednesday)
-9.  [The Arts](#thearts)
-10. [Food](#food)
-11. [Pages A2-A3 and
+8.  [Sports Friday](#sportsfriday)
+9.  [Weekend Arts](#weekendarts)
+10. [Pages A2-A3 and
     Corrections](#pagesa2-a3andcorrections)
 
 <div class="css-4svvz1 ekkqrpp0">
@@ -186,104 +185,104 @@ The Times in Print For
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Harnik/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+    Acker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07VIRUS-STANDSALONE-P1/06VIRUS-STANDSALONE-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbStandard.jpg)](/2020/08/04/us/2020-census-ending-early.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07VIRUS-STANDSALONE-P1/merlin_175302816_430501a4-06cb-4fe2-90fb-9feb9be002bd-thumbStandard.jpg)](/2020/08/06/us/coronavirus-us.html)
     
     </div>
     
-    ## [With Census Count Finishing Early, Fears of a Skewed Tally Rise](/2020/08/04/us/2020-census-ending-early.html)
+    ## [The Unique U.S. Failure to Control the Virus](/2020/08/06/us/coronavirus-us.html)
     
-    With 60 million households still uncounted, the bureau said it would
-    wrap up the survey a month early. Critics called it a bald move to
-    politicize the count in favor of
-    Republicans.
+    Slowing the coronavirus has been especially difficult for the United
+    States because of its tradition of prioritizing individualism and
+    missteps by the Trump
+    administration.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael Wines</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Richard
-    Fausset</span></span>
+    <span class="css-1baulvz" itemprop="name">David Leonhardt</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Lauren
+    Leatherby</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Issam
-    Abdallah/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/world/04lebanon-ledeall-1sub/04lebanon-ledeall-1sub-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/multimedia/06NRA/06NRA-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/world/04lebanon-ledeall-1sub/04lebanon-ledeall-1sub-thumbStandard.jpg)](/2020/08/04/world/middleeast/lebanon-explosion.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/multimedia/06NRA/06NRA-thumbStandard.jpg)](/2020/08/06/us/ny-nra-lawsuit-letitia-james.html)
     
     </div>
     
-    ## [Blasts Rock Beirut, Killing Dozens and Wounding Thousands](/2020/08/04/world/middleeast/lebanon-explosion.html)
+    ## [New York Attorney General Sues N.R.A. and Seeks Its Closure](/2020/08/06/us/ny-nra-lawsuit-letitia-james.html)
     
-    The cause remained unclear hours later. But officials in the
-    Lebanese capital said 2,750 tons of highly explosive ammonium
-    nitrate had been stored in a depot at the center of the
-    explosion.
+    Letitia James seeks to dissolve the National Rifle Association,
+    which was founded in New York, amid corruption
+    allegations.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Hubbard</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Danny
+    Hakim</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
-        Fremson/The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christopher
+        Capozziello for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06virus-pppdone3/merlin_175376493_fd939eae-3db8-4d71-944f-38dc171a2da5-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies](/2020/08/04/health/trump-plasma.html)
+        ## [Amid Dire Jobless Numbers, Small-Business Relief Program Nears End](/2020/08/06/business/small-businesses-relief-program-ending.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/31VIRUS-PLASMA1/31VIRUS-PLASMA1-thumbStandard.jpg)](/2020/08/04/health/trump-plasma.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06virus-pppdone3/06virus-pppdone3-thumbStandard.jpg)](/2020/08/06/business/small-businesses-relief-program-ending.html)
         
         </div>
         
-        Thousands of Covid-19 patients have been treated with blood
-        plasma outside of rigorous clinical trials — hampering research
-        that would have shown whether the therapy
-        worked.
+        The Paycheck Protection Program provided respite for hard-hit
+        small businesses, but it is ending soon. With no word on further
+        government help, owners worry about their
+        fate.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Katie Thomas</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Noah
-        Weiland</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Stacy
+        Cowley</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
-        Sanders for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jenna
+        Schoenefeld for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/00VIRUS-CHILDABUSE/merlin_175363254_7a7f8cb3-3163-4208-86a3-91ac81aba28b-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        ## [They’re Children at Risk of Abuse, and Their Caseworkers Are Stuck Home](/2020/08/07/us/virus-child-abuse.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-thumbStandard.jpg)](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/00VIRUS-CHILDABUSE/00VIRUS-CHILDABUSE-thumbStandard.jpg)](/2020/08/07/us/virus-child-abuse.html)
         
         </div>
         
-        The resignation of Dr. Oxiris Barbot, the commissioner since
-        2018, came after Mayor Bill de Blasio stripped her agency of a
-        key virus-tracing
-        program.
+        Scores of investigations into allegations of abuse or neglect
+        have been delayed or sharply curtailed during the coronavirus
+        pandemic, records and interviews
+        show.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">J. David
-        Goodman</span></span>
+        <span class="css-1baulvz" itemprop="name">Garrett
+        Therolf</span>, <span class="css-1baulvz" itemprop="name">Daniel
+        Lempres</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Aksaule
+        Alzhan</span></span>
         
         </div>
 
@@ -299,20 +298,19 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/us/politics/karen-bass-vice-president-biden.html)
+    [](/2020/08/06/world/asia/hiroshima-japan-setsuko-thurlow.html)
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03bass1/merlin_175261452_1fcbd46a-2ce4-48e4-a5ec-fa29f351163d-jumbo.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06hiroshima-profile/merlin_175276386_0d5ed0c8-92f6-431d-ba5e-3089535c4042-jumbo.jpg?quality=75&auto=webp&disable=upscale)
     
-    ## From Outsider to Insider: Karen Bass’s Unexpected Journey to Power
+    ## Witnessing Nuclear Carnage, Then Devoting Her Life to Peace
     
-    At every step in her political career, the California congresswoman
-    had to be coaxed to run for a higher office. Now she’s a top
-    contender to be Joe Biden’s running mate.
+    Setsuko Thurlow, a survivor of the atomic bombing in Hiroshima 75
+    years ago, has used the power of her personal story to try to rid
+    the world of nuclear weapons.
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam Nagourney <span>and</span>
-    Jennifer Medina</span>
+    By <span class="css-1n7hynb">Motoko Rich</span>
     
     </div>
     
@@ -333,19 +331,19 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/us/minneapolis-defund-police.html)
+    [](/2020/08/06/us/hannah-fizer-police-shooting.html)
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00blackdefund-03/merlin_175266675_9e971eee-3d10-4a98-88ee-a499b4648531-jumbo.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00ruralpoliceshooting-01/merlin_175264878_f1670e20-4ad4-4903-bdec-fffef4833d14-jumbo.jpg?quality=75&auto=webp&disable=upscale)
     
-    ## Distrust of the Minneapolis Police, and Also the Effort to Defund Them
+    ## A Family Cries ‘Justice for Hannah.’ Will Its Rural Town Listen?
     
-    Residents on Minneapolis’s North Side, which has a majority Black
-    population, have mixed opinions on the City Council’s effort to
-    significantly reduce the police force.
+    People in rural areas are killed in police shootings at about the
+    same rate as in cities, but victims’ families and activists say they
+    have struggled to get justice or even make themselves heard.
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">John Eligon</span>
+    By <span class="css-1n7hynb">Jack Healy</span>
     
     </div>
     
@@ -366,14 +364,13 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/us/hurricane-isaias-updates.html)
+    [](/2020/08/06/world/middleeast/beirut-explosion.html)
     
-    ## Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast
+    ## As French President Visits Beirut, Lebanese Ask Where Their Leaders Are
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael Venutolo-Mantovani
-    <span>and</span> Rick Rojas</span>
+    By <span class="css-1n7hynb">Ben Hubbard</span>
     
     </div>
     
@@ -382,7 +379,7 @@ The Times in Print For
     <div class="css-1eeg3ce">
     
     Page
-    A20
+    A13
     
     </div>
     
@@ -394,13 +391,13 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    [](/2020/08/06/world/americas/mexico-immigration-usa.html)
     
-    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
+    ## After a Lull, the Number of Migrants Trying to Enter the U.S. Has Soared
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Creswell</span>
+    By <span class="css-1n7hynb">Kirk Semple</span>
     
     </div>
     
@@ -409,7 +406,7 @@ The Times in Print For
     <div class="css-1eeg3ce">
     
     Page
-    B1
+    A11
     
     </div>
     
@@ -421,175 +418,13 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/06/us/2020-census-undocumented-immigrants.html)
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matt Richtel</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    B1
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/us/texas-coronavirus-rio-grande-valley-starr-county.html)
-    
-    ## ‘Like a Horror Movie’: A Small Border Hospital Battles the Coronavirus
+    ## At the Census Bureau, a Technical Memo Raises Alarms Over Politics
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Edgar Sandoval</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    A8
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/us/virus-testing-delays.html)
-    
-    ## ‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah Mervosh <span>and</span> Manny
-    Fernandez</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page A10
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
-    
-    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
-    ur-Rehman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page A12
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
-    
-    ## Sam Jay: A Comic Who Belongs to No Camp
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason Zinoman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page C1
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
-    
-    ## Will Superblue Be the ‘Infinity Room’ Writ Large?
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Frank Rose</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    C1
-    
-    </div>
-    
-    </div>
-
-11. 
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/us/politics/trump-homeland-security.html)
-    
-    ## Meet the Official Accused of Helping Trump Politicize Homeland Security
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Jesse McKinley</span>
+    By <span class="css-1n7hynb">Michael Wines</span>
     
     </div>
     
@@ -603,19 +438,19 @@ The Times in Print For
     
     </div>
 
-12. 
+6.  
     
     <div class="css-14thodx">
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/sports/tennis/rafael-nadal-us-open.html)
+    [](/2020/08/06/us/politics/presidential-debates-trump-biden.html)
     
-    ## Rafael Nadal Won’t Chase a Repeat of His U.S. Open Title
+    ## A 4th Presidential Debate? Commission Says No to Trump
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Christopher Clarey</span>
+    By <span class="css-1n7hynb">Matt Stevens</span>
     
     </div>
     
@@ -623,7 +458,168 @@ The Times in Print For
     
     <div class="css-1eeg3ce">
     
-    Page B8
+    Page
+    A19
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/nyregion/rikers-island-violence-guards.html)
+    
+    ## Violence at Rikers at an ‘All-Time High’ Despite City’s Promise to Curb It
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Benjamin Weiser</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page
+    A21
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/business/economy/trump-canadian-aluminum-tariffs.html)
+    
+    ## Trump Reinstates Tariff on Canadian Aluminum
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page
+    B3
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/interactive/2020/08/05/upshot/us-unemployment-maps-coronavirus.html)
+    
+    ## In These Neighborhoods, the Jobless Rate May Top 30 Percent
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Quoctrung Bui <span>and</span> Emily
+    Badger</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/health/rapid-Covid-tests.html)
+    
+    ## ‘It’s Kitchen Sink Time’: Fast, Less-Accurate Coronavirus Tests May Be Good Enough
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katherine J. Wu</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page
+    A5
+    
+    </div>
+    
+    </div>
+
+11. 
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
+    
+    ## For Three Suffragists, a Monument Well Past Due
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alisha Haridasani Gupta</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page
+    C5
+    
+    </div>
+    
+    </div>
+
+12. 
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/arts/design/street-art-nyc-george-floyd.html)
+    
+    ## New York’s Sidewalk Prophets Are Heirs of the Artisans of France’s Lascaux Caves
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Seph Rodney</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page C1
     
     </div>
     
@@ -635,13 +631,13 @@ The Times in Print For
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
+    [](/2020/08/07/sports/brooks-koepka-pga-championship.html)
     
-    ## A Colombian Chef Shares His Secret to Better Empanadas
+    ## Brooks Koepka Is Here to Win Majors, Not Friends
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">J. Kenji López-Alt</span>
+    By <span class="css-1n7hynb">John Branch</span>
     
     </div>
     
@@ -649,7 +645,33 @@ The Times in Print For
     
     <div class="css-1eeg3ce">
     
-    Page D1
+    Page B10
+    
+    </div>
+    
+    </div>
+
+14. 
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/sports/baseball/mlb-safety-protocols.html)
+    
+    ## M.L.B. Tightens Virus Protocols Again in Wake of Outbreaks
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tyler Kepner</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page B10
     
     </div>
     
@@ -740,7 +762,7 @@ story](#after-mid1)
 
 <span id="trackinganoutbreak"></span>
 
-## TRACKING AN OUTBREAK
+## Tracking An Outbreak
 
 1.  
     
@@ -748,13 +770,13 @@ story](#after-mid1)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/health/coronavirus-immune-system.html)
+    [](/2020/08/06/us/politics/birx-coronavirus.html)
     
-    ## Scientists Uncover Biological Signatures of the Worst Covid-19 Cases
+    ## With Old Allies Turning Against Her, Birx Presses On Against the Coronavirus
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine J. Wu</span>
+    By <span class="css-1n7hynb">Sheryl Gay Stolberg</span>
     
     </div>
     
@@ -775,13 +797,13 @@ story](#after-mid1)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/world/africa/tanzanias-coronavirus-president.html)
+    [](/2020/08/06/health/rapid-Covid-tests.html)
     
-    ## Tanzania’s President Says Country Is Virus Free. Others Warn of Disaster
+    ## ‘It’s Kitchen Sink Time’: Fast, Less-Accurate Coronavirus Tests May Be Good Enough
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Abdi Latif Dahir</span>
+    By <span class="css-1n7hynb">Katherine J. Wu</span>
     
     </div>
     
@@ -789,7 +811,8 @@ story](#after-mid1)
     
     <div class="css-1eeg3ce">
     
-    Page A5
+    Page
+    A5
     
     </div>
     
@@ -801,13 +824,13 @@ story](#after-mid1)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    [](/2020/08/06/us/sturgis-motorcyle-rally-coronavirus.html)
     
-    ## What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion
+    ## ‘Boxed Into a Corner,’ Sturgis Braces for Thousands to Attend Motorcycle Rally
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Damien Cave</span>
+    By <span class="css-1n7hynb">Mark Walker</span>
     
     </div>
     
@@ -823,7 +846,8 @@ story](#after-mid1)
 
 <div class="css-k0b1g2">
 
-Show More in TRACKING AN OUTBREAK
+Show More in Tracking An
+    Outbreak
 
 </div>
 
@@ -841,14 +865,41 @@ Show More in TRACKING AN OUTBREAK
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    [](/2020/08/06/world/americas/mexico-immigration-usa.html)
     
-    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
+    ## After a Lull, the Number of Migrants Trying to Enter the U.S. Has Soared
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
-    ur-Rehman</span>
+    By <span class="css-1n7hynb">Kirk Semple</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page
+    A11
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/world/canada/museum-of-human-rights-discrimination.html)
+    
+    ## ‘Racism Is Pervasive and Systemic’ at Canada’s Museum of Human Rights, Report Says
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catherine Porter <span>and</span> Ian
+    Austen</span>
     
     </div>
     
@@ -863,19 +914,19 @@ Show More in TRACKING AN OUTBREAK
     
     </div>
 
-2.  
+3.  
     
     <div class="css-14thodx">
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    [](/2020/08/06/world/europe/russia-extremisim-chat-group-sentence.html)
     
-    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    ## Chat Group Becomes Target of Moscow’s Wrath as Security Crackdown Widens
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas Gibbons-Neff</span>
+    By <span class="css-1n7hynb">Andrew Higgins</span>
     
     </div>
     
@@ -884,33 +935,6 @@ Show More in TRACKING AN OUTBREAK
     <div class="css-1eeg3ce">
     
     Page A12
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
-    
-    ## Trump’s Syria Sanctions ‘Cannot Solve the Problem,’ Critics Say
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pranshu Verma <span>and</span> Vivian
-    Yee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page A13
     
     </div>
     
@@ -957,69 +981,13 @@ story](#after-mid2)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
+    [](/2020/08/06/us/2020-census-undocumented-immigrants.html)
     
-    ## The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan Feuer</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    A15
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
-    
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    ## At the Census Bureau, a Technical Memo Raises Alarms Over Politics
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    A15
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/us/politics/trump-homeland-security.html)
-    
-    ## Meet the Official Accused of Helping Trump Politicize Homeland Security
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Zolan Kanno-Youngs <span>and</span>
-    Jesse McKinley</span>
+    By <span class="css-1n7hynb">Michael Wines</span>
     
     </div>
     
@@ -1033,9 +1001,63 @@ story](#after-mid2)
     
     </div>
 
+2.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/climate/hurricanes-noaa-prediction.html)
+    
+    ## Hurricane Forecast: ‘One of the Most Active Seasons on Record’
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Henry Fountain</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page A16
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-14thodx">
+    
+    <div class="css-141drxa">
+    
+    [](/2020/08/06/nyregion/isaias-storm-power-outages.html)
+    
+    ## Outages Pile On Misery for 1.4 Million Coping With Pandemic
+    
+    <div class="css-9t0aj2 ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mihir Zaveri <span>and</span> Tracey
+    Tully</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1eeg3ce">
+    
+    Page A18
+    
+    </div>
+    
+    </div>
+
 <div class="css-k0b1g2">
 
-Show More in National
+Show More in
+    National
 
 </div>
 
@@ -1053,13 +1075,13 @@ Show More in National
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/obituaries/Helen-Woods-dead-coronavirus.html)
+    [](/2020/08/05/theater/eric-bentley-dead.html)
     
-    ## Helen Jones Woods, Member of an All-Female Jazz Group, Dies at 96
+    ## Eric Bentley, Critic Who Preferred Brecht to Broadway, Dies at 103
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">John Leland</span>
+    By <span class="css-1n7hynb">Christopher Lehmann-Haupt</span>
     
     </div>
     
@@ -1067,7 +1089,7 @@ Show More in National
     
     <div class="css-1eeg3ce">
     
-    Page B10
+    Page A24
     
     </div>
     
@@ -1079,13 +1101,13 @@ Show More in National
     
     <div class="css-141drxa">
     
-    [](/2020/08/01/obituaries/eddie-negron-dead-coronavirus.html)
+    [](/2020/08/05/books/kathleen-duey-dead.html)
     
-    ## Dr. Eddie Negrón, a Physician Full of Fun, Is Dead at 69
+    ## Kathleen Duey, a Mentoring Children’s Book Author, Dies at 69
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Neil Genzlinger</span>
+    By <span class="css-1n7hynb">Steven Kurutz</span>
     
     </div>
     
@@ -1094,7 +1116,7 @@ Show More in National
     <div class="css-1eeg3ce">
     
     Page
-    B10
+    A24
     
     </div>
     
@@ -1106,13 +1128,13 @@ Show More in National
     
     <div class="css-141drxa">
     
-    [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
+    [](/2020/08/05/business/doris-buffett-her-familys-retail-philanthropist-dies-at-92.html)
     
-    ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
+    ## Doris Buffett, Her Family’s ‘Retail Philanthropist,’ Dies at 92
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael Astor</span>
+    By <span class="css-1n7hynb">Sam Roberts</span>
     
     </div>
     
@@ -1120,7 +1142,7 @@ Show More in National
     
     <div class="css-1eeg3ce">
     
-    Page B10
+    Page A25
     
     </div>
     
@@ -1167,9 +1189,9 @@ story](#after-mid3)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+    [](/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
     
-    ## New York Needs Less Bickering, More Teamwork
+    ## The World Can Still Be Destroyed in a Flash
     
     <div class="css-9t0aj2 ea5icrr0">
     
@@ -1181,7 +1203,7 @@ story](#after-mid3)
     
     <div class="css-1eeg3ce">
     
-    Page A22
+    Page A26
     
     </div>
     
@@ -1193,13 +1215,13 @@ story](#after-mid3)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+    [](/2020/08/06/opinion/coronavirus-us-recession.html)
     
-    ## No Relief Bill, No Vacation
+    ## Coming Next: The Greater Recession
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial Board</span>
+    By <span class="css-1n7hynb">Paul Krugman</span>
     
     </div>
     
@@ -1207,7 +1229,7 @@ story](#after-mid3)
     
     <div class="css-1eeg3ce">
     
-    Page A22
+    Page A26
     
     </div>
     
@@ -1219,19 +1241,21 @@ story](#after-mid3)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/opinion/gin-tonic-summer-drink.html)
+    [](/2020/08/05/opinion/coronavirus-mental-illness-depression.html)
     
-    ## The Doggiest Days of Summer Demand Gin and Tonics
+    ## We’ve Hit a Pandemic Wall
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer Finney Boylan</span>
+    By <span class="css-1n7hynb">Jennifer Senior</span>
     
     </div>
     
     </div>
     
     <div class="css-1eeg3ce">
+    
+    Page A27
     
     </div>
     
@@ -1258,22 +1282,20 @@ Show More in Editorials, Op-Ed and
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+    [](/interactive/2020/08/05/upshot/us-unemployment-maps-coronavirus.html)
     
-    ## Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.
+    ## In These Neighborhoods, the Jobless Rate May Top 30 Percent
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Tara Siegel Bernard</span>
+    By <span class="css-1n7hynb">Quoctrung Bui <span>and</span> Emily
+    Badger</span>
     
     </div>
     
     </div>
     
     <div class="css-1eeg3ce">
-    
-    Page
-    B1
     
     </div>
     
@@ -1285,13 +1307,13 @@ Show More in Editorials, Op-Ed and
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    [](/2020/08/05/business/business-interruption-insurance-pandemic.html)
     
-    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
+    ## Businesses Thought They Were Covered for the Pandemic. Insurers Say No.
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Creswell</span>
+    By <span class="css-1n7hynb">Mary Williams Walsh</span>
     
     </div>
     
@@ -1299,8 +1321,7 @@ Show More in Editorials, Op-Ed and
     
     <div class="css-1eeg3ce">
     
-    Page
-    B1
+    Page B1
     
     </div>
     
@@ -1312,13 +1333,13 @@ Show More in Editorials, Op-Ed and
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/06/business/economy/unemployment-claims.html)
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    ## New Unemployment Claims Decline, but Remain ‘Alarmingly High’
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt Richtel</span>
+    By <span class="css-1n7hynb">Patricia Cohen</span>
     
     </div>
     
@@ -1363,9 +1384,9 @@ story](#after-mid4)
 
 <div class="section css-u82chm ebkl1p30">
 
-<span id="sportswednesday"></span>
+<span id="sportsfriday"></span>
 
-## Sports Wednesday
+## Sports Friday
 
 1.  
     
@@ -1373,13 +1394,13 @@ story](#after-mid4)
     
     <div class="css-141drxa">
     
-    [](/2020/08/03/sports/basketball/ja-morant-grizzlies-dunks.html)
+    [](/2020/08/07/sports/brooks-koepka-pga-championship.html)
     
-    ## Ja Morant’s Dunks Are Amazing. His Misses Are Even Better.
+    ## Brooks Koepka Is Here to Win Majors, Not Friends
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Scott Cacciola</span>
+    By <span class="css-1n7hynb">John Branch</span>
     
     </div>
     
@@ -1387,7 +1408,7 @@ story](#after-mid4)
     
     <div class="css-1eeg3ce">
     
-    Page B7
+    Page B10
     
     </div>
     
@@ -1399,13 +1420,13 @@ story](#after-mid4)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/sports/tennis/rafael-nadal-us-open.html)
+    [](/2020/08/06/sports/baseball/mlb-safety-protocols.html)
     
-    ## Rafael Nadal Won’t Chase a Repeat of His U.S. Open Title
+    ## M.L.B. Tightens Virus Protocols Again in Wake of Outbreaks
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Christopher Clarey</span>
+    By <span class="css-1n7hynb">Tyler Kepner</span>
     
     </div>
     
@@ -1413,7 +1434,7 @@ story](#after-mid4)
     
     <div class="css-1eeg3ce">
     
-    Page B8
+    Page B10
     
     </div>
     
@@ -1425,13 +1446,13 @@ story](#after-mid4)
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/sports/toronto-nhl-playoffs.html)
+    [](/2020/08/06/sports/as-mike-fiers-astros-cheating.html)
     
-    ## Toronto Tones Down Its Postseason Party
+    ## Mike Fiers Is Moving On, Just Like He Always Has
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Morgan Campbell</span>
+    By <span class="css-1n7hynb">Joe Drape</span>
     
     </div>
     
@@ -1439,7 +1460,7 @@ story](#after-mid4)
     
     <div class="css-1eeg3ce">
     
-    Page B8
+    Page B11
     
     </div>
     
@@ -1447,7 +1468,8 @@ story](#after-mid4)
 
 <div class="css-k0b1g2">
 
-Show More in Sports Wednesday
+Show More in Sports
+    Friday
 
 </div>
 
@@ -1455,9 +1477,9 @@ Show More in Sports Wednesday
 
 <div class="section css-u82chm ebkl1p30">
 
-<span id="thearts"></span>
+<span id="weekendarts"></span>
 
-## The Arts
+## Weekend Arts
 
 1.  
     
@@ -1465,13 +1487,13 @@ Show More in Sports Wednesday
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    [](/2020/08/06/arts/design/street-art-nyc-george-floyd.html)
     
-    ## Sam Jay: A Comic Who Belongs to No Camp
+    ## New York’s Sidewalk Prophets Are Heirs of the Artisans of France’s Lascaux Caves
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Jason Zinoman</span>
+    By <span class="css-1n7hynb">Seph Rodney</span>
     
     </div>
     
@@ -1491,13 +1513,11 @@ Show More in Sports Wednesday
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/arts/design/seattle-childrens-museum.html)
+    [](/2020/08/06/arts/things-to-do-weekend-coronavirus.html)
     
-    ## Turmoil After a Museum Deletes ‘Black Lives Matter’ From Postings
+    ## 7 Things to Do This Weekend
     
     <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julia Jacobs</span>
     
     </div>
     
@@ -1505,7 +1525,8 @@ Show More in Sports Wednesday
     
     <div class="css-1eeg3ce">
     
-    Page C1
+    Page
+    C2
     
     </div>
     
@@ -1517,13 +1538,13 @@ Show More in Sports Wednesday
     
     <div class="css-141drxa">
     
-    [](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    [](/2020/08/06/arts/television/hitmen-peacock-howard-ashman-disney.html)
     
-    ## Will Superblue Be the ‘Infinity Room’ Writ Large?
+    ## How Much Watching Time Do You Have This Weekend?
     
     <div class="css-9t0aj2 ea5icrr0">
     
-    By <span class="css-1n7hynb">Frank Rose</span>
+    By <span class="css-1n7hynb">Margaret Lyons</span>
     
     </div>
     
@@ -1531,7 +1552,7 @@ Show More in Sports Wednesday
     
     <div class="css-1eeg3ce">
     
-    Page C1
+    Page C2
     
     </div>
     
@@ -1539,7 +1560,7 @@ Show More in Sports Wednesday
 
 <div class="css-k0b1g2">
 
-Show More in The Arts
+Show More in Weekend Arts
 
 </div>
 
@@ -1568,98 +1589,6 @@ story](#after-mid5)
 
 <div class="section css-u82chm ebkl1p30">
 
-<span id="food"></span>
-
-## Food
-
-1.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/dining/chef-restaurant-culture.html)
-    
-    ## Twilight of the Imperial Chef
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tejal Rao</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page D1
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
-    
-    ## A Colombian Chef Shares His Secret to Better Empanadas
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">J. Kenji López-Alt</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page D1
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/03/dining/new-york-biltong.html)
-    
-    ## South African Jerky, and More, at New York Biltong
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Florence Fabricant</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page D3
-    
-    </div>
-    
-    </div>
-
-<div class="css-k0b1g2">
-
-Show More in Food
-
-</div>
-
-</div>
-
-<div class="section css-u82chm ebkl1p30">
-
 <span id="pagesa2-a3andcorrections"></span>
 
 ## Pages A2-A3 and Corrections
@@ -1670,36 +1599,9 @@ Show More in Food
     
     <div class="css-141drxa">
     
-    [](/2020/08/05/insider/times-events.html)
+    [](/2020/08/06/todayspaper/quotation-of-the-day-enormous-biker-rally-defies-public-opposition.html)
     
-    ## Taking Times Journalism to Another Stage
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nancy Coleman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page
-    A2
-    
-    </div>
-    
-    </div>
-
-2.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/todayspaper/quotation-of-the-day-rush-to-treat-with-plasma-undermines-studies.html)
-    
-    ## Quotation of the Day: Rush to Treat With Plasma Undermines Studies
+    ## Quotation of the Day: Enormous Biker Rally Defies Public Opposition
     
     <div class="css-9t0aj2 ea5icrr0">
     
@@ -1714,51 +1616,6 @@ Show More in Food
     </div>
     
     </div>
-
-3.  
-    
-    <div class="css-14thodx">
-    
-    <div class="css-141drxa">
-    
-    [](/2020/08/04/pageoneplus/corrections-aug-5-2020.html)
-    
-    ## Corrections: Aug. 5, 2020
-    
-    <div class="css-9t0aj2 ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1eeg3ce">
-    
-    Page A21
-    
-    </div>
-    
-    </div>
-
-</div>
-
-<div id="mid6-wrapper" class="css-92qh85 eaca97t0" type="rank">
-
-<div id="mid6-slug" class="css-1tag3rd eaca97t1">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-mid6)
-
-<div id="mid6" class="ad mid6-wrapper" style="text-align:center;height:100%;display:block">
-
-</div>
-
-<div id="after-mid6">
-
-</div>
 
 </div>
 

@@ -165,105 +165,99 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
-    Burbank/Orlando Sentinel, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caitlin
+    O\&rsquo;Hara for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/08virus-eviction1/merlin_175408071_6b9bf3e6-34e1-48fc-b87a-c02c575fb2a3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbStandard.jpg)](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/08virus-eviction1/07virus-eviction1-thumbStandard.jpg)](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
     
     </div>
     
-    ## [Disney, Staggered by Pandemic, Sees a Streaming Boom](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    ## [Millions of Evictions Are a Sharper Threat as Government Support Ends](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of
-    operation.
+    Without more federal aid for workers, experts are expecting the
+    largest disruption to the housing market since the
+    Depression.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brooks
-    Barnes</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Conor
+    Dougherty</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
-    Solomon for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07jpDC-ORDERs-print/merlin_175392885_12569975-dca2-460a-83de-8e4453ec2632-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-thumbStandard.jpg)](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07jpDC-ORDERs-print/07DC-ORDER-thumbStandard.jpg)](/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
     
     </div>
     
-    ## [McClatchy, Family-Run News Chain, Goes to Hedge Fund in Bankruptcy Sale](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
+    ## [Trump’s Orders on WeChat and TikTok Are Uncertain. That May Be the Point.](/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
     
-    A federal judge signed off on a $312 million deal for the
-    prestigious newspaper company to Chatham Asset Management at a
-    hearing
-    Tuesday.
+    The restrictions on the two Chinese-owned apps followed a familiar
+    model for other policy announcements on China from the Trump
+    administration.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Marc
-    Tracy</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ana
+    Swanson</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kennedi
-        Carter for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-videoLarge-v2.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Scott
+        Anderson</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/business/07Talkspace-illo/07Talkspace-illo-videoLarge-v3.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Interest Rates Are Low, but Loans Are Harder to Get. Here’s Why.](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+        ## [At Talkspace, Start-Up Culture Collides With Mental Health Concerns](/2020/08/07/technology/talkspace.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-thumbStandard-v2.jpg)](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/business/07Talkspace-illo/07Talkspace-illo-thumbStandard-v2.jpg)](/2020/08/07/technology/talkspace.html)
         
         </div>
         
-        Banks have tightened standards, becoming more choosy about their
-        borrowers and asking a lot of
-        questions.
+        The therapy-by-text company made burner phones available for
+        fake reviews and doesn’t adequately respect client privacy,
+        former employees
+        say.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Tara
-        Siegel
-        Bernard</span></span>
+        <span class="css-1baulvz" itemprop="name">Kashmir Hill</span>
+        and <span class="css-1baulvz last-byline" itemprop="name">Aaron
+        Krolik</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
-        Wright for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mike
+        Blake/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07HBO1-print/merlin_137565399_b34b5a2a-f0da-40b5-891b-d7507abfd280-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Square Feet
-        
-        ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+        ## [Three Top Executives Are Out at WarnerMedia, HBO’s Parent Company](/2020/08/07/business/media/hbo-warnermedia-executive-departure.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbStandard.jpg)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07HBO1-print/merlin_137565399_b34b5a2a-f0da-40b5-891b-d7507abfd280-thumbStandard.jpg)](/2020/08/07/business/media/hbo-warnermedia-executive-departure.html)
         
         </div>
         
-        The pandemic has turned cleaning and other mundane building
-        tasks into a challenge, stoking interest in machines as
-        cost-effective
-        solutions.
+        The shake-up came on the watch of the WarnerMedia chief
+        executive, Jason Kilar, who joined the company in
+        May.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Lisa
-        Prevost</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Nicole
+        Sperling</span></span>
         
         </div>
 
@@ -273,85 +267,89 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Noble Jr. for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/04/10/business/markets-briefing-promo-image/markets-briefing-promo-image-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
-    ## [Ford, Struggling in a Changing Industry, Replaces Its C.E.O.](/2020/08/04/business/ford-jim-hackett-james-farley.html)
-    
-    Jim Hackett, who failed to impress Wall Street, will be replaced by
-    James Farley, an auto industry veteran who started his career at
-    Toyota.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neal E.
-    Boudette</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-    Alfiky/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](/2020/08/04/business/coronavirus-struggling-caterers.html)
-    
-    The pandemic has devastated the industry. But some entrepreneurs are
-    finding creative ways to keep their businesses
-    afloat.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Creswell</span></span>
-    
-    </div>
-
-3.  
-    
-    <div class="css-10wtrbd">
-    
-    ## [Disney+ Hits 58 Million Subscribers](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus)
+    ## [U.S. Added 1.8 Million Jobs in July: Live Updates](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus)
     
     <span class="css-me3p27"></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
-    Lam/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlo
+    Allegri/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07Virus-Billboards-1/merlin_175303974_3d70ef93-8a0f-426c-92ec-6b80d220b20b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Apple Replaces Phil Schiller as Its Top Marketing Executive](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    ## [After Taking a Pandemic Hit, Billboard Ad Companies See Signs of Hope](/2020/08/07/business/media/billboard-advertising-pandemic.html)
     
-    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
-    at the
-    company.
+    The virus pummeled sales of ads on outdoor and transit displays, and
+    a second wave could hamper a recovery. But executives believe the
+    worst may be over for their
+    business.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tiffany
+    Hsu</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eve
-    Edelheit for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-videoLarge.jpg)
+3.  ### Wealth Matters
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kholood
+    Eid/Bloomberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07Wealth-01/07Wealth-01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    ## [More Wealthy Families Are Throwing a Lifeline to Distressed Businesses](/2020/08/07/your-money/family-office-direct-investment.html)
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    The pandemic has created an opportunity for family offices to take a
+    more hands-on approach by investing directly in companies that need
+    capital.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kellen
-    Browning</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Paul
+    Sullivan</span></span>
+    
+    </div>
+
+4.  ### Your Money Adviser
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Till
+    Lauer</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/08Adviser-illo-sub/07Adviser-illo-sub-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The ‘Indirect’ Costs at College Can Involve Nasty Surprises](/2020/08/07/your-money/college-costs-tuition.html)
+    
+    Expenses for books, transportation and food outside a meal plan may
+    be a problem for poor and moderate-income students, a new report
+    finds.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ann
+    Carrns</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paige
+    Vickers</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07denmark-alt/07denmark-alt-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Investors Cozy Up to Danish Stocks](/2020/08/07/business/stock-market-denmark.html)
+    
+    Denmark is enjoying one of the best-performing stock markets in the
+    world this year. Recession-proof businesses and a strong safety net
+    equal big
+    gains.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Phillips</span></span>
     
     </div>
 
@@ -424,7 +422,25 @@ story](#after-mid1)
 [More in Good Reads From the Business Desk
 »](/spotlight/editors-picks-business)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ted
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+    L. Frank for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [12 People in a 3-Bedroom House, Then the Virus Entered the Equation](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
+    
+    Overcrowding, not density, has defined many coronavirus hot spots.
+    Service workers’ quarters skirting Silicon Valley are no
+    exception.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Conor
+    Dougherty</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ted
     S. Warren/Associated
     Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/business/26Virus-Vaccine-Payday-shot/merlin_174630441_1f65a11a-cfd7-48ef-9c5c-8454b39c7e17-videoLarge.jpg)
     
@@ -443,7 +459,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noam
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Noam
     Galai/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/02/business/00Unrest-Hearst-young/00Unrest-Hearst-young-videoLarge.jpg)
     
@@ -463,7 +479,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
     Francis Peters for The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/07/business/00robinhood-sub/00robinhood-sub-videoLarge.jpg)
     
@@ -479,24 +495,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nathaniel
     Popper</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jessica
-    Chou for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Airbnb Was Like a Family, Until the Layoffs Started](/2020/07/17/technology/airbnb-coronavirus-layoffs-.html)
-    
-    What happens when a kumbaya office culture meets the business
-    realities of a
-    pandemic?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Erin
-    Griffith</span></span>
     
     </div>
 
@@ -548,23 +546,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    [](/2020/08/07/business/economy/july-jobs-report.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04levandowski2/04levandowski2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07markets-brf-jobs-pos/merlin_174608646_b93a3f79-6460-44ca-9dc8-b72b4fe22398-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Star Technologist Who Crossed Google Sentenced to 18 Months in Prison
+    ## Job Growth Slowed in July, Signaling a Loss of Economic Momentum
     
-    Anthony Levandowski, a onetime star Silicon Valley engineer of
-    self-driving cars, had pleaded guilty to stealing trade secrets.
+    The ranks of the employed grew by 1.8 million, a drop from the pace
+    of the previous two months, as renewed business closings hampered
+    the recovery.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
+    By <span class="css-1n7hynb">Nelson D. Schwartz <span>and</span>
+    Gillian
+    Friedman</span>
     
     </div>
     
@@ -582,24 +582,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/07/health/coronavirus-exams-mcat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-EXAM/07VIRUS-MCAT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    ## Want to Be a Doctor? Take Your Chances in a Closed Room With Strangers
     
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the coronavirus.
+    Admissions tests for many graduate schools have gone online. But not
+    the MCAT, the exam for aspiring doctors. It must still be taken in
+    person, pandemic or not.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
+    By <span class="css-1n7hynb">Roni Caryn
+    Rabin</span>
     
     </div>
     
@@ -617,22 +617,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/recent-commercial-real-estate-transactions.html)
+    [](/2020/08/07/style/kibbo-van-life-startup.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04trans1/merlin_174836691_604803ac-4932-4894-85ec-9d2c8370b2a2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Recent Commercial Real Estate Transactions
+    ## What if Your Home Could Be Mobile, but Also You Could Park It?
     
-    Recent commercial real estate transactions in New York.
+    A start-up rethinks a little about how to live.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sophia
-    June</span>
+    By <span class="css-1n7hynb">Candace
+    Jackson</span>
     
     </div>
     
@@ -650,23 +650,14 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
+    [](/2020/08/07/business/discouraged-workers-add-to-the-cloud-over-the-labor-market.html)
     
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Rockettes’ ‘Christmas Spectacular’ Is Canceled
-    
-    MSG Entertainment, which owns Radio City Music Hall and manages the
-    Rockettes, cited the uncertainty of the coronavirus.
+    ## Discouraged workers add to the cloud over the labor market.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia
-    Carmel</span>
+    By <span class="css-1n7hynb">Nelson D.
+    Schwartz</span>
     
     </div>
     
@@ -684,22 +675,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
+    [](/2020/08/07/business/media/lorenzo-milam-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/obituaries/06Milam5/06Milam5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
+    ## Lorenzo Wilson Milam, Guru of Community Radio, Is Dead at 86
     
-    The European oil giant has plans for a future with more electrical
-    generation.
+    He helped start noncommercial stations in the 1960s and ’70s,
+    offering an eclectic mix of music and talk. His goal: to change the
+    world.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley Reed</span>
+    By <span class="css-1n7hynb">Richard
+    Sandomir</span>
     
     </div>
     
@@ -717,17 +710,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/google-fitbit-europe.html)
+    [](/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
     
-    ## Google Faces European Inquiry Into Fitbit Acquisition
+    <div class="css-79elbk">
     
-    Authorities are investigating how Google will use health and
-    wellness data collected from Fitbit’s fitness tracking devices.
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/business/09Workfriend/merlin_175289196_8fae26c8-6101-4b0d-afe2-d90bc5a4cebe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">work Friend</span>
+    
+    ## How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk
+    
+    A woman has a misogynist at her job. A 56-year-old despairs about
+    his prospects. And employees are asked to pay for their own
+    diversity training.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam
-    Satariano</span>
+    By <span class="css-1n7hynb">Roxane
+    Gay</span>
     
     </div>
     
@@ -745,20 +747,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/google-faces-an-eu-investigation-into-its-fitbit-acquisition.html)
+    [](/2020/08/07/business/economy/federal-reserve-main-street-lending.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/11/01/us/01FitBit/merlin_151320936_350a749c-24be-4a05-8737-137d747262b2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07DC-MainStreet/merlin_171561357_237ae3c7-291b-4d4a-8cbb-6b979b686ddd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Google faces an E.U. investigation into its Fitbit acquisition.
+    ## Oversight Member Blasts the Fed’s Efforts to Rescue Main Street
+    
+    The Federal Reserve president leading the Main Street lending
+    program testified before a congressional commission, as one member
+    labeled it a “failure.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam
-    Satariano</span>
+    By <span class="css-1n7hynb">Jeanna
+    Smialek</span>
     
     </div>
     
@@ -776,20 +782,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/fords-chief-jim-hackett-to-retire-as-company-tries-to-regain-momentum.html)
+    [](/2020/08/07/business/he-found-a-new-job-but-the-drop-in-pay-is-draining-his-savings.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07markets-brf-working1/07markets-brf-working1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Ford’s chief Jim Hackett to retire as company tries to regain momentum.
+    ## He found a new job, but the drop in pay is draining his savings.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Neal E.
-    Boudette</span>
+    By <span class="css-1n7hynb">Gillian
+    Friedman</span>
     
     </div>
     
@@ -807,20 +813,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/argentina-secures-a-deal-to-restructure-65-billion-in-debt.html)
+    [](/2020/08/07/business/as-a-temporary-closing-turns-permanent-an-owner-and-a-worker-try-to-carry-on.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04markets-brf-argentina/04markets-brf-argentina-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07markets-brf-spinning1/07markets-brf-spinning1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Argentina secures a deal to restructure $65 billion in debt.
+    ## As a temporary closing turns permanent, an owner and a worker try to carry on.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Eshe Nelson <span>and</span> Daniel
-    Politi</span>
+    By <span class="css-1n7hynb">Nelson D.
+    Schwartz</span>
     
     </div>
     
@@ -838,19 +844,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/bp-to-step-up-renewable-investment-as-it-reports-a-huge-loss.html)
+    [](/2020/08/07/business/minorities-continue-to-bear-a-heavy-portion-of-the-job-markets-pain.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04markets-brf-bp/04markets-brf-bp-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07markets-brf-demographics/07markets-brf-demographics-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## BP to step up renewable investment as it reports a huge loss.
+    ## Minorities continue to bear a heavy portion of the job market’s pain.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley Reed</span>
+    By <span class="css-1n7hynb">Jeanna Smialek</span>
     
     </div>
     

@@ -155,102 +155,102 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Harnik/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Liz
+    Wright</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-students1/06virus-students1-jumbo.jpg)
     
-    <div class="css-xbztij">
+    <div class="css-srgkhl">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbStandard.jpg)](/2020/08/04/us/2020-census-ending-early.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-students1/06virus-students1-thumbStandard.jpg)](/2020/08/06/us/coronavirus-students.html)
     
     </div>
     
-    ## [With Census Count Finishing Early, Fears of a Skewed Tally Rise](/2020/08/04/us/2020-census-ending-early.html)
+    ## [‘I Was a Little Scared’: Inside America’s Reopening Schools](/2020/08/06/us/coronavirus-students.html)
     
-    With 60 million households still uncounted, the bureau said it would
-    wrap up the survey a month early. Critics called it a bald move to
-    politicize the count in favor of
-    Republicans.
+    In their first week back, students have faced altered classrooms and
+    emergency quarantines. Here’s what they say school is like in the
+    age of
+    Covid-19.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael Wines</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Richard
-    Fausset</span></span>
+    <span class="css-1baulvz" itemprop="name">Adam Wren</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Dan
+    Levin</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-        Milano for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04isaias-01/04isaias-01-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Grant
+        Hindsley for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/us/03CHAZ1/merlin_174979071_1ce12ee2-37f8-44d8-8a9c-d593f10b64ca-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04isaias-01/04isaias-01-thumbStandard.jpg)](/2020/08/04/us/hurricane-isaias-updates.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/09/03/us/03CHAZ1/03CHAZ1-thumbStandard.jpg)](/2020/08/07/us/defund-police-seattle-protests.html)
         
         </div>
         
-        ## [Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast](/2020/08/04/us/hurricane-isaias-updates.html)
+        ## [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](/2020/08/07/us/defund-police-seattle-protests.html)
         
-        Officials warned residents to stay out of harm’s way as at least
-        two people were killed by tornadoes, and two others from fallen
-        trees. Millions were left without
-        power.
+        What is it like when a city abandons a neighborhood and the
+        police vanish? Business owners describe a harrowing experience
+        of calling for help and being left all
+        alone.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Michael
-        Venutolo-Mantovani</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Rick
-        Rojas</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Nellie
+        Bowles</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-threeByTwoMediumAt2X-v2.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+        Wickens for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbStandard-v2.jpg)](/2020/08/04/us/isaias-storm-updates.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-thumbStandard.jpg)](/2020/08/07/us/remote-learning-fall-2020.html)
         
         </div>
         
-        ## [Isaias Reaches Canada as a Dwindling Storm](/2020/08/04/us/isaias-storm-updates.html)
+        ## [Lost Summer: How Schools Missed a Chance to Fix Remote Learning](/2020/08/07/us/remote-learning-fall-2020.html)
         
-        At least two people were killed after a tornado touched down in
-        Bertie County, N.C., and two others in the United States were
-        killed by falling
-        trees.
+        Education leaders spent months preparing to reopen classrooms.
+        But with online learning set to continue for millions of
+        students this fall, schools must catch up with
+        reality.
         
-        <span class="css-me3p27"></span>
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dana
+        Goldstein</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-        Goldman/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04VIRUS-TESTING-mass/merlin_174443316_57fadf4c-cbfd-45c0-b35b-8a68c9821b14-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lathan
+        Goumas/News & Daily Advance, via Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07FALWELL/merlin_138408084_e14442df-3463-4fee-97d1-3b8713c33f4a-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04VIRUS-TESTING-mass/04VIRUS-TESTING-mass-thumbStandard.jpg)](/2020/08/04/us/virus-testing-delays.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07FALWELL/07FALWELL-thumbStandard.jpg)](/2020/08/07/us/falwell-liberty.html)
         
         </div>
         
-        ## [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](/2020/08/04/us/virus-testing-delays.html)
+        ## [Jerry Falwell Jr. Taking Leave of Absence From Liberty University](/2020/08/07/us/falwell-liberty.html)
         
-        A shortage of chemicals needed to test for the virus is part of
-        what is slowing turnaround
-        times.
+        Mr. Falwell, the college’s president and a supporter of
+        President Trump, agreed to a request by the school’s board of
+        trustees.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Manny
-        Fernandez</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
+        Dias</span></span>
         
         </div>
 
@@ -308,23 +308,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+    [](/2020/08/07/us/sturgis-motorcyle-rally.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07VIRUS-STURGIS/merlin_175440174_f41e821f-5059-4f74-a12a-92871c9eaad0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+    ## ‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally
     
-    The upset of the veteran congressman from St. Louis sent tremors
-    though the Democratic establishment in Missouri and Washington, D.C.
+    Tens of thousands of motorcyclists roared into the western South
+    Dakota community on Friday, lining Main Street from end to end, for
+    the start of the annual Sturgis Motorcycle Rally.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Mark
+    Walker</span>
     
     </div>
     
@@ -342,24 +343,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/lamborghini-coronavirus-stimulus.html)
+    [](/2020/08/07/us/politics/trump-congress-stimulus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/4xp-lamborghini/merlin_160627941_dc8e6d9d-876c-411b-9659-513038022edc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Second Person Used Covid Relief Money to Buy a Lamborghini, Prosecutors Say
+    ## Trump Prepares to Bypass Congress as Stimulus Talks Fail Again
     
-    A Houston man who received more than $1.6 million bought a 2019
-    Lamborghini Urus, prosecutors said. Last week, a Miami man bought a
-    Lamborghini Huracán, according to the authorities.
+    Democrats said the talks had been “disappointing,” and White House
+    officials said they would encourage President Trump to use executive
+    orders to provide relief.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Azi
-    Paybarah</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -377,17 +378,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-4-primary-election.html)
+    [](/2020/08/07/us/politics/red-cross-guantanamo-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-gitmo/merlin_158116788_12cbf187-e504-4c14-b0ed-0605a0a0b857-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Fourth Congressional District
+    ## Red Cross Cancels Guantánamo Visit Over Coronavirus Cases
+    
+    The pandemic has forced the longest absence of the humanitarian
+    organization from the remote military prison in Cuba since it opened
+    in January 2002.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carol
+    Rosenberg</span>
     
     </div>
     
@@ -405,17 +413,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-primary-elections.html)
+    [](/2020/08/07/books/bernard-bailyn-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/obituaries/08bailyn-obit1/00bailyn-toppix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Live: Michigan State Primary Election Results 2020
+    ## Bernard Bailyn, Eminent Historian of Early America, Dies at 97
+    
+    On topic after topic he shifted the direction of scholarly inquiry,
+    winning two Pulitzers and a Bancroft Prize for his innovative
+    research and groundbreaking works.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Renwick McLean <span>and</span>
+    Jennifer
+    Schuessler</span>
     
     </div>
     
@@ -433,17 +449,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-8-primary-election.html)
+    [](/video/us/politics/100000007279160/coronavirus-ohio-governor.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Eighth Congressional District
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Ohio Governor Calls Covid-19 Tests ‘Kind of a Roller Coaster’
+    
+    Gov. Mike DeWine tested negative for the coronavirus hours after a
+    positive rapid-result test had prevented him from meeting with
+    President Trump.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -461,17 +486,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-10-primary-election.html)
+    [](/video/us/100000007279221/republicans-democrats-divided-over-stimulus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07briefing-virus-dc/merlin_175437309_159f9c40-80e8-485d-b628-182ecd153499-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 10th Congressional District
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Republicans and Democrats Remain Divided on Stimulus Package
+    
+    Lawmakers were still at an impasse after meeting Friday, and
+    President Trump’s advisers said they would recommend that he act on
+    his own through an executive order.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By
+    <span class="css-1n7hynb">Reuters</span>
     
     </div>
     
@@ -489,17 +523,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-13-primary-election.html)
+    [](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/08virus-eviction1/merlin_175408071_6b9bf3e6-34e1-48fc-b87a-c02c575fb2a3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 13th Congressional District
+    ## Millions of Evictions Are a Sharper Threat as Government Support Ends
+    
+    Without more federal aid for workers, experts are expecting the
+    largest disruption to the housing market since the Depression.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Conor
+    Dougherty</span>
     
     </div>
     
@@ -517,17 +557,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-11-primary-election.html)
+    [](/2020/08/07/us/coronavirus-today.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v698.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 11th Congressional District
+    ## Coronavirus Briefing: What Happened Today
+    
+    New York schools move toward reopening.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan Wolfe <span>and</span> Lara
+    Takenaga</span>
     
     </div>
     
@@ -545,17 +590,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-2-primary-election.html)
+    [](/2020/08/07/us/falwell-liberty.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07FALWELL/merlin_138408084_e14442df-3463-4fee-97d1-3b8713c33f4a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Second Congressional District
+    ## Jerry Falwell Jr. Taking Leave of Absence From Liberty University
+    
+    Mr. Falwell, the college’s president and a supporter of President
+    Trump, agreed to a request by the school’s board of trustees.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elizabeth
+    Dias</span>
     
     </div>
     
@@ -573,17 +624,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-primary-elections.html)
+    [](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Live: Arizona State Primary Election Results 2020
+    ## Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says
+    
+    But a new assessment says China would prefer to see the president
+    defeated, though it is not clear Beijing is doing much to meddle in
+    the 2020 campaign to help Joseph R. Biden Jr.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
     
     </div>
     

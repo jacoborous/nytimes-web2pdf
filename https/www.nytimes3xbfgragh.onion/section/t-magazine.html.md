@@ -156,31 +156,77 @@ Beauty](/section/t-magazine/fashion)
 
 ## Highlights
 
-1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kate
-    Martin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
+    of the artist and Red Bull
+    Arts</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/t-magazine/07tmag-akeem/07tmag-akeem-threeByTwoMediumAt2X.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-thumbStandard.jpg)](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/t-magazine/07tmag-akeem/07tmag-akeem-thumbStandard.jpg)](/2020/08/07/t-magazine/akeem-smith-art.html)
     
     </div>
     
-    ## [A Home Inscribed With the History of Venice Beach](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
+    ### The Artists
     
-    Within a storied Los Angeles studio complex, Karina Deyko and David
-    de Rothschild have built an eclectic, freewheeling space in which to
-    live and
-    work.
+    ## [A Different View of a Jamaican Dancehall](/2020/08/07/t-magazine/akeem-smith-art.html)
+    
+    On the verge of his first major exhibition, Akeem Smith shares a new
+    artwork.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alice
-    Newell-Hanson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Akeem
+    Smith</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Painart</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tahiti
+        Huetter</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/t-magazine/05tmag-tlist-slide-PX8A-print/05tmag-tlist-slide-PX8A-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/t-magazine/05tmag-tlist-slide-PX8A-print/05tmag-tlist-slide-PX8A-thumbStandard.jpg)](/2020/08/06/t-magazine/t-list-toyin-ojih-odutola.html)
+        
+        </div>
+        
+        ### The T List
+        
+        ## [The T List: Five Things We Recommend This Week](/2020/08/06/t-magazine/t-list-toyin-ojih-odutola.html)
+        
+        Paintings by Toyin Ojih Odutola, Hawaiian pastries — and
+        more.
+        
+        <span class="css-me3p27"></span>
+        
+        </div>
+    
+    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nacho
+        Alegre</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/t-magazine/-06tmag-loewe-slide-CKPS/-06tmag-loewe-slide-CKPS-jumbo.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/t-magazine/-06tmag-loewe-slide-CKPS/-06tmag-loewe-slide-CKPS-thumbStandard.jpg)](/2020/08/06/t-magazine/loewe-home-scents-candles.html)
+        
+        </div>
+        
+        ## [Inspired by Memories and Remedies, Earthy Home Scents From Loewe](/2020/08/06/t-magazine/loewe-home-scents-candles.html)
+        
+        An amateur plantsman, Jonathan Anderson shares his bounty with
+        the rest of
+        us.
+        
+        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Alice
+        Cavanagh</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Painart</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
@@ -204,55 +250,6 @@ Beauty](/section/t-magazine/fashion)
         O’Grady</span></span>
         
         </div>
-    
-    2.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
-        Bourne</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-thumbStandard.jpg)](/2020/07/31/t-magazine/design-bothy-anstruther.html)
-        
-        </div>
-        
-        ## [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](/2020/07/31/t-magazine/design-bothy-anstruther.html)
-        
-        Harriet Anstruther has transformed a former outbuilding on her
-        farm in the British countryside into a maximalist
-        retreat.
-        
-        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Aimee
-        Farrell</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-473pcf e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
-        McAlpine</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-thumbStandard.jpg)](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
-        
-        </div>
-        
-        ### One Good Meal
-        
-        ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
-        
-        Skye McAlpine has made a name for herself serving bountiful
-        meals to large groups of friends. During lockdown, she’s
-        discovered the joy of cooking for just one or
-        two.
-        
-        <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Isabel
-        Wilkinson</span></span>
-        
-        </div>
 
 </div>
 
@@ -260,7 +257,62 @@ Beauty](/section/t-magazine/fashion)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### The T List
+1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kate
+    Martin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/t-magazine/design/3tmag-rothschild-slide-2WRX/3tmag-rothschild-slide-2WRX-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Home Inscribed With the History of Venice Beach](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
+    
+    Within a storied Los Angeles studio complex, Karina Deyko and David
+    de Rothschild have built an eclectic, freewheeling space in which to
+    live and
+    work.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alice
+    Newell-Hanson</span></span>
+    
+    </div>
+
+2.  ### One Good Meal
+    
+    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Skye
+    McAlpine</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/t-magazine/27tmag-mcalpine-slide-GUB5/27tmag-mcalpine-slide-GUB5-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A Food Writer’s Sicilian Pasta Dish, and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
+    
+    Skye McAlpine has made a name for herself serving bountiful meals to
+    large groups of friends. During lockdown, she’s discovered the joy
+    of cooking for just one or
+    two.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Isabel
+    Wilkinson</span></span>
+    
+    </div>
+
+3.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
+    Bourne</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/t-magazine/16tmag-bothy-slide-P1ID/16tmag-bothy-slide-P1ID-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](/2020/07/31/t-magazine/design-bothy-anstruther.html)
+    
+    Harriet Anstruther has transformed a former outbuilding on her farm
+    in the British countryside into a maximalist
+    retreat.
+    
+    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Aimee
+    Farrell</span></span>
+    
+    </div>
+
+4.  ### The T List
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joe
     Weaver</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-videoLarge.jpg)
@@ -276,7 +328,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-2.  ### True Believers
+5.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
     of the
@@ -296,7 +348,15 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-3.  ### True Believers
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nat
     Farbman/The Life Picture Collection/Getty
@@ -316,26 +376,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-4.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Courtesy
-    of the artist and Garth Greenan Gallery,
-    N.Y.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-pindell/13tmag-pindell-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Portrait of an Artist Not to Be Underestimated](/2020/07/24/t-magazine/howardena-pindell.html)
-    
-    The painter Howardena Pindell discusses her 1990 work
-    “Scapegoat.”
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Howardena
-    Pindell</span></span>
-    
-    </div>
-
-5.  ### True Believers
+2.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicholas
     Calcott</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-young-slide-M0J6/13tmag-young-slide-M0J6-videoLarge.jpg)
@@ -354,15 +395,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### True Believers
+3.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nin
     Solis</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-videoLarge.jpg)
@@ -382,7 +415,7 @@ Beauty](/section/t-magazine/fashion)
     
     </div>
 
-2.  ### True Believers
+4.  ### True Believers
     
     ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Weichia
     Huang/The Jewish
@@ -399,50 +432,6 @@ Beauty](/section/t-magazine/fashion)
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Arthur
     Lubow</span></span>
-    
-    </div>
-
-3.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tetsuya
-    Miura</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/t-magazine/30tmag-nara-slide-67ZV/30tmag-nara-slide-67ZV-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Yoshitomo Nara Paints What He Hears](/2020/07/24/t-magazine/yoshitomo-nara.html)
-    
-    Ahead of a major retrospective in Los Angeles, the Japanese artist
-    discusses his musical
-    education.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nick
-    Marino</span></span>
-    
-    </div>
-
-4.  ### True Believers
-    
-    ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Clockwise
-    from top left: courtesy of the artist, Andrew Kreps Gallery, New
-    York and Esther Schipper, Berlin; © Isaac Julien, courtesy of the
-    artist and Metro Pictures, New York; © Lynn Hershman Leeson,
-    courtesy of the artist and Bridget Donahue, N.Y.C.; courtesy of the
-    artist and Gavin Brown’s enterprise New
-    York/Rome</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/t-magazine/art/digital-artists-slide-VVNP/digital-artists-slide-VVNP-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Four Artists on the Future of Video Art](/2020/07/22/t-magazine/video-art.html)
-    
-    Hito Steyerl, Rachel Rose, Isaac Julien and Lynn Hershman Leeson
-    talk about how they’ve been spending quarantine and just where, in
-    this era of never-ending screen time, their work should
-    live.
-    
-    <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew
-    Russeth</span></span>
     
     </div>
 
@@ -687,6 +676,117 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/07/22/t-magazine/video-art.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/t-magazine/art/digital-artists-slide-VVNP/digital-artists-slide-VVNP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## Four Artists on the Future of Video Art
+    
+    Hito Steyerl, Rachel Rose, Isaac Julien and Lynn Hershman Leeson
+    talk about how they’ve been spending quarantine and just where, in
+    this era of never-ending screen time, their work should live.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Andrew
+    Russeth</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/21/t-magazine/charles-ross-artist.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/t-magazine/art/Charles-Ross-slide-C8TO/Charles-Ross-slide-C8TO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## A Land Art Pioneer’s Adventures in Time and Space
+    
+    Nearly 50 years after Charles Ross began working on “Star Axis,” the
+    artist’s gargantuan work in the New Mexico desert is nearing
+    completion.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nancy
+    Hass</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/21/t-magazine/art-financial-crisis.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-agitprop-slide-6C00/13tmag-agitprop-slide-6C00-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">True Believers</span>
+    
+    ## 12 Artists On: The Financial Crisis
+    
+    As the pandemic continues to derail the global economy, artists
+    share works that reflect on uncertainty, capitalism and racial
+    injustice.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Zoë
+    Lescaze</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/21/t-magazine/pat-steir.html)
     
     <div class="css-79elbk">
@@ -717,7 +817,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -753,7 +853,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -789,7 +889,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -826,7 +926,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -849,121 +949,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Maya
-    Stovall</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/t-magazine/summer-recipes-arjamolho-soup-vanessa-barragao.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/t-magazine/15tmag-barragao-03/15tmag-barragao-03-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">One Good Meal</span>
-    
-    ## A Portuguese Artist’s Chilled Tomato Soup
-    
-    For a simple lunch or dinner, Vanessa Barragão often makes
-    arjamolho, which is healthy, flavorful and perfect for summer.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nick
-    Marino</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/t-magazine/eating-food-during-plague.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/t-magazine/14tmag-plague/14tmag-plague-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## What We Eat During a Plague
-    
-    Over the past months, Americans have embraced comfort food with a
-    renewed fervor. But this isn’t the first time culinary habits have
-    shifted during a pandemic.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael Snyder</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/07/23/t-magazine/comida-pandemia.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/t-magazine/isabel-marant.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/t-magazine/16tmag-isabel-marant-slide-B9VG-copy/16tmag-isabel-marant-slide-B9VG-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Profile in Style</span>
-    
-    ## The Designer Who Defined Modern Parisian Cool
-    
-    Isabel Marant has always known exactly how she wants to dress. In
-    the decades since she founded her brand, people all over the world
-    have adopted her tastes as their own.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lindsay Talbot</span>
+    By <span class="css-1n7hynb">Maya Stovall</span>
     
     </div>
     

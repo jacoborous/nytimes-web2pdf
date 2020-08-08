@@ -164,118 +164,47 @@ East](/section/world/middleeast)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hussein
-    Malla/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-briefing-1sub/merlin_175321077_5b30b6db-7a82-407b-9bf0-064c6b78641d-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07india-plane-sub/merlin_175429530_ebd030f5-cdce-404d-955a-73a0866d6803-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-briefing-1sub/05lebanon-briefing-1sub-thumbStandard.jpg)](/2020/08/05/world/middleeast/beirut-explosion.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07india-plane-sub/07india-plane-sub-thumbStandard.jpg)](/2020/08/07/world/asia/air-india-plane-crash.html)
     
     </div>
     
-    ## [After Deadly Beirut Explosion, a Search for Answers and Survivors: Live Updates](/2020/08/05/world/middleeast/beirut-explosion.html)
+    ## [Air India Jet With More Than 180 Passengers Skids and Cracks in Half](/2020/08/07/world/asia/air-india-plane-crash.html)
     
-    Rescue workers dug through rubble searching for survivors as fires
-    continued to burn in the Lebanese capital, where an explosion killed
-    more than 100 and injured
-    thousands.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hussein
-    Malla/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-photos-1/merlin_175321224_4c4f7459-f64e-471a-8f2c-f934b55c6329-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    <div class="css-1dqkjed">
-    
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05lebanon-photos-1/05lebanon-photos-1-thumbStandard.jpg)](/2020/08/04/world/middleeast/beirut-lebanon-explosions-photos.html)
-    
-    </div>
-    
-    ## [The Lebanon Explosions in Photos](/2020/08/04/world/middleeast/beirut-lebanon-explosions-photos.html)
-    
-    Images from Beirut show the extent of the devastation from blasts
-    that shook the Lebanese capital on
-    Tuesday.
+    The plane, a Boeing 737, had been returning from Dubai when it
+    skidded off a rain-soaked runway in the southern state of Kerala.
+    The airline said 17 people had
+    died.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The New York
-    Times</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jeffrey
+    Gettleman</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hassan
-        Ammar/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04beirut-first-account/merlin_175303311_606f30a4-a476-48ec-9327-c93d6f96b2d5-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [I Was Bloodied and Dazed. Beirut Strangers Treated Me Like a Friend.](/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04beirut-first-account/04beirut-first-account-thumbStandard.jpg)](/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
-        
-        </div>
-        
-        In a land conditioned by calamity, people knew what to do,
-        including helping wounded people they didn’t
-        know.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Vivian
-        Yee</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hassan
-        Ammar/Associated
-        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05beirut-questions-1/merlin_175322967_91935e7a-fece-4ef5-879e-9e033021942f-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ## [What We Know and Don’t Know About the Beirut Explosions](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05beirut-questions-1/05beirut-questions-1-thumbStandard.jpg)](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
-        
-        </div>
-        
-        More than 100 people were killed, and the second blast was felt
-        in Cyprus. An investigation and a search for survivors are
-        underway.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Austin
-        Ramzy</span></span>
-        
-        </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
-    Romero/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05uribe-print/merlin_138461055_e8f62ffd-95e1-4b71-8a94-dda7b8b50083-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Federico
+    Rios for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05uribe/05uribe-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
+    <div class="css-1dqkjed">
     
-    A decision to put Mr. Uribe under house arrest as a fraud and
-    bribery investigation unfolds could be a turning point in a nation
-    used to seeing powerful politicians avoid
-    prosecution.
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05uribe/05uribe-thumbStandard-v2.jpg)](/2020/08/07/world/americas/uribe-colombia-house-arrest.html)
+    
+    </div>
+    
+    ## [Álvaro Uribe’s Detention Deepens Colombia’s Divisions](/2020/08/07/world/americas/uribe-colombia-house-arrest.html)
+    
+    Colombia’s most powerful politician is now under house arrest,
+    drawing the country back into the pitched political battle it had
+    been trying to overcome for
+    years.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Julie
@@ -283,80 +212,157 @@ East](/section/world/middleeast)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Al
-    Drago for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+        photo by Jeff J
+        Mitchell</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07britain/merlin_175420941_f2cf4be2-c557-4f4c-b190-ca48cdc04d9f-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ## [Brexit Behind Him, Boris Johnson Tries to Stop Scotland From Leaving U.K.](/2020/08/07/world/europe/boris-johnson-scotland-ireland-independence.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07britain/07britain-thumbStandard.jpg)](/2020/08/07/world/europe/boris-johnson-scotland-ireland-independence.html)
+        
+        </div>
+        
+        Scottish polling shows a majority favor independence. The prime
+        minister is
+        concerned.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Mark
+        Landler</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Woohae
+        Cho for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/00korea-pow-1/merlin_175364766_f1dadd0f-7e2b-46f7-a396-89be19128124-videoLarge.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### The Saturday Profile
+        
+        ## [For P.O.W., Landmark Verdict Against North Korea Is Long-Overdue Justice](/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/00korea-pow-1/00korea-pow-1-thumbStandard.jpg)](/2020/08/07/world/asia/north-korea-pow-verdict-kim.html)
+        
+        </div>
+        
+        A former South Korean soldier may never see a penny of the
+        $17,600 awarded by a court last month. But the verdict set a
+        precedent for thousands of others seeking to hold the North and
+        Kim Jong-un accountable for human rights
+        violations.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Choe
+        Sang-Hun</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
+    Bradsher/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/06/world/06china-demolitions-1/06china-demolitions-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    ## [Beijing Launches Another Demolition Drive, This Time in Its Bucolic Suburbs](/2020/08/07/world/asia/china-beijing-crackdown-housing.html)
     
-    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
-    billed as an opportunity to highlight Taiwan’s success in battling
-    the coronavirus
-    pandemic.
+    The authorities have moved to demolish hundreds of homes in the
+    hills near the Great Wall that were once a sign of China’s rising
+    prosperity.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Amy
-    Qin</span></span>
+    <span class="css-1baulvz" itemprop="name">Steven Lee Myers</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Keith
+    Bradsher</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Fareed
-    Khan/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00pakistan-hindus1/00pakistan-hindus1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Juan
+    Karita/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07bolivia/07bolivia-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Poor and Desperate, Pakistani Hindus Accept Islam to Get By](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    ## [Bolivia Under Blockade as Protesters Choke Access to Cities](/2020/08/07/world/americas/bolivia-roadblock-blockade.html)
     
-    Drawn by jobs or land offered by Muslim groups, some Hindus, facing
-    discrimination and a virus-ravaged economy, are essentially
-    converting to
-    survive.
+    Six million people have been marooned by 70 roadblocks set up to
+    protest the government’s response to the coronavirus and the
+    postponement of the country’s general
+    election.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Maria Abi-Habib</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Zia
-    ur-Rehman</span></span>
+    <span class="css-1baulvz" itemprop="name">María Silvia Trigo</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Anatoly
+    Kurmanaev</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Testa for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04uk-lords/04uk-lords-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
+    Ibarra Sanchez for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07Beirut01/merlin_175387014_c15f4b0b-db98-4948-afb1-d6ceead88a22-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [New Nominations to U.K. House of Lords Raise Old Concerns of Cronyism](/2020/08/04/world/house-of-lords-boris-johnson.html)
+    ## [As U.N. Warns of Catastrophe, Lebanon’s Leaders Debate Cause of Blast](/2020/08/07/world/europe/lebanon-catastrophe-explosion-external-interference.html)
     
-    Critics say Prime Minister Boris Johnson’s nominations for lifetime
-    legislative posts continued a pattern of patronage that undermines
-    the credibility of a long-troubled
-    institution.
+    The United Nations warning came as President Michel Aoun said the
+    investigation into the deadly explosion in Beirut would examine if
+    “external interference” played a
+    role.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mark
-    Landler</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Marc
+    Santora</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    West/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tatyana
+    Zenkovich/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07belarus01/07belarus01-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    ## [Europe’s ‘Last Dictator,’ Facing Re-Election, Is Increasingly in Peril](/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
     
-    Melbourne, Australia’s second-largest city, is becoming a case study
-    in handling a second wave of infections. There are lots of
-    unanswered
-    questions.
+    For 26 years, Aleksandr G. Lukashenko has ruled Belarus as if it
+    were his personal fief. In his sixth presidential election, the
+    result is not in doubt, but he is being challenged like never
+    before.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Damien
-    Cave</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ivan
+    Nechepurenko</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dev
+    Ramkhelawon/L'Express Maurice via Agence
+    France-Presse</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07mauritius/07mauritius-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Mauritius Faces Environmental Crisis as Oil Spills From Grounded Ship](/2020/08/07/world/africa/mauritius-oil-spill.html)
+    
+    A Japanese-owned bulk carrier ran aground near the Indian Ocean
+    island in late July, with nearly 4,000 tons of fuel oil and 200 tons
+    of diesel on board. And now its hull has
+    cracked.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Elian
+    Peltier</span></span>
     
     </div>
 
@@ -368,93 +374,97 @@ East](/section/world/middleeast)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Issam
-    Abdallah/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/world/04lebanon-ledeall-1sub/04lebanon-ledeall-1sub-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ishara
+    S. Kodikara/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07srilanka-1/merlin_175409814_bd17c6ab-3b72-48c0-9857-758e2318e7b3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Blasts Rock Beirut, Killing Dozens and Wounding Thousands](/2020/08/04/world/middleeast/lebanon-explosion.html)
+    ## [Sri Lanka Election Hands Rajapaksa Family a Bigger Slice of Control](/2020/08/06/world/asia/sri-lanka-elections-rajapaksa.html)
     
-    The cause remained unclear hours later. But officials in the
-    Lebanese capital said 2,750 tons of highly explosive ammonium
-    nitrate had been stored in a depot at the center of the
-    explosion.
+    President Gotabaya Rajapaksa’s party clinched the majority of seats
+    in Parliament, aiming to amend the Constitution and expand
+    presidential powers. Rights groups are
+    concerned.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ben
-    Hubbard</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maria
+    Abi-Habib</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Agence
-    France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/00tanzania/00tanzania-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Zehbrauskas for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06mexico-migration/06mexico-migration-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Tanzania’s President Says Country Is Virus Free. Others Warn of Disaster](/2020/08/04/world/africa/tanzanias-coronavirus-president.html)
+    ## [After a Lull, the Number of Migrants Trying to Enter the U.S. Has Soared](/2020/08/06/world/americas/mexico-immigration-usa.html)
     
-    Tanzania hasn’t reported a single coronavirus case in three months,
-    even as the African continent is expected this week to cross the
-    threshold of one million reported
-    cases.
+    The number of immigrants arrested at the southwestern border has
+    more than doubled since the spring, fueled by Mexico’s economic
+    slump and a Trump administration policy that migrants say works in
+    their
+    favor.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Abdi Latif
-    Dahir</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kirk
+    Semple</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Prarthna
+    Singh for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07india-trafficlight-promo/merlin_175367340_b4667f61-d262-48cc-a506-1c126af56210-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand](/2020/08/04/world/australia/sos-pacific-island.html)
+    ## [Mumbai Put Female Figures on Traffic Signals. Some Women Are Not Impressed.](/2020/08/06/world/asia/mumbai-traffic-light-woman-india.html)
     
-    Three days after their boat ran out of fuel and drifted off course
-    in Micronesia, the men were found in good condition after a plane
-    saw their giant plea for help spelled out on the
-    sand.
+    At many crossings, India’s largest city replaced male stick figures
+    with icons in triangular dresses. But critics say the move does
+    little to address an entrenched gender
+    divide.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elian
-    Peltier</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tiffany
+    May</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tyler
-    Hicks/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-syria-sanctions/merlin_170451123_c94169bd-de3a-4340-90d7-06525b9de1dd-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+    photo by Jim Lo
+    Scalzo</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/00dc-bounties/merlin_175110051_aed54ec6-7fc4-4fc3-beca-a13c283adb13-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump’s Syria Sanctions ‘Cannot Solve the Problem,’ Critics Say](/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
+    ## [Pompeo Warned Russia Against Bounties on U.S. Troops in Afghanistan](/2020/08/07/world/asia/pompeo-russia-afghanistan-bounties.html)
     
-    Without a broader diplomatic effort, the newest and toughest
-    penalties will worsen a humanitarian crisis without forcing a
-    leadership change, experts
-    say.
+    Secretary of State Mike Pompeo is said to have sternly discussed
+    payouts and red lines in a telephone call with Sergey V. Lavrov,
+    Russia’s foreign
+    minister.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Pranshu Verma</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Vivian
-    Yee</span></span>
+    <span class="css-1baulvz" itemprop="name">Edward Wong</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Eric
+    Schmitt</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06beirut-firefighter3/06beirut-firefighter3-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension](/2020/08/04/world/coronavirus-cases.html)
+    ## [Paramedic Who Died in Beirut Explosion Is a Symbol of Lebanon’s Grief](/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the U.S.
+    Sahar Fares, 27, was planning her wedding. Instead, her family held
+    her funeral after she died in the blast that tore through the
+    city.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Maria
+    Abi-Habib</span></span>
     
     </div>
 
@@ -492,95 +502,94 @@ story](#after-mid1)
 [More in The Coronavirus Outbreak
     »](/news-event/coronavirus)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Liz
+    Wright</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-students1/06virus-students1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension](/2020/08/04/world/coronavirus-cases.html)
+    ## [‘I Was a Little Scared’: Inside America’s Reopening Schools](/2020/08/06/us/coronavirus-students.html)
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the
-    U.S.
+    In their first week back, students have faced altered classrooms and
+    emergency quarantines. Here’s what they say school is like in the
+    age of
+    Covid-19.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Adam Wren</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Dan
+    Levin</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>William
-    West/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04virus-melbourne-1/04virus-melbourne-1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/covid-19-symptoms-promo-1596578167742/covid-19-symptoms-promo-1596578167742-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Lockdown 2.0 Looks Like: Harsher Rules, Deeper Confusion](/2020/08/04/world/australia/coronavirus-melbourne-lockdown.html)
+    ## [Could My Symptoms Be Covid-19?](/interactive/2020/08/05/well/covid-19-symptoms.html)
     
-    Melbourne, Australia’s second-largest city, is becoming a case study
-    in handling a second wave of infections. There are lots of
-    unanswered
-    questions.
+    These days, every cough, sneeze or headache makes you wonder: Could
+    it be coronavirus? Here’s a guide to help you understand the
+    symptoms.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Damien
-    Cave</span></span>
+    <span class="css-1baulvz" itemprop="name">Tara Parker-Pope</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Mika
+    Gröndahl</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
-    Dawn Bottoms/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03up-virus-bills/03up-virus-bills-videoLarge-v2.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marius
+    Becker/DPA, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/00germany-test04/00germany-test04-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A Hospital Forgot to Bill Her Coronavirus Test. It Cost Her $1,980.](/2020/08/03/upshot/nj-coronavirus-medical-bill.html)
+    ## [Welcome Back to Germany. Now Take Your Free Virus Test.](/2020/08/05/world/europe/germany-coronavirus-test-travelers.html)
     
-    Send us your medical bills. We’ll use them to investigate hospital
-    and doctor billing
-    practices.
+    The country’s capacity to make testing efficient, affordable and
+    available has distinguished it. Now, to head off a potential second
+    wave, it’s testing anyone returning from a “hot zone” on
+    entry.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Kliff</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Melissa
+    Eddy</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lynne
-    Sladky/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/sports/03mlb-virus-1/03mlb-virus-1-videoLarge-v2.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+    New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/03/18/world/faq-promo/faq-promo-videoLarge-v5.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [As the Virus Spreads Through M.L.B., So Does Frustration](/2020/08/03/sports/baseball/mlb-coronavirus-outbreak.html)
+    ## [Answers to Your New Coronavirus Questions](/interactive/2020/world/coronavirus-tips-advice.html)
     
-    Series have been postponed, teams have been quarantined, and road
-    trips have been rerouted in a season that has been defined above all
-    by its
-    precariousness.
+    The world has changed a lot in the last few months. We’re here to
+    help.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tyler
-    Kepner</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The New York
+    Times</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gianni
-    Cipriano para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/04italy-ES-00/31virus-italy-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    Minchillo/Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Cómo logró Italia contener la calamidad del coronavirus](/es/2020/08/05/espanol/mundo/italia-reapertura-coronavirus.html)
+    ## [Ohio Governor Calls Covid-19 Tests ‘Kind of a Roller Coaster’](/video/us/politics/100000007279160/coronavirus-ohio-governor.html)
     
-    Después de un comienzo tambaleante, el país pasó de ser paria global
-    a adoptar un modelo —aunque imperfecto— de contención viral que
-    ofrece lecciones para sus vecinos y para Estados
-    Unidos.
+    Gov. Mike DeWine tested negative for the coronavirus hours after a
+    positive rapid-result test had prevented him from meeting with
+    President
+    Trump.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Horowitz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">The Associated
+    Press</span></span>
     
     </div>
 
@@ -590,98 +599,102 @@ story](#after-mid1)
 
 ## [Read The Times in Spanish](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Departamento
-    de Agricultura de Estados
-    Unidos</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/multimedia/03Semillas-ES/01xp-seeds-pix-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Federico
+    Rios para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/07uribe-ES-1/merlin_175318935_49d41761-d0da-4944-bdb0-844a92f5bbcc-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Estados Unidos identifica algunas de las misteriosas semillas enviadas desde China](/es/2020/08/03/espanol/estados-unidos/semillas-correo-china.html)
+    ## [La detención de Álvaro Uribe profundiza las divisiones de Colombia](/es/2020/08/07/espanol/america-latina/alvaro-uribe-colombia.html)
     
-    Las 14 variedades reconocidas incluyen plantas comunes como hibisco,
-    campanilla morada y lavanda. Aún así, los expertos advirtieron a los
-    destinatarios que no las
-    sembraran.
+    Con el político más poderoso del país en arresto domiciliario, la
+    nación vuelve a la intensa fragmentación política que durante años
+    ha intentado
+    superar.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Allyson
-    Waller</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Turkewitz</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alejandro
-    Pagni/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31Argentina-Debt-ES-00/31argentinadebt-1-videoLarge-v2.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Zehbrauskas para The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06mexico-migration-ES-1/06mexico-migration-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Las negociaciones de la deuda en Argentina ponen a prueba el capitalismo amigable](/es/2020/07/31/espanol/negocios/argentina-deuda.html)
+    ## [Tras una pausa, el número de migrantes que intentan entrar a Estados Unidos se ha disparado](/es/2020/08/06/espanol/america-latina/migracion-estados-unidos.html)
     
-    BlackRock, la empresa más grande de manejo de inversiones del mundo,
-    se opone a un acuerdo que resolvería la deuda con Argentina, que
-    lucha contra la pobreza y la
-    pandemia.
+    El número de personas arrestadas en la frontera se ha duplicado
+    desde la primavera debido a la recesión económica de México y a una
+    política del gobierno de Donald Trump que, según los inmigrantes,
+    funciona a su
+    favor.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Peter S. Goodman</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Politi</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kirk
+    Semple</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/covid-19-sintomas-ES-promo-1596751696581/covid-19-sintomas-ES-promo-1596751696581-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [¿Tengo síntomas de COVID-19?](/es/interactive/2020/08/06/espanol/ciencia-y-tecnologia/tengo-covid-19-sintomas.html)
+    
+    Ahora cada tos, estornudo o jaqueca te hace dudar: ¿será
+    coronavirus? Esta guía te ayudará a comprender los
+    síntomas.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+    <span class="css-1baulvz" itemprop="name">Tara Parker-Pope</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Mika
+    Gröndahl</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/middleeast/beirut-a2/beirut-a2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Explosión en Beirut: esto revelan las imágenes del estallido](/es/2020/08/06/espanol/mundo/beirut-video-explosion-libano.html)
+    
+    Una investigación visual a partir de más de 70 videos ofrece algunas
+    pistas sobre las causas de la explosión y la fuerza de su
+    destrucción.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Evan Hill</span>,
+    <span class="css-1baulvz" itemprop="name">Stella Cooper</span>,
+    <span class="css-1baulvz" itemprop="name">Christiaan
+    Triebert</span>, <span class="css-1baulvz" itemprop="name">Christoph
+    Koettl</span>, <span class="css-1baulvz" itemprop="name">Drew
+    Jordan</span>, <span class="css-1baulvz" itemprop="name">Dmitriy
+    Khavin</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">John
+    Ismay</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Meghan
     Dhaliwal para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/world/00mexico-melodrama-ES-00/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-videoLarge.jpg)
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/04SCI-VIRUS-GLOBAL-ES-03/00VIRUS-GLOBAL4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Menos sexo, más audiencia: la pandemia reanima a las telenovelas mexicanas](/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html)
+    ## [Se está propagando ‘el monstruo más grande de todos’. Y no es el coronavirus](/es/2020/08/05/espanol/ciencia-y-tecnologia/tuberculosis-malaria-coronavirus.html)
     
-    Desdeñados por ser muy anticuados para competir con las series
-    transmitidas por internet, los melodramas televisivos recuperan a un
-    público ansioso que busca entretenimiento familiar y reconfortante
-    en tiempos de
-    incertidumbre.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Natalie
-    Kitroeff</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dmitry
-    Kostyukov para The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/28Francia-vino-ES/merlin_174871056_ae254e73-15d3-440c-997b-65cde45a173f-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Angustia, vino blanco y gel antibacterial](/es/2020/07/28/espanol/mundo/vino-blanco-alsacia-coronavirus.html)
-    
-    La pandemia del coronavirus y los aranceles impuestos por el
-    gobierno de Donald Trump perjudicaron al mercado del vino francés.
-    Ahora el destino de la cosecha es convertirse en desinfectante para
-    manos.
+    La tuberculosis mata a 1,5 millones de personas cada año. Los
+    confinamientos y las interrupciones de la cadena de suministro de
+    medicamentos amenazan el progreso en la batalla contra esta
+    enfermedad, el VIH y el
+    paludismo.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Nossiter</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reef
-    Chang</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/27Taiwan-Laundry-ES/24taiwan-laundry1a-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Él tiene 83, ella 84 y modelan la ropa que la gente olvida en su lavandería](/es/2020/07/28/espanol/mundo/lavanderia-taiwanesa-instagram.html)
-    
-    Los dueños de un centro de lavado en Taiwán se han convertido en
-    estrellas de Instagram por posar con prendas que los clientes
-    abandonan.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Chris
-    Horton</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
     
     </div>
 
@@ -964,22 +977,24 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
+    [](/2020/08/07/health/coronavirus-superspreading-contagion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-SUPERSPREADING/07VIRUS-SUPERSPREADING-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Beirut Blasts, Coronavirus, \#MeToo: Your Wednesday Briefing
+    ## Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu
     
-    Here’s what you need to know.
+    Most people won’t spread the virus widely. The few who do are
+    probably in the wrong place at the wrong time in their infection,
+    new models suggest.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
+    By <span class="css-1n7hynb">Katherine J.
+    Wu</span>
     
     </div>
     
@@ -997,24 +1012,26 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    [](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/video/beirut-ship-a/beirut-ship-a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Mapping the Damage From the Beirut Explosions
+    ### <span class="css-m70j1g">visual investigations</span>
     
-    Damage was seen at least two miles from the explosions, encompassing
-    an area with more than 750,000 residents.
+    ## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
+    
+    The explosive material responsible for the Aug. 4 blast in Beirut
+    was carried there by the ailing cargo ship Rhosus in 2013. Here’s
+    what happened next.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
-    McCann, Lauren Leatherby <span>and</span> Blacki
-    Migliozzi</span>
+    By <span class="css-1n7hynb">Christoph Koettl <span>and</span> Drew
+    Jordan</span>
     
     </div>
     
@@ -1032,22 +1049,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/coronavirus-today.html)
+    [](/2020/08/07/dining/tamarind-recipes.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v689.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/dining/07Tamarind1/merlin_174769830_439b45c6-cd55-403b-a4b9-a444b9d1f3ac-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Briefing: What Happened Today
+    ## The Simple Joys of Tamarind
     
-    A vaccine maker backed by the U.S. government is making progress.
+    Sweet, sour and tender under its brittle shell, the fruit’s pulp is
+    equally at home in desserts and savory dishes.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan Wolfe <span>and</span> Lara
-    Takenaga</span>
+    By <span class="css-1n7hynb">Nik
+    Sharma</span>
     
     </div>
     
@@ -1065,24 +1083,26 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    [](/video/world/100000007278318/air-india-plane-crash-video.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07india-plane-sub/merlin_175429530_ebd030f5-cdce-404d-955a-73a0866d6803-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    The president’s assertion undercuts diplomats who have said
-    withdrawals will depend on the Taliban’s commitment to its peace
-    deal with the United States.
+    ## Video Shows Aftermath of Air India Plane Crash
+    
+    An Air India Express flight carrying more than 180 passengers
+    skidded off a wet runway and split in half. Dozens of injuries were
+    reported.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Gibbons-Neff</span>
+    By <span class="css-1n7hynb">Maya Blackstone <span>and</span> Haley
+    Willis</span>
     
     </div>
     
@@ -1100,22 +1120,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/briefing/beirut-explosion-melbourne-lockdown-pakistan.html)
+    [](/2020/08/07/world/asia/trump-china-hong-kong-sanctions.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/07dc-china-sanctions/07dc-china-sanctions-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Beirut Blasts, Melbourne Lockdown, Island SOS: Your Wednesday Briefing
+    ## Trump Administration Penalizes Hong Kong Officials for Crackdown on Protesters
     
-    Here’s what you need to know.
+    The sanctions are the first punishments brought against officials in
+    China and Hong Kong for suppressing pro-democracy protests.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Carole
-    Landry</span>
+    By <span class="css-1n7hynb">Pranshu Verma <span>and</span> Edward
+    Wong</span>
     
     </div>
     
@@ -1133,26 +1154,22 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/video/world/100000007272075/lebanon-beirut-blast.html)
+    [](/2020/08/07/briefing/coronavirus-suffrage-tiktok-your-friday-briefing.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/04lebanon-vidcover/04lebanon-vidcover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/7ambriefing-nigeria-copy/7ambriefing-nigeria-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## A Warming World
     
-    ## Videos Capture Aftermath of Deadly Blast in Beirut
-    
-    Videos captured the toll of the deadly blast in Beirut that killed
-    dozens of people and injured thousands.
+    And what else you need to know today.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maya Blackstone <span>and</span>
-    Christiaan
-    Triebert</span>
+    By <span class="css-1n7hynb">Sanam Yar <span>and</span> Ian Prasad
+    Philbrick</span>
     
     </div>
     
@@ -1170,24 +1187,22 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+    [](/2020/08/07/world/covid-19-news.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04lebanon5/merlin_175300464_f2bfa9c9-20e6-4321-b833-b5160a0ead76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What We Know About the Explosions in Beirut, Lebanon
+    ## Coronavirus Live Updates: As U.S. Stimulus Talks Near Collapse, Trump Eyes Executive Orders
     
-    Dozens are dead and thousands hurt. The cause is unclear but the
-    government said “highly explosive materials” had been stored at the
-    blast scene in the Lebanese capital.
+    New York’s governor said schools can reopen for in-person
+    instruction, but he left the details up to the districts. Africa
+    surpasses a million confirmed cases, though the real number may be
+    higher.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Maria
-    Abi-Habib</span>
     
     </div>
     
@@ -1205,26 +1220,23 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/video/world/100000007271927/pacific-island-rescue-video.html)
+    [](/interactive/2020/08/07/briefing/beirut-tiktok-census-bureau-news-quiz.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/07newsquiz-beirut/merlin_175305234_1314394f-2e5f-405d-a313-fc5f3a309056-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## News Quiz: Beirut, TikTok, Census Bureau
     
-    ## Video Shows Plane Spotting SOS Signal From Stranded Sailors
-    
-    Three sailors drew SOS in the sand after their boat drifted off
-    course among the hundreds of islands of Micronesia. Their decision
-    saved their lives.
+    Did you follow the headlines this week?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Storyful</span>
+    Compiled by <span class="css-1n7hynb">Will Dudding, Anna Schaverien
+    <span>and</span> Jessica
+    Anderson</span>
     
     </div>
     
@@ -1242,23 +1254,25 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/briefing/coronavirus-relief-primary-elections-isaias-your-tuesday-briefing.html)
+    [](/2020/08/07/world/australia/coronavirus-joys-ocean-books-food.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/4ambriefing-promo/4ambriefing-relief-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07ausletter170b/07ausletter170b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Miles Apart on Coronavirus Relief
+    ### <span class="css-m70j1g">letter 170</span>
     
-    And what else you need to know today.
+    ## Smile, Australia. Look at What’s Flourishing Despite the Pandemic.
+    
+    As we rush into nature, books and fresher food, there are signs of a
+    healthier existence beginning to emerge.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ian Prasad Philbrick <span>and</span>
-    Sanam
-    Yar</span>
+    By <span class="css-1n7hynb">Damien
+    Cave</span>
     
     </div>
     
@@ -1276,24 +1290,21 @@ story](#after-mid3)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    [](/2020/08/06/briefing/beirut-tiktok-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/briefing/07ambriefing-europe-promo/07ambriefing-asiaP-slide-SNB7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    ## Beirut, Coronavirus, TikTok Restrictions: Your Friday Briefing
     
-    As countries consider back-to-school strategies for the fall, a
-    coronavirus outbreak at a Jerusalem high school offers a cautionary
-    tale.
+    Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
-    Belluck</span>
+    By <span class="css-1n7hynb">Isabella Kwai</span>
     
     </div>
     

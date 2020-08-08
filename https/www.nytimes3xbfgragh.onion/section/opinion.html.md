@@ -229,80 +229,81 @@ Society](/section/opinion/gender-and-society)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
-    Tama/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04warzel1/04warzel1-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
+    J. Brown/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [How QAnon Creates a Dangerous Alternate Reality](/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
+    ## [Here’s How to Crush the Virus Until Vaccines Arrive](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
     
-    Game designer Adrian Hon says the conspiracy theory parallels the
-    immersive worlds of alternate reality
-    games.
+    To save lives, and save the economy, we need another
+    lockdown.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Charlie
-    Warzel</span></span>
+    <span class="css-1baulvz" itemprop="name">Michael T.
+    Osterholm</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Neel
+    Kashkari</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by The New York Times; photographs by Brittainy Newman/The New York
-    Times and Byron Smith/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
+    Enthoven</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/opinion/sunday/09brooks/09brooks-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [New York Needs Less Bickering, More Teamwork](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+    ### David Brooks
     
-    Residents are nervous and exhausted. It’s not too much to ask for a
-    unified leadership from the mayor and the
-    governor.
+    ## [Where Do Republicans Go From Here?](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
+    
+    The party looks brain-dead at every spot Trump touches. But off in
+    the corners, there’s a lot of intellectual
+    ferment.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">The Editorial
-    Board</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Brooks</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Damon
-    Winter/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Angela
+    Weiss/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/06krugmanWeb/06krugmanWeb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Jamelle Bouie
+    ### Paul Krugman
     
-    ## [Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    ## [Coming Next: The Greater Recession](/2020/08/06/opinion/coronavirus-us-recession.html)
     
-    Government of the minority, chosen by a minority, on behalf of a
-    minority, is not what Lincoln had in mind at
-    Gettysburg.
+    The suspension of federal benefits would create damage almost as
+    terrifying as the economic effects of the
+    coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
-    Bouie</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Paul
+    Krugman</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
-    Phobia</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05boylan/05boylan-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jakub
+    Porzycki/NurPhoto, via Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/opinion/07Wolff/07Wolff-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Jennifer Finney Boylan
+    ### Josephine Wolff
     
-    ## [The Doggiest Days of Summer Demand Gin and Tonics](/2020/08/04/opinion/gin-tonic-summer-drink.html)
+    ## [So What Does Trump Have Against TikTok?](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
     
-    They’re refreshing and ridiculously easy to make, and come with just
-    enough bitterness to help you get through this miserable
-    year.
+    His foolish and dangerous edicts suggest that the United States,
+    like China, no longer believes in a global
+    internet.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-    Finney
-    Boylan</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Josephine
+    Wolff</span></span>
     
     </div>
 
@@ -312,52 +313,51 @@ Society](/section/opinion/gender-and-society)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05besigner_tiktok/05besigner_tiktok-mediumThreeByTwo440.jpg)
+1.  ### The Argument
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/opinion/06argSub/merlin_173801661_39539801-5ac0-4026-a458-7ae3610f6610-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Is Microsoft Sure It Wants to Buy TikTok?](/2020/08/04/opinion/tiktok-microsoft-trump.html)
+    ## [Trump Supporters Make Their Case for 2020](/2020/08/06/opinion/the-argument-trump-coronavirus-election.html)
     
-    Running a social media service brings headaches and
-    scrutiny.
+    Conservatives Helen Andrews and Daniel McCarthy join Ross for a
+    reelection
+    roundtable.
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Greg
-    Bensinger</span></span>
+    <span class="css-me3p27"></span>
     
     </div>
 
-2.  ### THE STONE
+2.  ### Jamelle Bouie
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Mike McQuade; Photograph via Library of
-    Congress</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/opinion/06stone/04stone-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mandel
+    Ngan/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/08bouie_print/merlin_153869544_fe018d11-1ded-4eef-909b-30ab36d22516-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [We Need a Monument to the Unknown America](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
+    ## [Trump and His Allies Think They Know Who Counts](/2020/08/07/opinion/trump-2020-census.html)
     
-    A memorial makes a statement about who is worth preserving. Why not
-    a sacred and beautiful
-    nothingness?
+    But history has a way of confounding those who think they can
+    control
+    it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ed
-    Simon</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
+    Bouie</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Reynolds/EPA, via
-    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04recessWeb/04recessWeb-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/opinion/06nuke-still/06nuke-still-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [No Relief Bill, No Vacation](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+    ## [The World Can Still Be Destroyed in a Flash](/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
     
-    Millions of Americans can’t wait while the Senate takes the rest of
-    the summer
-    off.
+    It seems that the United States is plunging into a new arms race
+    without learning the lessons of the
+    last.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">The Editorial
@@ -365,41 +365,37 @@ Society](/section/opinion/gender-and-society)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mario
-    Tama/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Lamas/04Lamas-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/opinion/00ron9/00ron9-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [‘If I Hadn’t Been Transferred, I Would Have Died’](/2020/08/04/opinion/covid-rural-hospitals.html)
+    ## [Could This Be the Last Time We See Our Dad?](/2020/08/06/opinion/coronavirus-baruch-haviv-death.html)
     
-    Conversations about death from Covid-19 revolve around patient
-    characteristics. But hospitals matter,
-    too.
+    Zoom has become a link between loved ones. But is what we see
+    onscreen real
+    life?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniela J.
-    Lamas</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ron
+    Haviv</span></span>
     
     </div>
 
-5.  ### Ross Douthat
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brandon
-    Dill/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04douthatSub/04douthatSub-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+    Wilson/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/07Anderson/07Anderson-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Republicans Are Ready for the Don Draper Method](/2020/08/04/opinion/trump-republicans-tea-party.html)
+    ## [I’m a Conservative Christian Environmentalist. No, That’s Not an Oxymoron.](/2020/08/07/opinion/republicans-climate-change.html)
     
-    The coronavirus relief debate has Republicans falling back into
-    pre-Trump
-    grooves.
+    The G.O.P. may have had a politically expedient change of heart.
+    Better late than
+    never.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ross
-    Douthat</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ericka
+    Andersen</span></span>
     
     </div>
 
@@ -459,22 +455,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/coronavirus-federal-relief-inaction-debatable.html)
+    [](/2020/08/07/opinion/beirut-explosion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/0804debatable/0804debatable-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/opinion/07cohen1/07cohen1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Inaction and a Blame Game in the Throes of a Calamity
+    ## Beirut on the Potomac
     
-    Federal relief has ended, and the need grows worse.
+    The American spirit gets a Lebanese makeover.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Talmon Joseph
-    Smith</span>
+    By <span class="css-1n7hynb">Roger
+    Cohen</span>
     
     </div>
     
@@ -492,22 +488,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/letters/blackrock-argentina.html)
+    [](/2020/08/07/opinion/letters/portland-police.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPargentinadebt2-print/31argentinadebt-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03Lovell2/03Lovell2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">letters</span>
     
-    ## BlackRock, on Argentina’s Debt Accord
+    ## Police Violence in Portland Protests
     
-    The firm says its role is consistent with its commitment to
-    stakeholder capitalism. Also: Transgender service members; a paucity
-    of conversation; second-home
-    owners.
+    The A.C.L.U. of Oregon says the police “are making a mockery of the
+    First Amendment.” Also: Planned Parenthood and Black women; a free
+    pass for Russia; universal internet; weekends in a
+    pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -527,21 +523,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/letters/trump-family.html)
+    [](/2020/08/07/opinion/letters/presidential-debates.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/us/14bookmarytrump-print1/merlin_174289413_be827fb5-595f-4cb3-950d-3021b509f069-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/opinion/06drew3-inyt/merlin_75655960_325e36f8-8421-4c4e-b014-1b44f7d93169-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">letterS</span>
+    ### <span class="css-m70j1g">letters</span>
     
-    ## How Trump’s Upbringing Molded His Personality
+    ## The Presidential Debates Debate
     
-    Readers respond to an article about how empathy was a sign of
-    weakness in the Trump family and to revelations by the president’s
-    niece.
+    Does this forum make sense for evaluating the candidates? Readers
+    weigh in.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -561,32 +556,16 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
+    [](/2020/08/07/opinion/the-question-im-always-asked.html)
     
-    <div class="css-79elbk">
+    ## The Question I’m Always Asked
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05campos/04campos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Brazil’s Troll Army Moves Into the Streets
-    
-    President Jair Bolsonaro and his allies have seeded online hatred
-    against the institutions that defend democracy. Now the outrage is
-    spilling beyond the internet.
+    (And what they really want to know.)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Patrícia Campos Mello</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Ler em
-    português](https://www.nytimes3xbfgragh.onion/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html "Read in Portuguese")[Leer
-    en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html "Read in Spanish")
+    By <span class="css-1n7hynb">Kathleen
+    Kingsbury</span>
     
     </div>
     
@@ -604,25 +583,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
+    [](/2020/08/07/opinion/republicans-climate-change.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04Fixes2/04Fixes2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/07Anderson/07Anderson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fixes</span>
+    ## I’m a Conservative Christian Environmentalist. No, That’s Not an Oxymoron.
     
-    ## Using Telemedicine to Treat Opioid Addiction
-    
-    Getting medication long meant seeing a licensed provider. Now a
-    strategy for evading Covid-19 makes treatment available via the web.
+    The G.O.P. may have had a politically expedient change of heart.
+    Better late than never.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tina
-    Rosenberg</span>
+    By <span class="css-1n7hynb">Ericka
+    Andersen</span>
     
     </div>
     
@@ -640,23 +617,29 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+    [](/2020/08/07/opinion/latina-women-politics.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/05Wu/04Wu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/08Ramos/07Ramos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
+    ## Can a Latina Girl Dream of Being President of the United States?
     
-    Theatrics distracted from the real payoff of the congressional
-    hearings: the subpoenaed documents.
+    Women’s representation in government is lagging. Change won’t happen
+    by itself.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tim
-    Wu</span>
+    By <span class="css-1n7hynb">Jorge Ramos</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/07/espanol/opinion/presidenta-estados-unidos.html "Read in Spanish")
     
     </div>
     
@@ -674,22 +657,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+    [](/2020/08/06/opinion/debt-coronavirus-senate-republicans.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/opinion/30Hunter1/30Hunter1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/opinion/0806debatable/0806debatable-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Don’t Believe the Lie That Voting Is All You Can Do
+    ## Debt, Debt, Goose
     
-    Stop minimizing the work of movements.
+    The face-off in the Senate over a pandemic relief package is tied to
+    a yearslong back-and-forth over the relevance of deficits.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniel
-    Hunter</span>
+    By <span class="css-1n7hynb">Talmon Joseph
+    Smith</span>
     
     </div>
     
@@ -707,23 +691,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/opinion/israel-palestine-one-state-solution.html)
+    [](/2020/08/06/opinion/letters/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03stephensWeb/03stephensWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03-SUB-DC-VIRUS-VACCINE-01-PRINT/merlin_175014810_dc9c4070-f731-44e1-85ef-05a96b8b2208-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Siren Song of ‘One State’
+    ### <span class="css-m70j1g">letters</span>
     
-    A hopeless plan could dash hopes for a peaceful resolution between
-    Israelis and Palestinians.
+    ## Needed: A Safe Vaccine, Masks and Face Shields
+    
+    Readers say we need to make sure any vaccine is safe, and remind us
+    that for now masks and distancing are
+    reliable.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bret
-    Stephens</span>
     
     </div>
     
@@ -741,23 +725,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/opinion/spacex-stonehenge-mars.html)
+    [](/2020/08/06/opinion/letters/israel-palestinians.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03wonder-edit/03wonder-edit-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/opinion/31cohenWeb/31cohenWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Good News About What Human Genius Can Still Do
+    ### <span class="css-m70j1g">letters</span>
     
-    There’s something uniquely compelling about our need to learn what
-    we can about the universe.
+    ## Martin Peretz, on Israeli-Palestinian Peace
+    
+    The former New Republic editor writes about the two-state solution.
+    Also: Donald Trump and Joe McCarthy; the theater industry, in dire
+    straits.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
     
     </div>
     
@@ -775,22 +759,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/opinion/senior-voters-biden-trump-2020.html)
+    [](/2020/08/06/opinion/mothers-discrimination-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/opinion/03cottleWeb/03cottleWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/opinion/04williams/04williams-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disenchanted Seniors for Biden
+    ## Real Life Horror Stories From the World of Pandemic Motherhood
     
-    The pandemic is particularly dangerous for older Americans, and
-    Trump is losing their support.
+    ‘I have been given two options: either resign or get fired.’
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michelle Cottle</span>
+    By <span class="css-1n7hynb">Joan C. Williams</span>
     
     </div>
     
