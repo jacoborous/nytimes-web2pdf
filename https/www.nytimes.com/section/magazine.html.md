@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -49,8 +48,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -62,7 +60,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="collection-magazine" class="section css-15h4p1b e9abtgs0">
 
@@ -74,11 +72,64 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 ## Highlights
 
-1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Birgit
-    Krippner for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-jumbo-v6.jpg)
+1.  ![<span class="css-13wzayb e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-jumbo.png)
     
     <div class="css-gjijuv">
+    
+    ### Feature
+    
+    ## [Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies](/2020/08/08/magazine/us-russia-intelligence.html)
+    
+    Last year, intelligence officials gathered to write a classified
+    report on Russia’s interest in the 2020 election. An investigation
+    from the magazine uncovered what happened next.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Robert
+    Draper</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Sweatpants/09mag-Sweatpants-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Sweatpants Forever: How the Fashion Industry Collapsed](/interactive/2020/08/06/magazine/fashion-sweatpants.html)
+    
+    Even before the pandemic, it had started to unravel. What happens
+    now that no one has a reason to dress up?
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Irina
+    Aleksander</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+    Ferguson for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Doctors-05/09mag-Doctors-05-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Covid Drug Wars That Pitted Doctor vs. Doctor](/2020/08/05/magazine/covid-drug-wars-doctors.html)
+    
+    How much freedom should front-line clinicians have in treating
+    Covid-19 patients with unproven drugs? The question opened up a
+    civil war in some hospitals.
+    
+    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Susan
+    Dominus</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Birgit
+    Krippner for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-videoLarge-v7.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### feature
     
@@ -86,72 +137,11 @@ Paper](https://www.nytimes.com/section/todayspaper)
     
     He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
     detention camps — from the inside. He survived, stateless, for seven
-    years. What’s
-    next?
+    years. What’s next?
     
     <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Megan K.
     Stack</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Tomi
-    Um</span>](https://static01.nyt.com/images/2020/08/09/magazine/09Ethicist/09Ethicist-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### The Ethicist
-    
-    ## [Is It OK That I Haven’t Told My Parents I Was Fired?](/2020/08/04/magazine/jobs-unemployment-ethics.html)
-    
-    The magazine’s Ethicist columnist on why it can be hard to tell
-    family you’ve lost your job, whether to collect unemployment
-    benefits and
-    more.
-    
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
-    Appiah</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by
-    Radio</span>](https://static01.nyt.com/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Tip
-    
-    ## [How to Keep a Condor Wild](/2020/08/04/magazine/condors-yurok-tribe.html)
-    
-    Faced with such a strange big bird, you might find yourself
-    nervously talking baby talk. Don’t do
-    that.
-    
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Malia
-    Wollan</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1samh1w e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
-    Doumbouya for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Talk
-    
-    ## [Padma Lakshmi Wants Us to Eat More Adventurously](/interactive/2020/08/03/magazine/padma-lakshmi-interview.html)
-    
-    “There’s such a laziness about reaching for the thing that is most
-    familiar.”
-    
-    <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Marchese</span></span>
     
     </div>
 
@@ -161,81 +151,58 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ### Feature
+1.  ### Screenland
     
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannah
-    Price for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Pollution Is Killing Black Americans. This Community Fought Back.](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
-    
-    African-Americans are 75 percent more likely than others to live
-    near facilities that produce hazardous waste. Can a grass-roots
-    environmental-justice movement make a
-    difference?
-    
-    <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Linda
-    Villarosa</span></span>
-    
-    </div>
-
-2.  ### Feature
-    
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moises
-    Saman/Magnum, for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-corruption/02mag-corruption-videoLarge.jpg)
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
+    illustration by Mike
+    McQuade</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-screenland/09mag-screenland-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ## [Inside the Iraqi Kleptocracy](/2020/07/29/magazine/iraq-corruption.html)
+    ## [These Republicans Have a Confession: They’re Not Voting for Trump Again](/2020/08/05/magazine/republicans-confess-against-trump.html)
     
-    Corruption, as much as violence, makes Iraq unlivable. It helped
-    fuel the rise of ISIS. And America provides the cash to sustain it,
-    at least $10 billion a year in hard
-    currency.
+    A set of voter testimonials hopes to convince Biden-curious
+    Republicans that they’re not alone.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Robert F.
-    Worth</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jason
+    Zengerle</span></span>
     
     </div>
 
-3.  ### Feature
+2.  ### Eat
     
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
-    by Daniel
-    Barreto</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-vesper-1/02mag-vesper-1-videoLarge.jpg)
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
+    Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
+    stylist: Rebecca
+    Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-eat/09mag-eat-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Mysterious Life of Birds Who Never Come Down](/2020/07/29/magazine/vesper-flights.html)
+    ## [These Rolls Will Change the Way You See Sourdough](/2020/08/05/magazine/pan-de-coco-recipe-bryan-ford.html)
     
-    Swifts spend all their time in the sky. What can their journeys tell
-    us about the
-    future?
+    The baker Bryan Ford’s pan de coco, made with coconut milk, does not
+    look like European sourdough — and that’s part of the pleasure.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Helen
-    Macdonald</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Tejal
+    Rao</span></span>
     
     </div>
 
-4.  ### The Ethicist
+3.  ### The Ethicist
     
     ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Tomi
-    Um</span>](https://static01.nyt.com/images/2020/08/02/magazine/02Ethicist/02Ethicist-videoLarge.jpg)
+    Um</span>](https://static01.nyt.com/images/2020/08/09/magazine/09Ethicist/09Ethicist-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
+    ## [Is It OK That I Haven’t Told My Parents I Was Fired?](/2020/08/04/magazine/jobs-unemployment-ethics.html)
     
-    The magazine’s Ethicist columnist on balancing workplace safety
-    against personal privacy, and
-    more.
+    The magazine’s Ethicist columnist on why it can be hard to tell
+    family you’ve lost your job, whether to collect unemployment
+    benefits and more.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
@@ -243,24 +210,37 @@ Paper](https://www.nytimes.com/section/todayspaper)
     
     </div>
 
-5.  ### Eat
+4.  ### Talk
     
-    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
-    Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
-    stylist: Rebecca
-    Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/02/magazine/02mag-eat/02mag-eat-videoLarge.jpg)
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mamadi
+    Doumbouya for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/magazine/09TALK3-mag/09TALK3-mag-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
+    ## [Padma Lakshmi Wants Us to Eat More Adventurously](/interactive/2020/08/03/magazine/padma-lakshmi-interview.html)
     
-    These crispy-silky croquettes rise to the restaurant level of
-    cooking we’ve been
-    missing.
+    “There’s such a laziness about reaching for the thing that is most
+    familiar.”
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
-    Hamilton</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Marchese</span></span>
+    
+    </div>
+
+5.  ### Issue 8.9.20
+    
+    ![<span class="css-2s0ord e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/magazine/07mag-btc-promo/07mag-btc-promo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Behind the Cover: Sweatpants Forever](/2020/08/07/magazine/behind-the-cover-sweatpants-forever.html)
+    
+    A look at the collapse of the fashion industry and the triumphant
+    rise of sweatpants.
+    
+    <span class="css-me3p27"></span>
     
     </div>
 
@@ -278,8 +258,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -320,6 +299,294 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/07/magazine/manus-island-detainees-behrouz-boochani.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09mag-boochani-07/09mag-boochani-07-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">At War</span>
+    
+    ## The Men Australia Detained in a Secretive Detention Camp
+    
+    While profiling Behrouz Boochani, the story of the detention where
+    he and others were held was underpinned by a sinister and sorrowful
+    mood that ran through every person I interviewed.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Megan K. Stack</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/magazine/afghan-war-casualty-report-august-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/magazine/06atwar-casualtyreport/merlin_175290609_5cd3519d-57a9-4bec-8411-81309525a069-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">at war</span>
+    
+    ## Afghan War Casualty Report: August 2020
+    
+    At least 42 pro-government forces and 41 civilians have been killed
+    in Afghanistan in August.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Fahim Abed</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/magazine/poem-i-want-to-speak-of-unity.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09mag-poem-1/09mag-poem-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Poem: i want to speak of unity
+    
+    A poem that testifies to the deepest parts of the American dream
+    from the times when hope was bright.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Juan Felipe Herrera <span>and</span>
+    Naomi Shihab Nye</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/magazine/judge-john-hodgman-on-walking-and-talking.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Judge John Hodgman</span>
+    
+    ## Judge John Hodgman on Walking and Talking
+    
+    Is it acceptable to stop in your tracks and laugh? What if your
+    partner doesn’t notice you’re no longer at his side?
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Judge John Hodgman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/magazine/hiroshima-nagasaki-japan-literature.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/multimedia/06ww2-bombing-ogawa-01/06ww2-bombing-ogawa-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Beyond the World War II We Know</span>
+    
+    ## How We Retain the Memory of Japan’s Atomic Bombings: Books
+    
+    Literature is a refuge we turn to when we are forced to confront
+    contradictions that lie beyond reason, writes the Japanese novelist
+    Yoko Ogawa.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Yoko Ogawa</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [日本語で読む](https://www.nytimes.com/ja/2020/08/06/magazine/atomic-bombings-japan-books-hiroshima-nagasaki.html "Read in Japanese")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/magazine/hiroshima-claude-eatherly-antinuclear.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/multimedia/06ww2-bombing-eatherly-01/06ww2-bombing-eatherly-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Beyond the World War II We Know</span>
+    
+    ## The Hiroshima Pilot Who Became a Symbol of Antinuclear Protest
+    
+    Claude Eatherly spent years punishing himself for his role in the
+    first atomic bombing. His remorse made him an international
+    celebrity.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anne I. Harrington</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/magazine/fly-casting-on-city-streets-is-weird-thats-why-i-love-it.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09LOR-mag/09LOR-mag-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Letter of Recommendation</span>
+    
+    ## Fly Casting on City Streets Is Weird. That’s Why I Love It.
+    
+    I’m desperate to find pockets of joy wherever I can. Some people
+    bake bread. I started street-casting on West 12th.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon Gluck</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/magazine/condors-yurok-tribe.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09Mag-Tip-01/09Mag-Tip-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Tip </span>
+    
+    ## How to Keep a Condor Wild
+    
+    Faced with such a strange big bird, you might find yourself
+    nervously talking baby talk. Don’t do that.
+    
+    <div class="css-1m9admi ea5icrr0">
+    
+    By <span class="css-1n7hynb">Malia Wollan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1xu41bz e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/magazine/behind-the-cover-environmental-justice.html)
     
     <div class="css-79elbk">
@@ -334,8 +601,7 @@ story](#after-mid1)
     
     A look at how Black communities shoulder a disproportionate burden
     of the nation’s pollution and how a neighborhood in Philadelphia
-    fought
-    back.
+    fought back.
     
     <div class="css-1m9admi ea5icrr0">
     
@@ -349,7 +615,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -374,297 +640,7 @@ story](#after-mid1)
     
     <div class="css-1m9admi ea5icrr0">
     
-    By <span class="css-1n7hynb">Alexis
-    Clark</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/magazine/poem-beatific.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-poem-1/02mag-poem-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Poem: Beatific
-    
-    Respect for the other whom you do not know, but with a slightest
-    stretch of mind, imagine you do. A poem that shrinks the distance
-    between us.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tracy K. Smith <span>and</span> Naomi
-    Shihab
-    Nye</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/magazine/the-strange-lure-of-other-peoples-photos.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/02/08/magazine/02mag-vernacular-photos-image/02mag-vernacular-photos-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Letter of Recommendation</span>
-    
-    ## The Strange Lure of Other People’s Photos
-    
-    When I consider all that these people lived through — world wars,
-    the Depression, epidemics with no medicine — I’m given a far longer
-    view.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Bill
-    Shapiro</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/magazine/urticaria-multiforme.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-diagnosis-1/02mag-diagnosis-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Diagnosis</span>
-    
-    ## His Face, Hands and Feet Swelled Up. What Was Going On?
-    
-    The young boy’s grandmother saw strange red lines snaking around his
-    body. Could this be an allergic reaction? A rare autoimmune disease?
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lisa Sanders,
-    M.D.</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/magazine/judge-john-hodgman-on-having-tsa-precheck-when-your-fiancee-doesnt.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Bonus Advice From Judge John Hodgman</span>
-    
-    ## Judge John Hodgman on Having TSA PreCheck When Your Fiancée Doesn’t
-    
-    Should you get extra time at the food court or go through the line
-    for regular people?
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">John
-    Hodgman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/magazine/i-may-destroy-you-hbo-michaela-coel.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-screenland-1/02mag-screenland-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Screenland</span>
-    
-    ## ‘I May Destroy You’ Is Perfect TV for an Anxious World
-    
-    The HBO drama about trauma is possibly the most emblematic show of
-    2020.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carina
-    Chocano</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/magazine/schools-reopening-covid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-studies-1/02mag-studies-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Studies Show</span>
-    
-    ## Why Is There No Consensus About Reopening Schools?
-    
-    Here’s what we know: With too many variables and too few studies,
-    schools lack the tools and data they need to balance education and
-    health.
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kim
-    Tingley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/magazine/how-to-stop-biting-your-nails.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02Mag-Tip-01/02Mag-Tip-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Tip </span>
-    
-    ## How to Stop Biting Your Nails
-    
-    Start by becoming aware of the behavior. What mood accompanies the
-    biting? Are you more likely to chew in certain rooms?
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">Malia
-    Wollan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1xu41bz e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/27/magazine/ben-jerry-interview.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/magazine/02mag-talk/02mag-talk-thumbWide-v5.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Talk</span>
-    
-    ## Ben & Jerry’s Radical Ice Cream Dreams
-    
-    “There wasn’t any other business talking about dismantling white
-    supremacy.”
-    
-    <div class="css-1m9admi ea5icrr0">
-    
-    By <span class="css-1n7hynb">David Marchese</span>
+    By <span class="css-1n7hynb">Alexis Clark</span>
     
     </div>
     
@@ -682,24 +658,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -723,8 +698,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -740,31 +714,31 @@ story](#after-mid2)
 
 <div class="issue-promo">
 
-[](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
+[](https://www.nytimes.com/issue/magazine/2020/08/07/the-8920-issue)
 
 <div class="promo-image">
 
 ![Current
-cover](https://static01.nyt.com/images/2020/08/02/magazine/02mag-cover-type/02mag-cover-type-blog480.jpg)
+cover](https://static01.nyt.com/images/2020/08/07/magazine/07mag-cover-type/07mag-cover-type-blog480.jpg)
 
 </div>
 
 <div class="promo-text">
 
-[](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
+[](https://www.nytimes.com/issue/magazine/2020/08/07/the-8920-issue)
 
-## The 8.2.20 Issue
+## The 8.9.20 Issue
 
-In this issue, Linda Villarosa on how Black Americans shoulder a
-disproprtionate burden of the nation's pollution and how a community in
-Philadelphia fought back; Helen Macdonald on what swifts, birds that
-never come down, can teach us about the future; Robert F. Worth on how
-Iraq became a kleptocracy; and more.
+In this issue, Irina Aleksander on the collapse of the fashion industry;
+Susan Dominus on the tensions between clinicians and researchers in
+deciding how to treat Covid-19; Megan K. Stack on Behrouz Boochani, who
+exposed the inhumane treatment at Australia's offshore detention camps;
+and more.
 
 [<span class="secondary-headline">Read this
-issue</span>](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
+issue</span>](https://www.nytimes.com/issue/magazine/2020/08/07/the-8920-issue)
 [<span class="secondary-headline">Read our previous
-issue</span>](https://www.nytimes.com/issue/magazine/2020/07/24/the-72620-issue)
+issue</span>](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
 [<span class="secondary-headline">See all past
 issues</span>](https://www.nytimes.com/interactive/2020/07/02/magazine/past-issues-sunday-magazine.html)
 
@@ -782,8 +756,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -800,11 +773,9 @@ story](#after-mktg)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">nytmag</span><span class="css-1dv1kvn">instagram
-    page for
-    nytmag</span>](https://instagram.com/nytmag)
+    page for nytmag</span>](https://instagram.com/nytmag)
   - [**<span data-aria-hidden="true">nytmag</span><span class="css-1dv1kvn">twitter
-    page for
-nytmag</span>](https://twitter.com/nytmag)
+    page for nytmag</span>](https://twitter.com/nytmag)
 
 </div>
 
@@ -854,8 +825,7 @@ nytmag</span>](https://twitter.com/nytmag)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

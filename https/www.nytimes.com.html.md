@@ -6,8 +6,7 @@
 
 <div class="css-142l3g4">
 
-[Continue reading the main
-story](#after-dfp-ad-top)
+[Continue reading the main story](#after-dfp-ad-top)
 
 <div class="ad dfp-ad-top-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -47,8 +46,7 @@ story](#after-dfp-ad-top)
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -84,8 +82,7 @@ index](#site-index)
 
 <div class="css-bfvq22 e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -170,8 +167,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
   - [Travel](https://www.nytimes.com/section/travel)
   - [Magazine](https://www.nytimes.com/section/magazine)
   - [T Magazine](https://www.nytimes.com/section/t-magazine)
-  - [Real
-Estate](https://www.nytimes.com/section/realestate)
+  - [Real Estate](https://www.nytimes.com/section/realestate)
   - [Video](https://www.nytimes.com/video)
 
 </div>
@@ -182,7 +178,7 @@ Estate](https://www.nytimes.com/section/realestate)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div class="css-189d5rw e6b6cmu0">
 
@@ -206,50 +202,7 @@ Estate](https://www.nytimes.com/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-square640-v2.png?quality=75&auto=webp&disable=upscale&width=350)
-
-</div>
-
-</div>
-
-[](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
-
-<div class="css-8oysku e18972d71" type="1">
-
-<div class="css-1iexn6j e1voiwgp1">
-
-## Your Wednesday Briefing
-
-</div>
-
-</div>
-
-<div class="css-8oysku e18972d71">
-
-Here’s what you need to
-know.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ydsmmq">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-geek62">
-
-<div class="css-1d537rb e18972d70" media="[object Object]">
-
-[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 
 <div class="css-1g8bx4t">
 
@@ -259,7 +212,7 @@ know.
 
 </div>
 
-[](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
@@ -273,8 +226,7 @@ know.
 
 <div class="css-8oysku e18972d71">
 
-Is America ready to vote by
-mail?
+Jack Dorsey on Twitter’s mistakes.
 
 </div>
 
@@ -292,23 +244,23 @@ mail?
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
+[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2018/03/27/books/book-review-album-art-v2/book-review-album-art-v2-square320.jpg)
+![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-square320.jpg)
 
 </div>
 
 </div>
 
-[](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
+[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## The Book Review Podcast
+## Listen to ‘Nice White Parents’
 
 </div>
 
@@ -316,8 +268,49 @@ mail?
 
 <div class="css-8oysku e18972d71">
 
-Anne Applebaum on the “seductive lure of
-authoritarianism.”
+How white parents can shape a school, even when they aren’t there.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ydsmmq">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-geek62">
+
+<div class="css-1d537rb e18972d70" media="[object Object]">
+
+[](/2020/08/07/technology/trump-tiktok-wechat.html)
+
+<div class="css-1g8bx4t">
+
+![](https://static01.nyt.com/images/2020/05/14/business/ontech-nl-icon/ontech-nl-icon-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+
+</div>
+
+</div>
+
+[](/2020/08/07/technology/trump-tiktok-wechat.html)
+
+<div class="css-8oysku e18972d71" type="1">
+
+<div class="css-1iexn6j e1voiwgp1">
+
+## ‘On Tech With Shira Ovide’
+
+</div>
+
+</div>
+
+<div class="css-8oysku e18972d71">
+
+President Trump swings against TikTok and WeChat.
 
 </div>
 
@@ -367,61 +360,32 @@ authoritarianism.”
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
-<div class="css-1aew2eb eqveam62">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/05/world/middleeast/beirut-explosion.html)
+[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>After Deadly Beirut Explosion, a Search for Answers and Survivors</span>
+## <span>Without $600 Weekly Benefit, Unemployed Face Bleak Choices</span>
 
 </div>
 
-  - A blast in the Lebanese capital, so powerful that it could be felt
-    more than 150 miles away, killed more than 100 people and injured
-    more than 4,000.
-  - Officials believe the explosion was caused by the detonation of more
-    than 2,700 tons of ammonium nitrate stored in a warehouse at the
-    port.
-  - Rescue workers were digging through the rubble searching for
-    survivors, while dozens were listed as missing. Here’s the
-latest.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/05/world/middleeast/beirut-explosion-what-happened.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Here is a look at what we know and don’t know about the explosions.
-
-</div>
+  - A federal supplement to jobless pay was a lifeline for millions and
+    for the economy. Its cutoff, even if temporary, may have lasting
+    consequences.
+  - For many of the 30 million Americans relying on unemployment
+    benefits, it could already be too late to prevent lasting financial
+    harm.
 
 <div>
 
@@ -439,45 +403,19 @@ latest.
 
 </div>
 
-</div>
-
-<div class="css-1mnngwr eqveam60">
+<div class="css-1mg0d7i eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
-<div class="css-1ee8y2t assetWrapper">
-
-<div>
-
-<div class="css-1xaqcky">
-
-[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-threeByTwoMediumAt2X-v3.jpg?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-</div>
-
-<div class="css-1nl6p6m">
-
-[](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Mapping the Damage From the Beirut Explosions
-
-</div>
-
-A shockwave raced from the city’s industrial waterfront into densely
-populated residential neighborhoods and shopping districts
-downtown.
-
-<div>
-
-<div class="css-na047m">
+![Since her recent eviction, Latrish Oseko and her daughter have been
+staying at a Delaware hotel. She said she was following the debate over
+emergency relief, wondering, “Is there going to be hope for me?”
+<span class="credit">Hannah Yoon for The New York
+Times</span>](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1c/00virus-cliff1c-threeByTwoMediumAt2X-v2.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -487,17 +425,13 @@ downtown.
 
 </div>
 
-</div>
+<div class="css-1qiat4j eqveam63">
 
-</div>
+<div class="css-65h9d3 eqveam60">
 
-</div>
+<div class="css-1qj0wac eqveam61">
 
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
+<div class="css-1rufx8u">
 
 <div class="css-1qiat4j eqveam63">
 
@@ -505,22 +439,20 @@ downtown.
 
 <div class="css-1qj0wac eqveam61">
 
-<div class="css-1aew2eb eqveam62">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/us/politics/kobach-tlaib.html)
+[](/2020/08/07/business/economy/housing-economy-eviction-renters.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries</span>
+## Millions of Households at Risk of Eviction as Government Support Ends
 
 </div>
 
-G.O.P. leaders had worried that if Mr. Kobach, a polarizing figure, were
-victorious, he would jeopardize the seat in the general election.
+Without more federal aid for workers, experts are expecting the largest
+disruption to the housing market since the Depression.
 
 <div>
 
@@ -537,316 +469,69 @@ victorious, he would jeopardize the seat in the general election.
 </div>
 
 </div>
-
-</div>
-
-<div class="css-1mnngwr eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1qiat4j eqveam63">
 
 <div class="css-ws86q6 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
-[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/us/politics/trump-congress-stimulus.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Trump Threatens to Bypass Congress as Stimulus Talks Fail Again
+
+</div>
+
+Democrats called the talks “disappointing,” and President Trump said he
+would use executive orders to provide relief if no agreement could be
+reached.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-8sc6z0 eqveam60">
+
+<div class="css-14dkh1l eqveam61">
+
+<div class="css-1mnef8e" data-aria-hidden="true">
+
+[](/2020/08/08/business/economy/lost-unemployment-benefits.html)
 
 <div class="css-1g8bx4t">
 
-![If elected to the House in November, Cori Bush would be the first
-Black woman to represent Missouri in Congress. 
-<span class="credit">Michael B. Thomas/Getty
-Images</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
+<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+
+Since her recent eviction, Latrish Oseko and her daughter have been
+staying at a Delaware hotel. She said she was following the debate over
+emergency relief, wondering, “Is there going to be hope for me?”
+<span class="credit">Hannah Yoon for The New York Times</span>
 
 </div>
-
-</div>
-
-</div>
-
-<div class="css-nmg095 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
-
-</div>
-
-The upset of the veteran congressman from St. Louis sent tremors though
-the Democratic establishment in Missouri and Washington,
-D.C.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## After six weeks of delays, New York City confirmed results in a pair of congressional primaries.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1aew2eb eqveam62">
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/world/coronavirus-cases.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>McConnell Signals Openness to Accepting Jobless Aid Extension</span>
-
-</div>
-
-  - As talks on coronavirus assistance drag on, Senator Mitch McConnell
-    seemed open to reversing course on extending the payments, which
-    Republicans have opposed.
-  - Two preliminary studies of an experimental vaccine yielded
-    encouraging results, the Maryland-based company Novavax announced.
-    Here’s the
-latest.
-
-<div class="css-1slnf6i">
-
-<div class="css-na047m">
-
-<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/images/2020/08/04/reader-center/04virus-hp-fader-nashville/merlin_175315365_1ed7972d-297f-4a7e-acbd-ae38d2584a47-videoLarge.jpg)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-bs48m0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
-
-</div>
-
-The trip by Alex Azar, a rare high-level U.S. visit, is being billed as
-an opportunity to highlight the island’s success in battling the
-pandemic.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-bs48m0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/health/trump-plasma.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## As Trump Praises Plasma, Researchers Struggle to Finish Critical Studies
-
-</div>
-
-Thousands of Covid-19 patients have been treated with blood plasma
-outside of clinical trials — hampering research that could prove whether
-it
-works.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained</span>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
-
-A decision to put Mr. Uribe under house arrest could be a turning point
-in a nation used to seeing powerful politicians avoid
-prosecution.
-
-<div>
-
-<div class="css-na047m">
 
 </div>
 
@@ -876,17 +561,17 @@ prosecution.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/nyregion/isaias-ny.html)
+[](/2020/08/08/magazine/us-russia-intelligence.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area</span>
+## <span>Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies</span>
 
 </div>
 
-The storm that tore through New York City was second only to Hurricane
-Sandy in knocking out service to Con Edison
-customers.
+Last year, intelligence officials gathered to write a classified report
+on Russia’s interest in the 2020 election. Our investigation uncovered
+what happened next.
 
 <div>
 
@@ -908,17 +593,14 @@ customers.
 
 <div class="css-pwtn0q eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/nyregion/isaias-ny.html)
+[](/2020/08/08/magazine/us-russia-intelligence.html)
 
 <div class="css-1g8bx4t">
 
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:177.77777777777777px">
-
-</div>
+![<span class="credit">Doug Mills/The New York
+Times</span>](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-threeByTwoSmallAt2X.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -926,25 +608,29 @@ customers.
 
 </div>
 
-</div>
-
-<div class="css-nmg095 eqveam60">
+<div class="css-778gjy eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
-<div data-aria-hidden="true">
+<div class="css-1ee8y2t assetWrapper">
 
-[](/2020/08/04/nyregion/isaias-ny.html)
+<div class="css-6p6lnl">
 
-<div class="css-1g8bx4t">
+[](/2020/08/08/us/politics/trump-russia.html)
 
-<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+<div class="css-debyuq e1voiwgp1">
 
-Workers removed tree limbs that fell on a car in Queens, killing a
-passenger. <span class="credit">Johnny Milano for The New York
-Times</span>
+## President Trump, Russia and an intelligence document: Here are the key takeaways.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -956,11 +642,11 @@ Times</span>
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/us/hurricane-isaias-updates.html)
+[](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Isaias pounded the Atlantic Coast with wind and rain, flooding communities and spawning tornadoes along its path.
+## Russia continues to meddle in the election to aid President Trump, intelligence officials said.
 
 </div>
 
@@ -988,11 +674,511 @@ Times</span>
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
+<div class="css-1aew2eb eqveam62">
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>When Covid-19 Hit, Many Elderly Were Left to Die</span>
+
+</div>
+
+Warnings had piled up for years that nursing homes were vulnerable. The
+pandemic sent them to the back of the line for equipment and care.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
+
+<div class="css-1g8bx4t">
+
+![<span class="credit">Mauricio Lima for The New York
+Times</span>](https://static01.nyt.com/images/2020/08/03/world/00virus-nursinghomes-promo/00virus-nursinghomes-threeByTwoMediumAt2X.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/world/coronavirus-updates.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1rczz1p">
+
+LIVE
+
+</div>
+
+## Racial Disparities Found in Related Illness in Children
+
+</div>
+
+An inflammatory syndrome connected to Covid-19 has disproportionately
+affected communities of color, a C.D.C. study showed. Here’s the latest.
+
+<div class="css-1slnf6i">
+
+<div class="css-na047m">
+
+<span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-bs48m0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/health/coronavirus-immune-cells.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## The Coronavirus Is New, but Your Immune System Might Recognize It
+
+</div>
+
+Some people carry immune cells called T cells that can capitalize on the
+virus’s resemblance to other members of its family tree.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1g8bx4t">
 
 <div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-96x60l eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>Chris Dodd, an Insider From Biden’s Past, Is Helping Him Pick His Future</span>
+
+</div>
+
+While trying to win progressive voters, Joe Biden has empowered a
+Washington veteran long trailed by allegations of personal and financial
+indiscretion.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-96x60l eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How.
+
+</div>
+
+President Trump has called for a payment to the Treasury if a Chinese
+company sells the app to Microsoft. There is no provision in the law for
+that.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/trump-biden-polls-interview.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Here’s what happened in the 2020 race this week.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>As Lebanon Reels, Long-Awaited Assassination Verdicts Loom</span>
+
+</div>
+
+Almost no one is expecting the full truth about the massacre of the
+country’s former prime minister and his entourage in a bombing in 2005.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-pwtn0q eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:177.77777777777777px">
+
+</div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+
+The crater left by the bombing that targeted the motorcade of former
+Prime Minister Rafik Hariri in Beirut, Lebanon, in 2005.
+<span class="credit">Associated Press</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
+
+</div>
+
+The explosive material responsible for the blast in Beirut was carried
+there by the ailing cargo ship Rhosus in 2013. Here’s what happened
+next.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/briefing/best-weekend-reads.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>11 of Our Best Weekend Reads</span>
+
+</div>
+
+The kindness of strangers in Beirut. 75 years since the atomic bombings.
+Burna Boy’s Afro-fusion music. And more.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/interactive/2020/08/07/briefing/beirut-tiktok-census-bureau-news-quiz.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Did you follow the headlines this week? Take our quiz.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/briefing/best-weekend-reads.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:480px">
+
+</div>
+
+</div>
+
+<div class="css-e4gm3y">
+
+</div>
+
+</div>
 
 </div>
 
@@ -1026,14 +1212,7 @@ Times</span>
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
-
-<div class="css-dcl9ft">
-
-![Charlie
-Warzel](https://static01.nyt.com/images/2019/03/15/opinion/charlie-warzel/charlie-warzel-thumbLarge-v3.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1041,18 +1220,17 @@ Warzel](https://static01.nyt.com/images/2019/03/15/opinion/charlie-warzel/charli
 
 <div class="css-1dvlumo e18df3gd0">
 
-Charlie Warzel
+Michael T. Osterholm and Neel Kashkari
 
 </div>
 
 </div>
 
-## How QAnon Creates a Dangerous Alternate Reality
+## Here’s How to Crush the Virus Until Vaccines Arrive
 
 </div>
 
-Game designer Adrian Hon says QAnon parallels the immersive worlds of
-alternate reality games.
+To save lives, and save the economy, we need another lockdown.
 
 <div>
 
@@ -1078,7 +1256,14 @@ alternate reality games.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
+
+<div class="css-dcl9ft">
+
+![Maureen
+Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1086,19 +1271,18 @@ alternate reality games.
 
 <div class="css-1dvlumo e18df3gd0">
 
-The Editorial Board
+Maureen Dowd
 
 </div>
 
 </div>
 
-## New York Needs Less Bickering, More Teamwork
+## No Wrist Corsages, Please
 
 </div>
 
-Residents are nervous and exhausted. It’s not too much to ask for a
-unified leadership from the mayor and the
-governor.
+Has America grown since 1984, or will the knives still be out for
+Biden’s running mate?
 
 <div>
 
@@ -1116,11 +1300,11 @@ governor.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-square640-v3.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1142,7 +1326,132 @@ governor.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/trump-2020-electoral-college.html)
+[](/2020/08/07/opinion/latina-women-politics.html)
+
+<div class="css-dcl9ft">
+
+![Jorge
+Ramos](https://static01.nyt.com/images/2019/11/08/opinion/jorge-ramos/jorege-ramos-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Jorge Ramos
+
+</div>
+
+</div>
+
+## What Sonia Sotomayor Told a 10-Year-Old Girl
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
+
+<div class="css-dcl9ft">
+
+![David
+Brooks](https://static01.nyt.com/images/2018/04/03/opinion/david-brooks/david-brooks-thumbLarge-v2.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+David Brooks
+
+</div>
+
+</div>
+
+## Where Do Republicans Go From Here?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ron Haviv
+
+</div>
+
+</div>
+
+## Could This Be the Last Time We See Our Dad?
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/beirut-explosion.html)
+
+<div class="css-dcl9ft">
+
+![Roger
+Cohen](https://static01.nyt.com/images/2014/11/01/opinion/cohen-circular/cohen-circular-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Roger Cohen
+
+</div>
+
+</div>
+
+## Beirut on the Potomac
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/opinion/trump-2020-census.html)
 
 <div class="css-dcl9ft">
 
@@ -1163,7 +1472,7 @@ Jamelle Bouie
 
 </div>
 
-## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+## Trump and His Allies Think They Know Who Counts
 
 </div>
 
@@ -1175,12 +1484,12 @@ Jamelle Bouie
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/gin-tonic-summer-drink.html)
+[](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
 
 <div class="css-dcl9ft">
 
-![Jennifer Finney
-Boylan](https://static01.nyt.com/images/2011/08/04/opinion/BOYLAN_NEW/BOYLAN_NEW-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
+![Josephine
+Wolff](https://static01.nyt.com/images/2020/01/07/opinion/josephine-wolff/josephine-wolff-thumbLarge.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1190,13 +1499,13 @@ Boylan](https://static01.nyt.com/images/2011/08/04/opinion/BOYLAN_NEW/BOYLAN_NEW
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Jennifer Finney Boylan
+Josephine Wolff
 
 </div>
 
 </div>
 
-## The Doggiest Days of Summer Demand Gin and Tonics
+## So What Does Trump Have Against TikTok?
 
 </div>
 
@@ -1208,116 +1517,12 @@ Jennifer Finney Boylan
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/tiktok-microsoft-trump.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Greg Bensinger
-
-</div>
-
-</div>
-
-## Is Microsoft Sure It Wants to Buy TikTok?
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/us-monuments-rome-unknown-god.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ed Simon
-
-</div>
-
-</div>
-
-## Jefferson, Lee or Douglass. It Matters Who Is Preserved in Bronze.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-The Editorial Board
-
-</div>
-
-</div>
-
-## No Relief Bill, No Vacation
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/covid-rural-hospitals.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Daniela J. Lamas
-
-</div>
-
-</div>
-
-## ‘If I Hadn’t Been Transferred, I Would Have Died’
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/04/opinion/trump-republicans-tea-party.html)
+[](/2020/08/06/opinion/coronavirus-us-recession.html)
 
 <div class="css-dcl9ft">
 
-![Ross
-Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+![Paul
+Krugman](https://static01.nyt.com/images/2018/04/02/opinion/paul-krugman/paul-krugman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1327,13 +1532,13 @@ Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-do
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Ross Douthat
+Paul Krugman
 
 </div>
 
 </div>
 
-## Republicans Are Ready for the Don Draper Method
+## Coming Next: The Greater Recession
 
 </div>
 
@@ -1345,12 +1550,12 @@ Ross Douthat
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+[](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
 
 <div class="css-dcl9ft">
 
-![Tim
-Wu](https://static01.nyt.com/images/2017/04/05/opinion/tim-wu/tim-wu-thumbLarge-v4.jpg?quality=75&auto=webp&disable=upscale)
+![Elizabeth
+Bruenig](https://static01.nyt.com/images/2020/01/24/opinion/elizabeth-bruenig/elizabeth-bruenig-thumbLarge.png?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -1360,14 +1565,13 @@ Wu](https://static01.nyt.com/images/2017/04/05/opinion/tim-wu/tim-wu-thumbLarge-
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Tim
-Wu
+Elizabeth Bruenig
 
 </div>
 
 </div>
 
-## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
+## Why Won’t More White Christians Say Black Lives Matter?
 
 </div>
 
@@ -1379,22 +1583,11 @@ Wu
 
 <div class="css-6p6lnl">
 
-[](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+[](/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Daniel
-Hunter
-
-</div>
-
-</div>
-
-## Don’t Believe the Lie That Voting Is All You Can Do
+## He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
 
 </div>
 
@@ -1428,13 +1621,13 @@ Hunter
 
 <div class="css-1xaqcky">
 
-[](/2020/08/04/style/college-coronavirus-hoax.html)
+[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 
 <div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:480px">
+<div data-testid="lazyimage-container" style="height:480.47999999999996px">
 
 </div>
 
@@ -1442,8 +1635,7 @@ Hunter
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">Lane Turner/The Boston Globe, via Getty
-Images</span>
+<span class="credit">via The Metropolitan Museum of Art</span>
 
 </div>
 
@@ -1453,15 +1645,16 @@ Images</span>
 
 <div class="css-1nl6p6m">
 
-[](/2020/08/04/style/college-coronavirus-hoax.html)
+[](/interactive/2020/08/07/arts/design/hokusai-fuji.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>The Anonymous Professor Who Wasn’t</span>
+## <span>A Picture of Change for a World in Constant Motion</span>
 
 </div>
 
-A professor at Arizona State University does not exist.
+Here’s what a masterpiece of Japanese printmaking teaches us about the
+way images circulate.
 
 <div>
 
@@ -1493,16 +1686,15 @@ A professor at Arizona State University does not exist.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+[](/2020/08/07/style/coronavirus-nyc-historic-season.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## How to Think Like an Epidemiologist
+## A Season of Grief and Release
 
 </div>
 
-Don’t worry, a little Bayesian analysis won’t hurt
-you.
+This photographic timeline shows a historic half-year in New York City.
 
 <div>
 
@@ -1520,7 +1712,7 @@ you.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/science/coronavirus-bayes-statistics-math.html)
+[](/2020/08/07/style/coronavirus-nyc-historic-season.html)
 
 <div class="css-1g8bx4t">
 
@@ -1554,17 +1746,16 @@ you.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review-luster-raven-leilani.html)
+[](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## In ‘Luster,’ a Woman Moves in With Her Lover … and His Family
+## The Weird, Disturbing (and Comforting) Return of Pro Sports
 
 </div>
 
-Our critic weighs in on Raven Leilani’s highly anticipated debut novel,
-which has won praise for its boldness, humor and frank depictions of
-sex.
+The swirl of conflicting emotions about the return of sports, and
+whether it will last, seems apt for these turbulent times.
 
 <div>
 
@@ -1582,7 +1773,7 @@ sex.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review-luster-raven-leilani.html)
+[](/2020/08/07/sports/coronavirus-restart-nba-baseball.html)
 
 <div class="css-1g8bx4t">
 
@@ -1628,8 +1819,7 @@ sex.
 
 ### Advertisement
 
-[Continue reading the main
-story](#after-dfp-ad-mid1-large)
+[Continue reading the main story](#after-dfp-ad-mid1-large)
 
 <div id="dfp-ad-mid1-large" class="ad dfp-ad-mid1-large-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1693,8 +1883,7 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

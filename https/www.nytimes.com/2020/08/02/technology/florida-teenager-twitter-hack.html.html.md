@@ -10,7 +10,7 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -44,7 +44,7 @@ Path</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -101,8 +101,7 @@ company.</span>](https://static01.nyt.com/images/2020/08/02/business/02twitterte
 
 <span class="css-1dv1kvn">Sections</span>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -145,8 +144,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -181,8 +179,7 @@ Browning</span>](https://www.nytimes.com/by/kellen-browning)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 2, 2020Updated Aug. 4,
-    2020
+    Published Aug. 2, 2020Updated Aug. 4, 2020
     
     </div>
 
@@ -190,7 +187,7 @@ Browning</span>](https://www.nytimes.com/by/kellen-browning)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -349,8 +346,7 @@ their characters.
 One tactic used by Mr. Clark was appearing to sell desirable user names
 for Minecraft and then not actually providing the buyer with that user
 name. He also offered to sell the capes for Minecraft characters, but
-sometimes vanished after other players sent him
-money.
+sometimes vanished after other players sent him money.
 
 </div>
 
@@ -554,8 +550,7 @@ For help, Mr. Clark found accomplices on OGUsers, according to the
 charging documents. The accomplices offered to broker the sale of
 Twitter accounts that had cool user names, like @w, while Mr. Clark
 would enter Twitter’s systems and change ownership of the accounts,
-according to the filings and accounts from the
-accomplices.
+according to the filings and accounts from the accomplices.
 
 </div>
 
@@ -657,8 +652,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -702,8 +696,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

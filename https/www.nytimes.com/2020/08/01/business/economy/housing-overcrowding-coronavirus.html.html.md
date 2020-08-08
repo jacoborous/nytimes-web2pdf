@@ -10,7 +10,7 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -21,8 +21,7 @@
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Economy](/section/business/economy)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">12
-People in a 3-Bedroom House, Then the Virus Entered the
-Equation</span>
+People in a 3-Bedroom House, Then the Virus Entered the Equation</span>
 
 </div>
 
@@ -44,7 +43,7 @@ Equation</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -84,14 +83,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -176,8 +175,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -216,8 +214,7 @@ Dougherty</span>](https://www.nytimes.com/by/conor-dougherty)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 1, 2020Updated Aug. 2,
-    2020
+    Published Aug. 1, 2020Updated Aug. 2, 2020
     
     </div>
 
@@ -225,7 +222,7 @@ Dougherty</span>](https://www.nytimes.com/by/conor-dougherty)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -301,8 +298,7 @@ underlies it. To offset rising rents in a nation where [one in four
 tenant
 households](https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Americas_Rental_Housing_2020.pdf)
 spend more than half of their pretax income on shelter, a multitude of
-low-wage service workers have piled into ever more crowded
-homes.
+low-wage service workers have piled into ever more crowded homes.
 
 </div>
 
@@ -328,8 +324,7 @@ homes.
 sitting outside Karla Lorenzo’s home to disinfect. She confined herself
 to the closet for days to avoid spreading the virus to her
 children.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Brian
-L. Frank for The New York
-Times</span></span>
+L. Frank for The New York Times</span></span>
 
 <div class="css-1xdhyk6 erfvjey0">
 
@@ -414,8 +409,7 @@ conditions that make it so easy to spread the virus.
 home or facing eviction for not being able to make rent,” said Nazanin
 Salehi, a lawyer with the nonprofit group Community Legal Services in
 East Palo Alto. “No matter what they decide, the risk is more exposure
-to this
-virus.”
+to this virus.”
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -429,7 +423,7 @@ virus.”
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -437,43 +431,43 @@ virus.”
 
 <div class="briefing-block-update-time">
 
-[8h
-ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
+[15h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
 
 <div>
 
-[The Chicago Fed president says it’s up to Congress to save the
-economy.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
+[Wealthy families are throwing a lifeline to distressed
+businesses.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[9h
-ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
+[16h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
 
 <div>
 
-[F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737
-Max.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
+[The publisher of The Onion, Jezebel and other websites lays off 15
+employees.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[11h
-ago](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
+[21h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>
 
 <div>
 
-[Small businesses got emergency loans, but not what they
-expected.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
+[Canada outlines its response to the new U.S. aluminum
+tariff.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>
 
@@ -484,14 +478,14 @@ expected.](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-c
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -513,7 +507,7 @@ updates](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-cor
 
 </div>
 
-<div id="overcrowded" class="section interactive-content interactive-size-scoop css-174j8de" data-id="100000007268069">
+<div id="overcrowded" class="section interactive-content interactive-size-scoop css-174j8de">
 
 <div class="css-17ih8de interactive-body" data-sourceid="100000007268069">
 
@@ -529,16 +523,14 @@ updates](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-cor
 
 <div id="g-ai0-1" class="g-text g-aiAbs g-aiPointText" style="top:1.8452%;margin-top:-8.8px;left:0%;width:200px;">
 
-Residential
-overcrowding
+Residential overcrowding
 
 </div>
 
 <div id="g-ai0-2" class="g-text g-aiAbs" style="top:5.4743%;left:0%;width:81.791%;">
 
 Share of housing units within each census tract with more than one
-person per
-room
+person per room
 
 </div>
 
@@ -606,8 +598,7 @@ Francisco
 
 <div id="g-ai0-13" class="g-2d_labels_335 g-aiAbs g-aiPointText" style="top:36.7812%;margin-top:-5.7px;left:50.2606%;margin-left:-37.5px;width:75px;">
 
-San
-Leandro
+San Leandro
 
 </div>
 
@@ -619,8 +610,7 @@ Pleasanton
 
 <div id="g-ai0-15" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:45.9482%;margin-top:-6.2px;left:14.8866%;margin-left:-37.5px;width:75px;">
 
-San
-Bruno
+San Bruno
 
 </div>
 
@@ -638,8 +628,7 @@ Hillsborough
 
 <div id="g-ai0-18" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:56.0483%;margin-top:-6.2px;left:31.7609%;margin-left:-39px;width:78px;">
 
-San
-Mateo
+San Mateo
 
 </div>
 
@@ -653,8 +642,7 @@ City
 
 <div id="g-ai0-20" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:65.5295%;margin-top:-12.2px;left:55.3635%;margin-left:-34.5px;width:69px;">
 
-East
-Palo
+East Palo
 
 Alto
 
@@ -662,8 +650,7 @@ Alto
 
 <div id="g-ai0-21" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:66.1612%;margin-top:-12.2px;left:10.6553%;margin-left:-37px;width:74px;">
 
-Half
-Moon
+Half Moon
 
 Bay
 
@@ -677,8 +664,7 @@ Fremont
 
 <div id="g-ai0-23" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:69.9511%;margin-top:-6.2px;left:56.5225%;margin-left:-33px;width:66px;">
 
-Palo
-Alto
+Palo Alto
 
 </div>
 
@@ -734,8 +720,7 @@ Highways
 
 <div id="g-ai0-31" class="g-1st_lables_335 g-aiAbs g-aiPointText" style="top:96.6911%;margin-top:-6.2px;left:74.5425%;margin-left:-36px;width:72px;">
 
-Los
-Gatos
+Los Gatos
 
 </div>
 
@@ -780,22 +765,19 @@ Francisco
 <div id="g-ai1-5" class="g-text g-aiAbs" style="top:7.8854%;left:0%;width:17%;">
 
 Share of housing units within each census tract with more than one
-person per
-room
+person per room
 
 </div>
 
 <div id="g-ai1-6" class="g-2d_labels g-aiAbs g-aiPointText" style="top:17.9302%;margin-top:-6.2px;left:59.5358%;margin-left:-43px;width:86px;">
 
-San
-Leandro
+San Leandro
 
 </div>
 
 <div id="g-ai1-7" class="g-1st_lables g-aiAbs g-aiPointText" style="top:22.7384%;margin-top:-6.2px;left:24.8113%;margin-left:-33px;width:66px;">
 
-Daly
-City
+Daly City
 
 </div>
 
@@ -825,8 +807,7 @@ Hayward
 
 <div id="g-ai1-12" class="g-1st_lables g-aiAbs g-aiPointText" style="top:30.2391%;margin-top:-6.2px;left:31.2778%;margin-left:-37.5px;width:75px;">
 
-San
-Bruno
+San Bruno
 
 </div>
 
@@ -844,8 +825,7 @@ Hillsborough
 
 <div id="g-ai1-15" class="g-1st_lables g-aiAbs g-aiPointText" style="top:43.2155%;margin-top:-6.7px;left:44.7437%;margin-left:-39px;width:78px;">
 
-San
-Mateo
+San Mateo
 
 </div>
 
@@ -875,8 +855,7 @@ Bay
 
 <div id="g-ai1-19" class="g-1st_lables g-aiAbs g-aiPointText" style="top:55.434%;margin-top:-12.2px;left:63.5663%;margin-left:-34.5px;width:69px;">
 
-East
-Palo
+East Palo
 
 Alto
 
@@ -890,8 +869,7 @@ Fremont
 
 <div id="g-ai1-21" class="g-1st_lables g-aiAbs g-aiPointText" style="top:61.5884%;margin-top:-6.2px;left:63.3919%;margin-left:-33px;width:66px;">
 
-Palo
-Alto
+Palo Alto
 
 </div>
 
@@ -1068,8 +1046,7 @@ between a commute and space. It is just that the choices for poorer
 workers are more extreme, like [a three-hour
 commute](https://www.nytimes.com/2017/08/17/business/economy/san-francisco-commute.html)
 from cities like Stockton or huddling together in homes where nearly
-every space is the site of someone’s
-bed.
+every space is the site of someone’s bed.
 
 </div>
 
@@ -1094,8 +1071,7 @@ bed.
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Hillsborough
 is one of the wealthy towns near Silicon Valley with demand for service
 work.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Jim
-McAuley for The New York
-Times</span></span>
+McAuley for The New York Times</span></span>
 
 <div class="css-1xdhyk6 erfvjey0">
 
@@ -1306,8 +1282,7 @@ Days of deep cleaning ensued. Ms. Lorenzo, back to health, is wondering
 when the world will return to some semblance of normality. Yet she feels
 lucky that things are not worse, because she thought her partner was
 going to die. “We are trying to cope with it,” she said. “Trying to
-leave everything in the
-past.”
+leave everything in the past.”
 
 ## Crowding vs. Density
 
@@ -1426,8 +1401,7 @@ Coalition](https://reports.nlihc.org/sites/default/files/gap/Gap-Report_2019.pdf
 
 In April of last year, The Neighborhood Developers opened a five-story
 building with 34 apartments for homeless and low-income families. It
-received 3,598
-applications.
+received 3,598 applications.
 
 ## Rent Is Due
 
@@ -1545,8 +1519,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1590,8 +1563,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

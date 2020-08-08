@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">What
-the Twitter Hack Revealed: An Election System Teeming With
-Risks</span>
+the Twitter Hack Revealed: An Election System Teeming With Risks</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Risks</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -154,7 +151,20 @@ Risks</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Tennessee
+    Results](https://www.nytimes.com/interactive/2020/08/06/us/elections/results-tennessee-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -168,32 +178,6 @@ Risks</span>
     
     [Biden’s V.P.
     Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Map of
-    Donations](https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Delegate
-    Count](https://www.nytimes.com/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -241,8 +225,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -268,8 +251,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -349,8 +331,7 @@ Corasaniti</span>](https://www.nytimes.com/by/nick-corasaniti)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 16,
-    2020
+    July 16, 2020
     
     </div>
 
@@ -358,7 +339,7 @@ Corasaniti</span>](https://www.nytimes.com/by/nick-corasaniti)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -458,8 +439,8 @@ who is telling the truth, blue check or no blue check. The disruption
 revealed that the social media platform favored by the president — one
 that the [federal courts concluded a year ago is a conduit for official
 messages about national
-policy](https://www.nytimes.com/2019/07/09/us/politics/trump-twitter-first-amendment.html)—
-was as vulnerable, in its own way, as the aging registration databases
+policy](https://www.nytimes.com/2019/07/09/us/politics/trump-twitter-first-amendment.html)
+— was as vulnerable, in its own way, as the aging registration databases
 that Russian intelligence invaded four years ago in Arizona, Illinois
 and other states.
 
@@ -479,8 +460,7 @@ Investigators are still trying to determine if the hackers tricked a
 Twitter employee into handing over login information. Twitter suggested
 on Wednesday that the hackers had used “social engineering,” a strategy
 to gain passwords or other personal information by posing as a trusted
-person like a company
-representative.
+person like a company representative.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -489,40 +469,6 @@ representative.
 <div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
 
 <div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-01T01:26:45.732Z
-
-</div>
-
-</div>
-
-  - [Kamala Harris, a top vice-presidential contender, confronts double
-    standards.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-29fdff45)
-  - [Karen Bass and Susan Rice are rising on Biden’s vice-presidential
-    shortlist.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-13ec3d9c)
-  - [Trump says Russian bounties to kill U.S. troops ‘never took
-    place.’](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-49e9a016)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -729,8 +675,7 @@ information on American citizens by a foreign adversary.”
 But Twitter is an American company — no one is going to ban it — and
 it’s the way that Mr. Meadows’s boss communicates with his
 constituents and, often, with his own government. The question is
-whether its security flaws can be fixed in the next 16
-weeks.
+whether its security flaws can be fixed in the next 16 weeks.
 
 </div>
 
@@ -774,7 +719,7 @@ weeks.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 7, 2020
 
   - 
     
@@ -782,10 +727,11 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - [Russia is using a range of techniques to denigrate Joe
+        Biden](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        American intelligence officials said, declaring that Moscow
+        continues to try to interfere in the 2020 campaign to help
+        President Trump.
 
   - 
     
@@ -844,8 +790,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -889,8 +834,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

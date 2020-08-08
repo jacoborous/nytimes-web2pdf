@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Technology](/section/technology)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Don’t
-Ban TikTok. Make an Example of
-It.</span>
+Ban TikTok. Make an Example of It.</span>
 
 </div>
 
@@ -106,7 +103,7 @@ It.</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -143,8 +140,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -170,8 +166,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -242,8 +237,7 @@ Roose</span>](https://www.nytimes.com/by/kevin-roose)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 26, 2020Updated July 27,
-    2020
+    Published July 26, 2020Updated Aug. 7, 2020
     
     </div>
 
@@ -251,7 +245,7 @@ Roose</span>](https://www.nytimes.com/by/kevin-roose)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -284,9 +278,11 @@ Roose</span>](https://www.nytimes.com/by/kevin-roose)
 
 <div class="css-53u6y8">
 
-For a while, it seemed that TikTok might dodge the techlash. After all,
-what could be problematic about a short-form video app featuring a bunch
-of teenagers and 20-somethings doing [choreographed
+For a while, it seemed that
+[TikTok](https://www.nytimes.com/2020/08/07/nyregion/tiktok-manslaughter-new-jersey.html)
+might dodge the techlash. After all, what could be problematic about a
+short-form video app featuring a bunch of teenagers and 20-somethings
+doing [choreographed
 dances](https://www.nytimes.com/2020/02/13/style/the-original-renegade.html),
 [roller
 skating](https://www.buzzfeednews.com/article/laurenstrapagiel/roller-skating-is-back-tiktok-ana-coto),
@@ -313,8 +309,9 @@ to sabotage President Trump’s rally in Tulsa, Okla., last month by
 registering for tickets under false identities.
 
 All of this might have been overlooked or forgiven, except for one fact.
-TikTok is owned by ByteDance, one of the largest tech companies in
-China.
+[TikTok is owned by
+ByteDance](https://www.nytimes.com/2020/08/03/technology/tiktok-trump-sale-microsoft.html),
+one of the largest tech companies in China.
 
 TikTok’s Chinese ownership has become a subject of intense scrutiny by
 lawmakers, regulators and privacy activists in recent weeks. Mr. Trump
@@ -616,8 +613,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -661,8 +657,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

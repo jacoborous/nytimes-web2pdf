@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -67,7 +66,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -148,8 +145,7 @@ story](#after-sponsor)
 </div>
 
 1.  [Wine, Beer & Cocktails](/section/food/drinks)
-2.  [Restaurant
-Reviews](/reviews/dining)
+2.  [Restaurant Reviews](/reviews/dining)
 
 <div class="css-6knu33 eoqylgt0">
 
@@ -159,7 +155,7 @@ Reviews](/reviews/dining)
 
 <div style="max-width:100%;margin:0 auto">
 
-<div class="css-191iepd" data-id="100000005404864" data-slug="cooking-search" style="max-width:1050px">
+<div id="100000005404864" class="css-191iepd" data-slug="cooking-search" style="max-width:1050px">
 
 </div>
 
@@ -179,25 +175,123 @@ Reviews](/reviews/dining)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ryan
-    Garcia</span>](https://static01.nyt.com/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-jumbo.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beatriz
+    Da Costa for The New York Times. Food Stylist: Frances
+    Boswell.</span>](https://static01.nyt.com/images/2020/08/12/dining/07appe1/merlin_175265544_71f27c9f-87a3-4237-86a7-177fb2569860-threeByTwoMediumAt2X.jpg)
     
-    <div class="css-srgkhl">
+    <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-thumbStandard.jpg)](/2020/08/04/dining/chef-restaurant-culture.html)
+    [![](https://static01.nyt.com/images/2020/08/12/dining/07appe1/07appe1-thumbStandard.jpg)](/2020/08/07/dining/eggplant-focaccia-recipe.html)
     
     </div>
     
-    ### critic’s Notebook
+    ### A Good Appetite
+    
+    ## [This One Is for the Focaccia Lovers](/2020/08/07/dining/eggplant-focaccia-recipe.html)
+    
+    Lighter and fresher than pizza, this crisp-edged flatbread is also a
+    celebration of summer eggplant.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Melissa
+    Clark</span></span>
+    
+    </div>
+
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nik
+        Sharma for The New York Times (Photography and
+        Styling)</span>](https://static01.nyt.com/images/2020/08/12/dining/07Tamarind1/merlin_174769830_439b45c6-cd55-403b-a4b9-a444b9d1f3ac-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/12/dining/07Tamarind1/07Tamarind1-thumbStandard.jpg)](/2020/08/07/dining/tamarind-recipes.html)
+        
+        </div>
+        
+        ## [The Simple Joys of Tamarind](/2020/08/07/dining/tamarind-recipes.html)
+        
+        Sweet, sour and tender under its brittle shell, the fruit’s pulp
+        is equally at home in desserts and savory dishes.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Nik
+        Sharma</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Antonio
+        & Roberto
+        Tartaglione</span>](https://static01.nyt.com/images/2020/08/12/dining/06pour/06pour-jumbo.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/12/dining/06pour/06pour-thumbStandard.jpg)](/2020/08/06/dining/drinks/valentina-passalacqua-natural-wine-italy.html)
+        
+        </div>
+        
+        ### The Pour
+        
+        ## [Wine Joins the 2020 Debate Over Privilege and Justice](/2020/08/06/dining/drinks/valentina-passalacqua-natural-wine-italy.html)
+        
+        An accusation involving migrant labor in Puglia leads to
+        self-examination and, perhaps, new awareness of the treatment of
+        agricultural workers.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Eric
+        Asimov</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Melissa
+        Clark/The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/05/dining/05pantry-blog/05pantry-blog-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/05/dining/05pantry-blog/05pantry-blog-thumbStandard.jpg)](/2020/08/05/dining/blueberry-bundt-cake.html)
+        
+        </div>
+        
+        ### From The Pantry
+        
+        ## [Let This Blueberry Bundt Cake Pull You Out of Your Baking Rut](/2020/08/05/dining/blueberry-bundt-cake.html)
+        
+        You don’t need a special occasion for this showstopping treat,
+        finished with a jewel-toned glaze.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Melissa
+        Clark</span></span>
+        
+        </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ryan
+    Garcia</span>](https://static01.nyt.com/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [Twilight of the Imperial Chef](/2020/08/04/dining/chef-restaurant-culture.html)
     
     For decades, the notion of the lone genius in the kitchen has
     fostered culinary creativity — and restaurants marred by abuse and
-    unfairness. This may be the time for
-    change.
+    unfairness. This may be the time for change.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Tejal
@@ -205,82 +299,82 @@ Reviews](/reviews/dining)
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-        Miller for The New York Times. Food Stylist: Rebecca
-        Jurkevich.</span>](https://static01.nyt.com/images/2020/08/05/dining/03Kenji4/merlin_174846099_dd3040d6-88f8-4e4c-b38e-3bc5247c1482-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/05/dining/03Kenji4/03Kenji4-thumbStandard.jpg)](/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
-        
-        </div>
-        
-        ## [A Colombian Chef Shares His Secret to Better Empanadas](/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
-        
-        For even better flavor and texture in his masa, J. Kenji
-        López-Alt borrowed a technique from the chef Carlos Gaviria:
-        milling
-        popcorn.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">J. Kenji
-        López-Alt</span></span>
-        
-        </div>
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
+    Miller for The New York Times. Food Stylist: Rebecca
+    Jurkevich.</span>](https://static01.nyt.com/images/2020/08/05/dining/03Kenji4/merlin_174846099_dd3040d6-88f8-4e4c-b38e-3bc5247c1482-videoLarge.jpg)
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
-        Moon for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/05/dining/03Chinatown1/03Chinatown1-threeByTwoMediumAt2X-v2.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/05/dining/03Chinatown1/03Chinatown1-thumbStandard.jpg)](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
-        
-        </div>
-        
-        ### Critic’s Notebook
-        
-        ## [Chinatown Is Coming Back, One Noodle at a Time](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
-        
-        Restaurants in the Manhattan neighborhood suffered early in the
-        pandemic. Some are just now experimenting with outdoor
-        service.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Pete
-        Wells</span></span>
-        
-        </div>
+    <div class="css-10wtrbd">
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-        W. Lee/The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/05/dining/04off/04off-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/05/dining/04off/04off-thumbStandard.jpg)](/2020/08/04/dining/nyc-restaurant-news.html)
-        
-        </div>
-        
-        ### off the menu
-        
-        ## [A New Rooftop Option for Drinking and Dining at Pier 17](/2020/08/04/dining/nyc-restaurant-news.html)
-        
-        A Williamsburg spot from the team behind Eight Mile Creek, a
-        milk tea cafe in Greenwich Village, and more restaurant
-        news.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Florence
-        Fabricant</span></span>
-        
-        </div>
+    ## [A Colombian Chef Shares His Secret to Better Empanadas](/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html)
+    
+    For even better flavor and texture in his masa, J. Kenji López-Alt
+    borrowed a technique from the chef Carlos Gaviria: milling popcorn.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">J. Kenji
+    López-Alt</span></span>
+    
+    </div>
+
+3.  ### Eat
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Heami
+    Lee for The New York Times. Food stylist: Maggie Ruggiero. Prop
+    stylist: Rebecca
+    Bartoshesky.</span>](https://static01.nyt.com/images/2020/08/09/magazine/09mag-eat/09mag-eat-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [These Rolls Will Change the Way You See Sourdough](/2020/08/05/magazine/pan-de-coco-recipe-bryan-ford.html)
+    
+    The baker Bryan Ford’s pan de coco, made with coconut milk, does not
+    look like European sourdough — and that’s part of the pleasure.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tejal
+    Rao</span></span>
+    
+    </div>
+
+4.  ### Critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
+    Moon for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/dining/03Chinatown1/03Chinatown1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Chinatown Is Coming Back, One Noodle at a Time](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
+    
+    Restaurants in the Manhattan neighborhood suffered early in the
+    pandemic. Some are just now experimenting with outdoor service.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Pete
+    Wells</span></span>
+    
+    </div>
+
+5.  ### off the menu
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/dining/04off/04off-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [A New Rooftop Option for Drinking and Dining at Pier 17](/2020/08/04/dining/nyc-restaurant-news.html)
+    
+    A Williamsburg spot from the team behind Eight Mile Creek, a milk
+    tea cafe in Greenwich Village, and more restaurant news.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Florence
+    Fabricant</span></span>
+    
+    </div>
+
+</div>
 
 </div>
 
@@ -297,8 +391,7 @@ Reviews](/reviews/dining)
     ## [For the Navajo Nation, a Fight for Better Food Gains New Urgency](/2020/08/03/dining/navajo-nation-food-coronavirus.html)
     
     As the pandemic has brought home the importance of the global
-    movement for food sovereignty, members are planting and
-    sharing.
+    movement for food sovereignty, members are planting and sharing.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Amelia
@@ -335,8 +428,7 @@ Reviews](/reviews/dining)
     ## [A Harlem Restaurant That’s Withstood Gentrification, a Pandemic and Time](/2020/07/30/dining/famous-fish-market-harlem.html)
     
     Long lines are still forming at Famous Fish Market, a Black-owned
-    business that’s been in the same family for nearly 50
-    years.
+    business that’s been in the same family for nearly 50 years.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kayla
@@ -345,72 +437,6 @@ Reviews](/reviews/dining)
     </div>
 
 4.  ### Wine School
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pepe
-    Serra</span>](https://static01.nyt.com/images/2020/08/05/dining/05Wine-School/05Wine-School-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [What Is a Great Wine? Verdicchio di Matelica Has Some Ideas](/2020/07/30/dining/drinks/wine-school-verdicchio-di-matelica.html)
-    
-    This Italian white doesn’t necessarily follow the conventions of
-    greatness, but it raises questions worth
-    considering.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Eric
-    Asimov</span></span>
-    
-    </div>
-
-5.  ### Critic’s Notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kristoffer
-    Paulsen for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/dining/28fare1/merlin_174758739_a4877efc-01ca-4572-83a6-9213dc8aab01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Pandemic Could End the Age of Midpriced Dining](/2020/07/28/dining/melbourne-restaurants-coronavirus.html)
-    
-    When Melbourne restaurants reopened after lockdown, owners got
-    creative, and dinner got far more
-    expensive.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Besha
-    Rodell</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joshua
-    Lott for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/29/dining/29virus-ever2/29virus-ever2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How to Open a Top-Tier Restaurant in a Pandemic? Rethink Everything](/2020/07/28/dining/ever-chicago-restaurant-coronavirus.html)
-    
-    This one, Ever, debuts Tuesday in Chicago with a pricey tasting menu
-    and a world-class chef. But on the road to its opening, lofty
-    visions have met hard
-    reality.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mark
-    Caro</span></span>
-    
-    </div>
-
-2.  ### Wine School
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
     Cenicola/The New York
@@ -430,41 +456,6 @@ Reviews](/reviews/dining)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amr
-    Alfiky/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust](/2020/08/04/business/coronavirus-struggling-caterers.html)
-    
-    The pandemic has devastated the industry. But some entrepreneurs are
-    finding creative ways to keep their businesses
-    afloat.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Creswell</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-    Miller for The New York Times. Food Stylist: Rebecca
-    Jurkevich.</span>](https://static01.nyt.com/images/2020/07/29/dining/27yogurt/27yogurt-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Finding Balance in a Summer Side](/2020/07/27/dining/cucumbers-yogurt-recipe.html)
-    
-    Crunchy cucumbers meet creamy yogurt in this cold-marinated cucumber
-    salad.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Yewande
-    Komolafe</span></span>
-    
-    </div>
-
 5.  ### Front Burner
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kathryn
@@ -475,8 +466,7 @@ Reviews](/reviews/dining)
     ## [Dirt Candy Returns With a Vegetarian Muffuletta](/2020/08/03/dining/dirt-candy-vegetarian-muffuletta.html)
     
     The chef Amanda Cohen’s vegetarian restaurant on the Lower East Side
-    has reopened with a new
-    menu.
+    has reopened with a new menu.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Florence
@@ -498,8 +488,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -540,24 +529,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    [](/2020/08/07/at-home/newsletter.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/20/multimedia/20200807-athome-newsletter01/merlin_175384092_702c3ec6-483f-4847-b914-8dd7dc0bfbde-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    ### <span class="css-m70j1g">at home newsletter</span>
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    ## Treating Our Shared World as an Extension of Our Homes
+    
+    Picking up trash makes the outdoors a more beautiful space to
+    inhabit — for everyone.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Sam Sifton</span>
     
     </div>
     
@@ -575,25 +564,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/martin-van-buren-high-school-cookbook.html)
+    [](/2020/08/07/obituaries/barbara-costikyan-dead-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-book/03burner-book-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/obituaries/06Costikyan/06Costikyan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Front Burner</span>
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
     
-    ## A Digital School Cookbook to Aid Families
+    ## Barbara Costikyan, New York Magazine Food Columnist, Dies at 91
     
-    Martin Van Buren High School in Queens Village is raising money with
-    a collaborative digital cookbook.
+    Ms. Costikyan, who died of the coronavirus, once wrote that she
+    couldn’t think about food “without thinking about the people who do
+    it.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Emma Goldberg</span>
     
     </div>
     
@@ -611,25 +600,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/mexican-ice-cream.html)
+    [](/2020/08/07/dining/dip-for-dinner.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-cream/03burner-cream-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/dining/clark-cheddar-scallion-dip/clark-cheddar-scallion-dip-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Front Burner</span>
+    ## Dip for Dinner\!
     
-    ## Horchata Ice Cream in a Store Near You
-    
-    Helados La Neta is High Road Craft’s new line of flavors including
-    coconut, avocado and lime, and rum raisin.
+    These no-fuss recipes are ideal for the busy days ahead.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Margaux Laskey</span>
     
     </div>
     
@@ -647,24 +632,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/new-york-biltong.html)
+    [](/2020/08/07/dining/what-to-cook-this-weekend.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-meat/03burner-meat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/magazine/09mag-eat/09mag-eat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Front Burner</span>
+    ## What to Cook This Weekend
     
-    ## South African Jerky, and More, at New York Biltong
-    
-    The West Village store also ships nationwide.
+    Put your sourdough starter to work, and make Bryan Ford’s pan de
+    coco.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Sam Sifton</span>
     
     </div>
     
@@ -682,25 +665,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/marcus-samuelsson-fried-chicken-delivery.html)
+    [](/2020/08/06/t-magazine/t-list-toyin-ojih-odutola.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-bird/03burner-bird-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/t-magazine/05tmag-tlist-slide-PX8A-print/05tmag-tlist-slide-PX8A-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Front Burner</span>
+    ## The T List: Five Things We Recommend This Week
     
-    ## Marcus Samuelsson’s Streetbird Delivers to Your Door
-    
-    The closed Harlem restaurant now offers a dinner of fried chicken,
-    waffles and sides.
+    Paintings by Toyin Ojih Odutola, Hawaiian pastries — and more.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
     
     </div>
     
@@ -718,24 +695,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/drinks/santa-teresa-rum.html)
+    [](/2020/08/05/at-home/newsletter.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03burner-rum/03burner-rum-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-coverREV-bagnarelli/02AH-coverREV-bagnarelli-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Front Burner</span>
+    ### <span class="css-m70j1g">at home newsletter</span>
     
-    ## A Dark, Brooding Rum for Your Cocktails
+    ## When You’re at Home, You Get to Noticing Things
     
-    Santa Teresa in Venezuela has been making the liquor since 1796.
+    A reader asks how to clean her wooden dining chairs.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Sam Sifton</span>
     
     </div>
     
@@ -753,26 +729,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/obituaries/john-swing-dead-coronavirus.html)
+    [](/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/obituaries/31Swing/31Swing-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/fashion/05HOME-COMFORTSArt/05HOME-COMFORTSArt-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## Peanut Butter and Ranch Dressing: What Americans Abroad Miss From Home
     
-    ## John Eric Swing, a Filipino-American Community Builder, Dies at 48.
-    
-    Mr. Swing was a catalyst in the Historic Filipinotown neighborhood
-    of Los Angeles, a new center of food start-ups. He died of
-    complications of the coronavirus.
+    With virus cases in the United States rising and international
+    travel curtailed, many Americans do not know when they will be able
+    to reunite with home and the comforts they associate with it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Leland</span>
+    By <span class="css-1n7hynb">Valeriya Safronova</span>
     
     </div>
     
@@ -790,23 +763,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/cooking-as-craft.html)
+    [](/2020/08/05/dining/the-secret-to-great-empanadas.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2019/07/22/dining/aw-tomato-and-peach-salad-with-whipped-goat-cheese/merlin_157887927_dd555ee7-3af4-4efc-b3aa-dff8cbaba8bf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/dining/03Kenjirex1/merlin_174846159_d4b17b5a-6d2a-45fc-82da-fd3a681cf527-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cooking as Craft
+    ## The Secret to Great Empanadas
     
-    Brush up on the basics, or lean into something new, whether it’s
-    ginger-lime chicken or a pork schnitzel with quick pickles.
+    It’s popcorn, as J. Kenji López-Alt learned from the Colombian chef
+    Carlos Gaviria.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
+    By <span class="css-1n7hynb">Sam Sifton</span>
     
     </div>
     
@@ -824,24 +796,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/dining/what-to-cook-this-week.html)
+    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2017/02/20/dining/20COOKING-FIELDDAY-POUNDCAKE2/20COOKING-FIELDDAY-POUNDCAKE2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What to Cook This Week
+    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
     
-    Make Colu Henry’s white bean caprese salad, Yewande Komolafe’s baked
-    tofu with peanut sauce, or the chef Rawlston Williams’s stew
-    chicken.
+    The pandemic has devastated the industry. But some entrepreneurs are
+    finding creative ways to keep their businesses afloat.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Sifton</span>
+    By <span class="css-1n7hynb">Julie Creswell</span>
     
     </div>
     
@@ -859,21 +829,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html)
+    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02ah-grilledpizza1/02ah-grilledpizza1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Make Pizza … On Your Grill
+    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
     
-    Bear with us. We know this sounds bonkers, but it really does work.
+    Even though coronavirus cases have surged again, craft distilleries
+    say the business of making the disinfectant has become more
+    difficult.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Amelia Nierenberg</span>
+    By <span class="css-1n7hynb">Kellen Browning</span>
     
     </div>
     
@@ -891,24 +863,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -932,8 +903,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -966,8 +936,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -984,14 +953,11 @@ story](#after-mktg)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">nytfood</span><span class="css-1dv1kvn">twitter
-    page for
-    nytfood</span>](https://twitter.com/nytfood)
+    page for nytfood</span>](https://twitter.com/nytfood)
   - [**<span data-aria-hidden="true">nytcooking</span><span class="css-1dv1kvn">instagram
-    page for
-    nytcooking</span>](https://instagram.com/nytcooking)
+    page for nytcooking</span>](https://instagram.com/nytcooking)
   - [**<span data-aria-hidden="true">nytcooking</span><span class="css-1dv1kvn">facebook
-    page for
-    nytcooking</span>](https://www.facebook.com/nytcooking)
+    page for nytcooking</span>](https://www.facebook.com/nytcooking)
   - [**<span data-aria-hidden="true">nytcooking</span><span class="css-1dv1kvn">pinterest
     page for nytcooking</span>](https://pinterest.com/nytcooking)
 
@@ -1035,8 +1001,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

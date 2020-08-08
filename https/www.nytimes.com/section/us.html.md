@@ -26,8 +26,7 @@
 
 <div id="masthead-section-label" class="css-1fnb9ct eaxe0e00">
 
-[U.S.
-News](https://www.nytimes.com/section/us)
+[U.S. News](https://www.nytimes.com/section/us)
 
 </div>
 
@@ -67,7 +66,7 @@ News](https://www.nytimes.com/section/us)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -155,102 +152,100 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
-    Harnik/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-threeByTwoMediumAt2X.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
+    Rasmussen for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/04/us/04CENUS/merlin_175075221_67d12f76-904e-4011-838b-bb8359329694-thumbStandard.jpg)](/2020/08/04/us/2020-census-ending-early.html)
+    [![](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-thumbStandard.jpg)](/2020/08/07/us/sturgis-motorcyle-rally.html)
     
     </div>
     
-    ## [With Census Count Finishing Early, Fears of a Skewed Tally Rise](/2020/08/04/us/2020-census-ending-early.html)
+    ## [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](/2020/08/07/us/sturgis-motorcyle-rally.html)
     
-    With 60 million households still uncounted, the bureau said it would
-    wrap up the survey a month early. Critics called it a bald move to
-    politicize the count in favor of
-    Republicans.
+    Tens of thousands of motorcyclists roared into the western South
+    Dakota community on Friday, lining Main Street from end to end, for
+    the start of the annual Sturgis Motorcycle Rally.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael Wines</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Richard
-    Fausset</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mark
+    Walker</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-        Milano for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/04/us/04isaias-01/04isaias-01-threeByTwoMediumAt2X.jpg)
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lathan
+        Goumas/News & Daily Advance, via Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/07/us/07FALWELL/merlin_138408084_e14442df-3463-4fee-97d1-3b8713c33f4a-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/04/us/04isaias-01/04isaias-01-thumbStandard.jpg)](/2020/08/04/us/hurricane-isaias-updates.html)
+        [![](https://static01.nyt.com/images/2020/08/07/us/07FALWELL/07FALWELL-thumbStandard.jpg)](/2020/08/07/us/falwell-liberty.html)
         
         </div>
         
-        ## [Isaias Unleashes Floods and Tornadoes as It Pummels the Atlantic Coast](/2020/08/04/us/hurricane-isaias-updates.html)
+        ## [Jerry Falwell Jr. Taking Leave of Absence From Liberty University](/2020/08/07/us/falwell-liberty.html)
         
-        Officials warned residents to stay out of harm’s way as at least
-        two people were killed by tornadoes, and two others from fallen
-        trees. Millions were left without
-        power.
+        Mr. Falwell, the college’s president and a supporter of
+        President Trump, agreed to a request by the school’s board of
+        trustees.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Michael
-        Venutolo-Mantovani</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Rick
-        Rojas</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Elizabeth
+        Dias</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/04/us/4hpstorm1/4hpstorm1-threeByTwoMediumAt2X-v2.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+        Wickens for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/04/us/4hpstorm1/4hpstorm1-thumbStandard-v2.jpg)](/2020/08/04/us/isaias-storm-updates.html)
+        [![](https://static01.nyt.com/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-thumbStandard.jpg)](/2020/08/07/us/remote-learning-fall-2020.html)
         
         </div>
         
-        ## [Isaias Reaches Canada as a Dwindling Storm](/2020/08/04/us/isaias-storm-updates.html)
+        ## [Lost Summer: How Schools Missed a Chance to Fix Remote Learning](/2020/08/07/us/remote-learning-fall-2020.html)
         
-        At least two people were killed after a tornado touched down in
-        Bertie County, N.C., and two others in the United States were
-        killed by falling
-        trees.
+        Education leaders spent months preparing to reopen classrooms.
+        But with online learning set to continue for millions of
+        students this fall, schools must catch up with reality.
         
-        <span class="css-me3p27"></span>
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Dana
+        Goldstein</span></span>
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-        Goldman/Associated
-        Press</span>](https://static01.nyt.com/images/2020/08/04/us/04VIRUS-TESTING-mass/merlin_174443316_57fadf4c-cbfd-45c0-b35b-8a68c9821b14-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hilary
+        Swift for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/07/us/07farmerinfluencer1/merlin_175042608_2a4dde30-9e9a-43b9-a4ad-6577fd58351c-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/04/us/04VIRUS-TESTING-mass/04VIRUS-TESTING-mass-thumbStandard.jpg)](/2020/08/04/us/virus-testing-delays.html)
+        [![](https://static01.nyt.com/images/2020/08/07/us/07farmerinfluencer1/merlin_175042608_2a4dde30-9e9a-43b9-a4ad-6577fd58351c-thumbStandard.jpg)](/2020/08/07/us/farmer-influencer-youtube.html)
         
         </div>
         
-        ## [‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed](/2020/08/04/us/virus-testing-delays.html)
+        ## [In a Wistful Age, Farmers Find a New Angle: Chore TV](/2020/08/07/us/farmer-influencer-youtube.html)
         
-        A shortage of chemicals needed to test for the virus is part of
-        what is slowing turnaround
-        times.
+        It’s hard for small farmers to earn a living selling their
+        products. Enter the “farmer-influencer,” who can earn more by
+        streaming farm life, in all its comforting monotony, to a
+        growing online audience.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Sarah Mervosh</span>
-        and <span class="css-1baulvz last-byline" itemprop="name">Manny
-        Fernandez</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Ellen
+        Barry</span></span>
         
         </div>
 
@@ -266,8 +261,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -308,23 +302,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+    [](/2020/08/08/us/pajamas-school-springfield-dress-code.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/09/07/multimedia/07xp-dress-code/07xp-dress-code-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+    ## No Pajama Pants Allowed While Learning From Home, Illinois District Says
     
-    The upset of the veteran congressman from St. Louis sent tremors
-    though the Democratic establishment in Missouri and Washington, D.C.
+    The Springfield, Ill., school district said it would require
+    students to follow its dress code regardless of how classes are
+    held.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Will Wright</span>
     
     </div>
     
@@ -342,24 +336,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/lamborghini-coronavirus-stimulus.html)
+    [](/2020/08/08/world/coronavirus-updates.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/world/4xp-lamborghini/merlin_160627941_dc8e6d9d-876c-411b-9659-513038022edc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Second Person Used Covid Relief Money to Buy a Lamborghini, Prosecutors Say
+    ## Coronavirus Live Updates: Related Illness Sent Hundreds of Children to Intensive Care
     
-    A Houston man who received more than $1.6 million bought a 2019
-    Lamborghini Urus, prosecutors said. Last week, a Miami man bought a
-    Lamborghini Huracán, according to the authorities.
+    With talks on a new U.S. pandemic relief package stalled, President
+    Trump said he would use executive orders to provide aid. It is
+    unclear whether he has the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Azi
-    Paybarah</span>
     
     </div>
     
@@ -377,17 +368,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-4-primary-election.html)
+    [](/2020/08/08/us/politics/trump-russia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Fourth Congressional District
+    ## Trump, Russia and an Intelligence Document: Key Moments
+    
+    Officials told The New York Times Magazine that the draft of a
+    classified document reporting that Russia favored President Trump in
+    the 2020 election was changed to soften its assessment.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alan Yuhas</span>
     
     </div>
     
@@ -405,17 +402,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-primary-elections.html)
+    [](/2020/08/08/business/economy/lost-unemployment-benefits.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1c/00virus-cliff1c-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Live: Michigan State Primary Election Results 2020
+    ## Without $600 Weekly Benefit, Unemployed Face Bleak Choices
+    
+    A federal supplement to jobless pay was a lifeline for millions and
+    for the economy. Its cutoff, even if temporary, may have lasting
+    consequences.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Casselman <span>and</span> Gillian
+    Friedman</span>
     
     </div>
     
@@ -433,17 +437,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-8-primary-election.html)
+    [](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/00dodd1/merlin_36514615_dcf57ca5-d1c3-4ae1-b32d-a6c14fe5ca3c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Eighth Congressional District
+    ## Chris Dodd, an Insider From Biden’s Past, Is Helping Him Pick His Future
+    
+    As Biden works to win over progressive voters, he has empowered a
+    Washington uber-veteran long trailed by allegations of personal and
+    financial indiscretion.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt Flegenheimer, Rebecca R. Ruiz
+    <span>and</span> Sydney Ember</span>
     
     </div>
     
@@ -461,17 +472,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-10-primary-election.html)
+    [](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08dc-trump-deal01/merlin_175385274_5c253a96-ea25-4174-8386-27b256225651-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 10th Congressional District
+    ### <span class="css-m70j1g">White House MEmo</span>
+    
+    ## Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.
+    
+    The president has repeatedly called for a big payment to the
+    Treasury Department if a Chinese company sells the app to Microsoft,
+    but there is no provision in the law for that.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael D. Shear, Alan Rappeport
+    <span>and</span> Ana Swanson</span>
     
     </div>
     
@@ -489,17 +509,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-13-primary-election.html)
+    [](/2020/08/08/us/politics/trump-biden-polls-interview.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08moments1/08moments1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 13th Congressional District
+    ### <span class="css-m70j1g">News Analysis</span>
+    
+    ## Trump’s Axios Interview, Kanye West’s Campaign: The Latest in the 2020 Race
+    
+    President Trump wants to brand Joe Biden as a doddering gaffe
+    machine. But the incumbent’s own rhetoric causes so much controversy
+    it is overwhelming the strategy.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
+    Annie Karni</span>
     
     </div>
     
@@ -517,17 +546,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-michigan-house-district-11-primary-election.html)
+    [](/2020/08/07/us/politics/trump-news-conference-bedminster.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/michigan-standard/michigan-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/us/07dc-trump/merlin_175446663_9503e462-47b8-4706-9b11-97d9f9226636-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Michigan Primary Election Results: 11th Congressional District
+    ## Away From Gridlock in Washington, Trump Puts on a Show for His Club
+    
+    The president held what was billed as a news conference. But there
+    was almost no news, he again said the virus would disappear and his
+    audience seemed at times less the nation than his golf club members.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Annie Karni <span>and</span> Maggie
+    Haberman</span>
     
     </div>
     
@@ -545,17 +581,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-house-district-2-primary-election.html)
+    [](/2020/08/07/us/face-masks-baby-pupuu-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-maskfraud-pix/07xp-maskfraud-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Arizona Primary Election Results: Second Congressional District
+    ## Georgia Businessman Charged With Hoarding Face Masks and Price Gouging
+    
+    The man, Milton Ayimadu, allegedly hoarded 200,000 face masks and
+    sold them for double what he paid, according to the U.S. Attorney’s
+    Office.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Marie Fazio</span>
     
     </div>
     
@@ -573,17 +615,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/us/elections/results-arizona-primary-elections.html)
+    [](/2020/08/07/us/politics/postal-service-reorganization-mail-ballots.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/arizona-standard/arizona-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/us/07dc-postal/merlin_175343967_1193d995-7caf-4b86-99da-3186ac0c799e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Live: Arizona State Primary Election Results 2020
+    ## Postal Service Leader Sets Reorganization Amid Scrutiny Over Mail Ballots
+    
+    The Trump donor who runs the post office pledged that such changes
+    would not affect the ability to deliver ballots on time this fall.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael D. Shear</span>
     
     </div>
     
@@ -601,24 +648,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -642,8 +688,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -663,8 +708,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -714,8 +758,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

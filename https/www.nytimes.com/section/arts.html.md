@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -67,7 +66,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -154,8 +151,7 @@ story](#after-sponsor)
 5.  [Music](/section/arts/music)
 6.  [Television](/section/arts/television)
 7.  [Theater](/section/theater)
-8.  [Pop
-Culture](/spotlight/pop-culture)
+8.  [Pop Culture](/spotlight/pop-culture)
 9.  [Watching](/watching)
 
 <div class="css-4svvz1 ekkqrpp0">
@@ -166,101 +162,99 @@ Culture](/spotlight/pop-culture)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leo
-    Villareal and Illuminate; James
-    Ewing</span>](https://static01.nyt.com/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rozette
+    Rago for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/arts/02covid-house5/02covid-house5-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-thumbStandard.jpg)](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    [![](https://static01.nyt.com/images/2020/08/09/arts/02covid-house5/02covid-house5-thumbStandard-v2.jpg)](/2020/08/07/arts/design/susan-burton-reentry-project-prisons-virus.html)
     
     </div>
     
-    ## [Will Superblue Be the ‘Infinity Room’ Writ Large?](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    ## [Leaving Gun Towers and Barbed Wire for a Healing House](/2020/08/07/arts/design/susan-burton-reentry-project-prisons-virus.html)
     
-    Art objects are a bore. People want multisensory “experiences,” the
-    more immersive the better. With JR, James Turrell, teamLab and more,
-    a new business venture funded by Marc Glimcher and Laurene Powell
-    Jobs hopes to
-    deliver.
+    Susan Burton, an advocate for formerly incarcerated women, is racing
+    against the clock to shelter those freed early because of the surge
+    of coronavirus cases in prisons.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Frank
-    Rose</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Patricia Leigh
+    Brown</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jingyu
-    Lin for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/arts/04sam-jay1/04sam-jay1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>PA
+    Images, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/08/arts/07smyth-1/07smyth-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbStandard.jpg)](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    [![](https://static01.nyt.com/images/2020/08/08/arts/07smyth-1/07smyth-1-thumbStandard.jpg)](/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
     
     </div>
     
-    ### On Comedy
+    ### My Favorite Page
     
-    ## [Sam Jay: A Comic Who Belongs to No Camp](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    ## [Ethel Smyth, a Composer Long Unheard, Is Recorded Anew](/2020/08/07/arts/music/ethel-smyth-prison-chandos.html)
     
-    With a deadpan glare, the stand-up takes shots at everyone and won’t
-    say something funny just for a laugh. Now she’s on the cusp of
-    breaking out, thanks to a Netflix
-    special.
+    “The Prison” — her last major piece, premiered in 1931 — comes out
+    on disc for the first time.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jason
-    Zinoman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Allen</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.nyt.com/images/2020/08/05/arts/04pulldown3/04pulldown3-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>HBO</span>](https://static01.nyt.com/images/2020/08/09/arts/09lovecraft1/merlin_175064256_6b081f0e-8919-4b0c-97ed-3dea98d30bb3-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Turmoil After a Museum Deletes ‘Black Lives Matter’ From Postings](/2020/08/04/arts/design/seattle-childrens-museum.html)
+        ## [Living While Black in ‘Lovecraft Country’](/2020/08/07/arts/television/living-while-black-in-lovecraft-country.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/05/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
+        [![](https://static01.nyt.com/images/2020/08/09/arts/09lovecraft1/09lovecraft1-thumbStandard.jpg)](/2020/08/07/arts/television/living-while-black-in-lovecraft-country.html)
         
         </div>
         
-        The director of the Seattle Children’s Museum faced a strike and
-        an internal inquiry after she edited staff postings, citing
-        fund-raising and other
-        concerns.
+        Misha Green, the creator of this macabre new HBO series,
+        discusses her obsession with horror and why its sense of dread
+        and danger is not just an allegory.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Julia
-        Jacobs</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Salamishah
+        Tillet</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Archive
+        PL/Alamy Stock
+        Photo</span>](https://static01.nyt.com/images/2020/08/09/arts/09LOVECRAFT-MAN1/09LOVECRAFT-MAN1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [A Black Pianist Helped Birth Bossa Nova. His Story Is Rarely Told.](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+        ## [Gods, Monsters and H.P. Lovecraft’s Uncanny Legacy](/2020/08/07/arts/television/hp-lovecraft.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/07/28/arts/00alf1/00alf1-thumbStandard.jpg)](/2020/08/04/arts/music/johnny-alf-bossa-nova.html)
+        [![](https://static01.nyt.com/images/2020/08/09/arts/09LOVECRAFT-MAN1/09LOVECRAFT-MAN1-thumbStandard.jpg)](/2020/08/07/arts/television/hp-lovecraft.html)
         
         </div>
         
-        Johnny Alf has always been revered by Antônio Carlos Jobim and
-        João Gilberto, but his legacy remains obscure, even among
-        Brazilians.
+        The author’s stories have influenced countless works, including
+        the new HBO series “Lovecraft Country.” But how do modern
+        adapters reckon with his racism, his sexism and his profound
+        weirdness?
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Beatriz
-        Miranda</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Alexis
+        Soloski</span></span>
         
         </div>
 
@@ -270,98 +264,96 @@ Culture](/spotlight/pop-culture)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hopper
-    Stone/HBO
-    Max</span>](https://static01.nyt.com/images/2020/08/05/arts/05americanpickle2/05americanpickle2-videoLarge-v2.jpg)
+1.  ### critic’s notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Fast
+    Familiar</span>](https://static01.nyt.com/images/2020/08/08/arts/06immersive-notebook-1/06immersive-notebook-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [‘An American Pickle’ Review: Keeping It Kosher](/2020/08/04/movies/an-american-pickle-review.html)
+    ## [In These Immersive Shows, the Jury Is In (Your Home)](/2020/08/07/theater/immersive-shows-jury-duty-eschaton.html)
     
-    A time-travel farce plays as a Jewish joke about an old-world
-    immigrant and his millennial great-grandson, both played by Seth
-    Rogen.
+    Sifting evidence and debating whodunit with strangers turns out to
+    be an especially successful way for theater to be enjoyed from a
+    laptop.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">A.O.
-    Scott</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alexis
+    Soloski</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Charles
-    Auringer</span>](https://static01.nyt.com/images/2020/08/04/arts/03creem1/03creem1-videoLarge-v2.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aaron
+    Berger for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/arts/30outdoor-reopen-bkbridge1/30outdoor-reopen-bkbridge1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Wild Story of Creem, Once ‘America’s Only Rock ’n’ Roll Magazine’](/2020/08/03/arts/music/creem-magazine-documentary.html)
+    ## [Summertime in the (Partly Reopened) City](/2020/08/07/arts/design/high-line-governors-island-brooklyn-bridge-park.html)
     
-    A new documentary traces the rise and fall of the irreverent,
-    boundary-smashing music publication where Lester Bangs did some of
-    his most famous
-    work.
+    While life is not quite back to normal, we found city dwellers
+    making the most of strolling the High Line, outings to Governors
+    Island and exploring a new section of Brooklyn Bridge Park.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Rubin</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Aaron
+    Berger</span></span>
     
     </div>
 
-3.  ### Watching and Moving
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Baiano</span>](https://static01.nyt.com/images/2020/08/04/arts/04watching-moving-1/merlin_175268094_4768a1a2-7273-42c8-9be6-9f4dea386647-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gordon
+    Welters for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/arts/07illegal-parties1/07illegal-parties1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Vail All-Stars, San Francisco Dreaming and Black Lives Matter](/2020/08/04/arts/dance/the-best-in-streaming-dance.html)
+    ## [At Europe’s Illegal Parties, the Virus Is the Last Thing on Anyone’s Mind](/2020/08/07/arts/music/illegal-parties-coronavirus-europe.html)
     
-    This week’s standouts in streaming dance, plus something to get the
-    kids involved and
-    moving.
+    Across the continent, crowds are flocking to events organized on
+    social media and messaging apps, despite risks and a backlash.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brian
-    Seibert</span></span>
+    <span class="css-1baulvz" itemprop="name">Alex Marshall</span>,
+    <span class="css-1baulvz" itemprop="name">Thomas Rogers</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Constant
+    Méheut</span></span>
     
     </div>
 
-4.  ### Ask a TV critic
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Johnson/SundanceTV</span>](https://static01.nyt.com/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Krista
+    Schlueter for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/arts/07rudin1/merlin_169363965_d4dcf525-2758-4cc3-bef0-5c2b94c41d80-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [After ‘The Good Fight,’ Try ‘The Split’](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    ## [Ad Agency Sues Scott Rudin, Saying Producer Owes $6.3 Million](/2020/08/07/theater/scott-rudin-spotco-broadway-lawsuit.html)
     
-    Our television critic answers your questions and offers guidance on
-    what to watch
-    next.
+    At issue: payment for media buying and marketing strategy for the
+    Broadway revivals of “West Side Story” and “The Music Man.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Lyons</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Michael
+    Paulson</span></span>
     
     </div>
 
-5.  ### My TEN
+5.  ### The Playlist
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
-    Cenicola/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/09/arts/09my10-battle-web/09my10-battle-web-mediumThreeByTwo440.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>YouTube</span>](https://static01.nyt.com/images/2020/08/09/arts/07playlist/07playlist-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ## [Robert Battle Keeps Going With Sarah Vaughan and Homegrown Tomatoes](/2020/08/04/arts/dance/robert-battle-favorites.html)
+    ## [Cardi B and Megan Thee Stallion Take Control, and 10 More New Songs](/2020/08/07/arts/music/playlist-cardi-b-megan-thee-stallion.html)
     
-    The Alvin Ailey artistic director is hunkered down in Connecticut,
-    tending his vegetable garden and keeping his mood aloft with these
-    10
-    essentials.
+    Hear tracks by Jamila Woods, Chika, beabadoobee and others.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kathryn
-    Shattuck</span></span>
+    <span class="css-1baulvz" itemprop="name">Jon Pareles</span>,
+    <span class="css-1baulvz" itemprop="name">Jon Caramanica</span>,
+    <span class="css-1baulvz" itemprop="name">Giovanni Russonello</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Lindsay
+    Zoladz</span></span>
     
     </div>
 
@@ -379,8 +371,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -421,26 +412,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/arts/television/jimmy-fallon-trumps-latest-interview-made-his-briefings-look-good.html)
+    [](/2020/08/08/books/review/katie-hill-she-will-rise-ilhan-omar-tiffany-cross.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/arts/05latenight/05latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/16/books/review/16Shortlist/16Shortlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Best of Late Night</span>
+    ### <span class="css-m70j1g">Shortlist</span>
     
-    ## Jimmy Fallon: Trump’s Latest Interview Made His Briefings Look Good
+    ## Three New Books by Women in the American Political Sphere
     
-    The “Axios on HBO” interview was “such a disaster, at one point FEMA
-    showed up and wrapped Trump in a foil blanket,” the “Tonight Show”
-    host said.
+    Memoirs by Representative Ilhan Omar, the political analyst Tiffany
+    Cross and the former congresswoman Katie Hill recount trials,
+    victories and hopes for changing the country.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Trish
-    Bendix</span>
+    By <span class="css-1n7hynb">Christina Cauterucci</span>
     
     </div>
     
@@ -458,23 +448,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/arts/television/whats-on-tv-wednesday-rafiki-and-big-brother.html)
+    [](/2020/08/08/style/black-yearbook-university-texas-austin.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/arts/05tvcol-2/05tvcol-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/00THELOOK-UT1-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Wednesday: ‘Rafiki’ and ‘Big Brother’
+    ## Black at U.T., and Beyond
     
-    A forbidden love story comes to Criterion. And a longstanding game
-    show begins its 22nd season.
+    A student set out to document the experiences of his Black
+    classmates on their predominantly white campus. These are some of
+    their stories.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mariel
-    Wamsley</span>
+    By <span class="css-1n7hynb">Adraint Bereal <span>and</span> Patrice
+    Peck</span>
     
     </div>
     
@@ -492,24 +483,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [](/2020/08/08/at-home/coronavirus-newspaper-basket.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/multimedia/09ah-basket-weaving17/09ah-basket-weaving17-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    ## Turn Your Newspaper Into a Basket
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of operation.
+    Behold all the news that’s fit to weave.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks
-    Barnes</span>
+    By <span class="css-1n7hynb">Christy Harmon</span>
     
     </div>
     
@@ -527,23 +515,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review-luster-raven-leilani.html)
+    [](/2020/08/08/arts/television/whats-on-tv-saturday-i-used-to-go-here-and-monster-trucks.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/books/04BOOKLEILANI1/04BOOKLEILANI1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/arts/08tvcol-useto/08tvcol-useto-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## In ‘Luster,’ a Young Woman Moves in With Her Lover — and His Family
+    ## What’s on TV Saturday: ‘I Used to Go Here’ and Monster Trucks
     
-    Raven Leilani’s novel concerns a young Black woman who becomes
-    involved with an older white man who is in an open marriage.
+    Gillian Jacobs goes back to college in an indie comedy, and the
+    Diesel Brothers host three hours of monster truck stunts.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Parul
-    Sehgal</span>
+    By <span class="css-1n7hynb">Lauren Messman</span>
     
     </div>
     
@@ -561,23 +548,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
+    [](/2020/08/07/business/media/bon-appetit-race-black-staff-quits.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/business/07BON-APP-01/merlin_141879036_2c11670f-08df-4d43-a374-a86c3e2e7ac2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Rockettes’ ‘Christmas Spectacular’ Is Canceled
+    ## 2 Black Staff Members Quit Bon Appétit as Tensions Over Race Continue
     
-    MSG Entertainment, which owns Radio City Music Hall and manages the
-    Rockettes, cited the uncertainty of the coronavirus.
+    Troubles at the magazine surfaced in June, when the top editor
+    resigned under pressure after staff members complained of a toxic
+    culture.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia
-    Carmel</span>
+    By <span class="css-1n7hynb">Edmund Lee</span>
     
     </div>
     
@@ -595,25 +582,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/betsy-bonner-the-book-of-atlantis-black.html)
+    [](/2020/08/07/books/bernard-bailyn-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/books/review/04schaitkin/04schaitkin-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/obituaries/08bailyn-obit1/00bailyn-toppix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Nonfiction</span>
+    ## Bernard Bailyn, Eminent Historian of Early America, Dies at 97
     
-    ## A Troubled Artist’s Death Proves as Unknowable as Her Life
-    
-    In “The Book of Atlantis Black,” Betsy Bonner attempts to solve the
-    mysterious fate of her troubled, enigmatic older sister.
+    On topic after topic he shifted the direction of scholarly inquiry,
+    winning two Pulitzers and a Bancroft Prize for his innovative
+    research and groundbreaking works.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alexis
-    Schaitkin</span>
+    By <span class="css-1n7hynb">Renwick McLean <span>and</span>
+    Jennifer Schuessler</span>
     
     </div>
     
@@ -631,20 +617,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
+    [](/2020/08/07/theater/brent-carver-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/obituaries/09Carver-obit4/07Carver4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Answering Your Questions About Taylor Swift’s ‘Folklore’
+    ## Brent Carver, Versatile Tony-Winning Actor, Dies at 68
     
-    Readers asked about Bon Iver, country music, Jack Antonoff and
-    more.
+    He played Hamlet, the wizard Gandalf and Tevye in “Fiddler on the
+    Roof.” But he was probably best known for “Kiss of the Spider
+    Woman.”
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Anita Gates</span>
     
     </div>
     
@@ -662,24 +651,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/movies/red-penguins-review.html)
+    [](/2020/08/07/t-magazine/akeem-smith-art.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/arts/04redpenguins/04redpenguins-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/t-magazine/07tmag-akeem/07tmag-akeem-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Red Penguins’ Review: A Rowdy Look at Post-Soviet Russia
+    ### <span class="css-m70j1g">The Artists</span>
     
-    This new documentary tells the tale of the Americans who invested in
-    Russia’s premier hockey team in the early 1990s. Unsurprisingly,
-    things went awry.
+    ## A Different View of a Jamaican Dancehall
+    
+    On the verge of his first major exhibition, Akeem Smith shares a new
+    artwork.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Kenigsberg</span>
+    By <span class="css-1n7hynb">Akeem Smith</span>
     
     </div>
     
@@ -697,26 +686,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    [](/2020/08/07/arts/aidan-koch-postcards.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/arts/09diary-project-koch/09diary-project-koch-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">feature</span>
+    ## Why You Should Write Postcards, Even From Home
     
-    ## Behrouz Boochani Just Wants to Be Free
-    
-    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
-    detention camps — from the inside. He survived, stateless, for seven
-    years. What’s next?
+    A postcard functions outside the language of chats, emails, calls
+    and letters.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Megan K.
-    Stack</span>
+    By <span class="css-1n7hynb">Aidan Koch</span>
     
     </div>
     
@@ -734,25 +719,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/fallout-hiroshima-hersey-lesley-m-m-blume.html)
+    [](/2020/08/07/business/media/lorenzo-milam-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/books/review/04Langewiesche1/04Langewiesche1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/obituaries/06Milam5/06Milam5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">nonfiction</span>
+    ## Lorenzo Wilson Milam, Guru of Community Radio, Is Dead at 86
     
-    ## The Reporter Who Told the World About the Bomb
-    
-    “Fallout,” by Lesley M.M. Blume, recounts how John Hersey revealed
-    the devastating toll of the atomic bomb on the citizens of
-    Hiroshima.
+    He helped start noncommercial stations in the 1960s and ’70s,
+    offering an eclectic mix of music and talk. His goal: to change the
+    world.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">William Langewiesche</span>
+    By <span class="css-1n7hynb">Richard Sandomir</span>
     
     </div>
     
@@ -770,24 +753,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -811,8 +793,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -829,11 +810,9 @@ story](#after-mid2)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">@nytimesarts</span><span class="css-1dv1kvn">twitter
-    page for
-    @nytimesarts</span>](https://twitter.com/nytimesarts)
+    page for @nytimesarts</span>](https://twitter.com/nytimesarts)
   - [**<span data-aria-hidden="true">@nytimestheater</span><span class="css-1dv1kvn">twitter
-    page for
-    @nytimestheater</span>](https://twitter.com/nytimestheater)
+    page for @nytimestheater</span>](https://twitter.com/nytimestheater)
   - [**<span data-aria-hidden="true">@nytimesmusic</span><span class="css-1dv1kvn">twitter
     page for @nytimesmusic</span>](https://twitter.com/nytimesmusic)
 
@@ -847,8 +826,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -898,8 +876,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

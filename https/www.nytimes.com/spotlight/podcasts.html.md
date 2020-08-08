@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,7 +66,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="collection-podcasts" class="section css-15h4p1b e9abtgs0">
 
@@ -86,8 +84,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -117,7 +114,7 @@ story](#after-sponsor)
 
 </div>
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-subheader)
+[Continue reading the main story](#after-subheader)
 
 <div id="subheader" class="ad subheader-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -167,19 +163,16 @@ story](#after-subheader)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-    Creese for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/30/us/politics/04daily/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/10/podcasts/10daily-dorsey/10daily-dorsey-jumbo-v2.jpg)
     
     <div class="css-gjijuv">
     
     ### The Daily
     
-    ## [Is the U.S. Ready to Vote by Mail?](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+    ## [Jack Dorsey on Twitter’s Mistakes](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
     
-    What we’ve learned from the very different experiences of two
-    states, Georgia and
-    Montana.
+    The social network’s C.E.O. has plans to improve the platform. But
+    will the changes be enough?
     
     <span class="css-me3p27"></span>
     
@@ -195,8 +188,7 @@ story](#after-subheader)
     ## [Modern Love Podcast: Zawe Ashton Reads ‘Confronting Race, Religion and Her Heart’](/2020/06/24/style/modern-love-podcast-zawe-ashton.html)
     
     The “Velvet Buzzsaw” actress reads an essay about interracial
-    relationships and
-    self-acceptance.
+    relationships and self-acceptance.
     
     <span class="css-me3p27"></span>
     
@@ -211,28 +203,27 @@ story](#after-subheader)
     ## [Eight: ‘We Go All’](/2020/06/04/podcasts/rabbit-hole-qanon-youtube-tiktok-virus.html)
     
     One QAnon believer’s journey through faith and loss — and what
-    becomes of reality as we move
-    online.
+    becomes of reality as we move online.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Davide
-    Barco</span>](https://static01.nyt.com/images/2020/07/22/sports/00Baseball-Preview-copy/00Baseball-Preview-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sharhonda
+    Bossier</span>](https://static01.nyt.com/images/2020/08/07/podcasts/07DAILY-NEWSLETTER-2/07DAILY-NEWSLETTER-2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### the daily newsletter
+    ### THE DAILY NEWSLETTER
     
-    ## [Life Without Sports?](/2020/07/31/podcasts/daily-newsletter-baseball-season-serial.html)
+    ## [‘Hope is Really Important in This Work’](/2020/08/07/podcasts/daily-newsletter-black-lives-matter-protests.html)
     
-    It’s “deeply boring,” our producer
-    reports.
+    Our interview with a longtime protester about her journey to the
+    front lines.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Guillemette</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sydney
+    Harper</span></span>
     
     </div>
 
@@ -248,8 +239,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -265,10 +255,49 @@ story](#after-mid1)
 
 ## [The Daily](/column/the-daily)
 
-[More in The Daily
-    »](/column/the-daily)
+[More in The Daily »](/column/the-daily)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/24/business/03daily/24michigan-arrest1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/05/video/vi-beirut-promo/vi-beirut-promo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Day That Shook Beirut](/2020/08/06/podcasts/the-daily/beirut-explosion-damage.html)
+    
+    Our reporter in the Lebanese capital was injured in the huge blast.
+    This is what happened to her when “everything seemed to come apart.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/us/05daily/portland-mapping-unrest-1596155031199-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘Stay Black and Die’](/2020/08/05/podcasts/the-daily/protests-racism-police-brutality.html)
+    
+    One woman reflects on her path to protesting police brutality.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
+    Creese for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/30/us/politics/04daily/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Is the U.S. Ready to Vote by Mail?](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+    
+    What we’ve learned from the very different experiences of two
+    states, Georgia and Montana.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/24/business/03daily/24michigan-arrest1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -276,62 +305,19 @@ story](#after-mid1)
     
     In what may be the first known case of its kind, a faulty facial
     recognition match led to a Michigan man’s arrest for a crime he did
-    not
-    commit.
+    not commit.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ## [The Sunday Read: ‘On Female Rage’](/2020/08/02/podcasts/the-daily/on-female-rage.html)
     
-    “I used to insist I didn’t get angry. Not
-    anymore.”
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A \#MeToo Moment in the Military](/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
-    
-    What happened to 20-year-old Specialist Vanessa Guillen, and how the
-    United States
-    responded.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Big Tech Hearing](/2020/07/30/podcasts/the-daily/congress-facebook-amazon-google-apple.html)
-    
-    A grilling on the power of digital giants in the internet
-    age.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Confronting China](/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
-    
-    Some members of the Trump administration believe the superpower
-    country poses an existential threat to the U.S. — one they are
-    working to address now.
+    “I used to insist I didn’t get angry. Not anymore.”
     
     <span class="css-me3p27"></span>
     
@@ -343,8 +329,7 @@ story](#after-mid1)
 
 ## [Modern Love Podcast](/column/modern-love-podcast)
 
-[More in Modern Love Podcast
-    »](/column/modern-love-podcast)
+[More in Modern Love Podcast »](/column/modern-love-podcast)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/06/19/fashion/23ML-jaramillo/merlin_154561071_143c362c-fcb7-4d88-8ae2-c938777c91b0-videoLarge.jpg)
@@ -354,8 +339,7 @@ story](#after-mid1)
     ## [Modern Love Podcast: Ncuti Gatwa Reads ‘Why Can’t Men Say “I Love You” to Each Other?’](/2020/06/17/style/modern-love-podcast-ncuti-gatwa.html)
     
     The “Sex Education” star reads an essay about the oppressive codes
-    regulating male
-    behavior.
+    regulating male behavior.
     
     <span class="css-me3p27"></span>
     
@@ -369,8 +353,7 @@ story](#after-mid1)
     ## [Modern Love Podcast: Lorraine Toussaint Reads ‘Race Wasn’t an Issue to Him, Which Was an Issue to Me’](/2020/06/10/style/modern-love-podcast-lorraine-toussant-updated-poscript.html)
     
     This week, the Modern Love podcast revisits an essay about the need
-    to acknowledge race in interracial
-    relationships.
+    to acknowledge race in interracial relationships.
     
     <span class="css-me3p27"></span>
     
@@ -384,8 +367,7 @@ story](#after-mid1)
     ## [Modern Love Podcast: Hasan Minhaj Reads ‘Researching Jenna, Discovering Myself’](/2020/06/03/style/modern-love-podcast-hasan-minhaj.html)
     
     The host of “Patriot Act” reads an essay about how past trauma
-    informs the
-    present.
+    informs the present.
     
     <span class="css-me3p27"></span>
     
@@ -399,8 +381,7 @@ story](#after-mid1)
     ## [Modern Love Podcast: Saoirse Ronan Reads ‘Grappling With the Language of Love’](/2020/05/27/style/modern-love-podcast-saoirse-ronan.html)
     
     The Golden Globe winning actress reads an essay about a relationship
-    limited by the lack of a common
-    language.
+    limited by the lack of a common language.
     
     <span class="css-me3p27"></span>
     
@@ -430,8 +411,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -447,8 +427,7 @@ story](#after-mid2)
 
 ## [Still Processing](/column/still-processing-podcast)
 
-[More in Still Processing
-    »](/column/still-processing-podcast)
+[More in Still Processing »](/column/still-processing-podcast)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chase
     Hall for The New York
@@ -458,8 +437,7 @@ story](#after-mid2)
     
     ## [Ziwe May Destroy Hamilton](/2020/07/23/podcasts/hamilton-ziwe-discomfort.html)
     
-    Welcome to the Age of
-    Discomfort
+    Welcome to the Age of Discomfort
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Wesley Morris</span> and
@@ -490,8 +468,7 @@ story](#after-mid2)
     
     ## [So Y’all Finally Get It](/2020/07/09/podcasts/still-processing-black-lives-matter.html)
     
-    America just won’t let us
-    rest.
+    America just won’t let us rest.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Wesley Morris</span> and
@@ -507,8 +484,7 @@ story](#after-mid2)
     ## [New Loop, America](/2020/05/14/podcasts/still-processing-westworld-hollywood-utopia-dystopia.html)
     
     How dystopian and utopian shows like “Westworld” and “Hollywood” can
-    help us map out a better
-    future.
+    help us map out a better future.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Wesley Morris</span> and
@@ -539,8 +515,7 @@ story](#after-mid2)
 
 ## [Popcast](/column/popcast-pop-music-podcast)
 
-[More in Popcast
-    »](/column/popcast-pop-music-podcast)
+[More in Popcast »](/column/popcast-pop-music-podcast)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
     Garrabrant</span>](https://static01.nyt.com/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-videoLarge.jpg)
@@ -549,8 +524,7 @@ story](#after-mid2)
     
     ## [Answering Your Questions About Taylor Swift’s ‘Folklore’](/2020/08/04/arts/music/taylor-swift-folklore-questions.html)
     
-    Readers asked about Bon Iver, country music, Jack Antonoff and
-    more.
+    Readers asked about Bon Iver, country music, Jack Antonoff and more.
     
     <span class="css-me3p27"></span>
     
@@ -565,8 +539,7 @@ story](#after-mid2)
     ## [Taylor Swift’s ‘Folklore’: Let’s Discuss](/2020/07/27/arts/music/popcast-taylor-swift-folklore.html)
     
     On an album made entirely in quarantine, the singer and songwriter
-    embarks in a fresh
-    direction.
+    embarks in a fresh direction.
     
     <span class="css-me3p27"></span>
     
@@ -580,8 +553,7 @@ story](#after-mid2)
     ## [Remembering Ennio Morricone, the Film Score Maestro](/2020/07/20/arts/music/popcast-ennio-morricone.html)
     
     His music was dynamic, bold and idiosyncratic, setting a high bar
-    for composers connecting sound and
-    vision.
+    for composers connecting sound and vision.
     
     <span class="css-me3p27"></span>
     
@@ -596,8 +568,7 @@ story](#after-mid2)
     ## [The Timely Agitation of Run the Jewels](/2020/07/09/arts/music/popcast-run-the-jewels.html)
     
     Killer Mike and El-P’s anti-government and pro-justice hip-hop feels
-    like it anticipated the current
-    moment.
+    like it anticipated the current moment.
     
     <span class="css-me3p27"></span>
     
@@ -628,8 +599,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid3)
+[Continue reading the main story](#after-mid3)
 
 <div id="mid3" class="ad mid3-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -645,73 +615,68 @@ story](#after-mid3)
 
 ## [The Book Review](/column/book-review-podcast)
 
-[More in The Book Review
-    »](/column/book-review-podcast)
+[More in The Book Review »](/column/book-review-podcast)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.nyt.com/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Isabel Wilkerson Talks About ‘Caste’](/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html)
+    
+    Wilkerson describes the ideas about race in America that fuel her
+    new book, and David Hill discusses “The Vapors.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ## [The ‘Seductive Lure’ of Authoritarianism](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
     
     Anne Applebaum discusses “Twilight of Democracy,” and Barbara Demick
-    talks about “Eat the
-    Buddha.”
+    talks about “Eat the Buddha.”
     
     <span class="css-me3p27"></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/books/24pod-cover/24pod-cover-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/24/books/24pod-cover/24pod-cover-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ## [The Yearning for the Unexplained](/2020/07/24/books/review/podcast-colin-dickey-unexplained-miles-harvey-king-of-confidence.html)
     
     Colin Dickey talks about “The Unidentified,” and Miles Harvey
-    discusses “The King of
-    Confidence.”
+    discusses “The King of Confidence.”
     
     <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/09/books/17podcover/17podcover-videoLarge-v2.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/09/books/17podcover/17podcover-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
     ## [Newt Gingrich and the Dawn of an Era](/2020/07/17/books/review/podcast-julian-zelizer-burning-down-house-newt-gingrich-notes-silencing-lacy-crawford.html)
     
     Julian E. Zelizer talks about “Burning Down the House,” and Lacy
-    Crawford talks about “Notes on a
-    Silencing.”
+    Crawford talks about “Notes on a Silencing.”
     
     <span class="css-me3p27"></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/06/books/review/00Mendelsohn-utopia/00Mendelsohn-utopia-videoLarge-v2.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/06/books/review/00Mendelsohn-utopia/00Mendelsohn-utopia-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     ## [David Mitchell’s Vast and Tangled Universe](/2020/07/10/books/review/david-mitchell-utopia-avenue-daniel-mendelsohn-biggest-bluff-poker-maria-konnikova.html)
     
     Daniel Mendelsohn discusses Mitchell’s career and new novel, “Utopia
-    Avenue,” and Maria Konnikova talks about “The Biggest
-    Bluff.”
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/03/books/03pod-cover/03pod-cover-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Jules Feiffer on His Long, Varied Career](/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
-    
-    Feiffer talks about his new picture book and more, and Steve Inskeep
-    discusses “Imperfect Union.”
+    Avenue,” and Maria Konnikova talks about “The Biggest Bluff.”
     
     <span class="css-me3p27"></span>
     
@@ -723,8 +688,7 @@ story](#after-mid3)
 
 ## [SUGAR CALLING](/column/sugar-calling)
 
-[More in SUGAR CALLING
-    »](/column/sugar-calling)
+[More in SUGAR CALLING »](/column/sugar-calling)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/05/22/podcasts/20sugar-hajo3/merlin_156628830_b7d4172a-d0ab-42fd-ad2e-f457f44dee06-videoLarge.jpg)
     
@@ -733,8 +697,7 @@ story](#after-mid3)
     ## [‘I Release You, Fear’](/2020/05/20/podcasts/sugar-calling-joy-harjo-poetry-virus.html)
     
     Cheryl Strayed talks with the poet Joy Harjo about beauty,
-    prophecies and listening to your spiritual
-    council.
+    prophecies and listening to your spiritual council.
     
     <span class="css-me3p27"></span>
     
@@ -747,8 +710,7 @@ story](#after-mid3)
     ## [‘There’s a Quiet All Over the World’](/2020/05/13/podcasts/sugar-calling-billy-collins-poetry-virus.html)
     
     Cheryl Strayed talks with the poet Billy Collins about memorization,
-    “picture language” and the power of collective
-    silence.
+    “picture language” and the power of collective silence.
     
     <span class="css-me3p27"></span>
     
@@ -761,8 +723,7 @@ story](#after-mid3)
     ## [‘Whatever We Have, We Have to Work With It’](/2020/05/06/podcasts/sugar-calling-alice-walker-quarantine-virus.html)
     
     Cheryl Strayed talks with the writer Alice Walker about ancestors,
-    solitude and the time it takes to
-    heal.
+    solitude and the time it takes to heal.
     
     <span class="css-me3p27"></span>
     
@@ -775,8 +736,7 @@ story](#after-mid3)
     ## [‘This Terrible Thing Is Happening, but the World Goes On.’](/2020/04/29/podcasts/sugar-calling-judy-blume-quarantine-virus.html)
     
     Cheryl Strayed talks with the author Judy Blume about raising teens,
-    losing religion and writing it all
-    down.
+    losing religion and writing it all down.
     
     <span class="css-me3p27"></span>
     
@@ -805,8 +765,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid4)
+[Continue reading the main story](#after-mid4)
 
 <div id="mid4" class="ad mid4-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -847,24 +806,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-reading-list.html)
+    [](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2019/06/02/books/review/30nwp-promo-reading/02Kendi-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Reading List Behind ‘Nice White Parents’
+    ## Episode Three: ‘This Is Our School, How Dare You?’
     
-    Everyone wants what’s best for their children’s education. But who
-    gets to decide what’s best? The reporter behind our new podcast from
-    Serial shares the books that helped her answer that question.
+    How white parents can shape a school, even when they aren’t there.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Chana
-    Joffe-Walt</span>
     
     </div>
     
@@ -882,21 +836,23 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
+    [](/2020/07/31/podcasts/daily-newsletter-baseball-season-serial.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/22/sports/00Baseball-Preview-copy/00Baseball-Preview-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘I Still Believe in It’
+    ### <span class="css-m70j1g">the daily newsletter</span>
     
-    White parents in the 1960s fought to be part of a new, racially
-    integrated school in Brooklyn. So why did their children never
-    attend?
+    ## Life Without Sports?
+    
+    It’s “deeply boring,” our producer reports.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Daniel Guillemette</span>
     
     </div>
     
@@ -914,18 +870,18 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    [](/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/12/us/politics/31daily/00dc-army-metoo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Book of Statuses
+    ## A \#MeToo Moment in the Military
     
-    A group of parents takes one big step
-    together.
+    What happened to 20-year-old Specialist Vanessa Guillen, and how the
+    United States responded.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -945,21 +901,23 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
+    [](/2020/07/30/podcasts/nice-white-parents-reading-list.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/23/business/28daily/23virus-uiexplain1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2019/06/02/books/review/30nwp-promo-reading/02Kendi-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why $600 Checks Are Tearing Republicans Apart
+    ## The Reading List Behind ‘Nice White Parents’
     
-    As Republicans consider whether to extend weekly payments for those
-    without work during the pandemic, the election looms
-    large.
+    Everyone wants what’s best for their children’s education. But who
+    gets to decide what’s best? The reporter behind our new podcast from
+    Serial shares the books that helped her answer that question.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Chana Joffe-Walt</span>
     
     </div>
     
@@ -977,19 +935,17 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
+    [](/2020/07/30/podcasts/the-daily/congress-facebook-amazon-google-apple.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/world/27daily-hospitals/merlin_172404552_f4e79cbc-7bf0-488a-a220-9f945e56e065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Mistakes New York Made
+    ## The Big Tech Hearing
     
-    An investigation into hospitals during the peak of the city’s
-    coronavirus outbreak exposed significant disparities in health
-    care.
+    A grilling on the power of digital giants in the internet age.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1009,18 +965,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/podcasts/the-daily/the-accusation-the-sunday-read.html)
+    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/03/22/magazine/26audm-2/22mag-titleix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Sunday Read: ‘The Accusation’
+    ## Episode Two: ‘I Still Believe in It’
     
-    An examination of the truth, in a moment when facts can seem
-    malleable.
+    White parents in the 1960s fought to be part of a new, racially
+    integrated school in Brooklyn. So why did their children never
+    attend?
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1040,24 +997,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/podcasts/daily-newsletter-schools-reopening-summer-playlist.html)
+    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/10/science/24daily-newsletter-image1/merlin_174095748_6b11e6ba-a408-471e-8a73-9bf945b568d9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">the daily newsletter</span>
+    ## Episode One: The Book of Statuses
     
-    ## Answering Your Questions About School Reopenings
-    
-    And a summer mixtape. Because school hasn’t started just yet.
+    A group of parents takes one big step together.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pam
-    Belluck</span>
     
     </div>
     
@@ -1075,19 +1027,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
+    [](/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/22/sports/24daily/merlin_174785379_4055717e-72ea-458c-bb74-6f70c40f7b11-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Battle for a Baseball Season
+    ## Confronting China
     
-    A conversation with the commissioner of Major League Baseball about
-    the path to this season’s
-    start.
+    Some members of the Trump administration believe the superpower
+    country poses an existential threat to the U.S. — one they are
+    working to address now.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1107,20 +1059,18 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/podcasts/nice-white-parents-serial.html)
+    [](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/23/business/28daily/23virus-uiexplain1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Introducing: Nice White Parents
+    ## Why $600 Checks Are Tearing Republicans Apart
     
-    A new limited series about building a better school system, and what
-    gets in the way. “Nice White Parents” — coming July 30 from Serial
-    Productions, brought to you by The New York
-    Times.
+    As Republicans consider whether to extend weekly payments for those
+    without work during the pandemic, the election looms large.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1140,18 +1090,18 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/podcasts/the-daily/portland-protests.html)
+    [](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/22/us/23daily-image/22portland-tactics02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/27/world/27daily-hospitals/merlin_172404552_f4e79cbc-7bf0-488a-a220-9f945e56e065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Showdown in Portland
+    ## The Mistakes New York Made
     
-    Why have militarized federal forces been deployed to an American
-    city?
+    An investigation into hospitals during the peak of the city’s
+    coronavirus outbreak exposed significant disparities in health care.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1171,24 +1121,23 @@ story](#after-mid4)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -1212,8 +1161,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid5)
+[Continue reading the main story](#after-mid5)
 
 <div id="mid5" class="ad mid5-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1233,8 +1181,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1284,8 +1231,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

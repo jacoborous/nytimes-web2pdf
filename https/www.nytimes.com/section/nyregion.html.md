@@ -26,8 +26,7 @@
 
 <div id="masthead-section-label" class="css-1fnb9ct eaxe0e00">
 
-[New
-York](https://www.nytimes.com/section/nyregion)
+[New York](https://www.nytimes.com/section/nyregion)
 
 </div>
 
@@ -67,7 +66,7 @@ York](https://www.nytimes.com/section/nyregion)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -155,105 +152,95 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Patrick
-    Semansky/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Flo
+    Ngala for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/nyregion/07nyvirus-pregnancy-promo/merlin_175371471_9c4c25e2-79e5-48f8-aa1a-c6fffbbe1ed1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/04/nyregion/04nyprimaries1/04nyprimaries1-thumbStandard.jpg)](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+    [![](https://static01.nyt.com/images/2020/08/07/nyregion/07nyvirus-pregnancy-promo/merlin_175371471_9c4c25e2-79e5-48f8-aa1a-c6fffbbe1ed1-thumbStandard.jpg)](/2020/08/06/nyregion/childbirth-Covid-Black-mothers.html)
     
     </div>
     
-    ## [After 6 Weeks, Victors Are Declared in 2 N.Y. Congressional Primaries](/2020/08/04/nyregion/maloney-torres-ny-congressional-races.html)
+    ## [She Was Pregnant With Twins During Covid. Why Did Only One Survive?](/2020/08/06/nyregion/childbirth-Covid-Black-mothers.html)
     
-    Representative Carolyn Maloney and Councilman Ritchie Torres won in
-    New York City after a Democratic primary that raised concerns about
-    mail-in
-    voting.
+    Why being Black and giving birth in New York during the pandemic is
+    so dangerous.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jesse McKinley</span>,
-    <span class="css-1baulvz" itemprop="name">Shane Goldmacher</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Stevens</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Emily
+    Bobrow</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Johnny
-    Milano for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jimmy
+    Escobar</span>](https://static01.nyt.com/images/2020/08/04/nyregion/00nyvirus-parties/00nyvirus-parties-jumbo.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-thumbStandard.jpg)](/2020/08/04/nyregion/isaias-ny.html)
+    [![](https://static01.nyt.com/images/2020/08/04/nyregion/00nyvirus-parties/00nyvirus-parties-thumbStandard.jpg)](/2020/08/08/nyregion/nyc-illegal-parties.html)
     
     </div>
     
-    ## [2.5 Million Lose Power and One Is Killed as Isaias Batters N.Y. Area](/2020/08/04/nyregion/isaias-ny.html)
+    ## [Rave Under the Kosciuszko Bridge: Are Illicit Parties Endangering N.Y.C.?](/2020/08/08/nyregion/nyc-illegal-parties.html)
     
-    The storm that tore through New York City on Tuesday was second only
-    to Hurricane Sandy in knocking out service to Con Edison
-    customers.
+    Videos and photos posted on social media of a number of parties show
+    few guests abiding by social-distancing guidelines.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Mihir Zaveri</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Ed
-    Shanahan</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Mihir
+    Zaveri</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
-        Sanders for The New York
-        Times</span>](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
+        Moon for The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [N.Y.C. Health Commissioner Resigns After Clashes With Mayor Over Virus](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        ## [N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/05/18/nyregion/00nyvirus-barbot-HFO/00nyvirus-barbot-HFO-thumbStandard.jpg)](/2020/08/04/nyregion/oxiris-barbot-health-commissioner-resigns.html)
+        [![](https://static01.nyt.com/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-thumbStandard.jpg)](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
         
         </div>
         
-        The resignation of Dr. Oxiris Barbot, the commissioner since
-        2018, came after Mayor Bill de Blasio stripped her agency of a
-        key virus-tracing
-        program.
+        A helicopter and dozens of officers, some in riot gear, were
+        deployed for an arrest at a Manhattan apartment but withdrew
+        after protesters arrived.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">J. David
-        Goodman</span></span>
+        <span class="css-1baulvz" itemprop="name">Liam Stack</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Annie
+        Correal</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
-        Lane/EPA, via
-        Shutterstock</span>](https://static01.nyt.com/images/2020/08/03/nyregion/00POLICEDATA/merlin_174653094_a9ca17cb-5305-4a9c-907b-1b2caaadcd37-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/28/nyregion/00nyunrest-arrestsVIDEOstill/00nyunrest-arrestsVIDEOstill-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [The Mayor Blames the Virus for Shootings. Here’s What Crime Data Shows.](/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
+        ## [They Were Arrested During the Protests. Here’s What Happened Next.](/2020/08/07/nyregion/ny-protest-arrests.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/03/nyregion/00POLICEDATA/merlin_174653094_a9ca17cb-5305-4a9c-907b-1b2caaadcd37-thumbStandard.jpg)](/2020/08/04/nyregion/nyc-shootings-coronavirus.html)
+        [![](https://static01.nyt.com/images/2020/07/28/nyregion/00nyunrest-arrestsVIDEOstill/00nyunrest-arrestsVIDEOstill-thumbStandard.jpg)](/2020/08/07/nyregion/ny-protest-arrests.html)
         
         </div>
         
-        Mr. de Blasio has pointed to court delays and bail reform to
-        explain the surge in gun violence. But the N.Y.P.D.’s own
-        numbers tell a different
-        story.
+        Five New Yorkers describe the night they were arrested while
+        participating in Black Lives Matter demonstrations.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Alan
-        Feuer</span></span>
+        <span class="css-1baulvz" itemprop="name">Ali Watkins</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Simbarashe
+        Cha</span></span>
         
         </div>
 
@@ -263,96 +250,95 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
+1.  ### Sunday Routine
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gabriela
+    Bhaskar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/nyregion/09nyvirus-routine2/07nyvirus-routine2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [How the C.E.O. of Harlem Children’s Zone Spends His Sundays](/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
+    
+    When Kwame Owusu-Kesse is not helping families and schools navigate
+    the pandemic, he is trying to wean his toddler off “Baby Shark.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tammy La
+    Gorce</span></span>
+    
+    </div>
+
+2.  ### Big City
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rich
+    Schineller, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/09/nyregion/09big1/07big1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Lifestyles of the Rich and Reckless: Posh Pandemic Parties](/2020/08/07/nyregion/coronavirus-rich-parties.html)
+    
+    Because money appears to be one of the best protections against the
+    coronavirus, why not party like it’s 2019?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ginia
+    Bellafante</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Benjamin
+    Norman for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/nyregion/09nyvirus-plaxall3/09nyvirus-plaxall3-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Mom and Pop Factory With an Atomic Secret](/2020/08/07/nyregion/coronavirus-ppe-nyc-face-shields.html)
+    
+    Those trays that macarons come in? Plaxall makes them. But since the
+    pandemic, it has pivoted to medical face shields. It’s not the first
+    time the family business has done its patriotic duty.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Kaya
+    Laterman</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jefferson
+    Siegel for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/nyregion/07nytrump/07nytrump-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit](/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
+    
+    A judge rejected President Trump’s bid to delay a defamation suit by
+    Ms. Carroll, pointing to the recent Supreme Court ruling over his
+    tax returns.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Nicole
+    Hong</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
     Masuike/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/06/nyregion/00nyvirus-schoolsHFO/merlin_175370388_5e723ec8-9174-47aa-950a-c8012dab604f-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+    ## [N.Y. Schools Can Reopen, Cuomo Says, in Contrast With Much of U.S.](/2020/08/07/nyregion/cuomo-schools-reopening.html)
     
-    Despite the pandemic, the social media giant leased all the office
-    space in the former main post office at Penn Station in
-    Midtown.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matthew
-    Haag</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/nyregion/03nytrumptaxes-1/03nytrumptaxes-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [D.A. Is Investigating Trump and His Company Over Fraud, Filing Suggests](/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
-    
-    The office of the district attorney, Cyrus R. Vance Jr., made the
-    disclosure in a new court filing arguing Mr. Trump’s accountants
-    should turn over his tax
-    returns.
+    In a long-awaited announcement, the governor says schools can
+    welcome back students if the rate of infection in their communities
+    remains low.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">William K. Rashbaum</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Benjamin
-    Weiser</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/03/nyregion/03salas-1/merlin_175108872_f48b9331-2145-4010-8684-75c41c4a349b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Judge Whose Son Was Killed by Misogynistic Lawyer Speaks Out](/2020/08/03/nyregion/esther-salas-roy-den-hollander.html)
-    
-    “Two weeks ago, my life as I knew it changed in an instant, and my
-    family will never be the same,” Judge Esther Salas said in a video
-    statement.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tracey
-    Tully</span></span>
-    
-    </div>
-
-4.  ### New York Today
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Saul
-    Martinez for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/nyregion/04nytoday/merlin_175235661_a91a6f57-6403-4d23-ae6e-654918fe0621-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How the Tropical Storm Is Affecting New York](/2020/08/04/nyregion/isaias-tropical-storm-nyc.html)
-    
-    The storm could bring two to four inches of rain across the region,
-    with coastal flooding and strong wind likely throughout
-    Tuesday. 
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Troy
-    Closson</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
-    J. Blue for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/nyregion/00nyvoting-02/00nyvoting-02-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Why the Botched N.Y.C. Primary Has Become the November Nightmare](/2020/08/03/nyregion/nyc-mail-ballots-voting.html)
-    
-    Nearly six weeks later, two congressional races remain undecided,
-    and officials are trading blame over the mishandling of tens of
-    thousands of mail-in
-    ballots.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jesse
-    McKinley</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Eliza
+    Shapiro</span></span>
     
     </div>
 
@@ -370,8 +356,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -412,24 +397,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/08/world/coronavirus-updates.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    ## Coronavirus Live Updates: Related Illness Sent Hundreds of Children to Intensive Care
     
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the coronavirus.
+    With talks on a new U.S. pandemic relief package stalled, President
+    Trump said he would use executive orders to provide aid. It is
+    unclear whether he has the power to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
     
     </div>
     
@@ -447,23 +429,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/theater/radio-city-rockettes-christmas-canceled.html)
+    [](/2020/08/07/health/coronavirus-ny-schools-reopen.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/arts/04rockette-item/merlin_76874830_3b00f865-ac33-4cf4-9547-356840f48aea-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/science/07VIRUS-SCHOOLS-HEALTH1/07VIRUS-SCHOOLS-HEALTH1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Rockettes’ ‘Christmas Spectacular’ Is Canceled
+    ## New York Is Positioned to Reopen Schools Safely, Health Experts Say
     
-    MSG Entertainment, which owns Radio City Music Hall and manages the
-    Rockettes, cited the uncertainty of the coronavirus.
+    Transmission, even in New York City, is well below thresholds
+    experts say are safe, but issues like adequate ventilation to combat
+    aerosol spread of the virus remain.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julia
-    Carmel</span>
+    By <span class="css-1n7hynb">Roni Caryn Rabin <span>and</span>
+    Apoorva Mandavilli</span>
     
     </div>
     
@@ -481,25 +464,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/dining/nyc-restaurant-news.html)
+    [](/2020/08/07/theater/scott-rudin-spotco-broadway-lawsuit.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/04off/04off-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/arts/07rudin1/merlin_169363965_d4dcf525-2758-4cc3-bef0-5c2b94c41d80-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">off the menu</span>
+    ## Ad Agency Sues Scott Rudin, Saying Producer Owes $6.3 Million
     
-    ## A New Rooftop Option for Drinking and Dining at Pier 17
-    
-    A Williamsburg spot from the team behind Eight Mile Creek, a milk
-    tea cafe in Greenwich Village, and more restaurant news.
+    At issue: payment for media buying and marketing strategy for the
+    Broadway revivals of “West Side Story” and “The Music Man.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Michael Paulson</span>
     
     </div>
     
@@ -517,22 +497,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/coronavirus-cases.html)
+    [](/2020/08/07/health/coronavirus-exams-mcat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04virus-briefing-mcconnell-sub2/merlin_175303407_bfb3e8f7-40ce-40b5-9789-05b0b021935f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/science/07VIRUS-EXAM/07VIRUS-MCAT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: McConnell Signals Openness to Jobless Aid Extension
+    ## Want to Be a Doctor? Take Your Chances in a Closed Room With Strangers
     
-    Tens of millions of Americans have lost crucial jobless benefits,
-    and lawmakers still can’t seem to agree on a relief measure.
-    Israel’s troubled school reopenings could be a lesson for the
-    U.S.
+    Admissions tests for many graduate schools have gone online. But not
+    the MCAT, the exam for aspiring doctors. It must still be taken in
+    person, pandemic or not.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Roni Caryn Rabin</span>
     
     </div>
     
@@ -550,24 +531,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/nyc-congress-carolyn-maloney-ballots.html)
+    [](/2020/08/07/obituaries/barbara-costikyan-dead-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/nyregion/03NYVIRUS-MALONEY1/03NYVIRUS-MALONEY1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/obituaries/06Costikyan/06Costikyan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disputed Ballots Must Be Counted in N.Y. Congressional Race, U.S. Judge Rules
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
     
-    Delays continue in a race that remains undecided six weeks after a
-    Democratic primary in which Representative Carolyn B. Maloney faced
-    off against a challenger.
+    ## Barbara Costikyan, New York Magazine Food Columnist, Dies at 91
+    
+    Ms. Costikyan, who died of the coronavirus, once wrote that she
+    couldn’t think about food “without thinking about the people who do
+    it.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jesse
-    McKinley</span>
+    By <span class="css-1n7hynb">Emma Goldberg</span>
     
     </div>
     
@@ -585,24 +567,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/adam-max-patron-of-brooklyn-cultural-institutions-dies-at-62.html)
+    [](/2020/08/07/nyregion/queens-manhattan-west-side-power-outage-coned.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/obituaries/03Max1/03Max1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/nyregion/07nyoutage1/07nyoutage1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Adam Max, Patron of Brooklyn Cultural Institutions, Dies at 62
+    ## Power Outages Hit Manhattan and Queens as Utilities Face Storm Damage
     
-    He was chairman of the Brooklyn Academy of Music and a benefactor of
-    St. Ann’s Warehouse. He and his wife also helped create a center for
-    women’s history.
+    About 180,000 customers lost electricity in an outage that Con
+    Edison said was caused by issues with its “transmission system.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sam
-    Roberts</span>
+    By <span class="css-1n7hynb">Michael Gold</span>
     
     </div>
     
@@ -620,31 +600,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/dining/chinatown-outdoor-dining-coronavirus.html)
+    [](/2020/08/07/realestate/coronavirus-coney-island-wonder-wheel.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/dining/03Chinatown1/03Chinatown1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/realestate/07streetscapes1/merlin_175248204_0b1f6dbf-80c2-4bae-85aa-b1d7d7163a93-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    ### <span class="css-m70j1g">streetscapes</span>
     
-    ## Chinatown Is Coming Back, One Noodle at a Time
+    ## Coronavirus Silences the Wonder Wheel
     
-    Restaurants in the Manhattan neighborhood suffered early in the
-    pandemic. Some are just now experimenting with outdoor service.
+    A 100th anniversary celebration was planned for this star attraction
+    on the Coney Island boardwalk this year. The owners are determined
+    that it will spin again.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Pete
-    Wells</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/style/20200804/chinatown-outdoor-dining-coronavirus/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/style/20200804/chinatown-outdoor-dining-coronavirus/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">John Freeman Gill</span>
     
     </div>
     
@@ -662,26 +636,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/nyc-subway-coronavirus.html)
+    [](/2020/08/07/nyregion/coronavirus-nyc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/06/09/nyregion/03nytoday-1/00nysubway-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/nyregion/07nytoday/merlin_175387701_d504c357-efa4-4cba-bef4-a2efc03f74dc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">New York Today</span>
     
-    ## Is Riding the Subway Safer Than Dining Indoors?
+    ## Coronavirus in N.Y.C.: Here’s What Happened This Week
     
-    In major global cities where the pandemic has ebbed, it appears that
-    public transportation may not be as risky as nervous New Yorkers
-    believe.
+    The city is trying to figure out how to reopen schools. It's also
+    trying to spread the message that some out-of-state visitors are
+    required to quarantine. 
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mihir
-    Zaveri</span>
+    By <span class="css-1n7hynb">Troy Closson</span>
     
     </div>
     
@@ -699,20 +672,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/coronavirus-covid-19.html)
+    [](/2020/08/07/world/covid-19-news.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03virus-briefing-fauci/merlin_175155375_a565045c-e0d8-4c45-96ec-718c6bf140c0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Fauci Supports Birx’s Coronavirus Assessment After Trump Criticizes Her
+    ## Trump Vows to Issue Executive Orders if Coronavirus Relief Talks Collapse
     
-    Counting for the 2020 census will end on Sept. 30, a month earlier
-    than previously announced, the Census Bureau said. Some U.S. schools
-    have begun to reopen, with fraught
-    results.
+    New York’s governor said schools could reopen for in-person
+    instruction, but he left the details up to the districts. Africa
+    surpasses a million confirmed cases, though the real number may be
+    higher.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -732,23 +705,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/police-shea-de-blasio-nyc.html)
+    [](/2020/08/07/style/coronavirus-nyc-historic-season.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/nyregion/00shea-bdb1/00shea-bdb1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## These Remarks Might Get a Police Chief Fired. Not in New York.
+    ## A Season of Grief and Release: 5 Months of the Virus in New York City
     
-    The police commissioner’s pointed criticism — and the fact that he
-    still has his job — speaks to the mayor’s fraught relationship with
-    the Police Department.
+    A photographic timeline of a historic half-year.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emma G. Fitzsimmons</span>
+    By <span class="css-1n7hynb">Daniel Arnold <span>and</span> Dodai
+    Stewart</span>
     
     </div>
     
@@ -766,24 +738,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -807,8 +778,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -837,8 +807,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -888,8 +857,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

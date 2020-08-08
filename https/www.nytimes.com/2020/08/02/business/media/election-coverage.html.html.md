@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Media](/section/business/media)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">How
-the Media Could Get the Election Story
-Wrong</span>
+the Media Could Get the Election Story Wrong</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Wrong</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -117,6 +114,7 @@ Wrong</span>
     
     </div>
 
+  - 
   - 
 
 </div>
@@ -133,6 +131,91 @@ Wrong</span>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
 
+<div>
+
+<div id="styln-elections-notifications-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="nytslm_innerContainer" data-aria-live="polite">
+
+<div class="nytslm_title">
+
+</div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Election
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Tennessee
+    Results](https://www.nytimes.com/interactive/2020/08/06/us/elections/results-tennessee-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Biden’s V.P.
+    Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [The
+    Candidates](https://www.nytimes.com/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Politics
+    Newsletter](https://www.nytimes.com/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div id="top-wrapper" class="css-1sy8kpn">
@@ -143,8 +226,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -170,8 +252,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -196,8 +277,7 @@ The media equation
 </div>
 
 We may not know the results for days, and maybe weeks. So it’s time to
-rethink “election
-night.”
+rethink “election night.”
 
 ![<span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Delcan
 &
@@ -220,8 +300,7 @@ Smith</span>](https://www.nytimes.com/by/ben-smith)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 2,
-    2020
+    Aug. 2, 2020
     
     </div>
 
@@ -229,7 +308,7 @@ Smith</span>](https://www.nytimes.com/by/ben-smith)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -240,6 +319,7 @@ Smith</span>](https://www.nytimes.com/by/ben-smith)
         
         </div>
     
+      - 
       - 
     
     </div>
@@ -294,12 +374,12 @@ The changes the media faces are profound, with technical and political
 dimensions.
 
 First, there’s already a shift underway from a single-day, in-person
-election. In the 2018 midterms,[only 60 percent of the votes were cast
+election. In the 2018 midterms, [only 60 percent of the votes were cast
 in
 person](https://www.census.gov/library/stories/2019/04/behind-2018-united-states-midterm-election-turnout.html)
 on Election Day. More votes will probably be sent in this year by mail
 or cast in September and October. That risks coverage misfires: In 2018,
-cable news commentators spent[election night suggesting that the “blue
+cable news commentators spent [election night suggesting that the “blue
 wave” hadn’t arrived](https://www.youtube.com/watch?v=T6FQmy-1Cfc). But
 they were simply impatient: The Democratic surge showed up when the
 final California races were called weeks later. If the 2016 election had
@@ -308,11 +388,11 @@ coronavirus crisis, the Pennsylvania results might not have been counted
 until Thanksgiving.
 
 Then, there’s the continuing Trump-era political crisis, often driven on
-Twitter and Facebook. President Trump last Thursday
-again[sought](https://www.nytimes.com/2020/07/30/us/elections/biden-vs-trump.html)
+Twitter and Facebook. President Trump last Thursday again
+[sought](https://www.nytimes.com/2020/07/30/us/elections/biden-vs-trump.html)
 to call mail-in voting into question with false claims about fraud. If
 you want a glimpse of how this could play out in November, look to 2018,
-when Mr. Trump[tweeted the
+when Mr. Trump [tweeted the
 suggestion](https://twitter.com/realDonaldTrump/status/1060993836984324096),
 “Call for a new election?” when the Republican nominee for Senate in
 Arizona fell behind as mail ballots were counted.
@@ -321,6 +401,22 @@ These are hard challenges. The media specializes in fighting the last
 war, and has done a decent job this cycle of avoiding the mistakes of
 2016. Reporters are calling out Mr. Trump’s falsehoods, showing
 skepticism about polls and avoiding turning politics into a sport.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 But the American media plays a bizarrely outsize role in American
 elections, occupying the place of most countries’ national election
@@ -347,7 +443,7 @@ of television flimflam. When CBS invented the election night tradition
 of dramatic vote projections and official calls in 1952, it outfitted
 its set with a blinking, Remington Rand Univac computer. The blinking
 device made for a good show. But the computer was a prop, a fake, as the
-historian Jill Lepore noted in her podcast,[The Last
+historian Jill Lepore noted in her podcast, [The Last
 Archive](https://www.thelastarchive.com/).
 
 The TV presentation is always slick, but the underpinnings of
@@ -358,15 +454,15 @@ little experience processing those votes.
 “There’s a lot of planning for the whiz-bang graphics, and not enough
 planning for avoiding undermining trust in the American electoral
 system,” said Brendan Nyhan, a Dartmouth political scientist and one of
-the authors of an
-April[report](https://www.law.uci.edu/faculty/full-time/hasen/2020ElectionReport.pdf)
+the authors of an April
+[report](https://www.law.uci.edu/faculty/full-time/hasen/2020ElectionReport.pdf)
 on how to run a fair election during the pandemic. “It’s not going to be
 great TV, it might not be viral content, but it’s the truth.”
 
 Some particularly wonky journalists are trying to lay the groundwork.
 NBC’s Chuck Todd said in June that he has been having “major nightmares”
-about the election, and his First Read newsletter has
-been[referring](https://www.nbcnews.com/politics/meet-the-press/say-goodbye-election-night-hello-election-week-n1228206)
+about the election, and his First Read newsletter has been
+[referring](https://www.nbcnews.com/politics/meet-the-press/say-goodbye-election-night-hello-election-week-n1228206)
 to “election week” instead of Election Day.
 
 But at the highest levels of most news organizations and the big social
@@ -507,6 +603,87 @@ the media for cues, and waited to see what the military would do.
 
 </div>
 
+<div id="NYT_BELOW_MAIN_CONTENT_REGION">
+
+<div>
+
+<div id="STLYN_guide_v1_STYLN_guide_a" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="g-story g-freebird g-max-limit" data-preview-slug="styln-scroll-guide">
+
+</div>
+
+<div id="g-electionguide-id" class="g-electionguide">
+
+<div class="g-electionguide-container">
+
+<div class="g-electionguide-wrapper">
+
+<div class="g-electionguide-logo">
+
+</div>
+
+# Our 2020 Election Guide
+
+Updated Aug. 7, 2020
+
+  - 
+    
+    -----
+    
+    ## The Latest
+    
+      - [Russia is using a range of techniques to denigrate Joe
+        Biden](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
+        American intelligence officials said, declaring that Moscow
+        continues to try to interfere in the 2020 campaign to help
+        President Trump.
+
+  - 
+    
+    -----
+    
+    ## Biden’s V.P. Search
+    
+      - [Here are 13
+        women](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        who have been under consideration to be Joe Biden’s running
+        mate, and why each might be chosen — and might not be.
+
+  - 
+    
+    -----
+    
+    ## Keep Up With Our Coverage
+    
+      - Get an
+        [email](https://www.nytimes.com/newsletters/politics?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        recapping the day’s news
+    
+    <!-- end list -->
+    
+      - Download our mobile app on
+        [iOS](https://apps.apple.com/us/app/nytimes/id284862083?ls=1&mat_click_id=5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948&referrer=mat_click_id%3D5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948%26link_click_id%3D722930677036718082)
+        and
+        [Android](http://a.localytics.com/android?id=com.nytimes.android&referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page)
+        and turn on Breaking News and Politics alerts
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div>
 
 </div>
@@ -521,8 +698,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -566,8 +742,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

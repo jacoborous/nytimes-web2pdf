@@ -26,8 +26,7 @@
 
 <div id="masthead-section-label" class="css-1fnb9ct eaxe0e00">
 
-[Nice White
-Parents](https://www.nytimes.com/column/nice-white-parents)
+[Nice White Parents](https://www.nytimes.com/column/nice-white-parents)
 
 </div>
 
@@ -67,7 +66,7 @@ Parents](https://www.nytimes.com/column/nice-white-parents)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -186,7 +183,7 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
+    [](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
     
     <div class="css-79elbk">
     
@@ -194,11 +191,9 @@ story](#after-sponsor)
     
     </div>
     
-    ## ‘I Still Believe in It’
+    ## Episode Three: ‘This Is Our School, How Dare You?’
     
-    White parents in the 1960s fought to be part of a new, racially
-    integrated school in Brooklyn. So why did their children never
-    attend?
+    How white parents can shape a school, even when they aren’t there.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -218,7 +213,7 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
     
     <div class="css-79elbk">
     
@@ -226,10 +221,11 @@ story](#after-sponsor)
     
     </div>
     
-    ## The Book of Statuses
+    ## Episode Two: ‘I Still Believe in It’
     
-    A group of parents takes one big step
-    together.
+    White parents in the 1960s fought to be part of a new, racially
+    integrated school in Brooklyn. So why did their children never
+    attend?
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -244,6 +240,36 @@ story](#after-sponsor)
     </div>
 
 3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Episode One: The Book of Statuses
+    
+    A group of parents takes one big step together.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -287,8 +313,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -308,8 +333,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -359,8 +383,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

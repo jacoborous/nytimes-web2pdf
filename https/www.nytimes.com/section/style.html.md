@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,7 +66,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
@@ -86,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -139,75 +160,72 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lane
-    Turner/The Boston Globe, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/04/fashion/04McLaughlin/04McLaughlin-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-jumbo-v3.jpg)
     
     <div class="css-gjijuv">
     
-    ## [The Anonymous Professor Who Wasn’t](/2020/08/04/style/college-coronavirus-hoax.html)
+    ## [A Season of Grief and Release: 5 Months of the Virus in New York City](/2020/08/07/style/coronavirus-nyc-historic-season.html)
     
-    A professor at Arizona State University does not
-    exist.
+    A photographic timeline of a historic half-year.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Jonah Engel
-    Bromwich</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Ezra
-    Marcus</span></span>
+    <span class="css-1baulvz" itemprop="name">Daniel Arnold</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Dodai
+    Stewart</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO2/00TINYLOVE-ILLO2-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adraint
+    Bereal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/00THELOOK-UT1-videoLarge-v4.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Modern Love
+    ### The Look
     
-    ## [Tiny Love Stories: ‘I Almost Left Him Three Times’](/2020/08/04/style/tiny-modern-love-stories-coronavirus-i-almost-left-him.html)
+    ## [Black at U.T., and Beyond](/2020/08/08/style/black-yearbook-university-texas-austin.html)
     
-    Modern Love in miniature, featuring reader-submitted stories of no
-    more than 100
-    words.
+    A student set out to document the experiences of his Black
+    classmates on their predominantly white campus. These are some of
+    their stories.
     
-    <span class="css-me3p27"></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Adraint Bereal</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Patrice
+    Peck</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeremy
-    and Claire Weiss for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Herman
+    Miller</span>](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The New Panic Buys: Kayaks, Pools, Tents and Trampolines](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    ## [This Is Not a Desk Chair](/2020/08/07/style/gamer-chair-market-herman-miller.html)
     
-    Americans seeking getaways (or staycations) in the pandemic are
-    putting outdoor retailers in a supply
-    crunch.
+    The pandemic has put video game equipment in unusually high demand.
+    The gaming chair is ascendant.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Herrman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sanam
+    Yar</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
-    Tompkins for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    T. Gellerson for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/fashion/08KATIE-HILL1/08KATIE-HILL1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Clickety Clack, Press-On Nails Are Back](/2020/08/04/style/self-care/press-on-nails.html)
+    ## [The Nudes Aren’t Going Away. Katie Hill’s OK With That.](/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
     
-    The onetime ’80s mass-market cheapie has gotten an artisanal upgrade
-    — just in time for quarantine home
-    manicures.
+    Nine months after stepping down from Congress, she is trying to move
+    forward.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jackie
-    Snow</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jessica
+    Bennett</span></span>
     
     </div>
 
@@ -217,95 +235,88 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
-    Dawn Bottoms/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
+1.  ### Go-To-Gifts
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
+    ## [Thoughtful Gift Ideas That Newlyweds Will Actually Use](/2020/08/08/fashion/weddings/thoughtful-gift-ideas-that-newlyweds-will-actually-use.html)
     
-    Despite precautions, the coronavirus has swept through a number of
-    weddings, large and small, infecting guests and
-    vendors.
+    Wedding pros and other industry experts share their go-to wedding
+    gifts.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alyson
-    Krueger</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
+    Cain</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-    Walter Banks for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-videoLarge-v2.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Matija
+    Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
     <div class="css-10wtrbd">
     
-    ## [TikTok Ban? Creators and Fans Are Big Mad](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    ## [Love Letter: Behind the Velvet Rope of Club Marriage](/2020/08/07/style/love-letter-newsletter-behind-the-velvet-rope-of-club-marriage.html)
     
-    The uncertainty over the future of the wildly popular video app has
-    brought chaos to its user community — and to the entertainment and
-    advertising industries as
-    well.
+    Plus: A road trip to remember.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Taylor
-    Lorenz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Charanna
+    Alexander</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    Illustration by The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/01abolishfrats-promo/01abolishfrats-promo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+    Kibbo</span>](https://static01.nyt.com/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-videoLarge.png)
     
     <div class="css-10wtrbd">
     
-    ## [The War on Frats](/2020/08/01/style/abolish-greek-life-college-frat-racism.html)
+    ## [What if Your Home Could Be Mobile, but Also You Could Park It?](/2020/08/07/style/kibbo-van-life-startup.html)
     
-    Groups of fraternity brothers and sorority sisters are working to
-    kick their organizations off
-    campus.
+    A start-up rethinks a little about how to live.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ezra
-    Marcus</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Candace
+    Jackson</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>James
-    Heimer</span>](https://static01.nyt.com/images/2020/08/02/fashion/02HAMPTONS-SCHOOL1/02HAMPTONS-SCHOOL1-videoLarge.jpg)
+4.  ### Mini-Vows
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/09Fineberg/09Fineberg-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Little Fraught Schoolhouse](/2020/08/01/style/wealthy-rich-parents-coronavirus-schools-hamptons.html)
+    ## [Neither Could Have Imagined This Adventure](/2020/08/07/fashion/weddings/neither-could-have-imagined-this-adventure.html)
     
-    New York parents of means are seeking less congested classrooms near
-    their second homes in the Hamptons and Hudson Valley. Not everyone
-    is happy about
-    this.
+    Claire Benjamin and Henry Fineberg married atop a mountain in White
+    River National Forest near Aspen.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alex
-    Williams</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Vincent M.
+    Mallozzi</span></span>
     
     </div>
 
-5.  ### Up Next
+5.  ### Mini-Vows
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adama
-    Jalloh for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/02/fashion/31upnext-prince2/31upnext-prince2-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nancy
+    Beale/Studio This
+    Is</span>](https://static01.nyt.com/images/2020/08/09/fashion/09Anderson/09Anderson-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Yasmin Monet Prince, a New Action Heroine](/2020/08/01/style/yasmin-monet-prince-a-new-action-heroine.html)
+    ## [A Missed Connection, Six Years Later](/2020/08/07/fashion/weddings/a-missed-connection-six-years-later.html)
     
-    The young British actress stars in “Hanna,” the action drama on
-    Amazon.
+    The couple overlapped for a year while studying at Harvard Law
+    School, but didn’t meet until 2017, when they matched on the League
+    dating app.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Brianna
-    Holt</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Emma
+    Grillo</span></span>
     
     </div>
 
@@ -323,8 +334,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -340,8 +350,7 @@ story](#after-mid1)
 
 ## [NYT Parenting](/spotlight/parenting)
 
-[More in NYT Parenting
-    »](/spotlight/parenting)
+[More in NYT Parenting »](/spotlight/parenting)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/18/autossell/Screen-Shot-2020-06-16-at-1/Screen-Shot-2020-06-16-at-1-videoLarge.png)
     
@@ -369,8 +378,7 @@ story](#after-mid1)
     
     There may not be group hikes and s’mores, but that doesn’t mean
     there won’t be adventure, songs, comedy, art and dance. Here are
-    some programs taking place
-    online.
+    some programs taking place online.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Laurel
@@ -403,8 +411,7 @@ story](#after-mid1)
     ## [Digital Field Trips: Museum Adventures Abound for Kids](/2020/06/18/arts/design/kids-museums-summer-virus.html)
     
     Cultural institutions are finding creative ways to engage young
-    visitors virtually this summer, and many of the offerings are
-    free.
+    visitors virtually this summer, and many of the offerings are free.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Laurel
@@ -420,8 +427,7 @@ story](#after-mid1)
     ## [When Impulse Buys Make You Feel Safe](/2020/06/17/parenting/virus-impulse-buys.html)
     
     A toddler-sized vacuum can’t fix the world. But it can make my kid
-    smile, and help soothe my
-    uncertainty.
+    smile, and help soothe my uncertainty.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kaitlyn
@@ -435,20 +441,68 @@ story](#after-mid1)
 
 ## [Love](/section/fashion/weddings)
 
-[More in Love
-    »](/section/fashion/weddings)
+[More in Love »](/section/fashion/weddings)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Zerb
+    Mellish for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/fashion/07Vows-FortWorth1/07Vows-FortWorth1-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [She Fell in Love, and the Dog Approved](/2020/08/07/fashion/weddings/Tara-Harper-and-Fritz-Rahr-Fort-Worth-wedding.html)
+    
+    Tara Harper knew Fritz Rahr was “the one” after he volunteered to
+    join her on a trip to rescue a German shepherd — and then gave it a
+    bath.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jenny
+    Block</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Thoughtful Gift Ideas That Newlyweds Will Actually Use](/2020/08/08/fashion/weddings/thoughtful-gift-ideas-that-newlyweds-will-actually-use.html)
+    
+    Wedding pros and other industry experts share their go-to wedding
+    gifts.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
+    Cain</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Linus
+    Johnson</span>](https://static01.nyt.com/images/2020/08/09/fashion/weddings/06weddingsPoliticsSUB/06weddingsPoliticsSUB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Some Wedding Vendors Face Fallout After Speaking Up on Social Issues](/2020/08/06/fashion/weddings/wedding-vendors-social-issues.html)
+    
+    Wedding vendors are taking to social media to speak out on a host of
+    social and political issues. Some risk losing followers, clients and
+    money as a result. Others feel supported.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
+    Cain</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>September
     Dawn Bottoms/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00CovidSpreadingWeddings1/00CovidSpreadingWeddings1-videoLarge.jpg)
+    Times</span>](https://static01.nyt.com/images/2020/08/09/fashion/09CovidSpreadingWeddings1/09CovidSpreadingWeddings1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     ## [Weddings as a Coronavirus Super-Spreader Worry](/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html)
     
     Despite precautions, the coronavirus has swept through a number of
-    weddings, large and small, infecting guests and
-    vendors.
+    weddings, large and small, infecting guests and vendors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alyson
@@ -456,7 +510,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sydney
     Shrewsbury</span>](https://static01.nyt.com/images/2020/08/02/fashion/00VOWS-MackinacIsland-03/00VOWS-MackinacIsland-03-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -465,64 +519,11 @@ story](#after-mid1)
     
     Renee Knake and Wallace B. Jefferson, both lawyers, are grateful to
     Mildred Loving and Richard Loving for challenging interracial
-    marriage laws in the
-    1960s.
+    marriage laws in the 1960s.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brianna
     Holt</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Livestream Your Wedding Like a Pro](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
-    
-    These gadgets will help you improve the production quality and
-    create memorable experiences for you and your digital
-    guests.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Bortz</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jose
-    A. Alvarado Jr. for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/26/fashion/24Vows-ModelActivist1/merlin_173908452_121834c5-2ab7-4830-bedd-1c85133e89a7-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Next Stop: Marriage](/2020/07/24/fashion/weddings/Sara-Ziff-marries-Reed-Young-at-train-station.html)
-    
-    Sara Ziff and Reed Young met on a train platform. They hit it off,
-    but neither expected much from the encounter and said their goodbyes
-    without an introduction. Four months later they matched on a dating
-    app.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tammy La
-    Gorce</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Godeassi</span>](https://static01.nyt.com/images/2020/07/10/fashion/00NOT-ENGAGED/00NOT-ENGAGED-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Me, My Relationship and PTSD](/2020/07/25/fashion/weddings/me-my-relationship-and-ptsd.html)
-    
-    Past and present find their place as a couple wades through what
-    their future holds. And it’s all
-    OK.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Caira
-    Conner</span></span>
     
     </div>
 
@@ -536,8 +537,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -553,8 +553,7 @@ story](#after-mid2)
 
 ## [Designer DIY](/issue/fashion/2020/06/19/designer-diy)
 
-[More in Designer DIY
-    »](/issue/fashion/2020/06/19/designer-diy)
+[More in Designer DIY »](/issue/fashion/2020/06/19/designer-diy)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/06/25/fashion/23DIYDESIGNERS-OWENS/23DIYDESIGNERS-OWENS-videoLarge.jpg)
     
@@ -563,8 +562,7 @@ story](#after-mid2)
     ## [Rick Owens Stitches a Souvenir](/2020/06/23/style/DIY-sewing-rick-owens-stitches-a-souvenir.html)
     
     In the latest installment of our Designer D.I.Y. series, the
-    designer embroiders a lover’s
-    hankie.
+    designer embroiders a lover’s hankie.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Guy Trebay</span> and
@@ -582,8 +580,7 @@ story](#after-mid2)
     ## [Irene Neuwirth Makes a Flower Necklace Out of Paper](/2020/06/17/style/paper-flower-necklace-DIY.html)
     
     The Los Angeles jeweler goes outside the box for her latest
-    creation, part of our Designer D.I.Y.
-    series.
+    creation, part of our Designer D.I.Y. series.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jessica
@@ -598,8 +595,7 @@ story](#after-mid2)
     ## [How to Make a Dish Towel Tote Bag, With Rodarte](/2020/06/02/style/dish-towel-tote-bag.html)
     
     Laura and Kate Mulleavy show us how to turn kitchen towels and
-    costume jewelry into a
-    carry-all.
+    costume jewelry into a carry-all.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Vanessa Friedman</span>
@@ -617,8 +613,7 @@ story](#after-mid2)
     
     In the latest installment of our Designer D.I.Y. at Home series,
     Hillary Taymour, the creative director of Collina Strada, offers a
-    creative use for excess
-    beets.
+    creative use for excess beets.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Jessica Testa</span> and
@@ -635,8 +630,7 @@ story](#after-mid2)
     
     The latest installment of our Designer D.I.Y. at Home series teaches
     you how to whip up a present for the significant other you may not
-    have seen for a
-    while.
+    have seen for a while.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Guy Trebay</span> and
@@ -651,18 +645,32 @@ story](#after-mid2)
 
 ## [Skin Deep](/column/skin-deep)
 
-[More in Skin Deep
-    »](/column/skin-deep)
+[More in Skin Deep »](/column/skin-deep)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/fashion/28SKIN-UNSEXY-art/28SKIN-UNSEXY-art-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anjelica
+    Roselyn</span>](https://static01.nyt.com/images/2020/08/06/fashion/06SKIN-CLARISONIC/06SKIN-CLARISONIC-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [R.I.P. Clarisonic](/2020/08/05/style/skin-care-rip-clarisonic.html)
+    
+    Once it was everyone’s favorite new thing, but it turns out that
+    washing your face with an oscillating brush is not a good idea.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Courtney
+    Rubin</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/30/fashion/28SKIN-UNSEXY-art/28SKIN-UNSEXY-art-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     ## [Can Unsexy Beauty Be Sexy?](/2020/07/28/style/can-unsexy-beauty-be-sexy.html)
     
     A new guard of beauty brands is using slick packaging and candid
-    messaging to sell products women were once embarrassed to
-    buy.
+    messaging to sell products women were once embarrassed to buy.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Rachel
@@ -670,7 +678,7 @@ story](#after-mid2)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Nick
     Barose</span>](https://static01.nyt.com/images/2020/05/28/fashion/27SKIN-EYES-top/27SKIN-EYES-top-videoLarge-v2.jpg)
     
@@ -678,29 +686,11 @@ story](#after-mid2)
     
     ## [Makeup and the Mask. It’s About the Eyes.](/2020/05/26/style/makeup-and-the-mask-its-about-the-eyes.html)
     
-    Some pros share their tips for doing your makeup while
-    masking.
+    Some pros share their tips for doing your makeup while masking.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Crystal
     Martin</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.nyt.com/images/2020/07/14/fashion/14SKIN-BEARDSArt/14SKIN-BEARDSArt-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [It’s Long Past Time to Get That Beard Under Control](/2020/07/15/style/its-long-past-time-to-get-that-beard-under-control.html)
-    
-    Good thing men are warming up to some new
-    tools.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andrew Adam
-    Newman</span></span>
     
     </div>
 
@@ -712,8 +702,7 @@ story](#after-mid2)
     ## [What Is All of That Screen Time Doing to Your Skin?](/2020/05/20/style/skin-damage-blue-light-what-is-all-of-that-screen-time-doing-to-your-skin.html)
     
     We checked in with experts to learn about the risks of indoor light
-    and how we can protect
-    ourselves.
+    and how we can protect ourselves.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Crystal
@@ -727,8 +716,7 @@ story](#after-mid2)
     
     ## [How to Touch Up Your Roots at Home](/2020/03/31/style/how-to-touch-up-your-roots-at-home.html)
     
-    Here’s what you should and shouldn’t
-    do.
+    Here’s what you should and shouldn’t do.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Crystal
@@ -746,8 +734,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid3)
+[Continue reading the main story](#after-mid3)
 
 <div id="mid3" class="ad mid3-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -763,8 +750,7 @@ story](#after-mid3)
 
 ## [Self-Care](/section/style/self-care)
 
-[More in Self-Care
-    »](/section/style/self-care)
+[More in Self-Care »](/section/style/self-care)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erik
     Carter for The New York
@@ -775,8 +761,7 @@ story](#after-mid3)
     ## [The Black Book Club Takes It to the Next Level](/2020/07/29/style/self-care/black-book-clubs.html)
     
     Noname and other Black thought leaders have taken what Oprah built
-    and made something
-    new.
+    and made something new.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Iman
@@ -792,8 +777,7 @@ story](#after-mid3)
     
     In a news cycle filled with tragedy, much of it disproportionately
     affecting people of color, Black reporters and editors are
-    reimagining coping
-    strategies.
+    reimagining coping strategies.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Patrice
@@ -810,8 +794,7 @@ story](#after-mid3)
     ## [These Hand Sanitizers Smell Good, Kill Germs](/2020/07/22/style/these-hand-sanitizers-smell-good-kill-germs.html)
     
     Now that hand sanitizers have become an accessory of the new normal,
-    upscale brands are introducing their own portable
-    cleansers.
+    upscale brands are introducing their own portable cleansers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Rachel
@@ -828,8 +811,7 @@ story](#after-mid3)
     
     If you venture out for a treatment or trim, you might encounter
     plexiglass barriers, tons of cleaning supplies, fewer clients at a
-    time and higher
-    prices.
+    time and higher prices.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Katherine
@@ -844,8 +826,7 @@ story](#after-mid3)
     ## [Can Unsexy Beauty Be Sexy?](/2020/07/28/style/can-unsexy-beauty-be-sexy.html)
     
     A new guard of beauty brands is using slick packaging and candid
-    messaging to sell products women were once embarrassed to
-    buy.
+    messaging to sell products women were once embarrassed to buy.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Rachel
@@ -869,8 +850,7 @@ story](#after-mid3)
     
     ## [Michelle Wikum, Walker Williams](/2020/06/14/fashion/weddings/michelle-wikum-walker-williams.html)
     
-    The couple met through Tinder in
-    2018.
+    The couple met through Tinder in 2018.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nina
@@ -887,8 +867,7 @@ story](#after-mid3)
     ## [Ayelet Bentley, Samuel Tbeile](/2020/05/17/fashion/weddings/ayelet-bentley-samuel-tbeile.html)
     
     They met in college and became a couple about a year later while on
-    a Birthright Israel
-    trip.
+    a Birthright Israel trip.
     
     <span class="css-me3p27"></span>
     
@@ -901,8 +880,7 @@ story](#after-mid3)
     ## [Kathy Su, Eric Schultz](/2020/05/17/fashion/weddings/kathy-su-eric-schultz.html)
     
     The couple met in 2017 through OkCupid and had their first date at a
-    whiskey bar in New
-    York.
+    whiskey bar in New York.
     
     <span class="css-me3p27"></span>
     
@@ -916,8 +894,7 @@ story](#after-mid3)
     
     ## [Victoria Hammarskjold, George Lemmon III](/2020/05/10/fashion/weddings/victoria-hammarskjold-george-lemmon-iii.html)
     
-    The couple met and began dating as high-school
-    students.
+    The couple met and began dating as high-school students.
     
     <span class="css-me3p27"></span>
     
@@ -947,8 +924,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid4)
+[Continue reading the main story](#after-mid4)
 
 <div id="mid4" class="ad mid4-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -964,10 +940,39 @@ story](#after-mid4)
 
 ## [Modern Love](/column/modern-love)
 
-[More in Modern Love
-    »](/column/modern-love)
+[More in Modern Love »](/column/modern-love)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+    Rea</span>](https://static01.nyt.com/images/2020/08/09/fashion/09MODERN-MARRIAGECLUB/09MODERN-MARRIAGECLUB-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [When Marriage Is Just Another Overhyped Nightclub](/2020/08/07/style/modern-love-when-marriage-is-just-another-overhyped-nightclub.html)
+    
+    Being single in your 30s can feel like waiting to enter a popular
+    club, only to get in and think: What’s the big deal?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Katerina
+    Tsasis</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+    Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO2/00TINYLOVE-ILLO2-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Tiny Love Stories: ‘I Almost Left Him Three Times’](/2020/08/04/style/tiny-modern-love-stories-coronavirus-i-almost-left-him.html)
+    
+    Modern Love in miniature, featuring reader-submitted stories of no
+    more than 100 words.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/08/02/fashion/02MODERN-FARM/02MODERN-FARM-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -976,8 +981,7 @@ story](#after-mid4)
     
     As a vulnerable girl at a remote commune, I sought solace from
     horses, goats, even a bear cub. Today’s dark times have sent me
-    their way
-    again.
+    their way again.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Bethany Groff
@@ -985,7 +989,7 @@ story](#after-mid4)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/29/fashion/00TINYLOVE-ILLO5/00TINYLOVE-ILLO5-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -993,14 +997,13 @@ story](#after-mid4)
     ## [Tiny Love Stories: ‘My Parents Never Called’](/2020/07/28/style/tiny-modern-love-stories-coronavirus-my-parents-never-called.html)
     
     Modern Love in miniature, featuring reader-submitted stories of no
-    more than 100
-    words.
+    more than 100 words.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
     Rea</span>](https://static01.nyt.com/images/2020/07/26/fashion/26MODERN-ORPHANAGE/26MODERN-ORPHANAGE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -1008,44 +1011,11 @@ story](#after-mid4)
     ## [Why Did She Leave Me There?](/2020/07/24/style/modern-love-adoption-vietnam-why-did-she-leave-me-there.html)
     
     A young man returns to the Vietnamese orphanage he had spent 25
-    years trying to
-    forget.
+    years trying to forget.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kacey Vu
     Shap</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2020/07/06/fashion/06TINYLOVE-illo1/06TINYLOVE-illo1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Tiny Love Stories: ‘Monogamous Birds of N.Y.C.’](/2020/07/21/style/tiny-modern-love-stories-coronavirus-monogamous-birds-of-nyc.html)
-    
-    Modern Love in miniature, featuring reader-submitted stories of no
-    more than 100
-    words.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Brian
-    Rea</span>](https://static01.nyt.com/images/2020/07/19/fashion/19MODERN-DATINGAPP/19MODERN-DATINGAPP-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Trying to Feel Love-Worthy (While Working for a Dating App)](/2020/07/17/style/modern-love-feel-love-worthy-working-for-dating-app.html)
-    
-    Being awash in romantic complaints has left me — a Black woman who’s
-    had heartache — feeling dismayed but
-    hopeful.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Loré
-    Yessuff</span></span>
     
     </div>
 
@@ -1067,8 +1037,7 @@ story](#after-mid4)
     ## [What Do Gen Z Shoppers Want? A Cute, Cheap Outfit That Looks Great on Instagram](/2019/12/17/style/fast-fashion-gen-z.html)
     
     Three young women shoppers in three countries talk about what they
-    buy, where they buy it and
-    why.
+    buy, where they buy it and why.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Elizabeth Paton</span>,
@@ -1087,8 +1056,7 @@ story](#after-mid4)
     ## [Fashion Nova’s Secret: Underpaid Workers in Los Angeles Factories](/2019/12/16/business/fashion-nova-underpaid-workers.html)
     
     The online retailer makes fast fashion for the Instagram elite. The
-    way many of its garments are made is much less
-    glamorous.
+    way many of its garments are made is much less glamorous.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Natalie
@@ -1105,8 +1073,7 @@ story](#after-mid4)
     ## [Who Made Your Clothes?](/2019/12/19/style/garment-workers-around-the-world.html)
     
     Garment workers around the world make everything from luxury
-    handbags to fast fashion leggings. Here are some of their
-    stories.
+    handbags to fast fashion leggings. Here are some of their stories.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sanam
@@ -1123,8 +1090,7 @@ story](#after-mid4)
     ## [H\&M’s Different Kind of Clickbait](/2019/12/18/fashion/hms-supply-chain-transparency.html)
     
     The Swedish retailer now lets customers know where nearly every
-    garment it sells is made. Is that
-    enough?
+    garment it sells is made. Is that enough?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Elizabeth Paton</span> and
@@ -1142,8 +1108,7 @@ story](#after-mid4)
     ## [The Future Is Trashion](/2019/12/20/style/zero-waste-daniel-trashion.html)
     
     We make too much and buy too much. But maybe there is a way not to
-    waste too much. The ragpicker of Brooklyn has an
-    idea.
+    waste too much. The ragpicker of Brooklyn has an idea.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Vanessa
@@ -1161,8 +1126,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid5)
+[Continue reading the main story](#after-mid5)
 
 <div id="mid5" class="ad mid5-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1178,8 +1142,7 @@ story](#after-mid5)
 
 ## [Scam or Not](/column/scam-or-not)
 
-[More in Scam or Not
-    »](/column/scam-or-not)
+[More in Scam or Not »](/column/scam-or-not)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     Illustration by The New York Times; Shutterstock
@@ -1189,8 +1152,7 @@ story](#after-mid5)
     
     ## [Is Coffee Good for You?](/2020/02/13/style/self-care/coffee-benefits.html)
     
-    Yes\! But it depends on the kind of coffee and the
-    quantity.
+    Yes\! But it depends on the kind of coffee and the quantity.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Dawn
@@ -1206,8 +1168,7 @@ story](#after-mid5)
     
     ## [What Is the Keto Diet and Does It Work?](/2020/01/02/style/self-care/keto-diet-explained-benefits.html)
     
-    Yes. But we don’t know how effective, or for how
-    long.
+    Yes. But we don’t know how effective, or for how long.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Dawn
@@ -1224,8 +1185,7 @@ story](#after-mid5)
     ## [What Are the Benefits of Probiotics?](/2019/11/27/style/self-care/probiotics-benefits.html)
     
     Studies suggest that certain probiotics can help in certain
-    contexts. But you will need to do your research. We can
-    help.
+    contexts. But you will need to do your research. We can help.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Melinda Wenner
@@ -1243,8 +1203,7 @@ story](#after-mid5)
     
     Yes — but fasting offers weight loss similar to any reduction in
     calories. The best diet is the one where you are healthy, hydrated
-    and living your best life. If fasting works for you, go for
-    it.
+    and living your best life. If fasting works for you, go for it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Crystal
@@ -1260,8 +1219,7 @@ story](#after-mid5)
     
     ## [Are There Benefits to Collagen Supplements?](/2019/11/09/style/self-care/collagen-benefits.html)
     
-    Maybe\! But get ready for a long-term
-    relationship.
+    Maybe\! But get ready for a long-term relationship.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Gabriela
@@ -1275,8 +1233,7 @@ story](#after-mid5)
 
 ## [The Office: An Analysis](/spotlight/the-office-an-analysis)
 
-[More in The Office: An Analysis
-    »](/spotlight/the-office-an-analysis)
+[More in The Office: An Analysis »](/spotlight/the-office-an-analysis)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Shannon Lin/The New York
@@ -1286,8 +1243,7 @@ story](#after-mid5)
     
     ## [The Office: An In-Depth Analysis of Workplace User Behavior](/interactive/2019/09/17/style/the-office.html)
     
-    How we love and hate to go to
-    work.
+    How we love and hate to go to work.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">The Styles
@@ -1305,8 +1261,7 @@ story](#after-mid5)
     
     Gen Z-ers and millennials have been called lazy and entitled. Could
     they, instead, be among the first to understand the proper role of
-    work in
-    life?
+    work in life?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Claire Cain Miller</span>
@@ -1323,8 +1278,7 @@ story](#after-mid5)
     
     ## [Women Poop. Sometimes At Work. Get Over It.](/2019/09/17/style/women-poop-at-work.html)
     
-    Why must the bathroom continue to be
-    fraught?
+    Why must the bathroom continue to be fraught?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Jessica Bennett</span> and
@@ -1342,8 +1296,7 @@ story](#after-mid5)
     ## [The Awkward but Essential Art of Office Chitchat](/2019/09/17/style/the-awkward-art-of-office-small-talk.html)
     
     We regret to inform you that you need to make small talk with your
-    co-workers. Here’s how to master
-    it.
+    co-workers. Here’s how to master it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Lindsay
@@ -1359,8 +1312,7 @@ story](#after-mid5)
     
     ## [They Are What You Eat](/2019/09/17/style/moes-cinnabon-focus-brands.html)
     
-    A visit to the headquarters of your favorite mall
-    foods.
+    A visit to the headquarters of your favorite mall foods.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caity
@@ -1378,8 +1330,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid6)
+[Continue reading the main story](#after-mid6)
 
 <div id="mid6" class="ad mid6-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1395,8 +1346,7 @@ story](#after-mid6)
 
 ## [Scene City](/column/scene-city)
 
-[More in Scene City
-    »](/column/scene-city)
+[More in Scene City »](/column/scene-city)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Rebecca
     Smeyne for The New York
@@ -1407,8 +1357,7 @@ story](#after-mid6)
     ## [Chairing a Gala While Stuck in Mustique](/2020/05/25/style/chairing-a-gala-while-stuck-in-mustique.html)
     
     How Adrienne Arsht, Tonya Lewis Lee and Dee Ocleppo Hilfiger are
-    hunkering
-    down.
+    hunkering down.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ruth La
@@ -1425,8 +1374,7 @@ story](#after-mid6)
     ## [Sweatpants and No Caviar](/2020/05/08/style/sweatpants-and-no-caviar.html)
     
     Dennis Basso, Agnes Hsu-Tang and Athena Calderone are finding solace
-    outside the big
-    city.
+    outside the big city.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ruth La
@@ -1442,8 +1390,7 @@ story](#after-mid6)
     
     ## [Virtual Galas and ‘Foodathons’](/2020/05/01/style/virtual-galas-and-foodathons.html)
     
-    How Billy Eichner, Lizzie Asher and Andrew Saffir are not
-    partying.
+    How Billy Eichner, Lizzie Asher and Andrew Saffir are not partying.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ruth La
@@ -1460,8 +1407,7 @@ story](#after-mid6)
     ## [Zoom Galas and Vlogging](/2020/04/03/style/zoom-galas-and-vlogging.html)
     
     How Larry Milstein, Jill Kargman and Nicky Hilton Rothschild are
-    hunkering
-    down.
+    hunkering down.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ruth La
@@ -1478,8 +1424,7 @@ story](#after-mid6)
     ## [When Black Tie Is Replaced by Plaid Pajamas](/2020/03/27/style/when-black-tie-is-replaced-by-plaid-pajamas.html)
     
     Stacey Bendet, Debbie Bancroft and Wes Gordon are keeping their
-    social
-    distance.
+    social distance.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ruth La
@@ -1518,24 +1463,21 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/08/at-home/coronavirus-newspaper-basket.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/multimedia/09ah-basket-weaving17/09ah-basket-weaving17-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    ## Turn Your Newspaper Into a Basket
     
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the coronavirus.
+    Behold all the news that’s fit to weave.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
+    By <span class="css-1n7hynb">Christy Harmon</span>
     
     </div>
     
@@ -1553,23 +1495,22 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/upgrade-your-outdoor-space.html)
+    [](/2020/08/08/nyregion/nyc-illegal-parties.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/realestate/04wirecutter-outdoors5/04wirecutter-outdoors5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/nyregion/00nyvirus-parties/00nyvirus-parties-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 5 Things You Need to Upgrade Your Tiny Outdoor Space
+    ## Rave Under the Kosciuszko Bridge: Are Illicit Parties Endangering N.Y.C.?
     
-    It’s never been more important to make your balcony, terrace, or
-    patch of cement cozy and hospitable. Here’s how.
+    Videos and photos posted on social media of a number of parties show
+    few guests abiding by social-distancing guidelines.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Dorie
-    Chevlen</span>
+    By <span class="css-1n7hynb">Mihir Zaveri</span>
     
     </div>
     
@@ -1587,25 +1528,24 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
+    [](/2020/08/07/at-home/newsletter.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/20/multimedia/20200807-athome-newsletter01/merlin_175384092_702c3ec6-483f-4847-b914-8dd7dc0bfbde-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">What I Love</span>
+    ### <span class="css-m70j1g">at home newsletter</span>
     
-    ## Harris Faulkner, Working From Home in Shades of Blue
+    ## Treating Our Shared World as an Extension of Our Homes
     
-    The Fox News anchor’s mother gave her some decorating advice: ‘Just
-    make it beautiful.’ And she’s been trying.
+    Picking up trash makes the outdoors a more beautiful space to
+    inhabit — for everyone.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Joanne
-    Kaufman</span>
+    By <span class="css-1n7hynb">Sam Sifton</span>
     
     </div>
     
@@ -1623,24 +1563,21 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    [](/2020/08/07/style/love-letter-newsletter-behind-the-velvet-rope-of-club-marriage.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-thumbWide-v4.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    ## Love Letter: Behind the Velvet Rope of Club Marriage
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    Plus: A road trip to remember.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Charanna Alexander</span>
     
     </div>
     
@@ -1658,23 +1595,21 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
+    [](/2020/08/07/style/kibbo-van-life-startup.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/06/fashion/03BACKORDER1/03BACKORDER1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The New Panic Buys: Kayaks, Pools, Tents and Trampolines
+    ## What if Your Home Could Be Mobile, but Also You Could Park It?
     
-    Americans seeking getaways (or staycations) in the pandemic are
-    putting outdoor retailers in a supply crunch.
+    A start-up rethinks a little about how to live.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Herrman</span>
+    By <span class="css-1n7hynb">Candace Jackson</span>
     
     </div>
     
@@ -1692,24 +1627,22 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+    [](/2020/08/07/style/gamer-chair-market-herman-miller.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Men’s Wearhouse Owner Files for Bankruptcy
+    ## This Is Not a Desk Chair
     
-    Tailored Brands, known for its clothing chains Men’s Wearhouse and
-    JoS. A. Bank, struggled as the pandemic shut stores and consumer
-    demand for office attire dropped.
+    The pandemic has put video game equipment in unusually high demand.
+    The gaming chair is ascendant.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gillian
-    Friedman</span>
+    By <span class="css-1n7hynb">Sanam Yar</span>
     
     </div>
     
@@ -1727,24 +1660,25 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/style/tiktok-ban-threat-trump.html)
+    [](/2020/08/07/business/how-to-handle-a-friendly-co-worker-whos-really-a-total-jerk.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/fashion/03TIKTOK-BAN-jp/03TIKTOK-BAN-jp-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/business/09Workfriend/merlin_175289196_8fae26c8-6101-4b0d-afe2-d90bc5a4cebe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok Ban? Creators and Fans Are Big Mad
+    ### <span class="css-m70j1g">work Friend</span>
     
-    The uncertainty over the future of the wildly popular video app has
-    brought chaos to its user community — and to the entertainment and
-    advertising industries as well.
+    ## How to Handle a ‘Friendly’ Co-Worker Who’s Really a Total Jerk
+    
+    A woman has a misogynist at her job. A 56-year-old despairs about
+    his prospects. And employees are asked to pay for their own
+    diversity training.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
+    By <span class="css-1n7hynb">Roxane Gay</span>
     
     </div>
     
@@ -1762,31 +1696,24 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    [](/2020/08/07/realestate/pandemic-puppy-home-design.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/realestate/09rightathome/merlin_175306422_4265eced-7ae3-4c36-9ec7-39f2c4026a91-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    ### <span class="css-m70j1g">Right at Home</span>
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    ## Getting Your Home Ready for Your Pandemic Puppy
+    
+    You don’t have to give up on design just because the dog will
+    probably chew everything in sight.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen Browning</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes.com/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
+    By <span class="css-1n7hynb">Ronda Kaysen</span>
     
     </div>
     
@@ -1804,24 +1731,22 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    [](/2020/08/07/style/coronavirus-nyc-historic-season.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    ## A Season of Grief and Release: 5 Months of the Virus in New York City
     
-    Some retailers are turning to popular social media personalities to
-    detail post-pandemic protocols and boost the allure of visiting
-    their stores.
+    A photographic timeline of a historic half-year.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna
-    Maheshwari</span>
+    By <span class="css-1n7hynb">Daniel Arnold <span>and</span> Dodai
+    Stewart</span>
     
     </div>
     
@@ -1839,23 +1764,22 @@ story](#after-mid6)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/at-home/coronavirus-things-to-do-this-week.html)
+    [](/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/multimedia/02AH-calendar2-illo-web/02AH-calendar2-illo-web-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/realestate/07SUBURBS-COMBO/07SUBURBS-COMBO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Spend Time with Shakespeare’s Family and Take a Master Class in Ballet
+    ## Leaving New York: How to Choose the Right Suburb
     
-    As August arrives, you can learn how an author conjured Elizabethan
-    England and engage your children’s five senses in a mystery game.
+    Set your priorities — walkable town, easy commute, good schools,
+    waterfront access or something else? Then start exploring.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adriana Balsamo <span>and</span> Hilary
-    Moss</span>
+    By <span class="css-1n7hynb">Julie Lasky</span>
     
     </div>
     
@@ -1873,24 +1797,23 @@ story](#after-mid6)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -1914,8 +1837,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid7)
+[Continue reading the main story](#after-mid7)
 
 <div id="mid7" class="ad mid7-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1935,11 +1857,9 @@ story](#after-mid7)
     page for
     NYTimesStyles</span>](https://www.facebook.com/NYTimesStyles)
   - [**<span data-aria-hidden="true">NYTStyles</span><span class="css-1dv1kvn">twitter
-    page for
-    NYTStyles</span>](https://twitter.com/NYTStyles)
+    page for NYTStyles</span>](https://twitter.com/NYTStyles)
   - [**<span data-aria-hidden="true">NYTFashion</span><span class="css-1dv1kvn">twitter
-    page for
-    NYTFashion</span>](https://twitter.com/NYTFashion)
+    page for NYTFashion</span>](https://twitter.com/NYTFashion)
   - [**<span data-aria-hidden="true">NYTimesFashion</span><span class="css-1dv1kvn">instagram
     page for
     NYTimesFashion</span>](https://instagram.com/NYTimesFashion)
@@ -1954,8 +1874,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -2005,8 +1924,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

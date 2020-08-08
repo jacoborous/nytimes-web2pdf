@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -67,7 +66,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -167,108 +164,104 @@ story](#after-sponsor)
 
 <div class="css-apvlfc">
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Travis
-    Heying/The Wichita Eagle, via Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+    V. Agins/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/04/us/politics/04election-ledeall-marshall-sub/04election-ledeall-marshall-sub-thumbStandard.jpg)](/2020/08/04/us/politics/kobach-tlaib.html)
+    [![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-INTEL/09DC-INTEL-thumbStandard.jpg)](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
     </div>
     
-    ## [Kris Kobach Loses Kansas Senate Primary, Easing Republican Worries](/2020/08/04/us/politics/kobach-tlaib.html)
+    ## [Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
     
-    In Missouri, Cori Bush, a progressive activist, upset the 10-term
-    incumbent William Lacy Clay Jr., marking another major step forward
-    for the progressive movement in its bid to threaten centrist
-    officials.
+    But a new assessment says China would prefer to see the president
+    defeated, though it is not clear Beijing is doing much to meddle in
+    the 2020 campaign to help Joseph R. Biden Jr.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Astead W. Herndon</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Katie
-    Glueck</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julian E.
+    Barnes</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-factcheck/04dc-factcheck-thumbStandard.jpg)](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
+    [![](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/07dc-virus-cong-01-thumbStandard.jpg)](/2020/08/07/us/politics/trump-congress-stimulus.html)
     
     </div>
     
-    ### Fact Check
+    ## [Trump Threatens to Bypass Congress as Stimulus Talks Fail Again](/2020/08/07/us/politics/trump-congress-stimulus.html)
     
-    ## [Trump Cherry-Picks Coronavirus Data in Briefing Appearance](/2020/08/04/us/politics/coronavirus-trump-data-briefing.html)
-    
-    The president selectively highlighted statistics, falsely claimed
-    New York and New Jersey were solely responsible for high national
-    death rates and again wrongly asserted that a rise in cases was
-    because of
-    testing.
+    Democrats said the talks had been “disappointing,” and President
+    Trump promised to use executive orders to provide relief if no
+    agreement could be reached.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Linda
-    Qiu</span></span>
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jim
+    Tankersley</span></span>
     
     </div>
 
 <!-- end list -->
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    B. Thomas for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [In St. Louis, Testing Liberal Might Against a Democratic Fixture](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    ## [Trump, Russia and an Intelligence Document: Key Moments](/2020/08/08/us/politics/trump-russia.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-missouri1/merlin_175215426_0cf385fa-4f65-4647-a37c-380d53779281-thumbLarge.jpg)](/2020/08/02/us/politics/cori-bush-william-lacy-clay-missouri.html)
+    [![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-thumbLarge.jpg)](/2020/08/08/us/politics/trump-russia.html)
     
     </div>
     
-    Cori Bush, an activist backed by the progressive group Justice
-    Democrats, is trying to unseat 10-term Representative William Lacy
-    Clay in a bid to turn protest-movement fervor into hard political
-    power.
+    Officials told The New York Times Magazine that the draft of a
+    classified document reporting that Russia favored President Trump in
+    the 2020 election was changed to soften its assessment.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nicholas
-    Fandos</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alan
+    Yuhas</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Parker
-    Michels-Boyce for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
+    V. Agins/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/07/us/politics/07biden-memo1/07biden-memo1-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [What Happened to the Young Voters Focused on Guns?](/2020/08/03/us/politics/gun-control-voters.html)
+    ### political memo
+    
+    ## [Why Joe Biden Keeps Missing His Own V.P. Deadlines](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
     
     <div class="css-1s9ra41">
     
-    [![](https://static01.nyt.com/images/2020/08/03/us/politics/03guns-politics1/03guns-politics1-thumbLarge.jpg)](/2020/08/03/us/politics/gun-control-voters.html)
+    [![](https://static01.nyt.com/images/2020/08/07/us/politics/07biden-memo1/07biden-memo1-thumbLarge.jpg)](/2020/08/07/us/politics/joe-biden-vice-presidential-search.html)
     
     </div>
     
-    It’s not their top issue anymore, but many see it as a part of
-    other, larger
-    concerns.
+    On issues big and small, Joseph R. Biden Jr. will not be rushed,
+    including the critical choice of a running mate. He’s deliberative,
+    and he doesn’t mind extending his timetable — again and again.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Giovanni
-    Russonello</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Glueck</span></span>
     
     </div>
 
@@ -286,8 +279,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -328,24 +320,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    [](/2020/08/08/us/politics/trump-russia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+    ## Trump, Russia and an Intelligence Document: Key Moments
     
-    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
-    billed as an opportunity to highlight Taiwan’s success in battling
-    the coronavirus pandemic.
+    Officials told The New York Times Magazine that the draft of a
+    classified document reporting that Russia favored President Trump in
+    the 2020 election was changed to soften its assessment.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Amy
-    Qin</span>
+    By <span class="css-1n7hynb">Alan Yuhas</span>
     
     </div>
     
@@ -363,22 +354,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/kanye-west-president-republicans.html)
+    [](/2020/08/08/business/economy/lost-unemployment-benefits.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04KANYE/merlin_174748251_b5592810-884e-4313-95a3-a327a0a3c5a3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/business/00virus-cliff1c/00virus-cliff1c-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Republicans Aid Kanye West’s Bid to Get on the 2020 Ballot
+    ## Without $600 Weekly Benefit, Unemployed Face Bleak Choices
     
-    At least four people involved in the effort to get Kanye West’s name
-    before voters in several states have G.O.P. connections, renewing
-    questions about the aim of his
-    campaign.
+    A federal supplement to jobless pay was a lifeline for millions and
+    for the economy. Its cutoff, even if temporary, may have lasting
+    consequences.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Casselman <span>and</span> Gillian
+    Friedman</span>
     
     </div>
     
@@ -396,25 +389,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/coronavirus-recovery-plan-negotiations.html)
+    [](/2020/08/08/style/katie-hill-she-will-rise-revenge-porn.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-virus-cong/merlin_175309938_0696afcb-d343-4aea-b5c1-8fd0ba2769de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/fashion/08KATIE-HILL1/08KATIE-HILL1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trading Concessions on Recovery Plan, Negotiators Set Week’s End Deadline for a Deal
+    ## The Nudes Aren’t Going Away. Katie Hill’s OK With That.
     
-    White House officials and top Democrats reported some movement in
-    their talks on a pandemic relief package as the talks reached a
-    crisis point on Capitol Hill.
+    Nine months after stepping down from Congress, she is trying to move
+    forward.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
-    Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Jessica Bennett</span>
     
     </div>
     
@@ -432,25 +422,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/decoding-the-trump-ad-buy.html)
+    [](/2020/08/08/us/politics/biden-vp-chris-dodd.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04onpolitics-pm/merlin_175276041_e18fad70-18ca-41e9-8430-c0e6a0591a59-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/00dodd1/merlin_36514615_dcf57ca5-d1c3-4ae1-b32d-a6c14fe5ca3c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics Media Watch</span>
+    ## Chris Dodd, an Insider From Biden’s Past, Is Helping Him Pick His Future
     
-    ## Decoding the Trump Ad Buy
-    
-    After going dark on the TV airwaves last week, the Trump campaign
-    has returned, targeting early voting states.
+    As Biden works to win over progressive voters, he has empowered a
+    Washington uber-veteran long trailed by allegations of personal and
+    financial indiscretion.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nick
-    Corasaniti</span>
+    By <span class="css-1n7hynb">Matt Flegenheimer, Rebecca R. Ruiz
+    <span>and</span> Sydney Ember</span>
     
     </div>
     
@@ -468,24 +457,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-land-conservation-bill.html)
+    [](/2020/08/08/us/politics/trump-tiktok-deal-treasury.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08dc-trump-deal01/merlin_175385274_5c253a96-ea25-4174-8386-27b256225651-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Signs Landmark Land Conservation Bill
+    ### <span class="css-m70j1g">White House MEmo</span>
     
-    The bipartisan Great American Outdoors Act guarantees funding for
-    federal land use efforts. The president claimed credit for
-    Republicans.
+    ## Trump Wants U.S. to Get Cut of Any TikTok Deal. No One Knows How That’d Work.
+    
+    The president has repeatedly called for a big payment to the
+    Treasury Department if a Chinese company sells the app to Microsoft,
+    but there is no provision in the law for that.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Michael D. Shear, Alan Rappeport
+    <span>and</span> Ana Swanson</span>
     
     </div>
     
@@ -503,24 +494,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/asl-interpreter-lawsuit-coronavirus-trump.html)
+    [](/2020/08/08/magazine/us-russia-intelligence.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/4xp-interpreter/4xp-interpreter-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/16/magazine/16mag-intellgence-homepagepromo/16mag-intellgence-homepagepromo-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Lawsuit Demands Sign Language at White House Virus Briefings
+    ### <span class="css-m70j1g">Feature</span>
     
-    The lack of American Sign Language interpreters at coronavirus
-    briefings violates the First Amendment, the National Association of
-    the Deaf says.
+    ## Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies
+    
+    Last year, intelligence officials gathered to write a classified
+    report on Russia’s interest in the 2020 election. An investigation
+    from the magazine uncovered what happened next.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Aimee
-    Ortiz</span>
+    By <span class="css-1n7hynb">Robert Draper</span>
     
     </div>
     
@@ -538,24 +530,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    [](/2020/08/08/us/politics/trump-biden-polls-interview.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08moments1/08moments1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    ### <span class="css-m70j1g">News Analysis</span>
     
-    The president’s assertion undercuts diplomats who have said
-    withdrawals will depend on the Taliban’s commitment to its peace
-    deal with the United States.
+    ## Trump’s Axios Interview, Kanye West’s Campaign: The Latest in the 2020 Race
+    
+    President Trump wants to brand Joe Biden as a doddering gaffe
+    machine. But the incumbent’s own rhetoric causes so much controversy
+    it is overwhelming the strategy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Gibbons-Neff</span>
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
+    Annie Karni</span>
     
     </div>
     
@@ -573,24 +567,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-immigration-wealth-test.html)
+    [](/2020/08/07/us/politics/trump-news-conference-bedminster.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-publiccharge/merlin_159196191_d223a2ab-038a-4108-8f96-6f011215a5d6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Appeals Court Blocks Immigrant Wealth Test in the Northeast
+    ## Away From Gridlock in Washington, Trump Puts on a Show for His Club
     
-    The federal court ruled that the Trump administration’s so-called
-    public charge rule for green card applicants could not go into
-    effect in New York, Connecticut and Vermont.
+    The president held what was billed as a news conference. But there
+    was almost no news, he again said the virus would disappear and his
+    audience seemed at times less the nation than his golf club members.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zolan
-    Kanno-Youngs</span>
+    By <span class="css-1n7hynb">Annie Karni <span>and</span> Maggie
+    Haberman</span>
     
     </div>
     
@@ -608,24 +602,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [](/2020/08/07/us/politics/postal-service-reorganization-mail-ballots.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/us/07dc-postal/merlin_175343967_1193d995-7caf-4b86-99da-3186ac0c799e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    ## Postal Service Leader Sets Reorganization Amid Scrutiny Over Mail Ballots
     
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record instead.
+    The Trump donor who runs the post office pledged that such changes
+    would not affect the ability to deliver ballots on time this fall.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
+    By <span class="css-1n7hynb">Michael D. Shear</span>
     
     </div>
     
@@ -643,24 +635,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-prosecutors.html)
+    [](/2020/08/07/us/politics/trump-congress-stimulus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/04/20/us/onpolitics-speech-bubble-white-still/onpolitics-speech-bubble-white-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics</span>
+    ## Trump Threatens to Bypass Congress as Stimulus Talks Fail Again
     
-    ## A Wider-Than-Thought Trump Investigation
-    
-    New York prosecutors may be circling the president’s business
-    practices: This is your morning tip sheet.
+    Democrats said the talks had been “disappointing,” and President
+    Trump promised to use executive orders to provide relief if no
+    agreement could be reached.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Giovanni Russonello</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Jim
+    Tankersley</span>
     
     </div>
     
@@ -678,24 +670,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -719,8 +710,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -751,8 +741,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -769,8 +758,7 @@ story](#after-mktg)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">nytpolitics</span><span class="css-1dv1kvn">twitter
-    page for
-    nytpolitics</span>](https://twitter.com/nytpolitics)
+    page for nytpolitics</span>](https://twitter.com/nytpolitics)
   - [**<span data-aria-hidden="true">nytpolitics</span><span class="css-1dv1kvn">facebook
     page for nytpolitics</span>](https://www.facebook.com/nytpolitics)
 
@@ -814,8 +802,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

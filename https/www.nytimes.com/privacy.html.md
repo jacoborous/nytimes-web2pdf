@@ -2,7 +2,7 @@
 
 <div class="App">
 
-<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+<div class="css-kq8yt" role="dialog" data-aria-modal="false">
 
 <div class="css-tpyegx">
 
@@ -25,7 +25,7 @@ Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
 
 </div>
 
-<div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
+<div class="css-wo5zbc" role="main" data-aria-hidden="false">
 
 <div class="Home">
 
@@ -105,14 +105,13 @@ Policy](/privacy/privacy-policy).
 
 </div>
 
-Why does The Times collect (and use) my
-data?
+Why does The Times collect (and use) my data?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-why-does-the-times-collect-and-use-my-data" class="accordion-content answer open" data-role="region" data-aria-labelledby="why-does-the-times-collect-and-use-my-data">
+<div id="region-why-does-the-times-collect-and-use-my-data" class="accordion-content answer open" role="region" data-aria-labelledby="why-does-the-times-collect-and-use-my-data">
 
 At The Times, we aim to create the best possible reader experience
 across every medium. This involves knowing certain things about our
@@ -141,14 +140,13 @@ targeted at the right audiences.
 
 </div>
 
-What type of data is collected about me when I’m accessing The
-Times?
+What type of data is collected about me when I’m accessing The Times?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-type-of-data-is-collected-about-me" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-type-of-data-is-collected-about-me">
+<div id="region-what-type-of-data-is-collected-about-me" class="accordion-content answer open" role="region" data-aria-labelledby="what-type-of-data-is-collected-about-me">
 
 Different types of data are collected based on the different Times
 services you use. There are effectively two types of data collection:
@@ -164,8 +162,7 @@ reading behavior, like which articles you read or how often you visit
 The Times. Third-party advertisers collect behavioral data associated
 with their ads shown on our site or apps. Additionally, we collect data
 about readers from sources like privately owned databases and social
-media
-platforms.
+media platforms.
 
 </div>
 
@@ -179,14 +176,13 @@ platforms.
 
 </div>
 
-What does The Times do with data it collects on
-me?
+What does The Times do with data it collects on me?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-does-the-times-do-with-the-data-it-collects-on-me" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-does-the-times-do-with-the-data-it-collects-on-me">
+<div id="region-what-does-the-times-do-with-the-data-it-collects-on-me" class="accordion-content answer open" role="region" data-aria-labelledby="what-does-the-times-do-with-the-data-it-collects-on-me">
 
 We use it to cater our journalism and other offerings to you, like by
 recommending stories that may be of interest. The specific data we use
@@ -206,14 +202,13 @@ advertising.
 
 </div>
 
-How are you keeping my data
-safe?
+How are you keeping my data safe?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-are-you-keeping-my-data-safe" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-are-you-keeping-my-data-safe">
+<div id="region-how-are-you-keeping-my-data-safe" class="accordion-content answer open" role="region" data-aria-labelledby="how-are-you-keeping-my-data-safe">
 
 We have implemented organizational, technological and physical
 safeguards designed to keep our readers’ data secure internally. The
@@ -232,14 +227,13 @@ we take to protect your data.
 
 </div>
 
-What are some ways I can protect my
-data?
+What are some ways I can protect my data?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-are-some-ways-i-can-protect-my-data" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-are-some-ways-i-can-protect-my-data">
+<div id="region-what-are-some-ways-i-can-protect-my-data" class="accordion-content answer open" role="region" data-aria-labelledby="what-are-some-ways-i-can-protect-my-data">
 
 We encourage our readers to take steps to safeguard their own data. We
 recently published a guide on this topic: [How to Protect Your Digital
@@ -257,14 +251,13 @@ Privacy](https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digi
 
 </div>
 
-Why am I given the option to use Facebook and Google for
-log-in?
+Why am I given the option to use Facebook and Google for log-in?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-why-am-i-given-the-option-to-use-facebook-and-google" class="accordion-content answer open" data-role="region" data-aria-labelledby="why-am-i-given-the-option-to-use-facebook-and-google">
+<div id="region-why-am-i-given-the-option-to-use-facebook-and-google" class="accordion-content answer open" role="region" data-aria-labelledby="why-am-i-given-the-option-to-use-facebook-and-google">
 
 Our readers have voiced a desire for our log-in process to be even
 simpler.
@@ -287,14 +280,13 @@ page](https://help.nytimes.com/hc/en-us/articles/115014887628-Social-login).
 
 </div>
 
-How can I learn more about how companies use personal data
-online?
+How can I learn more about how companies use personal data online?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-can-i-learn-more-about-how-companies-use-personal-data-online" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-can-i-learn-more-about-how-companies-use-personal-data-online">
+<div id="region-how-can-i-learn-more-about-how-companies-use-personal-data-online" class="accordion-content answer open" role="region" data-aria-labelledby="how-can-i-learn-more-about-how-companies-use-personal-data-online">
 
 The Times regularly publishes pieces on the topic, including in
 [Business](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html),

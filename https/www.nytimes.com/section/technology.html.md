@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -67,32 +66,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
+<div id="site-content" role="main">
 
 <div id="collection-technology" class="section css-15h4p1b e9abtgs0">
 
@@ -110,8 +84,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -155,8 +128,7 @@ story](#after-sponsor)
 6.  [Technology](/section/technology)
 7.  [Personal Tech](/section/technology/personaltech)
 8.  [Entrepreneurship](/section/business/smallbusiness)
-9.  [Your
-Money](/section/your-money)
+9.  [Your Money](/section/your-money)
 
 <div class="css-4svvz1 ekkqrpp0">
 
@@ -166,96 +138,92 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
-    Sullivan/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/04/business/04levandowski2/merlin_161433504_890e9630-5bd1-47f0-b55c-504c6980e87a-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/business/07jpDC-ORDERs-print/merlin_175392885_12569975-dca2-460a-83de-8e4453ec2632-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Star Technologist Who Crossed Google Sentenced to 18 Months in Prison](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    ## [Trump’s Orders on WeChat and TikTok Are Uncertain. That May Be the Point.](/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
     
-    Anthony Levandowski, a onetime star Silicon Valley engineer of
-    self-driving cars, had pleaded guilty to stealing trade
-    secrets.
+    The restrictions on the two Chinese-owned apps followed a familiar
+    model for other policy announcements on China from the Trump
+    administration.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kate
-    Conger</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ana
+    Swanson</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ty
-    Wright for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+    Dean for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/world/07JPchina-wechat1-print/merlin_139155753_efcaf9ee-1c9a-4a78-9a29-81cfc90402bf-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Square Feet
-    
-    ## [For Robots, It’s a Time to Shine (and Maybe Disinfect)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    ## [Targeting WeChat, Trump Takes Aim at China’s Bridge to the World](/2020/08/07/business/trump-china-wechat-tiktok.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbStandard.jpg)](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    [![](https://static01.nyt.com/images/2020/08/08/world/07JPchina-wechat1-print/07china-wechat-1-thumbStandard.jpg)](/2020/08/07/business/trump-china-wechat-tiktok.html)
     
     </div>
     
-    The pandemic has turned cleaning and other mundane building tasks
-    into a challenge, stoking interest in machines as cost-effective
-    solutions.
+    The all-purpose app, which the administration is restricting along
+    with TikTok, is how many Chinese living abroad stay in touch with
+    one another, and with people back home.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Lisa
-    Prevost</span></span>
+    <span class="css-1baulvz" itemprop="name">Paul Mozur</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Raymond
+    Zhong</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephen
-    Lam/Reuters</span>](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Danish
+    Siddiqui/Reuters</span>](https://static01.nyt.com/images/2020/08/06/business/06dc-chinaban1/merlin_175366002_fe1eaecc-4bf3-4dfe-8538-24ad1d4024bb-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Apple Replaces Phil Schiller as Its Top Marketing Executive](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    ## [Trump Targets WeChat and TikTok, in Sharp Escalation With China](/2020/08/06/technology/trump-wechat-tiktok-china.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-thumbStandard.jpg)](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    [![](https://static01.nyt.com/images/2020/08/06/business/06dc-chinaban1/merlin_175366002_fe1eaecc-4bf3-4dfe-8538-24ad1d4024bb-thumbStandard.jpg)](/2020/08/06/technology/trump-wechat-tiktok-china.html)
     
     </div>
     
-    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
-    at the
-    company.
+    The government cited national security concerns in announcing
+    sweeping restrictions on two popular Chinese social media networks,
+    a move that is likely to be met with retaliation.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Davey Alba</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Brian X.
-    Chen</span></span>
+    <span class="css-1baulvz" itemprop="name">Ana Swanson</span>,
+    <span class="css-1baulvz" itemprop="name">Mike Isaac</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Paul
+    Mozur</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ceylan
-    Maurer</span>](https://static01.nyt.com/images/2020/08/04/business/04ontech/04ontech-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Facebook</span>](https://static01.nyt.com/images/2020/08/08/multimedia/06Facebookgaming-print/06Facebook-Apple-game-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### on tech
-    
-    ## [When Taming Big Tech Goes Wrong](/2020/08/04/technology/europe-big-tech.html)
+    ## [Facebook Gaming Finally Clears Apple Hurdle, Arriving in App Store](/2020/08/07/technology/facebook-apple-gaming-app-store.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.nyt.com/images/2020/08/04/business/04ontech/04ontech-thumbStandard.jpg)](/2020/08/04/technology/europe-big-tech.html)
+    [![](https://static01.nyt.com/images/2020/08/08/multimedia/06Facebookgaming-print/06Facebook-Apple-game-thumbStandard.jpg)](/2020/08/07/technology/facebook-apple-gaming-app-store.html)
     
     </div>
     
-    What the United States can learn from Europe’s efforts to restrain
-    America’s tech
-    giants.
+    Saying Apple forced changes during months of rejection, the social
+    network is releasing a version for iPhone and iPad users today.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Shira
-    Ovide</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Seth
+    Schiesel</span></span>
     
     </div>
 
@@ -271,8 +239,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -288,8 +255,7 @@ story](#after-mid1)
 
 ## [Personal Technology](/section/technology/personaltech)
 
-[More in Personal Technology
-    »](/section/technology/personaltech)
+[More in Personal Technology »](/section/technology/personaltech)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
     Wilson/The New York
@@ -317,8 +283,7 @@ story](#after-mid1)
     ## [William English, Who Helped Build the Computer Mouse, Dies at 91](/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html)
     
     He was one of the computing pioneers who “showed what a computer
-    interface could — and should — look like,” a colleague
-    said.
+    interface could — and should — look like,” a colleague said.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Cade
@@ -334,8 +299,7 @@ story](#after-mid1)
     ## [How to Fight Against Big Tech’s Power](/2020/07/29/technology/personaltech/big-tech-power-how-to-fight.html)
     
     We are beholden to a few Big Tech overlords for much of our digital
-    lives. We can be more conscientious about
-    it.
+    lives. We can be more conscientious about it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
@@ -350,8 +314,7 @@ story](#after-mid1)
     ## [Livestream Your Wedding Like a Pro](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
     
     These gadgets will help you improve the production quality and
-    create memorable experiences for you and your digital
-    guests.
+    create memorable experiences for you and your digital guests.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Daniel
@@ -407,23 +370,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [](/2020/08/07/technology/trump-tiktok-wechat.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/business/07ontech-videostill/07ontech-videostill-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    ### <span class="css-m70j1g">on tech</span>
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of operation.
+    ## Trump Swings Against TikTok, WeChat
+    
+    President Trump signed executive orders against two popular
+    China-based apps. Let me try to explain.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks Barnes</span>
+    By <span class="css-1n7hynb">Shira Ovide</span>
     
     </div>
     
@@ -441,17 +405,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/google-fitbit-europe.html)
+    [](/2020/08/07/style/kibbo-van-life-startup.html)
     
-    ## Google Faces European Inquiry Into Fitbit Acquisition
+    <div class="css-79elbk">
     
-    Authorities are investigating how Google will use health and
-    wellness data collected from Fitbit’s fitness tracking devices.
+    ![](https://static01.nyt.com/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What if Your Home Could Be Mobile, but Also You Could Park It?
+    
+    A start-up rethinks a little about how to live.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam
-    Satariano</span>
+    By <span class="css-1n7hynb">Candace Jackson</span>
     
     </div>
     
@@ -469,24 +437,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    [](/2020/08/07/style/gamer-chair-market-herman-miller.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    ## This Is Not a Desk Chair
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    The pandemic has put video game equipment in unusually high demand.
+    The gaming chair is ascendant.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Sanam Yar</span>
     
     </div>
     
@@ -504,23 +470,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    [](/2020/08/07/technology/talkspace.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/business/07Talkspace-illo/07Talkspace-illo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    ## At Talkspace, Start-Up Culture Collides With Mental Health Concerns
     
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve ads.
+    The therapy-by-text company made burner phones available for fake
+    reviews and doesn’t adequately respect client privacy, former
+    employees say.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
+    By <span class="css-1n7hynb">Kashmir Hill <span>and</span> Aaron
+    Krolik</span>
     
     </div>
     
@@ -538,30 +505,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    [](/2020/08/06/technology/uber-ride-hailing-delivery-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/business/06markets-brf-uber/06markets-brf-uber-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    ## Uber’s Revenue Craters, as Deliveries Surge in Pandemic
     
-    The president’s interventions in company dealings based on his own
-    instincts are a departure from the arm’s-length approach of
-    predecessors of either party.
+    Uber said revenue fell 29 percent in the second quarter because
+    people traveled less, but food deliveries soared.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
-    Shear</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Kate Conger</span>
     
     </div>
     
@@ -579,23 +538,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/facebook-nyc-office-farley-building.html)
+    [](/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/nyregion/03nyfacebook-1/03nyfacebook-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/06INFLUENCER-PARTIES-tana-mongeau/merlin_159784014_0ad93863-3b6d-4f0e-9096-60ecf59256a9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Facebook Bets Big on Future of N.Y.C., and Offices, With New Lease
+    ## Why Influencers Won’t Stop Partying Anytime Soon
     
-    Despite the pandemic, the social media giant leased all the office
-    space in the former main post office at Penn Station in Midtown.
+    Creators in Los Angeles say that hosting and posting about big
+    social gatherings is part of their job, coronavirus or no.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matthew
-    Haag</span>
+    By <span class="css-1n7hynb">Taylor Lorenz</span>
     
     </div>
     
@@ -613,24 +571,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    [](/2020/08/06/world/europe/russia-extremisim-chat-group-sentence.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/world/06russia-extremism1/merlin_175367304_1311a450-a839-4ffb-ab93-5b5548c106d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    ## Chat Group Becomes Target of Moscow’s Wrath as Security Crackdown Widens
     
-    The president said he did not object to a potential acquisition of
-    the Chinese-owned app, retreating from comments about banning the
-    service.
+    The group started out as an online discussion of hobbies, schoolwork
+    and sometimes politics. But then it was infiltrated by an informer
+    for Russia’s all-powerful security services.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
-    Isaac</span>
+    By <span class="css-1n7hynb">Andrew Higgins</span>
     
     </div>
     
@@ -648,25 +605,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/tiktok-microsoft.html)
+    [](/2020/08/06/technology/the-cult-of-the-tech-genius.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03ontech/03ontech-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/business/06ontech/06ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">on tech</span>
     
-    ## The Strange Saga of TikTok
+    ## The Cult of the Tech Genius
     
-    The chief executive of a big tech company negotiated directly with
-    the U.S. president over an app. Say what?
+    It’s time to rethink how we treat and enable these brilliant — but
+    damaging — tech personalities.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
+    By <span class="css-1n7hynb">Shira Ovide</span>
     
     </div>
     
@@ -684,29 +640,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/tiktok-bytedance-us-china.html)
+    [](/2020/08/05/technology/trump-facebook-coronavirus-video.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/world/03china-tiktok1/03china-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/business/05trumpfacebook/05trumpfacebook-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How TikTok’s Owner Tried, and Failed, to Cross the U.S.-China Divide
+    ## Facebook Removes Trump Campaign’s Misleading Coronavirus Video
     
-    The founder of ByteDance, Zhang Yiming, dreamed of building a global
-    tech company based in China. Then the geopolitical reality set in.
+    It was the first time Facebook took down a post by Mr. Trump’s
+    campaign for spreading virus misinformation, but it did not signal a
+    change to the company’s defense of free expression.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Raymond
-    Zhong</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/technology/20200804/tiktok-trump-sale-microsoft/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/technology/20200804/tiktok-trump-sale-microsoft/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Cecilia Kang <span>and</span> Sheera
+    Frenkel</span>
     
     </div>
     
@@ -724,22 +675,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    [](/2020/08/05/technology/facebook-online-hate.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/business/05fbletter2/05fbletter2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens
+    ## Facebook Must Better Police Online Hate, State Attorneys General Say
     
-    Buying one of the largest and most influential social networks in
-    the country could change the perception of the tech giant.
+    The call from 20 state officials adds to the rising pressure facing
+    Mark Zuckerberg and his company.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Karen Weise</span>
+    By <span class="css-1n7hynb">Davey Alba</span>
     
     </div>
     
@@ -757,24 +708,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -798,8 +748,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -819,8 +768,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -879,8 +827,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,7 +66,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-travel" class="section css-15h4p1b e9abtgs0">
 
@@ -86,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -125,8 +146,7 @@ story](#after-sponsor)
 
 1.  [36 Hours](/column/36-hours)
 2.  [Frugal Traveler](/column/frugal-traveler)
-3.  [52 Places to
-Go](/interactive/2020/travel/places-to-visit.html)
+3.  [52 Places to Go](/interactive/2020/travel/places-to-visit.html)
 
 <div class="css-4svvz1 ekkqrpp0">
 
@@ -136,18 +156,53 @@ Go](/interactive/2020/travel/places-to-visit.html)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
-    Arduengo/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
+    Shelanski
+    </span>](https://static01.nyt.com/images/2020/08/06/travel/07canada-virus/oakImage-1596744232455-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
+    
+    Some Canadian citizens, concerned about the spread of the
+    coronavirus, are taking matters into their own hands and reporting
+    illegal American visitors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Schwartz</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+    Rose for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/06/travel/06National-seashores5/06National-seashores5-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](/2020/08/06/travel/National-Seashores.html)
+    
+    From California to Cape Cod, these national seashores and lakeshores
+    offer everything from bird-watching to boating to basking in the
+    sun.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jon
+    Waterman</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
+    Arduengo/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
     
     ## [The Caribbean Dilemma](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
     
     Many islands are open to American travelers. Going could mean
     bringing coronavirus to places ill prepared to deal with it. Not
-    going could mean deepening economic woes. How do you
-    choose?
+    going could mean deepening economic woes. How do you choose?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nina
@@ -155,7 +210,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.nyt.com/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-videoLarge-v2.jpg)
     
@@ -164,8 +219,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     ## [Should I Travel This Year?](/interactive/2020/07/31/travel/coronavirus-travel-risk.html)
     
     Travel looks very different in 2020. Here are some questions to help
-    you consider the risks to yourself and others if you take a
-    trip.
+    you consider the risks to yourself and others if you take a trip.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Sara Aridi</span> and
@@ -174,12 +228,18 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### The World Through a Lens
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
     Hautamaki</span>](https://static01.nyt.com/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### The World Through a Lens
     
     ## [A Visit to 5 of Patagonia’s Most Remote Schoolhouses](/2020/08/03/travel/remote-schools-patagonia.html)
     
@@ -193,7 +253,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
     Air</span>](https://static01.nyt.com/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -202,8 +262,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     Concerned about virus-related safety on commercial planes, many
     fliers are turning to private jets for the first time. The catch, of
-    course, is the
-    price.
+    course, is the price.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sally
@@ -211,66 +270,21 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
-    Taylor for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
+    Schukar for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The New College Drop-Off](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    ## [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](/2020/08/04/health/coronavirus-hotels-infect.html)
     
-    A bittersweet family tradition has become an exercise in risk
-    assessment, logistics and trying to understand ever-changing
-    rules.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Weed</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mohamed
-    Abd El
-    Ghany/Reuters</span>](https://static01.nyt.com/images/2020/07/24/travel/00Future-trips-virus01/00Future-trips-virus01-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Longer, Slower, Farther: Savoring the Prospects of Future Travels](/2020/07/28/travel/future-travel-bucket-list-coronavirus.html)
-    
-    In the travel lull induced by the pandemic, many people are planning
-    ambitious, once-in-a-lifetime trips. Optimists are targeting 2021.
-    For others, their next big trip will be in
-    2022.
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elaine
-    Glusac</span></span>
-    
-    </div>
-
-3.  ### The World Through a Lens
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tony
-    Cenicola/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/travel/27travel-michigan-promo/27travel-michigan-promo-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [On the Lookout for Moose on Michigan’s Isle Royale](/2020/07/27/travel/moose-michigan-isle-royale.html)
-    
-    The remote Isle Royale, tucked away in the northern reaches of Lake
-    Superior, is one of America’s least visited national
-    parks.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Tony
-    Cenicola</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Matt
+    Richtel</span></span>
     
     </div>
 
@@ -284,8 +298,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     For Americans eager to resume international travel, here are the
     countries that currently allow U.S. citizens to enter, though there
-    may be
-    restrictions.
+    may be restrictions.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Karen
@@ -301,9 +314,8 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
     
-    Nearly half of the states have strict measures in place for
-    visitors, from mandatory testing to quarantine
-    requirements.
+    Nearly half of the states have measures in place for visitors, from
+    mandatory testing to quarantine requirements.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Karen
@@ -325,8 +337,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -342,8 +353,7 @@ story](#after-mid1)
 
 ## [The New World of Travel](/spotlight/the-new-world-of-travel)
 
-[More in The New World of Travel
-    »](/spotlight/the-new-world-of-travel)
+[More in The New World of Travel »](/spotlight/the-new-world-of-travel)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nick
     Oxford/Reuters</span>](https://static01.nyt.com/images/2020/05/06/multimedia/06FOT-coverairplanes/06FOT-coverairplanes-videoLarge-v2.jpg)
@@ -354,8 +364,7 @@ story](#after-mid1)
     
     Perhaps no industry has been as hard hit by the pandemic as tourism.
     As restrictions on companies and travelers ease, what will the new
-    world look
-    like?
+    world look like?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Elaine Glusac</span>,
@@ -365,7 +374,24 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+    Taylor for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The New College Drop-Off](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    
+    A bittersweet family tradition has become an exercise in risk
+    assessment, logistics and trying to understand ever-changing rules.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Weed</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
     Walthall</span>](https://static01.nyt.com/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -374,8 +400,7 @@ story](#after-mid1)
     
     I wasn’t looking for an exotic vacation, just a temporary reprieve
     from compulsive news-watching and a dose of in-person fun with
-    family and
-    friends.
+    family and friends.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
@@ -383,7 +408,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
     A. Mccoy/Getty
     Images</span>](https://static01.nyt.com/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-videoLarge.jpg)
     
@@ -393,8 +418,7 @@ story](#after-mid1)
     
     An executive for the airline explains its distancing practices and
     approach to cleaning at a time when its biggest rivals are selling
-    all the seats they
-    can.
+    all the seats they can.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Niraj
@@ -402,7 +426,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -410,33 +434,10 @@ story](#after-mid1)
     
     Six travel workers from Alaska to the Maldives talk about returning
     to the job. They are in a new world, with restrictions and health
-    measures, uncertainty and new
-    procedures.
+    measures, uncertainty and new procedures.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Emily Palmer</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Tariro
-    Mzezewa</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
-    Lipton</span>](https://static01.nyt.com/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Vacation in the Summer of Covid-19](/2020/07/16/travel/virus-vacation.html)
-    
-    Traveling during a pandemic requires lots of research, precision
-    planning and a willingness to play by new and very stringent rules.
-    For these writers, it still felt good to get
-    away.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Eric Lipton</span>,
-    <span class="css-1baulvz" itemprop="name">Christopher
-    Solomon</span>, <span class="css-1baulvz" itemprop="name">Sheila
-    Marikar</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Tariro
     Mzezewa</span></span>
     
@@ -448,8 +449,7 @@ story](#after-mid1)
 
 ## [Tripped Up](/column/tripped-up)
 
-[More in Tripped Up
-    »](/column/tripped-up)
+[More in Tripped Up »](/column/tripped-up)
 
 1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Wanda
@@ -478,8 +478,7 @@ story](#after-mid1)
     
     Here we are, wondering aloud about the oversight capabilities of
     hotel franchises, and what powers they can exert over their
-    thousands of individual owners. Thanks
-    Covid-19.
+    thousands of individual owners. Thanks Covid-19.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -496,8 +495,7 @@ story](#after-mid1)
     
     Unclear policies, confusing customer-service protocols and
     not-yet-fulfilled refunds continue to be an issue. Our columnist
-    sees what she can
-    do.
+    sees what she can do.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -513,8 +511,7 @@ story](#after-mid1)
     ## [Help\! One Company Refused to Refund Travelers More Than $100,000](/2020/05/25/travel/coronavirus-refunds-overseas-adventure-travel.html)
     
     Then our columnist intervened with the Boston-based tour operator
-    Overseas Adventure
-    Travel.
+    Overseas Adventure Travel.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -531,8 +528,7 @@ story](#after-mid1)
     
     There’s a reason we are deliberately pounding the topic of travel
     refunds into the ground: It’s a big deal and there’s lots of
-    confusion and contradictory information out
-    there.
+    confusion and contradictory information out there.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -550,8 +546,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -592,24 +587,22 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    [](/2020/08/07/arts/aidan-koch-postcards.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/arts/09diary-project-koch/09diary-project-koch-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    ## Why You Should Write Postcards, Even From Home
     
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the coronavirus.
+    A postcard functions outside the language of chats, emails, calls
+    and letters.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matt
-    Richtel</span>
+    By <span class="css-1n7hynb">Aidan Koch</span>
     
     </div>
     
@@ -622,6 +615,179 @@ story](#after-mid2)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/travel/USA-Travel-State-Department-warnings.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/realestate/06statedept-travel/merlin_172927290_49437ccf-29e0-47a3-9239-63742f08c1be-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The U.S. Lifted Its Advisory Against Traveling Abroad. What Does That Mean?
+    
+    After nearly five months, the State Department lifted its “do not
+    travel” advisory.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Tariro Mzezewa</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/arts/06suffragist-statue1/06suffragist-statue1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## For Three Suffragists, a Monument Well Past Due
+    
+    Central Park will soon unveil its first sculpture depicting
+    nonfictional female figures. “The fact that nobody even noticed that
+    women were missing in Central Park — what does that say about the
+    invisibility of women?”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alisha Haridasani Gupta</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/fashion/05HOME-COMFORTSArt/05HOME-COMFORTSArt-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Peanut Butter and Ranch Dressing: What Americans Abroad Miss From Home
+    
+    With virus cases in the United States rising and international
+    travel curtailed, many Americans do not know when they will be able
+    to reunite with home and the comforts they associate with it.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Valeriya Safronova</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/realestate/house-hunting-in-iceland-a-lakeside-summer-house-for-773000.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/realestate/05IHH-ICELAND-slide-5EHW/05IHH-ICELAND-slide-5EHW-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">International real estate</span>
+    
+    ## House Hunting in Iceland: A Lakeside Cabin for Under $800,000
+    
+    The country’s swift and successful response to the pandemic has
+    enabled its real estate market to stay open, encouraging an influx
+    of domestic buyers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sydney Franklin</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/travel/coronavirus-airplane-cleaning.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/travel/05travel-planes-promo/merlin_175085067_eef3d15a-1fff-4c92-a3a9-b706c2b907ef-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## See for Yourself: How Airplanes Are Cleaned Today
+    
+    Airlines are fine-tuning their cleaning procedures — where they
+    clean, how frequently and with which tools. This is what the new
+    processes look like.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mike Arnot <span>and</span> Stefano
+    Ukmar</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -645,8 +811,7 @@ story](#after-mid2)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Stephen Hiltner <span>and</span>
-    Phaedra
-    Brown</span>
+    Phaedra Brown</span>
     
     </div>
     
@@ -658,7 +823,7 @@ story](#after-mid2)
     
     </div>
 
-3.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -679,8 +844,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine
-    Cusumano</span>
+    By <span class="css-1n7hynb">Katherine Cusumano</span>
     
     </div>
     
@@ -692,7 +856,7 @@ story](#after-mid2)
     
     </div>
 
-4.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -714,8 +878,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lena
-    Wilson</span>
+    By <span class="css-1n7hynb">Lena Wilson</span>
     
     </div>
     
@@ -727,7 +890,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -758,203 +921,29 @@ story](#after-mid2)
     
     </div>
 
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/nyregion/coronavirus-nyc-tourism-restaurants.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/02/nyregion/02REFER2/00nyvirus-touristfood-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Food Tourists Trickle In to New York’s Pandemic Dining Scene
-    
-    Visitors — as long as they don’t come from a quarantine state — are
-    enjoying the city’s rooftop bars and sidewalk restaurants.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alyson
-    Krueger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/realestate/29IHH-NOVASCOTIA-slide-A0QU/29IHH-NOVASCOTIA-slide-A0QU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">International real estate</span>
-    
-    ## House Hunting in Nova Scotia: A Sprawling Seaside Villa for $2 Million
-    
-    The eastern Canadian province has managed to make up for the loss of
-    foreign buyers with more domestic transactions, staving off the
-    worst of the pandemic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alison
-    Gregor</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/nyregion/lake-solitude-closed-racism.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/27/nyregion/00LakeSolitude-1/00LakeSolitude-1-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Hidden Gem’ Made Popular by TikTok Is Shut to Keep Out-of-Towners Away
-    
-    A lake in New Jersey was closed to curb the spread of the
-    coronavirus, but some complaints about recent crowding there focused
-    on the ethnicity of visitors.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah Maslin
-    Nir</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/books/time-for-a-literary-road-trip.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/books/review/roadbooks1/roadbooks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Time for a Literary Road Trip
-    
-    If you’re feeling nostalgic for the quintessential summer vacation,
-    pick up one of these books.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Noor
-    Qasim</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/science/virgin-galactic-cabin.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/28/science/28VIRGINGALACTIC2/28VIRGINGALACTIC2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Virgin Galactic Unveils Comfy Cabin for Jet-Setting to the Edge of Space
-    
-    Passengers able to pay hundreds of thousands of dollars for a seat
-    can escape gravity for a few minutes.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 <div class="css-13mho3u">
 
 <div class="css-1t62hi8">
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -978,8 +967,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid3)
+[Continue reading the main story](#after-mid3)
 
 <div id="mid3" class="ad mid3-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -996,8 +984,7 @@ story](#after-mid3)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">@NYTimesTravel</span><span class="css-1dv1kvn">twitter
-    page for
-    @NYTimesTravel</span>](https://twitter.com/NYTimesTravel)
+    page for @NYTimesTravel</span>](https://twitter.com/NYTimesTravel)
   - [**<span data-aria-hidden="true">NYTimesTravel</span><span class="css-1dv1kvn">facebook
     page for
     NYTimesTravel</span>](https://www.facebook.com/NYTimesTravel)
@@ -1012,8 +999,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1063,8 +1049,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 
