@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -33,7 +32,7 @@ index](#site-index)
 
 </div>
 
-<div class="css-11kjks6" data-role="region" data-aria-label="comments panel" tabindex="-1">
+<div class="css-11kjks6" role="region" data-aria-label="comments panel" tabindex="-1">
 
 <div class="css-1h21wu5">
 
@@ -74,7 +73,7 @@ publication, write to <letters@nytimes.com>.
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 Talk
 
@@ -83,8 +82,7 @@ Talk
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">David
-Marchese</span>Aug. 3,
-2020
+Marchese</span>Aug. 3, 2020
 
 </div>
 
@@ -92,7 +90,7 @@ Marchese</span>Aug. 3,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -103,7 +101,7 @@ Marchese</span>Aug. 3,
     
     </div>
 
-  - *<span class="css-1dtr3u3">146</span>*
+  - *<span class="css-1dtr3u3">157</span>*
 
 </div>
 
@@ -114,7 +112,7 @@ Marchese</span>Aug. 3,
 “There’s such a laziness about reaching for the thing that is most
 familiar.”
 
-<div id="padma-lakshmi-interview" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium" data-id="100000007267675">
+<div id="padma-lakshmi-interview" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -193,8 +191,7 @@ eat, and I will tell you who you are.”](http://nytimes.com#tooltip-1)
 Through food, you can tell a lot about not only a person or a family but
 also a community. You can trace history through foods. You can trace
 colonization. Food can be a great instrument, and that is how I try to
-use
-it.
+use it.
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -271,8 +268,7 @@ blow-up](http://nytimes.com#tooltip-6)** **with her and Chrissy Teigen
 and Marie Kondo signify to you?** I think she, like all of us sometimes,
 suffered from a bad case of foot-in-mouth disease. It’s unfortunate. I
 think all three of those women probably want the story to go away.
-That’s all I will say about
-it.
+That’s all I will say about it.
 
 ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
@@ -413,12 +409,11 @@ conversations.*
 
 <div class="css-1oeie6n">
 
-Read 146
-Comments
+Read 157 Comments
 
 </div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -445,8 +440,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -484,8 +478,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

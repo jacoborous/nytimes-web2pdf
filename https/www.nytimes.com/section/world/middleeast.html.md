@@ -26,8 +26,7 @@
 
 <div id="masthead-section-label" class="css-1fnb9ct eaxe0e00">
 
-[Middle
-East](https://www.nytimes.com/section/world/middleeast)
+[Middle East](https://www.nytimes.com/section/world/middleeast)
 
 </div>
 
@@ -67,7 +66,7 @@ East](https://www.nytimes.com/section/world/middleeast)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -77,8 +76,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -110,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -176,22 +173,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/world/middleeast/beirut-explosion.html)
+    [](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/world/05lebanon-briefing-1sub/merlin_175321077_5b30b6db-7a82-407b-9bf0-064c6b78641d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/merlin_175465020_2c9785c9-935a-4d38-bf06-2b83d2aee8de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## After Deadly Beirut Explosion, a Search for Answers and Survivors: Live Updates
+    ## Clashes Erupt in Beirut at Blast Protest as Lebanon’s Anger Boils Over
     
-    Rescue workers dug through rubble searching for survivors as fires
-    continued to burn in the Lebanese capital’, where an explosion
-    killed more than 100 and injured
-    thousands.
+    The demonstrations were fueled by fury over the corruption and
+    negligence of the country’s ruling elite. Security forces fired tear
+    gas to push back the protesters.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Mona
+    El-Naggar</span>
     
     </div>
     
@@ -209,29 +208,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/lebanon-explosion-beirut.html)
+    [](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/world/04beirut-first-account/merlin_175303311_606f30a4-a476-48ec-9327-c93d6f96b2d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/world/07hariri2/07hariri2-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## I Was Bloodied and Dazed. Beirut Strangers Treated Me Like a Friend.
+    ## As Lebanon Reels, Long-Awaited Hariri Assassination Verdicts Loom
     
-    In a land conditioned by calamity, people knew what to do, including
-    helping wounded people they didn’t know.
+    A U.N.-backed court will soon pronounce verdicts in a 15-year-old
+    bombing in Beirut that roiled the Middle East. But critics say the
+    court’s protracted deliberations and huge expense have undermined
+    its original purpose.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Vivian
+    By <span class="css-1n7hynb">Marlise Simons <span>and</span> Vivian
     Yee</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/world/20200805/beirut-explosion-first-person/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/world/20200805/beirut-explosion-first-person/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -249,24 +244,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/interactive/2020/08/04/world/middleeast/beirut-explosion-damage.html)
+    [](/2020/08/08/world/middleeast/coronavirus-gaza.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/world/07gaza-12/07gaza-12-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Mapping the Damage From the Beirut Explosions
+    ## Coronavirus Spares Gaza, but Travel Restrictions Do Not
     
-    Damage was seen at least two miles from the explosions, encompassing
-    an area with more than 750,000 residents.
+    The blockaded Gaza Strip has not recorded any cases of community
+    transmission of the coronavirus, but new restrictions on movement
+    continue to make life difficult.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Anjali Singhvi, Scott Reinhard, Allison
-    McCann, Lauren Leatherby <span>and</span> Blacki
-    Migliozzi</span>
+    By <span class="css-1n7hynb">Adam Rasgon <span>and</span> Iyad
+    Abuheweila</span>
     
     </div>
     
@@ -284,24 +279,26 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/lebanon-explosion.html)
+    [](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/09/04/world/04lebanon-ledeall-1sub/04lebanon-ledeall-1sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/video/beirut-ship-a/beirut-ship-a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Blasts Rock Beirut, Killing Dozens and Wounding Thousands
+    ### <span class="css-m70j1g">visual investigations</span>
     
-    The cause remained unclear hours later. But officials in the
-    Lebanese capital said 2,750 tons of highly explosive ammonium
-    nitrate had been stored in a depot at the center of the explosion.
+    ## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
+    
+    The explosive material responsible for the Aug. 4 blast in Beirut
+    was carried there by the ailing cargo ship Rhosus in 2013. Here’s
+    what happened next.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Hubbard</span>
+    By <span class="css-1n7hynb">Christoph Koettl <span>and</span> Drew
+    Jordan</span>
     
     </div>
     
@@ -319,23 +316,31 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/beirut-lebanon-explosions-photos.html)
+    [](/ar/2020/08/07/world/middleeast/beirut-explosion-journalist.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/world/05lebanon-photos-1/merlin_175321224_4c4f7459-f64e-471a-8f2c-f934b55c6329-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/04/world/07beirut-first-person-ARABIC/merlin_175303311_606f30a4-a476-48ec-9327-c93d6f96b2d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Lebanon Explosions in Photos
+    ## كنت مضرجة بدمائي ومذهولة. أناس غرباء في بيروت عاملوني كأنني صديقة
     
-    Images from Beirut show the extent of the devastation from blasts
-    that shook the Lebanese capital on Tuesday.
+    علم الناس ما عليهم فعله في بلد تكيف مع البلاء، بما في ذلك مساعدة
+    جرحى لا يعرفونهم.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The New York
-    Times</span>
+    By <span class="css-1n7hynb">Vivian Yee</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion-beirut.html "Read in English")[Leer
+    en
+    español](https://www.nytimes.com/es/2020/08/05/espanol/mundo/libano-explosion-beirut.html "Read in Spanish")
     
     </div>
     
@@ -353,24 +358,28 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/trump-assad-syria-sanctions.html)
+    [](/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/us/politics/03dc-syria-sanctions/merlin_170451123_c94169bd-de3a-4340-90d7-06525b9de1dd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/world/06beirut-firefighter3/06beirut-firefighter3-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump’s Syria Sanctions ‘Cannot Solve the Problem,’ Critics Say
+    ## Paramedic Who Died in Beirut Explosion Is a Symbol of Lebanon’s Grief
     
-    Without a broader diplomatic effort, the newest and toughest
-    penalties will worsen a humanitarian crisis without forcing a
-    leadership change, experts say.
+    Sahar Fares, 27, was planning her wedding. Instead, her family held
+    her funeral after she died in the blast that tore through the city.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Pranshu Verma <span>and</span> Vivian
-    Yee</span>
+    By <span class="css-1n7hynb">Maria Abi-Habib</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes.com/world/20200807/beirut-explosion-paramedic-fares/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/world/20200807/beirut-explosion-paramedic-fares/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -388,24 +397,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/beirut-explosion-blast.html)
+    [](/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/world/04lebanon5/merlin_175300464_f2bfa9c9-20e6-4321-b833-b5160a0ead76-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/06dc-intel-hack/merlin_175379559_0e0ef0a1-2b9d-46dc-b67d-062544210235-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What We Know About the Explosions in Beirut, Lebanon
+    ## The Latest U.S. Tool to Fight Election Meddling: Text Messages
     
-    Dozens are dead and thousands hurt. The cause is unclear but the
-    government said “highly explosive materials” had been stored at the
-    blast scene in the Lebanese capital.
+    Washington sent offers to cellphones in Russia and Iran of rewards
+    of up to $10 million for information on hackers trying to attack
+    American voting systems.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Maria
-    Abi-Habib</span>
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
     
     </div>
     
@@ -423,24 +431,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html)
+    [](/2020/08/06/world/middleeast/saudi-prince-mohammed-lawsuit-aljabri.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/world/xxvirus-israel-schools5/xxvirus-israel-schools5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/05/21/world/06saudi-suit/21saudi-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## When Covid Subsided, Israel Reopened Its Schools. It Didn’t Go Well.
+    ## Former Saudi Official Accuses the Crown Prince of Trying to Kill Him
     
-    As countries consider back-to-school strategies for the fall, a
-    coronavirus outbreak at a Jerusalem high school offers a cautionary
-    tale.
+    Saad Aljabri, a former top intelligence official, filed suit in
+    Washington alleging that Crown Prince Mohammed bin Salman sent a
+    team of agents to Canada to kill him.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabel Kershner <span>and</span> Pam
-    Belluck</span>
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Mark
+    Mazzetti</span>
     
     </div>
     
@@ -458,24 +466,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/middleeast/israel-syria-border.html)
+    [](/2020/08/06/world/middleeast/beirut-explosion-bride-video.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/03/world/03israel-border1a/03israel-border1a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/world/06beirut-bride01/06beirut-bride01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Israel Says It Hit Bombers on Syrian Boundary
+    ## ‘Now You Are Going to Die’: Beirut Bride Recounts Moment of Blast
     
-    The military released grainy, edited footage of the ambush of what
-    it said were four militants planting explosives in the area, amid
-    heightened tensions along Israel’s northern frontiers.
+    Israa Seblani was posing for her wedding video when the camera
+    captured the instant a deadly blast tore through the city.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabel
-    Kershner</span>
+    By <span class="css-1n7hynb">Megan Specia</span>
     
     </div>
     
@@ -493,23 +499,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/middleeast/israel-Netanyahus-son-tweets.html)
+    [](/video/world/middleeast/100000007275939/beirut-bride-lebanon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/world/02israel-netanyahu/02israel-netanyahu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/world/06beirut-bride01/06beirut-bride01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Israeli Court Rebukes Prime Minister’s Son Over Harassing Protest Leaders
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Yair Netanyahu tweeted the addresses and phone numbers of three men
-    who led protests against his father’s administration. All three said
-    they later received death threats.
+    ## Video Shows Beirut Bride at the Moment of the Blast
+    
+    Just as Israa Seblani was posing for her wedding video, an explosion
+    tore through the city — leaving more than 135 dead and thousands
+    injured.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Adam Rasgon</span>
+    By <span class="css-1n7hynb">Storyful</span>
     
     </div>
     
@@ -527,24 +535,23 @@ story](#after-sponsor)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -568,8 +575,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -589,8 +595,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -640,8 +645,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -163,8 +160,7 @@ story](#after-sponsor)
     
     African-Americans are 75 percent more likely than others to live
     near facilities that produce hazardous waste. Can a grass-roots
-    environmental-justice movement make a
-    difference?
+    environmental-justice movement make a difference?
     
     <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Linda
@@ -183,8 +179,7 @@ story](#after-sponsor)
     ## [The Mysterious Life of Birds Who Never Come Down](/2020/07/29/magazine/vesper-flights.html)
     
     Swifts spend all their time in the sky. What can their journeys tell
-    us about the
-    future?
+    us about the future?
     
     <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Helen
@@ -204,8 +199,7 @@ story](#after-sponsor)
     
     Corruption, as much as violence, makes Iraq unlivable. It helped
     fuel the rise of ISIS. And America provides the cash to sustain it,
-    at least $10 billion a year in hard
-    currency.
+    at least $10 billion a year in hard currency.
     
     <span class="css-1oaezp0"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Robert F.
@@ -248,8 +242,7 @@ story](#after-sponsor)
     
     Respect for the other whom you do not know, but with a slightest
     stretch of mind, imagine you do. A poem that shrinks the distance
-    between
-    us.
+    between us.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz" itemprop="name">Tracy K. Smith</span> and
@@ -288,8 +281,7 @@ story](#after-sponsor)
     ## [Can My Boss Make Me Promise I Don’t Have Covid-19 Symptoms?](/2020/07/28/magazine/can-my-boss-make-me-promise-i-dont-have-covid-19-symptoms.html)
     
     The magazine’s Ethicist columnist on balancing workplace safety
-    against personal privacy, and
-    more.
+    against personal privacy, and more.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kwame Anthony
@@ -308,8 +300,7 @@ story](#after-sponsor)
     ## [Judge John Hodgman on Having TSA PreCheck When Your Fiancée Doesn’t](/2020/07/30/magazine/judge-john-hodgman-on-having-tsa-precheck-when-your-fiancee-doesnt.html)
     
     Should you get extra time at the food court or go through the line
-    for regular
-    people?
+    for regular people?
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">John
@@ -328,8 +319,7 @@ story](#after-sponsor)
     ## [His Face, Hands and Feet Swelled Up. What Was Going On?](/2020/07/30/magazine/urticaria-multiforme.html)
     
     The young boy’s grandmother saw strange red lines snaking around his
-    body. Could this be an allergic reaction? A rare autoimmune
-    disease?
+    body. Could this be an allergic reaction? A rare autoimmune disease?
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Lisa Sanders,
@@ -374,8 +364,7 @@ story](#after-sponsor)
     ## [How to Stop Biting Your Nails](/2020/07/28/magazine/how-to-stop-biting-your-nails.html)
     
     Start by becoming aware of the behavior. What mood accompanies the
-    biting? Are you more likely to chew in certain
-    rooms?
+    biting? Are you more likely to chew in certain rooms?
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Malia
@@ -415,8 +404,7 @@ story](#after-sponsor)
     ## [Bored With Your Home Cooking? Some Smoky Eggplant Will Fix That](/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html)
     
     These crispy-silky croquettes rise to the restaurant level of
-    cooking we’ve been
-    missing.
+    cooking we’ve been missing.
     
     <span class="css-me3p27"></span><span class="css-1q6w006 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Gabrielle
@@ -454,8 +442,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -499,8 +486,7 @@ story](#after-mid1)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

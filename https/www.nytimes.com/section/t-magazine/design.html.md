@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -165,8 +162,7 @@ story](#after-sponsor)
     ## [In a 19th-Century Cart House, a Designer Creates a Room of Her Own](/2020/07/31/t-magazine/design-bothy-anstruther.html)
     
     Harriet Anstruther has transformed a former outbuilding on her farm
-    in the British countryside into a maximalist
-    retreat.
+    in the British countryside into a maximalist retreat.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Aimee
@@ -189,8 +185,7 @@ story](#after-sponsor)
         ## [Inside an Eclectic Retreat on Shelter Island](/2020/07/10/t-magazine/jonathan-adler-simon-doonan-home.html)
         
         Jonathan Adler and Simon Doonan’s art- and design-filled summer
-        home is a place for both creativity and
-        downtime.
+        home is a place for both creativity and downtime.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Max
@@ -212,8 +207,7 @@ story](#after-sponsor)
         ## [10 Eclectic Homes to Get Lost In](/2020/05/08/t-magazine/house-tours-coronavirus-distraction.html)
         
         Rooms that are not just different than those you’re
-        self-isolating in but unlike most others,
-        too.
+        self-isolating in but unlike most others, too.
         
         <span class="css-me3p27"></span>
         
@@ -233,8 +227,7 @@ story](#after-sponsor)
         
         ## [Soothing Incense, Recommended by T Editors](/2020/06/09/t-magazine/best-incense.html)
         
-        Scented smoke for the good of your space and state of
-    mind.
+        Scented smoke for the good of your space and state of mind.
         
         <span class="css-me3p27"></span>
         
@@ -254,8 +247,7 @@ story](#after-sponsor)
     ## [How to Refresh Your Home With Minimal Fuss](/2020/05/21/t-magazine/redecorate-home-coronavirus.html)
     
     From reconsidering your lighting to upgrading your bedding,
-    suggestions for making the space you’re isolating in feel new
-    again.
+    suggestions for making the space you’re isolating in feel new again.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Tom
@@ -272,8 +264,7 @@ story](#after-sponsor)
     
     For centuries, Italy has prized the art of fashion and furniture
     design like no other country in the world, with generations
-    dedicated to traditional craftsmanship and
-    continuity.
+    dedicated to traditional craftsmanship and continuity.
     
     <span class="css-me3p27"></span>
     
@@ -290,8 +281,7 @@ story](#after-sponsor)
     
     Viola Lanari’s maximalist London apartment, which is filled with
     enchanting objects that include her own handcrafted lamps and
-    tables, has the feel of a small
-    museum.
+    tables, has the feel of a small museum.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Aimee
@@ -325,8 +315,7 @@ story](#after-sponsor)
     ## [A Glamorous, ’70s-Style Retreat in Downtown Manhattan](/2020/03/26/t-magazine/downtown-manhattan-apartment-alex-p-white.html)
     
     The interior designer Alex P. White transformed two rooms with
-    little natural light into a moody
-    oasis.
+    little natural light into a moody oasis.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Julia
@@ -351,8 +340,7 @@ story](#after-sponsor)
     
     A pair of Pennsylvania homes constructed by the Japanese-American
     furniture designer George Nakashima have become an enduring
-    testament to midcentury folk
-    craft.
+    testament to midcentury folk craft.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Michael
@@ -370,8 +358,7 @@ story](#after-sponsor)
     
     Outside Bordeaux, a Rem Koolhaas-designed villa has become a site
     for the inventiveness of Pierre Paulin, who dreamed up modular
-    furniture made of foam, resin and
-    fiberglass.
+    furniture made of foam, resin and fiberglass.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nancy
@@ -388,13 +375,11 @@ story](#after-sponsor)
     
     For a decade, the master gardener Dan Pearson has been creating a
     landscape that’s a testament to both his singular eye and Britain’s
-    natural
-    beauty.
+    natural beauty.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Marella
-    Caracciolo
-    Chia</span></span>
+    Caracciolo Chia</span></span>
     
     </div>
 
@@ -429,8 +414,7 @@ story](#after-sponsor)
     
     In recent years, once-tidy bouquets have become boundless, their
     diverse tangles of blooms, branches and weeds looking ever more like
-    art
-    installations.
+    art installations.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nancy
@@ -452,8 +436,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -469,8 +452,7 @@ story](#after-mid1)
 
 ## [By Design](/column/by-design)
 
-[More in By Design
-    »](/column/by-design)
+[More in By Design »](/column/by-design)
 
 1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marion
     Berrin</span>](https://static01.nyt.com/images/2019/12/06/t-magazine/06tmag-casaus-slide-RB8H/06tmag-casaus-slide-RB8H-videoLarge.jpg)
@@ -480,8 +462,7 @@ story](#after-mid1)
     ## [On the Rooftops of Paris, a New Kind of Urban Garden](/2019/12/06/t-magazine/paris-rooftop-garden.html)
     
     The landscape architect Arnaud Casaus is creating green spaces
-    wilder and warmer than those found at street
-    level.
+    wilder and warmer than those found at street level.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kurt
@@ -497,8 +478,7 @@ story](#after-mid1)
     ## [Outside, It’s Another Portland House. Inside, It’s Something Else.](/2019/11/05/t-magazine/portland-house-allie-furlotti-osmose-design.html)
     
     What first appears as a nondescript ’60s-era family home slowly
-    reveals itself to be a paragon of surrealist
-    design.
+    reveals itself to be a paragon of surrealist design.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nick
@@ -514,8 +494,7 @@ story](#after-mid1)
     ## [A Designer’s Williamsburg Apartment Bursting With Curios](/2019/10/18/t-magazine/sean-mcnanney.html)
     
     Over 15 years, Sean McNanney has transformed his small railroad
-    apartment in Brooklyn into a life-size mood
-    board.
+    apartment in Brooklyn into a life-size mood board.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alice
@@ -531,8 +510,7 @@ story](#after-mid1)
     ## [A Modernist Sanctuary That Overlooks the Trancoso Jungle](/2019/09/26/t-magazine/trancoso-brazil-house.html)
     
     The fashion executive turned hotelier Wilbert Das built a modern
-    vacation house steeped in Brazil’s design
-    history.
+    vacation house steeped in Brazil’s design history.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Michael
@@ -548,8 +526,7 @@ story](#after-mid1)
     ## [The 18th-Century Paris Apartment That Elegantly Blends Past and Future](/2019/09/03/t-magazine/place-des-victoires-paris-apartment.html)
     
     Studio KO reimagines a Place des Victoires pied-à-terre as a
-    minimalist sanctuary — out of time, yet completely
-    contemporary.
+    minimalist sanctuary — out of time, yet completely contemporary.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nancy
@@ -588,6 +565,39 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/06/t-magazine/loewe-home-scents-candles.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/t-magazine/-06tmag-loewe-slide-CKPS/-06tmag-loewe-slide-CKPS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Inspired by Memories and Remedies, Earthy Home Scents From Loewe
+    
+    An amateur plantsman, Jonathan Anderson shares his bounty with the
+    rest of us.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alice Cavanagh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
     
     <div class="css-79elbk">
@@ -604,8 +614,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Alice
-    Newell-Hanson</span>
+    By <span class="css-1n7hynb">Alice Newell-Hanson</span>
     
     </div>
     
@@ -617,7 +626,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -641,8 +650,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Jason
-    Farago</span>
+    By <span class="css-1n7hynb">Jason Farago</span>
     
     </div>
     
@@ -654,7 +662,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -685,7 +693,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -709,8 +717,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Suleman
-    Anaya</span>
+    By <span class="css-1n7hynb">Suleman Anaya</span>
     
     </div>
     
@@ -722,7 +729,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -746,8 +753,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Kimmelman</span>
+    By <span class="css-1n7hynb">Michael Kimmelman</span>
     
     </div>
     
@@ -759,7 +765,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -775,8 +781,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
+    Unisex jerkins, raw vinegars, classic sportswear — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -790,7 +795,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -812,8 +817,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniel
-    Cappello</span>
+    By <span class="css-1n7hynb">Daniel Cappello</span>
     
     </div>
     
@@ -825,7 +829,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -841,8 +845,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Handblown glass, sparkly shoes, Scottish jewelry — and
-    more.
+    Handblown glass, sparkly shoes, Scottish jewelry — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -856,7 +859,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -880,39 +883,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Clem de
-    Pressigny</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/t-magazine/kenzo-vans-tlist.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/01/t-magazine/01tmag-newsletter-slide-LL2I/01tmag-newsletter-slide-LL2I-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Three-course French meals for the home, a new Greek hotel — and
-    more.
-    
-    <div class="css-15yh6bw ea5icrr0">
+    By <span class="css-1n7hynb">Clem de Pressigny</span>
     
     </div>
     
@@ -930,24 +901,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -971,8 +941,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1000,8 +969,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1051,8 +1019,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

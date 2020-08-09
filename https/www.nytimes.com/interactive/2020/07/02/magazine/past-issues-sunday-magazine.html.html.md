@@ -34,7 +34,7 @@
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # Issue Archive
 
@@ -42,8 +42,7 @@
 
 <div class="interactive-byline css-103zbxs">
 
-July 2,
-2020
+July 2, 2020
 
 </div>
 
@@ -53,7 +52,7 @@ July 2,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -70,7 +69,7 @@ July 2,
 
 </div>
 
-<div id="past-issues-sunday-magazine" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium" data-id="100000007222144">
+<div id="past-issues-sunday-magazine" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -83,6 +82,20 @@ July 2,
 ### 2020
 
 <div class="year-issues">
+
+[](https://www.nytimes.com/issue/magazine/2020/08/07/the-8920-issue)
+
+<div class="image">
+
+![](https://static01.nyt.com/images/2020/08/07/magazine/07mag-cover-type/07mag-cover-type-blog480.jpg)
+
+</div>
+
+<div class="name">
+
+#### August 9, 2020
+
+</div>
 
 [](https://www.nytimes.com/issue/magazine/2020/07/31/the-8220-issue)
 
@@ -5692,7 +5705,7 @@ July 2,
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -5719,8 +5732,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -5758,8 +5770,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

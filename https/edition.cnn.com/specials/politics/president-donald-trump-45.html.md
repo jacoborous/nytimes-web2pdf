@@ -1391,6 +1391,34 @@ Show Description
 
 <div class="media">
 
+[![trump veterans choice dale fact check bts
+vpx\_00002616](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/trump-veterans-choice-paula-reid/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![trump veterans choice dale fact check bts
+vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choice-dale-fact-check-bts-vpx-00002616-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Trump walks out of news conference after reporter asks him about Veterans Choice lie he's told more than 150 times </span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/politics/trump-veterans-choice-paula-reid/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![President Donald Trump speaks at a press conference on August 7 in
 Bedminster, New
 Jersey.](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/trump-executive-order-stimulus/index.html)
@@ -1415,7 +1443,7 @@ Jersey.](//cdn.cnn.com/cnnnext/dam/assets/200807193553-01-donald-trump-presser-0
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1447,7 +1475,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1473,7 +1501,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1517,7 +1545,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1561,7 +1589,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1591,7 +1619,7 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1617,7 +1645,7 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1649,7 +1677,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1675,7 +1703,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1705,7 +1733,7 @@ Chicago.](//cdn.cnn.com/cnnnext/dam/assets/200428110442-usps-trucks-chicago-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1745,7 +1773,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1771,7 +1799,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1797,7 +1825,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1823,7 +1851,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1849,7 +1877,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1879,7 +1907,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1907,7 +1935,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1939,7 +1967,7 @@ round.](//cdn.cnn.com/cnnnext/dam/assets/200808013210-haotong-large-tease.jpg)
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1960,42 +1988,6 @@ portafolio\_00000823.jpg](//cdn.cnn.com/cnnnext/dam/assets/200804160733-tiktok-c
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Trump, TikTok and a dangerous precedent for democracy </span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/business/trump-tiktok-democracy-intl/index.html)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
-
-<div class="cd__wrapper" data-analytics="_grid-small_article_">
-
-<div class="media">
-
-[![Hong Kong Chief Executive Carrie Lam speaks during a press conference
-in Hong Kong on November 19, 2019. - Lam said that protesters occupying
-a city centre university had to surrender if the three-day stand-off was
-to be resolved peacefully. (Photo by NICOLAS ASFOURI / AFP) (Photo by
-NICOLAS ASFOURI/AFP via Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/07/politics/us-sanctions-carrie-lam/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![Hong Kong Chief Executive Carrie Lam speaks during a press conference
-in Hong Kong on November 19, 2019. - Lam said that protesters occupying
-a city centre university had to surrender if the three-day stand-off was
-to be resolved peacefully. (Photo by NICOLAS ASFOURI / AFP) (Photo by
-NICOLAS ASFOURI/AFP via Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/191118232043-01-hong-kong-carrie-lam-1119-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">US sanctions Hong Kong chief executive Carrie Lam over democratic crackdowns</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/07/politics/us-sanctions-carrie-lam/index.html)
 
 </div>
 

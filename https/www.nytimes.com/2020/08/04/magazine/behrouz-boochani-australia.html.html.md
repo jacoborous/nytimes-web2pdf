@@ -10,7 +10,7 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -20,8 +20,7 @@
 
 <div class="css-epjblv">
 
-<span class="css-z6pdnw">Behrouz Boochani Just Wants to Be
-Free</span>
+<span class="css-z6pdnw">Behrouz Boochani Just Wants to Be Free</span>
 
 </div>
 
@@ -47,7 +46,7 @@ Free</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -153,8 +152,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -185,8 +183,7 @@ Stack</span>
     
     <div class="css-1ea1lzw e16638kd2">
     
-    Aug. 4,
-    2020
+    Aug. 4, 2020
     
     </div>
 
@@ -194,7 +191,7 @@ Stack</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -360,7 +357,7 @@ sight.
 
 <div style="max-width:100%;margin:0 auto">
 
-<div class="css-17dprlf" data-id="100000007268123" data-slug="09mag-boochani-pullquote1" style="max-width:600px">
+<div id="100000007268123" class="css-17dprlf" data-slug="09mag-boochani-pullquote1" style="max-width:600px">
 
 </div>
 
@@ -592,8 +589,7 @@ than school, and so he sat for university entrance examinations with
 little hope. He could only afford to apply for a free slot at a public
 university. He was competing against more privileged students all over
 the country — teenagers who grew up with books and highbrow conversation
-and tutors. Boochani took the exam and tried to forget about
-it.
+and tutors. Boochani took the exam and tried to forget about it.
 
 </div>
 
@@ -685,8 +681,7 @@ Indonesian police. Back on dry land, Boochani escaped from jail and then
 spent time hiding in a hotel basement, where he ran out of money and
 began to starve. He dreaded going back to sea, but there was no choice —
 having fled, he couldn’t go back to Iran. “To return to the point from
-which I started would be a death sentence,” he later wrote in his
-book.
+which I started would be a death sentence,” he later wrote in his book.
 
 </div>
 
@@ -694,7 +689,7 @@ book.
 
 <div style="max-width:100%;margin:0 auto">
 
-<div class="css-17dprlf" data-id="100000007268125" data-slug="09mag-boochani-pullquote2" style="max-width:600px">
+<div id="100000007268125" class="css-17dprlf" data-slug="09mag-boochani-pullquote2" style="max-width:600px">
 
 </div>
 
@@ -800,8 +795,7 @@ when, sleepless and miserable with a toothache, he climbed onto the
 camp’s roof and reached a mango tree coveted by the detainees. “I have
 made it up here, up into the ether, up on top of the prison,” he wrote.
 “Witnessing the spectacle, witnessing the jungle and the ocean,
-observing as I evaporate into the
-darkness.”
+observing as I evaporate into the darkness.”
 
 </div>
 
@@ -930,8 +924,7 @@ Byron Bay, Australia. When his face flickered onto the screen, the
 overflowing crowd that jammed the seaside auditorium gasped and burst
 into applause. Boochani looked haggard and detached; dangling hair
 framed his craggy features. “Oh, God,” said a woman near me. “He looks
-so
-alone.”
+so alone.”
 
 </div>
 
@@ -1118,8 +1111,7 @@ sensible kitchenette, he called one of his new friends in amazement:
 “You’ve got to see this place, you’re not going to believe it\!” The
 friend, an Iranian-New Zealander named Donna Miles-Mojab, laughed as she
 recounted this story later. She rushed over, imagining a swimming pool,
-gleaming marble floors, elaborate
-gardens.
+gleaming marble floors, elaborate gardens.
 
 </div>
 
@@ -1127,7 +1119,7 @@ gardens.
 
 <div style="max-width:100%;margin:0 auto">
 
-<div class="css-17dprlf" data-id="100000007268127" data-slug="09mag-boochani-pullquote4" style="max-width:600px">
+<div id="100000007268127" class="css-17dprlf" data-slug="09mag-boochani-pullquote4" style="max-width:600px">
 
 </div>
 
@@ -1240,8 +1232,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1285,8 +1276,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

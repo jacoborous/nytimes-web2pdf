@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Technology](/section/technology)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Building
-a World Where Data Privacy Exists
-Online</span>
+a World Where Data Privacy Exists Online</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Online</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -143,8 +140,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -170,8 +166,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -240,8 +235,7 @@ Smith</span>](https://www.nytimes.com/by/craig-s-smith)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Nov. 10, 2019Updated Nov. 19,
-    2019
+    Published Nov. 10, 2019Updated Nov. 19, 2019
     
     </div>
 
@@ -249,7 +243,7 @@ Smith</span>](https://www.nytimes.com/by/craig-s-smith)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -422,7 +416,7 @@ clicking “accept,” not even bothering to read the fine print. Either
 people online accept the terms and participate in the digital world or
 they unplug — something that is not really an option for anyone
 operating in the global economy. Fortunes were built on that data,
-enriching[a handful of
+enriching [a handful of
 entrepreneurs](https://www.entrepreneur.com/article/319952).
 
 “Our data has never been more at risk, and our need for new kinds of
@@ -442,8 +436,7 @@ When people go online, data is collected and stored on centralized
 servers that are vulnerable to attack. But Professor Song and her
 colleagues believe that by marrying specialized computer chips and
 blockchain technology, they can build a system that provides greater
-scalability and privacy
-protection.
+scalability and privacy protection.
 
 </div>
 
@@ -579,8 +572,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -624,8 +616,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

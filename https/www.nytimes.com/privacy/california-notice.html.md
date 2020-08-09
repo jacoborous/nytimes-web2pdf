@@ -2,7 +2,7 @@
 
 <div class="App">
 
-<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+<div class="css-kq8yt" role="dialog" data-aria-modal="false">
 
 <div class="css-tpyegx">
 
@@ -25,7 +25,7 @@ Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
 
 </div>
 
-<div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
+<div class="css-wo5zbc" role="main" data-aria-hidden="false">
 
 <div class="California-Notice">
 

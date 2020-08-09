@@ -30,8 +30,7 @@
 
 <div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
 
-[Smarter
-Living](https://www.nytimes.com/section/smarter-living)
+[Smarter Living](https://www.nytimes.com/section/smarter-living)
 
 </div>
 
@@ -59,8 +58,7 @@ Living](https://www.nytimes.com/section/smarter-living)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -84,8 +82,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <span class="css-17xtcya">[Smarter
 Living](/section/smarter-living)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">You’re
-Tracked Everywhere You Go Online. Use This Guide to Fight
-Back.</span>
+Tracked Everywhere You Go Online. Use This Guide to Fight Back.</span>
 
 </div>
 
@@ -107,7 +104,7 @@ Back.</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -171,8 +167,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -194,8 +189,7 @@ story](#after-sponsor)
 
 </div>
 
-You can’t stop all of it, but you don’t have to give
-up.
+You can’t stop all of it, but you don’t have to give up.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -237,8 +231,7 @@ Herrera</span>](https://www.nytimes.com/by/tim-herrera)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Nov. 24, 2019Updated Nov. 29,
-    2019
+    Published Nov. 24, 2019Updated Nov. 29, 2019
     
     </div>
 
@@ -246,7 +239,7 @@ Herrera</span>](https://www.nytimes.com/by/tim-herrera)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -584,11 +577,11 @@ with the bouquets. It was a beautiful tribute to our dear old Moe.
 
 If what you choose to put at the center of your table is unusual,
 chances are it will be a great icebreaker, especially for guests who
-don’t know one another. This[Air Plant
+don’t know one another. This [Air Plant
 Trio](https://www.thesill.com/products/air-plant-assortment-1?variant=30392047239273)
 is small and just oddly shaped enough to encourage some fun dinner talk.
 They come with eight different choices for planter color, too, and they
-look great[grouped
+look great [grouped
 together](https://thewirecutter.com/gifts/best-hostess-gifts/) on a
 holiday table.
 
@@ -620,8 +613,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -665,8 +657,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

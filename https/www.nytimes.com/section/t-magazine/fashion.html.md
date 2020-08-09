@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -165,8 +162,7 @@ story](#after-sponsor)
     ## [The Asian-American Fashion Designers Who Shaped the Industry](/interactive/2020/04/13/t-magazine/asian-american-fashion-designers.html)
     
     Kimora Lee Simmons, Phillip Lim and many more have collectively
-    advanced issues of
-        representation.
+    advanced issues of representation.
     
     <span class="css-me3p27"></span>
     
@@ -186,8 +182,7 @@ story](#after-sponsor)
         ## [From Celine, a Pendant Designed by a Sculptor](/2020/06/22/t-magazine/celine-cesar-jewelry.html)
         
         The collaboration is a new piece of César’s legacy, and of the
-        larger history of artists making
-        jewelry.
+        larger history of artists making jewelry.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Lizzie
@@ -208,8 +203,7 @@ story](#after-sponsor)
         ## [Paper Dolls for Your Crafting Pleasure](/2020/05/20/t-magazine/paper-dolls.html)
         
         By turns escapist and timely, eclectic outfits from artists,
-        illustrators, designers and one set of
-        architects.
+        illustrators, designers and one set of architects.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Katherine
@@ -235,8 +229,7 @@ story](#after-sponsor)
         
         With the right application, a little highlighter or bronzer can
         help create a radiant, sun-kissed look, even if you’ve spent
-        much of spring
-        inside.
+        much of spring inside.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Caitie
@@ -260,8 +253,7 @@ story](#after-sponsor)
     ## [The Making of Prada’s Most Iconic Bag](/2020/05/13/t-magazine/prada-handbag-making-of.html)
     
     Informed by Italy’s rich tradition of leather work, the Galleria is
-    assembled from 83 fastidiously crafted
-    pieces.
+    assembled from 83 fastidiously crafted pieces.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Laura May
@@ -295,8 +287,7 @@ story](#after-sponsor)
     
     After working for two of fashion’s most influential brands, the
     Belgian designer Meryll Rogge returned to her family farm to let her
-    imagination run
-    wild.
+    imagination run wild.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alice
@@ -314,8 +305,7 @@ story](#after-sponsor)
     
     Lineisy Montero, Licett Morillo and others have gained an
     international presence while also subverting assumptions about how
-    women should look in Latin
-    America.
+    women should look in Latin America.
     
     <span class="css-me3p27"></span>
     
@@ -330,8 +320,7 @@ story](#after-sponsor)
     
     A roundup of ingredients — from pore-clearing black lava salt to
     soothing palmarosa oil — that can help transform a simple soak into
-    a restorative
-    escape.
+    a restorative escape.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kari
@@ -356,8 +345,7 @@ story](#after-sponsor)
     ## [Five Brands Offering Easy, Elegant Loungewear](/2020/03/26/t-magazine/work-from-home-clothing-lounge-wear.html)
     
     From modern housecoats to silk pajamas, a selection of labels making
-    clothes that will upgrade your working-from-home
-    look.
+    clothes that will upgrade your working-from-home look.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sophie
@@ -374,8 +362,7 @@ story](#after-sponsor)
     
     As Balmain’s Olivier Rousteing, Maria Cornejo, Telfar Clemens and
     Gucci’s Alessandro Michele prove, making clothes is the ultimate act
-    of
-    collaboration.
+    of collaboration.
     
     <span class="css-me3p27"></span>
     
@@ -391,8 +378,7 @@ story](#after-sponsor)
     
     Kerby Jean-Raymond’s political, narratively rich designs for Pyer
     Moss presaged today’s gestures at activism on the runway. He still
-    has much more to
-    say.
+    has much more to say.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">M.H.
@@ -409,8 +395,7 @@ story](#after-sponsor)
     
     Through the fashion designer’s various identities and struggles, two
     things have remained consistent: his ability to predict a cultural
-    moment and the pure emotion of his
-    work.
+    moment and the pure emotion of his work.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Aatish
@@ -428,8 +413,7 @@ story](#after-sponsor)
     
     For her next act, the pop star will become the first black woman in
     charge of a major luxury fashion house in Paris. Here, she gives T
-    magazine an exclusive first
-    look.
+    magazine an exclusive first look.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jeremy O.
@@ -451,8 +435,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -468,8 +451,7 @@ story](#after-mid1)
 
 ## [On Beauty](/column/on-beauty)
 
-[More in On Beauty
-    »](/column/on-beauty)
+[More in On Beauty »](/column/on-beauty)
 
 1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
     by Mari Maeda and Yuji Oboshi. Portrait by IDI.SHOW. Market editor:
@@ -481,8 +463,7 @@ story](#after-mid1)
     ## [Four Restorative Facials to Try at Home](/2020/07/02/t-magazine/facials-at-home.html)
     
     The products, tools and tips from the professionals that you need to
-    be your own
-    facialist.
+    be your own facialist.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kari
@@ -500,8 +481,7 @@ story](#after-mid1)
     ## [How to Shape Your Eyebrows at Home](/2020/06/18/t-magazine/shape-eyebrows-groom-at-home.html)
     
     A guide to trimming, tweezing and touching up your arches on your
-    own, with some creative direction from the
-    experts.
+    own, with some creative direction from the experts.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kari
@@ -517,8 +497,7 @@ story](#after-mid1)
     ## [How to Create Your Own Herbal Tinctures](/2020/06/17/t-magazine/herbal-tinctures-how-to-make.html)
     
     The herbalist Jade Marks shares three simple recipes for calming,
-    restorative
-    drinks.
+    restorative drinks.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alex
@@ -535,8 +514,7 @@ story](#after-mid1)
     ## [How to Take Care of Your Hair at Home](/2020/04/02/t-magazine/home-hair-care-tips-coronavirus.html)
     
     Professional advice on maintenance — and Zoom-friendly styling — for
-    when you can’t get to a
-    salon.
+    when you can’t get to a salon.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caitie
@@ -553,8 +531,7 @@ story](#after-mid1)
     ## [The Most Moisturizing Creams for Diligent Hand Washers](/2020/03/18/t-magazine/best-moisturizing-creams-lotion.html)
     
     A roundup of dermatologist-approved (and nongreasy) lotions to
-    soothe dry fingers in a time of assiduous
-    scrubbing.
+    soothe dry fingers in a time of assiduous scrubbing.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caitie
@@ -593,6 +570,36 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/06/t-magazine/t-list-toyin-ojih-odutola.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/t-magazine/05tmag-tlist-slide-PX8A-print/05tmag-tlist-slide-PX8A-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Paintings by Toyin Ojih Odutola, Hawaiian pastries — and more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
     
     <div class="css-79elbk">
@@ -618,7 +625,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -639,8 +646,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Keah
-    Brown</span>
+    By <span class="css-1n7hynb">Keah Brown</span>
     
     </div>
     
@@ -652,7 +658,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -675,8 +681,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Guy
-    Trebay</span>
+    By <span class="css-1n7hynb">Guy Trebay</span>
     
     </div>
     
@@ -688,7 +693,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -712,8 +717,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Lindsay
-    Talbot</span>
+    By <span class="css-1n7hynb">Lindsay Talbot</span>
     
     </div>
     
@@ -725,7 +729,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -741,8 +745,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
+    Unisex jerkins, raw vinegars, classic sportswear — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -756,7 +759,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -777,8 +780,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Grace
-    Edquist</span>
+    By <span class="css-1n7hynb">Grace Edquist</span>
     
     </div>
     
@@ -790,7 +792,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -813,8 +815,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Guy
-    Trebay</span>
+    By <span class="css-1n7hynb">Guy Trebay</span>
     
     </div>
     
@@ -826,7 +827,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -842,8 +843,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Handblown glass, sparkly shoes, Scottish jewelry — and
-    more.
+    Handblown glass, sparkly shoes, Scottish jewelry — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -857,7 +857,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -878,42 +878,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Vanessa
-    Friedman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/04/style/couture-workers-fashion-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/04/fashion/04COUTUREMOSAIC-make-up/04COUTUREMOSAIC-make-up-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Unsung Heroes of Fashion, Now Mostly Unemployed
-    
-    Security guards. Musicians. Florists. Drivers. They make the magic
-    happen. Here’s what happened to them.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Vanessa Friedman, Elizabeth Paton,
-    Jessica Testa <span>and</span> Guy Trebay</span>
+    By <span class="css-1n7hynb">Vanessa Friedman</span>
     
     </div>
     
@@ -931,24 +896,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -972,8 +936,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1001,8 +964,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1052,8 +1014,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

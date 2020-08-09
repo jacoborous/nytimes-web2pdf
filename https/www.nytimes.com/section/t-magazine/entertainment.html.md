@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -166,8 +163,7 @@ story](#after-sponsor)
     ## [The Esteemed Black Actresses Who Finally Have the Spotlight](/interactive/2020/04/13/t-magazine/black-actresses-bassett-berry-blige-henson-whitfield-elise.html)
     
     Though their journey in Hollywood has been hard and steep, a number
-    of women have made it to the top. And they’re not done
-        yet.
+    of women have made it to the top. And they’re not done yet.
     
     <span class="css-me3p27"></span>
     
@@ -191,8 +187,7 @@ story](#after-sponsor)
         ## [Five Essential Documentaries, Recommended by David France](/2020/06/29/t-magazine/david-france-documentary-watch-list.html)
         
         With his new movie, “Welcome to Chechnya,” premiering on HBO,
-        the filmmaker shares some of his
-        favorites.
+        the filmmaker shares some of his favorites.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Max
@@ -214,8 +209,7 @@ story](#after-sponsor)
         ## [How to Use Zoom Like a Theater or Film Professional](/2020/05/27/t-magazine/zoom-tips-coronavirus.html)
         
         Tips for putting your best face forward, if only for an office
-        staff
-        meeting.
+        staff meeting.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Alex
@@ -239,8 +233,7 @@ story](#after-sponsor)
         ## [Laurie Anderson and Michael Stipe on Music, Art and New Chapters](/2020/05/14/t-magazine/michael-stipe-laurie-anderson.html)
         
         “You’ve got to fall on your face to sit at the table,” says the
-        erstwhile R.E.M.
-        frontman.
+        erstwhile R.E.M. frontman.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Joe
@@ -262,8 +255,7 @@ story](#after-sponsor)
     ## [Why ‘Hair’ Has Endured](/interactive/2020/04/13/t-magazine/hair-musical-broadway.html)
     
     An appreciation of the 1967 love-rock musical, which, against the
-    odds, won over audiences across the
-    world.
+    odds, won over audiences across the world.
     
     <span class="css-me3p27"></span>
     
@@ -278,8 +270,7 @@ story](#after-sponsor)
     
     Gordon Parks’s career made it possible for the next generation to
     fight for their rightful place in the mainstream — only to face the
-    same opposition he
-    had.
+    same opposition he had.
     
     <span class="css-me3p27"></span>
     
@@ -293,8 +284,7 @@ story](#after-sponsor)
     ## [How the 2005 Revival of ‘Sweeney Todd’ Inspired a New Wave in Theater](/interactive/2020/04/13/t-magazine/sweeney-todd-revival.html)
     
     A minimalist staging by John Doyle of the tale of the barber of
-    Fleet Street emphasized the raw talents of its
-    cast.
+    Fleet Street emphasized the raw talents of its cast.
     
     <span class="css-me3p27"></span>
     
@@ -308,8 +298,7 @@ story](#after-sponsor)
     ## [How ‘Daughters of the Dust’ Sent Ripples Through the Film World](/interactive/2020/04/13/t-magazine/daughters-of-the-dust.html)
     
     With her lyrical work, made in 1991, Julie Dash and her
-    collaborators recentered the black female
-    gaze.
+    collaborators recentered the black female gaze.
     
     <span class="css-me3p27"></span>
     
@@ -326,8 +315,7 @@ story](#after-sponsor)
     
     Despite years of progress, trans male representation in film and
     television has remained all but nonexistent. Now, there’s a new
-    group of rising
-    stars.
+    group of rising stars.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">David
@@ -354,8 +342,7 @@ story](#after-sponsor)
     
     The playwright Richard Greenberg has dedicated himself to
     chronicling urban elites. With his two new shows, he’s re-entering
-    the theater in a heightened cultural
-    moment.
+    the theater in a heightened cultural moment.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kurt
@@ -373,8 +360,7 @@ story](#after-sponsor)
     ## [Ronny Chieng Can Even Make This Year’s News Funny](/2019/12/17/t-magazine/ronny-chieng.html)
     
     The comedian, whose Netflix special “Asian Comedian Destroys
-    America\!” debuts today, shares a joke exclusively with
-    T.
+    America\!” debuts today, shares a joke exclusively with T.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Mitchell
@@ -392,8 +378,7 @@ story](#after-sponsor)
     
     The male actors, many making their Broadway debuts, talk about the
     director Ivo van Hove’s radical approach — and offer a fresh take on
-    holiday
-    dressing.
+    holiday dressing.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Caitlin
@@ -411,8 +396,7 @@ story](#after-sponsor)
     
     Through more than 40 intense and idiosyncratic roles — often in
     films a world away from typical Hollywood fare — the actress reveals
-    a woman in complete
-    command.
+    a woman in complete command.
     
     <span class="css-me3p27"></span>
     
@@ -430,8 +414,7 @@ story](#after-sponsor)
     
     Many thriller and horror films from Japan, China and South Korea
     reveal a complicated relationship between those societies and the
-    ancient tenets of
-    Confucianism.
+    ancient tenets of Confucianism.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Thessaly La
@@ -453,8 +436,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -495,6 +477,38 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/at-home/coronavirus-newspaper-basket.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/multimedia/09ah-basket-weaving17/09ah-basket-weaving17-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Turn Your Newspaper Into a Basket
+    
+    Behold all the news that’s fit to weave.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christy Harmon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
     
     <div class="css-79elbk">
@@ -520,7 +534,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -541,8 +555,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Phoebe
-    Lett</span>
+    By <span class="css-1n7hynb">Phoebe Lett</span>
     
     </div>
     
@@ -554,7 +567,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -570,8 +583,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Well-designed puzzles, natural bug sprays, Paul McCarthy — and
-    more.
+    Well-designed puzzles, natural bug sprays, Paul McCarthy — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -585,7 +597,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -608,8 +620,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">M.H.
-    Miller</span>
+    By <span class="css-1n7hynb">M.H. Miller</span>
     
     </div>
     
@@ -621,7 +632,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -641,8 +652,7 @@ story](#after-mid1)
     
     How can you get your cultural fix when many arts institutions remain
     closed? Our writers offer suggestions for what to listen to and
-    watch, and a reason to take a stroll in Lower
-    Manhattan.
+    watch, and a reason to take a stroll in Lower Manhattan.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -656,7 +666,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -672,8 +682,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
+    Unisex jerkins, raw vinegars, classic sportswear — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -687,7 +696,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -723,7 +732,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -757,7 +766,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -776,43 +785,9 @@ story](#after-mid1)
     ## 8 Things to Do This Fourth of July Weekend
     
     Our culture writers offer suggestions for celebrating Independence
-    Day, and what to watch or listen to without leaving your
-    home.
+    Day, and what to watch or listen to without leaving your home.
     
     <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/28/multimedia/28ah-julyfourth02/28ah-julyfourth02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Honor America’s Birthday (Safely) in 2020
-    
-    You may not be able to congregate for parades or fireworks, but
-    there are other options when it comes to having a festive Fourth.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sara Aridi</span>
     
     </div>
     
@@ -830,24 +805,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -871,8 +845,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -900,8 +873,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -951,8 +923,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -1,0 +1,383 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Where
+Being a Single Woman Is Not OK</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2uER10D</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-yw67de" name="articleBody" itemprop="articleBody">
+
+<div class="css-v5btjw etb61u70">
+
+<div class="css-v05ibm etb61u71">
+
+[Opinion](/section/opinion)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Op-Docs
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Where Being a Single Woman Is Not OK
+
+</div>
+
+Dating is hard. A government campaign to get you married is worse.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Dating is hard. A government
+campaign to get you married is
+worse.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Shosh
+Shlam and Hilla
+Medalia</span></span></span>](https://static01.nyt.com/images/2020/02/06/opinion/single-in-china-img/single-in-china-img-videoSixteenByNineJumbo1600.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+<div class="css-1wlr991">
+
+<div class="css-18e8msd">
+
+<div class="css-2ja7y1 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz" itemprop="name">Shosh Shlam</span> and
+<span class="css-1baulvz last-byline" itemprop="name">Hilla
+Medalia</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Feb. 11, 2020
+
+“Sheng nu” ** (“leftover women”) is a term used to describe single women
+who are 27 or older in China. Most of these women live in cities and
+lead rewarding professional lives. The term was coined in 2007 by a
+government organization responsible for the protection and promotion of
+women’s rights and policies. That same year, the Ministry of Education
+added “sheng nu” ** to the official lexicon.
+
+In this Op-Doc, based on the Independent Lens feature documentary
+“[Leftover
+Women](http://www.pbs.org/independentlens/leftover-women/),” we follow
+one of those women — Qiu Huamei, contending with the stigma and social
+pressure forcing her to go on a grueling quest in search of a husband.
+She grew up in a small village five hours south of Beijing and is the
+second youngest of five sisters. Ms. Qiu is a successful lawyer, fluent
+in English and opinionated — but those qualities do not outweigh one key
+flaw: She is not married.
+
+In recent years, the Chinese government has been waging an aggressive
+campaign to pressure women into marriage. Single women are caricatured
+in news reports, editorials and social media. The orchestrated campaign
+is a byproduct of China’s one-child policy, which created a great gender
+imbalance in the population.
+
+Ms. Qiu does all she can to comply with expectations and find a partner.
+But the search sometimes feels incompatible with the life she envisions
+for herself. When she goes on dates, she hears again and again how a
+woman’s place is at home. Her intellectual and professional achievements
+are irrelevant. She is measured only by traditional values. And so with
+every year that passes, her value in the marriage market diminishes.
+
+*The Times is committed to publishing* [*a diversity of
+letters*](https://www.nytimes.com/2019/01/31/opinion/letters/letters-to-editor-new-york-times-women.html)
+*to the editor. We’d like to hear what you think about this or any of
+our articles. Here are some*
+[*tips*](https://help.nytimes.com/hc/en-us/articles/115014925288-How-to-submit-a-letter-to-the-editor)*.
+And here's our email:*
+[*letters@nytimes.com*](mailto:letters@nytimes.com)*.*
+
+Shosh Shlam is a filmmaker whose documentaries have been shown in
+theaters and on ARTE, ZDF, PBS and the BBC. Hilla Medalia is a Peabody
+Award-winning filmmaker and founder of Medalia Productions, whose films
+have been commissioned by HBO, Arte and the BBC and have been shown at
+Cannes, Berlinale and Sundance. Their previous Op-Doc is [“China’s Web
+Junkies.”](https://www.nytimes.com/2014/01/20/opinion/chinas-web-junkies.html)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+-----
+
+[Op-Docs](https://www.nytimes.com/column/op-docs) is a forum for short,
+opinionated documentaries by independent filmmakers. [Learn
+more](http://www.nytimes.com/ref/opinion/about-op-docs.html) about
+Op-Docs and [how to
+submit](http://www.nytimes.com/content/help/site/editorial/op-video/video.html?ref=opinion)
+to the series. Follow The New York Times Opinion section on
+[Facebook](https://www.facebook.com/nytopinion), [Twitter
+(@NYTopinion)](http://twitter.com/NYTOpinion) and
+[Instagram](https://www.instagram.com/nytopinion/).
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

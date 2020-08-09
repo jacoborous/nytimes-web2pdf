@@ -1016,41 +1016,6 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/merlin_175465020_2c9785c9-935a-4d38-bf06-2b83d2aee8de-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Clashes Erupt in Beirut at Blast Protest as Lebanon’s Anger Boils Over
-    
-    The demonstrations were fueled by fury over the corruption and
-    negligence of the country’s ruling elite. Security forces fired tear
-    gas to push back the protesters.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Mona
-    El-Naggar</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/08/08/world/coronavirus-updates.html)
     
     <div class="css-79elbk">
@@ -1077,7 +1042,7 @@ Advertisement
     
     </div>
 
-5.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1111,7 +1076,7 @@ Advertisement
     
     </div>
 
-6.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1147,7 +1112,7 @@ Advertisement
     
     </div>
 
-7.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1182,7 +1147,7 @@ Advertisement
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1218,7 +1183,7 @@ Advertisement
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1251,7 +1216,7 @@ Advertisement
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1274,6 +1239,43 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Katherine J. Wu</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/world/middleeast/lebanon-explosion-ship.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/video/beirut-ship-a/beirut-ship-a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">visual investigations</span>
+    
+    ## Ship Cited in Beirut Blast Hasn’t Sailed in 7 Years. We Found It.
+    
+    The explosive material responsible for the Aug. 4 blast in Beirut
+    was carried there by the ailing cargo ship Rhosus in 2013. Here’s
+    what happened next.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christoph Koettl <span>and</span> Drew
+    Jordan</span>
     
     </div>
     

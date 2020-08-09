@@ -2,7 +2,7 @@
 
 <div class="App">
 
-<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+<div class="css-kq8yt" role="dialog" data-aria-modal="false">
 
 <div class="css-tpyegx">
 
@@ -25,7 +25,7 @@ Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
 
 </div>
 
-<div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
+<div class="css-wo5zbc" role="main" data-aria-hidden="false">
 
 <div class="HeroSection" data-aria-live="polite">
 
@@ -152,14 +152,13 @@ Counsel.
 
 </div>
 
-What Is a
-Tracker?
+What Is a Tracker?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-is-a-tracker" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-is-a-tracker">
+<div id="region-what-is-a-tracker" class="accordion-content answer open" role="region" data-aria-labelledby="what-is-a-tracker">
 
 We use a variety of tracker methods; six of the main types are explained
 below.
@@ -243,14 +242,13 @@ to determine which ad to show you.
 
 </div>
 
-What Trackers Do We
-Use?
+What Trackers Do We Use?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-trackers-do-we-use" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-trackers-do-we-use">
+<div id="region-what-trackers-do-we-use" class="accordion-content answer open" role="region" data-aria-labelledby="what-trackers-do-we-use">
 
 Below is a list of the types of trackers that appear on our site.
 
@@ -326,14 +324,13 @@ ads. The ads served can include additional trackers.
 
 </div>
 
-How Do I Manage
-Trackers?
+How Do I Manage Trackers?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-do-i-manage-trackers" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-do-i-manage-trackers">
+<div id="region-how-do-i-manage-trackers" class="accordion-content answer open" role="region" data-aria-labelledby="how-do-i-manage-trackers">
 
 When you first come to our site, you may receive a notification that
 trackers are present. By clicking or tapping “accept,” you agree to the
@@ -413,7 +410,7 @@ you visit may still collect your information for other purposes.
 
 <div class="css-8gl8mq ezd49050">
 
-<div class="css-61rp44" data-role="status">
+<div class="css-61rp44" role="status">
 
 <div class="css-o78f7n">
 

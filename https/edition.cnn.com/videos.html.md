@@ -455,7 +455,7 @@ Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-lar
 
 </div>
 
-<div id="js-collection-video-mobile-featured-1puvrtu" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
+<div id="js-collection-video-mobile-featured-21jhklb" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
 
 <div class="el__video-collection__meta-wrapper cn-grid">
 
@@ -463,7 +463,7 @@ Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-lar
 
 <div class="cn__column cn__column--2up0">
 
-<div id="js-mobile-video_description-featured-1puvrtu" class="media__video-description media__video-description--inline">
+<div id="js-mobile-video_description-featured-21jhklb" class="media__video-description media__video-description--inline">
 
 Widely regarded as the greatest ever Asian basketball player, Fadi El
 Khatib is weeping for Lebanon. The former pro basketball player faces
@@ -473,7 +473,7 @@ incident.
 
 </div>
 
-<span id="js-mobile-video_source-featured-1puvrtu" class="video__metadata__source-name">Source:
+<span id="js-mobile-video_source-featured-21jhklb" class="video__metadata__source-name">Source:
 CNN</span>
 
 </div>
@@ -526,7 +526,7 @@ CNN</span>
 
 </div>
 
-<div id="cn-featured-1puvrtu" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-1puvrtu" data-layout="carousel-medium-strip">
+<div id="cn-featured-21jhklb" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-21jhklb" data-layout="carousel-medium-strip">
 
 ## World News (15 Videos)
 
@@ -1026,11 +1026,11 @@ See More
 
 <div class="pg-rail pg-rail-tall__rail">
 
-<div id="collection-video-featured-1puvrtu" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
+<div id="collection-video-featured-21jhklb" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
 
 # The 'Lebanese Tiger' on Beirut blast: What you see on TV is nothing compared to reality
 
-<div id="js-video_description-featured-1puvrtu" class="media__video-description media__video-description--inline">
+<div id="js-video_description-featured-21jhklb" class="media__video-description media__video-description--inline">
 
 Widely regarded as the greatest ever Asian basketball player, Fadi El
 Khatib is weeping for Lebanon. The former pro basketball player faces
@@ -1040,7 +1040,7 @@ incident.
 
 </div>
 
-<span id="js-video_source-featured-1puvrtu" class="video__metadata__source-name">Source:
+<span id="js-video_source-featured-21jhklb" class="video__metadata__source-name">Source:
 CNN</span>
 
 <div>
@@ -1651,6 +1651,112 @@ masks](//cdn.cnn.com/cnnnext/dam/assets/200730080530-italy-masks-large-tease.jpg
 
 <div class="media">
 
+[![trump veterans choice dale fact check bts
+vpx\_00002616](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/trump-veterans-choice-dale-fact-check-bts-vpx.cnn/video/playlists/this-week-in-politics/)
+
+<div class="img__preloader">
+
+</div>
+
+![trump veterans choice dale fact check bts
+vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choice-dale-fact-check-bts-vpx-00002616-large-tease.jpg)
+
+**
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Trump shuts down briefing after he's fact-checked by reporter</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/trump-veterans-choice-dale-fact-check-bts-vpx.cnn/video/playlists/this-week-in-politics/)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column carousel__content__item">
+
+<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
+
+<div class="media">
+
+[![US President Donald Trump signs executive orders extending
+coronavirus economic relief, during a news conference in Bedminster, New
+Jersey, on August 8, 2020. - Trump signed the executive orders after his
+Republican party and opposition Democrats failed to reach agreement on a
+new stimulus package. \&quot;We&\#39;ve had it and we&\#39;re going to
+save American jobs and provide relief to the American workers,\&quot; he
+said at a press conference staged at his golf club in Bedminster, New
+Jersey. (Photo by JIM WATSON / AFP) (Photo by JIM WATSON/AFP via Getty
+Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/trump-signs-executive-actions-unemployment-stimulus-holmes-dale-nr-vpx.cnn/video/playlists/this-week-in-politics/)
+
+<div class="img__preloader">
+
+</div>
+
+![US President Donald Trump signs executive orders extending coronavirus
+economic relief, during a news conference in Bedminster, New Jersey, on
+August 8, 2020. - Trump signed the executive orders after his Republican
+party and opposition Democrats failed to reach agreement on a new
+stimulus package. \&quot;We&\#39;ve had it and we&\#39;re going to save
+American jobs and provide relief to the American workers,\&quot; he said
+at a press conference staged at his golf club in Bedminster, New Jersey.
+(Photo by JIM WATSON / AFP) (Photo by JIM WATSON/AFP via Getty
+Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-signing-0808-large-tease.jpg)
+
+**
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">CNN reporters break down Donald Trump's executive actions</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/trump-signs-executive-actions-unemployment-stimulus-holmes-dale-nr-vpx.cnn/video/playlists/this-week-in-politics/)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column carousel__content__item">
+
+<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
+
+<div class="media">
+
+[![President Donald Trump speaks at Trump National Golf Club Bedminster
+in Bedminster, N.J., Friday, Aug. 7, 2020.
+](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/trump-comments-bedminster-before-press-conference-sot-ctn-vpx.cnn/video/playlists/this-week-in-politics/)
+
+<div class="img__preloader">
+
+</div>
+
+![President Donald Trump speaks at Trump National Golf Club Bedminster
+in Bedminster, N.J., Friday, Aug. 7, 2020.
+](//cdn.cnn.com/cnnnext/dam/assets/200807195006-02-donald-trump-presser-0807-large-tease.jpg)
+
+**
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Trump: A lot of good things happened today. Otherwise I wouldn't have a press conference</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/trump-comments-bedminster-before-press-conference-sot-ctn-vpx.cnn/video/playlists/this-week-in-politics/)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column carousel__content__item">
+
+<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
+
+<div class="media">
+
 [![hogan gidley trump campaign election fraud smerconish sot
 \_00024411.jpg](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/hogan-gidley-trump-campaign-election-fraud-smerconish-sot.cnn/video/playlists/this-week-in-politics/)
 
@@ -1668,74 +1774,6 @@ masks](//cdn.cnn.com/cnnnext/dam/assets/200730080530-italy-masks-large-tease.jpg
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Smerconish presses Trump campaign on election fraud claims </span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/hogan-gidley-trump-campaign-election-fraud-smerconish-sot.cnn/video/playlists/this-week-in-politics/)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column carousel__content__item">
-
-<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
-
-<div class="media">
-
-[![US President Donald Trump speaks during a news conference in
-Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON / AFP)
-(Photo by JIM WATSON/AFP via Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/trump-coronavirus-stimulus-executive-action-acosta-haberman-ac360-sot-vpx.cnn/video/playlists/this-week-in-politics/)
-
-<div class="img__preloader">
-
-</div>
-
-![US President Donald Trump speaks during a news conference in
-Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON / AFP)
-(Photo by JIM WATSON/AFP via Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-2020-01-large-tease.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Trump threatens executive action if no stimulus is passed</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/trump-coronavirus-stimulus-executive-action-acosta-haberman-ac360-sot-vpx.cnn/video/playlists/this-week-in-politics/)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column carousel__content__item">
-
-<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
-
-<div class="media">
-
-[![US President Donald Trump speaks during a news conference in
-Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON / AFP)
-(Photo by JIM WATSON/AFP via Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/politics/2020/08/08/haberman-trump-stimulus-executive-orders-bad-optics-backfire-sot-ac360-vpx.cnn/video/playlists/this-week-in-politics/)
-
-<div class="img__preloader">
-
-</div>
-
-![US President Donald Trump speaks during a news conference in
-Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON / AFP)
-(Photo by JIM WATSON/AFP via Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/200807210918-donald-trump-august-7-2020-02-large-tease.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Maggie Haberman: The optics of this announcement are not great</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/haberman-trump-stimulus-executive-orders-bad-optics-backfire-sot-ac360-vpx.cnn/video/playlists/this-week-in-politics/)
 
 </div>
 
@@ -2082,44 +2120,6 @@ Conversation](//cdn.cnn.com/cnnnext/dam/assets/200722133826-03-biden-obama-video
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">How Biden's time with Obama may influence his VP pick</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/07/biden-obama-relationship-examined-vp-pick-zeleny-pkg-lead-vpx.cnn/video/playlists/this-week-in-politics/)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column carousel__content__item">
-
-<div class="cd__wrapper" data-analytics="US Politics of the Day  (15)_carousel-medium-strip_video_video">
-
-<div class="media">
-
-[![CHICAGO, ILLINOIS - OCTOBER 29: Former first lady Michelle Obama
-speaks to guests at the Obama Foundation Summit at Illinois Institute of
-Technology on October 29, 2019 in Chicago, Illinois. The Summit is an
-annual event hosted by the Obama Foundation. The 2019 theme is
-\&quot;Places Reveal Our Purpose\&quot;. (Photo by Scott Olson/Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/health/2020/08/06/michelle-obama-low-grade-depression-trump-nr-vpx.cnn/video/playlists/this-week-in-politics/)
-
-<div class="img__preloader">
-
-</div>
-
-![CHICAGO, ILLINOIS - OCTOBER 29: Former first lady Michelle Obama
-speaks to guests at the Obama Foundation Summit at Illinois Institute of
-Technology on October 29, 2019 in Chicago, Illinois. The Summit is an
-annual event hosted by the Obama Foundation. The 2019 theme is
-\&quot;Places Reveal Our Purpose\&quot;. (Photo by Scott Olson/Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/200806085706-michelle-obama-file-large-tease.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Michelle Obama: Watching this administration is dispiriting</span><span class="cd__headline-icon cnn-icon"></span>](/videos/health/2020/08/06/michelle-obama-low-grade-depression-trump-nr-vpx.cnn/video/playlists/this-week-in-politics/)
 
 </div>
 

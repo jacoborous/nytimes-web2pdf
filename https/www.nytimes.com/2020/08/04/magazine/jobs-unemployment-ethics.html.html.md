@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -66,7 +64,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -103,7 +101,7 @@ Fired?</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,14 +142,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -171,8 +169,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -196,8 +193,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -209,8 +205,7 @@ story](#after-sponsor)
 
 </div>
 
-[The
-Ethicist](/column/the-ethicist "The Ethicist")
+[The Ethicist](/column/the-ethicist "The Ethicist")
 
 <div class="css-1vkm6nb ehdk2mb0">
 
@@ -249,14 +244,13 @@ Appiah</span>
 
 </div>
 
-  - Aug. 4, 2020, <span class="css-epvm6">5:00 a.m.
-    ET</span>
+  - Aug. 4, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -351,42 +345,43 @@ ones.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MyYTdmODFjLWZlODAtNTBiZC05ZDM2LWRhNjExOTBiZjZkZg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-05T03:32:54.438Z
+Updated 2020-08-08T12:04:28.992Z
 
 </div>
 
 </div>
 
-  - [As talks drag on, McConnell signals openness to jobless aid
-    extension, and negotiators agree on a
-    deadline.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
-  - [Novavax sees encouraging results from two studies of its
-    experimental
-    vaccine.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Mississippians must now wear masks in public, governor
-    says.](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
+  - [As the U.S. relief talks falter again, Trump says he is prepared to
+    act on his
+    own.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1f86d03a)
+  - [Cuomo says N.Y. schools can reopen in-person but leaves it up to
+    districts to determine if, when and
+    how.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3f64a70a)
+  - [Thousands of cases went unreported in California when a computer
+    server
+    failed.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-14e70066)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -411,8 +406,7 @@ that isn’t in keeping with a loving relationship. You should end the
 charade before your parents learn the truth from someone else and are
 left feeling betrayed. It won’t be easy, I realize. Letting them know
 that you haven’t been honest with them is bound to be a source of shame
-— this time
-justified.
+— this time justified.
 
 </div>
 
@@ -420,7 +414,7 @@ justified.
 
 <div style="max-width:100%;margin:0 auto">
 
-<div class="css-17dprlf" data-id="100000007265014" data-slug="09mag-ethicist-pullquote1" style="max-width:600px">
+<div id="100000007265014" class="css-17dprlf" data-slug="09mag-ethicist-pullquote1" style="max-width:600px">
 
 </div>
 
@@ -457,8 +451,7 @@ thinner the longer the downturn goes on.*
 *If someone can afford not to take unemployment benefits, are they
 ethically obligated not to? During these scary economic times, do we
 have an obligation to “flatten the curve” at the unemployment office as
-well as the hospital?* Name Withheld,
-California
+well as the hospital?* Name Withheld, California
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -468,7 +461,7 @@ California
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-57380" class="css-19mumt8" role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -480,11 +473,38 @@ California
 
 #### Frequently Asked Questions
 
-Updated August 4, 2020
+Updated August 6, 2020
+
+  - #### Why are bars linked to outbreaks?
+    
+      - Think about a bar. Alcohol is flowing. It can be loud, but it’s
+        definitely intimate, and you often need to lean in close to hear
+        your friend. And strangers have way, way fewer reservations
+        about coming up to people in a bar. That’s sort of the point of
+        a bar. Feeling good and close to strangers. It’s no surprise,
+        then, that [bars have been linked to outbreaks in several
+        states.](https://www.nytimes.com/2020/07/02/us/coronavirus-bars.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Louisiana health officials have tied [at least 100 coronavirus
+        cases](https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        to bars in the Tigerland nightlife district in Baton Rouge.
+        Minnesota has traced 328 recent cases to bars across the state.
+        [In
+        Idaho](https://www.boisestatepublicradio.org/post/bars-large-venues-close-ada-county-after-surge-coronavirus-prompts-rollback#stream/0),
+        health officials shut down bars in Ada County after reporting
+        clusters of infections among young adults who had visited
+        several bars in downtown Boise. Governors in
+        [California](https://www.nytimes.com/2020/07/01/us/california-coronavirus-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        [Texas and
+        Arizona](https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        where coronavirus cases are soaring, have ordered hundreds of
+        newly reopened bars to shut down. Less than two weeks after
+        Colorado’s bars reopened at limited capacity, Gov. Jared Polis
+        [ordered them to
+        close](https://www.denverpost.com/2020/06/30/colorado-bars-closed-coronavirus/).
 
   - #### I have antibodies. Am I now immune?
     
-      - As of right now,[that seems likely, for at least several
+      - As of right now, [that seems likely, for at least several
         months.](https://www.nytimes.com/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
         There have been frightening accounts of people suffering what
         seems to be a second bout of Covid-19. But experts say these
@@ -539,17 +559,6 @@ Updated August 4, 2020
         -- without giving you the sick employee’s name -- that they may
         have been exposed to the virus.
 
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
   - #### What is school going to look like in September?
     
       - It is unlikely that many schools will return to a normal
@@ -577,10 +586,9 @@ Updated August 4, 2020
         that involve spending some days in classrooms and other days
         online. There’s no national policy on this yet, so check with
         your municipal school system regularly to see what is happening
-        in your
-community.
+        in your community.
 
-<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-57380" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -689,8 +697,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -734,8 +741,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

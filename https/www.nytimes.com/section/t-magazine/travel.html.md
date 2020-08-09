@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -166,8 +163,7 @@ story](#after-sponsor)
     
     For years, Silk Road travelers made the grueling trek past towering
     mountain ranges and ancient cities now lost to time. Centuries
-    later, one writer attempts to retrace the
-    journey.
+    later, one writer attempts to retrace the journey.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Anna
@@ -190,8 +186,7 @@ story](#after-sponsor)
         
         Central Asia was once home to several bustling trade cities.
         Today, traveling through them reawakens a distant, though not
-        forgotten,
-        past.
+        forgotten, past.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Aatish
@@ -217,8 +212,7 @@ story](#after-sponsor)
         
         Last May, when our known world was one way, we began planning
         these stories. By last month, when we were finishing work on
-        this issue, the world was another
-        way.
+        this issue, the world was another way.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Hanya
@@ -239,8 +233,7 @@ story](#after-sponsor)
         ## [Follow the Silk Road, Book by Book](/2020/05/11/t-magazine/silk-road-reading-list-books-movies.html)
         
         Compiled by our contributors, a reading list for recreating the
-        ancient trade route from the comfort of
-    home.
+        ancient trade route from the comfort of home.
         
         <span class="css-me3p27"></span>
         
@@ -260,8 +253,7 @@ story](#after-sponsor)
     ## [T’s Most Transporting Travel Stories](/2020/03/27/t-magazine/virtual-travel.html)
     
     Distance and solitude can make us feel more isolated than ever — but
-    these tales of far-off locales provide something of a
-    distraction.
+    these tales of far-off locales provide something of a distraction.
     
     <span class="css-me3p27"></span>
     
@@ -277,8 +269,7 @@ story](#after-sponsor)
     
     For more than a thousand years, the country’s cherry blossom season
     has been a source of fascination and wonderment. How did such an
-    infatuation
-    begin?
+    infatuation begin?
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Hanya
@@ -294,8 +285,7 @@ story](#after-sponsor)
     ## [Around Milos, Swimming the Aegean Sea](/2019/11/14/t-magazine/milos-greece-swimming.html)
     
     One writer explores the Greek island, discovering not just volcanic
-    caves or ancient ruins but also a deeper connection to the
-    past.
+    caves or ancient ruins but also a deeper connection to the past.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Peter
@@ -311,8 +301,7 @@ story](#after-sponsor)
     ## [A Mother Journeys Through Grief Across Finland’s Many Islands](/2019/11/12/t-magazine/mother-loses-son-travel-coping.html)
     
     The beauty and calm of the Aland archipelago is deceptive. Isolation
-    encourages contemplation — but can it offer respite as
-    well?
+    encourages contemplation — but can it offer respite as well?
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Yiyun
@@ -354,8 +343,7 @@ story](#after-sponsor)
     ## [In Search of Ancient Morocco](/2019/05/15/t-magazine/morocco-travel-draa-valley.html)
     
     South of Marrakesh, the Draa Valley still exerts an indefinable
-    pull, retaining traces of its now almost-vanished Berber
-    kingdom.
+    pull, retaining traces of its now almost-vanished Berber kingdom.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Aatish
@@ -371,8 +359,7 @@ story](#after-sponsor)
     ## [Where to Stay, and Where to Eat Noodle Soup, in Ho Chi Minh City](/2019/10/29/t-magazine/ho-chi-minh-city-travel-guide.html)
     
     A guide to the shopping malls and street food of Vietnam’s largest,
-    most exhilarating,
-    metropolis.
+    most exhilarating, metropolis.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jason
@@ -389,8 +376,7 @@ story](#after-sponsor)
     ## [When, if Ever, Is It Unethical to Visit a Country?](/2019/05/16/t-magazine/ethical-travel-reporting.html)
     
     Seven well-traveled writers discuss the dilemma of whether or not to
-    visit nations with oppressive
-    governments.
+    visit nations with oppressive governments.
     
     <span class="css-me3p27"></span>
     
@@ -406,8 +392,7 @@ story](#after-sponsor)
     ## [The City Poised to Become Europe’s Next Affordable Creative Haven](/2019/09/06/t-magazine/tirana-albania-travel-guide.html)
     
     In the Albanian capital of Tirana, the country’s strange history and
-    bright future
-    collide.
+    bright future collide.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alexander
@@ -425,8 +410,7 @@ story](#after-sponsor)
     ## [A Hotel So Nice the Owners Moved In](/2019/05/07/t-magazine/casa-fortunato-lisbon-hotel.html)
     
     The family behind Lisbon’s Casa Fortunato lives among — and just
-    above — their
-    guests.
+    above — their guests.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Jen
@@ -448,8 +432,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -465,8 +448,7 @@ story](#after-mid1)
 
 ## [Wanderlust](/column/wanderlust)
 
-[More in Wanderlust
-    »](/column/wanderlust)
+[More in Wanderlust »](/column/wanderlust)
 
 1.  ![<span class="css-kfv9p0 e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ingvar
     Kenne</span>](https://static01.nyt.com/images/2019/09/27/t-magazine/27tmag-wanderlust-slide-45JN/27tmag-wanderlust-slide-45JN-videoLarge.jpg)
@@ -476,8 +458,7 @@ story](#after-mid1)
     ## [South of Sydney, the Australian Coast Becomes Its Own Destination](/2019/09/27/t-magazine/new-south-wales-travel.html)
     
     New South Wales offers sandy beaches, excellent seafood and a
-    growing arts and craft
-    scene.
+    growing arts and craft scene.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Amelia
@@ -493,8 +474,7 @@ story](#after-mid1)
     ## [In Southeastern Sicily, Old World Architecture Meets Stunning Beaches](/2019/05/06/t-magazine/val-di-noto-sicily-travel-guide.html)
     
     The Val di Noto region — which includes the towns of Ragusa, Modica
-    and Noto — is bustling
-    anew.
+    and Noto — is bustling anew.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kate
@@ -510,8 +490,7 @@ story](#after-mid1)
     ## [What to Eat and Where to See Roman Monuments in Nîmes](/2019/03/15/t-magazine/nimes-france-travel-guide.html)
     
     The French city has some of the most pristine ancient architecture
-    in Europe — and newer signs of life as
-    well.
+    in Europe — and newer signs of life as well.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alexander
@@ -544,8 +523,7 @@ story](#after-mid1)
     ## [A Guide to Puebla, Mexico, Where Gilded Churches Meet a Thriving Cultural Scene](/2018/11/27/t-magazine/puebla-mexico-travel-guide.html)
     
     The colonial city — and the country’s fourth-largest — is a world
-    away from its bustling
-    capital.
+    away from its bustling capital.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kate
@@ -584,6 +562,74 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/travel/07canada-virus/07canada-virus-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Canada to U.S. Visitors: Please Don’t Sneak Across the Border
+    
+    Some Canadian citizens, concerned about the spread of the
+    coronavirus, are taking matters into their own hands and reporting
+    illegal American visitors.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen Schwartz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/travel/National-Seashores.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/travel/06National-seashores5/06National-seashores5-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines
+    
+    From California to Cape Cod, these national seashores and lakeshores
+    offer everything from bird-watching to boating to basking in the
+    sun.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon Waterman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/travel/remote-schools-patagonia.html)
     
     <div class="css-79elbk">
@@ -602,8 +648,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Andria
-    Hautamaki</span>
+    By <span class="css-1n7hynb">Andria Hautamaki</span>
     
     </div>
     
@@ -615,7 +660,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -646,7 +691,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -668,8 +713,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Sally
-    French</span>
+    By <span class="css-1n7hynb">Sally French</span>
     
     </div>
     
@@ -681,7 +725,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -703,8 +747,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Elaine
-    Glusac</span>
+    By <span class="css-1n7hynb">Elaine Glusac</span>
     
     </div>
     
@@ -716,7 +759,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -739,8 +782,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Tony
-    Cenicola</span>
+    By <span class="css-1n7hynb">Tony Cenicola</span>
     
     </div>
     
@@ -752,7 +794,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -773,8 +815,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Ted
-    Loos</span>
+    By <span class="css-1n7hynb">Ted Loos</span>
     
     </div>
     
@@ -786,7 +827,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -808,8 +849,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Elaine
-    Glusac</span>
+    By <span class="css-1n7hynb">Elaine Glusac</span>
     
     </div>
     
@@ -821,7 +861,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -844,77 +884,7 @@ story](#after-mid1)
     <div class="css-15yh6bw ea5icrr0">
     
     By <span class="css-1n7hynb">Nyimas Laula <span>and</span> Richard
-    C.
-    Paddock</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/travel/panama-hats-ecuador.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/20/travel/20travel-panama-promo/20travel-panama-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The World Through a Lens</span>
-    
-    ## A Glimpse Inside the Workshops of the World’s Finest Panama Hat Makers
-    
-    Creamy as silk and costlier than gold, a Montecristi superfino
-    Panama hat is as much a work of art as it is of fashion.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Roff
-    Smith</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/18/at-home/coronavirus-travel-podcasts.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/19/multimedia/19AH-travelpodcasts-illo/19AH-travelpodcasts-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Travel The World With Your Ears
-    
-    Podcasts can drop you anywhere on the map, without having to leave
-    the comfort of your own couch.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Phoebe Lett</span>
+    C. Paddock</span>
     
     </div>
     
@@ -932,24 +902,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -973,8 +942,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1002,8 +970,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1053,8 +1020,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

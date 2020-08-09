@@ -218,12 +218,12 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 8:25 p.m.
+<span class="css-1656jku">Aug. 8, 2020, 8:32 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:25
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:32
 p.m. ET</span>
 
 </div>
@@ -667,10 +667,10 @@ Sousa Borges/EPA, via Shutterstock</span></span>
 
 <div class="css-53u6y8">
 
-Five months after its first case of Covid-19, Brazil has passed the
-bleak milestone of 100,000 deaths, [the Ministry of Health reported on
-Saturday](https://covid.saude.gov.br/). The country is also reporting
-about three million cases.
+Five months after its first case of Covid-19, Brazil on Saturday passed
+the bleak milestones of 100,000 deaths and three million cases,
+[according to a New York Times
+database](https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html).
 
 President Jair Bolsonaro has repeatedly denied the severity of Brazil’s
 coronavirus crisis even as the death count has risen more quickly than

@@ -2,7 +2,7 @@
 
 <div class="App">
 
-<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+<div class="css-kq8yt" role="dialog" data-aria-modal="false">
 
 <div class="css-tpyegx">
 
@@ -25,7 +25,7 @@ Policy](/privacy/privacy-policy)[Cookie Policy](/privacy/cookie-policy)
 
 </div>
 
-<div class="css-wo5zbc" data-role="main" data-aria-hidden="false">
+<div class="css-wo5zbc" role="main" data-aria-hidden="false">
 
 <div class="Privacy">
 
@@ -273,14 +273,13 @@ not apply.
 
 </div>
 
-What Information Do We Gather About
-You?
+What Information Do We Gather About You?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-information-do-we-gather-about-you" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-information-do-we-gather-about-you">
+<div id="region-what-information-do-we-gather-about-you" class="accordion-content answer open" role="region" data-aria-labelledby="what-information-do-we-gather-about-you">
 
 The information we gather about you depends on the context. By and
 large, it’s information about you that can personally identify you —
@@ -468,8 +467,7 @@ information, or use what we already have differently. If there is a
 significant or material change in the way we handle your personal
 information, we will notify you as detailed below.
 
-[Back to
-top](app)
+[Back to top](app)
 
 </div>
 
@@ -483,14 +481,13 @@ top](app)
 
 </div>
 
-What Do We Do With the Information We
-Gather?
+What Do We Do With the Information We Gather?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-do-we-do-with-the-information-we-gather" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-do-we-do-with-the-information-we-gather">
+<div id="region-what-do-we-do-with-the-information-we-gather" class="accordion-content answer open" role="region" data-aria-labelledby="what-do-we-do-with-the-information-we-gather">
 
 **A) We provide the Times Services.**
 
@@ -669,8 +666,7 @@ performance, create advertising interest-based segments or compile
 survey results. We can use and disclose this aggregated or de-identified
 information for any purpose, unless an applicable law says otherwise.
 
-[Back to
-top](app)
+[Back to top](app)
 
 </div>
 
@@ -684,14 +680,13 @@ top](app)
 
 </div>
 
-With Whom Do We Share the Information We
-Gather?
+With Whom Do We Share the Information We Gather?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-with-whom-do-we-share-the-information-we-gather" class="accordion-content answer open" data-role="region" data-aria-labelledby="with-whom-do-we-share-the-information-we-gather">
+<div id="region-with-whom-do-we-share-the-information-we-gather" class="accordion-content answer open" role="region" data-aria-labelledby="with-whom-do-we-share-the-information-we-gather">
 
 **A) Within The New York Times Company:**
 
@@ -794,14 +789,13 @@ engage in the matched ads process described
 
 </div>
 
-What Are Your
-Rights?
+What Are Your Rights?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-are-your-rights" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-are-your-rights">
+<div id="region-what-are-your-rights" class="accordion-content answer open" role="region" data-aria-labelledby="what-are-your-rights">
 
 **A) How Do I Opt Out of Email, Phone, Mail and Push Notifications?**
 
@@ -933,14 +927,13 @@ Google for your transaction history.
 
 </div>
 
-What About Sensitive Personal
-Information?
+What About Sensitive Personal Information?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-about-sensitive-personal-information" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-about-sensitive-personal-information">
+<div id="region-what-about-sensitive-personal-information" class="accordion-content answer open" role="region" data-aria-labelledby="what-about-sensitive-personal-information">
 
 We generally don’t want to gather any sensitive information about you.
 This includes:
@@ -972,14 +965,13 @@ situations we would prefer you never share that information with us.
 
 </div>
 
-How Long Do You Retain
-Data?
+How Long Do You Retain Data?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-long-do-you-retain-data" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-long-do-you-retain-data">
+<div id="region-how-long-do-you-retain-data" class="accordion-content answer open" role="region" data-aria-labelledby="how-long-do-you-retain-data">
 
 It depends. We store your personal information for as long as needed, or
 permitted, based on the reason why we obtained it (consistent with
@@ -1015,14 +1007,13 @@ identifying details.
 
 </div>
 
-How Do You Protect My
-Information?
+How Do You Protect My Information?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-do-you-protect-my-information" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-do-you-protect-my-information">
+<div id="region-how-do-you-protect-my-information" class="accordion-content answer open" role="region" data-aria-labelledby="how-do-you-protect-my-information">
 
 We protect your personal information with a series of organizational,
 technological and physical safeguards — but we cannot guarantee its
@@ -1047,14 +1038,13 @@ secure, notify us immediately.
 
 </div>
 
-Are There Guidelines for
-Children?
+Are There Guidelines for Children?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-are-there-guidelines-for-children" class="accordion-content answer open" data-role="region" data-aria-labelledby="are-there-guidelines-for-children">
+<div id="region-are-there-guidelines-for-children" class="accordion-content answer open" role="region" data-aria-labelledby="are-there-guidelines-for-children">
 
 Times Services are intended for a general audience, and are not directed
 at children under (13) years of age.
@@ -1066,8 +1056,7 @@ collected information from your child in a manner not permitted by law,
 contact us at <privacy@nytimes.com>. We will remove the data to the
 extent required by applicable laws.
 
-[Back to
-top](app)
+[Back to top](app)
 
 </div>
 
@@ -1081,14 +1070,13 @@ top](app)
 
 </div>
 
-How Is Information Transferred
-Internationally?
+How Is Information Transferred Internationally?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-is-my-information-transferred-internationally" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-is-my-information-transferred-internationally">
+<div id="region-how-is-my-information-transferred-internationally" class="accordion-content answer open" role="region" data-aria-labelledby="how-is-my-information-transferred-internationally">
 
 The New York Times Company is headquartered in the United States. If you
 are located outside the United States, your information is collected in
@@ -1128,14 +1116,13 @@ access your personal information.
 
 </div>
 
-What Is Our Legal
-Basis?
+What Is Our Legal Basis?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-what-is-our-legal-basis" class="accordion-content answer open" data-role="region" data-aria-labelledby="what-is-our-legal-basis">
+<div id="region-what-is-our-legal-basis" class="accordion-content answer open" role="region" data-aria-labelledby="what-is-our-legal-basis">
 
 In some jurisdictions, like the European Union and the European Economic
 Area, we only collect, use or share information about you when we have a
@@ -1178,14 +1165,13 @@ of the following:
 
 </div>
 
-Links to Third-Party
-Services?
+Links to Third-Party Services?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-links-to-third-party-services" class="accordion-content answer open" data-role="region" data-aria-labelledby="links-to-third-party-services">
+<div id="region-links-to-third-party-services" class="accordion-content answer open" role="region" data-aria-labelledby="links-to-third-party-services">
 
 Some Times Services contain links to third-party websites, resources,
 vendors and advertisers. These third parties are not Times Services. We
@@ -1193,8 +1179,7 @@ do not control (and are not responsible for) third party content or
 privacy practices. Any personal data you provide to them is not covered
 by this Privacy Policy.
 
-[Back to
-top](app)
+[Back to top](app)
 
 </div>
 
@@ -1208,14 +1193,13 @@ top](app)
 
 </div>
 
-How Are Changes to This Privacy Policy
-Communicated?
+How Are Changes to This Privacy Policy Communicated?
 
 <div class="css-7rj3o4">
 
 </div>
 
-<div id="region-how-are-changes-to-this-privacy-policy-communicated" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-are-changes-to-this-privacy-policy-communicated">
+<div id="region-how-are-changes-to-this-privacy-policy-communicated" class="accordion-content answer open" role="region" data-aria-labelledby="how-are-changes-to-this-privacy-policy-communicated">
 
 We periodically update this Privacy Policy. We will post any changes on
 this page by updating this policy.
@@ -1229,8 +1213,7 @@ can stop using the Times Services.
 After we post any changes on this page, your continued use of Times
 Services is subject to the updated Privacy Policy.
 
-[Back to
-top](app)
+[Back to top](app)
 
 </div>
 
@@ -1251,7 +1234,7 @@ Information?
 
 </div>
 
-<div id="region-how-can-you-contact-us-who-is-the-controller-of-your-personal-information" class="accordion-content answer open" data-role="region" data-aria-labelledby="how-can-you-contact-us-who-is-the-controller-of-your-personal-information">
+<div id="region-how-can-you-contact-us-who-is-the-controller-of-your-personal-information" class="accordion-content answer open" role="region" data-aria-labelledby="how-can-you-contact-us-who-is-the-controller-of-your-personal-information">
 
 If you have any questions, email us at <privacy@nytimes.com> or write us
 at:

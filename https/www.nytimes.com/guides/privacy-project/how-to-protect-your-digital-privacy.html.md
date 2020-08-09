@@ -23,8 +23,7 @@ Project](https://www.nytimes.com/interactive/2019/opinion/internet-privacy-proje
 
 <div class="topbar-scrolled row">
 
-<span>How to Protect Your Digital
-Privacy</span>
+<span>How to Protect Your Digital Privacy</span>
 
 <div class="guide-menu">
 
@@ -89,8 +88,7 @@ Share
 
   - <span>Use These Tools</span>
   - <span>Good Practices</span>
-  - <span>In Case of
-Emergency</span>
+  - <span>In Case of Emergency</span>
 
 </div>
 
@@ -370,8 +368,7 @@ especially if you download software only from Apple’s App Store and
 stick to well-known browser extensions. If you do want a second layer of
 security, Malwarebytes Premium is also available for Mac. You should
 avoid antivirus applications on your phone altogether and stick to
-downloading trusted apps from official
-stores. 
+downloading trusted apps from official stores. 
 
 </div>
 
@@ -401,8 +398,7 @@ stores. 
 
 #### Queer Dating Apps Are Unsafe by Design
 
-June 20,
-2019
+June 20, 2019
 
 </div>
 
@@ -424,8 +420,7 @@ June 20,
 
 #### Launching a Global Currency Is a Bold, Bad Move for Facebook
 
-June 19,
-2019
+June 19, 2019
 
 </div>
 
@@ -447,8 +442,7 @@ June 19,
 
 #### What if We All Just Sold Non-Creepy Advertising?
 
-June 19,
-2019
+June 19, 2019
 
 </div>
 
@@ -862,8 +856,7 @@ practices.
 
 #### Your Car Knows When You Gain Weight
 
-May 20,
-2019
+May 20, 2019
 
 </div>
 
@@ -907,8 +900,7 @@ June 13, 2019
 
 #### Would You Let the Police Search Your Phone?
 
-May 1,
-2019
+May 1, 2019
 
 </div>
 

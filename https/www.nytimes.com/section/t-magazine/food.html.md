@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -164,12 +161,11 @@ story](#after-sponsor)
     
     ### One Good Meal
     
-    ## [A Food Writer’s Sicilian Pasta Dish — and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
+    ## [A Food Writer’s Sicilian Pasta Dish, and Tips for Sharing It](/2020/07/29/t-magazine/skye-mcalpine-pasta-cooking.html)
     
     Skye McAlpine has made a name for herself serving bountiful meals to
     large groups of friends. During lockdown, she’s discovered the joy
-    of cooking for just one or
-    two.
+    of cooking for just one or two.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Isabel
@@ -193,8 +189,7 @@ story](#after-sponsor)
         
         Over the past months, Americans have embraced comfort food with
         a renewed fervor. But this isn’t the first time culinary habits
-        have shifted during a
-        pandemic.
+        have shifted during a pandemic.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Michael
@@ -220,8 +215,7 @@ story](#after-sponsor)
         
         For generations, Caffé Dante served aperitivi to Manhattanites
         at its sought-after sidewalk tables. Now, the reimagined version
-        is offering Negronis to
-        go.
+        is offering Negronis to go.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Reggie
@@ -245,8 +239,7 @@ story](#after-sponsor)
         ## [A Fashion Designer’s Reimagining of a Quinoa Bowl](/2020/06/26/t-magazine/jesse-kamm-quinoa-bowl-recipe.html)
         
         Jesse Kamm makes this medley of vegetables and quinoa as often
-        as twice a
-        week.
+        as twice a week.
         
         <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Nick
@@ -268,8 +261,7 @@ story](#after-sponsor)
     ## [Enrique Olvera and His Culinary Heirs Have Changed How and What We Eat](/interactive/2020/04/13/t-magazine/enrique-olvera-chef.html)
     
     The influential chef has reconceived Mexican cuisine, both in his
-    own country and
-    beyond.
+    own country and beyond.
     
     <span class="css-me3p27"></span>
     
@@ -283,8 +275,7 @@ story](#after-sponsor)
     ## [Enrique Olvera’s Satisfying, Adaptable Vegetable Soup](/2020/04/13/t-magazine/enrique-olvera-vegetable-soup-recipe.html)
     
     The chef shares his recipe for a hearty broth-based dish, inspired
-    by the version his grandmother used to
-    make.
+    by the version his grandmother used to make.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Merrell
@@ -302,8 +293,7 @@ story](#after-sponsor)
     ## [A Hotelier’s Spicy Fish Stew](/2020/05/18/t-magazine/liz-lambert-bouillabaisse-recipe.html)
     
     As she prepares to embark on a new chapter, Liz Lambert has
-    rediscovered the joy of sharing food with her
-    family.
+    rediscovered the joy of sharing food with her family.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nick
@@ -338,8 +328,7 @@ story](#after-sponsor)
     ## [A Chicken Biryani Recipe That Brings People Together](/2020/03/10/t-magazine/aatish-taseer-chicken-biryani.html)
     
     For the writer Aatish Taseer, a childhood staple has taken on new
-    resonance in light of Delhi’s citizenship
-    protests.
+    resonance in light of Delhi’s citizenship protests.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nick
@@ -364,8 +353,7 @@ story](#after-sponsor)
     ## [T’s Guide to Staying at Home, and Making the Best of It](/2020/03/19/t-magazine/stay-at-home-coronavirus-ideas.html)
     
     Hunkering down in isolation? Keep the stress at bay with a delicious
-    meal, some self-care and a riveting
-    read.
+    meal, some self-care and a riveting read.
     
     <span class="css-me3p27"></span>
     
@@ -381,8 +369,7 @@ story](#after-sponsor)
     ## [The Galette Recipe One French Creative Director Grew Up On](/2020/04/16/t-magazine/galette-recipe-pierre-alexis-delaplace.html)
     
     At his grandmother’s cottage in Brittany, Pierre-Alexis Delaplace of
-    Kerzon would wait, somewhat impatiently, for this savory
-    treat.
+    Kerzon would wait, somewhat impatiently, for this savory treat.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Nick
@@ -400,8 +387,7 @@ story](#after-sponsor)
     
     Over-the-top banquets have long been viewed as harbingers of
     impending doom. Their recent resurgence on the fashion circuit feels
-    like a cheeky comment on the
-    times.
+    like a cheeky comment on the times.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ligaya
@@ -421,8 +407,7 @@ story](#after-sponsor)
     
     Schaller & Weber, in New York’s once predominantly German Yorkville
     neighborhood, has supplied the city with knackwurst and sauerkraut
-    for three
-    generations.
+    for three generations.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Reggie
@@ -443,8 +428,7 @@ story](#after-sponsor)
     
     Cookbook authors and chefs are arguing for their place at the table
     — to chronicle recipes, safeguard ingredients and assert a sense
-    of
-    humanity.
+    of humanity.
     
     <span class="css-me3p27"></span><span class="css-nds4d6 e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Ligaya
@@ -466,8 +450,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -508,6 +491,36 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/06/t-magazine/t-list-toyin-ojih-odutola.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/t-magazine/05tmag-tlist-slide-PX8A-print/05tmag-tlist-slide-PX8A-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Paintings by Toyin Ojih Odutola, Hawaiian pastries — and more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
     
     <div class="css-79elbk">
@@ -533,7 +546,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -556,8 +569,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Nick
-    Marino</span>
+    By <span class="css-1n7hynb">Nick Marino</span>
     
     </div>
     
@@ -569,7 +581,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -585,8 +597,7 @@ story](#after-mid1)
     
     ## The T List: Five Things We Recommend This Week
     
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
+    Unisex jerkins, raw vinegars, classic sportswear — and more.
     
     <div class="css-15yh6bw ea5icrr0">
     
@@ -600,7 +611,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -631,7 +642,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -652,8 +663,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Florence Fabricant</span>
     
     </div>
     
@@ -665,7 +675,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -688,8 +698,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Margaret
-    Roach</span>
+    By <span class="css-1n7hynb">Margaret Roach</span>
     
     </div>
     
@@ -701,7 +710,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -723,8 +732,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren
-    Sloss</span>
+    By <span class="css-1n7hynb">Lauren Sloss</span>
     
     </div>
     
@@ -736,7 +744,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -757,8 +765,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Florence
-    Fabricant</span>
+    By <span class="css-1n7hynb">Florence Fabricant</span>
     
     </div>
     
@@ -770,7 +777,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -792,40 +799,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Raphael
-    Minder</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/29/at-home/coronavirus-how-to-make-limoncello.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/05/31/multimedia/31ah-limoncello1/31ah-limoncello1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## If You’ve Got Lemons, Make Limoncello
-    
-    You’ll also need alcohol, sugar and, most of all, patience.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Adriana Balsamo</span>
+    By <span class="css-1n7hynb">Raphael Minder</span>
     
     </div>
     
@@ -843,24 +817,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -884,8 +857,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -913,8 +885,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -964,8 +935,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

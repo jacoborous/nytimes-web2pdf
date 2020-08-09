@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -33,7 +32,7 @@ index](#site-index)
 
 </div>
 
-<div class="css-11kjks6" data-role="region" data-aria-label="comments panel" tabindex="-1">
+<div class="css-11kjks6" role="region" data-aria-label="comments panel" tabindex="-1">
 
 <div class="css-1h21wu5">
 
@@ -74,7 +73,7 @@ publication, write to <letters@nytimes.com>.
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # The Creative Circles Defining the Culture
 
@@ -82,8 +81,7 @@ publication, write to <letters@nytimes.com>.
 
 <div class="interactive-byline css-103zbxs">
 
-April 13,
-2020
+April 13, 2020
 
 </div>
 
@@ -93,7 +91,7 @@ April 13,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -112,7 +110,7 @@ April 13,
 
 </div>
 
-<div id="culture-issue-2020" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium" data-id="100000007070846">
+<div id="culture-issue-2020" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -128,7 +126,7 @@ April 13,
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-intro-final-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1586523233/tmag-intro-final-900w.mp4" data-sizes="320, 640, 900, 1254, 1600, 2000" data-cinemagraph="true" data-vhs-options="{&quot;cover&quot;:false,&quot;preload&quot;:&quot;auto&quot;}" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-intro-final-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1586523233/tmag-intro-final-900w.mp4" sizes="320, 640, 900, 1254, 1600, 2000" data-cinemagraph="true" data-vhs-options="{&quot;cover&quot;:false,&quot;preload&quot;:&quot;auto&quot;}" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -138,49 +136,49 @@ April 13,
 
 <div class="g-topper-labels">
 
-<div class="g-topper-label" data-start="0" data-end="5.25">
+<div class="g-topper-label" start="0" data-end="5.25">
 
 The Veterans
 
 </div>
 
-<div class="g-topper-label" data-start="5.45" data-end="8.25">
+<div class="g-topper-label" start="5.45" data-end="8.25">
 
 The Graduates
 
 </div>
 
-<div class="g-topper-label" data-start="8.45" data-end="10.3">
+<div class="g-topper-label" start="8.45" data-end="10.3">
 
 The Activists
 
 </div>
 
-<div class="g-topper-label" data-start="10.3" data-end="12.25">
+<div class="g-topper-label" start="10.3" data-end="12.25">
 
 The Beauties
 
 </div>
 
-<div class="g-topper-label" data-start="12.3" data-end="15.45">
+<div class="g-topper-label" start="12.3" data-end="15.45">
 
 The Neighbors
 
 </div>
 
-<div class="g-topper-label" data-start="15.45" data-end="18.25">
+<div class="g-topper-label" start="15.45" data-end="18.25">
 
 The Scenemakers
 
 </div>
 
-<div class="g-topper-label" data-start="18.25" data-end="26.45">
+<div class="g-topper-label" start="18.25" data-end="26.45">
 
 The Renegades
 
 </div>
 
-<div class="g-topper-label" data-start="26.45" data-end="35">
+<div class="g-topper-label" start="26.45" data-end="35">
 
 The Disciples
 
@@ -263,8 +261,7 @@ in her lovely, wise essay about the etymology of the term. But, she
 adds, “let us rescue it here, pare it down to its simplest meaning, as a
 name for the first human communities that formed beyond the primal bonds
 of kinship — the beginnings of the great experiment we call society,
-which taught us to be
-human.”
+which taught us to be human.”
 
 [](https://www.nytimes.com/interactive/2020/04/13/t-magazine/butch-stud-lesbian.html)
 
@@ -277,8 +274,7 @@ human.”
 <div class="g-source">
 
 <span class="g-credit">Photos by Collier Schorr. Styled by Brian Molloy.
-Produced by Casey
-Legler.</span>
+Produced by Casey Legler.</span>
 
 </div>
 
@@ -295,8 +291,7 @@ Legler.</span>
 <div class="g-source">
 
 <span class="g-credit">Photos by Mickalene Thomas and Racquel
-Chevremont. Styled by Shiona
-Turini.</span>
+Chevremont. Styled by Shiona Turini.</span>
 
 </div>
 
@@ -412,8 +407,7 @@ someone see you as not only the person you are, but as someone who is
 part of something larger, some community you yourself hadn’t seen?
 Certainly that’s true for me. And though I don’t like to speak for other
 people’s definition of love, I’m going to say — just because I saw it —
-that it was true for them as well. — HANYA
-YANAGIHARA
+that it was true for them as well. — HANYA YANAGIHARA
 
 </div>
 
@@ -453,7 +447,7 @@ YANAGIHARA
 
 </div>
 
-## <span class="g-balancer" data-id="1"><span>Heirs and</span> <span>Alumni</span></span>
+## <span id="1" class="g-balancer"><span>Heirs and</span> <span>Alumni</span></span>
 
 </div>
 
@@ -524,8 +518,7 @@ time.
 For centuries, Italy has prized the art of fashion and furniture design
 — and like no other country in the world, its makers have served as
 cultural custodians, with generations dedicated to the craftsmanship,
-continuity and traditions of the family-run
-company.
+continuity and traditions of the family-run company.
 
 </div>
 
@@ -562,8 +555,7 @@ company.
 In 1969, Gordon Parks became the first black director to make a major
 Hollywood studio film. His career made it possible for the next
 generation to fight their way into the mainstream — only to face the
-same opposition Parks
-had.
+same opposition Parks had.
 
 </div>
 
@@ -581,7 +573,7 @@ had.
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-disciples-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1585942759/tmag-disciples-900w.mp4" data-sizes="320, 640, 900, 1254,1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-disciples-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1585942759/tmag-disciples-900w.mp4" sizes="320, 640, 900, 1254,1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -622,7 +614,7 @@ eat.
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-graduates-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585560697/tmag-graduates-900w.mp4" data-sizes="320, 640, 900, 1254,1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-graduates-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585560697/tmag-graduates-900w.mp4" sizes="320, 640, 900, 1254,1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -644,8 +636,7 @@ eat.
 
 How the Royal Academy of Fine Arts in Antwerp — a city poised on the
 edge of Europe and the rest of the world — became the incubator for the
-contemporary
-avant-garde.
+contemporary avant-garde.
 
 </div>
 
@@ -671,7 +662,7 @@ avant-garde.
 
 </div>
 
-## <span class="g-balancer" data-id="2"><span>Reunions</span> <span>and Reconsiderations</span></span>
+## <span id="2" class="g-balancer"><span>Reunions</span> <span>and Reconsiderations</span></span>
 
 </div>
 
@@ -685,7 +676,7 @@ avant-garde.
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-neighbors-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585561065/tmag-neighbors-900w.mp4" data-sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-neighbors-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585561065/tmag-neighbors-900w.mp4" sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -708,8 +699,7 @@ As told to Merrell Hambleton and Samuel Rutter
 
 The two blocks in Greenwich Village that have been home to a
 disproportionate number of New York City’s writers, artists, actors and
-designers for
-decades.
+designers for decades.
 
 </div>
 
@@ -769,8 +759,7 @@ that brought a much-needed austerity and economy to the stage to a
 seminal 1991 film that centered the black female experience and gaze,
 here are appraisals of three such enduring — and heavily referenced —
 works, alongside gatherings of the stars who not only made them but were
-made by them,
-too.
+made by them, too.
 
 </div>
 
@@ -794,8 +783,7 @@ too.
 
 <div class="g-source">
 
-<span class="g-credit">Nicholas
-Calcott</span>
+<span class="g-credit">Nicholas Calcott</span>
 
 </div>
 
@@ -827,8 +815,7 @@ Calcott</span>
 
 <div class="g-source">
 
-<span class="g-credit">Jennifer
-Livingston</span>
+<span class="g-credit">Jennifer Livingston</span>
 
 </div>
 
@@ -860,8 +847,7 @@ Livingston</span>
 
 <div class="g-source">
 
-<span class="g-credit">Andres Gonzalez and David
-Chow</span>
+<span class="g-credit">Andres Gonzalez and David Chow</span>
 
 </div>
 
@@ -899,7 +885,7 @@ Chow</span>
 
 </div>
 
-## <span class="g-balancer" data-id="3"><span>Legends</span> <span>Pioneers and</span> <span>Survivors</span></span>
+## <span id="3" class="g-balancer"><span>Legends</span> <span>Pioneers and</span> <span>Survivors</span></span>
 
 </div>
 
@@ -913,7 +899,7 @@ Chow</span>
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-renegades-final-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1586756099/tmag-renegades-final-900w.mp4" data-sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-renegades-final-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/04/1586756099/tmag-renegades-final-900w.mp4" sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -935,8 +921,7 @@ Chow</span>
 
 Queer culture and the arts would be much poorer without the presence and
 contribution of butch and stud lesbians, whose identity is both its own
-aesthetic and a defiant repudiation of the male
-gaze.
+aesthetic and a defiant repudiation of the male gaze.
 
 </div>
 
@@ -954,7 +939,7 @@ gaze.
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-activists-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585560566/tmag-activists-900w.mp4" data-sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-activists-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585560566/tmag-activists-900w.mp4" sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -976,8 +961,7 @@ gaze.
 
 How ACT UP — the coalition that fought against AIDS stigma and won
 medications that slowed the plague — forever changed patients’ rights,
-protests and American political organizing as it’s practiced
-today.
+protests and American political organizing as it’s practiced today.
 
 </div>
 
@@ -1014,8 +998,7 @@ today.
 These days, artists of all kinds are expected to be available for public
 consumption. But a small and highly influential group of them has chosen
 to disappear from society in favor of letting their work speak for
-itself. What does it mean to be inaccessible in an age of
-oversharing?
+itself. What does it mean to be inaccessible in an age of oversharing?
 
 </div>
 
@@ -1051,8 +1034,7 @@ oversharing?
 
 The journey of black actresses in Hollywood is hard and steep, though a
 number of women have fought the odds to the top over long and
-distinguished careers. They’re not done
-yet.
+distinguished careers. They’re not done yet.
 
 </div>
 
@@ -1078,7 +1060,7 @@ yet.
 
 </div>
 
-## <span class="g-balancer" data-id="4"><span>The New</span> <span>Guard</span></span>
+## <span id="4" class="g-balancer"><span>The New</span> <span>Guard</span></span>
 
 </div>
 
@@ -1109,8 +1091,7 @@ yet.
 ##### By Thessaly La Force
 
 Why there are so many Asian-Americans in fashion, and how they changed
-the
-industry.
+the industry.
 
 </div>
 
@@ -1145,8 +1126,7 @@ industry.
 ##### By Concepción de León
 
 How a new generation of Dominican models has come to define the runways
-— and continues to shape our definition of what beauty looks
-like.
+— and continues to shape our definition of what beauty looks like.
 
 </div>
 
@@ -1164,7 +1144,7 @@ like.
 
 <div class="g-asset_inner">
 
-<div id="g-video-tmag-scenemakers2-900w" class="g-vhs g-videotape g-cinemagraph" data-type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585562868/tmag-scenemakers2-900w.mp4" data-sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
+<div id="g-video-tmag-scenemakers2-900w" class="g-vhs g-videotape g-cinemagraph" type="videotape" data-asset="https://int.nyt.com/data/videotape/finished/2020/03/1585562868/tmag-scenemakers2-900w.mp4" sizes="320, 640, 900, 1254, 1600" data-cinemagraph="true" data-vhs-options="" style="padding-bottom: 56.25%">
 
 </div>
 
@@ -1187,8 +1167,7 @@ like.
 Long a capital of nightlife, from ’70s discos to ’90s raves, New York
 City is now home to a robust scene of roving parties where anyone — of
 any race, gender or sexuality — is welcome. These are the people who
-make the party
-happen.
+make the party happen.
 
 </div>
 
@@ -1211,8 +1190,7 @@ happen.
 Clothing design is often perceived as the work of a solitary and
 singular talent, of an outsider looking in. But as Balmain’s Olivier
 Rousteing, Maria Cornejo, Gucci’s Alessandro Michele and Telfar Clemens
-prove, making clothes is in fact the ultimate act of
-collaboration.
+prove, making clothes is in fact the ultimate act of collaboration.
 
 </div>
 
@@ -1236,8 +1214,7 @@ collaboration.
 
 <div class="g-source">
 
-<span class="g-credit">Ilya
-Lipkin</span>
+<span class="g-credit">Ilya Lipkin</span>
 
 </div>
 
@@ -1269,8 +1246,7 @@ Lipkin</span>
 
 <div class="g-source">
 
-<span class="g-credit">Olivia
-Arthur</span>
+<span class="g-credit">Olivia Arthur</span>
 
 </div>
 
@@ -1302,8 +1278,7 @@ Arthur</span>
 
 <div class="g-source">
 
-<span class="g-credit">John
-Edmonds</span>
+<span class="g-credit">John Edmonds</span>
 
 </div>
 
@@ -1335,8 +1310,7 @@ Edmonds</span>
 
 <div class="g-source">
 
-<span class="g-credit">Nick
-Waplington</span>
+<span class="g-credit">Nick Waplington</span>
 
 </div>
 
@@ -1388,8 +1362,7 @@ foreign correspondents in Washington, D.C., than ever before, reporting
 back to everywhere from Sweden to Singapore. What unites them is their
 fight against the threat of misinformation and their struggle to
 accurately inform their fellow citizens about what’s happening here —
-and how it might affect
-them.
+and how it might affect them.
 
 </div>
 
@@ -1408,8 +1381,7 @@ them.
 <div id="interactive-footer-container" class="css-ovgi28 interactive-footer-container">
 
 Digital production and design by Katherine Cusumano, Hilary Moss, Jacky
-Myint and Caroline
-Newton.
+Myint and Caroline Newton.
 
 <div id="interactive-addendum-list" class="css-1yiqkdd interactive-addendum-list">
 
@@ -1431,12 +1403,11 @@ Newton.
 
 <div class="css-1oeie6n">
 
-Write a
-comment
+Write a comment
 
 </div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -1463,8 +1434,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1502,8 +1472,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 
