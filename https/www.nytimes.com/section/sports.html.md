@@ -237,33 +237,7 @@ Supported by
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-        M. Haffey/Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-thumbStandard.jpg)](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
-        
-        </div>
-        
-        ### on baseball
-        
-        ## [Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
-        
-        Some have resorted to throwing against mattresses in quarantine.
-        Some have sustained early injuries. And all pitchers are trying
-        to cope without their normal routines.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Tyler
-        Kepner</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stacey
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stacey
         Heatherington/NYRA, via Associated
         Press</span>](https://static01.nyt.com/images/2020/08/08/sports/08travers/merlin_175485759_ee76117d-2894-41c4-8771-f258a682c723-threeByTwoMediumAt2X.jpg)
         
@@ -277,12 +251,38 @@ Supported by
         
         ## [Tiz the Law Wins the Travers in a Runaway](/2020/08/08/sports/horse-racing/tiz-the-law-travers.html)
         
-        The Belmont winner will head to the postponed Kentucky Derby as
+        The colt has now won six of his seven starts, including the
+        Belmont Stakes, and will head to the postponed Kentucky Derby as
         the favorite after breezing to victory at Saratoga.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Joe
         Drape</span></span>
+        
+        </div>
+    
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Filippo
+        Monteforte/Agence France-Presse — Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/08/sports/08onsoccer-sarri/merlin_175462515_96897e40-5fad-42f4-b5b1-83032e456016-threeByTwoMediumAt2X.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/08/sports/08onsoccer-sarri/08onsoccer-sarri-thumbStandard.jpg)](/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
+        
+        </div>
+        
+        ### On Soccer
+        
+        ## [In Champions League, a Coach With the Right Résumé Can Still Get It Wrong](/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
+        
+        For Europe’s superclubs, the bar for success hasn’t changed.
+        What teams look for in a coach absolutely has.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Rory
+        Smith</span></span>
         
         </div>
 
@@ -292,7 +292,27 @@ Supported by
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
+1.  ### on baseball
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
+    M. Haffey/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07kepner1/merlin_174199491_8d9c6710-565b-4d3b-9da3-960e91c5c22b-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Pitchers Are Creatures of Habit. A Season of Chaos Is Testing Them.](/2020/08/08/sports/baseball/mlb-pitching-injuries.html)
+    
+    Some have resorted to throwing against mattresses in quarantine.
+    Some have sustained early injuries. And all pitchers are trying to
+    cope without their normal routines.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Tyler
+    Kepner</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
     Monterrosa for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/merlin_175405419_33dfb7cf-fa3d-40d2-9094-3dc79fc00fc7-videoLarge.jpg)
     
@@ -311,7 +331,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
     Pennington/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-live-2/merlin_175451520_0749e3d8-5836-4bc3-a036-b0045d77b4a0-videoLarge.jpg)
     
@@ -329,7 +349,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
     Lee/USA Today Sports, via
     Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
     
@@ -348,7 +368,7 @@ Supported by
     
     </div>
 
-4.  ### essay
+5.  ### essay
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Seth
     Wenig/Associated
@@ -368,7 +388,15 @@ Supported by
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
     Mast for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/07/sports/07nfl-employees01/07nfl-employees01-videoLarge.jpg)
     
@@ -387,15 +415,7 @@ Supported by
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### on tennis
+2.  ### on tennis
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Solomon for The New York
@@ -415,7 +435,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -431,7 +451,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
     Squire/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-koepka/merlin_175392972_a0fbddf9-9c59-4960-8d1a-7d0af2748f2e-videoLarge.jpg)
     
@@ -445,24 +465,6 @@ Supported by
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">John
     Branch</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    J. Terrill/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-angels-fentanyl-pix/07xp-angels-fentanyl-pix-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Former Angels Employee Charged in Pitcher’s Overdose Death](/2020/08/07/sports/baseball/la-angels-fentanyl-tyler-skaggs.html)
-    
-    Tyler Skaggs, who had fentanyl and oxycodone in his system at the
-    time of his death, would not have died if not for the fentanyl,
-    federal prosecutors said on Friday.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Christina
-    Morales</span></span>
     
     </div>
 

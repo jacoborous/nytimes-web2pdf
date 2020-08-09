@@ -360,6 +360,10 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-1oxv4in e1aa0s8g0">
 
+<div class="css-1aew2eb eqveam62">
+
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
 <div class="css-1yoguk1 eqveam60">
@@ -380,44 +384,17 @@ President Trump swings against TikTok and WeChat.
 
 </div>
 
-  - No other country has reported as many infections: Brazil ranks
-    second, with about three million, and India is third with two
-    million.
-  - President Trump signed executive orders on economic aid as stimulus
-    talks stalled. Their impact may be limited. Here’s the latest.
+  - No other country has reported as many infections. Brazil ranks
+    second, with about three million, and also reached a milestone:
+    100,000 deaths.
+  - In the past week, Louisiana, Mississippi and Florida had the most
+    new cases relative to population. Here’s the latest.
 
 <div class="css-1slnf6i">
 
 <div class="css-na047m">
 
 <span class="css-eiiu5n e2clvhq0"><span class="newsStatus">live</span></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Analysis: Pelosi Confidently Plays Hardball on Virus Relief
-
-</div>
-
-Emboldened by Republican divisions and a favorable political landscape,
-Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
-
-<div>
-
-<div class="css-na047m">
 
 </div>
 
@@ -451,13 +428,92 @@ Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
 
 </div>
 
+<div>
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1fgqvm0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Sidestepping Congress, Trump Signs Executive Measures for Virus Relief
+
+</div>
+
+President Trump signed the directives after stimulus talks stalled,
+using legally dubious measures to try to restore lapsed benefits.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-ws86q6 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Analysis: Speaker Nancy Pelosi is playing hardball and refusing to agree to a narrow relief measure.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div class="css-1nuzdmm e1aa0s8g0">
 
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/images/orphan_usa-threeByTwoSmallAt2X.png)
+![](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/cd3f3bc6b8c8089803b9023f79b7e90a4d168062/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -1192,7 +1248,40 @@ Ron Haviv
 
 </div>
 
-## Could This Be the Last Time We See Our Dad?
+## Zoom Calls With Our Dying Father
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
+
+<div class="css-dcl9ft">
+
+![Elizabeth
+Bruenig](https://static01.nyt.com/images/2020/01/24/opinion/elizabeth-bruenig/elizabeth-bruenig-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Elizabeth Bruenig
+
+</div>
+
+</div>
+
+## Why Won’t More White Christians Say Black Lives Matter?
 
 </div>
 
@@ -1259,39 +1348,6 @@ Elliot Ackerman
 </div>
 
 ## America’s Military Should Confront Its Past, Not Bury It
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
-
-<div class="css-dcl9ft">
-
-![Elizabeth
-Bruenig](https://static01.nyt.com/images/2020/01/24/opinion/elizabeth-bruenig/elizabeth-bruenig-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Elizabeth Bruenig
-
-</div>
-
-</div>
-
-## Why Won’t More White Christians Say Black Lives Matter?
 
 </div>
 

@@ -1,0 +1,648 @@
+<div id="mount">
+
+<div class="Chrome__component">
+
+<span style="font-size:0"></span>
+
+<div>
+
+<div class="StickyTop__ad" style="transition:max-height 0.6s cubic-bezier(0.23, 1, 0.32, 1);max-height:none">
+
+<div class="Ad__component">
+
+<div id="ad_bnr_atf_01" class="Ad__tag">
+
+</div>
+
+</div>
+
+</div>
+
+<span style="font-size:0"></span>
+
+<div class="Header__container Header__isShown">
+
+<div class="Header__component header" style="transition:transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);transform:translateY(0)">
+
+<div class="Header__wrapper">
+
+<div class="Header__logo">
+
+[](/)[](/travel)
+
+</div>
+
+<div class="Header__navigation">
+
+[Destinations](/travel/destinations)[Food &
+Drink](/travel/food-and-drink)[News](/travel/news)[Stay](/travel/stay)[Video](/travel/videos)
+
+<div class="Header__search">
+
+<span class="Header__hidden">Search</span>
+
+</div>
+
+<div class="Header__burger">
+
+<div class="Header__burgerIcon">
+
+<span class="Header__hidden">Menu</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div style="transition:padding-top 0.6s cubic-bezier(0.23, 1, 0.32, 1);padding-top:50px">
+
+</div>
+
+<div class="Chrome__content">
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="sc-fhYwyz fmNZgG">
+
+<div class="Article__component Article__hasEntitlement">
+
+<div class="Zone__component Article__zone">
+
+<div class="Article__pageTop">
+
+<div class="Article__wrapper Article__topWrapper">
+
+<div class="Article__pageHead Article__pad">
+
+# For the first time in 300 years, this island in Cape Cod is open to the public
+
+<div class="Article__subtitle">
+
+Lauren M. Johnson, CNN • Updated 30th July 2020
+
+</div>
+
+</div>
+
+<div class="Article__head Article__pad">
+
+<div class="SocialBar__component SocialBar__horizontal Article__socialBar">
+
+<span class="SocialBar__icon SocialBar__facebook">Facebook</span><span class="SocialBar__icon SocialBar__twitter">Twitter</span><span class="SocialBar__icon SocialBar__email">Email</span>
+
+</div>
+
+<div class="Article__entitlement">
+
+<div id="ad_mod_85a882a72" data-ad-branding="default">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Hero__component">
+
+<div class="Hero__wrapper">
+
+<div class="Hero__imageWrapper">
+
+<div class="Image__component Image__hasAspectRatio" style="padding-top:56.25%">
+
+![Sipson Island seen from the air off the coast of Cape Cod.
+](https://dynaimage.cdn.cnn.com/cnn/e_blur:500,q_auto:low,w_50,c_fill,g_auto,h_28,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200729180416-01-sipson-island.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Article__wrapper">
+
+<div class="Article__primary">
+
+<div>
+
+<div class="Article__content">
+
+<div class="Article__pad">
+
+<div class="Article__body Article__hasReadMore" style="max-height:">
+
+<div class="Paragraph__component">
+
+(CNN) — <span>For the first time in 300 years, an island off the coast
+of Cape Cod is open to the public. </span>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>[Sipson
+Island](https://www.sipsonislandtrust.org/?fbclid=IwAR1DZD57JD8Vcl-DeP1HhzRX0fNN-nWk3geigW7Hhu3EiUISFEQfBeUtSEY)
+has been privately owned since 1711, when it was sold by the Monomoyick
+people to White settlers. Now, the newly minted Sipson Island Trust,
+with the help of a local non-profit, hopes to restore and care for the
+island using the Native American value to see land as a gift for all to
+use. </span>
+
+</div>
+
+<div>
+
+<div class="Ad__component">
+
+<div id="ad_rect_atf_02" class="Ad__tag Article__adBody Ad__hasLabel">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>"It is really important for us as an organization and community to
+be able to communicate the importance of this indigenous history, and
+teach the values of those that lived on the island before 1711," Sipson
+Island Trust President Tasia Blough told CNN. </span>
+
+</div>
+
+<div class="CaptionedImage__component">
+
+<div class="Image__component CaptionedImage__image Image__hasAspectRatio" style="padding-top:56.25%">
+
+![](https://dynaimage.cdn.cnn.com/cnn/e_blur:500,q_auto:low,w_50,c_fill,g_auto,h_28,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200729180648-02-sipson-island.jpg)
+
+</div>
+
+<div class="CaptionedImage__credit">
+
+Sipson Island Trust
+
+</div>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>The 24-acre island, which opened on Saturday, is located just off
+the coast of Cape Cod in an area known as Pleasant Bay -- an area that
+is of critical environmental concern. </span>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>Visitors can enjoy hiking, sandy beaches, snorkeling, and
+360-degree views of the entire Pleasant Bay area. </span>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>"When it was for sale... there were a number of conservation
+organizations who wanted to find a way to raise the money... protect it,
+preserve it, preserve it and make it accessible to the public," Blough
+said.</span>
+
+</div>
+
+<div class="CaptionedImage__component">
+
+<div class="Image__component CaptionedImage__image Image__hasAspectRatio" style="padding-top:56.25%">
+
+![](https://dynaimage.cdn.cnn.com/cnn/e_blur:500,q_auto:low,w_50,c_fill,g_auto,h_28,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200729180117-03-sipson-island.jpg)
+
+</div>
+
+<div class="CaptionedImage__credit">
+
+Sipson Island Trust
+
+</div>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>The problem was the cost. At $12 million, it was a steep price for
+a non-profit. Ultimately, over the last four years, The Friends of
+Pleasant Bay organization helped raise the capital and extend the
+closing date to make it happen. In June, the private trust created to
+manage the island closed on the property for $5.3 million. </span>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>Now that it is fully open to the public, visitors are encouraged
+to access the island from the eastern shore. However, only shallow draft
+boats under 22 feet can land due to the sensitive ecosystem in the
+water. </span>
+
+</div>
+
+<div class="CaptionedImage__component">
+
+<div class="Image__component CaptionedImage__image Image__hasAspectRatio" style="padding-top:56.25%">
+
+![](https://dynaimage.cdn.cnn.com/cnn/e_blur:500,q_auto:low,w_50,c_fill,g_auto,h_28,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F200729180204-05-sipson-island.jpg)
+
+</div>
+
+<div class="CaptionedImage__credit">
+
+Sipson Island Trust
+
+</div>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>The five-year plan is to knock down three of the four structures
+currently on the island to create and build an open-air research and
+education center. The goal is to restore the island's ecology, support
+environmental and historical education and research, and to provide for
+public recreation on and around Sipson.</span>
+
+</div>
+
+<div class="Paragraph__component">
+
+<span>There are still eight acres on the property that are not in the
+trust's name, and they are hoping to raise the funds quickly in order to
+have the whole island under the trust's umbrella. </span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Article__contentTail">
+
+<div class="Zone__component Article__zone Article__contentTailZone">
+
+<div class="lazyload-placeholder" style="height:100%">
+
+</div>
+
+</div>
+
+<div class="Zone__component Article__zone Article__promo">
+
+<div class="PromoBestBeaches__component">
+
+[](//www.cnn.com/interactive/travel/best-beaches)
+
+<div class="PromoBestBeaches__content">
+
+<span class="PromoBestBeaches__titleTop">A year of the
+world's</span><span class="PromoBestBeaches__beaches">Best
+Beaches</span><span class="PromoBestBeaches__titleBottom">There's a
+perfect beach for every week of the year. Join us on a 12-month journey
+to see them all</span>
+
+<div class="Button__component Button__light Button__WHITE PromoBestBeaches__button">
+
+<span class="Button__ctaText">Go to the best beaches</span>
+
+</div>
+
+</div>
+
+<div class="PromoBestBeaches__wrapper">
+
+<div class="Image__component PromoBestBeaches__heroImage Image__hasAspectRatio" style="padding-top:56.25%">
+
+![](https://dynaimage.cdn.cnn.com/cnn/e_blur:500,q_auto:low,w_50,c_fill,g_auto,h_28,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F171220172042-best-beaches-promo.jpg)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Article__secondary">
+
+</div>
+
+</div>
+
+<div class="Article__wrapper">
+
+<div class="Article__primary">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Ad__component">
+
+<div id="ad_nat_btf_01" class="Ad__tag">
+
+</div>
+
+</div>
+
+<div class="Ad__component">
+
+<div id="ad_oop_float_01" class="Ad__tag">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Grid-sc-1kcyc0j-0 hFujui">
+
+<div class="Cell-i0zvfi-0 laaVcq">
+
+<div class="Text-sc-1amvtpj-0 gYetWy">
+
+Search
+
+</div>
+
+<div class="Box-sc-1fet97o-0 bQmsQJ">
+
+</div>
+
+<div class="Box-sc-1fet97o-0 fyifOt">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Grid-sc-1kcyc0j-0 hFujui">
+
+<div class="Cell-i0zvfi-0 dxrNOP">
+
+<div class="Box-sc-1fet97o-0 sc-cJSrbW dBbbZo">
+
+  - [US](/us "visit the US section")
+      - [Crime +
+        Justice](/specials/us/crime-and-justice "visit the Crime + Justice section")
+      - [Energy +
+        Environment](/specials/us/energy-and-environment "visit the Energy + Environment section")
+      - [Extreme
+        Weather](/specials/us/extreme-weather "visit the Extreme Weather section")
+      - [Space +
+        Science](/specials/space-science "visit the Space + Science section")
+  - [World](/world "visit the World section")
+      - [Africa](/africa "visit the Africa section")
+      - [Americas](/americas "visit the Americas section")
+      - [Asia](/asia "visit the Asia section")
+      - [Australia](/australia "visit the Australia section")
+      - [China](/china "visit the China section")
+      - [Europe](/europe "visit the Europe section")
+      - [India](/india "visit the India section")
+      - [Middle East](/middle-east "visit the Middle East section")
+      - [United Kingdom](/uk "visit the United Kingdom section")
+  - [Politics](/politics "visit the Politics section")
+      - [45](/specials/politics/president-donald-trump-45 "visit the 45 section")
+      - [Congress](/specials/politics/congress-capitol-hill "visit the Congress section")
+      - [SCOTUS](/specials/politics/supreme-court-nine "visit the SCOTUS section")
+      - [Facts
+        First](/specials/politics/fact-check-politics "visit the Facts First section")
+      - [2020](/specials/politics/2020-election-coverage "visit the 2020 section")
+      - [Candidates](/election/2020/candidates "visit the Candidates section")
+  - [Business](/business "visit the Business section")
+      - [Markets](https://money.cnn.com/data/markets/ "visit the Markets section")
+      - [Tech](/business/tech "visit the Tech section")
+      - [Media](/business/media "visit the Media section")
+      - [Success](/business/success "visit the Success section")
+      - [Perspectives](/business/perspectives "visit the Perspectives section")
+      - [Videos](/business/videos "visit the Videos section")
+  - [Opinion](/opinions "visit the Opinion section")
+      - [Political
+        Op-Eds](/specials/opinion/opinion-politics "visit the Political Op-Eds section")
+      - [Social
+        Commentary](/specials/opinion/opinion-social-issues "visit the Social Commentary section")
+  - [Health](/health "visit the Health section")
+      - [Food](/specials/health/food-diet "visit the Food section")
+      - [Fitness](/specials/health/fitness-excercise "visit the Fitness section")
+      - [Wellness](/specials/health/wellness "visit the Wellness section")
+      - [Parenting](/specials/health/parenting "visit the Parenting section")
+      - [Vital
+        Signs](/specials/health/vital-signs "visit the Vital Signs section")
+  - [Entertainment](/entertainment "visit the Entertainment section")
+      - [Stars](/entertainment/celebrities "visit the Stars section")
+      - [Screen](/entertainment/movies "visit the Screen section")
+      - [Binge](/entertainment/tv-shows "visit the Binge section")
+      - [Culture](/entertainment/culture "visit the Culture section")
+      - [Media](/business/media "visit the Media section")
+  - [Tech](/business/tech "visit the Tech section")
+      - [Innovate](/specials/tech/innovate "visit the Innovate section")
+      - [Gadget](/specials/tech/gadget "visit the Gadget section")
+      - [Mission:
+        Ahead](/specials/tech/mission-ahead "visit the Mission: Ahead section")
+      - [Upstarts](/specials/tech/upstarts "visit the Upstarts section")
+      - [Work
+        Transformed](/specials/tech/work-transformed "visit the Work Transformed section")
+      - [Innovative
+        Cities](/specials/tech/innovative-cities "visit the Innovative Cities section")
+  - [Style](/style "visit the Style section")
+      - [Arts](/style/arts "visit the Arts section")
+      - [Design](/style/design "visit the Design section")
+      - [Fashion](/style/fashion "visit the Fashion section")
+      - [Architecture](/style/architecture "visit the Architecture section")
+      - [Luxury](/style/luxury "visit the Luxury section")
+      - [Beauty](/style/beauty "visit the Beauty section")
+      - [Video](/style/videos "visit the Video section")
+  - [Travel](/travel "visit the Travel section")
+      - [Destinations](/travel/destinations "visit the Destinations section")
+      - [Food &
+        Drink](/travel/food-and-drink "visit the Food & Drink section")
+      - [News](/travel/news "visit the News section")
+      - [Stay](/travel/stay "visit the Stay section")
+      - [Videos](/travel/videos "visit the Videos section")
+  - [Sports](http://bleacherreport.com "visit the Sports section")
+      - [Pro
+        Football](http://bleacherreport.com/nfl "visit the Pro Football section")
+      - [College
+        Football](http://bleacherreport.com/college-football "visit the College Football section")
+      - [Basketball](http://bleacherreport.com/nba "visit the Basketball section")
+      - [Baseball](http://bleacherreport.com/mlb "visit the Baseball section")
+      - [Soccer](http://bleacherreport.com/world-football "visit the Soccer section")
+      - [Olympics](/specials/sport/winter-olympics-2018 "visit the Olympics section")
+  - [Videos](/videos "visit the Videos section")
+      - [Live TV](//cnn.it/go2 "visit the Live TV  section")
+      - [Digital
+        Studios](/specials/digital-studios "visit the Digital Studios section")
+      - [CNN
+        Films](/specials/videos/digital-shorts "visit the CNN Films section")
+      - [HLN](/specials/videos/hln "visit the HLN section")
+      - [TV Schedule](/tv/schedule/cnn "visit the TV Schedule section")
+      - [TV Shows
+        A-Z](/specials/tv/all-shows "visit the TV Shows A-Z section")
+      - [CNNVR](/vr "visit the CNNVR section")
+  - [Coupons](//coupons.cnn.com "visit the Coupons section")
+      - [CNN
+        Underscored](/cnn-underscored/ "visit the CNN Underscored section")
+      - [Explore](/specials/cnn-underscored/explore/ "visit the Explore section")
+      - [Wellness](/specials/cnn-underscored/wellness/ "visit the Wellness section")
+      - [Gadgets](/specials/cnn-underscored/gadgets/ "visit the Gadgets section")
+      - [Lifestyle](/specials/cnn-underscored/lifestyle/ "visit the Lifestyle section")
+      - [CNN
+        Store](//store.cnn.com/?utm_source=cnn.com&utm_medium=referral&utm_campaign=navbar "visit the CNN Store section")
+  - [More](/more "visit the More section")
+      - [Photos](/specials/photos "visit the Photos section")
+      - [Longform](/specials/cnn-longform "visit the Longform section")
+      - [Investigations](/specials/cnn-investigates "visit the Investigations section")
+      - [CNN
+        Profiles](/specials/profiles "visit the CNN Profiles section")
+      - [CNN
+        Leadership](/specials/more/cnn-leadership "visit the CNN Leadership section")
+      - [CNN
+        Newsletters](/email/subscription "visit the CNN Newsletters section")
+      - [Work for
+        CNN](https://www.turnerjobs.com/search-jobs?orgIds=1174&ac=19299 "visit the Work for CNN section")
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Box-sc-1fet97o-0 sc-TOsTZ Qfqyl">
+
+-----
+
+</div>
+
+<div class="Grid-sc-1kcyc0j-0 hFujui">
+
+<div class="Cell-i0zvfi-0 dxrNOP">
+
+<div class="Flex-sc-1sqrs56-0 drTWbY">
+
+<div class="Flex-sc-1sqrs56-0 sc-kjoXOD dAqPFb">
+
+<div class="Flex-sc-1sqrs56-0 sc-bdVaJa bemtay" size="40">
+
+</div>
+
+</div>
+
+<div class="Flex-sc-1sqrs56-0 sc-gisBJw kFQkml">
+
+<div class="Flex-sc-1sqrs56-0 sc-kGXeez iYeEWm" data-test="social-follow-bar">
+
+<span class="Text-sc-1amvtpj-0-span jKFEoX" data-font-weight="bold" data-test="follow-text" data-font-size="12" data-letter-spacing="1.5">Follow
+CNN </span>
+
+<div class="Box-sc-1fet97o-0 sc-dxgOiQ fvkMJY" data-mode="light">
+
+</div>
+
+  - 
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="Grid-sc-1kcyc0j-0 hFujui">
+
+<div class="Cell-i0zvfi-0 dxrNOP">
+
+<div class="Box-sc-1fet97o-0 sc-kgAjT fXByFM">
+
+-----
+
+</div>
+
+<div class="Box-sc-1fet97o-0 cApVqV">
+
+  - [Terms of Use](/terms "visit the Terms of Use section")
+  - [Privacy Policy](/privacy "visit the Privacy Policy section")
+  - [Accessibility &
+    CC](/accessibility "visit the Accessibility & CC section")
+  - [AdChoices](# "visit the AdChoices section")
+  - [About Us](/about "visit the About Us section")
+  - [CNN Studio Tours](/tour "visit the CNN Studio Tours section")
+  - [Modern Slavery Act
+    Statement](/msa "visit the Modern Slavery Act Statement section")
+  - [Advertise with
+    us](https://commercial.cnn.com "visit the Advertise with us section")
+  - [CNN Store](//store.cnn.com "visit the CNN Store section")
+  - [Newsletters](/newsletters "visit the Newsletters section")
+  - [Transcripts](/transcripts "visit the Transcripts section")
+  - [License Footage](/collection "visit the License Footage section")
+  - [CNN
+    Newsource](http://cnnnewsource.com "visit the CNN Newsource section")
+  - [Sitemap](https://www.cnn.com/sitemap.html "visit the Sitemap section")
+
+</div>
+
+<div class="Box-sc-1fet97o-0 sc-dVhcbM knYjET" data-mode="light" data-component="copyright">
+
+<span class="Text-sc-1amvtpj-0-span sc-fBuWsC eOrGtR" data-area="copyright-CNN">©
+2020 Cable News Network.</span>[Turner Broadcasting System,
+Inc.](//www.turner.com "Turner Broadcasting System, Inc.")<span class="Text-sc-1amvtpj-0-span sc-fBuWsC eOrGtR">All
+Rights
+Reserved.</span><span class="Text-sc-1amvtpj-0-span sc-fBuWsC sc-eqIVtm iNQXQO">CNN
+Sans ™ & © 2016 Cable News Network.</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>

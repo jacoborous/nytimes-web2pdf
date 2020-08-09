@@ -371,7 +371,8 @@ CNN </span>
 
 <div id="container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411_0--thumbnail" class="media__video--thumbnail">
 
-![](//cdn.cnn.com/cnnnext/dam/assets/200807121911-02-calicut-india-plane-crash-large-169.jpg)
+![Fadi El
+Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-large-169.jpg)
 
 </div>
 
@@ -389,7 +390,8 @@ CNN </span>
 
 <div class="js-el__video__replayer-wrapper el__video__replayer-wrapper">
 
-![](//cdn.cnn.com/cnnnext/dam/assets/200807121911-02-calicut-india-plane-crash-large-169.jpg)[](javascript:void\(0\); "Click to watch this video")
+![Fadi El
+Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-large-169.jpg)[](javascript:void\(0\); "Click to watch this video")
 
 <div class="js-el__video__replay-button el__video__replay-button">
 
@@ -443,7 +445,7 @@ CNN </span>
 
 </div>
 
-<div id="container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411_0" class="media__video--responsive" data-video-id="world/2020/08/07/plane-crash-kozhikode-international-airport-air-india-express-vedika-sud-intl-vpx.cnn">
+<div id="container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411_0" class="media__video--responsive" data-video-id="sports/2020/08/07/fadi-el-khatib-basketball-hero-lebanon-beirut-explosion-charity-spt-intl-lon-orig.cnn">
 
 </div>
 
@@ -453,23 +455,26 @@ CNN </span>
 
 </div>
 
-<div id="js-collection-video-mobile-featured-ogoufm" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
+<div id="js-collection-video-mobile-featured-1puvrtu" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
 
 <div class="el__video-collection__meta-wrapper cn-grid">
 
-# Plane overshoots runway and crashes in southern India
+# The 'Lebanese Tiger' on Beirut blast: What you see on TV is nothing compared to reality
 
 <div class="cn__column cn__column--2up0">
 
-<div id="js-mobile-video_description-featured-ogoufm" class="media__video-description media__video-description--inline">
+<div id="js-mobile-video_description-featured-1puvrtu" class="media__video-description media__video-description--inline">
 
-An Air India Express flight skidded off the runway at Kozhikode Calicut
-International Airport, officials said.
+Widely regarded as the greatest ever Asian basketball player, Fadi El
+Khatib is weeping for Lebanon. The former pro basketball player faces
+ruin after the port explosion in Beirut on August 4. The father of four
+has lost his home and business, both shattered and damaged due to the
+incident.
 
 </div>
 
-<span id="js-mobile-video_source-featured-ogoufm" class="video__metadata__source-name">[Source:
-CNN]()</span>
+<span id="js-mobile-video_source-featured-1puvrtu" class="video__metadata__source-name">Source:
+CNN</span>
 
 </div>
 
@@ -521,7 +526,7 @@ CNN]()</span>
 
 </div>
 
-<div id="cn-featured-ogoufm" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-ogoufm" data-layout="carousel-medium-strip">
+<div id="cn-featured-1puvrtu" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-1puvrtu" data-layout="carousel-medium-strip">
 
 ## World News (15 Videos)
 
@@ -530,6 +535,68 @@ CNN]()</span>
 </div>
 
 <div class="js-owl-carousel owl-carousel carousel--fixed carousel-medium-strip" data-galleryname="[object Object]" data-cut-format="" data-is-gallery="" data-slide-count="15">
+
+<div class="cn__column carousel__content__item">
+
+<div class="cd__wrapper" data-analytics="World News (15 Videos)_carousel-medium-strip_video_video">
+
+<div class="media">
+
+[![Lebanon&\#39;s Fadi El Khatib reacts during the World Basketball
+Championships first round match against France in Sendai, northern Japan
+Wednesday, Aug. 23, 2006. Lebanon won the match, 74-73. (AP Photo/Dusan
+Vranic)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/sports/2020/08/07/fadi-el-khatib-basketball-hero-lebanon-beirut-explosion-charity-spt-intl-lon-orig.cnn/video/playlists/around-the-world/)
+
+<div class="img__preloader">
+
+</div>
+
+![Lebanon&\#39;s Fadi El Khatib reacts during the World Basketball
+Championships first round match against France in Sendai, northern Japan
+Wednesday, Aug. 23, 2006. Lebanon won the match, 74-73. (AP Photo/Dusan
+Vranic)](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-large-169.jpg)
+
+**
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">The 'Lebanese Tiger' on Beirut blast: What you see on TV is nothing compared to reality</span><span class="cd__headline-icon cnn-icon"></span>](/videos/sports/2020/08/07/fadi-el-khatib-basketball-hero-lebanon-beirut-explosion-charity-spt-intl-lon-orig.cnn/video/playlists/around-the-world/)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column carousel__content__item">
+
+<div class="cd__wrapper" data-analytics="World News (15 Videos)_carousel-medium-strip_video_video">
+
+<div class="media">
+
+[![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/world/2020/08/08/protesters-in-beirut-wedeman-vpx.cnn/video/playlists/around-the-world/)
+
+<div class="img__preloader">
+
+</div>
+
+![](//cdn.cnn.com/cnnnext/dam/assets/200808095012-05-beirut-protest-0808-large-169.jpg)
+
+**
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">See the scene in Beirut as protesters call for a 'revolution' </span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/08/protesters-in-beirut-wedeman-vpx.cnn/video/playlists/around-the-world/)
+
+</div>
+
+</div>
+
+</div>
 
 <div class="cn__column carousel__content__item">
 
@@ -565,15 +632,31 @@ CNN]()</span>
 
 <div class="media">
 
-[![beirut lebanon explosion hospital ICU Wedeman pkg intl ldn
-vpx\_00001610.jpg](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/world/2020/08/07/beirut-lebanon-explosion-hospital-icu-wedeman-pkg-intl-ldn-vpx.cnn/video/playlists/around-the-world/)
+[![A 50-year-old Austrian man who broke three toes off a 200-year-old
+plaster cast model of Antonio Canova&\#39;s statue of Paolina Bonaparte
+in the Gipsoteca Museum in Possagno, northern Italy, on July 31 has been
+identified, Treviso Carabinieri have confirmed to CNN. The man, whose
+name has not yet been released, was caught on surveillance tape jumping
+up onto the reclining statue&\#39;s base to get a vacation pic when the
+maneuver inadvertently snapped the toes. The damaged statue is the
+original plaster cast model from which the original marble statue that
+is housed in the Borghese Gallery in Rome was carved by
+Canova.](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/arts/2020/08/04/tourist-breaks-statue-italy-orig-mrg.cnn/video/playlists/around-the-world/)
 
 <div class="img__preloader">
 
 </div>
 
-![beirut lebanon explosion hospital ICU Wedeman pkg intl ldn
-vpx\_00001610.jpg](//cdn.cnn.com/cnnnext/dam/assets/200807170641-beirut-lebanon-explosion-hospital-icu-wedeman-pkg-intl-ldn-vpx-00001610-large-169.jpg)
+![A 50-year-old Austrian man who broke three toes off a 200-year-old
+plaster cast model of Antonio Canova&\#39;s statue of Paolina Bonaparte
+in the Gipsoteca Museum in Possagno, northern Italy, on July 31 has been
+identified, Treviso Carabinieri have confirmed to CNN. The man, whose
+name has not yet been released, was caught on surveillance tape jumping
+up onto the reclining statue&\#39;s base to get a vacation pic when the
+maneuver inadvertently snapped the toes. The damaged statue is the
+original plaster cast model from which the original marble statue that
+is housed in the Borghese Gallery in Rome was carved by
+Canova.](//cdn.cnn.com/cnnnext/dam/assets/200804081153-02-canova-statue-damage-tourist-scli-intl-large-169.jpg)
 
 **
 
@@ -581,7 +664,7 @@ vpx\_00001610.jpg](//cdn.cnn.com/cnnnext/dam/assets/200807170641-beirut-lebanon-
 
 <div class="cd__content">
 
-### [<span class="cd__headline-text">This is what an ER in Beirut was like after the blast</span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/07/beirut-lebanon-explosion-hospital-icu-wedeman-pkg-intl-ldn-vpx.cnn/video/playlists/around-the-world/)
+### [<span class="cd__headline-text">Watch posing tourist snap toes off 19th-century statue</span><span class="cd__headline-icon cnn-icon"></span>](/videos/arts/2020/08/04/tourist-breaks-statue-italy-orig-mrg.cnn/video/playlists/around-the-world/)
 
 </div>
 
@@ -743,34 +826,6 @@ vpx\_00002911.jpg](//cdn.cnn.com/cnnnext/dam/assets/200806114756-beirut-explosio
 
 <div class="media">
 
-[![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/world/2020/08/05/beirut-explosion-lebanon-destruction-drone-video-lon-orig-bks.cnn/video/playlists/around-the-world/)
-
-<div class="img__preloader">
-
-</div>
-
-![](//cdn.cnn.com/cnnnext/dam/assets/200805181133-beirut-cnn-drone-thumbnail-large-169.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Drone footage shows the scale of destruction in Beirut</span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/05/beirut-explosion-lebanon-destruction-drone-video-lon-orig-bks.cnn/video/playlists/around-the-world/)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column carousel__content__item">
-
-<div class="cd__wrapper" data-analytics="World News (15 Videos)_carousel-medium-strip_video_video">
-
-<div class="media">
-
 [![A bride poses in her wedding dress moments before the explosion in
 Beirut on August 4,
 2020.](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/world/2020/08/05/beirut-explosion-wedding-video-zw-orig.cnn/video/playlists/around-the-world/)
@@ -790,44 +845,6 @@ Beirut on August 4,
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Video shows Beirut explosion interrupt bride's wedding day</span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/05/beirut-explosion-wedding-video-zw-orig.cnn/video/playlists/around-the-world/)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column carousel__content__item">
-
-<div class="cd__wrapper" data-analytics="World News (15 Videos)_carousel-medium-strip_video_video">
-
-<div class="media">
-
-[![A picture shows the scene of an explosion in Beirut on August 4,
-2020. - A large explosion rocked the Lebanese capital Beirut on August
-4, an AFP correspondent said. The blast, which rattled entire buildings
-and broke glass, was felt in several parts of the city. (Photo by Anwar
-AMRO / AFP) (Photo by ANWAR AMRO/AFP via Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/videos/world/2020/08/04/beirut-explosion-video-mss-orig.cnn/video/playlists/around-the-world/)
-
-<div class="img__preloader">
-
-</div>
-
-![A picture shows the scene of an explosion in Beirut on August 4, 2020.
-- A large explosion rocked the Lebanese capital Beirut on August 4, an
-AFP correspondent said. The blast, which rattled entire buildings and
-broke glass, was felt in several parts of the city. (Photo by Anwar AMRO
-/ AFP) (Photo by ANWAR AMRO/AFP via Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/200804133055-15-beirut-explosion-0804-large-169.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Here's what we know about the Beirut explosion</span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/04/beirut-explosion-video-mss-orig.cnn/video/playlists/around-the-world/)
 
 </div>
 
@@ -1009,19 +1026,22 @@ See More
 
 <div class="pg-rail pg-rail-tall__rail">
 
-<div id="collection-video-featured-ogoufm" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
+<div id="collection-video-featured-1puvrtu" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
 
-# Plane overshoots runway and crashes in southern India
+# The 'Lebanese Tiger' on Beirut blast: What you see on TV is nothing compared to reality
 
-<div id="js-video_description-featured-ogoufm" class="media__video-description media__video-description--inline">
+<div id="js-video_description-featured-1puvrtu" class="media__video-description media__video-description--inline">
 
-An Air India Express flight skidded off the runway at Kozhikode Calicut
-International Airport, officials said.
+Widely regarded as the greatest ever Asian basketball player, Fadi El
+Khatib is weeping for Lebanon. The former pro basketball player faces
+ruin after the port explosion in Beirut on August 4. The father of four
+has lost his home and business, both shattered and damaged due to the
+incident.
 
 </div>
 
-<span id="js-video_source-featured-ogoufm" class="video__metadata__source-name">[Source:
-CNN]()</span>
+<span id="js-video_source-featured-1puvrtu" class="video__metadata__source-name">Source:
+CNN</span>
 
 <div>
 

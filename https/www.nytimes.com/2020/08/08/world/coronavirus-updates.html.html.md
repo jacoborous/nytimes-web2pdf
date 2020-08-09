@@ -218,12 +218,12 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 8:16 p.m.
+<span class="css-1656jku">Aug. 8, 2020, 8:25 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:16
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:25
 p.m. ET</span>
 
 </div>
