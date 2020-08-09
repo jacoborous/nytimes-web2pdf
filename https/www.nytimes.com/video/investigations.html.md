@@ -36,12 +36,11 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
-new video loaded: Killing Khashoggi: How a Brutal Saudi Hit Job
-Unfolded
+new video loaded: Killing Khashoggi: How a Brutal Saudi Hit Job Unfolded
 
 <div>
 
@@ -53,7 +52,7 @@ Unfolded
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -217,8 +216,7 @@ transcript
     seeking the death penalty for several suspects in Khashoggi’s
     killing. But that doesn’t include Crown Prince Mohammed bin Salman,
     who many Western government officials are convinced authorized the
-    killing. Khashoggi’s remains still haven’t been
-found.
+    killing. Khashoggi’s remains still haven’t been found.
 
 </div>
 
@@ -228,7 +226,7 @@ found.
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -280,8 +278,7 @@ found.
 
 By David Botti, Malachy Browne, Drew Jordan, Anjali Singhvi, David D.
 Kirkpatrick, Carlotta Gall and Ben
-Hubbard<span class="css-1iknmmf">•</span>November 16,
-2018
+Hubbard<span class="css-1iknmmf">•</span>November 16, 2018
 
 </div>
 
@@ -301,7 +298,7 @@ Hubbard<span class="css-1iknmmf">•</span>November 16,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -682,24 +679,23 @@ Vegas massacre to a chemical attack in Syria.
 
 <div class="css-1gce877">
 
-Show more videos from Visual
-Investigations
+Show more videos from Visual Investigations
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -827,8 +823,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -872,8 +867,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

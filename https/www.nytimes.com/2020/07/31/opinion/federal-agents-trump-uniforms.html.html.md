@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -66,7 +64,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -77,8 +75,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Federal
-Agents Don’t Need Army
-Fatigues</span>
+Agents Don’t Need Army Fatigues</span>
 
 </div>
 
@@ -100,7 +97,7 @@ Fatigues</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -138,8 +135,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -175,8 +171,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -223,14 +218,13 @@ It is separate from the newsroom.
 
 </div>
 
-  - July 31,
-    2020
+  - July 31, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -254,7 +248,7 @@ It is separate from the newsroom.
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
 
-<div id="30fed_graphic" class="section interactive-content interactive-size-scoop css-1tqs9x0" data-id="100000007267693">
+<div id="30fed_graphic" class="section interactive-content interactive-size-scoop css-1tqs9x0">
 
 <div class="css-17ih8de interactive-body" data-sourceid="100000007267693">
 
@@ -274,8 +268,7 @@ It is separate from the newsroom.
 
 <div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:7.297%;margin-top:-7.2px;left:64.6383%;width:72px;">
 
-Gas
-mask
+Gas mask
 
 </div>
 
@@ -293,22 +286,19 @@ Radio
 
 <div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:22.5182%;margin-top:-7.2px;left:4.6647%;width:118px;">
 
-Semiautomatic
-rifle
+Semiautomatic rifle
 
 </div>
 
 <div id="g-ai0-5" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:25.881%;margin-top:-7.2px;left:59.5068%;width:130px;">
 
-Holographic
-gunsight
+Holographic gunsight
 
 </div>
 
 <div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:35.0846%;margin-top:-7.2px;left:5.2209%;width:102px;">
 
-Spare
-30-round
+Spare 30-round
 
 </div>
 
@@ -347,8 +337,7 @@ BO<span class="g-cstyle2">Y’</span>
 
 <div id="g-ai0-13" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:92.964%;margin-top:-8.2px;left:50.7848%;margin-left:-112px;width:224px;">
 
-Anti-government group—often
-seen
+Anti-government group—often seen
 
 </div>
 
@@ -358,15 +347,13 @@ seen
 
 <div id="g-ai0-15" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:95.619%;margin-top:-8.2px;left:50.7048%;margin-left:-85px;width:170px;">
 
-wearing Aloha shirts—at
-a
+wearing Aloha shirts—at a
 
 </div>
 
 <div id="g-ai0-16" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:98.4508%;margin-top:-8.2px;left:50.6875%;margin-left:-104.5px;width:209px;">
 
-demonstration in New
-Hampshire.
+demonstration in New Hampshire.
 
 </div>
 
@@ -394,8 +381,7 @@ Hampshire.
 
 <div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:13.6686%;margin-top:-7.2px;left:58.1686%;width:127px;">
 
-Special
-Forces-style
+Special Forces-style
 
 </div>
 
@@ -407,8 +393,7 @@ helmet
 
 <div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:32.9607%;margin-top:-7.2px;left:65.3499%;width:102px;">
 
-Spare
-30-round
+Spare 30-round
 
 </div>
 
@@ -430,15 +415,13 @@ Radio
 
 <div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:49.4208%;margin-top:-7.2px;left:67.9408%;width:97px;">
 
-Tactical
-gloves
+Tactical gloves
 
 </div>
 
 <div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:54.3766%;margin-top:-7.2px;left:57.5342%;width:118px;">
 
-Semiautomatic
-rifle
+Semiautomatic rifle
 
 </div>
 
@@ -467,8 +450,7 @@ MEMBE<span class="g-cstyle2">R</span>
 
 <div id="g-ai0-14" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:92.964%;margin-top:-8.2px;left:50.707%;margin-left:-99px;width:198px;">
 
-Self-described “militia”
-member
+Self-described “militia” member
 
 </div>
 
@@ -478,15 +460,13 @@ member
 
 <div id="g-ai0-16" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:95.7959%;margin-top:-8.2px;left:50.7204%;margin-left:-86px;width:172px;">
 
-during a Black Lives
-Matter
+during a Black Lives Matter
 
 </div>
 
 <div id="g-ai0-17" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:98.4508%;margin-top:-8.2px;left:50.6426%;margin-left:-78.5px;width:157px;">
 
-protest in Oakdale,
-Calif.
+protest in Oakdale, Calif.
 
 </div>
 
@@ -510,8 +490,7 @@ Calif.
 
 <div id="g-ai0-1" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:4.6421%;margin-top:-7.2px;left:61.5326%;width:127px;">
 
-Special
-Forces-style
+Special Forces-style
 
 </div>
 
@@ -523,15 +502,13 @@ helmet
 
 <div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:12.0757%;margin-top:-7.2px;left:63.528%;width:72px;">
 
-Gas
-mask
+Gas mask
 
 </div>
 
 <div id="g-ai0-4" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:17.3854%;margin-top:-7.2px;left:6.6178%;width:102px;">
 
-Spare
-30-round
+Spare 30-round
 
 </div>
 
@@ -553,15 +530,13 @@ Radio
 
 <div id="g-ai0-8" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:31.5447%;margin-top:-7.2px;left:52.234%;width:130px;">
 
-Holographic
-gunsight
+Holographic gunsight
 
 </div>
 
 <div id="g-ai0-9" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:38.9784%;margin-top:-7.2px;left:5.6416%;width:97px;">
 
-Tactical
-gloves
+Tactical gloves
 
 </div>
 
@@ -571,15 +546,13 @@ gloves
 
 <div id="g-ai0-11" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:47.297%;margin-top:-7.2px;left:71.4688%;width:84px;">
 
-Aiming
-laser
+Aiming laser
 
 </div>
 
 <div id="g-ai0-12" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:50.1288%;margin-top:-7.2px;left:10.6615%;width:107px;">
 
-Military-style
-rifle
+Military-style rifle
 
 </div>
 
@@ -598,8 +571,7 @@ FEDERAL<span class="g-cstyle0">
 
 <div id="g-ai0-15" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:92.9641%;margin-top:-8.2px;left:50.7721%;margin-left:-80.5px;width:161px;">
 
-Unmarked federal
-agent
+Unmarked federal agent
 
 </div>
 
@@ -609,8 +581,7 @@ agent
 
 <div id="g-ai0-17" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:95.7959%;margin-top:-8.2px;left:50.7803%;margin-left:-56px;width:112px;">
 
-in Portland,
-Ore.
+in Portland, Ore.
 
 </div>
 
@@ -640,15 +611,13 @@ Radio
 
 <div id="g-ai0-2" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:27.12%;margin-top:-7.2px;left:11.2334%;width:118px;">
 
-Semiautomatic
-rifle
+Semiautomatic rifle
 
 </div>
 
 <div id="g-ai0-3" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:47.8279%;margin-top:-7.2px;left:61.9515%;width:102px;">
 
-Spare
-30-round
+Spare 30-round
 
 </div>
 
@@ -664,15 +633,13 @@ magazines
 
 <div id="g-ai0-6" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:89.5989%;margin-top:-8.2px;left:49.515%;margin-left:-114.5px;width:229px;">
 
-anti-lockdown
-protester
+anti-lockdown protester
 
 </div>
 
 <div id="g-ai0-7" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:92.8756%;margin-top:-8.7px;left:27.3955%;width:144px;">
 
-Americans opposed
-to
+Americans opposed to
 
 </div>
 
@@ -686,8 +653,7 @@ to
 
 <div id="g-ai0-10" class="g-Layer_1 g-aiAbs g-aiPointText" style="top:95.7074%;margin-top:-8.7px;left:16.4837%;width:223px;">
 
-government public health
-measures,
+government public health measures,
 
 </div>
 
@@ -854,8 +820,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -899,8 +864,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

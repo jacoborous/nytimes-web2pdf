@@ -36,12 +36,11 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
-new video loaded: Meet the KGB Spies Who Invented Fake
-News
+new video loaded: Meet the KGB Spies Who Invented Fake News
 
 <div>
 
@@ -53,7 +52,7 @@ News
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -310,8 +309,7 @@ transcript
     creating disinformation. And that was true of the entire agency
     during the Cold War, including a young agent from St. Petersburg who
     enrolled into the KGB in 1975 and who would one day go on to greater
-    things.
-\[music\]
+    things. \[music\]
 
 </div>
 
@@ -321,7 +319,7 @@ transcript
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -372,8 +370,7 @@ transcript
 <div class="css-19m31ns">
 
 By Adam B. Ellick, Adam Westbrook and Jonah M.
-Kessel<span class="css-1iknmmf">•</span>November 12,
-2018
+Kessel<span class="css-1iknmmf">•</span>November 12, 2018
 
 </div>
 
@@ -393,7 +390,7 @@ Kessel<span class="css-1iknmmf">•</span>November 12,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -459,6 +456,32 @@ Kessel<span class="css-1iknmmf">•</span>November 12,
     <span class="css-1xigvfz">17:28</span>
     
     ### The Worldwide War on Truth
+
+  - [](https://www.nytimes.com/video/opinion/100000007278127/coronavirus-vaccine-update.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/08/autossell/CovidUpdate_E3V2-thumb/CovidUpdate_E3V2-thumb-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">2:45</span>
+    
+    ### Covid Update: Don’t Rush the Vaccine
+
+  - [](https://www.nytimes.com/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">7:14</span>
+    
+    ### He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
 
   - [](https://www.nytimes.com/video/opinion/100000007247238/tears-teacher.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
     
@@ -707,32 +730,6 @@ Kessel<span class="css-1iknmmf">•</span>November 12,
     
     ### The Bill of Rights, Revised
 
-  - [](https://www.nytimes.com/video/opinion/100000007161402/coronavirus-amazon-hazard-pay.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/05/29/autossell/OP-AMZAON-THUMB2/OP-AMZAON-THUMB2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">4:06</span>
-    
-    ### We Work in an Amazon Warehouse. We Didn’t Sign Up to Be Heroes.
-
-  - [](https://www.nytimes.com/video/opinion/100000007139379/how-to-be-alone.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/05/23/opinion/opdoc-how-to-be-alone-img/opdoc-how-to-be-alone-img-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">6:11</span>
-    
-    ### How to Be Alone
-
 </div>
 
 <div class="css-1iyuew3">
@@ -775,24 +772,23 @@ and The Times’s Opinion Video team.
 
 <div class="css-1gce877">
 
-Show more videos from
-Opinion
+Show more videos from Opinion
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -920,8 +916,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -965,8 +960,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

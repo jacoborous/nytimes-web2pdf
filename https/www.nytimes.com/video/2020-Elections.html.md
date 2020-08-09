@@ -36,13 +36,12 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
 new video loaded: He Predicted Trump’s Win in 2016. Now He’s Ready to
-Call
-2020.
+Call 2020.
 
 <div>
 
@@ -54,7 +53,7 @@ Call
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -193,8 +192,7 @@ transcript
     outside the keys — voter suppression, Russian meddling. It’s up to
     you the voters to decide the future of our democracy. So get out and
     vote. Vote in person. Vote by mail. As Abraham Lincoln said, the
-    best way to predict the future is to choose it.” \[MUSIC
-PLAYING\]
+    best way to predict the future is to choose it.” \[MUSIC PLAYING\]
 
 </div>
 
@@ -204,7 +202,7 @@ PLAYING\]
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -254,8 +252,7 @@ PLAYING\]
 
 <div class="css-19m31ns">
 
-Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
-2020
+Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5, 2020
 
 </div>
 
@@ -275,7 +272,7 @@ Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -307,7 +304,7 @@ Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/07/07/autossell/op-Lichtman_thumb1/op-Lichtman_thumb1-square320.png)
+    poster](https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-square320.png)
     
     </div>
     
@@ -651,24 +648,23 @@ Catch up on the latest news from the 2020 campaign trail.
 
 <div class="css-1gce877">
 
-Show more videos from 2020
-Elections
+Show more videos from 2020 Elections
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -796,8 +792,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -841,8 +836,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

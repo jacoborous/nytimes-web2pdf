@@ -218,12 +218,12 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 8:32 p.m.
+<span class="css-1656jku">Aug. 8, 2020, 8:53 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:32
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:53
 p.m. ET</span>
 
 </div>
@@ -313,8 +313,8 @@ States passed another milestone on Saturday: more than five million
 known coronavirus infections.
 
 No other country has reported as many cases. Brazil ranks second, with
-about three million, and India is third with two million. (In cases per
-capita, the United States ranks eighth, between Oman and Peru.)
+more than three million, and India is third with two million. (In cases
+per capita, the United States ranks eighth, between Oman and Peru.)
 
 The data, from [a New York Times
 database](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html),
@@ -353,6 +353,14 @@ down from a peak of more than 2,200 on a single day in mid-April, when
 bigger cities like New York and Seattle were hit the hardest. (The most
 deadly single day was April 15, with 2,752.)
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 At least 161,000 people have died since the pandemic began. But the
 seven-day average daily death toll is now significantly higher than it
 was in early July, when it was around 500. Cases have surged since then
@@ -362,14 +370,6 @@ and in communities where officials moved quickly to
 [reopen](https://www.nytimes.com/interactive/2020/07/09/us/coronavirus-cases-reopening-trends.html).
 Many of the places with the most cases per capita have been smaller
 cities and rural communities in the South and the Midwest.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 </div>
 
@@ -1138,7 +1138,7 @@ as New York City and Washington, D.C.
 
 The patients were disproportionately people of color, echoing a pattern
 in adults who have been struck by the respiratory disease caused by the
-virus. About 40 percent were Hispanic or Latino, 33 percent were Black,
+virus. About 40 percent were Hispanic or Latino, 33 percent were Black
 and 13 percent were white, the report said. The median age was 8. About
 25 percent of the patients had obesity before becoming sick.
 

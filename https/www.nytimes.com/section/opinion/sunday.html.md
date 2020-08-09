@@ -26,8 +26,7 @@
 
 <div id="masthead-section-label" class="css-1fnb9ct eaxe0e00">
 
-[Sunday
-Review](https://www.nytimes.com/section/opinion/sunday)
+[Sunday Review](https://www.nytimes.com/section/opinion/sunday)
 
 </div>
 
@@ -55,8 +54,7 @@ Review](https://www.nytimes.com/section/opinion/sunday)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -68,7 +66,31 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
+
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
 
 <div id="collection-sunday" class="section css-15h4p1b e9abtgs0">
 
@@ -86,8 +108,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -152,25 +173,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/sunday-review/horse-crazy-nir-language.html)
+    [](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/02nir-print/02nir-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Douthat/09Douthat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">news analysis</span>
+    ## What to Do When Covid Doesn’t Go Away
     
-    ## To Break a Horse, and a Woman
-    
-    How do prey animals stay safe in a world out to get them? And how
-    would I?
+    Lessons for coronavirus long-haulers from my own experience with
+    chronic illness.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah Maslin
-    Nir</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -188,23 +206,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/mail-voting-covid-2020-election.html)
+    [](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/01Voting/01Voting-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Voting by Mail Is Crucial for Democracy
+    ## America Could Control the Pandemic by October. Let’s Get to It.
     
-    Especially amid the pandemic, it’s the surest path to a more
-    inclusive, more accurate and more secure election.
+    The solutions to combating the coronavirus are no mystery. It’s time
+    to do this right.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     
@@ -222,22 +239,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/trump-coronavirus-herman-cain.html)
+    [](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/01Dowd/01Dowd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/08hajdu/08hajdu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Double, Double, Trump’s Toil, Our Trouble
+    ## A Song That Changed Music Forever
     
-    Demon sperm meets alien D.N.A., as President Trump teeters.
+    100 years ago, Mamie Smith recorded a seminal blues hit that gave
+    voice to outrage at violence against Black Americans.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maureen
-    Dowd</span>
+    By <span class="css-1n7hynb">David Hajdu</span>
     
     </div>
     
@@ -255,23 +272,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/opinion/sunday/minerva-college-coronavirus.html)
+    [](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/02bruni/02bruni-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How to Go to College During a Pandemic
+    ## No Wrist Corsages, Please
     
-    Students at Minerva spend four years entirely online. Is this the
-    future of higher education?
+    Has America grown since 1984, or will the knives still be out for
+    Biden’s running mate?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Frank
-    Bruni</span>
+    By <span class="css-1n7hynb">Maureen Dowd</span>
     
     </div>
     
@@ -289,23 +305,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/sunday/India-migration-coronavirus.html)
+    [](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/31peer4/31peer4-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09brooks/09brooks-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Friendship, a Pandemic and a Death Beside the Highway
+    ## Where Do Republicans Go From Here?
     
-    How a photograph of a young man cradling his dying friend sent me on
-    a journey across India.
+    The party looks brain-dead at every spot Trump touches. But off in
+    the corners, there’s a lot of intellectual ferment.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Basharat
-    Peer</span>
+    By <span class="css-1n7hynb">David Brooks</span>
     
     </div>
     
@@ -323,23 +338,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/opinion/sunday/john-lewis-trump-election-2020.html)
+    [](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/31bouieNew/31bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/00ron9/00ron9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## John Lewis Was the Anti-Trump
+    ## Could This Be the Last Time We See Our Dad?
     
-    The president doesn’t seem to know what democracy is; the
-    congressman embodied it.
+    Zoom has become a link between loved ones. But is what we see
+    onscreen real life?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Ron Haviv</span>
     
     </div>
     
@@ -357,23 +371,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/sunday/tech-congress-hearings-facebook.html)
+    [](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/opinion/30OMara1-Sub/30OMara1-Sub-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/05liz2/05liz2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Last Days of the Tech Emperors?
+    ## ‘Racism Makes a Liar of God’
     
-    Congress was once filled with “Atari Democrats.” This week's
-    hearings showed their transformation into trust busters.
+    How the American Catholic Church is wrestling with the Black Lives
+    Matter movement.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Margaret
-    O’Mara</span>
+    By <span class="css-1n7hynb">Elizabeth Bruenig</span>
     
     </div>
     
@@ -391,22 +404,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
+    [](/2020/08/06/sunday-review/middle-class-prosperity.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/30collins1/30collins1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09tankersley/09tankersley-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 100 Years of Voting Hasn’t Done What We Thought It Would
+    ### <span class="css-m70j1g">NEWS ANALYSIS</span>
     
-    The unfinished business of the women’s vote.
+    ## The Real Reason the American Economy Boomed After World War II
+    
+    How expanding opportunity for women, immigrants and nonwhite workers
+    helped everyone — and why we need to do so again.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Jim Tankersley</span>
     
     </div>
     
@@ -424,25 +439,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/opinion/sunday/food-covid-quarantine-clay.html)
+    [](/2020/08/05/opinion/sunday/edmund-burke.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/02/opinion/sunday/29Ackermann-06/29Ackermann-06-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/07Stephens/07Stephens-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">opinion</span>
+    ## Why Edmund Burke Still Matters
     
-    ## I Cured My Pandemic Anxiety by Making Tiny Food Out of Clay
-    
-    The subtle pleasures of trying to make one small piece of the world
-    just right.
+    He reminds us it’s hard to respect democratic political institutions
+    while disdaining the founders of those institutions.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Rebecca
-    Ackermann</span>
+    By <span class="css-1n7hynb">Bret Stephens</span>
     
     </div>
     
@@ -460,22 +472,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/opinion/sunday/coronavirus-medicine-blackness.html)
+    [](/2020/08/05/opinion/sunday/indian-matchmaking-netflix.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/opinion/27tweedy1/merlin_172498455_97141459-151b-48f8-951a-905b7791b1e5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/opinion/sunday/06sathian/05sathian-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Medical Schools Have Historically Been Wrong on Race
+    ## We Need to Talk About ‘Indian Matchmaking’
     
-    While the blatant horrors of the past are gone, the ideas that
-    fueled race-based medicine stubbornly linger. We can change.
+    The Netflix show is controversial. But it tells awkward truths about
+    my community.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Damon Tweedy</span>
+    By <span class="css-1n7hynb">Sanjena Sathian</span>
     
     </div>
     
@@ -493,24 +505,23 @@ story](#after-sponsor)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -534,8 +545,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -555,8 +565,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -606,8 +615,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -135,8 +133,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -177,6 +174,145 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-INTEL/merlin_175047585_bb745441-bc29-4907-be99-56a1b4493a5d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Russia Continues Interfering in Election to Try to Help Trump, U.S. Intelligence Says
+    
+    But a new assessment says China would prefer to see the president
+    defeated, though it is not clear Beijing is doing much to meddle in
+    the 2020 campaign to help Joseph R. Biden Jr.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/us/politics/tiktok-security-threat.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-tiktok01/merlin_175379841_7dd8e79d-d3de-46d9-84e6-e7b0c15e8fb4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">White House Memo</span>
+    
+    ## Is TikTok More of a Parenting Problem Than a Security Threat?
+    
+    Even as the White House moves against the Chinese social media app,
+    the intelligence agencies do not see it as a major issue along the
+    lines of Huawei.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David E. Sanger <span>and</span> Julian
+    E. Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/us/politics/election-meddling-texts-russia-iran.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/06dc-intel-hack/merlin_175379559_0e0ef0a1-2b9d-46dc-b67d-062544210235-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Latest U.S. Tool to Fight Election Meddling: Text Messages
+    
+    Washington sent offers to cellphones in Russia and Iran of rewards
+    of up to $10 million for information on hackers trying to attack
+    American voting systems.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/us/politics/state-department-russian-disinformation.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/us/politics/05dc-disinfo/merlin_173805921_cde41302-7b51-4119-aa14-c775cfd2a0ac-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## State Dept. Traces Russian Disinformation Links
+    
+    A new government report avoids direct discussion of American
+    election interference by Moscow, despite lawmakers’ call for more
+    information.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/us/politics/john-brennan-book.html)
     
     <div class="css-79elbk">
@@ -193,8 +329,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julian E.
-    Barnes</span>
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
     
     </div>
     
@@ -206,7 +341,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -229,8 +364,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Julian E. Barnes <span>and</span> David
-    E.
-    Sanger</span>
+    E. Sanger</span>
     
     </div>
     
@@ -242,7 +376,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -266,8 +400,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">David E. Sanger <span>and</span> Julian
-    E.
-    Barnes</span>
+    E. Barnes</span>
     
     </div>
     
@@ -279,7 +412,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -302,8 +435,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Paul Mozur, Julian E. Barnes
-    <span>and</span> Aaron
-    Krolik</span>
+    <span>and</span> Aaron Krolik</span>
     
     </div>
     
@@ -321,7 +453,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -343,8 +475,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julian E.
-    Barnes</span>
+    By <span class="css-1n7hynb">Julian E. Barnes</span>
     
     </div>
     
@@ -362,7 +493,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -386,152 +517,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">David E. Sanger, Nicholas Fandos
-    <span>and</span> Julian E.
-    Barnes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/us/politics/vaccine-hacking-russia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/16/us/politics/16dc-intel/merlin_173444058_24505b78-df60-451b-8bfe-bd08c11f5724-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Russia Is Trying to Steal Virus Vaccine Data, Western Nations Say
-    
-    The hackers have been targeting British, Canadian and American
-    organizations racing to create coronavirus vaccines.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julian E.
-    Barnes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/us/politics/china-travel-ban.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/15/us/politics/15dc-chinaban-1/15dc-chinaban-1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Weighs Sweeping Travel Ban on Chinese Communist Party Members
-    
-    The presidential order under consideration would be based on the
-    same statute in the Immigration and Nationality Act used in a 2017
-    travel ban on several predominantly Muslim countries.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul Mozur <span>and</span> Edward
-    Wong</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/usa/20200716/china-travel-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/usa/20200716/china-travel-ban/zh-hant/ "Read in Traditional Chinese")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/24/us/politics/cia-watchdog-peter-thomson.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/24/us/politics/24dc-intel/24dc-intel-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Senate Questions C.I.A. Watchdog Nominee Over Independence
-    
-    Peter Thomson, President Trump’s nominee to be the spy agency’s
-    government watchdog, pledged to resist political pressure, but faced
-    skepticism on how he would handle whistle-blower complaints.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julian E.
-    Barnes</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/22/us/politics/cia-recruiting-ad.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/22/us/politics/22dc-intel/22dc-intel-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The C.I.A.’s Business Is Secrets, but It Is Recruiting Spies in the Open
-    
-    The C.I.A. made its first television recruiting ad, now airing on
-    streaming services like Hulu, as it tries to build a better, more
-    diverse spy corps.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julian E. Barnes</span>
+    <span>and</span> Julian E. Barnes</span>
     
     </div>
     
@@ -549,24 +535,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -590,8 +575,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -608,8 +592,7 @@ story](#after-mid2)
 <div class="module-body">
 
   - [**<span data-aria-hidden="true">julianbarnes</span><span class="css-1dv1kvn">twitter
-    page for
-    julianbarnes</span>](https://twitter.com/julianbarnes)
+    page for julianbarnes</span>](https://twitter.com/julianbarnes)
   - [**<span data-aria-hidden="true">julian.e.barnes</span><span class="css-1dv1kvn">facebook
     page for
     julian.e.barnes</span>](https://www.facebook.com/julian.e.barnes)
@@ -664,8 +647,7 @@ Email Author
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

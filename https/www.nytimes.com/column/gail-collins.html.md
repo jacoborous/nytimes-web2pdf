@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -214,6 +211,38 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1l4spti">
     
+    [](/2020/08/05/opinion/trump-cabinet.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/opinion/05collinsWeb/05collinsWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Vote for Trump’s Worst\!
+    
+    The competition among his cabineteers is fierce.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail Collins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/opinion/sunday/19th-amendment-women-suffrage.html)
     
     <div class="css-79elbk">
@@ -228,8 +257,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -241,7 +269,7 @@ has been a member of the Pulitzer Prize Board.
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -261,8 +289,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -274,7 +301,7 @@ has been a member of the Pulitzer Prize Board.
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -294,41 +321,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/01/opinion/4th-of-july-quiz.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/01/opinion/01collins1/merlin_173840187_747611b6-1cd7-40a5-8895-8f49b460b459-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Your Fourth of July Quiz
-    
-    Let’s see how well you’ve been following politics.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -360,8 +353,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -374,6 +366,38 @@ has been a member of the Pulitzer Prize Board.
     </div>
 
 6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/01/opinion/4th-of-july-quiz.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/07/01/opinion/01collins1/merlin_173840187_747611b6-1cd7-40a5-8895-8f49b460b459-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Your Fourth of July Quiz
+    
+    Let’s see how well you’ve been following politics.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gail Collins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -393,8 +417,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -406,7 +429,7 @@ has been a member of the Pulitzer Prize Board.
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -426,8 +449,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -439,7 +461,7 @@ has been a member of the Pulitzer Prize Board.
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -459,41 +481,7 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/03/opinion/trump-dominate.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/03/opinion/03collins1/03collins1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump’s Magic Word
-    
-    What we have here is a failure to dominate.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gail
-    Collins</span>
+    By <span class="css-1n7hynb">Gail Collins</span>
     
     </div>
     
@@ -511,17 +499,17 @@ has been a member of the Pulitzer Prize Board.
     
     <div class="css-1l4spti">
     
-    [](/2020/05/27/opinion/donald-trump.html)
+    [](/2020/06/03/opinion/trump-dominate.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/05/27/opinion/27collinsWeb/27collinsWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/06/03/opinion/03collins1/03collins1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Wonderful World of Trump Worsts
+    ## Trump’s Magic Word
     
-    Just don’t call him Tweety.
+    What we have here is a failure to dominate.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -543,24 +531,23 @@ has been a member of the Pulitzer Prize Board.
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -584,8 +571,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -605,8 +591,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -656,8 +641,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

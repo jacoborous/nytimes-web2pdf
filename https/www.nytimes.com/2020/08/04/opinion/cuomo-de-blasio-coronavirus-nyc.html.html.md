@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -66,7 +64,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -77,8 +75,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">New
-York Needs Less Bickering, More
-Teamwork</span>
+York Needs Less Bickering, More Teamwork</span>
 
 </div>
 
@@ -100,7 +97,7 @@ Teamwork</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -128,6 +125,36 @@ Teamwork</span>
 
 <div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
 
+<div>
+
+<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="scroll-container" class="css-1gj85ro">
+
+[<span class="styln-title-wrap"><span class="css-1pje3qr">The
+Coronavirus</span><span class="css-1pje3qr">
+Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+
+  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Maps and
+    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Vaccine
+    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div id="top-wrapper" class="css-1sy8kpn">
@@ -138,8 +165,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -175,8 +201,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -223,14 +248,13 @@ It is separate from the newsroom.
 
 </div>
 
-  - Aug. 4,
-    2020
+  - Aug. 4, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -320,6 +344,64 @@ One of Mr. Cuomo’s advisers had already
 the proposal “an outline” rather than a plan and noted that a school
 reopening proposal in Yonkers, a much smaller city, was roughly 50 pages
 longer.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1596575370630" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-82053" class="css-19mumt8" role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="false" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div>
+
+### The Coronavirus Outbreak
+
+#### Back to School
+
+Updated Aug. 8, 2020
+
+The latest highlights as the first students return to U.S. schools.
+
+  -   - Health experts say New York State schools are [in a good
+        position to
+        reopen](https://www.nytimes.com/2020/08/07/health/coronavirus-ny-schools-reopen.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup),
+        and Gov. Andrew M. Cuomo has [cleared the
+        way](https://www.nytimes.com/2020/08/07/nyregion/cuomo-schools-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+      - Many schools spent the summer focused on reopening classrooms.
+        What if they had [focused on improving remote
+        learning](https://www.nytimes.com/2020/08/07/us/remote-learning-fall-2020.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        instead?
+      - A mother in Germany describes how her family [coped with the
+        anxiety and
+        uncertainty](https://www.nytimes.com/2020/08/07/parenting/germany-schools-reopening-children.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of going back to school there.
+      - A high school freshman tested positive after two days in class.
+        A yearbook editor worries about access to sporting events. We
+        spoke to students about [what school is like in the age of
+        Covid-19.](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+
+<div id="styln-survey-component-82053" class="styln-survey-component">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 On Monday, the mayor said he was “past the point of irritation” with the
 governor. He’s not alone.
@@ -430,8 +512,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -475,8 +556,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

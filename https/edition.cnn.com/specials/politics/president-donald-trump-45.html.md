@@ -1391,6 +1391,38 @@ Show Description
 
 <div class="media">
 
+[![US President Donald Trump speaks during a news conference in
+Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON / AFP)
+(Photo by JIM WATSON/AFP via Getty
+Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![US President Donald Trump speaks during a news conference in
+Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON / AFP)
+(Photo by JIM WATSON/AFP via Getty
+Images)](//cdn.cnn.com/cnnnext/dam/assets/200808164115-02-trump-presser-0808-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Fact check: Trump makes multiple false claims about Covid-19 relief as he signs executive actions</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/opinions/trump-fourth-debate-request-zelizer/index.html)
 
 <div class="img__preloader">
@@ -1411,7 +1443,7 @@ Show Description
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1439,7 +1471,7 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1469,7 +1501,7 @@ Jersey.](//cdn.cnn.com/cnnnext/dam/assets/200807193553-01-donald-trump-presser-0
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1501,7 +1533,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1527,7 +1559,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1571,7 +1603,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1615,7 +1647,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1645,7 +1677,7 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1677,7 +1709,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1703,7 +1735,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1733,7 +1765,7 @@ Chicago.](//cdn.cnn.com/cnnnext/dam/assets/200428110442-usps-trucks-chicago-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1773,7 +1805,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1799,7 +1831,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1825,7 +1857,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1851,7 +1883,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1877,7 +1909,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1907,7 +1939,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1935,7 +1967,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/200807144454-restricted-wechat-app-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1960,34 +1992,6 @@ round.](//cdn.cnn.com/cnnnext/dam/assets/200808013210-haotong-large-tease.jpg)
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Haotong Li 'surprised' to be leading golf major and surprised by questions about President Trump</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/golf/golf-pga-haotong-trump-koepka-woods-spt-intl/index.html)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
-
-<div class="cd__wrapper" data-analytics="_grid-small_article_">
-
-<div class="media">
-
-[![tiktok china eeuu Donald trump robar red social empresas vo
-portafolio\_00000823.jpg](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/business/trump-tiktok-democracy-intl/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![tiktok china eeuu Donald trump robar red social empresas vo
-portafolio\_00000823.jpg](//cdn.cnn.com/cnnnext/dam/assets/200804160733-tiktok-china-eeuu-donald-trump-robar-red-social-empresas-vo-portafolio-00000823-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Trump, TikTok and a dangerous precedent for democracy </span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/business/trump-tiktok-democracy-intl/index.html)
 
 </div>
 

@@ -10,7 +10,7 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -22,8 +22,7 @@
 
 <span class="css-17xtcya">[Sunday
 Review](/section/opinion/sunday)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Reopening
-Schools Is Way Harder Than It Should
-Be</span>
+Schools Is Way Harder Than It Should Be</span>
 
 </div>
 
@@ -45,7 +44,7 @@ Be</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -86,14 +85,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -151,8 +150,7 @@ news analysis
 
 </div>
 
-So is leaving them closed. Now what do we
-do?
+So is leaving them closed. Now what do we do?
 
 </div>
 
@@ -174,8 +172,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -209,14 +206,13 @@ focused on education, with which this article is being copublished.
 
 </div>
 
-  - July 23,
-    2020
+  - July 23, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -253,7 +249,7 @@ to kids. Working parents, particularly mothers, are in crisis, worried
 about having to leave the work force altogether in the absence of a
 place to send their young children each day. And President Trump is
 campaigning for [schools to
-reopen](https://www.nytimes.com/2020/07/29/magazine/schools-reopening-covid.html),
+reopen](https://www.nytimes.com/2020/08/03/business/how-schools-reopen.html),
 threatening to withhold funding if they don’t.
 
 The pressure has mounted as school districts have made it clear that
@@ -263,7 +259,7 @@ rapidly rising — [schools are preparing their students and
 staffs](https://www.chalkbeat.org/2020/7/13/21323338/coronavirus-cases-rise-school-districts-start-year-virtually)
 for a continuation of the “remote learning” that began in the spring. In
 [New York
-City](https://ny.chalkbeat.org/2020/7/8/21317392/nyc-schools-reopen-part-time)
+City](https://www.nytimes.com/2020/08/07/nyregion/cuomo-schools-reopening.html)
 and
 [Chicago](https://chicago.chalkbeat.org/2020/7/17/21328453/chicago-students-will-return-to-school-buildings-two-days-a-week-under-tentative-fall-plan),
 where the virus is more under control, schools are moving toward a
@@ -407,67 +403,7 @@ tolerance.
 Jason Kamras, the schools chief in Richmond, Va., [recently
 likened](https://twitter.com/jasonkamras/status/1280870903610556417) the
 entire conundrum to “playing a game of 3-D chess while standing on one
-leg in the middle of a
-hurricane.”
-
-<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-01T17:33:09.863Z
-
-</div>
-
-</div>
-
-  - [Top officials work to break impasse over jobless benefit that
-    helped keep afloat millions of unemployed
-    Americans.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-2e88f231)
-  - [The virus picks up dangerous speed in the Midwest, and in areas
-    that had seen
-    success.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-<div class="briefing-block-briefinglinks">
-
-<span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+leg in the middle of a hurricane.”
 
 “I have families emailing me that they are desperate for their kids to
 be back in school,” he said. “And also some families who, if their kids
@@ -561,8 +497,7 @@ options](https://ny.chalkbeat.org/2020/7/16/21327364/nyc-vows-to-open-child-care
 and figuring out whether [empty
 offices](https://www.ny1.com/nyc/all-boroughs/education/2020/07/16/why-schools-chancellor-says-split-school-schedule-is-a-no-go-for-fall)
 and vacant buildings can be used as school space. But there are no real
-answers
-yet.
+answers yet.
 
 </div>
 
@@ -587,8 +522,7 @@ yet.
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Another view
 of P.S.
 20.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mark
-Wickens for The New York
-Times</span></span>
+Wickens for The New York Times</span></span>
 
 <div class="css-1xdhyk6 erfvjey0">
 
@@ -620,6 +554,64 @@ through a new national child care or tutoring corps, would require a
 degree of shared responsibility, coordination and resources that schools
 have never been able to count on — and that hasn’t changed with the
 pandemic’s arrival.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1596575370630" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-82053" class="css-19mumt8" role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="false" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div>
+
+### The Coronavirus Outbreak
+
+#### Back to School
+
+Updated Aug. 8, 2020
+
+The latest highlights as the first students return to U.S. schools.
+
+  -   - Health experts say New York State schools are [in a good
+        position to
+        reopen](https://www.nytimes.com/2020/08/07/health/coronavirus-ny-schools-reopen.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup),
+        and Gov. Andrew M. Cuomo has [cleared the
+        way](https://www.nytimes.com/2020/08/07/nyregion/cuomo-schools-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup).
+      - Many schools spent the summer focused on reopening classrooms.
+        What if they had [focused on improving remote
+        learning](https://www.nytimes.com/2020/08/07/us/remote-learning-fall-2020.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        instead?
+      - A mother in Germany describes how her family [coped with the
+        anxiety and
+        uncertainty](https://www.nytimes.com/2020/08/07/parenting/germany-schools-reopening-children.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+        of going back to school there.
+      - A high school freshman tested positive after two days in class.
+        A yearbook editor worries about access to sporting events. We
+        spoke to students about [what school is like in the age of
+        Covid-19.](https://www.nytimes.com/2020/08/06/us/coronavirus-students.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_2&context=storylines_keepup)
+
+<div id="styln-survey-component-82053" class="styln-survey-component">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 The clock is ticking: Even as schools delay their start dates, students
 and teachers across much of the country are due back in August.
@@ -725,146 +717,7 @@ Elementary School District’s social worker spent much of the spring
 assisting families applying for federal food benefits. The district
 posted local job openings on its Facebook page for parents. The
 community center that operates out of the district’s single school
-opened a food and clothing pantry to families twice a
-week.
-
-<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
-
-<div class="css-a8d9oz">
-
-<div class="css-eb027h">
-
-[](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-
-### The Coronavirus Outbreak ›
-
-#### Frequently Asked Questions
-
-Updated July 27, 2020
-
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
-  - #### What is school going to look like in September?
-    
-      - It is unlikely that many schools will return to a normal
-        schedule this fall, requiring the grind of [online
-        learning](https://www.nytimes.com/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        [makeshift child
-        care](https://www.nytimes.com/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        and [stunted
-        workdays](https://www.nytimes.com/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        to continue. California’s two largest public school districts —
-        Los Angeles and San Diego — said on July 13, that [instruction
-        will be remote-only in the
-        fall](https://www.nytimes.com/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        citing concerns that surging coronavirus infections in their
-        areas pose too dire a risk for students and teachers. Together,
-        the two districts enroll some 825,000 students. They are the
-        largest in the country so far to abandon plans for even a
-        partial physical return to classrooms when they reopen in
-        August. For other districts, the solution won’t be an
-        all-or-nothing approach. [Many
-        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
-        including the nation’s largest, New York City, are devising
-        [hybrid
-        plans](https://www.nytimes.com/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        that involve spending some days in classrooms and other days
-        online. There’s no national policy on this yet, so check with
-        your municipal school system regularly to see what is happening
-        in your community.
-
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes.com/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes.com/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes.com/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
-
-</div>
-
-</div>
-
-<div class="css-6mllg9">
-
-</div>
-
-<div class="css-pmm6ed">
-
-<span class="css-5gimkt"></span>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+opened a food and clothing pantry to families twice a week.
 
 “We did a lot more of that than we normally do,” Superintendent Terri
 Rufert said. “And it wasn’t just the parents normally in our
@@ -946,8 +799,7 @@ siblings, or just tuned out without the familiar support of teachers and
 counselors. Over all, the [best
 estimates](https://www.chalkbeat.org/2020/6/26/21304405/surveys-remote-learning-coronavirus-success-failure-teachers-parents)
 from teachers are that six in 10 students were regularly engaged in
-their
-coursework.
+their coursework.
 
 </div>
 
@@ -1094,9 +946,8 @@ with less. They will try their best. It will not be remotely enough.
 [Sarah Darville](https://www.chalkbeat.org/authors/sarah-darville)
 ([@sarahdarv](https://twitter.com/sarahdarv?lang=en)) is the managing
 editor for national news at [Chalkbeat](https://www.chalkbeat.org/), a
-nonprofit news
-[outlet](https://www.chalkbeat.org/pages/newsletters)focused on
-education, with which this article is being copublished.
+nonprofit news [outlet](https://www.chalkbeat.org/pages/newsletters)
+focused on education, with which this article is being copublished.
 
 </div>
 
@@ -1151,8 +1002,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1196,8 +1046,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

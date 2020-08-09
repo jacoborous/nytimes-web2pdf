@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -71,8 +69,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">More
-Than 40% of U.S. Coronavirus Deaths Are Linked to Nursing
-Homes</span>
+Than 40% of U.S. Coronavirus Deaths Are Linked to Nursing Homes</span>
 
 </div>
 
@@ -94,7 +91,7 @@ Homes</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -134,14 +131,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -161,8 +158,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -180,15 +176,14 @@ story](#after-top)
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # More Than 40% of U.S. Coronavirus Deaths Are Linked to Nursing Homes
 
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated July 30,
-2020
+Times</span>Updated July 30, 2020
 
 </div>
 
@@ -196,7 +191,7 @@ Times</span>Updated July 30,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -213,7 +208,7 @@ Times</span>Updated July 30,
 
 </div>
 
-<div id="coronavirus-nursing-homes" class="section interactive-standard interactive-content interactive-size-scoop css-uc81c" data-id="100000007211951">
+<div id="coronavirus-nursing-homes" class="section interactive-standard interactive-content interactive-size-scoop css-uc81c">
 
 <div class="css-17ih8de interactive-body">
 
@@ -221,7 +216,7 @@ Times</span>Updated July 30,
 
 <div class="g-asset g-svelte" style="max-width: 360px">
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="1">
 
@@ -314,8 +309,7 @@ environment and workers move from room to room.
 
 While 8 percent of the country’s cases have occurred in long-term care
 facilities, deaths related to Covid-19 in these facilities account for
-more than 41 percent of the country’s pandemic
-fatalities.
+more than 41 percent of the country’s pandemic fatalities.
 
 <div class="g-asset g-svelte g-center-headline" style="max-width: 945px">
 
@@ -367,8 +361,7 @@ Share of state’s deaths linked to long-term care facilities
 
 <span class="g-key-rect" style="background-color:#e2e2e2;"></span>
 
-Insufficient
-data
+Insufficient data
 
 </div>
 
@@ -378,7 +371,7 @@ data
 
 </div>
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="2">
 
@@ -1180,7 +1173,7 @@ Wyo.
 
 ### Cases and deaths in long-term care facilities, by state
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="3">
 
@@ -1238,22 +1231,20 @@ rate nationwide.
 
 #### Number of long-term care facilities by case fatality rate
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="4">
 
 <div class="g-chart-wrap svelte-1884ilc">
 
 20facilities 40facilities 60facilities 80facilities 0% 10% 20% 30% 40%
-50%
-60%
+50% 60%
 
 <div class="g-labels svelte-1884ilc">
 
 <div class="g-us-fatality-rate svelte-1884ilc" style="left: calc(5.519125683060109% - 55px); top: calc(12.5% - 30px);">
 
-The U.S. case fatality rate is
-3%.
+The U.S. case fatality rate is 3%.
 
 </div>
 
@@ -1294,8 +1285,7 @@ information about deaths, but not about cases. Ohio, Wisconsin and
 Minnesota, among others, provide some details on the number of cases at
 specific facilities — but not on deaths. Others report aggregate totals
 for their states but provide no information on where the infections or
-deaths have occurred. Some report very little or nothing at
-all.
+deaths have occurred. Some report very little or nothing at all.
 
 <div class="g-asset g-svelte g-center-headline" style="max-width: 1400px">
 
@@ -1315,14 +1305,13 @@ States that provide some facility data
 
 <span class="g-key-rect" style="background-color:#e2e2e2;"></span>
 
-States that provide no facility
-data
+States that provide no facility data
 
 </div>
 
 </div>
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="5">
 
@@ -1660,14 +1649,13 @@ you](https://www.nytimes.com/2020/04/11/business/nursing-home-callout.html).
 
 Here is a list of cases and deaths at long-term care facilities that
 have had at least 50 cases. We are updating the numbers as we are able
-to confirm them with state, county and facility
-officials.
+to confirm them with state, county and facility officials.
 
 <div class="g-asset g-svelte" style="max-width: 600px">
 
 ### Cases and deaths, by facility
 
-<div data-role="img">
+<div role="img">
 
 <div class="g-svelte" data-component="6">
 
@@ -1714,11 +1702,11 @@ infections.</span>
 
 </div>
 
-## <span class="g-balancer" data-id="7">Tracking the Coronavirus</span>
+## <span id="7" class="g-balancer">Tracking the Coronavirus</span>
 
 <div class="g-asset g-embed" style="max-width: 600px">
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
 
@@ -1757,8 +1745,7 @@ Countries
   - [United
     States](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+State by state
 
   - [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -1863,8 +1850,7 @@ Grace Gorenflo, Lauryn Higgins, Jake Holland, Ann Hinga Klein, Jacob
 LaGesse, Alex Lim, Andrea Michelson, Jaylynn Moffat-Mowatt, Ashlyn
 O’Hara, Miles McKinley, Lauren Messman, Paul Moon, Cierra S. Queen,
 Thomas Rivas, Alison Saldanha, Alex Schwartz, Emily Schwing, Sarena
-Snider, Alex Traub, Brandon Thorp, Alyssa Burr and Natasha
-Rodriguez
+Snider, Alex Traub, Brandon Thorp, Alyssa Burr and Natasha Rodriguez
 
 <div id="interactive-addendum-list" class="css-1yiqkdd interactive-addendum-list">
 
@@ -1885,8 +1871,7 @@ cases, not the number of cases divided by the number of deaths.
 An earlier version of this article transposed the national case fatality
 rate and the median case fatality rate in nursing homes. As of July 8,
 the national case fatality rate was 4 percent and the median case
-fatality rate in nursing homes was 17 percent, not the other way
-around.
+fatality rate in nursing homes was 17 percent, not the other way around.
 
 </div>
 
@@ -1906,7 +1891,7 @@ around.
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -1933,8 +1918,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1972,8 +1956,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -170,23 +167,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/qanon-conspiracy-theory-arg.html)
+    [](/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04warzel1/04warzel1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08mann-pix/08mann-pix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How QAnon Creates a Dangerous Alternate Reality
+    ## Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’
     
-    Game designer Adrian Hon says the conspiracy theory parallels the
-    immersive worlds of alternate reality games.
+    As national security adviser, he voiced strong opinions and acted on
+    them, especially when it came to Beijing and Moscow.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Charlie
-    Warzel</span>
+    By <span class="css-1n7hynb">James Mann</span>
     
     </div>
     
@@ -204,23 +200,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/gin-tonic-summer-drink.html)
+    [](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/opinion/05boylan/05boylan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/08hajdu/08hajdu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Doggiest Days of Summer Demand Gin and Tonics
+    ## A Song That Changed Music Forever
     
-    They’re refreshing and ridiculously easy to make, and come with just
-    enough bitterness to help you get through this miserable year.
+    100 years ago, Mamie Smith recorded a seminal blues hit that gave
+    voice to outrage at violence against Black Americans.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jennifer Finney
-    Boylan</span>
+    By <span class="css-1n7hynb">David Hajdu</span>
     
     </div>
     
@@ -238,22 +233,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/coronavirus-federal-relief-inaction-debatable.html)
+    [](/2020/08/08/opinion/gold-investment-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/08/opinion/0804debatable/0804debatable-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Inaction and a Blame Game in the Throes of a Calamity
+    ## Why Is Everyone Buying Gold?
     
-    Federal relief has ended, and the need grows worse.
+    It’s one of the best performing assets in the world this year.
+    That’s not a great sign.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Talmon Joseph
-    Smith</span>
+    By <span class="css-1n7hynb">Ruchir Sharma</span>
     
     </div>
     
@@ -271,28 +266,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/tiktok-microsoft-trump.html)
+    [](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04bensingerWeb/04bensingerWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Is Microsoft Sure It Wants to Buy TikTok?
+    ## America’s Military Should Confront Its Past, Not Bury It
     
-    Running a social media service brings headaches and scrutiny.
+    The German military’s infiltration by far-right extremists should be
+    a warning for how we confront our own troubled history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Greg
-    Bensinger</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes.com/opinion/20200805/tiktok-microsoft-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes.com/opinion/20200805/tiktok-microsoft-trump/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Elliot Ackerman</span>
     
     </div>
     
@@ -310,32 +299,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/bolsonaro-office-of-hate-brazil.html)
+    [](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Brazil’s Troll Army Moves Into the Streets
+    ## Here’s How to Crush the Virus Until Vaccines Arrive
     
-    President Jair Bolsonaro and his allies have seeded online hatred
-    against the institutions that defend democracy. Now the outrage is
-    spilling beyond the internet.
+    To save lives, and save the economy, we need another lockdown.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Patrícia Campos Mello</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Ler em
-    português](https://www.nytimes.com/pt/2020/08/04/opinion/international-world/bolsonaro-gabinete-do-odio.html "Read in Portuguese")[Leer
-    en
-    español](https://www.nytimes.com/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html "Read in Spanish")
+    By <span class="css-1n7hynb">Michael T. Osterholm <span>and</span>
+    Neel Kashkari</span>
     
     </div>
     
@@ -353,23 +332,15 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/covid-rural-hospitals.html)
+    [](/2020/08/07/opinion/the-question-im-always-asked.html)
     
-    <div class="css-79elbk">
+    ## The Question I’m Always Asked
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04Lamas/04Lamas-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘If I Hadn’t Been Transferred, I Would Have Died’
-    
-    Conversations about death from Covid-19 revolve around patient
-    characteristics. But hospitals matter, too.
+    (And what they really want to know.)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniela J.
-    Lamas</span>
+    By <span class="css-1n7hynb">Kathleen Kingsbury</span>
     
     </div>
     
@@ -387,25 +358,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/opioid-telemedicine-covid.html)
+    [](/2020/08/07/opinion/trump-2020-census.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04Fixes2/04Fixes2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08bouie_print/merlin_153869544_fe018d11-1ded-4eef-909b-30ab36d22516-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fixes</span>
+    ## Trump and His Allies Think They Know Who Counts
     
-    ## Using Telemedicine to Treat Opioid Addiction
-    
-    Getting medication long meant seeing a licensed provider. Now a
-    strategy for evading Covid-19 makes treatment available via the web.
+    But history has a way of confounding those who think they can
+    control it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tina
-    Rosenberg</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -423,23 +391,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/amazon-facebook-congressional-hearings.html)
+    [](/2020/08/07/opinion/republicans-climate-change.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/opinion/05Wu/04Wu-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/07Anderson/07Anderson-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What Years of Emails and Texts Reveal About Your Friendly Tech Companies
+    ## I’m a Conservative Christian Environmentalist. No, That’s Not an Oxymoron.
     
-    Theatrics distracted from the real payoff of the congressional
-    hearings: the subpoenaed documents.
+    The G.O.P. may have had a politically expedient change of heart.
+    Better late than never.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tim
-    Wu</span>
+    By <span class="css-1n7hynb">Ericka Andersen</span>
     
     </div>
     
@@ -457,22 +424,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/voting-2020-election-blm-movement.html)
+    [](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/opinion/30Hunter1/30Hunter1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/07/opinion/07Wolff/07Wolff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Don’t Believe the Lie That Voting Is All You Can Do
+    ## So What Does Trump Have Against TikTok?
     
-    Stop minimizing the work of movements.
+    His foolish and dangerous edicts suggest that the United States,
+    like China, no longer believes in a global internet.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Daniel
-    Hunter</span>
+    By <span class="css-1n7hynb">Josephine Wolff</span>
     
     </div>
     
@@ -490,22 +457,29 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    [](/2020/08/07/opinion/latina-women-politics.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08Ramos/07Ramos-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+    ## What Sonia Sotomayor Told a 10-Year-Old Girl
     
-    Government of the minority, chosen by a minority, on behalf of a
-    minority, is not what Lincoln had in mind at Gettysburg.
+    Reflecting on the words of a Supreme Court justice and women’s path
+    to political equality.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle Bouie</span>
+    By <span class="css-1n7hynb">Jorge Ramos</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes.com/es/2020/08/07/espanol/opinion/presidenta-estados-unidos.html "Read in Spanish")
     
     </div>
     
@@ -523,24 +497,23 @@ story](#after-sponsor)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -564,8 +537,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -585,8 +557,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -636,8 +607,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

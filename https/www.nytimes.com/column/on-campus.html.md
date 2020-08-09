@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -176,8 +173,7 @@ story](#after-sponsor)
     ## [The Future of Frats](/2018/04/26/opinion/frats-college-greek-life.html)
     
     Living in a house with friends, playing drinking games and dancing
-    to overplayed pop songs are not incompatible with a just
-    society.
+    to overplayed pop songs are not incompatible with a just society.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kiley
@@ -199,8 +195,7 @@ story](#after-sponsor)
     ## [The Soul-Crushing Student Essay](/2018/04/21/opinion/the-soul-crushing-student-essay.html)
     
     A freshman finally asks the clarifying question: “Do you mean we can
-    write with the word
-    ‘I’?”
+    write with the word ‘I’?”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Scott
@@ -221,8 +216,7 @@ story](#after-sponsor)
         
         </div>
         
-        A graduate student discovers the importance of humanizing
-        data.
+        A graduate student discovers the importance of humanizing data.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Mya
@@ -245,8 +239,7 @@ story](#after-sponsor)
         </div>
         
         My experiences forced me to reflect on what environments are
-        best for children. Certainly not the ones I came
-        from.
+        best for children. Certainly not the ones I came from.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Rob
@@ -268,8 +261,7 @@ story](#after-sponsor)
     ## [It’s Hard to Be Hungry on Spring Break](/2018/03/17/opinion/sunday/spring-break-colleges-poor-students.html)
     
     As they admit more poor students, colleges need to do a better job
-    of serving
-    them.
+    of serving them.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Anthony
@@ -291,8 +283,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -348,8 +339,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marguerite
-    Joutz</span>
+    By <span class="css-1n7hynb">Marguerite Joutz</span>
     
     </div>
     
@@ -382,8 +372,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Heather E.
-    Heying</span>
+    By <span class="css-1n7hynb">Heather E. Heying</span>
     
     </div>
     
@@ -416,8 +405,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Anne
-    Rudig</span>
+    By <span class="css-1n7hynb">Anne Rudig</span>
     
     </div>
     
@@ -451,8 +439,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elizabeth Anne
-    Brown</span>
+    By <span class="css-1n7hynb">Elizabeth Anne Brown</span>
     
     </div>
     
@@ -485,8 +472,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marguerite
-    Joutz</span>
+    By <span class="css-1n7hynb">Marguerite Joutz</span>
     
     </div>
     
@@ -518,8 +504,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Phoebe
-    Lett</span>
+    By <span class="css-1n7hynb">Phoebe Lett</span>
     
     </div>
     
@@ -552,8 +537,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Arceneaux</span>
+    By <span class="css-1n7hynb">Michael Arceneaux</span>
     
     </div>
     
@@ -585,8 +569,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jon A.
-    Shields</span>
+    By <span class="css-1n7hynb">Jon A. Shields</span>
     
     </div>
     
@@ -619,8 +602,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sara
-    Goldrick-Rab</span>
+    By <span class="css-1n7hynb">Sara Goldrick-Rab</span>
     
     </div>
     
@@ -670,24 +652,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -711,8 +692,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -732,8 +712,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -783,8 +762,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

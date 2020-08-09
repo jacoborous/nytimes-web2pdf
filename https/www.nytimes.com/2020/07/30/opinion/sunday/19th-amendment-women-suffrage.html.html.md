@@ -30,8 +30,7 @@
 
 <div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
 
-[Sunday
-Review](https://www.nytimes.com/section/opinion/sunday)
+[Sunday Review](https://www.nytimes.com/section/opinion/sunday)
 
 </div>
 
@@ -59,8 +58,7 @@ Review](https://www.nytimes.com/section/opinion/sunday)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -84,8 +82,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <span class="css-17xtcya">[Sunday
 Review](/section/opinion/sunday)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">100
-Years of Voting Hasn’t Done What We Thought It
-Would</span>
+Years of Voting Hasn’t Done What We Thought It Would</span>
 
 </div>
 
@@ -107,7 +104,7 @@ Would</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -145,8 +142,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -182,8 +178,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -234,14 +229,13 @@ Opinion Columnist
 
 </div>
 
-  - July 30,
-    2020
+  - July 30, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -456,8 +450,7 @@ excited she fell out of bed. “I think my sainted mother told me that
 one,” Kempton recalled.) After the Wilson engagement became official,
 The Washington Post printed a social note containing one of the most
 famous typos in American history: “The President gave himself up for the
-time being to entering his
-fiancée.”
+time being to entering his fiancée.”
 
 </div>
 
@@ -554,8 +547,7 @@ Democratic organizers in Alabama in 2017 when they gave long-shot Senate
 candidate Doug Jones [98 percent of their
 vote](https://thehill.com/homenews/campaign/364665-exit-polls-98-percent-of-black-women-voted-for-jones)
 and a victory over Republican former-judge-and-pursuer-of-teenage-girls
-Roy
-Moore.
+Roy Moore.
 
 </div>
 
@@ -672,8 +664,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -717,8 +708,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

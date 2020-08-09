@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -66,7 +64,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -77,8 +75,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Microsoft
-Can Save TikTok — if Trump Doesn’t Mess It
-Up</span>
+Can Save TikTok — if Trump Doesn’t Mess It Up</span>
 
 </div>
 
@@ -100,7 +97,7 @@ Up</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -138,8 +135,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -175,8 +171,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -228,14 +223,13 @@ Ms. Swisher covers technology and is a contributing opinion writer.
 
 </div>
 
-  - Aug. 2,
-    2020
+  - Aug. 2, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -300,6 +294,18 @@ And he’s also probably not gunning for the K-pop kids who organized a
 TikTok prank to order tickets to his campaign rally in Tulsa and then
 ghosted.
 
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 And I don’t think it has much to do with TikTok’s becoming an
 interesting counterweight to Mr. Trump’s favored social media site,
 Facebook, which lets him mostly go unleashed. (It was lost on no one
@@ -339,6 +345,14 @@ Even when he’s right, Mr. Trump often manages to snatch defeat from the
 jaws of victory — in this case a safe landing for TikTok. He could make
 a mess if he doesn’t tread carefully.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “The Trump administration needs to look at the next move,” said Alex
 Stamos, who used to be in charge of stopping foreign incursions at both
 Facebook and Yahoo and now is director of the Stanford Internet
@@ -347,14 +361,6 @@ but we fortunately don’t have a Great Firewall in this country. If they
 push too hard, ByteDance can focus on providing TikTok as a side-loaded
 Android app and a mobile website, both of which would be impossible for
 Trump to block.”
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 Let me translate Mr. Stamos’ geekspeak: If there’s a will to make a
 TikTok dance video go viral, there’s a way.
@@ -441,8 +447,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -486,8 +491,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

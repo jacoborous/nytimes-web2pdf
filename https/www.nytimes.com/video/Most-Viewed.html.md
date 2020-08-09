@@ -36,13 +36,12 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
 new video loaded: What’s Happening in Kashmir? Our Cameras Contradict
-India’s Official
-Story
+India’s Official Story
 
 <div>
 
@@ -54,7 +53,7 @@ Story
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -161,7 +160,7 @@ transcript
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -212,8 +211,7 @@ transcript
 <div class="css-19m31ns">
 
 By Karan Deep Singh, Ahmer Khan, Neil Collier and Ben
-Laffin<span class="css-1iknmmf">•</span>August 23,
-2019
+Laffin<span class="css-1iknmmf">•</span>August 23, 2019
 
 </div>
 
@@ -233,7 +231,7 @@ Laffin<span class="css-1iknmmf">•</span>August 23,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -367,8 +365,7 @@ A collection of the most-viewed New York Times videos.
 
 <div class="css-1dv1kvn">
 
-A collection of the most-viewed New York Times
-videos.
+A collection of the most-viewed New York Times videos.
 
 </div>
 
@@ -378,19 +375,19 @@ videos.
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -518,8 +515,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -563,8 +559,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

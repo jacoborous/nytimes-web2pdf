@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,32 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
+<div id="site-content" role="main">
 
 <div id="collection-jamelle-bouie" class="section css-15h4p1b e9abtgs0">
 
@@ -104,8 +78,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -203,23 +176,22 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    [](/2020/08/07/opinion/trump-2020-census.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08bouie_print/merlin_153869544_fe018d11-1ded-4eef-909b-30ab36d22516-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+    ## Trump and His Allies Think They Know Who Counts
     
-    Government of the minority, chosen by a minority, on behalf of a
-    minority, is not what Lincoln had in mind at Gettysburg.
+    But history has a way of confounding those who think they can
+    control it.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -232,6 +204,39 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/trump-2020-electoral-college.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/opinion/06bouie/merlin_114069913_00b3f249-1710-471a-89bb-9679af440615-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Doesn’t Need the Most Votes. What if He Doesn’t Even Want Them?
+    
+    Government of the minority, chosen by a minority, on behalf of a
+    minority, is not what Lincoln had in mind at Gettysburg.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
     
     <div class="css-1cp3ece">
     
@@ -252,8 +257,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -265,7 +269,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -285,8 +289,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -298,7 +301,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -318,8 +321,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -331,7 +333,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -352,8 +354,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -365,7 +366,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -385,8 +386,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -398,7 +398,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -418,8 +418,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -431,7 +430,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -452,8 +451,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
+    By <span class="css-1n7hynb">Jamelle Bouie</span>
     
     </div>
     
@@ -471,7 +469,7 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -489,40 +487,6 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
     
     It was black Americans who delivered on Lincoln’s promise of “a new
     birth of freedom.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jamelle
-    Bouie</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/12/opinion/sunday/floyd-protests-white-supremacy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/14/opinion/12bouieNew/12bouieNew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## To Overturn Trump, We Need to Overturn White Supremacy
-    
-    For that to happen, some monuments — and the historical myths they
-    supported — are going to have to come down.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -544,24 +508,23 @@ newsletter](https://www.nytimes.com/newsletters/jamellebouie).
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -585,8 +548,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -606,8 +568,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -657,8 +618,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

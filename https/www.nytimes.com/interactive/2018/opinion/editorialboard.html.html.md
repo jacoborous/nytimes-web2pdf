@@ -34,7 +34,7 @@
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div class="css-v5btjw etb61u70">
 
@@ -52,8 +52,7 @@
 
 <div class="interactive-byline css-103zbxs">
 
-March 1,
-2018
+March 1, 2018
 
 </div>
 
@@ -63,7 +62,7 @@ March 1,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -98,7 +97,7 @@ sound conscience,” believing that the fearless exchange of information
 and ideas is the surest means of resisting tyranny and realizing human
 potential.
 
-<div id="editorialboard" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium" data-id="100000005774270">
+<div id="editorialboard" class="section css-l08pwh interactive-minimal interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -162,8 +161,7 @@ potential.
     Ms. Kingsbury previously worked as a New York-based staff writer and
     Hong Kong-based foreign correspondent for Time magazine.
     
-    Follow on Twitter
-    [@katiekings](http://twitter.com/katiekings)
+    Follow on Twitter [@katiekings](http://twitter.com/katiekings)
     
     </div>
     
@@ -189,8 +187,7 @@ potential.
     he holds a B.A. in history from the University of Pennsylvania. He
     is based in Washington.
     
-    Follow on Twitter
-    [@BCAppelbaum](http://twitter.com/BCAppelbaum)
+    Follow on Twitter [@BCAppelbaum](http://twitter.com/BCAppelbaum)
     
     </div>
     
@@ -249,8 +246,7 @@ potential.
     magazine. Born and raised in the South, she has a B.A. in English
     from Vanderbilt University.
     
-    Follow on Twitter
-    [@mcottle](http://twitter.com/mcottle)
+    Follow on Twitter [@mcottle](http://twitter.com/mcottle)
     
     </div>
     
@@ -278,8 +274,7 @@ potential.
     Michigan, Ann Arbor, is a New York City native and lives in
     Brooklyn.
     
-    Follow on Twitter
-    [@MaraGay](http://twitter.com/MaraGay)
+    Follow on Twitter [@MaraGay](http://twitter.com/MaraGay)
     
     </div>
     
@@ -320,8 +315,7 @@ potential.
     and later worked for the Hartford Courant in the city hall, state
     capitol and Washington bureaus.
     
-    Follow on Twitter
-    [@giacomonyt](http://twitter.com/giacomonyt)
+    Follow on Twitter [@giacomonyt](http://twitter.com/giacomonyt)
     
     </div>
     
@@ -347,8 +341,7 @@ potential.
     University Nieman Fellow. She holds an M.A. in Environmental Science
     and M.S. in Journalism, both from Columbia University.
     
-    Follow on Twitter
-    [@JInterlandi](http://twitter.com/JInterlandi)
+    Follow on Twitter [@JInterlandi](http://twitter.com/JInterlandi)
     
     </div>
     
@@ -402,8 +395,7 @@ potential.
     Ashbrook" and "Radio Boston." From 2004 to 2011, he was an editor at
     U.S. News & World Report. Born and raised in New England, he holds a
     B.A. in history from George Washington University and an M.S. from
-    the Columbia University Graduate School of
-    Journalism.
+    the Columbia University Graduate School of Journalism.
     
     </div>
     
@@ -432,8 +424,7 @@ potential.
     was previously a reporter with the Associated Press. Mr. Schmemann
     is a graduate of Harvard College and holds an M.A. from Columbia
     University, as well as an honorary doctorate from Middlebury
-    College. He was born in Paris, is married and has three
-    children.
+    College. He was born in Paris, is married and has three children.
     
     </div>
     
@@ -461,8 +452,7 @@ potential.
     Los Angeles Times Book Prize and winner of the Anisfield-Wolf Book
     Award.
     
-    Follow on Twitter
-    [@BrentNYT](http://twitter.com/BrentNYT)
+    Follow on Twitter [@BrentNYT](http://twitter.com/BrentNYT)
     
     </div>
     
@@ -488,8 +478,7 @@ potential.
     Law in 2005. Before that, he was a producer and reporter for several
     National Public Radio programs.
     
-    Follow on Twitter
-    [@jessewegman](http://twitter.com/jessewegman)
+    Follow on Twitter [@jessewegman](http://twitter.com/jessewegman)
     
     </div>
     
@@ -534,8 +523,7 @@ potential.
     Courier.
     
     Mr. Broder is married to Karolyn Wallace, an elementary school
-    teacher. They have two adult
-    children.
+    teacher. They have two adult children.
     
     </div>
     
@@ -558,8 +546,7 @@ potential.
     the Dining section and with the online opinion forum Room for
     Debate. He previously worked for Newsday and The Bergen Record. He
     has a B.A. from Binghamton University and an M.A. from the Columbia
-    University Graduate School of
-Journalism.
+    University Graduate School of Journalism.
     
     </div>
     
@@ -583,7 +570,7 @@ Journalism.
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -610,8 +597,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -649,8 +635,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

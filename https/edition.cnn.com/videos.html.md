@@ -455,7 +455,7 @@ Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-lar
 
 </div>
 
-<div id="js-collection-video-mobile-featured-1f5kyvc" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
+<div id="js-collection-video-mobile-featured-bu0fp3" class="cn cn-collection-player cn--idx-0 cn-container_FF41CA0E-1026-20C2-590A-FA1C2C7A7411 el__videoexperience__collection pg-rail-tall pg-rail--align-right" data-meta="mobile-collection" data-layout="collection-player">
 
 <div class="el__video-collection__meta-wrapper cn-grid">
 
@@ -463,7 +463,7 @@ Khatib](//cdn.cnn.com/cnnnext/dam/assets/200807083450-03-fadi-el-khatib-file-lar
 
 <div class="cn__column cn__column--2up0">
 
-<div id="js-mobile-video_description-featured-1f5kyvc" class="media__video-description media__video-description--inline">
+<div id="js-mobile-video_description-featured-bu0fp3" class="media__video-description media__video-description--inline">
 
 Widely regarded as the greatest ever Asian basketball player, Fadi El
 Khatib is weeping for Lebanon. The former pro basketball player faces
@@ -473,7 +473,7 @@ incident.
 
 </div>
 
-<span id="js-mobile-video_source-featured-1f5kyvc" class="video__metadata__source-name">Source:
+<span id="js-mobile-video_source-featured-bu0fp3" class="video__metadata__source-name">Source:
 CNN</span>
 
 </div>
@@ -526,7 +526,7 @@ CNN</span>
 
 </div>
 
-<div id="cn-featured-1f5kyvc" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-1f5kyvc" data-layout="carousel-medium-strip">
+<div id="cn-featured-bu0fp3" class="cn cn-carousel-medium-strip cn--idx-0 cn-featured-bu0fp3" data-layout="carousel-medium-strip">
 
 ## World News (15 Videos)
 
@@ -1026,11 +1026,11 @@ See More
 
 <div class="pg-rail pg-rail-tall__rail">
 
-<div id="collection-video-featured-1f5kyvc" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
+<div id="collection-video-featured-bu0fp3" class="el__video-collection__meta-wrapper" data-meta="desktop-collection">
 
 # The 'Lebanese Tiger' on Beirut blast: What you see on TV is nothing compared to reality
 
-<div id="js-video_description-featured-1f5kyvc" class="media__video-description media__video-description--inline">
+<div id="js-video_description-featured-bu0fp3" class="media__video-description media__video-description--inline">
 
 Widely regarded as the greatest ever Asian basketball player, Fadi El
 Khatib is weeping for Lebanon. The former pro basketball player faces
@@ -1040,7 +1040,7 @@ incident.
 
 </div>
 
-<span id="js-video_source-featured-1f5kyvc" class="video__metadata__source-name">Source:
+<span id="js-video_source-featured-bu0fp3" class="video__metadata__source-name">Source:
 CNN</span>
 
 <div>

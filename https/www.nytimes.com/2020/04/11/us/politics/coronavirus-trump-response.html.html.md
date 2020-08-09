@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -106,7 +104,7 @@ Virus</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -155,7 +153,20 @@ Virus</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Hawaii
+    Results](https://www.nytimes.com/interactive/2020/08/08/us/elections/results-hawaii-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -169,32 +180,6 @@ Virus</span>
     
     [Biden’s V.P.
     Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Map of
-    Donations](https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Delegate
-    Count](https://www.nytimes.com/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -242,8 +227,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -269,8 +253,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -362,8 +345,7 @@ Barnes</span>](https://www.nytimes.com/by/julian-e-barnes)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published April 11, 2020Updated May 4,
-    2020
+    Published April 11, 2020Updated May 4, 2020
     
     </div>
 
@@ -371,7 +353,7 @@ Barnes</span>](https://www.nytimes.com/by/julian-e-barnes)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -762,8 +744,7 @@ If Dr. Kadlec had any doubts, they were erased two days later, when he
 stumbled upon an email from a researcher at the Georgia
 Institute of Technology, who was among the group of academics,
 government physicians and infectious diseases doctors who had spent
-weeks tracking the outbreak in the Red Dawn email
-chain.
+weeks tracking the outbreak in the Red Dawn email chain.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -772,41 +753,6 @@ chain.
 <div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
 
 <div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-04T01:23:51.312Z
-
-</div>
-
-</div>
-
-  - [Trump assails mail-in voting anew, citing delays in declaring a
-    winner in a New York congressional
-    primary.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6494b448)
-  - [Obama issues his first slate of 2020
-    endorsements.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3de249e6)
-  - [In a big shift, Trump is now encouraging mask-wearing in campaign
-    emails.](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-54e34d20)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/08/03/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -824,8 +770,7 @@ virus — and supported the need to move quickly to mitigation.
 “Is this true?\!” Dr. Kadlec wrote back to the researcher. “If so we
 have a huge whole on our screening and quarantine effort,” including a
 typo where he meant hole. Her response was blunt: “People are carrying
-the virus
-everywhere.”
+the virus everywhere.”
 
 </div>
 
@@ -939,8 +884,7 @@ authority reduced.
 The meeting that evening with Mr. Trump to advocate social distancing
 was canceled, replaced by a news conference in which the president
 announced that the White House response would be put under the command
-of Vice President Mike
-Pence.
+of Vice President Mike Pence.
 
 </div>
 
@@ -1027,8 +971,7 @@ to the [SARS epidemic
 of 2003](https://www.nytimes.com/2003/04/27/world/the-sars-epidemic-the-path-from-china-s-provinces-a-crafty-germ-breaks-out.html)
 had emerged in China. It had spread far more quickly than the government
 was admitting to, and it wouldn’t be long before it reached other parts
-of the
-world.
+of the world.
 
 </div>
 
@@ -1096,8 +1039,7 @@ Intelligence, came to the same conclusion. Within weeks after getting
 initial information about the virus early in the year, biodefense
 experts inside the National Security Council, looking at what was
 happening in Wuhan, started urging officials to think about what would
-be needed to quarantine a city the size of
-Chicago.
+be needed to quarantine a city the size of Chicago.
 
 </div>
 
@@ -1189,8 +1131,7 @@ cited as evidence that he was on top of the problem.
 
 In addition to the opposition from the economic team, Mr. Pottinger and
 his allies among the China hawks had to overcome initial skepticism from
-the administration’s public health
-experts.
+the administration’s public health experts.
 
 </div>
 
@@ -1243,7 +1184,7 @@ But on the morning of Jan. 30, Mr. Azar got a call from Dr. Fauci, Dr.
 Redfield and others saying they had changed their minds. The World
 Health Organization had [declared a global public health
 emergency](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-\(2005\)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-\(2019-ncov\))
-and American officials had discovered the[first confirmed
+and American officials had discovered the [first confirmed
 case](https://www.cdc.gov/media/releases/2020/p0130-coronavirus-spread.html)
 of person-to-person transmission inside the United States.
 
@@ -1311,8 +1252,7 @@ countries to use “Wuhan virus” in a joint statement.
 Others, including aides to **** Mr. Pence, resisted taking a hard public
 line, believing that angering Beijing might lead the Chinese government
 to withhold medical supplies, pharmaceuticals and any scientific
-research that might ultimately lead to a
-vaccine.
+research that might ultimately lead to a vaccine.
 
 </div>
 
@@ -1579,8 +1519,7 @@ Stop panicking, Mr. Trump told him.
 
 That sentiment was present throughout February, as the president’s top
 aides reached for a consistent message but took few concrete steps to
-prepare for the possibility of a major public health
-crisis.
+prepare for the possibility of a major public health crisis.
 
 </div>
 
@@ -1642,8 +1581,9 @@ Mr. Azar announced a plan to repurpose a flu-surveillance system in five
 major cities to help track the virus among the general population. The
 effort all but collapsed even before it got started as Mr. Azar
 [struggled to win
-approval](https://int.nyt.com/data/documenthelper/6873-2020-02-14-cdc-surveillance-fu/51b5187c0fd8b4698a50/optimized/full.pdf#page=1)for
-$100 million in funding and the [C.D.C. failed to make reliable tests
+approval](https://int.nyt.com/data/documenthelper/6873-2020-02-14-cdc-surveillance-fu/51b5187c0fd8b4698a50/optimized/full.pdf#page=1)
+for $100 million in funding and the [C.D.C. failed to make reliable
+tests
 available](https://www.nytimes.com/2020/03/10/us/coronavirus-testing-delays.html).
 
 The number of infections in the United States started to surge through
@@ -1704,8 +1644,7 @@ Mr. Trump had agreed to give an Oval Office address on the evening of
 March 11 announcing restrictions on travel from Europe, where the virus
 was ravaging Italy. But responding to the views of his business friends
 and others, he continued to resist calls for social distancing, school
-closures and other steps that would imperil the
-economy.
+closures and other steps that would imperil the economy.
 
 </div>
 
@@ -1789,8 +1728,7 @@ Jared Kushner, the president’s son-in-law. Dr. Gottlieb’s role was to
 impress upon the president how serious the crisis could become. Mr.
 Pence, by then in charge of the task force, also played a key role at
 that point in getting through to the president about the seriousness of
-the moment in a way that Mr. Azar had
-not.
+the moment in a way that Mr. Azar had not.
 
 </div>
 
@@ -1871,8 +1809,7 @@ from the coronavirus in 24 hours.
 He left the restrictions in place.
 
 Mark Walker contributed reporting from Washington, and Mike Baker from
-Seattle. Kitty Bennett contributed
-research.
+Seattle. Kitty Bennett contributed research.
 
 </div>
 
@@ -1916,7 +1853,7 @@ research.
 
 # Our 2020 Election Guide
 
-Updated Aug. 3, 2020
+Updated Aug. 8, 2020
 
   - 
     
@@ -1924,9 +1861,10 @@ Updated Aug. 3, 2020
     
     ## The Latest
     
-      - President Trump again assails mail-in voting, [claiming without
-        evidence that the process is plagued by
-        fraud](https://www.nytimes.com/2020/08/03/us/politics/trump-mail-in-voting.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+      - With 160 lawsuits filed over voting rules and President Trump's
+        baseless claims of fraud, Election Day in America [could become
+        Election
+        Month](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     
@@ -1985,8 +1923,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -2030,8 +1967,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

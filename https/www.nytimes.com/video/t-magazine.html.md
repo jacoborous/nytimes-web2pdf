@@ -36,12 +36,11 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
-new video loaded: My Favorite Artwork | Pat
-Steir
+new video loaded: My Favorite Artwork | Pat Steir
 
 <div>
 
@@ -53,7 +52,7 @@ Steir
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -132,8 +131,7 @@ transcript
     self-portraits after many artists, but more after Rembrandt than the
     others. I used the composition and the light that he had. I tried to
     draw like Rembrandt, though that was not actually possible, but I
-    tried. \[MUSIC
-PLAYING\]
+    tried. \[MUSIC PLAYING\]
 
 </div>
 
@@ -143,7 +141,7 @@ PLAYING\]
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -193,8 +191,7 @@ PLAYING\]
 
 <div class="css-19m31ns">
 
-By Scott J. Ross<span class="css-1iknmmf">•</span>July 21,
-2020
+By Scott J. Ross<span class="css-1iknmmf">•</span>July 21, 2020
 
 </div>
 
@@ -214,7 +211,7 @@ By Scott J. Ross<span class="css-1iknmmf">•</span>July 21,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -594,24 +591,23 @@ of culture and style.
 
 <div class="css-1gce877">
 
-Show more videos from T
-Magazine
+Show more videos from T Magazine
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -739,8 +735,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -784,8 +779,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

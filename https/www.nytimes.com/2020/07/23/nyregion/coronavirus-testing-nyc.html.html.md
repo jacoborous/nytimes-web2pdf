@@ -30,8 +30,7 @@
 
 <div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
 
-[New
-York](https://www.nytimes.com/section/nyregion)
+[New York](https://www.nytimes.com/section/nyregion)
 
 </div>
 
@@ -59,8 +58,7 @@ York](https://www.nytimes.com/section/nyregion)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -84,8 +82,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <span class="css-17xtcya">[New
 York](/section/nyregion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Testing
-Bottlenecks Threaten N.Y.C.’s Ability to Contain
-Virus</span>
+Bottlenecks Threaten N.Y.C.’s Ability to Contain Virus</span>
 
 </div>
 
@@ -107,7 +104,7 @@ Virus</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -147,14 +144,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -174,8 +171,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -201,8 +197,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -275,8 +270,7 @@ McKinley</span>](https://www.nytimes.com/by/jesse-mckinley)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 23, 2020Updated July 31,
-    2020
+    Published July 23, 2020Updated Aug. 5, 2020
     
     </div>
 
@@ -284,7 +278,7 @@ McKinley</span>](https://www.nytimes.com/by/jesse-mckinley)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -313,7 +307,7 @@ McKinley</span>](https://www.nytimes.com/by/jesse-mckinley)
 
 Nearly four months after the pandemic’s peak, New York City is facing
 such serious delays in returning [coronavirus
-test](https://www.nytimes.com/2020/07/31/health/coronavirus-covid-testing.html)
+test](https://www.nytimes.com/2020/08/05/world/europe/germany-coronavirus-test-travelers.html)
 results that public health experts are warning that the problems could
 hinder efforts to reopen the local economy and schools.
 
@@ -329,8 +323,9 @@ laboratories across the country and touched off a renewed national
 testing crisis.
 
 But officials have also been unable to adequately expand the capacity of
-state and city government laboratories in New York to test rapidly at a
-time when they are asking more New Yorkers to get tested to guard
+state and city government laboratories in New York to [test
+rapidly](https://www.nytimes.com/2020/08/06/health/rapid-Covid-tests.html)
+at a time when they are asking more New Yorkers to get tested to guard
 against a second wave.
 
 </div>
@@ -385,7 +380,7 @@ As capacity expanded, New York City authorities began encouraging
 people](https://www.nychealthandhospitals.org/covid-19-testing-sites/)
 to get tested repeatedly, setting a target of 50,000 tests per day.
 
-In recent weeks, about[20,000
+In recent weeks, about [20,000
 to 35,000](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
 people are tested most weekdays, a demand that has put a strain on local
 labs.
@@ -400,8 +395,7 @@ in the virus’s spread.
 “This is becoming a problem,” said Dr. Jay Varma, a City Hall adviser
 who has a critical role in the city’s testing and contact-tracing
 program. “Any lag in this process can make it more difficult to have
-case and contact tracing be
-effective.”
+case and contact tracing be effective.”
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -411,42 +405,43 @@ effective.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2MyYTdmODFjLWZlODAtNTBiZC05ZDM2LWRhNjExOTBiZjZkZg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T10:03:05.885Z
+Updated 2020-08-08T12:04:28.992Z
 
 </div>
 
 </div>
 
-  - [‘Long days, long nights’: Washington prepares for a prolonged fight
-    over virus
-    relief.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6b644638)
-  - [Israel’s rocky reopening of its schools may be a lesson for the
-    U.S.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7af9fca0)
-  - [Hurricane Isaias arrives in North Carolina as officials along the
-    East Coast
-    scramble.](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-33bf9168)
+  - [As the U.S. relief talks falter again, Trump says he is prepared to
+    act on his
+    own.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1f86d03a)
+  - [Cuomo says N.Y. schools can reopen in-person but leaves it up to
+    districts to determine if, when and
+    how.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3f64a70a)
+  - [Thousands of cases went unreported in California when a computer
+    server
+    failed.](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-14e70066)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes.com/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -557,8 +552,7 @@ universities requiring the tests for students.
 “The pressure put on us by the higher-ed community, who wants every kid
 to have a negative test to show up on campus, will soon put a strain on
 the testing system,” said Scott J. Becker, the chief executive of the
-Association of Public Health
-Laboratories.
+Association of Public Health Laboratories.
 
 </div>
 
@@ -660,7 +654,7 @@ said.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-38059" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-57380" class="css-19mumt8" role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -672,7 +666,58 @@ said.
 
 #### Frequently Asked Questions
 
-Updated August 3, 2020
+Updated August 6, 2020
+
+  - #### Why are bars linked to outbreaks?
+    
+      - Think about a bar. Alcohol is flowing. It can be loud, but it’s
+        definitely intimate, and you often need to lean in close to hear
+        your friend. And strangers have way, way fewer reservations
+        about coming up to people in a bar. That’s sort of the point of
+        a bar. Feeling good and close to strangers. It’s no surprise,
+        then, that [bars have been linked to outbreaks in several
+        states.](https://www.nytimes.com/2020/07/02/us/coronavirus-bars.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Louisiana health officials have tied [at least 100 coronavirus
+        cases](https://www.nytimes.com/2020/06/22/us/new-coronavirus-phase.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        to bars in the Tigerland nightlife district in Baton Rouge.
+        Minnesota has traced 328 recent cases to bars across the state.
+        [In
+        Idaho](https://www.boisestatepublicradio.org/post/bars-large-venues-close-ada-county-after-surge-coronavirus-prompts-rollback#stream/0),
+        health officials shut down bars in Ada County after reporting
+        clusters of infections among young adults who had visited
+        several bars in downtown Boise. Governors in
+        [California](https://www.nytimes.com/2020/07/01/us/california-coronavirus-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        [Texas and
+        Arizona](https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        where coronavirus cases are soaring, have ordered hundreds of
+        newly reopened bars to shut down. Less than two weeks after
+        Colorado’s bars reopened at limited capacity, Gov. Jared Polis
+        [ordered them to
+        close](https://www.denverpost.com/2020/06/30/colorado-bars-closed-coronavirus/).
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now, [that seems likely, for at least several
+        months.](https://www.nytimes.com/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes.com/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
 
   - #### I’m a small-business owner. Can I get relief?
     
@@ -707,17 +752,6 @@ Updated August 3, 2020
         -- without giving you the sick employee’s name -- that they may
         have been exposed to the virus.
 
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes.com/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes.com/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
   - #### What is school going to look like in September?
     
       - It is unlikely that many schools will return to a normal
@@ -747,28 +781,7 @@ Updated August 3, 2020
         your municipal school system regularly to see what is happening
         in your community.
 
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes.com/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes.com/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-<div id="styln-survey-component-38059" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-57380" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -840,8 +853,7 @@ each sample must be individually tested.
 
 For now, City Hall’s strategy for reducing turnaround times has been to
 advertise free testing at city-run sites, where the waits tend to be
-shorter, city officials
-said.
+shorter, city officials said.
 
 </div>
 
@@ -984,8 +996,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1029,8 +1040,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

@@ -36,13 +36,11 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
-new video loaded: He Predicted Trump’s Win in 2016. Now He’s Ready to
-Call
-2020.
+new video loaded: Trump Sidesteps Congress on Coronavirus Relief Actions
 
 <div>
 
@@ -54,7 +52,7 @@ Call
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -82,13 +80,13 @@ bars
 
 <div class="css-1t7yl1y">
 
-0:00/7:14
+0:00/1:53
 
 </div>
 
 <div class="css-og85jy">
 
-\-7:14
+\-1:53
 
 </div>
 
@@ -104,97 +102,40 @@ bars
 
 transcript
 
-## He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
+## Trump Sidesteps Congress on Coronavirus Relief Actions
 
-#### Most historians just study the past. But Allan Lichtman has successfully predicted the future.
+#### President Trump signed four actions on coronavirus relief Saturday after Congress negotiations stalled. It’s unclear what authority he has to do so, and the orders are likely to be challenged in the courts.
 
 </div>
 
   -   
-    This is professor Allan Lichtman. He’s taught history at American
-    University for almost 50 years. He’s a former steeplechase champion.
-    “It’s a race designed for horses but run by people.”
-    “Tic-Tac-Dough.” And a former quiz show winner. “I had a 16-show
-    winning streak. Won four cars.” But we’re not here to talk about any
-    of that. We’re here because “Allan Lichtman” “Allan Lichtman” “Allan
-    Lichtman” is the Nostradamus of presidential elections. He’s
-    accurately predicted them for four decades. Yes, even that one.
-    “Donald Trump sent me a note. Congrats professor. Good call. In
-    his big Sharpie letters.” Now Allan’s ready to tell us who will win
-    in 2020. But we’ll come back to that. Allan Lichtman is certain
-    we’ve been thinking about elections all wrong. “The pollsters and
-    the pundits cover elections as though they were horse races. But
-    history tells us voters are not fooled by the tricks of the
-    campaign. Voters vote pragmatically according to how well the party
-    holding the White House has governed the country.” So polls are
-    worthless? “They are snapshots in time. None of this in the end has
-    any impact whatsoever on the outcome of a presidential election.” So
-    Allan Lichtman designed a better system to predict presidential
-    winners. He calls it “The Keys to the White House.” And like some
-    other politics these days, there’s a Russian involved. “In 1981, I
-    met Vladimir Keilis-Borok. Vladimir turned to me and said, we are
-    going to collaborate.” By the way, Vladimir wasn’t a historian or a
-    politician. He was a leading expert in predicting earthquakes. “This
-    point, I thought the guy was either nuts or KGB.” He wasn’t. “We
-    recast American presidential elections as stability, the party
-    holding the White House keeps the White House. And earthquake, the
-    White House party is turned out of power.” So they got to work. “We
-    looked at every presidential election from 1860 to 1980.” What they
-    found were 13 keys. Only two of which have anything to do with the
-    traits of the candidates. Allan has used the keys to accurately
-    predict every election. First in 1984, calling it two years early
-    before anyone even knew who Reagan’s contender would be. In 1988,
-    calling it in spring when Bush was trailing Dukakis. Again in ‘92,
-    ‘96 and in 2000, when he called it for Al Gore? Hey, Allan. “No,
-    no, I wasn’t wrong. I correctly predicted that Al Gore would win the
-    popular vote. When I first developed the system in ‘81, you had to
-    go all the way back to 1888 to find a divergence between the popular
-    vote and the Electoral College vote.” So Allan eventually started
-    calling the winner, not just the popular vote, which was useful 16
-    years later when, well, you know. “I’m a Democrat. And the toughest
-    thing in being a forecaster is to keep your own politics out of it.”
-    But that’s enough history, professor. Let’s get to it. What do
-    Allan’s 13 keys predict for 2020? “And remember, an answer of
-    ‘true’ always favors the re-election of the White House party. If
-    six or more of the keys are false, you get a political earthquake.”
-    OK, No. 1: The White House party gained House seats between midterm
-    elections. “Republicans lost the U.S. House midterms in 2018. So
-    false.” No. 2: There is no primary contest for the White House
-    party. “No Republicans challenged Trump for his renomination. So
-    true.” No. 3: The incumbent seeking. The sitting president is
-    running for re-election. “Doesn’t look like he’s stepping down, so
-    true.” Four: There is no third-party challenger. “Despite claims by
-    Kanye West to be running, this is a two-party race.” This is looking
-    pretty good for Trump so far. No. 5: The short-term economy is
-    strong. “The pandemic has pushed the economy into recession. False.”
-    Six: Long-term economic growth during this presidential term has
-    been as good as the past two terms. “The pandemic has caused such
-    negative G.D.P. growth in 2020 that the key has turned false.” No.
-    7: The White House has made major changes to national policy.
-    “Through his big tax cut, but mostly through his executive orders,
-    Trump has fundamentally changed the policies of the Obama era. So
-    true.” No. 8: There is no social unrest during the term. “There has
-    been considerable social unrest on the streets, with enough violence
-    to threaten the social order. So false.” No. 9: The White House is
-    untainted by scandal. “My favorite key. As I predicted, Trump was
-    impeached. Plus he has plenty of other scandals. So false.” No. 10:
-    The White House has no major foreign or military failures abroad.
-    “We’ve had some very difficult moments with Donald Trump. But so
-    far, true.” 11: The White House has a major success abroad. “While
-    Trump hasn’t had any big splashy failures, he hasn’t had any major
-    successes either. So false.” 12: The incumbent-party candidate is
-    charismatic. “Donald Trump is a great showman. But he only appeals
-    to a narrow slice of the American people. And as a result, false.”
-    13: The challenger is uncharismatic. “Biden is a decent empathetic
-    person, but he’s not inspirational or charismatic. So true.” That
-    means — “The keys predict that Trump will lose the White House.”
-    That’s Allan Lichtman’s prediction. And Allan Lichtman is always
-    right. “Don’t just take my word for it. There are forces at play
-    outside the keys — voter suppression, Russian meddling. It’s up to
-    you the voters to decide the future of our democracy. So get out and
-    vote. Vote in person. Vote by mail. As Abraham Lincoln said, the
-    best way to predict the future is to choose it.” \[MUSIC
-PLAYING\]
+    “I am providing a payroll tax holiday to Americans earning less than
+    $100,000 per year. In a few moments I will sign a directive
+    instructing the Treasury Department to allow employers to defer
+    payment of the employee portion of certain payroll taxes.” “Second
+    I’m signing an executive order directing the Department of Housing
+    and Urban Development, H.H.S. and C.D.C. to make sure renters and
+    homeowners can stay in their homes.” “I’m taking action to provide
+    an additional, or an extra, $400 per week in expanded benefits.
+    Earlier this year we slashed student loans interest rates to 0% and
+    suspended student loan payments, and Congress extended that policy
+    through September 30. Today I’m extending this policy through the
+    end of the year and will extend it further than that, most likely.”
+    “Mr. President, though, this is expected to be tied up in the
+    courts, so this relief is going to be delayed or blocked.” “Oh I
+    don’t think so I think there’s going to go very rapidly through
+    the courts. But this will go very — if we get sued. Maybe we won’t
+    get sued. If we get sued, it’s somebody that doesn’t want people to
+    get money. OK? And that’s going to be a very popular thing.”
+    \[crosstalk\] “... trying to go around Congress, are you trying to
+    set a new precedent that the president can go around Congress and
+    decide how many —” \[speaking over reporter\] “The word obstruction,
+    They’ve obstructed. Congress has obstructed. The Democrats have
+    obstructed people from getting desperately needed money. Go ahead,
+    please. Right here.” \[Crosstalk\] “No, now you’re finished. Go
+    ahead” \[crosstalk\] \[cheering\] “Veteran’s choice was passed in
+    2014—” \[crosstalk\] “— but it was a false statement, sir.” “OK,
+    thank you very much, everybody. Thank you very much.” \[Cheering\]
 
 </div>
 
@@ -204,7 +145,7 @@ PLAYING\]
 
 </div>
 
-<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+<div class="css-z6smm2-videoContainer" role="button" tabindex="-1">
 
 <div class="css-9jafkt-MastheadShadow">
 
@@ -250,18 +191,17 @@ PLAYING\]
 
 <div class="css-ggwicp">
 
-# <span>He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.</span>
+# <span>Trump Sidesteps Congress on Coronavirus Relief Actions</span>
 
 <div class="css-19m31ns">
 
-Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
-2020
+By Reuters<span class="css-1iknmmf">•</span>August 8, 2020
 
 </div>
 
 </div>
 
-## Most historians just study the past. But Allan Lichtman has successfully predicted the future.
+## President Trump signed four actions on coronavirus relief Saturday after Congress negotiations stalled. It’s unclear what authority he has to do so, and the orders are likely to be challenged in the courts.
 
 </div>
 
@@ -275,7 +215,7 @@ Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
 
 <div class="css-141slpx">
 
-<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -307,12 +247,298 @@ Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.nyt.com/images/2020/07/07/autossell/op-Lichtman_thumb1/op-Lichtman_thumb1-square320.png)
+    poster](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-square320.jpg)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
+    
+    ### Trump Sidesteps Congress on Coronavirus Relief Actions
+
+  - [](https://www.nytimes.com/video/world/100000007279742/beirut-explosion-lebanon-protests.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/08Lebanon01-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:32</span>
+    
+    ### Protests Erupt on the Streets of a Battered Beirut
+
+  - [](https://www.nytimes.com/video/us/100000007279713/sturgis-motorcycle-rally-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:01</span>
+    
+    ### Despite Pandemic, Thousands Attend Sturgis Motorcycle Rally
+
+  - [](https://www.nytimes.com/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:17</span>
+    
+    ### Trump Threatens to Use Executive Order for ‘Critical Relief’
+
+  - [](https://www.nytimes.com/video/us/politics/100000007279160/coronavirus-ohio-governor.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:03</span>
+    
+    ### Ohio Governor Calls Covid-19 Tests ‘Kind of a Roller Coaster’
+
+  - [](https://www.nytimes.com/video/us/100000007279221/republicans-democrats-divided-over-stimulus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/07/business/07briefing-virus-dc/merlin_175437309_159f9c40-80e8-485d-b628-182ecd153499-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:11</span>
+    
+    ### Republicans and Democrats Remain Divided on Stimulus Package
+
+  - [](https://www.nytimes.com/video/world/100000007278318/air-india-plane-crash-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/07/world/07india-plane-sub/07india-plane-sub-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:01</span>
+    
+    ### Video Shows Aftermath of Air India Plane Crash
+
+  - [](https://www.nytimes.com/video/opinion/100000007278127/coronavirus-vaccine-update.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/08/autossell/CovidUpdate_E3V2-thumb/CovidUpdate_E3V2-thumb-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">2:45</span>
+    
+    ### Covid Update: Don’t Rush the Vaccine
+
+  - [](https://www.nytimes.com/video/us/100000007278113/blackouts-new-york-city.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/07/nyregion/07nyoutage1/07nyoutage1-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:03</span>
+    
+    ### Blackouts Hit Parts of New York City
+
+  - [](https://www.nytimes.com/video/world/100000007277258/beirut-first-responder-funeral.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/world/06beirut-firefighter3/06beirut-firefighter3-square320-v3.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:42</span>
+    
+    ### Family Mourns Beirut Emergency Worker Killed in Explosion
+
+  - [](https://www.nytimes.com/video/us/100000007277332/beirut-residents-clean.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/world/06beirut-new4/merlin_175386999_71f2df85-21f3-46a6-805e-38a6673f25d4-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:11</span>
+    
+    ### Beirut Residents Help Clean Up Debris From Explosion
+
+  - [](https://www.nytimes.com/video/us/politics/100000007276768/trump-biden-god-ohio.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/us/politics/06vid-Trump-Biden-Bible/06vid-Trump-Biden-Bible-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:49</span>
+    
+    ### Trump Slams Biden During Ohio Speech
+
+  - [](https://www.nytimes.com/video/us/100000007276385/la-mayor-electricity-house-parties.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/world/06virus-briefing-LA/06virus-briefing-LA-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:06</span>
+    
+    ### L.A. Mayor Threatens Crackdown on House Parties
+
+  - [](https://www.nytimes.com/video/us/politics/100000007276240/new-york-nra-lawsuit.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/multimedia/06NRA/06NRA-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:24</span>
+    
+    ### N.Y. Attorney General Sues to Dissolve N.R.A. Over Corruption
+
+  - [](https://www.nytimes.com/video/world/100000007276111/beirut-lebanon-macron.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/world/06beirut06sub02/merlin_175371105_94a0ac96-28f0-4348-bcf0-62d578e59a9b-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:59</span>
+    
+    ### Macron Visits Beirut After the Blast
+
+  - [](https://www.nytimes.com/video/world/middleeast/100000007275939/beirut-bride-lebanon.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/world/06beirut-bride01/06beirut-bride01-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:29</span>
+    
+    ### Video Shows Beirut Bride at the Moment of the Blast
+
+  - [](https://www.nytimes.com/video/us/100000007274897/arizona-covid-improvments-shutting-down.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/05/world/05-virus-arizona-gov-still/05-virus-arizona-gov-still-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:07</span>
+    
+    ### After Setbacks, Arizona Governor Sees a ‘Path Forward’
+
+  - [](https://www.nytimes.com/video/us/100000007274757/viriginia-covid-contact-tracing-app.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/05/autossell/05-virus-va-gov-image/05-virus-va-gov-image-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:39</span>
+    
+    ### Virginia Announces Virus Alert App
+
+  - [](https://www.nytimes.com/video/us/politics/100000007274695/new-york-quarantine-check-point.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/05/world/05virus-briefing-checkpoints-swap/merlin_175112175_20ad3732-333c-4a2d-b5ac-4bf8a5e1859e-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:18</span>
+    
+    ### ‘There’s a Lot to Be Concerned About,’ Mayor de Blasio Says
+
+  - [](https://www.nytimes.com/video/world/middleeast/100000007274319/beirut-destruction.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/07/world/05lebanon-briefing-newtop-print/merlin_175322847_eb98f1f9-72b3-450e-b72a-beca1b5d5e33-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:16</span>
+    
+    ### Scenes of Destruction After Beirut Explosion
+
+  - [](https://www.nytimes.com/video/us/100000007274410/chicago-public-schools-remote-learning.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/05/us/05virus-chicago-schools/05virus-chicago-schools-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:03</span>
+    
+    ### Chicago Public Schools Announce Remote Learning for First Quarter
+
+  - [](https://www.nytimes.com/video/us/100000007273885/storm-isaias-new-york.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/04/nyregion/04tristate-storm01/04tristate-storm01-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:60</span>
+    
+    ### Isaias Batters N.Y. Area
+
+  - [](https://www.nytimes.com/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.nyt.com/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">7:14</span>
     
     ### He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
 
@@ -328,292 +554,6 @@ Featuring Allan Lichtman<span class="css-1iknmmf">•</span>August 5,
     <span class="css-1xigvfz">1:31</span>
     
     ### U.N. Says Virus Causing ‘Largest Disruption of Education Ever’
-
-  - [](https://www.nytimes.com/video/us/100000007272140/trump-stumbles-over-yosemite.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/us/04elections-briefing-yosemite/04elections-briefing-yosemite-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:52</span>
-    
-    ### Trump Stumbles Over the Word ‘Yosemite’ During Bill Signing
-
-  - [](https://www.nytimes.com/video/world/100000007272075/lebanon-beirut-blast.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/05/world/04lebanon-vidcover/04lebanon-vidcover-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:30</span>
-    
-    ### Videos Capture Aftermath of Deadly Blast in Beirut
-
-  - [](https://www.nytimes.com/video/world/100000007271927/pacific-island-rescue-video.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/world/04sos-pacific-1/04sos-pacific-1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:17</span>
-    
-    ### Video Shows Plane Spotting SOS Signal From Stranded Sailors
-
-  - [](https://www.nytimes.com/video/us/100000007271780/wyoming-hot-air-balloon-crash.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/us/03xp-balloons1/03xp-balloons1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:54</span>
-    
-    ### 3 Hot Air Balloons Crash in Wyoming
-
-  - [](https://www.nytimes.com/video/us/100000007271735/tropical-storm-isaias-carolinas.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/04/us/4hpstorm1/4hpstorm1-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:12</span>
-    
-    ### Tropical Storm Isaias Moves Up the East Coast
-
-  - [](https://www.nytimes.com/video/us/100000007271090/north-carolina-isaias-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/autossell/30-north-carolina-gov/30-north-carolina-gov-square320.png)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:09</span>
-    
-    ### N.C. Governor Tells Residents to ‘Take This Storm Seriously’
-
-  - [](https://www.nytimes.com/video/us/100000007270771/trump-tiktok-shutdown-microsoft.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:08</span>
-    
-    ### TikTok Must Be Sold or Risk Being Shutdown, Trump Says
-
-  - [](https://www.nytimes.com/video/us/100000007269993/judge-salas-new-jersey.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/nyregion/03salas-1/03salas-1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:39</span>
-    
-    ### ‘We Are Living Every Parent’s Worst Nightmare,’ Judge Salas Says
-
-  - [](https://www.nytimes.com/video/world/europe/100000007269932/who-coronavirus-briefing.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/03/us/03virus-briefing-WHO/03virus-briefing-WHO-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:59</span>
-    
-    ### ‘There Is No Silver Bullet,’ W.H.O. Chief Says
-
-  - [](https://www.nytimes.com/video/us/100000007269193/boats-circle-spacex-capsule.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/02/multimedia/02xp-boats-pix-sub/02xp-boats-pix-sub-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:37</span>
-    
-    ### Several Private Boats Encroach on SpaceX Landing Zone
-
-  - [](https://www.nytimes.com/video/us/100000007269118/spacex-splash-down.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/02/video/02vid-spacex-splash/02vid-spacex-splash-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:39</span>
-    
-    ### SpaceX’s Crew Dragon Splashes Down in Gulf of Mexico
-
-  - [](https://www.nytimes.com/video/world/australia/100000007269116/coronavirus-restrictions-melbourne.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/02/world/02virus-briefing-melbourne/merlin_175141296_dccccb19-1179-4660-a45f-369462798c5f-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:06</span>
-    
-    ### Melbourne Tightens Lockdown as Virus Outbreak Spreads
-
-  - [](https://www.nytimes.com/video/us/100000007268938/isaias-florida.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/02/us/02isaias-briefing-lead2/02isaias-briefing-lead2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:47</span>
-    
-    ### Strong Surf as Isaias Crawls Up Florida’s East Coast
-
-  - [](https://www.nytimes.com/video/us/100000007268936/spacex-departs-international-space-station.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/02/science/02sci-astronauts/merlin_175216431_287c3773-da04-4003-9cbb-1318c4e80f6e-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:16</span>
-    
-    ### Astronauts Head Back to Earth Aboard SpaceX’s Crew Dragon
-
-  - [](https://www.nytimes.com/video/world/europe/100000007268465/coronavirus-protest-germany.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/01/business/01virus-briefing-protest/merlin_175197072_6c6f2dc3-e3cc-4f60-a729-b3757acafdcb-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:39</span>
-    
-    ### Thousands March Against Virus Measures in Berlin
-
-  - [](https://www.nytimes.com/video/world/middleeast/100000007268443/iran-united-states-nuclear-program-negotiation.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/01/world/01iran01/01iran01-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:53</span>
-    
-    ### Iran Won’t Negotiate With U.S., Supreme Leader Says
-
-  - [](https://www.nytimes.com/video/us/100000007268424/desantis-florida-hurricane-isaias.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/01/business/01floriday-vid/merlin_175199355_30cb306e-9f78-4a10-b64b-b066dcd28c6b-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:39</span>
-    
-    ### Florida Governor Cautions Vigilance as Hurricane Isaias Approaches
-
-  - [](https://www.nytimes.com/video/us/100000007267362/white-house-mail-in-ballots-election.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/31/business/31elections-briefing-wh/31elections-briefing-wh-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:26</span>
-    
-    ### White House Backs Away from Proposals to Make Voting Secure
-
-  - [](https://www.nytimes.com/video/us/politics/100000007266983/johnson-coronavirus-restrictions.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/31/business/31virus-video-boris/31virus-video-boris-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:05</span>
-    
-    ### ‘I Won’t Stand By,’ Johnson Says, Halting Pace of Reopening
-
-  - [](https://www.nytimes.com/video/us/politics/100000007266691/fauci-congress-testimony.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/31/business/31virus-briefing-erin/31virus-briefing-erin-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">2:13</span>
-    
-    ### ‘Be Part of the Public Health Solution,’ Redfield Urges Americans
-
-  - [](https://www.nytimes.com/video/movies/100000007265338/palm-springs-scene.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/08/01/arts/palmspringsanatomy1/palmspringsanatomy1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">3:55</span>
-    
-    ### ‘Palm Springs’ | Anatomy of a Scene
-
-  - [](https://www.nytimes.com/video/us/politics/100000007265038/trump-inhofe-audio-call.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/latest-video)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.nyt.com/images/2020/07/30/us/politics/coverimage/coverimage-square320.png)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:54</span>
-    
-    ### Audio of Trump’s Speakerphone Conversation With Inhofe
 
 </div>
 
@@ -657,24 +597,23 @@ the world.
 
 <div class="css-1gce877">
 
-Show more videos from Latest
-Video
+Show more videos from Latest Video
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -802,8 +741,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -847,8 +785,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

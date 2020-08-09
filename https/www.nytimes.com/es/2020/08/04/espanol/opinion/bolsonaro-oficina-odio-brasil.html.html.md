@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Opinión](/es/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Por
-qué los brasileños deberían temer a la oficina de
-odio</span>
+qué los brasileños deberían temer a la oficina de odio</span>
 
 </div>
 
@@ -106,7 +103,7 @@ odio</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -174,8 +171,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -211,8 +207,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -238,8 +233,7 @@ Comentario
 
 El presidente Jair Bolsonaro, sus hijos y aliados han sembrado el odio
 en línea contra las instituciones que defienden la democracia. Ahora la
-indignación se está desbordando en la
-calle.
+indignación se está desbordando en la calle.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -275,14 +269,13 @@ Es periodista brasilera.
 
 </div>
 
-  - 4 de agosto de
-    2020
+  - 4 de agosto de 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -451,8 +444,7 @@ residencia presidencial en Brasilia. En los [videos
 tomados](https://twitter.com/folha/status/1264913877399212034) ese día
 se ve cómo llaman extorsionistas y delincuentes a los periodistas. Una
 mujer grita: “¡Escoria\! ¡Basura\! ¡Ratas\! ¡Bolsonaro hasta 2050\!
-¡Prensa podrida\!
-¡Comunistas\!”.
+¡Prensa podrida\! ¡Comunistas\!”.
 
 </div>
 
@@ -575,8 +567,7 @@ guerra civil lograría lo que el régimen militar no pudo. También dijo
 que cerraría el Congreso si fuera presidente. Durante las elecciones
 presidenciales de 2018, sus hijos y seguidores imprimieron camisetas con
 la cara del coronel Alberto Brilhante Ustra, el principal torturador de
-la dictadura, una figura celebrada por el
-presidente.
+la dictadura, una figura celebrada por el presidente.
 
 </div>
 
@@ -657,7 +648,9 @@ llamado a la insurrección.
 
 La semana pasada, dos hombres en un automóvil equipado con altavoces
 [aparecieron en la entrada de la casa del
-popular](https://esportes.yahoo.com/noticias/aliados-jair-bolsonaro-atacam-casa-felipe-neto-010129218.html)[*youtuber*](https://esportes.yahoo.com/noticias/aliados-jair-bolsonaro-atacam-casa-felipe-neto-010129218.html)[Felipe
+popular](https://esportes.yahoo.com/noticias/aliados-jair-bolsonaro-atacam-casa-felipe-neto-010129218.html)
+[*youtuber*](https://esportes.yahoo.com/noticias/aliados-jair-bolsonaro-atacam-casa-felipe-neto-010129218.html)
+[Felipe
 Neto](https://esportes.yahoo.com/noticias/aliados-jair-bolsonaro-atacam-casa-felipe-neto-010129218.html)
 con la intención de intimidarlo, y lo acusaron de destruir la
 “institución más importante, que es la familia”. Días antes, Neto
@@ -723,8 +716,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -768,8 +760,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

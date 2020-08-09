@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -104,8 +102,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -203,6 +200,39 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Douthat/09Douthat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## What to Do When Covid Doesn’t Go Away
+    
+    Lessons for coronavirus long-haulers from my own experience with
+    chronic illness.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ross Douthat</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/opinion/trump-republicans-tea-party.html)
     
     <div class="css-79elbk">
@@ -218,8 +248,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -231,7 +260,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -251,8 +280,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -264,7 +292,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -284,8 +312,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -297,7 +324,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -318,8 +345,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -331,7 +357,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -351,8 +377,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -364,7 +389,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -385,8 +410,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -404,7 +428,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -424,8 +448,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -437,7 +460,7 @@ He lives with his wife and three children in New Haven.
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -458,41 +481,7 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/27/opinion/sunday/us-coronavirus-2030.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/06/28/opinion/28douthat1/merlin_173217126_b8ea22c8-a030-4af1-a97c-9007e501f5e6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Waking Up in 2030
-    
-    The suspended time of the pandemic has put history on fast-forward.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ross
-    Douthat</span>
+    By <span class="css-1n7hynb">Ross Douthat</span>
     
     </div>
     
@@ -510,18 +499,17 @@ He lives with his wife and three children in New Haven.
     
     <div class="css-1l4spti">
     
-    [](/2020/06/23/opinion/bernie-sanders-protesters-democrats.html)
+    [](/2020/06/27/opinion/sunday/us-coronavirus-2030.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/06/23/opinion/23douthatWeb/23douthatWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/06/28/opinion/28douthat1/merlin_173217126_b8ea22c8-a030-4af1-a97c-9007e501f5e6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Second Defeat of Bernie Sanders
+    ## Waking Up in 2030
     
-    In a revolutionary summer, he may be losing the battle for the
-    future of the left.
+    The suspended time of the pandemic has put history on fast-forward.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -543,24 +531,23 @@ He lives with his wife and three children in New Haven.
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -584,8 +571,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -605,8 +591,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -656,8 +641,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

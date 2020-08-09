@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Style](/section/style)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">In
-1920, Native Women Sought the Vote. Here’s What’s
-Next.</span>
+1920, Native Women Sought the Vote. Here’s What’s Next.</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Next.</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -171,8 +167,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -237,8 +232,7 @@ Deer</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 31, 2020Updated Aug. 3,
-    2020
+    Published July 31, 2020Updated Aug. 7, 2020
     
     </div>
 
@@ -246,7 +240,7 @@ Deer</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -276,8 +270,8 @@ Deer</span>
 
 Native women were highly visible in early 20th-century suffrage
 activism. White suffragists, fascinated by Native matriarchal power,
-invited Native women to speak at conferences, join parades, and write
-for their publications. Native suffragists took advantage of these
+invited Native women to speak at conferences, join parades and write for
+their publications. Native suffragists took advantage of these
 opportunities to speak about pressing issues in their communities —
 Native voting, land loss and treaty rights. But their stories have
 largely been forgotten.
@@ -289,14 +283,14 @@ Yankton Sioux Tribe, reminded newly enfranchised white women that the
 fight was far from over. “The Indian woman rejoices with you,” she
 proclaimed to members of Alice Paul’s National Woman’s Party, but she
 urged them to remember their Native sisters, many of whom lacked the
-right to vote. Not only that, she explained, many were not U.S.
+right to vote. Not only that, she explained, many were not United States
 citizens, but legally wards of the government, without a political voice
 to address the many problems facing their communities.
 
 Bonnin and other Native suffragists would continue to remind audiences
 that federal assimilation policy had attacked their communities and
-cultures. Despite treaty promises, the United States dismantled tribal
-governments, privatized tribally-held land, and removed Native children
+cultures. Despite treaty promises, the U.S. dismantled tribal
+governments, privatized tribally-held land and removed Native children
 to boarding schools. Those devastating policies resulted in massive land
 loss, poverty and poor health that reverberate through these communities
 today.
@@ -310,9 +304,9 @@ today.
 <div class="css-53u6y8">
 
 Native suffragists’ activism contributed to Congress passing the Snyder
-Act of 1924, which extended U.S. citizenship to all Native people;
+Act of 1924, which extended U.S. citizenship to all Native people,
 though in response many states enacted Jim Crow-like policies aimed at
-disfranchising Indians. The Native suffragists also aided the push for
+disenfranchising them. The Native suffragists also aided the push for
 the Wheeler-Howard Act of 1934, which stopped the breakup of tribal
 lands and emphasized tribal self-governance.
 
@@ -355,22 +349,22 @@ has been edited for length and clarity.
 **Cathleen D. Cahill**:
 
 You have spent much of your career addressing the issue of violence
-against Native women, including in your book, “The Beginning and End of
+against Native women, including in your book “The Beginning and End of
 Rape.” Native women have been calling attention to this kind of violence
 for more than a century. **Why are Native women especially vulnerable?**
 
 **Sarah Deer:**
 
-I’m a citizen of the Muscogee (Creek) Nation of Oklahoma and I have been
-working to address violence against Native women for over 25 years. I
-started when I was 20 years old as a volunteer advocate for survivors of
-sexual assault, and that experience inspired me to go to law school. It
-was in federal Indian law classes that I began to understand the reasons
-for the high rate of violence. Quite simply, the criminal legal system
-in Indian Country is broken. What else could explain these statistics:
-Over 84 percent of Native women have experienced violence in their
-lifetime, and over 56 percent of Native women have experienced sexual
-violence. This is data directly [from the federal
+I’m a citizen of the Muscogee (Creek) Nation of Oklahoma, and I have
+been working to address violence against Native women for over 25 years.
+I started when I was 20 years old as a volunteer advocate for survivors
+of sexual assault, and that experience inspired me to go to law school.
+It was in federal Indian law classes that I began to understand the
+reasons for the high rate of violence. Quite simply, the criminal legal
+system in Indian Country is broken. What else could explain these
+statistics: Over 84 percent of Native women have experienced violence in
+their lifetime, and over 56 percent of Native women have experienced
+sexual violence. This is data directly [from the federal
 government](https://nij.ojp.gov/topics/articles/violence-against-american-indian-and-alaska-native-women-and-men)
 — and these are probably low estimates.
 
@@ -378,8 +372,8 @@ To make matters worse, in 1978 the Supreme Court ruled that tribal
 nations lack authority to prosecute non-Natives — again, for any crime.
 Many experts believe this is one of the reasons Native people experience
 the highest rates of interracial violence in the nation. A system that
-doesn’t hold people accountable sends two message — to victims, it says
-“don’t bother to report” — and to perpetrators, it says “keep
+doesn’t hold people accountable sends two messages: to victims, it says
+“don’t bother to report,” and to perpetrators, it says “keep
 victimizing people.”
 
 </div>
@@ -410,8 +404,7 @@ forever set apart as a home for said Creek Nation.” Seems simple, right?
 
 Throughout the 20th century, though, the state of Oklahoma ignored the
 treaty and gradually began exercising criminal and civil authority over
-the reservation, denying its
-existence.
+the reservation, denying its existence.
 
 </div>
 
@@ -454,9 +447,10 @@ of Congress</span></span>
 
 <div class="css-53u6y8">
 
-The Supreme Court’s 5-4 decision, written by Justice Gorsuch, determined
-that the Creek reservation boundaries were never disestablished; the
-reservation promised to the Creek people in 1866 is still in full force.
+The Supreme Court’s 5-4 decision, written by Justice Neil M. Gorsuch,
+determined that the Creek reservation boundaries were never
+disestablished; the reservation promised to the Creek people in 1866 is
+still in full force.
 
 </div>
 
@@ -481,8 +475,7 @@ rights white women did not have. They wanted to hear more and often
 invited Native women to speak at their meetings. This gave Native
 activists a chance to educate their audiences and while they did proudly
 talk about their traditions, they also insisted on talking about the
-problems that faced “the Indian woman of today,” as Bonnin put
-it.
+problems that faced “the Indian woman of today,” as Bonnin put it.
 
 </div>
 
@@ -557,8 +550,7 @@ leading the movements to address environmental abuses and pipelines. At
 [Standing Rock Sioux
 Reservation](https://www.nytimes.com/2017/01/31/magazine/the-youth-group-that-launched-a-movement-at-standing-rock.html),
 in particular, women were doing most of the organizing and
-decision-making in the fight over the Dakota Access
-Pipeline.
+decision-making in the fight over the Dakota Access Pipeline.
 
 </div>
 
@@ -583,8 +575,7 @@ Pipeline.
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Rep. Sharice
 Davids (D-KS), a Ho-Chunk citizen, at a news conference on March 10,
 2020.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Pete
-Marovich for The New York
-Times</span></span>
+Marovich for The New York Times</span></span>
 
 <div class="css-1xdhyk6 erfvjey0">
 
@@ -643,7 +634,7 @@ to have a seat at the table.
 
 **Cahill**: Absolutely. And that is so important to remember when we
 think about the anniversary of the suffrage amendment. For all
-suffragists, getting the vote wasn’t an end point, it was the
+suffragists, getting the vote wasn’t an end point: It was the
 possibility for change that voting opened up. Native suffragists saw the
 vote as a way to change the awful circumstances that faced Native
 communities at the time. **One hundred years later, what’s next for
@@ -652,15 +643,15 @@ Indigenous feminism?**
 **Deer**: I’m still basking in the afterglow of the McGirt decision, so
 I’m optimistic about the future for Native women and tribal nations. I
 hope to see more Native women elected to public office — at all levels,
-tribal, state, and national. We have been politically and symbolically
+tribal, state and national. We have been politically and symbolically
 disenfranchised for too long. I’m so glad our issues are getting more
 national attention.
 
 -----
 
 Cathleen D. Cahill is an associate professor of history at Penn State
-University and the author of the forthcoming “Recasting the Vote: How
-Women of Color Transformed the Suffrage Movement.”
+University and the author of the forthcoming book “Recasting the Vote:
+How Women of Color Transformed the Suffrage Movement.”
 
 Sarah Deer is a citizen of the Muscogee (Creek) Nation and a professor
 at the University of Kansas.
@@ -693,8 +684,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -738,8 +728,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

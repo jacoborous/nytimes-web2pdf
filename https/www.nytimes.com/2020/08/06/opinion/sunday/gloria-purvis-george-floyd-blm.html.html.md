@@ -195,7 +195,7 @@ Ms. Bruenig is an Opinion writer.
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -363,7 +363,7 @@ designation lonely enough even without intrafaith political strife, as
 only [3
 percent](https://www.pewforum.org/religious-landscape-study/religious-tradition/catholic/)
 of American Catholics are Black. Ms. Purvis co-hosts a popular Catholic
-radio show, “Morning Glory”, and a limited television series,
+radio show, “Morning Glory,” and a limited television series,
 “Authentically Free at Last.”
 
 </div>

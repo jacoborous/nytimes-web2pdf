@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -106,7 +104,7 @@ Sight</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -146,14 +144,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/02/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -173,8 +171,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -200,8 +197,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -224,10 +220,9 @@ story](#after-sponsor)
 </div>
 
 The second-quarter contraction set a grim record, and it would have been
-worse without government aid that is
-expiring.
+worse without government aid that is expiring.
 
-<div id="gdp-2q-change" class="section interactive-content interactive-size-scoop css-1fwl6kh" data-id="100000007263607">
+<div id="gdp-2q-change" class="section interactive-content interactive-size-scoop css-1fwl6kh">
 
 <div class="css-17ih8de interactive-body" data-sourceid="100000007263607">
 
@@ -245,8 +240,7 @@ expiring.
 
 The percentage decrease in G.D.P.
 
-is by far the biggest on
-record.
+is by far the biggest on record.
 
 </div>
 
@@ -330,8 +324,7 @@ record.
 
 <div id="g-ai0-15" class="g-graphic g-aiAbs g-aiPointText" style="top:75.5082%;margin-top:-7.7px;left:13.2824%;width:231px;">
 
-Percentage change from previous
-quarter
+Percentage change from previous quarter
 
 </div>
 
@@ -419,8 +412,7 @@ quarter
 
 <div id="g-ai1-1" class="g-graphic g-aiAbs g-aiPointText" style="top:3.5057%;margin-top:-9.3px;left:-0.0001%;width:479px;">
 
-The percentage decrease in G.D.P. is by far the biggest on
-record.
+The percentage decrease in G.D.P. is by far the biggest on record.
 
 </div>
 
@@ -504,8 +496,7 @@ record.
 
 <div id="g-ai1-15" class="g-graphic g-aiAbs g-aiPointText" style="top:76.2551%;margin-top:-7.8px;left:11.2586%;width:266px;">
 
-Percentage change from previous
-quarter
+Percentage change from previous quarter
 
 </div>
 
@@ -593,8 +584,7 @@ quarter
 
 <div id="g-ai2-1" class="g-graphic g-aiAbs g-aiPointText" style="top:3.3461%;margin-top:-9.3px;left:21.4286%;width:479px;">
 
-The percentage decrease in G.D.P. is by far the biggest on
-record.
+The percentage decrease in G.D.P. is by far the biggest on record.
 
 </div>
 
@@ -672,8 +662,7 @@ record.
 
 <div id="g-ai2-14" class="g-graphic g-aiAbs g-aiPointText" style="top:73.7201%;margin-top:-8.3px;left:21.4286%;width:266px;">
 
-Percentage change from previous
-quarter
+Percentage change from previous quarter
 
 </div>
 
@@ -792,8 +781,7 @@ Casselman</span>](https://www.nytimes.com/by/ben-casselman)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 30,
-    2020
+    July 30, 2020
     
     </div>
 
@@ -801,7 +789,7 @@ Casselman</span>](https://www.nytimes.com/by/ben-casselman)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -874,8 +862,9 @@ cases fell sharply and remain low, which has allowed a much stronger
 economic rebound in recent weeks.
 
 In the United States, the rebound appears to have stalled. More than 1.4
-million Americans filed new claims for state unemployment benefits last
-week, the [Labor Department said
+million Americans filed new claims for state [unemployment
+benefits](https://www.nytimes.com/2020/08/06/business/economy/unemployment-claims.html)
+last week, the [Labor Department said
 Thursday](https://oui.doleta.gov/press/2020/073020.pdf). It was the 19th
 straight week that the tally exceeded one million, an unheard-of figure
 before the pandemic. A further 830,000 people filed for benefits under
@@ -932,8 +921,7 @@ July after rising in June.
 Swonk, chief economist at the accounting firm Grant Thornton in Chicago.
 “To have these kinds of numbers in July when many in Congress hoped this
 would be over by summer underscores how unique and persistent the Covid
-crisis
-is.”
+crisis is.”
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -947,7 +935,7 @@ is.”
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -955,45 +943,43 @@ is.”
 
 <div class="briefing-block-update-time">
 
-[54h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[25h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
 
 <div>
 
-[Kodak’s chief executive was given stock options. Then the share price
-spiked 1,000
-percent.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[Wealthy families are throwing a lifeline to distressed
+businesses.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[57h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[26h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
 
 <div>
 
-[Fitch Ratings downgrades its outlook on U.S.
-debt.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[The publisher of The Onion, Jezebel and other websites lays off 15
+employees.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[64h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[31h
+ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>
 
 <div>
 
-[U.S. sanctions more Chinese officials over human rights violations as
-tensions
-flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[Canada outlines its response to the new U.S. aluminum
+tariff.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>
 
@@ -1004,14 +990,14 @@ flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coron
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -1058,8 +1044,7 @@ senior fellow at the Indeed Hiring Lab. “But now as of today, we’re not
 going to have that anymore.”
 
 The up-and-down nature of the recovery is shown by Russian River Brewing
-Company in Sonoma County,
-Calif.
+Company in Sonoma County, Calif.
 
 </div>
 
@@ -1084,8 +1069,7 @@ Calif.
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">State
 shutdowns were a disruption at Russian River Brewing Company’s two brew
 pubs.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Felix
-Uribe for The New York
-Times</span></span>
+Uribe for The New York Times</span></span>
 
 <div class="css-1xdhyk6 erfvjey0">
 
@@ -1329,8 +1313,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1374,8 +1357,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

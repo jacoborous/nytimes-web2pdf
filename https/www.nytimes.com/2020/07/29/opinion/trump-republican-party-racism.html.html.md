@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -66,7 +64,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -77,8 +75,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Opinion](/section/opinion)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">I
-Hope This Is Not Another Lie About the Republican
-Party</span>
+Hope This Is Not Another Lie About the Republican Party</span>
 
 </div>
 
@@ -100,7 +97,7 @@ Party</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -138,8 +135,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -175,8 +171,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -219,14 +214,13 @@ Mr. Stevens is a Republican political consultant.
 
 </div>
 
-  - July 29,
-    2020
+  - July 29, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -303,8 +297,7 @@ became](https://www.nytimes.com/2020/03/18/opinion/trump-republicans-racism.html
 over the past 50 or so years, a natural product of the seeds of
 race-baiting, self-deception and anger that now dominate it. Hold Donald
 Trump up to a mirror and that bulging, scowling orange face is today’s
-Republican
-Party.
+Republican Party.
 
 </div>
 
@@ -350,7 +343,7 @@ career as [a racist defending
 segregation](https://www.politico.com/magazine/story/2017/05/13/william-f-buckley-civil-rights-215129).
 
 In the Richard Nixon White House, Pat Buchanan and Kevin Phillips wrote
-a re-election campaign memo headed[“Dividing the
+a re-election campaign memo headed [“Dividing the
 Democrats”](https://www.cnn.com/2010/POLITICS/01/11/nixon.racial.strategy/index.html)
 in which they outlined what would come to be known as the Southern
 Strategy. It assumes there is little Republicans can do to attract Black
@@ -374,11 +367,11 @@ to help elect Mr. Trump.
 In the 2000 George W. Bush campaign, on which I worked, we acknowledged
 the failures of Republicans to attract significant nonwhite support.
 When Mr. Bush called himself a [“compassionate
-conservative,”](https://www.nytimes.com/2000/06/12/us/bush-draws-campaign-theme-from-more-than-the-heart.html)some
-on the right attacked him, calling it an admission that conservatism had
-not been compassionate. That was true; it had not been. Many of us
-believed we could steer the party to that “kinder, gentler” place his
-father described. We were wrong.
+conservative,”](https://www.nytimes.com/2000/06/12/us/bush-draws-campaign-theme-from-more-than-the-heart.html)
+some on the right attacked him, calling it an admission that
+conservatism had not been compassionate. That was true; it had not been.
+Many of us believed we could steer the party to that “kinder, gentler”
+place his father described. We were wrong.
 
 Reading Mr. Bush’s [2000 acceptance
 speech](http://movies2.nytimes.com/library/politics/camp/080400wh-bush-speech.html)
@@ -491,8 +484,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -536,8 +528,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

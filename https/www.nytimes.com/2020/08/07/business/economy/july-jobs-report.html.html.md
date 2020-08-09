@@ -416,7 +416,7 @@ themselves out of a job for a second time.
 
 <div class="briefing-block-update-time">
 
-[15h
+[25h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
@@ -430,7 +430,7 @@ businesses.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today
 
 <div class="briefing-block-update-time">
 
-[16h
+[26h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
@@ -444,7 +444,7 @@ employees.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-
 
 <div class="briefing-block-update-time">
 
-[21h
+[31h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>

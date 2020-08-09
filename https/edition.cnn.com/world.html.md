@@ -2118,6 +2118,46 @@ CNN </span>
 
 <div class="media">
 
+[![People stand by the debris of the Air India Express flight that
+skidded off a runway while landing in Kozhikode, Kerala state, India,
+Saturday, Aug. 8, 2020. The special evacuation flight bringing people
+home to India who had been trapped abroad because of the coronavirus
+skidded off the runway and split in two while landing in heavy rain
+killing more than a dozen people and injuring dozens more. (AP
+Photo/Shijith
+Sreedhar)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/asia/air-india-express-plane-crash-kerala-intl/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![People stand by the debris of the Air India Express flight that
+skidded off a runway while landing in Kozhikode, Kerala state, India,
+Saturday, Aug. 8, 2020. The special evacuation flight bringing people
+home to India who had been trapped abroad because of the coronavirus
+skidded off the runway and split in two while landing in heavy rain
+killing more than a dozen people and injuring dozens more. (AP
+Photo/Shijith
+Sreedhar)](//cdn.cnn.com/cnnnext/dam/assets/200808071212-01-kozhikode-plane-crash-0808-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">4 children identified among Air India Express plane crash casualties</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/asia/air-india-express-plane-crash-kerala-intl/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/world/mauritius-oil-spill-scli-intl/index.html)
 
 <div class="img__preloader">
@@ -2138,7 +2178,7 @@ CNN </span>
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -2174,7 +2214,7 @@ DAY](//cdn.cnn.com/cnnnext/dam/assets/200622120006-01-coronavirus-yoga-0621-toro
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2200,7 +2240,7 @@ DAY](//cdn.cnn.com/cnnnext/dam/assets/200622120006-01-coronavirus-yoga-0621-toro
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2226,7 +2266,7 @@ DAY](//cdn.cnn.com/cnnnext/dam/assets/200622120006-01-coronavirus-yoga-0621-toro
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2260,7 +2300,7 @@ NIAID-RML](//cdn.cnn.com/cnnnext/dam/assets/200213175739-03-coronavirus-0213-lar
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2290,7 +2330,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806030058-tokyo-coronavirus-0804-la
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2318,7 +2358,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806030058-tokyo-coronavirus-0804-la
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2344,7 +2384,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806030058-tokyo-coronavirus-0804-la
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2372,7 +2412,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806030058-tokyo-coronavirus-0804-la
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2406,7 +2446,7 @@ coronavirus.](//cdn.cnn.com/cnnnext/dam/assets/200806131731-01-coronavirus-afric
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2446,7 +2486,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806121324-23-beirut-aftermath-0805-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2474,7 +2514,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806121324-23-beirut-aftermath-0805-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2500,7 +2540,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806121324-23-beirut-aftermath-0805-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2526,7 +2566,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806121324-23-beirut-aftermath-0805-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2566,7 +2606,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807094832-01-planpincieux-glacier-0
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2596,7 +2636,7 @@ vpx\_00001610.jpg](//cdn.cnn.com/cnnnext/dam/assets/200807170641-beirut-lebanon-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -2636,7 +2676,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806181100-08-week-in-photos-0807-re
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -2674,7 +2714,7 @@ Young-joon)](//cdn.cnn.com/cnnnext/dam/assets/200807111743-01-novel-coronavirus-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2702,7 +2742,7 @@ Young-joon)](//cdn.cnn.com/cnnnext/dam/assets/200807111743-01-novel-coronavirus-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2730,7 +2770,7 @@ Young-joon)](//cdn.cnn.com/cnnnext/dam/assets/200807111743-01-novel-coronavirus-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2758,7 +2798,7 @@ Young-joon)](//cdn.cnn.com/cnnnext/dam/assets/200807111743-01-novel-coronavirus-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2784,7 +2824,7 @@ Young-joon)](//cdn.cnn.com/cnnnext/dam/assets/200807111743-01-novel-coronavirus-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -2822,7 +2862,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807112512-01-coronavirus-reopening-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2848,7 +2888,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807112512-01-coronavirus-reopening-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2869,44 +2909,6 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807112512-01-coronavirus-reopening-
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Beirut's deadly explosion adds to suffering from Covid-19</span><span class="cd__headline-icon cnn-icon"></span>](/videos/world/2020/08/07/beirut-explosion-amplifies-coronavirus-economic-struggles-go-there.cnn)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
-
-<div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
-
-<div class="media">
-
-[![A drone picture shows the scene of an explosion that hit the seaport
-of Beirut, Lebanon, Wednesday, Aug. 5, 2020. A massive explosion rocked
-Beirut on Tuesday, flattening much of the city&\#39;s port, damaging
-buildings across the capital and sending a giant mushroom cloud into the
-sky. (AP Photo/Hussein
-Malla)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/04/middleeast/gallery/beirut-explosion/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![A drone picture shows the scene of an explosion that hit the seaport
-of Beirut, Lebanon, Wednesday, Aug. 5, 2020. A massive explosion rocked
-Beirut on Tuesday, flattening much of the city&\#39;s port, damaging
-buildings across the capital and sending a giant mushroom cloud into the
-sky. (AP Photo/Hussein
-Malla)](//cdn.cnn.com/cnnnext/dam/assets/200805072055-01-beirut-aftermath-0805-large-tease.jpg)
-
-**
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">In pictures: Huge explosion rocks Beirut</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/04/middleeast/gallery/beirut-explosion/index.html)
 
 </div>
 

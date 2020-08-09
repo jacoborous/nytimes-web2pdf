@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -41,7 +40,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -53,8 +52,7 @@ index](#site-index)
 
 <span class="css-17xtcya">[Sunday
 Review](/section/opinion/sunday)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">A
-Friendship, a Pandemic and a Death Beside the
-Highway</span>
+Friendship, a Pandemic and a Death Beside the Highway</span>
 
 </div>
 
@@ -76,7 +74,7 @@ Highway</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -151,8 +149,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -193,14 +190,13 @@ Mr. Peer is a staff editor in Opinion.
 
 </div>
 
-  - July 31,
-    2020
+  - July 31, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -354,12 +350,11 @@ the campaigns against the violence of the caste system.
 
 This time of hope and aspiration gave way to an aggressive [Hindu
 majoritarianism and strident
-nationalism](https://www.theguardian.com/books/2014/may/16/what-next-india-pankaj-mishra)with
-the 2014 election of Mr. Modi. Within a few years, even his electoral
-promises of [economic
+nationalism](https://www.theguardian.com/books/2014/may/16/what-next-india-pankaj-mishra)
+with the 2014 election of Mr. Modi. Within a few years, even his
+electoral promises of [economic
 growth](https://www.nytimes.com/2019/02/01/opinion/india-unemployment-jobs-blackout.html)
-proved to be a
-mirage.
+proved to be a mirage.
 
 </div>
 
@@ -418,7 +413,8 @@ Along with his devotion to the Hindu nationalist project, a consistent
 feature of Mr. Modi’s rule has been his [penchant for dramatic policy
 decisions](https://www.nytimes.com/2020/05/27/opinion/india-modi-coronavirus.html)
 — on everything from
-[Kashmir](https://www.nytimes.com/2019/08/15/opinion/sunday/kashmir-siege-modi.html)to
+[Kashmir](https://www.nytimes.com/2019/08/15/opinion/sunday/kashmir-siege-modi.html)
+to
 [currency](https://www.nytimes.com/2016/11/27/opinion/in-india-black-money-makes-for-bad-policy.html)
 — without serious consideration of their effects.
 
@@ -548,8 +544,7 @@ back problem and couldn’t work. Two of his older brothers left for
 Mumbai to find work. He helped with the chores at home, attended his
 school indifferently and hung out with Amrit, who lived a few minutes
 away. Interfaith friendships in India are not as uncommon as the regnant
-political discourse might
-suggest.
+political discourse might suggest.
 
 </div>
 
@@ -600,9 +595,9 @@ Surat is a mercantile city in the state of Gujarat, close to the Arabian
 Sea, an ancient port that is now a major hub for India’s textile
 industry and the largest diamond polishing and processing center in the
 world. The city of 4.5 million people employs [hundreds of
-thousands](https://www.financialexpress.com/india-news/lakhs-of-migrant-workers-in-surat-desperate-to-return-to-their-native-states/1943533/)of
-migrant workers. Amrit found a job in a factory manufacturing cloth and
-saris.
+thousands](https://www.financialexpress.com/india-news/lakhs-of-migrant-workers-in-surat-desperate-to-return-to-their-native-states/1943533/)
+of migrant workers. Amrit found a job in a factory manufacturing cloth
+and saris.
 
 </div>
 
@@ -620,12 +615,12 @@ the city. “I will find you a job in Surat,” Amrit promised.
 
 Precise numbers are hard to arrive at, but scholars of urbanization and
 migration estimate that India has [more than a 100
-million](https://indianexpress.com/article/explained/coronavirus-india-lockdown-migran-workers-mass-exodus-6348834/)migrant
-workers. The majority come from the impoverished northern Indian states
-which, like the American Rust Belt, have suffered decades of decline.
-They find work in the manufacturing and services powerhouses in western
-India; the national capital region, Delhi; and, increasingly, the
-fast-growing states in southern India.
+million](https://indianexpress.com/article/explained/coronavirus-india-lockdown-migran-workers-mass-exodus-6348834/)
+migrant workers. The majority come from the impoverished northern Indian
+states which, like the American Rust Belt, have suffered decades of
+decline. They find work in the manufacturing and services powerhouses in
+western India; the national capital region, Delhi; and, increasingly,
+the fast-growing states in southern India.
 
 “Way back from the 1960s Indian government policies encouraged industry
 in the western and southern areas — India’s major capitalists came from
@@ -694,8 +689,7 @@ graves; cases rising steadily despite the lockdown being extended; and
 even middle-class Indians, who live in spacious homes and can bear the
 cost of treatment at private hospitals, being [turned away from
 hospitals](https://www.nytimes.com/2020/06/21/world/asia/coronavirus-india-hospitals-pregnant.html)
-lacking beds and
-ventilators.
+lacking beds and ventilators.
 
 </div>
 
@@ -761,12 +755,12 @@ into poverty every year.
 On May 1, after intense public criticism for ignoring the migrant worker
 exodus, the Indian government started operations of [the state-owned
 railway
-network](https://timesofindia.indiatimes.com/videos/news/covid-19-lockdown-indian-railways-starts-first-special-train-for-migrant-workers-from-hyderabad-to-jharkhand/videoshow/75487379.cms)to
-transport workers. Amrit and Saiyub spoke to a travel agent to help them
-get two seats on the trains going to Basti or Gorakhpur, the stations
-closest to their village. They paid him. Two weeks passed but they could
-not get a spot. The travel agent promised to call the moment he had
-their seats booked.
+network](https://timesofindia.indiatimes.com/videos/news/covid-19-lockdown-indian-railways-starts-first-special-train-for-migrant-workers-from-hyderabad-to-jharkhand/videoshow/75487379.cms)
+to transport workers. Amrit and Saiyub spoke to a travel agent to help
+them get two seats on the trains going to Basti or Gorakhpur, the
+stations closest to their village. They paid him. Two weeks passed but
+they could not get a spot. The travel agent promised to call the moment
+he had their seats booked.
 
 -----
 
@@ -788,8 +782,7 @@ were asked to climb into a balcony-like space above the driver’s seat.
 The journey began. “We could feel the breeze and we were going home,”
 Saiyub recalled. They caught snatches of sleep while sitting cramped
 together and repeated their conversations about the pandemic, the loss
-of work and the solace of
-home.
+of work and the solace of home.
 
 </div>
 
@@ -905,8 +898,7 @@ the town where the government officials who administer the district were
 based. The coronavirus lockdown in Uttar Pradesh forbade people from
 traveling without official permission. Ram Charan requested from
 officials a pass that would allow him to travel to the hospital in
-Shivpuri to see his son. They turned him
-away.
+Shivpuri to see his son. They turned him away.
 
 </div>
 
@@ -1040,8 +1032,7 @@ rectangle of brick walls: two rooms and a raised platform open to the
 elements. A buffalo and a cow were tied to their pegs beside the house.
 A few bales of cotton were stacked outside the bedroom; his mother and
 sisters turn them into quilts for a vendor. Twigs of brushwood lie
-around a mud oven used for
-cooking.
+around a mud oven used for cooking.
 
 </div>
 
@@ -1123,8 +1114,7 @@ in Surat had called the day before. Some of the workers were already
 back. He wanted Saiyub to return.
 
 “I have to go back. In a month, maybe two,” he said. “Not right now. The
-heart is not ready
-yet.”
+heart is not ready yet.”
 
 </div>
 
@@ -1211,8 +1201,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1256,8 +1245,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

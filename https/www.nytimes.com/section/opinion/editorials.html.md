@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,32 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
-
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
-
-</div>
+<div id="site-content" role="main">
 
 <div id="collection-opinion-editorials" class="section css-15h4p1b e9abtgs0">
 
@@ -104,8 +78,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:left;height:100%;display:block">
 
@@ -170,23 +143,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+    [](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## New York Needs Less Bickering, More Teamwork
+    ## America Could Control the Pandemic by October. Let’s Get to It.
     
-    Residents are nervous and exhausted. It’s not too much to ask for a
-    unified leadership from the mayor and the governor.
+    The solutions to combating the coronavirus are no mystery. It’s time
+    to do this right.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     
@@ -204,23 +176,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+    [](/2020/08/08/at-home/coronavirus-sports-podcasts.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/opinion/04recessWeb/04recessWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/multimedia/09AHsportspodcasts/09AHsportspodcasts-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## No Relief Bill, No Vacation
+    ## Sports Podcasts Even a Newbie Can Enjoy
     
-    Millions of Americans can’t wait while the Senate takes the rest of
-    the summer off.
+    Just because you can’t go to the games doesn’t mean your summer has
+    to be athlete-free.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">Phoebe Lett</span>
     
     </div>
     
@@ -233,6 +204,138 @@ story](#after-sponsor)
     </div>
 
 3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/opinion/hiroshima-anniversary-nuclear-weapons.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/opinion/06nuke-still/06nuke-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The World Can Still Be Destroyed in a Flash
+    
+    It seems that the United States is plunging into a new arms race
+    without learning the lessons of the last.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/opinion/trump-census-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/opinion/08census/05census-thumbWide-v13.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Is Plotting Against the Census. Here’s Why.
+    
+    By his calculations, the fewer people of color and noncitizens who
+    are counted, the better.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/cuomo-de-blasio-coronavirus-nyc.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04feud-editorial/04feud-editorial-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## New York Needs Less Bickering, More Teamwork
+    
+    Residents are nervous and exhausted. It’s not too much to ask for a
+    unified leadership from the mayor and the governor.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/opinion/coronavirus-relief-bill-senate-recess.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/opinion/04recessWeb/04recessWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sorry, Senators. This Is No Time for a Vacation.
+    
+    Millions of Americans in trouble can’t wait while lawmakers take the
+    rest of the summer off.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">The Editorial Board</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
     
     <div class="css-1cp3ece">
     
@@ -253,8 +356,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     
@@ -266,7 +368,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -287,8 +389,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     
@@ -300,7 +401,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -321,144 +422,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/31feds-promo2/31feds-promo2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Federal Agents Don’t Need Army Fatigues
-    
-    If you’re an officer of the law, dress like one. Leave the
-    soldiering to soldiers.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/opinion/mitch-mcconnell-coronavirus-economy.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/31/opinion/30econ/30econ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mitch McConnell Could Rescue Millions. What Is He Waiting For?
-    
-    The economy is in dire shape. Millions of Americans are about to
-    lose federal aid. The Senate is going on vacation.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/29/opinion/us-coronavirus-masks.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/29masks1/29masks1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bernie Sanders Is Asking for Masks for All
-    
-    A national campaign to encourage mask wearing, including the
-    distribution of free masks, would help to check the pandemic.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/opinion/tech-ceo-hearing-congress.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/29/opinion/28tech-editorial-sub/28tech-editorial-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Four of the World’s Wealthiest Men Are Preparing for Battle
-    
-    Members of Congress will be able to grill tech C.E.O.s at a hearing.
-    Let’s hope they don’t waste the opportunity.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">The Editorial
-    Board</span>
+    By <span class="css-1n7hynb">The Editorial Board</span>
     
     </div>
     
@@ -476,19 +440,18 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/opinion/pompeo-south-china-sea.html)
+    [](/2020/07/31/opinion/federal-agents-trump-uniforms.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/27/opinion/27china-sea-editorial/27china-sea-editorial-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/07/31/opinion/31feds-promo2/31feds-promo2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## China’s Claims to the South China Sea Are Unlawful. Now What?
+    ## Federal Agents Don’t Need Army Fatigues
     
-    Republican and Democratic administrations have failed to thwart
-    aggressive expansion in one of the world’s busiest sea lanes. The
-    solution isn’t flashy, but it could work.
+    If you’re an officer of the law, dress like one. Leave the
+    soldiering to soldiers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -510,24 +473,23 @@ story](#after-sponsor)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -551,8 +513,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -572,8 +533,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mktg)
+[Continue reading the main story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -623,8 +583,7 @@ story](#after-mktg)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

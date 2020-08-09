@@ -428,20 +428,32 @@ Show Description
     <div class="media">
     
     [![US President Donald Trump speaks during a news conference in
-    Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON /
+    Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON /
     AFP) (Photo by JIM WATSON/AFP via Getty
-    Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/07/politics/donald-trump-press-briefing-democrats-cheating-election-fact-check/index.html)
+    Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
     
     <div class="img__preloader">
     
     </div>
     
     ![US President Donald Trump speaks during a news conference in
-    Bedminster, New Jersey, on August 7, 2020. (Photo by JIM WATSON /
+    Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON /
     AFP) (Photo by JIM WATSON/AFP via Getty
-    Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-2020-01-large-tease.jpg)
+    Images)](//cdn.cnn.com/cnnnext/dam/assets/200808164115-02-trump-presser-0808-large-tease.jpg)
     
     </div>
+    
+    <div class="cd__content">
+    
+    ### [<span class="cd__headline-text">Fact check: Trump makes multiple false claims about Covid-19 relief as he signs executive actions</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
+    
+    </div>
+    
+    </div>
+
+  - 
+    
+    <div class="cd__wrapper" data-analytics="_list-hierarchical-xs_article_">
     
     <div class="cd__content">
     
@@ -470,18 +482,6 @@ Show Description
     <div class="cd__content">
     
     ### [<span class="cd__headline-text">Fact Check: With vote by mail expansion, can Nevada voters cast ballots after Election Day?</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/05/politics/schlapp-mail-voting-expansion-nevada-fact-check/index.html)
-    
-    </div>
-    
-    </div>
-
-  - 
-    
-    <div class="cd__wrapper" data-analytics="_list-hierarchical-xs_article_">
-    
-    <div class="cd__content">
-    
-    ### [<span class="cd__headline-text">Fact check: Trump makes at least 20 false claims in Fox & Friends interview</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/05/politics/fact-check-trump-fox-friends-pandemic-biden-protests/index.html)
     
     </div>
     
@@ -630,6 +630,40 @@ Show Description
 <div class="zn__containers">
 
 <div class="column zn__column--idx-0">
+
+  - 
+    
+    <div class="cd__wrapper" data-analytics="White House_list-small-horizontal_article_">
+    
+    <div class="media">
+    
+    [![WASHINGTON, DC - JULY 28: U.S. President Donald Trump speaks
+    during a news conference at the White House July 28, 2020 in
+    Washington, DC. Trump announced that Eastman Kodak will receive a
+    loan to manufacture ingredients used in pharmaceuticals. (Photo by
+    Alex Wong/Getty
+    Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/05/politics/fact-check-trump-fox-friends-pandemic-biden-protests/index.html)
+    
+    <div class="img__preloader">
+    
+    </div>
+    
+    ![WASHINGTON, DC - JULY 28: U.S. President Donald Trump speaks
+    during a news conference at the White House July 28, 2020 in
+    Washington, DC. Trump announced that Eastman Kodak will receive a
+    loan to manufacture ingredients used in pharmaceuticals. (Photo by
+    Alex Wong/Getty
+    Images)](//cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-large-tease.jpg)
+    
+    </div>
+    
+    <div class="cd__content">
+    
+    ### [<span class="cd__headline-text">Fact check: Trump makes at least 20 false claims in Fox & Friends interview</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/05/politics/fact-check-trump-fox-friends-pandemic-biden-protests/index.html)
+    
+    </div>
+    
+    </div>
 
   - 
     
@@ -814,38 +848,6 @@ Show Description
     <div class="cd__content">
     
     ### [<span class="cd__headline-text">Fact-checking Trump's threat to cut off education funding if schools don't reopen</span><span class="cd__headline-icon cnn-icon"></span>](/2020/07/08/politics/donald-trump-threat-to-cut-school-funding-fact-check/index.html)
-    
-    </div>
-    
-    </div>
-
-  - 
-    
-    <div class="cd__wrapper" data-analytics="White House_list-small-horizontal_article_">
-    
-    <div class="media">
-    
-    [![US President Donald Trump speaks during the 2020 \&quot;Salute to
-    America\&quot; event in honor of Independence Day on the South Lawn
-    of the White House in Washington, DC, July 4, 2020. (Photo by SAUL
-    LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty
-    Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/07/05/politics/fact-checking-trumps-fourth-of-july-speech/index.html)
-    
-    <div class="img__preloader">
-    
-    </div>
-    
-    ![US President Donald Trump speaks during the 2020 \&quot;Salute to
-    America\&quot; event in honor of Independence Day on the South Lawn
-    of the White House in Washington, DC, July 4, 2020. (Photo by SAUL
-    LOEB / AFP) (Photo by SAUL LOEB/AFP via Getty
-    Images)](//cdn.cnn.com/cnnnext/dam/assets/200704192250-trump-july-4-white-house-large-tease.jpg)
-    
-    </div>
-    
-    <div class="cd__content">
-    
-    ### [<span class="cd__headline-text">Fact-checking Trump's Fourth of July speech</span><span class="cd__headline-icon cnn-icon"></span>](/2020/07/05/politics/fact-checking-trumps-fourth-of-july-speech/index.html)
     
     </div>
     
@@ -1050,6 +1052,55 @@ Show Description
 <div id="cn-container_6282D0D8-65F8-1973-21FB-2D29AA4CB14C" class="cn cn-carousel-large-strip cn--idx-0 cn-container_6282D0D8-65F8-1973-21FB-2D29AA4CB14C" data-layout="carousel-large-strip" data-eq-pts="xsmall: 0, medium: 460, large: 780">
 
 <div class="js-owl-carousel owl-carousel carousel--full carousel-large-strip" data-galleryname="" data-cut-format="" data-is-gallery="" data-slide-count="11" data-infinite-loop="true">
+
+<div class="cd__wrapper" data-analytics="_carousel-large-strip_article_">
+
+<div class="media">
+
+[![US President Donald Trump speaks during the 2020 \&quot;Salute to
+America\&quot; event in honor of Independence Day on the South Lawn of
+the White House in Washington, DC, July 4, 2020. (Photo by SAUL LOEB /
+AFP) (Photo by SAUL LOEB/AFP via Getty
+Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/07/05/politics/fact-checking-trumps-fourth-of-july-speech/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![US President Donald Trump speaks during the 2020 \&quot;Salute to
+America\&quot; event in honor of Independence Day on the South Lawn of
+the White House in Washington, DC, July 4, 2020. (Photo by SAUL LOEB /
+AFP) (Photo by SAUL LOEB/AFP via Getty
+Images)](//cdn.cnn.com/cnnnext/dam/assets/200704192250-trump-july-4-white-house-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Fact-checking Trump's Fourth of July speech</span><span class="cd__headline-icon cnn-icon"></span>](/2020/07/05/politics/fact-checking-trumps-fourth-of-july-speech/index.html)
+
+<div class="cd__auxiliary">
+
+By Tara Subramaniam, CNN
+
+</div>
+
+<div class="cd__description">
+
+In his Fourth of July
+[speech](https://www.cnn.com/2020/07/05/politics/donald-trump-july-4-coronavirus/index.html),
+President [Donald
+Trump](https://www.cnn.com/election/2020/candidate/trump) reflected on
+the nation's history and its accomplishments. He also made several false
+claims about [the
+coronavirus](https://www.cnn.com/interactive/2020/health/coronavirus-us-maps-and-cases/)
+and his administration's response to the pandemic.
+
+</div>
+
+</div>
+
+</div>
 
 <div class="cd__wrapper" data-analytics="_carousel-large-strip_article_">
 
@@ -1483,73 +1534,6 @@ A new [ad](https://www.youtube.com/watch?v=Nv7yVCwv6NU) from President
 Donald Trump's re-election campaign that attempts to portray former Vice
 President Joe Biden as being overly friendly to China is rife with
 deceptive images and audio clips.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cd__wrapper" data-analytics="_carousel-large-strip_article_">
-
-<div class="media">
-
-[![TOPSHOT - Democratic presidential candidate Joe Biden has heated
-exchange meets workers and discusses gun rights as he tours the Fiat
-Chrysler plant in Detroit, Michigan on March 10, 2020. - Biden opened
-primary day meeting workers at an under-construction automobile plant in
-Detroit, where he received cheers but also was confronted by one worker.
-In an exchange avidly shared online by Trump supporters, the worker,
-wearing a construction helmet and reflective vest, accused Biden of
-seeking to weaken the constitutional right to own firearms.
-\&quot;You&\#39;re full of shit,\&quot; Biden shot back. \&quot;I
-support the Second Amendment.\&quot;When the worker pressed the issue,
-Biden, visibly agitated and with a raised voice, said \&quot;I&\#39;m
-not taking your gun away,\&quot; adding, \&quot;Gimme a break,
-man.\&quot; (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via
-Getty
-Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/03/21/politics/fact-check-joe-biden-gun-control/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![TOPSHOT - Democratic presidential candidate Joe Biden has heated
-exchange meets workers and discusses gun rights as he tours the Fiat
-Chrysler plant in Detroit, Michigan on March 10, 2020. - Biden opened
-primary day meeting workers at an under-construction automobile plant in
-Detroit, where he received cheers but also was confronted by one worker.
-In an exchange avidly shared online by Trump supporters, the worker,
-wearing a construction helmet and reflective vest, accused Biden of
-seeking to weaken the constitutional right to own firearms.
-\&quot;You&\#39;re full of shit,\&quot; Biden shot back. \&quot;I
-support the Second Amendment.\&quot;When the worker pressed the issue,
-Biden, visibly agitated and with a raised voice, said \&quot;I&\#39;m
-not taking your gun away,\&quot; adding, \&quot;Gimme a break,
-man.\&quot; (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via
-Getty
-Images)](//cdn.cnn.com/cnnnext/dam/assets/200312170953-03-week-in-photos-0313-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Fact check: Joe Biden's comments on gun control</span><span class="cd__headline-icon cnn-icon"></span>](/2020/03/21/politics/fact-check-joe-biden-gun-control/index.html)
-
-<div class="cd__auxiliary">
-
-By Holmes Lybrand, CNN
-
-</div>
-
-<div class="cd__description">
-
-[Former Vice President Joe
-Biden](https://www.cnn.com/election/2020/candidate/biden), who's the
-current front-runner in the Democratic presidential primary, made
-several gun-related claims recently during an argument with an auto
-worker and during a tele-townhall this week. We took a look at some of
-those claims to see what the facts were.
 
 </div>
 
@@ -2050,6 +2034,60 @@ those claims to see what the facts were.
 
 <div class="media">
 
+[![TOPSHOT - Democratic presidential candidate Joe Biden has heated
+exchange meets workers and discusses gun rights as he tours the Fiat
+Chrysler plant in Detroit, Michigan on March 10, 2020. - Biden opened
+primary day meeting workers at an under-construction automobile plant in
+Detroit, where he received cheers but also was confronted by one worker.
+In an exchange avidly shared online by Trump supporters, the worker,
+wearing a construction helmet and reflective vest, accused Biden of
+seeking to weaken the constitutional right to own firearms.
+\&quot;You&\#39;re full of shit,\&quot; Biden shot back. \&quot;I
+support the Second Amendment.\&quot;When the worker pressed the issue,
+Biden, visibly agitated and with a raised voice, said \&quot;I&\#39;m
+not taking your gun away,\&quot; adding, \&quot;Gimme a break,
+man.\&quot; (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via
+Getty
+Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/03/21/politics/fact-check-joe-biden-gun-control/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![TOPSHOT - Democratic presidential candidate Joe Biden has heated
+exchange meets workers and discusses gun rights as he tours the Fiat
+Chrysler plant in Detroit, Michigan on March 10, 2020. - Biden opened
+primary day meeting workers at an under-construction automobile plant in
+Detroit, where he received cheers but also was confronted by one worker.
+In an exchange avidly shared online by Trump supporters, the worker,
+wearing a construction helmet and reflective vest, accused Biden of
+seeking to weaken the constitutional right to own firearms.
+\&quot;You&\#39;re full of shit,\&quot; Biden shot back. \&quot;I
+support the Second Amendment.\&quot;When the worker pressed the issue,
+Biden, visibly agitated and with a raised voice, said \&quot;I&\#39;m
+not taking your gun away,\&quot; adding, \&quot;Gimme a break,
+man.\&quot; (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via
+Getty
+Images)](//cdn.cnn.com/cnnnext/dam/assets/200312170953-03-week-in-photos-0313-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Fact check: Joe Biden's comments on gun control</span><span class="cd__headline-icon cnn-icon"></span>](/2020/03/21/politics/fact-check-joe-biden-gun-control/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![Dave \&quot;Walter Cronkite\&quot; Portnoy Interviews Donald Trump at
 the White
 House](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/07/24/politics/trump-barstool-interview-robin-hood-booed/index.html)
@@ -2074,7 +2112,7 @@ House](//cdn.cnn.com/cnnnext/dam/assets/200724180548-02-trump-portnoy-barstool-i
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2106,7 +2144,7 @@ Brenner](//cdn.cnn.com/cnnnext/dam/assets/200525111742-01-trump-golfing-sterling
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2133,38 +2171,6 @@ Vucci)](//cdn.cnn.com/cnnnext/dam/assets/200519081202-02-donald-trump-0518-large
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Fact check: Trump falsely claims Michigan sent out absentee ballots and broke the law</span><span class="cd__headline-icon cnn-icon"></span>](/2020/05/20/politics/fact-check-trump-michigan-nevada-ballots-voting/index.html)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
-
-<div class="cd__wrapper" data-analytics="_grid-small_article_">
-
-<div class="media">
-
-[![President Donald Trump gestures to people in the audience after an
-event on protecting seniors with diabetes in the Rose Garden White
-House, Tuesday, May 26, 2020, in Washington. (AP Photo/Evan
-Vucci)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/05/26/politics/fact-check-trump-vote-by-mail-fraud-gavin-newsom-california/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![President Donald Trump gestures to people in the audience after an
-event on protecting seniors with diabetes in the Rose Garden White
-House, Tuesday, May 26, 2020, in Washington. (AP Photo/Evan
-Vucci)](//cdn.cnn.com/cnnnext/dam/assets/200526183646-02-trump-rose-garden-0526-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Fact check: Trump falsely claims California is sending mail-in ballots to undocumented immigrants</span><span class="cd__headline-icon cnn-icon"></span>](/2020/05/26/politics/fact-check-trump-vote-by-mail-fraud-gavin-newsom-california/index.html)
 
 </div>
 

@@ -263,7 +263,7 @@ Tankersley</span>](https://www.nytimes.com/by/jim-tankersley)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 8, 2020Updated <span class="css-epvm6">8:25 p.m. ET</span>
+    Aug. 8, 2020Updated <span class="css-epvm6">9:02 p.m. ET</span>
     
     </div>
 
@@ -309,10 +309,11 @@ It was not clear what authority Mr. Trump had to act on his own on the
 measures or what immediate effect, if any, they would have, given that
 Congress controls federal spending. But his decision to sign the
 measures — billed as a federal eviction ban, a payroll tax suspension,
-and relief for student borrowers and the unemployed — reflected the
-failure of two weeks of talks between White House officials and top
-congressional Democrats to strike a deal on a broad relief plan as
-crucial benefits have expired with no resolution in sight.
+and relief for student borrowers and $400 a week for the unemployed —
+reflected the failure of two weeks of talks between White House
+officials and top congressional Democrats to strike a deal on a broad
+relief plan as crucial benefits have expired with no resolution in
+sight.
 
 Mr. Trump’s move also illustrated the heightened concern of a president
 staring down re-election in the middle of a historic recession and a
@@ -325,11 +326,11 @@ to schools ahead of the new school year, aid to states and cities and a
 second round of $1,200 stimulus checks to Americans.
 
 “Nancy Pelosi and Chuck Schumer have chosen to hold this vital
-assistance hostage,” Mr. Trump said, savaging the two top Democrats
-during a news conference at his private golf club in New Jersey, his
-second in two days. A few dozen club guests were in attendance, and the
-president appeared to revel in their laughter at his jokes denouncing
-his political rivals.
+assistance hostage,” Mr. Trump said, savaging the two top Democrats and
+their $3.4 trillion opening offer during a news conference at his
+private golf club in New Jersey, his second in two days. A few dozen
+club guests were in attendance, and the president appeared to revel in
+their laughter at his jokes denouncing his political rivals.
 
 </div>
 
@@ -342,18 +343,17 @@ his political rivals.
 “We’ve had it,” he added, repeatedly referring to his directives as
 “bills,” a term reserved for legislation passed by Congress. He
 accused the Democrats of holding up negotiations with demands for
-provisions that appeared to had little to do with the pandemic, though
-he made little mention of similar, seemingly unrelated items
-— [including money for a new building for the
-F.B.I.](https://www.nytimes.com/2020/07/28/us/politics/republicans-trump-fbi-building-virus-relief-bill.html)
-— in the $1 trillion proposal Republicans [unveiled last
+provisions that appeared to have little to do with the pandemic, though
+he made little mention of comparable items in the $1 trillion proposal
+Republicans [unveiled last
 month](https://www.nytimes.com/2020/07/27/us/politics/republicans-jobless-aid.html).
 
 Democrats have refused to agree to that plan, pressing instead for a far
 more expansive economic relief package, at least twice as large, that
-would extend $600-per-week enhanced federal jobless aid payments the
-Republicans are seeking to reduce, if revived, and provide billions more
-for schools, states and cities and food aid.
+would provide billions more for states and cities and food aid, and
+revive the lapsed $600-per-week enhanced federal jobless aid payments.
+(Republicans are proposing to revive the payments, but at a rate of $400
+a week.)
 
 It was unclear whether the effort to bypass Congress would kill the
 already-stalled negotiations altogether, though Mr. Trump told reporters
@@ -427,7 +427,7 @@ to slash the unemployment benefits that millions desperately need and
 endanger seniors’ Social Security and Medicare,” Speaker Nancy Pelosi
 and Senator Chuck Schumer, Democrat of New York and the minority leader,
 said in a statement. They called on Republicans to “return to the table”
-to continue negotiating.
+to continue negotiating and “meet us halfway.”
 
 It was unclear whether the aid would even materialize if lawsuits are
 filed challenging their legality. Mr. Trump walked away from the lectern
@@ -442,11 +442,11 @@ the ability to circumvent Congress.
 
 <div class="css-53u6y8">
 
-For Mr. Trump, signing the orders was a familiar tactic from a president
-who has portrayed himself as the ultimate deal-maker, but in practice
-has shown little interest in or skill for negotiating with Congress,
-bristling against the limitations of his power. It recalled his decision
-in 2018 to [shut down the
+Signing the orders was a familiar tactic from a president who has
+portrayed himself as the ultimate deal-maker, but in practice has shown
+little interest in or skill for negotiating with Congress, bristling
+against the limitations of his power. It recalled his decision in 2018
+to [shut down the
 government](https://www.nytimes.com/2018/12/21/us/politics/trump-shutdown-border-wall.html)
 over his demand for funding for a wall on the southwestern border, his
 signature campaign promise, in an effort to force Democrats to agree to
@@ -456,20 +456,25 @@ move that drew legal challenges.
 
 Shortly after the event on Saturday, the White House released texts of
 the measures — one executive order and three memorandums — which
-included several flourishes that read like political documents. One
-invoked the Stafford Act, a federal disaster relief statute, to divert
-money from a homeland security fund and allow states to use money
-already allocated by Congress to help people who have been laid off amid
-the coronavirus pandemic, effectively allowing them to apply for
-disaster relief to cover lost wages. The mechanism would pull from the
-same fund that covers natural disasters in the middle of what is
-expected to be a highly active hurricane season.
+included several flourishes that read like political documents in
+accusing Democrats of playing games. One invoked the Stafford Act, a
+federal disaster relief statute, to divert money from a homeland
+security fund and allow states to use money already allocated by
+Congress to help people who have been laid off amid the coronavirus
+pandemic, effectively allowing them to apply for disaster relief to
+cover lost wages. The mechanism would pull from the same fund that
+covers natural disasters in the middle of what is expected to be a
+highly active hurricane season.
 
 Mr. Trump claimed that the action would provide $400 weekly in enhanced
 unemployment benefits, $200 less than laid-off workers had been
 receiving under benefits that lapsed at the end of July. But with states
 being directed to pick up $100 of that aid, the federal amount would be
 no more than $300 a week.
+
+And there is another catch — the text of the memorandum says that the
+$300 can only be paid to people who first qualify for $100 in aid paid
+by their state.
 
 It was unclear how quickly states, whose unemployment systems had
 already been overburdened by the record numbers of new jobless claims,
@@ -481,19 +486,12 @@ Trump said.
 
 He also retroactively signed a memorandum suspending the payroll tax
 from Aug. 1 through the end of 2020, though the order would just defer
-the payment of the taxes without congressional action. (Mr. Trump vowed
-that if re-elected in November, he would extend the deferral and the
-payments.)
+the payment of the taxes. (Mr. Trump vowed that if re-elected in
+November, he would extend the deferral and the payments.)
 
-If Mr. Trump tried to make a payroll tax cut permanent, it would have
+If Mr. Trump tried to make a payroll tax cut permanent, it would have a
 drastic effect on the funding of Social Security, which he has
 previously vowed not to cut.
-
-The memorandum that Mr. Trump called a moratorium on evictions did not
-revive the expired moratorium that was part of the $2.2 trillion
-stimulus law. Instead, it said that federal policy was to minimize
-evictions during the pandemic and that officials should identify
-statutory ways to help homeowners and renters.
 
 </div>
 
@@ -503,11 +501,11 @@ statutory ways to help homeowners and renters.
 
 <div class="css-53u6y8">
 
-Long before taking office, Mr. Trump [criticized Barack
-Obama](https://twitter.com/realdonaldtrump/status/222739756105207808)
-for what he described as an overreliance on executive orders to
-accomplish policy goals that had been blocked by Congress, but in acting
-unilaterally, Mr. Trump was vastly expanding the use of such measures.
+The memorandum that Mr. Trump called a moratorium on evictions did not
+revive the expired moratorium that was part of the $2.2 trillion
+stimulus law passed in March. Instead, it said that federal policy was
+to minimize evictions during the pandemic and that officials should
+identify statutory ways to help homeowners and renters.
 
 <div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
 
@@ -672,6 +670,12 @@ Updated August 6, 2020
 
 </div>
 
+Long before taking office, Mr. Trump [criticized Barack
+Obama](https://twitter.com/realdonaldtrump/status/222739756105207808)
+for what he described as an overreliance on executive orders to
+accomplish policy goals that had been blocked by Congress, but in acting
+unilaterally, Mr. Trump was vastly expanding the use of such measures.
+
 Mark Meadows, the White House chief of staff and a vicious critic of Mr.
 Obama’s actions while a North Carolina congressman, was among those who
 recommended that Mr. Trump issue the orders, even as he conceded that an
@@ -694,18 +698,12 @@ After signing the measures, Mr. Trump handed out the black Sharpies he
 had used, embossed with his name, to members of his golf club standing
 at the back of the room.
 
-The moves could face legal challenges. And they are unlikely to add much
-additional fuel to the economic recovery, which has slowed in the summer
-months as [infections surged
-again](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
-in large pockets of the country.
-
 The Labor Department reported on Friday that the economy created 1.8
 million jobs in July, a sharp slowdown from May and June, and economic
-forecasters expect further slowing in August. Many economists have
-warned that supplemental unemployment benefits, which expired at the end
-of July, had been propping up consumer spending at a time when about 30
-million Americans are unemployed.
+forecasters expect further slowing in August. Many economists have noted
+that the $600 supplemental unemployment benefits, which expired at the
+end of July, had been propping up consumer spending at a time when about
+30 million Americans are unemployed.
 
 </div>
 
@@ -725,11 +723,6 @@ liability. Many companies are likely to continue withholding the taxes
 in order to remit them next year on workers’ behalf, they say.
 
 It is an idea that Republican lawmakers have also resisted.
-
-It remains unclear what effect Mr. Trump’s actions will have on the
-negotiations, either scuttling them altogether or serving as an
-accelerant toward ending the impasse, which has lasted for more than two
-weeks.
 
 “They don’t make that much difference,” Ms. Pelosi told members of the
 Democratic caucus on a private call Saturday afternoon, according to

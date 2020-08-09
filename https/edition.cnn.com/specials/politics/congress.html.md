@@ -412,6 +412,38 @@ Show Description
 
 <div class="media">
 
+[![US President Donald Trump speaks during a news conference in
+Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON / AFP)
+(Photo by JIM WATSON/AFP via Getty
+Images)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![US President Donald Trump speaks during a news conference in
+Bedminster, New Jersey, on August 8, 2020. (Photo by JIM WATSON / AFP)
+(Photo by JIM WATSON/AFP via Getty
+Images)](//cdn.cnn.com/cnnnext/dam/assets/200808164115-02-trump-presser-0808-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Fact check: Trump makes multiple false claims about Covid-19 relief as he signs executive actions</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/politics/fact-check-trump-covid-executive-actions-bedminster/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![President Donald Trump speaks at a press conference on August 7 in
 Bedminster, New
 Jersey.](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/trump-executive-order-stimulus/index.html)
@@ -436,7 +468,7 @@ Jersey.](//cdn.cnn.com/cnnnext/dam/assets/200807193553-01-donald-trump-presser-0
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -468,7 +500,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -494,7 +526,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -520,7 +552,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -550,7 +582,7 @@ plan.](//cdn.cnn.com/cnnnext/dam/assets/200806094642-restricted-02-school-nurses
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -590,7 +622,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200505104054-the-point-masks-large-tea
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -628,7 +660,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200731143128-10-karen-bass-large-tease
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -667,7 +699,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807160214-1998-embassy-bombing-memo
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -695,7 +727,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807160214-1998-embassy-bombing-memo
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -721,7 +753,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807160214-1998-embassy-bombing-memo
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -761,7 +793,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/191125183648-03-don-mcgahn-file-large-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -799,7 +831,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200804154227-restaurants-pandemic-surv
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -839,7 +871,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -871,7 +903,7 @@ File)](//cdn.cnn.com/cnnnext/dam/assets/200724182744-bill-hagerty-jan-28-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -911,7 +943,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200501195108-obama-biden-large-tease.j
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -943,7 +975,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200731101420-0731-pelosi-press-confere
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -969,7 +1001,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200731101420-0731-pelosi-press-confere
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -999,7 +1031,7 @@ July 16,
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1029,7 +1061,7 @@ Rayburn House Office Building on Thursday, July 30,
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1055,7 +1087,7 @@ Rayburn House Office Building on Thursday, July 30,
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1091,7 +1123,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200806123721-02-chad-wolf-testimony-08
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1133,7 +1165,7 @@ COVID-19.](//cdn.cnn.com/cnnnext/dam/assets/200805200455-rodney-davis-illinois-f
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1161,7 +1193,7 @@ COVID-19.](//cdn.cnn.com/cnnnext/dam/assets/200805200455-rodney-davis-illinois-f
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1189,7 +1221,7 @@ COVID-19.](//cdn.cnn.com/cnnnext/dam/assets/200805200455-rodney-davis-illinois-f
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1227,7 +1259,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/181015143807-david-perdue-snatch-phone
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1255,7 +1287,7 @@ Marshall](//cdn.cnn.com/cnnnext/dam/assets/200730164719-kris-kobach-donald-trump
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1281,7 +1313,7 @@ Marshall](//cdn.cnn.com/cnnnext/dam/assets/200730164719-kris-kobach-donald-trump
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1321,7 +1353,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1357,7 +1389,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200805005923-missouri-cori-bush-0803-l
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1389,7 +1421,7 @@ primary at King County Elections in Renton, Washington on March 10,
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1417,7 +1449,7 @@ projects](//cdn.cnn.com/cnnnext/dam/assets/200805051040-lacy-clay-cori-bush-spli
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1449,7 +1481,7 @@ DC.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1485,7 +1517,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200804231235-02-rep-roger-marshall-fil
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1511,7 +1543,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200804231235-02-rep-roger-marshall-fil
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1541,7 +1573,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200804231235-02-rep-roger-marshall-fil
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1585,7 +1617,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200727163015-portalnd-protest-federal-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1625,7 +1657,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1651,7 +1683,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1677,7 +1709,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200802213951-nancy-pelosi-0731-large-t
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1707,7 +1739,7 @@ Kansas.](//cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-la
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1733,7 +1765,7 @@ Kansas.](//cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-la
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1761,7 +1793,7 @@ Kansas.](//cdn.cnn.com/cnnnext/dam/assets/190911101036-douglas-macgregor-file-la
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1793,7 +1825,7 @@ Images](//cdn.cnn.com/cnnnext/dam/assets/190628011417-g20-summit-17-large-tease.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1833,7 +1865,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200720100359-mitch-mcconnell-0630-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1861,7 +1893,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200720100359-mitch-mcconnell-0630-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1899,7 +1931,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200126175745-barack-obama-102618-file-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1925,7 +1957,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200126175745-barack-obama-102618-file-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1953,7 +1985,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200126175745-barack-obama-102618-file-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1979,7 +2011,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200126175745-barack-obama-102618-file-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2011,7 +2043,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200715071835-trump-bass-oped-large-tea
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2049,7 +2081,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200630213305-senator-chris-murphy-0630
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2075,7 +2107,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200630213305-senator-chris-murphy-0630
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2107,7 +2139,7 @@ Chicago.](//cdn.cnn.com/cnnnext/dam/assets/200428110442-usps-trucks-chicago-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2135,7 +2167,7 @@ Swamp.&\#39;](//cdn.cnn.com/cnnnext/dam/assets/200731151348-the-swamp-hbo-large-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2165,7 +2197,7 @@ Mueller&\#39;s honor at the Department of Justice on August 1, 2013.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -2199,7 +2231,7 @@ Rourke)](//cdn.cnn.com/cnnnext/dam/assets/161027181508-01-joe-biden-vice-preside
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2241,7 +2273,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200306202812-mark-meadows-jan-29-large
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2277,7 +2309,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200801163220-biden-veep-oped-large-tea
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2305,7 +2337,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200801163220-biden-veep-oped-large-tea
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2335,7 +2367,7 @@ March 2, 2020 in Charlotte, North Carolina.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2361,7 +2393,7 @@ March 2, 2020 in Charlotte, North Carolina.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2394,7 +2426,7 @@ and Tyrants\&quot; at State Capitol on July 18, 2020 in Columbus, Ohio.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2428,7 +2460,7 @@ struck between Pelosi and Treasury Secretary Steven Mnuchin.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2460,7 +2492,7 @@ Vucci)](//cdn.cnn.com/cnnnext/dam/assets/200730175432-40-week-in-photos-0731-lar
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2490,7 +2522,7 @@ power&\#39;\_00000000.jpg](//cdn.cnn.com/cnnnext/dam/assets/200802125432-sotu-cl
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2528,7 +2560,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200730000843-02-karen-bass-lead-image-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2556,7 +2588,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200730000843-02-karen-bass-lead-image-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2598,7 +2630,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200729130125-us-capitol-building-0727-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2624,7 +2656,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200729130125-us-capitol-building-0727-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2650,7 +2682,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200729130125-us-capitol-building-0727-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2682,7 +2714,7 @@ Vucci)](//cdn.cnn.com/cnnnext/dam/assets/200730180850-03-trump-presser-0730-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2710,7 +2742,7 @@ DC.](//cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearin
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2744,7 +2776,7 @@ Square\&quot;, on Capitol Hill in Washington, DC, on June 29,
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2772,7 +2804,7 @@ outstanding](//cdn.cnn.com/cnnnext/dam/assets/200801132735-chuck-schumer-08-01-2
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2806,7 +2838,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/181127191945-topshot-us-politics-shutd
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2832,7 +2864,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/181127191945-topshot-us-politics-shutd
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2860,7 +2892,7 @@ Bishop](//cdn.cnn.com/cnnnext/dam/assets/141110094712-sanford-bishop-story-top.j
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2892,7 +2924,7 @@ Vegas, Nevada.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -2926,7 +2958,7 @@ Vegas, Nevada.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2952,7 +2984,7 @@ Vegas, Nevada.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -2978,7 +3010,7 @@ Vegas, Nevada.
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -3006,7 +3038,7 @@ Vegas, Nevada.
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3036,7 +3068,7 @@ DC.](//cdn.cnn.com/cnnnext/dam/assets/200630104649-01-mcconnell-mask-0511-large-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -3064,7 +3096,7 @@ DC.](//cdn.cnn.com/cnnnext/dam/assets/200630104649-01-mcconnell-mask-0511-large-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -3092,7 +3124,7 @@ DC.](//cdn.cnn.com/cnnnext/dam/assets/200630104649-01-mcconnell-mask-0511-large-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3126,7 +3158,7 @@ neighborhood of Los Angeles, California, U.S., on Tuesday, March 3,
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3152,7 +3184,7 @@ neighborhood of Los Angeles, California, U.S., on Tuesday, March 3,
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3178,7 +3210,7 @@ neighborhood of Los Angeles, California, U.S., on Tuesday, March 3,
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3212,7 +3244,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200116151331-the-us-capitol-large-teas
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3238,7 +3270,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200116151331-the-us-capitol-large-teas
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -3274,7 +3306,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200730000945-03-karen-bass-lead-image-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3306,7 +3338,7 @@ DC.](//cdn.cnn.com/cnnnext/dam/assets/180507173055-gina-haspel-0507---2-large-te
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3348,7 +3380,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/191203223350-devin-nunes-for-dantonio-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3380,7 +3412,7 @@ AP)](//cdn.cnn.com/cnnnext/dam/assets/200730135527-02-congress-big-tech-antitrus
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3422,7 +3454,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200715042036-teachers-medical-ppe-larg
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3448,7 +3480,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200715042036-teachers-medical-ppe-larg
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3492,7 +3524,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/170112174604-02-barack-obama-joe-biden
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -3518,7 +3550,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/170112174604-02-barack-obama-joe-biden
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_gallery_gallery">
 
@@ -3547,46 +3579,6 @@ Pool)](//cdn.cnn.com/cnnnext/dam/assets/200730141359-18b-john-lewis-funeral-0730
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">In pictures: Saying goodbye to John Lewis</span><span class="cd__headline-icon cnn-icon"></span>](/2020/07/25/politics/gallery/john-lewis-funeral-ceremonies/index.html)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
-
-<div class="cd__wrapper" data-analytics="_grid-small_article_">
-
-<div class="media">
-
-[![One-stop operator Vickie Gregorio with the Heartland Workforce
-Solutions talks to a jobseeker outside the workforce office in Omaha,
-Neb., Wednesday, July 15, 2020, as others seeking employment wait behind
-her. Nebraska reinstated job search requirements this week for most
-people claiming jobless benefits. Those unemployment insurance
-requirements were suspended in mid-March to help employees who had lost
-their jobs due to the Covid-19 coronavirus. (AP Photo/Nati
-Harnik)](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/07/30/politics/congress-expiring-unemployment-evictions-small-business-loans/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![One-stop operator Vickie Gregorio with the Heartland Workforce
-Solutions talks to a jobseeker outside the workforce office in Omaha,
-Neb., Wednesday, July 15, 2020, as others seeking employment wait behind
-her. Nebraska reinstated job search requirements this week for most
-people claiming jobless benefits. Those unemployment insurance
-requirements were suspended in mid-March to help employees who had lost
-their jobs due to the Covid-19 coronavirus. (AP Photo/Nati
-Harnik)](//cdn.cnn.com/cnnnext/dam/assets/200730192217-congress-unemployment-evictions-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">These relief programs are expiring unless Congress acts</span><span class="cd__headline-icon cnn-icon"></span>](/2020/07/30/politics/congress-expiring-unemployment-evictions-small-business-loans/index.html)
 
 </div>
 
