@@ -1391,6 +1391,32 @@ Show Description
 
 <div class="media">
 
+[![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/opinions/trump-fourth-debate-request-zelizer/index.html)
+
+<div class="img__preloader">
+
+</div>
+
+![](//cdn.cnn.com/cnnnext/dam/assets/200807151226-trump-biden-split-large-tease.jpg)
+
+</div>
+
+<div class="cd__content">
+
+### [<span class="cd__headline-text">Be careful what you wish for, Mr. President</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/opinions/trump-fourth-debate-request-zelizer/index.html)
+
+</div>
+
+</div>
+
+</div>
+
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+
+<div class="cd__wrapper" data-analytics="_grid-small_article_">
+
+<div class="media">
+
 [![trump veterans choice dale fact check bts
 vpx\_00002616](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/politics/trump-veterans-choice-paula-reid/index.html)
 
@@ -1413,7 +1439,7 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1443,7 +1469,7 @@ Jersey.](//cdn.cnn.com/cnnnext/dam/assets/200807193553-01-donald-trump-presser-0
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np2 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1475,7 +1501,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np0 cn__column--4np3">
+<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
 
 <div class="cd__wrapper" data-analytics="_grid-small_article_">
 
@@ -1501,7 +1527,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200807205542-donald-trump-august-7-202
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np1 cn__column--4np0">
+<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1545,7 +1571,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np1 cn__column--3np2 cn__column--4np1">
+<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1589,7 +1615,7 @@ Images)](//cdn.cnn.com/cnnnext/dam/assets/200808170232-02-trump-executive-order-
 
 </div>
 
-<div class="cn__column cn__column--2np0 cn__column--3np0 cn__column--4np2">
+<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
 
 <div class="cd__wrapper" data-analytics="_grid-small_video_video">
 
@@ -1612,32 +1638,6 @@ vpx\_00002616](//cdn.cnn.com/cnnnext/dam/assets/200808174304-trump-veterans-choi
 <div class="cd__content">
 
 ### [<span class="cd__headline-text">Trump shuts down briefing after he's fact-checked by reporter</span><span class="cd__headline-icon cnn-icon"></span>](/videos/politics/2020/08/08/trump-veterans-choice-dale-fact-check-bts-vpx.cnn)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="cn__column cn__column--2np1 cn__column--3np1 cn__column--4np3">
-
-<div class="cd__wrapper" data-analytics="_grid-small_article_">
-
-<div class="media">
-
-[![](data:image/gif;base64,R0lGODlhEAAJAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAAQAAkAAAIKlI+py+0Po5yUFQA7)](/2020/08/08/opinions/trump-fourth-debate-request-zelizer/index.html)
-
-<div class="img__preloader">
-
-</div>
-
-![](//cdn.cnn.com/cnnnext/dam/assets/200807151226-trump-biden-split-large-tease.jpg)
-
-</div>
-
-<div class="cd__content">
-
-### [<span class="cd__headline-text">Be careful what you wish for, Mr. President</span><span class="cd__headline-icon cnn-icon"></span>](/2020/08/08/opinions/trump-fourth-debate-request-zelizer/index.html)
 
 </div>
 

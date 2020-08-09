@@ -1705,10 +1705,22 @@ CNN </span>
     
     <div class="media">
     
-    [![MAC is latest college conference to postpone fall
-    sports](https://img.bleacherreport.net/cms/media/image/82/f9/4d/28/debb/4522/ad94/db014cf0f455/crop_exact_gettyimages-1187023101-612x612.jpg?w=460&h=259&q=75)](https://bleacherreport.com/articles/2903658-mac-reportedly-cancels-football-season-amid-covid-19-intends-to-play-in-spring?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial)
+    [![This NBA rivalry has been brewing for
+    years](https://img.bleacherreport.net/cms/media/image/13/d1/f3/82/4988/47c2/9f05/7e77d5e1b1bf/crop_exact_dameandpg__1_.jpg?w=460&h=259&q=75)](https://bleacherreport.com/articles/2903713-damian-lillard-rivalry-with-paul-george-pat-beverley-has-been-brewing-for-years?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial)
     
     </div>
+    
+    <div class="cd__content">
+    
+    ### [<span class="cd__headline-text">This NBA rivalry has been brewing for years</span><span class="cd__headline-icon cnn-icon"></span>](https://bleacherreport.com/articles/2903713-damian-lillard-rivalry-with-paul-george-pat-beverley-has-been-brewing-for-years?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial)
+    
+    </div>
+    
+    </div>
+
+  - 
+    
+    <div class="cd__wrapper" data-analytics="US sports_list-hierarchical-xs_hyperlink_">
     
     <div class="cd__content">
     
@@ -1761,18 +1773,6 @@ CNN </span>
     <div class="cd__content">
     
     ### [<span class="cd__headline-text">NFL player arrested on domestic violence charges</span><span class="cd__headline-icon cnn-icon"></span>](https://bleacherreport.com/articles/2903614-washington-nfl-rb-derrius-guice-arrested-on-domestic-violence-charges?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial)
-    
-    </div>
-    
-    </div>
-
-  - 
-    
-    <div class="cd__wrapper" data-analytics="US sports_list-hierarchical-xs_hyperlink_">
-    
-    <div class="cd__content">
-    
-    ### [<span class="cd__headline-text">Tiger narrowly makes cut at PGA Championship</span><span class="cd__headline-icon cnn-icon"></span>](https://bleacherreport.com/articles/2903627-tiger-woods-narrowly-makes-cut-with-2nd-round-72-at-2020-pga-championship?utm_source=cnn.com&utm_medium=referral&utm_campaign=editorial)
     
     </div>
     
