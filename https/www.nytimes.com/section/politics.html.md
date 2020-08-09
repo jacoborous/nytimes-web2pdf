@@ -191,28 +191,28 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
-    Schaff/The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/merlin_175432500_d6a89223-8234-4d82-a674-6c57f7b3cec7-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ryan
+    Hermens/Rapid City Journal, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/07/us/politics/07dc-virus-cong-01/07dc-virus-cong-01-thumbStandard.jpg)](/2020/08/07/us/politics/trump-congress-stimulus.html)
+    [![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbStandard.jpg)](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
     
     </div>
     
-    ## [Trump Threatens to Bypass Congress as Stimulus Talks Fail Again](/2020/08/07/us/politics/trump-congress-stimulus.html)
+    ## [How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
     
-    Democrats said the talks had been “disappointing,” and President
-    Trump promised to use executive orders to provide relief if no
-    agreement could be reached.
+    After Ms. Noem, the South Dakota governor, flew to Washington on Air
+    Force One, rumors about her ambitions ensued. She made a second trip
+    to smooth things over with Mike Pence.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Jim
-    Tankersley</span></span>
+    <span class="css-1baulvz" itemprop="name">Jonathan Martin</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Maggie
+    Haberman</span></span>
     
     </div>
 
@@ -325,25 +325,24 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/2020/08/08/us/politics/voting-nov-3-election.html)
+    [](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-VOTING-print1/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Voting Will End Nov. 3. The Legal Battle Probably Won’t.
+    ## Sidestepping Congress, Trump Signs Executive Measures for Pandemic Relief
     
-    As the two parties clash over how to conduct an election in a
-    pandemic, President Trump’s litigiousness and unfounded claims of
-    fraud have increased the likelihood of epic postelection court
-    fights.
+    President Trump signed the directives after two weeks of stalemate
+    with Democrats over a recovery package, using legally dubious
+    measures to try to restore lapsed benefits.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
-    S. Schmidt <span>and</span> Maggie Haberman</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim Tankersley</span>
     
     </div>
     
@@ -361,24 +360,26 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
+    [](/video/us/politics/100000007279838/trump-coronavirus-relief-order.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    After Ms. Noem, the South Dakota governor, flew to Washington on Air
-    Force One, rumors about her ambitions ensued. She made a second trip
-    to smooth things over with Mike Pence.
+    ## Trump Sidesteps Congress on Coronavirus Relief Actions
+    
+    President Trump signed four actions on coronavirus relief Saturday
+    after Congress negotiations stalled. It’s unclear what authority he
+    has to do so, and the orders are likely to be challenged in the
+    courts.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan Martin <span>and</span> Maggie
-    Haberman</span>
+    By <span class="css-1n7hynb">Reuters</span>
     
     </div>
     
@@ -391,6 +392,40 @@ Advertisement
     </div>
 
 3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/books/08rickgates-pix1/08rickgates-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir
+    
+    “Wicked Game” is slated for release in October, at the height of the
+    presidential campaign, but Mr. Gates says, “It’s not a salacious
+    book.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexandra Alter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -426,78 +461,7 @@ Advertisement
     
     </div>
 
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News analysis</span>
-    
-    ## Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.
-    
-    Emboldened by Republican divisions and a favorable political
-    landscape, the speaker is refusing to agree to a narrow relief
-    measure, unbothered by charges that she is an impediment to a deal.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
-    Nicholas Fandos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
 5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/trump-russia.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-magazine-takeaways-pix1/07xp-magazine-takeaways-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump, Russia and an Intelligence Document: Key Moments
-    
-    Officials told The New York Times Magazine that the draft of a
-    classified document reporting that Russia favored President Trump in
-    the 2020 election was changed to soften its assessment.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alan Yuhas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
     
     <div class="css-1cp3ece">
     
@@ -532,7 +496,7 @@ Advertisement
     
     </div>
 
-7.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -565,7 +529,7 @@ Advertisement
     
     </div>
 
-8.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -600,7 +564,7 @@ Advertisement
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -637,7 +601,7 @@ Advertisement
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -662,6 +626,43 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Robert Draper</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/us/politics/trump-biden-polls-interview.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08moments1/08moments1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">News Analysis</span>
+    
+    ## Trump’s Axios Interview, Kanye West’s Campaign: The Latest in the 2020 Race
+    
+    President Trump wants to brand Joe Biden as a doddering gaffe
+    machine. But the incumbent’s own rhetoric causes so much controversy
+    it is overwhelming the strategy.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span>
+    Annie Karni</span>
     
     </div>
     

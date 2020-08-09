@@ -68,6 +68,30 @@
 
 <div id="site-content" role="main">
 
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
 <div id="collection-style" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -136,11 +160,29 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adraint
-    Bereal for The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/merlin_175014747_4c05eddd-69f2-45bb-84bd-a8b4a02bd8cf-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+    Starghill Jr. for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/06/fashion/05AFRICAPRINTS-Yetunde-Olukoya/merlin_175115193_9f3bbae7-3d12-4a1d-9bc6-3fa8458f5c26-jumbo.jpg)
     
     <div class="css-gjijuv">
+    
+    ## [White Customers, Black Fabrics](/2020/08/06/style/white-customers-black-fabrics.html)
+    
+    Black-owned businesses make amazing clothing inspired by African
+    patterns. What happens when, inevitably, everyone else starts buying
+    them?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Shira
+    Telushkin</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adraint
+    Bereal for The New York
+    Times</span>](https://static01.nyt.com/images/2020/07/28/fashion/00THELOOK-UT1/00THELOOK-UT1-videoLarge-v4.jpg)
+    
+    <div class="css-10wtrbd">
     
     ### The Look
     
@@ -157,7 +199,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-videoLarge-v3.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
@@ -172,7 +214,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
     T. Gellerson for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/08/fashion/08KATIE-HILL1/08KATIE-HILL1-videoLarge-v2.jpg)
     
@@ -189,11 +231,17 @@ Supported by
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### Go-To-Gifts
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/29/fashion/00GOTOWED-GIFTS-COMBO/00GOTOWED-GIFTS-COMBO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
-    
-    ### Go-To-Gifts
     
     ## [Thoughtful Gift Ideas That Newlyweds Will Actually Use](/2020/08/08/fashion/weddings/thoughtful-gift-ideas-that-newlyweds-will-actually-use.html)
     
@@ -206,13 +254,7 @@ Supported by
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
     by Matija
     Medved</span>](https://static01.nyt.com/images/2019/09/25/fashion/loveletter/loveletter-videoLarge-v3.png)
     
@@ -228,7 +270,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     Kibbo</span>](https://static01.nyt.com/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-videoLarge.png)
     
     <div class="css-10wtrbd">
@@ -243,7 +285,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Herman
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Herman
     Miller</span>](https://static01.nyt.com/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -259,7 +301,7 @@ Supported by
     
     </div>
 
-4.  ### Mini-Vows
+5.  ### Mini-Vows
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/fashion/09Fineberg/09Fineberg-videoLarge.jpg)
     
@@ -273,24 +315,6 @@ Supported by
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Vincent M.
     Mallozzi</span></span>
-    
-    </div>
-
-5.  ### Mini-Vows
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caitlin
-    Nielson</span>](https://static01.nyt.com/images/2020/08/09/fashion/09boerner-02/09boerner-02-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Finally an Upgrade From the ‘Training Rings’](/2020/08/07/fashion/weddings/finally-an-upgrade-from-the-training-rings.html)
-    
-    Ted Boerner and Rabbi Oren Postrel found the rapport from the start.
-    Their temporary rings came a couple of years later.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nina
-    Reyes</span></span>
     
     </div>
 
@@ -1437,6 +1461,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/at-home/office-return-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/business/09ah-returntowork/09ah-returntowork-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Prepare for Your Return to the Office
+    
+    Nervous about the possibility of going back to the workplace? Here’s
+    what to take into consideration.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sara Aridi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/at-home/coronavirus-newspaper-basket.html)
     
     <div class="css-79elbk">
@@ -1463,7 +1520,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -1496,7 +1553,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -1531,7 +1588,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -1563,7 +1620,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -1595,7 +1652,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -1628,7 +1685,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -1664,7 +1721,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -1699,7 +1756,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -1721,39 +1778,6 @@ Advertisement
     
     By <span class="css-1n7hynb">Daniel Arnold <span>and</span> Dodai
     Stewart</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/realestate/07SUBURBS-COMBO/07SUBURBS-COMBO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Leaving New York: How to Choose the Right Suburb
-    
-    Set your priorities — walkable town, easy commute, good schools,
-    waterfront access or something else? Then start exploring.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Julie Lasky</span>
     
     </div>
     

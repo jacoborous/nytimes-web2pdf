@@ -68,6 +68,30 @@
 
 <div id="site-content" role="main">
 
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
 <div id="collection-arts" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -388,6 +412,73 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/books/shirley-ann-grau-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/obituaries/07Grau1/07Grau1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Shirley Ann Grau, Writer Whose Focus Was the South, Dies at 91
+    
+    In books like her novel “The Keepers of The House,” which won a
+    Pulitzer Prize, Ms. Grau wrote unsparingly about race relations.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katharine Q. Seelye</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/books/08rickgates-pix1/08rickgates-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir
+    
+    “Wicked Game” is slated for release in October, at the height of the
+    presidential campaign, but Mr. Gates says, “It’s not a salacious
+    book.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexandra Alter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/theater/godspell-review-berkshires.html)
     
     <div class="css-79elbk">
@@ -418,7 +509,7 @@ Advertisement
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -453,7 +544,7 @@ Advertisement
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -486,7 +577,7 @@ Advertisement
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -522,7 +613,7 @@ Advertisement
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -557,7 +648,7 @@ Advertisement
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -589,7 +680,7 @@ Advertisement
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -622,7 +713,7 @@ Advertisement
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -645,75 +736,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Edmund Lee</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/books/bernard-bailyn-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/obituaries/08bailyn-obit1/00bailyn-toppix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Bernard Bailyn, Eminent Historian of Early America, Dies at 97
-    
-    On topic after topic he shifted the direction of scholarly inquiry,
-    winning two Pulitzers and a Bancroft Prize for his innovative
-    research and groundbreaking works.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Renwick McLean <span>and</span>
-    Jennifer Schuessler</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/theater/brent-carver-dead.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/09/obituaries/09Carver-obit4/07Carver4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Brent Carver, Versatile Tony-Winning Actor, Dies at 68
-    
-    He played Hamlet, the wizard Gandalf and Tevye in “Fiddler on the
-    Roof.” But he was probably best known for “Kiss of the Spider
-    Woman.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Anita Gates</span>
     
     </div>
     

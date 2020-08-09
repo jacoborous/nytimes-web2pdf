@@ -837,7 +837,7 @@ Advertisement
     
     [](/2020/08/07/health/coronavirus-superspreading-contagion.html)
     
-    ## Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu
+    ## Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu
     
     <div class="css-9t0aj2 ea5icrr0">
     

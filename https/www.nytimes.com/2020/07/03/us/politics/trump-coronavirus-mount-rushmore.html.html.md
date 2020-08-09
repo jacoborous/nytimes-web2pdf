@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -106,7 +104,7 @@ Message</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -154,7 +152,20 @@ Message</span>
     </div>
     
     [Election
-    Updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/07/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Hawaii
+    Results](https://www.nytimes.com/interactive/2020/08/08/us/elections/results-hawaii-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -168,32 +179,6 @@ Message</span>
     
     [Biden’s V.P.
     Search](https://www.nytimes.com/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Map of
-    Donations](https://www.nytimes.com/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [Delegate
-    Count](https://www.nytimes.com/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -241,8 +226,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -268,8 +252,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -327,8 +310,7 @@ Karni</span>](https://www.nytimes.com/by/annie-karni)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 3, 2020Updated July 7,
-    2020
+    Published July 3, 2020Updated July 7, 2020
     
     </div>
 
@@ -336,7 +318,7 @@ Karni</span>](https://www.nytimes.com/by/annie-karni)
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -410,8 +392,7 @@ country. More than just a partisan rally, it underscored the extent to
 which Mr. Trump is appealing to a subset of Americans to [carry him to a
 second
 term](https://www.nytimes.com/2020/07/07/podcasts/the-daily/trump-mount-rushmore-speech.html)
-by changing the subject and appealing to fear and
-division.
+by changing the subject and appealing to fear and division.
 
 </div>
 
@@ -444,7 +425,7 @@ Rushmore reveals about his re-election campaign.</span>
 
 <div class="css-f2fzwx e1drnplw2">
 
-<div data-aria-labelledby="modal-title" data-role="region">
+<div data-aria-labelledby="modal-title" role="region">
 
 <div id="modal-title" class="css-mln36k">
 
@@ -456,8 +437,7 @@ transcript
 
 </div>
 
-<span>Back to The
-Daily</span>
+<span>Back to The Daily</span>
 
 <div class="css-f6lhej">
 
@@ -1068,40 +1048,6 @@ rival](https://www.nytimes.com/2020/06/05/us/politics/muriel-bowser-trump.html).
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: 2020 Election](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-01T01:26:45.732Z
-
-</div>
-
-</div>
-
-  - [Kamala Harris, a top vice-presidential contender, confronts double
-    standards.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-29fdff45)
-  - [Karen Bass and Susan Rice are rising on Biden’s vice-presidential
-    shortlist.](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-13ec3d9c)
-  - [Trump says Russian bounties to kill U.S. troops ‘never took
-    place.’](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-49e9a016)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes.com/2020/07/31/us/elections/biden-vs-trump.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -1166,8 +1112,7 @@ least five states — Alabama, Alaska, Kansas, North Carolina and South
 Carolina — reported their highest single day of cases yet. Newly
 reported cases of the virus were rising in all but a handful of states,
 and many large cities, including Houston, Dallas, Jacksonville and Los
-Angeles, were seeing alarming
-growth.
+Angeles, were seeing alarming growth.
 
 </div>
 
@@ -1376,8 +1321,7 @@ some of the nation’s most revered presidents.
 
 “Mount Rushmore, improved,” one aide wrote.
 
-Mitch Smith contributed reporting from
-Chicago.
+Mitch Smith contributed reporting from Chicago.
 
 </div>
 
@@ -1421,7 +1365,7 @@ Chicago.
 
 # Our 2020 Election Guide
 
-Updated July 31, 2020
+Updated Aug. 8, 2020
 
   - 
     
@@ -1429,10 +1373,10 @@ Updated July 31, 2020
     
     ## The Latest
     
-      - President Trump’s assault on the Postal Service is intersecting
-        with his attacks on mail-in voting. [Voting rights groups say it
-        is a recipe for
-        disaster.](https://www.nytimes.com/2020/07/31/us/politics/trump-usps-mail-delays.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+      - With 160 lawsuits filed over voting rules and President Trump's
+        baseless claims of fraud, Election Day in America [could become
+        Election
+        Month](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     
@@ -1491,8 +1435,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1536,8 +1479,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

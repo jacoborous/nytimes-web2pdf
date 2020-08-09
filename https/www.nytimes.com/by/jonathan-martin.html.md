@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -143,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -185,6 +182,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job
+    
+    After Ms. Noem, the South Dakota governor, flew to Washington on Air
+    Force One, rumors about her ambitions ensued. She made a second trip
+    to smooth things over with Mike Pence.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jonathan Martin <span>and</span> Maggie
+    Haberman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/us/politics/joseph-biden-vice-president.html)
     
     <div class="css-79elbk">
@@ -202,8 +234,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Jonathan Martin, Alexander Burns
-    <span>and</span> Katie
-    Glueck</span>
+    <span>and</span> Katie Glueck</span>
     
     </div>
     
@@ -215,7 +246,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -250,7 +281,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -273,8 +304,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Maggie Haberman, Jonathan Martin
-    <span>and</span> Reid J.
-    Epstein</span>
+    <span>and</span> Reid J. Epstein</span>
     
     </div>
     
@@ -286,7 +316,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -321,7 +351,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -343,8 +373,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan
-    Martin</span>
+    By <span class="css-1n7hynb">Jonathan Martin</span>
     
     </div>
     
@@ -356,7 +385,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -401,7 +430,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -443,7 +472,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -478,7 +507,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -500,43 +529,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jonathan
-    Martin</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/us/politics/trump-2020-campaign-problems.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/02/us/politics/02trump-campaign1/02trump-campaign1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Why June Was Such a Terrible Month for Trump
-    
-    Last month represented the political nadir of President Trump’s
-    three and a half years in office, thanks to self-inflicted wounds as
-    he played to his base and missteps by a fractured campaign.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman, Jonathan Martin
-    <span>and</span> Alexander Burns</span>
+    By <span class="css-1n7hynb">Jonathan Martin</span>
     
     </div>
     
@@ -554,24 +547,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -595,8 +587,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -655,8 +646,7 @@ story](#after-mid2)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

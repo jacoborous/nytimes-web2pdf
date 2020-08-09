@@ -668,10 +668,10 @@ showed ambulances, doctors, tears.
 <div class="css-53u6y8">
 
 By the third week in April, there were [more
-than 420,000](https://www.nytimes.com/2020/04/13/nyregion/coronavirus-new-york-update.html)
-cases in New York. More than 30,000 people had died. I dug my
-thermometer out of the toiletries drawer and kept it on my desk as I
-worked, checking my temperature repeatedly, afraid the virus was somehow
+than 100,000](https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary-04142020-1.pdf)
+cases in New York. More than 6,000 people had died. I dug my thermometer
+out of the toiletries drawer and kept it on my desk as I worked,
+checking my temperature repeatedly, afraid the virus was somehow
 sneaking up on me.
 
 Delicate pink cherry blossoms unfurled in Central Park. I walked among

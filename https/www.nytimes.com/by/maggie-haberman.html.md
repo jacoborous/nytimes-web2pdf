@@ -62,6 +62,30 @@
 
 <div id="site-content" role="main">
 
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
 <div id="byline" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -148,6 +172,41 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sidestepping Congress, Trump Signs Executive Measures for Pandemic Relief
+    
+    President Trump signed the directives after two weeks of stalemate
+    with Democrats over a recovery package, using legally dubious
+    measures to try to restore lapsed benefits.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/us/politics/voting-nov-3-election.html)
     
     <div class="css-79elbk">
@@ -178,7 +237,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -213,7 +272,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -248,7 +307,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -282,7 +341,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -316,7 +375,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -351,7 +410,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -386,7 +445,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -421,7 +480,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -447,41 +506,6 @@ Advertisement
     
     By <span class="css-1n7hynb">Katie Rogers <span>and</span> Maggie
     Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/us/politics/trump-delay-2020-election.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30trump-election1/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Floats an Election Delay, and Republicans Shoot It Down
-    
-    The president’s suggestion that the Nov. 3 vote could be delayed —
-    something he cannot do on his own — drew unusually firm Republican
-    resistance and signaled worry about his re-election bid.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Maggie Haberman, Jonathan Martin
-    <span>and</span> Reid J. Epstein</span>
     
     </div>
     

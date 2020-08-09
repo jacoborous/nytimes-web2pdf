@@ -68,6 +68,30 @@
 
 <div id="site-content" role="main">
 
+<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
+
+<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
+
+Advertisement
+
+</div>
+
+[Continue reading the main story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
 <div id="collection-books" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -139,29 +163,27 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Francis
-    Miller/The LIFE Picture Collection, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/09/books/review/07miles/07miles-videoLarge-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erik
+    S Lesser/EPA, via
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/08/books/08rickgates-pix1/08rickgates-pix1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/09/books/review/07miles/07miles-thumbStandard.jpg)](/2020/07/07/books/review/the-vapors-david-hill.html)
+    [![](https://static01.nyt.com/images/2020/08/08/books/08rickgates-pix1/08rickgates-pix1-thumbStandard.jpg)](/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
     
     </div>
     
-    ### nonfiction
+    ## [Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir](/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
     
-    ## [Cavorting in Hot Springs, Ark., During Its Sin-Soaked Heyday](/2020/07/07/books/review/the-vapors-david-hill.html)
-    
-    “The Vapors,” by David Hill, brings the mobsters, gamblers, drinkers
-    and crooked politicians to life in an exuberant history of a
-    now-forgotten capital of sleaze.
+    “Wicked Game” is slated for release in October, at the height of the
+    presidential campaign, but Mr. Gates says, “It’s not a salacious
+    book.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
-    Miles</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Alexandra
+    Alter</span></span>
     
     </div>
 
@@ -190,7 +212,33 @@ Supported by
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Francis
+        Miller/The LIFE Picture Collection, via Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/09/books/review/07miles/07miles-videoLarge-v2.jpg)
+        
+        <div class="css-10wtrbd">
+        
+        ### nonfiction
+        
+        ## [Cavorting in Hot Springs, Ark., During Its Sin-Soaked Heyday](/2020/07/07/books/review/the-vapors-david-hill.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/09/books/review/07miles/07miles-thumbStandard.jpg)](/2020/07/07/books/review/the-vapors-david-hill.html)
+        
+        </div>
+        
+        “The Vapors,” by David Hill, brings the mobsters, gamblers,
+        drinkers and crooked politicians to life in an exuberant history
+        of a now-forgotten capital of sleaze.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Jonathan
+        Miles</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jillian
         Tamaki</span>](https://static01.nyt.com/images/2020/08/09/books/review/09ByTheBook/09ByTheBook-videoLarge.jpg)
         
         <div class="css-10wtrbd">
@@ -211,30 +259,6 @@ Supported by
         charming he can be.”
         
         <span class="css-me3p27"></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lisa
-        Tegtmeier</span>](https://static01.nyt.com/images/2020/08/09/books/review/09Waite-Romance/09Waite-Romance-videoLarge.jpg)
-        
-        <div class="css-10wtrbd">
-        
-        ### Fiction
-        
-        ## [Hot and Bothered: Four New Romance Novels](/2020/08/07/books/review/summer-romance-novels-vanessa-riley.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/09/books/review/09Waite-Romance/09Waite-Romance-thumbStandard.jpg)](/2020/08/07/books/review/summer-romance-novels-vanessa-riley.html)
-        
-        </div>
-        
-        Looking for a pitch-perfect summer escape? We’ve got some
-        recommendations.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Olivia
-        Waite</span></span>
         
         </div>
 
@@ -265,21 +289,19 @@ Supported by
 
 2.  ### Fiction
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miranda
-    Barnes for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/04/books/review/04Hughes/04Hughes-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lisa
+    Tegtmeier</span>](https://static01.nyt.com/images/2020/08/09/books/review/09Waite-Romance/09Waite-Romance-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [In ‘Luster,’ Young Black Women Feel Uneasy in a White American Home](/2020/08/06/books/review/raven-leilani-luster.html)
+    ## [Hot and Bothered: Four New Romance Novels](/2020/08/07/books/review/summer-romance-novels-vanessa-riley.html)
     
-    Raven Leilani’s debut novel follows an interracial,
-    intergenerational affair as it leads to an unusual redefinition of
-    family.
+    Looking for a pitch-perfect summer escape? We’ve got some
+    recommendations.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jazmine
-    Hughes</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Olivia
+    Waite</span></span>
     
     </div>
 
@@ -470,6 +492,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/books/shirley-ann-grau-dead.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/07/obituaries/07Grau1/07Grau1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Shirley Ann Grau, Writer Whose Focus Was the South, Dies at 91
+    
+    In books like her novel “The Keepers of The House,” which won a
+    Pulitzer Prize, Ms. Grau wrote unsparingly about race relations.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katharine Q. Seelye</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/books/review/drew-dernavich-elvin-link-please-report-to-the-principals-office.html)
     
     <div class="css-79elbk">
@@ -499,7 +554,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -535,7 +590,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -568,7 +623,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -603,7 +658,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -637,7 +692,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -669,7 +724,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -705,7 +760,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -735,7 +790,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -759,41 +814,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Amitava Kumar</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/books/review/eileen-alexander-love-in-the-blitz-james-nolan-jr-atomic-doctors.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/04/books/WarStoriesColumn1/WarStoriesColumn1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">nonfiction</span>
-    
-    ## Experiencing War Far From the Battlefield
-    
-    Two new books look at World War II from the perspectives of
-    outsiders on the fringes of conflict.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Thomas E. Ricks</span>
     
     </div>
     

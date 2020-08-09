@@ -546,6 +546,74 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/business/trump-stimulus-recovery.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/multimedia/08dc-trump-assess/merlin_172393002_b15caa8d-bc81-4767-b320-0a71445d953c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">news analysis</span>
+    
+    ## Trump’s Go-It-Alone Stimulus Won’t Do Much to Lift the Recovery
+    
+    A series of executive actions will provoke lawsuits but is unlikely
+    to stoke faster growth in an economy that has cooled this summer.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jim Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/at-home/office-return-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/business/09ah-returntowork/09ah-returntowork-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How to Prepare for Your Return to the Office
+    
+    Nervous about the possibility of going back to the workplace? Here’s
+    what to take into consideration.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sara Aridi</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/health/cdc-legionnaires-coronavirus.html)
     
     <div class="css-79elbk">
@@ -573,7 +641,7 @@ Advertisement
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -607,7 +675,7 @@ Advertisement
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -640,7 +708,7 @@ Advertisement
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -674,7 +742,7 @@ Advertisement
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -706,7 +774,7 @@ Advertisement
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -730,7 +798,7 @@ Advertisement
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -764,7 +832,7 @@ Advertisement
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -789,70 +857,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Roxane Gay</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/business/media/billboard-advertising-pandemic.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/business/07Virus-Billboards-1/merlin_175303974_3d70ef93-8a0f-426c-92ec-6b80d220b20b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## After Taking a Pandemic Hit, Billboard Ad Companies See Signs of Hope
-    
-    The virus pummeled sales of ads on outdoor and transit displays, and
-    a second wave could hamper a recovery. But executives believe the
-    worst may be over for their business.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tiffany Hsu</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/business/laid-off-rehired-laid-off-again-and-now-without-a-weekly-600-boost.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/business/07markets-brf-layoff/merlin_175402275_5dfa702d-9008-470c-aff0-0e3b61e03357-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Laid off, rehired, laid off again, and now without a weekly $600 boost.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Gillian Friedman</span>
     
     </div>
     

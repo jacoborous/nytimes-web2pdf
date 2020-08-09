@@ -152,29 +152,53 @@ Supported by
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-threeByTwoMediumAt2X-v2.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ken
+    Ruinard/The Independent-Mail, via Associated
+    Press</span>](https://static01.nyt.com/images/2020/09/07/multimedia/07xp-dress-code/07xp-dress-code-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
     <div class="css-1hyfx7x">
     
-    [![](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-thumbStandard.jpg)](/2020/08/07/us/sturgis-motorcyle-rally.html)
+    [![](https://static01.nyt.com/images/2020/09/07/multimedia/07xp-dress-code/07xp-dress-code-thumbStandard-v2.jpg)](/2020/08/08/us/pajamas-school-springfield-dress-code.html)
     
     </div>
     
-    ## [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](/2020/08/07/us/sturgis-motorcyle-rally.html)
+    ## [No Pajama Pants Allowed While Learning From Home, Illinois District Says](/2020/08/08/us/pajamas-school-springfield-dress-code.html)
     
-    Tens of thousands of motorcyclists roared into the western South
-    Dakota community on Friday, lining Main Street from end to end, for
-    the start of the annual Sturgis Motorcycle Rally.
+    The Springfield, Ill., school district said it would require
+    students to follow its dress code regardless of how classes are
+    held.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mark
-    Walker</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Will
+    Wright</span></span>
     
     </div>
 
-2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lathan
+2.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-threeByTwoMediumAt2X-v2.jpg)
+        
+        <div class="css-1r9cexg">
+        
+        <div class="css-1ox3lt4">
+        
+        [![](https://static01.nyt.com/images/2020/08/07/us/07VIRUS-STURGIS/07VIRUS-STURGIS-thumbStandard.jpg)](/2020/08/07/us/sturgis-motorcyle-rally.html)
+        
+        </div>
+        
+        ## [‘If We Get It, We Chose to Be Here’: Despite Virus, Thousands Converge on Sturgis for Huge Rally](/2020/08/07/us/sturgis-motorcyle-rally.html)
+        
+        Tens of thousands of motorcyclists roared into the western South
+        Dakota community on Friday, lining Main Street from end to end,
+        for the start of the annual Sturgis Motorcycle Rally.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+        <span class="css-1baulvz last-byline" itemprop="name">Mark
+        Walker</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lathan
         Goumas/News & Daily Advance, via Associated
         Press</span>](https://static01.nyt.com/images/2020/08/07/us/07FALWELL/merlin_138408084_e14442df-3463-4fee-97d1-3b8713c33f4a-threeByTwoMediumAt2X.jpg)
         
@@ -198,51 +222,27 @@ Supported by
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-        Wickens for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>General
+        Photograph Collection/UTSA Libraries Special
+        Collections</span>](https://static01.nyt.com/images/2020/08/07/obituaries/07overlooked-idar01/07overlooked-idar01-jumbo.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/07/us/07virus-lostsummer1/merlin_174847689_c980ca80-f75b-47c2-9851-5c954ced82a6-thumbStandard.jpg)](/2020/08/07/us/remote-learning-fall-2020.html)
+        [![](https://static01.nyt.com/images/2020/08/07/obituaries/07overlooked-idar01/07overlooked-idar01-thumbStandard.jpg)](/2020/08/07/obituaries/jovita-idar-overlooked.html)
         
         </div>
         
-        ## [Lost Summer: How Schools Missed a Chance to Fix Remote Learning](/2020/08/07/us/remote-learning-fall-2020.html)
+        ## [Overlooked No More: Jovita Idár, Who Promoted Rights of Mexican-Americans and Women](/2020/08/07/obituaries/jovita-idar-overlooked.html)
         
-        Education leaders spent months preparing to reopen classrooms.
-        But with online learning set to continue for millions of
-        students this fall, schools must catch up with reality.
+        As a teacher, writer, editor and activist, Idár preserved
+        Mexican culture in South Texas and encouraged women to pursue an
+        education and push for equal rights.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Dana
-        Goldstein</span></span>
-        
-        </div>
-    
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Grant
-        Hindsley for The New York
-        Times</span>](https://static01.nyt.com/images/2020/09/03/us/03CHAZ1/merlin_174979071_1ce12ee2-37f8-44d8-8a9c-d593f10b64ca-threeByTwoMediumAt2X.jpg)
-        
-        <div class="css-1r9cexg">
-        
-        <div class="css-1ox3lt4">
-        
-        [![](https://static01.nyt.com/images/2020/09/03/us/03CHAZ1/03CHAZ1-thumbStandard.jpg)](/2020/08/07/us/defund-police-seattle-protests.html)
-        
-        </div>
-        
-        ## [Abolish the Police? Those Who Survived the Chaos in Seattle Aren’t So Sure](/2020/08/07/us/defund-police-seattle-protests.html)
-        
-        What is it like when a city abandons a neighborhood and the
-        police vanish? Business owners describe a harrowing experience
-        of calling for help and being left all alone.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Nellie
-        Bowles</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Jennifer
+        Medina</span></span>
         
         </div>
 
@@ -299,6 +299,196 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sidestepping Congress, Trump Signs Executive Measures for Pandemic Relief
+    
+    President Trump signed the directives after two weeks of stalemate
+    with Democrats over a recovery package, using legally dubious
+    measures to try to restore lapsed benefits.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/video/us/politics/100000007279838/trump-coronavirus-relief-order.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## Trump Sidesteps Congress on Coronavirus Relief Actions
+    
+    President Trump signed four actions on coronavirus relief Saturday
+    after Congress negotiations stalled. It’s unclear what authority he
+    has to do so, and the orders are likely to be challenged in the
+    courts.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Reuters</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/08/08/us/elections/results-hawaii-house-district-1-primary-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/hawaii-standard/hawaii-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hawaii Primary Election Results: First Congressional District
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/08/08/us/elections/results-hawaii-primary-elections.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/hawaii-standard/hawaii-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Live: Hawaii Primary Election Results 2020
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/08/08/us/elections/results-hawaii-house-district-2-primary-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/hawaii-standard/hawaii-standard-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hawaii Primary Election Results: Second Congressional District
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/books/rick-gates-trump-mueller-wicked-game.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/books/08rickgates-pix1/08rickgates-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Rick Gates, Ex-Trump Aide and Mueller Witness, Is Publishing a Memoir
+    
+    “Wicked Game” is slated for release in October, at the height of the
+    presidential campaign, but Mr. Gates says, “It’s not a salacious
+    book.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alexandra Alter</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/obituaries/robbie-waters-dead-coronavirus.html)
     
     <div class="css-79elbk">
@@ -328,7 +518,7 @@ Advertisement
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -361,7 +551,7 @@ Advertisement
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +587,7 @@ Advertisement
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -422,214 +612,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Reuters</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/08/us/politics/08trump-noem1/08trump-noem1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How Kristi Noem, Mt. Rushmore and Trump Fueled Speculation About Pence’s Job
-    
-    After Ms. Noem, the South Dakota governor, flew to Washington on Air
-    Force One, rumors about her ambitions ensued. She made a second trip
-    to smooth things over with Mike Pence.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jonathan Martin <span>and</span> Maggie
-    Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/merlin_175454148_1e78cac3-71ad-4b03-9e30-8f47b4d5da81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
-    
-    ## Trump Threatens to Use Executive Order for ‘Critical Relief’
-    
-    Though it’s unclear whether he has the authority to do so, President
-    Trump said on Friday that if Congress did not reach an agreement, he
-    would act unilaterally to extend a coronavirus economic aid package.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Reuters</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">News analysis</span>
-    
-    ## Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.
-    
-    Emboldened by Republican divisions and a favorable political
-    landscape, the speaker is refusing to agree to a narrow relief
-    measure, unbothered by charges that she is an impediment to a deal.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
-    Nicholas Fandos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/05/nyregion/05xp-virus-aircon/05xp-virus-aircon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow
-    
-    Indoor air is riskier than outdoor air. So what do you do if it’s
-    really hot out?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Heather Murphy</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/us/pajamas-school-springfield-dress-code.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/09/07/multimedia/07xp-dress-code/07xp-dress-code-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## No Pajama Pants Allowed While Learning From Home, Illinois District Says
-    
-    The Springfield, Ill., school district said it would require
-    students to follow its dress code regardless of how classes are
-    held.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Will Wright</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/08/world/coronavirus-updates.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
-    
-    Talks on a new U.S. pandemic relief package are stalled and its
-    crucial benefits are expiring. President Trump said he would use
-    executive orders to provide aid, but it is unclear whether he has
-    the power to do so.
-    
-    <div class="css-1nqbnmb ea5icrr0">
     
     </div>
     

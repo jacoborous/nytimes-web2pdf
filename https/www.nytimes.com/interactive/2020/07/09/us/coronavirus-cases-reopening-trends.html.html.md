@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -71,8 +69,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">How
-Coronavirus Cases Have Risen Since States
-Reopened</span>
+Coronavirus Cases Have Risen Since States Reopened</span>
 
 </div>
 
@@ -94,7 +91,7 @@ Reopened</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -134,14 +131,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -161,8 +158,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -180,15 +176,14 @@ story](#after-top)
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # How Coronavirus Cases Have Risen Since States Reopened
 
 <div class="css-1vegfwe interactive-byline-container">
 
 By [<span class="css-1baulvz last-byline" itemprop="name">Lazaro
-Gamio</span>](https://www.nytimes.com/by/lazaro-gamio)July 9,
-2020
+Gamio</span>](https://www.nytimes.com/by/lazaro-gamio)July 9, 2020
 
 </div>
 
@@ -196,7 +191,7 @@ Gamio</span>](https://www.nytimes.com/by/lazaro-gamio)July 9,
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -213,7 +208,7 @@ Gamio</span>](https://www.nytimes.com/by/lazaro-gamio)July 9,
 
 </div>
 
-<div id="coronavirus-cases-reopening-trends" class="section interactive-standard interactive-content interactive-size-scoop css-uc81c" data-id="100000007231270">
+<div id="coronavirus-cases-reopening-trends" class="section interactive-standard interactive-content interactive-size-scoop css-uc81c">
 
 <div class="css-17ih8de interactive-body">
 
@@ -221,7 +216,7 @@ Gamio</span>](https://www.nytimes.com/by/lazaro-gamio)July 9,
 
 <div class="g-asset g-embed g-asset-width-full" style="">
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
 
@@ -298,7 +293,7 @@ infections.
 
 #### Based on a 7-day rolling average in states with at least 2,000 total cases.
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-linesCompare">
 
@@ -320,8 +315,7 @@ database](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavi
 tracking when states lifted orders to stay at home or allowed major
 sectors such as retail, restaurants and personal care services to reopen
 either statewide or in most areas. (In the charts above and below,
-states with fewer than 2,000 total cases are
-excluded.)
+states with fewer than 2,000 total cases are excluded.)
 
 <div class="g-asset g-graphic g-coerceToWell" style="max-width: 1050px">
 
@@ -329,7 +323,7 @@ excluded.)
 
 #### 7-day rolling average of daily cases. Each state has its own scale.
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-smallMultiplesContainerOne" class="g-smallMultiplesContainer">
 
@@ -357,8 +351,7 @@ Cases in **Georgia** are up 245 percent since late April, prompting some
 cities to require the use of face masks. These local mandates [go
 further](https://www.ajc.com/news/state--regional-govt--politics/growing-number-georgia-cities-require-masks-over-kemp-objection/rLK5RODzq1EVJiyebeIi2H/)
 than a statewide order signed by Gov. Brian Kemp that encourages, but
-doesn’t require,
-masks.
+doesn’t require, masks.
 
 <div class="g-asset g-graphic g-coerceToWell" style="max-width: 1050px">
 
@@ -366,7 +359,7 @@ masks.
 
 #### 7-day rolling average of daily cases. Each state has its own scale.
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-smallMultiplesContainerTwo" class="g-smallMultiplesContainer">
 
@@ -398,7 +391,7 @@ percent](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/testing-in-us.h
 
 #### 7-day rolling average of daily cases. Each state has its own scale.
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-smallMultiplesContainerThree" class="g-smallMultiplesContainer">
 
@@ -430,9 +423,9 @@ requiring travelers from hotspots to quarantine for two weeks. Violators
 would be fined, but an enforcement mechanism isn’t currently in place.
 
 President Trump [has
-blamed](https://www.nytimes.com/video/us/politics/100000007202247/trump-tulsa-rally.html)the
-rapid growth in cases on an increase in tests, but testing alone does
-not explain the surge. The United States is conducting nearly three
+blamed](https://www.nytimes.com/video/us/politics/100000007202247/trump-tulsa-rally.html)
+the rapid growth in cases on an increase in tests, but testing alone
+does not explain the surge. The United States is conducting nearly three
 times as many tests as earlier in the outbreak, but the growth in cases
 is outpacing the growth in testing in at least [half of
 states](https://www.axios.com/coronavirus-cases-testing-growth-62d6256b-33e2-491d-b94e-91110a74bc85.html).
@@ -447,7 +440,7 @@ after opening.
 
 #### Based on 7-day rolling averages.
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-stateTable">
 
@@ -472,11 +465,11 @@ limited, deaths lagged cases by a week or two. With the more widespread
 testing being done now, that interval is now more like two to four
 weeks.
 
-## <span class="g-balancer" data-id="1">Tracking the Coronavirus</span>
+## <span id="1" class="g-balancer">Tracking the Coronavirus</span>
 
 <div class="g-asset g-embed" style="max-width: 600px">
 
-<div data-role="img">
+<div role="img">
 
 <div id="g-2020-03-16-coronavirus-maps-embed" class="g-story g-freebird g-max-limit" data-prd-dropzone-below-masthead="100000006938224" data-preview-slug="2020-03-16-coronavirus-maps">
 
@@ -514,8 +507,7 @@ Countries
   - [United
     States](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+State by state
 
   - [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -626,7 +618,7 @@ Project](https://covidtracking.com/).
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -653,8 +645,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -692,8 +683,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

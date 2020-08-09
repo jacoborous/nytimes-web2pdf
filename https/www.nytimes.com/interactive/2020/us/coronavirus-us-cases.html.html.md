@@ -183,7 +183,7 @@ Advertisement
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 8, 2020, 9:47 A.M. E.T.
+Times</span>Updated August 8, 2020, 6:15 P.M. E.T.
 
 </div>
 
@@ -393,7 +393,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-4.9 million+
+5.0 million+
 
 </div>
 
@@ -409,7 +409,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-160,977
+161,873
 
 </div>
 
@@ -454,8 +454,8 @@ in the United States on Aug. 7. Over the past week, there have been an
 average of 54,332 cases per day, a decrease of 18 percent from the
 average two weeks earlier.
 
-As of Saturday morning, more than 4,951,000 people in the United States
-have been infected with the coronavirus and at least 160,900 have died,
+As of Saturday evening, more than 5,000,200 people in the United States
+have been infected with the coronavirus and at least 161,800 have died,
 according to a New York Times database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-map g-asset-width-bleed" style="">
@@ -837,7 +837,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-40.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-40.svg)">
 
 </div>
 
@@ -872,7 +872,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-72.svg)">
 
 </div>
 
@@ -892,7 +892,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-78.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-78.svg)">
 
 </div>
 
@@ -912,7 +912,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-51.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-51.svg)">
 
 </div>
 
@@ -932,7 +932,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-17.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-17.svg)">
 
 </div>
 
@@ -952,7 +952,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-15.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-15.svg)">
 
 </div>
 
@@ -972,7 +972,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-46.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-46.svg)">
 
 </div>
 
@@ -992,7 +992,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-44.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-44.svg)">
 
 </div>
 
@@ -1012,7 +1012,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-25.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-25.svg)">
 
 </div>
 
@@ -1032,7 +1032,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-66.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-66.svg)">
 
 </div>
 
@@ -1070,7 +1070,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-40.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-40.svg)">
 
 </div>
 
@@ -1092,7 +1092,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Oklahoma** <span class="svelte-gmk5l9">42,234</span>
+**Oklahoma** <span class="svelte-gmk5l9">43,070</span>
 <span class="svelte-gmk5l9">total cases</span>
 <span class="first svelte-gmk5l9">March 1</span>
 <span class="last svelte-gmk5l9">Aug. 7</span>
@@ -1107,7 +1107,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-72.svg)">
 
 </div>
 
@@ -1115,7 +1115,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Puerto Rico** <span class="svelte-gmk5l9">20,686</span>
+**Puerto Rico** <span class="svelte-gmk5l9">21,424</span>
 
 </div>
 
@@ -1127,7 +1127,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-78.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-78.svg)">
 
 </div>
 
@@ -1147,7 +1147,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-51.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-51.svg)">
 
 </div>
 
@@ -1155,7 +1155,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Virginia** <span class="svelte-gmk5l9">97,882</span>
+**Virginia** <span class="svelte-gmk5l9">99,189</span>
 
 </div>
 
@@ -1167,7 +1167,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-17.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-17.svg)">
 
 </div>
 
@@ -1175,7 +1175,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Illinois** <span class="svelte-gmk5l9">192,482</span>
+**Illinois** <span class="svelte-gmk5l9">194,507</span>
 
 </div>
 
@@ -1187,7 +1187,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-15.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-15.svg)">
 
 </div>
 
@@ -1195,7 +1195,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Hawaii** <span class="svelte-gmk5l9">3,092</span>
+**Hawaii** <span class="svelte-gmk5l9">3,323</span>
 
 </div>
 
@@ -1207,7 +1207,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-46.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-46.svg)">
 
 </div>
 
@@ -1215,7 +1215,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**South Dakota** <span class="svelte-gmk5l9">9,371</span>
+**South Dakota** <span class="svelte-gmk5l9">9,477</span>
 
 </div>
 
@@ -1227,7 +1227,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-44.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-44.svg)">
 
 </div>
 
@@ -1247,7 +1247,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-25.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-25.svg)">
 
 </div>
 
@@ -1255,7 +1255,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Massachusetts** <span class="svelte-gmk5l9">120,291</span>
+**Massachusetts** <span class="svelte-gmk5l9">120,711</span>
 
 </div>
 
@@ -1267,7 +1267,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-66.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-66.svg)">
 
 </div>
 
@@ -1275,7 +1275,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Guam** <span class="svelte-gmk5l9">1,380</span>
+**Guam** <span class="svelte-gmk5l9">1,381</span>
 
 </div>
 
@@ -1318,7 +1318,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-13.svg)">
 
 </div>
 
@@ -1353,7 +1353,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-48.svg)">
 
 </div>
 
@@ -1373,7 +1373,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-47.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-47.svg)">
 
 </div>
 
@@ -1393,7 +1393,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-05.svg)">
 
 </div>
 
@@ -1413,7 +1413,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-16.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-16.svg)">
 
 </div>
 
@@ -1433,7 +1433,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-29.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-29.svg)">
 
 </div>
 
@@ -1453,7 +1453,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-38.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-38.svg)">
 
 </div>
 
@@ -1473,7 +1473,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-55.svg)">
 
 </div>
 
@@ -1493,7 +1493,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-19.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-19.svg)">
 
 </div>
 
@@ -1513,7 +1513,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-31.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-31.svg)">
 
 </div>
 
@@ -1533,7 +1533,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-20.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-20.svg)">
 
 </div>
 
@@ -1553,7 +1553,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-21.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-21.svg)">
 
 </div>
 
@@ -1573,7 +1573,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-18.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-18.svg)">
 
 </div>
 
@@ -1593,7 +1593,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-24.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-24.svg)">
 
 </div>
 
@@ -1613,7 +1613,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-27.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-27.svg)">
 
 </div>
 
@@ -1633,7 +1633,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-02.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-02.svg)">
 
 </div>
 
@@ -1653,7 +1653,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-30.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-30.svg)">
 
 </div>
 
@@ -1673,7 +1673,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-53.svg)">
 
 </div>
 
@@ -1693,7 +1693,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-11.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-11.svg)">
 
 </div>
 
@@ -1713,7 +1713,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-41.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-41.svg)">
 
 </div>
 
@@ -1733,7 +1733,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-26.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-26.svg)">
 
 </div>
 
@@ -1753,7 +1753,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-54.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-54.svg)">
 
 </div>
 
@@ -1773,7 +1773,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-42.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-42.svg)">
 
 </div>
 
@@ -1793,7 +1793,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-34.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-34.svg)">
 
 </div>
 
@@ -1813,7 +1813,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-36.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-36.svg)">
 
 </div>
 
@@ -1833,7 +1833,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-33.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-33.svg)">
 
 </div>
 
@@ -1853,7 +1853,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-09.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-09.svg)">
 
 </div>
 
@@ -1891,7 +1891,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-13.svg)">
 
 </div>
 
@@ -1913,7 +1913,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Georgia** <span class="svelte-gmk5l9">193,276</span>
+**Georgia** <span class="svelte-gmk5l9">197,308</span>
 <span class="svelte-gmk5l9">total cases</span>
 <span class="first svelte-gmk5l9">March 1</span>
 <span class="last svelte-gmk5l9">Aug. 7</span>
@@ -1928,7 +1928,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-48.svg)">
 
 </div>
 
@@ -1936,7 +1936,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Texas** <span class="svelte-gmk5l9">496,237</span>
+**Texas** <span class="svelte-gmk5l9">501,433</span>
 
 </div>
 
@@ -1948,7 +1948,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-47.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-47.svg)">
 
 </div>
 
@@ -1956,7 +1956,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Tennessee** <span class="svelte-gmk5l9">115,940</span>
+**Tennessee** <span class="svelte-gmk5l9">117,725</span>
 
 </div>
 
@@ -1968,7 +1968,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-05.svg)">
 
 </div>
 
@@ -1988,7 +1988,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-16.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-16.svg)">
 
 </div>
 
@@ -2008,7 +2008,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-29.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-29.svg)">
 
 </div>
 
@@ -2016,7 +2016,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Missouri** <span class="svelte-gmk5l9">58,284</span>
+**Missouri** <span class="svelte-gmk5l9">58,569</span>
 
 </div>
 
@@ -2028,7 +2028,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-38.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-38.svg)">
 
 </div>
 
@@ -2036,7 +2036,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**North Dakota** <span class="svelte-gmk5l9">7,508</span>
+**North Dakota** <span class="svelte-gmk5l9">7,512</span>
 
 </div>
 
@@ -2048,7 +2048,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-55.svg)">
 
 </div>
 
@@ -2056,7 +2056,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Wisconsin** <span class="svelte-gmk5l9">63,256</span>
+**Wisconsin** <span class="svelte-gmk5l9">64,231</span>
 
 </div>
 
@@ -2068,7 +2068,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-19.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-19.svg)">
 
 </div>
 
@@ -2076,7 +2076,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Iowa** <span class="svelte-gmk5l9">48,040</span>
+**Iowa** <span class="svelte-gmk5l9">48,286</span>
 
 </div>
 
@@ -2088,7 +2088,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-31.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-31.svg)">
 
 </div>
 
@@ -2096,7 +2096,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Nebraska** <span class="svelte-gmk5l9">28,104</span>
+**Nebraska** <span class="svelte-gmk5l9">28,128</span>
 
 </div>
 
@@ -2108,7 +2108,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-20.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-20.svg)">
 
 </div>
 
@@ -2116,7 +2116,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Kansas** <span class="svelte-gmk5l9">30,966</span>
+**Kansas** <span class="svelte-gmk5l9">30,983</span>
 
 </div>
 
@@ -2128,7 +2128,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-21.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-21.svg)">
 
 </div>
 
@@ -2136,7 +2136,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Kentucky** <span class="svelte-gmk5l9">35,147</span>
+**Kentucky** <span class="svelte-gmk5l9">35,961</span>
 
 </div>
 
@@ -2148,7 +2148,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-18.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-18.svg)">
 
 </div>
 
@@ -2156,7 +2156,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Indiana** <span class="svelte-gmk5l9">73,986</span>
+**Indiana** <span class="svelte-gmk5l9">75,025</span>
 
 </div>
 
@@ -2168,7 +2168,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-24.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-24.svg)">
 
 </div>
 
@@ -2176,7 +2176,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Maryland** <span class="svelte-gmk5l9">94,395</span>
+**Maryland** <span class="svelte-gmk5l9">95,157</span>
 
 </div>
 
@@ -2188,7 +2188,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-27.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-27.svg)">
 
 </div>
 
@@ -2196,7 +2196,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Minnesota** <span class="svelte-gmk5l9">59,226</span>
+**Minnesota** <span class="svelte-gmk5l9">60,142</span>
 
 </div>
 
@@ -2208,7 +2208,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-02.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-02.svg)">
 
 </div>
 
@@ -2216,7 +2216,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Alaska** <span class="svelte-gmk5l9">4,286</span>
+**Alaska** <span class="svelte-gmk5l9">4,371</span>
 
 </div>
 
@@ -2228,7 +2228,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-30.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-30.svg)">
 
 </div>
 
@@ -2236,7 +2236,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Montana** <span class="svelte-gmk5l9">4,771</span>
+**Montana** <span class="svelte-gmk5l9">4,889</span>
 
 </div>
 
@@ -2248,7 +2248,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-53.svg)">
 
 </div>
 
@@ -2256,7 +2256,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Washington** <span class="svelte-gmk5l9">63,976</span>
+**Washington** <span class="svelte-gmk5l9">64,269</span>
 
 </div>
 
@@ -2268,7 +2268,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-11.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-11.svg)">
 
 </div>
 
@@ -2276,7 +2276,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Washington, D.C.** <span class="svelte-gmk5l9">12,589</span>
+**Washington, D.C.** <span class="svelte-gmk5l9">12,653</span>
 
 </div>
 
@@ -2288,7 +2288,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-41.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-41.svg)">
 
 </div>
 
@@ -2296,7 +2296,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Oregon** <span class="svelte-gmk5l9">20,658</span>
+**Oregon** <span class="svelte-gmk5l9">20,842</span>
 
 </div>
 
@@ -2308,7 +2308,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-26.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-26.svg)">
 
 </div>
 
@@ -2316,7 +2316,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Michigan** <span class="svelte-gmk5l9">95,632</span>
+**Michigan** <span class="svelte-gmk5l9">96,328</span>
 
 </div>
 
@@ -2328,7 +2328,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-54.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-54.svg)">
 
 </div>
 
@@ -2336,7 +2336,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**West Virginia** <span class="svelte-gmk5l9">7,433</span>
+**West Virginia** <span class="svelte-gmk5l9">7,563</span>
 
 </div>
 
@@ -2348,7 +2348,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-42.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-42.svg)">
 
 </div>
 
@@ -2356,7 +2356,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Pennsylvania** <span class="svelte-gmk5l9">122,078</span>
+**Pennsylvania** <span class="svelte-gmk5l9">122,666</span>
 
 </div>
 
@@ -2368,7 +2368,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-34.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-34.svg)">
 
 </div>
 
@@ -2376,7 +2376,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**New Jersey** <span class="svelte-gmk5l9">185,914</span>
+**New Jersey** <span class="svelte-gmk5l9">186,282</span>
 
 </div>
 
@@ -2388,7 +2388,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-36.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-36.svg)">
 
 </div>
 
@@ -2396,7 +2396,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**New York** <span class="svelte-gmk5l9">424,349</span>
+**New York** <span class="svelte-gmk5l9">425,055</span>
 
 </div>
 
@@ -2408,7 +2408,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-33.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-33.svg)">
 
 </div>
 
@@ -2416,7 +2416,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**New Hampshire** <span class="svelte-gmk5l9">6,779</span>
+**New Hampshire** <span class="svelte-gmk5l9">6,818</span>
 
 </div>
 
@@ -2428,7 +2428,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-09.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-09.svg)">
 
 </div>
 
@@ -2474,7 +2474,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-22.svg)">
 
 </div>
 
@@ -2509,7 +2509,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-28.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-28.svg)">
 
 </div>
 
@@ -2529,7 +2529,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-12.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-12.svg)">
 
 </div>
 
@@ -2549,7 +2549,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-01.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-01.svg)">
 
 </div>
 
@@ -2569,7 +2569,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-32.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-32.svg)">
 
 </div>
 
@@ -2589,7 +2589,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-45.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-45.svg)">
 
 </div>
 
@@ -2609,7 +2609,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-04.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-04.svg)">
 
 </div>
 
@@ -2629,7 +2629,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-06.svg)">
 
 </div>
 
@@ -2649,7 +2649,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-49.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-49.svg)">
 
 </div>
 
@@ -2669,7 +2669,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-37.svg)">
 
 </div>
 
@@ -2689,7 +2689,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-10.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-10.svg)">
 
 </div>
 
@@ -2709,7 +2709,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-35.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-35.svg)">
 
 </div>
 
@@ -2729,7 +2729,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-39.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-39.svg)">
 
 </div>
 
@@ -2749,7 +2749,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-08.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-08.svg)">
 
 </div>
 
@@ -2769,7 +2769,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-56.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-56.svg)">
 
 </div>
 
@@ -2789,7 +2789,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-23.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-23.svg)">
 
 </div>
 
@@ -2809,7 +2809,7 @@ detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/per-capita/USA-50.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/per-capita/USA-50.svg)">
 
 </div>
 
@@ -2847,7 +2847,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-22.svg)">
 
 </div>
 
@@ -2884,7 +2884,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-28.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-28.svg)">
 
 </div>
 
@@ -2892,7 +2892,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Mississippi** <span class="svelte-gmk5l9">65,436</span>
+**Mississippi** <span class="svelte-gmk5l9">66,646</span>
 
 </div>
 
@@ -2904,7 +2904,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-12.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-12.svg)">
 
 </div>
 
@@ -2912,7 +2912,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Florida** <span class="svelte-gmk5l9">518,067</span>
+**Florida** <span class="svelte-gmk5l9">526,569</span>
 
 </div>
 
@@ -2924,7 +2924,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-01.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-01.svg)">
 
 </div>
 
@@ -2944,7 +2944,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-32.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-32.svg)">
 
 </div>
 
@@ -2952,7 +2952,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Nevada** <span class="svelte-gmk5l9">54,633</span>
+**Nevada** <span class="svelte-gmk5l9">55,462</span>
 
 </div>
 
@@ -2964,7 +2964,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-45.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-45.svg)">
 
 </div>
 
@@ -2972,7 +2972,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**South Carolina** <span class="svelte-gmk5l9">98,219</span>
+**South Carolina** <span class="svelte-gmk5l9">99,460</span>
 
 </div>
 
@@ -2984,7 +2984,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-04.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-04.svg)">
 
 </div>
 
@@ -2992,7 +2992,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Arizona** <span class="svelte-gmk5l9">185,104</span>
+**Arizona** <span class="svelte-gmk5l9">186,211</span>
 
 </div>
 
@@ -3004,7 +3004,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-06.svg)">
 
 </div>
 
@@ -3012,7 +3012,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**California** <span class="svelte-gmk5l9">548,142</span>
+**California** <span class="svelte-gmk5l9">555,322</span>
 
 </div>
 
@@ -3024,7 +3024,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-49.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-49.svg)">
 
 </div>
 
@@ -3032,7 +3032,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Utah** <span class="svelte-gmk5l9">43,530</span>
+**Utah** <span class="svelte-gmk5l9">43,812</span>
 
 </div>
 
@@ -3044,7 +3044,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-37.svg)">
 
 </div>
 
@@ -3052,7 +3052,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**North Carolina** <span class="svelte-gmk5l9">133,088</span>
+**North Carolina** <span class="svelte-gmk5l9">134,968</span>
 
 </div>
 
@@ -3064,7 +3064,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-10.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-10.svg)">
 
 </div>
 
@@ -3072,7 +3072,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Delaware** <span class="svelte-gmk5l9">15,445</span>
+**Delaware** <span class="svelte-gmk5l9">15,502</span>
 
 </div>
 
@@ -3084,7 +3084,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-35.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-35.svg)">
 
 </div>
 
@@ -3092,7 +3092,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**New Mexico** <span class="svelte-gmk5l9">21,965</span>
+**New Mexico** <span class="svelte-gmk5l9">22,115</span>
 
 </div>
 
@@ -3104,7 +3104,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-39.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-39.svg)">
 
 </div>
 
@@ -3112,7 +3112,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Ohio** <span class="svelte-gmk5l9">98,675</span>
+**Ohio** <span class="svelte-gmk5l9">99,969</span>
 
 </div>
 
@@ -3124,7 +3124,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-08.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-08.svg)">
 
 </div>
 
@@ -3132,7 +3132,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Colorado** <span class="svelte-gmk5l9">50,081</span>
+**Colorado** <span class="svelte-gmk5l9">50,486</span>
 
 </div>
 
@@ -3144,7 +3144,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-56.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-56.svg)">
 
 </div>
 
@@ -3152,7 +3152,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Wyoming** <span class="svelte-gmk5l9">3,000</span>
+**Wyoming** <span class="svelte-gmk5l9">3,013</span>
 
 </div>
 
@@ -3164,7 +3164,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-23.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-23.svg)">
 
 </div>
 
@@ -3172,7 +3172,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Maine** <span class="svelte-gmk5l9">4,014</span>
+**Maine** <span class="svelte-gmk5l9">4,026</span>
 
 </div>
 
@@ -3184,7 +3184,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/cases/total/USA-50.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/cases/total/USA-50.svg)">
 
 </div>
 
@@ -3192,7 +3192,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Vermont** <span class="svelte-gmk5l9">1,448</span>
+**Vermont** <span class="svelte-gmk5l9">1,454</span>
 
 </div>
 
@@ -3246,7 +3246,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-28.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-28.svg)">
 
 </div>
 
@@ -3281,7 +3281,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-22.svg)">
 
 </div>
 
@@ -3301,7 +3301,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-12.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-12.svg)">
 
 </div>
 
@@ -3321,7 +3321,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-48.svg)">
 
 </div>
 
@@ -3341,7 +3341,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-13.svg)">
 
 </div>
 
@@ -3361,7 +3361,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-06.svg)">
 
 </div>
 
@@ -3381,7 +3381,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-05.svg)">
 
 </div>
 
@@ -3401,7 +3401,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-16.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-16.svg)">
 
 </div>
 
@@ -3421,7 +3421,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-47.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-47.svg)">
 
 </div>
 
@@ -3441,7 +3441,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-37.svg)">
 
 </div>
 
@@ -3461,7 +3461,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-51.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-51.svg)">
 
 </div>
 
@@ -3481,7 +3481,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-46.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-46.svg)">
 
 </div>
 
@@ -3501,7 +3501,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-40.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-40.svg)">
 
 </div>
 
@@ -3521,7 +3521,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-53.svg)">
 
 </div>
 
@@ -3541,7 +3541,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-72.svg)">
 
 </div>
 
@@ -3561,7 +3561,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-31.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-31.svg)">
 
 </div>
 
@@ -3581,7 +3581,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-30.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-30.svg)">
 
 </div>
 
@@ -3601,7 +3601,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-17.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-17.svg)">
 
 </div>
 
@@ -3621,7 +3621,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-55.svg)">
 
 </div>
 
@@ -3641,7 +3641,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-27.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-27.svg)">
 
 </div>
 
@@ -3661,7 +3661,7 @@ see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/per-capita/USA-54.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/per-capita/USA-54.svg)">
 
 </div>
 
@@ -3699,7 +3699,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-28.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-28.svg)">
 
 </div>
 
@@ -3721,7 +3721,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Mississippi** <span class="svelte-gmk5l9">1,848</span>
+**Mississippi** <span class="svelte-gmk5l9">1,874</span>
 <span class="svelte-gmk5l9">total cases</span>
 <span class="first svelte-gmk5l9">March 1</span>
 <span class="last svelte-gmk5l9">Aug. 7</span>
@@ -3736,7 +3736,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-22.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-22.svg)">
 
 </div>
 
@@ -3756,7 +3756,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-12.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-12.svg)">
 
 </div>
 
@@ -3764,7 +3764,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Florida** <span class="svelte-gmk5l9">7,926</span>
+**Florida** <span class="svelte-gmk5l9">8,108</span>
 
 </div>
 
@@ -3776,7 +3776,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-48.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-48.svg)">
 
 </div>
 
@@ -3784,7 +3784,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Texas** <span class="svelte-gmk5l9">8,675</span>
+**Texas** <span class="svelte-gmk5l9">8,866</span>
 
 </div>
 
@@ -3796,7 +3796,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-13.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-13.svg)">
 
 </div>
 
@@ -3804,7 +3804,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Georgia** <span class="svelte-gmk5l9">4,029</span>
+**Georgia** <span class="svelte-gmk5l9">4,095</span>
 
 </div>
 
@@ -3816,7 +3816,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-06.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-06.svg)">
 
 </div>
 
@@ -3824,7 +3824,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**California** <span class="svelte-gmk5l9">10,197</span>
+**California** <span class="svelte-gmk5l9">10,291</span>
 
 </div>
 
@@ -3836,7 +3836,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-05.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-05.svg)">
 
 </div>
 
@@ -3856,7 +3856,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-16.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-16.svg)">
 
 </div>
 
@@ -3876,7 +3876,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-47.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-47.svg)">
 
 </div>
 
@@ -3884,7 +3884,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Tennessee** <span class="svelte-gmk5l9">1,190</span>
+**Tennessee** <span class="svelte-gmk5l9">1,201</span>
 
 </div>
 
@@ -3896,7 +3896,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-37.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-37.svg)">
 
 </div>
 
@@ -3904,7 +3904,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**North Carolina** <span class="svelte-gmk5l9">2,160</span>
+**North Carolina** <span class="svelte-gmk5l9">2,184</span>
 
 </div>
 
@@ -3916,7 +3916,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-51.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-51.svg)">
 
 </div>
 
@@ -3924,7 +3924,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Virginia** <span class="svelte-gmk5l9">2,317</span>
+**Virginia** <span class="svelte-gmk5l9">2,322</span>
 
 </div>
 
@@ -3936,7 +3936,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-46.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-46.svg)">
 
 </div>
 
@@ -3944,7 +3944,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**South Dakota** <span class="svelte-gmk5l9">144</span>
+**South Dakota** <span class="svelte-gmk5l9">146</span>
 
 </div>
 
@@ -3956,7 +3956,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-40.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-40.svg)">
 
 </div>
 
@@ -3964,7 +3964,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Oklahoma** <span class="svelte-gmk5l9">600</span>
+**Oklahoma** <span class="svelte-gmk5l9">603</span>
 
 </div>
 
@@ -3976,7 +3976,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-53.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-53.svg)">
 
 </div>
 
@@ -3984,7 +3984,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Washington** <span class="svelte-gmk5l9">1,744</span>
+**Washington** <span class="svelte-gmk5l9">1,752</span>
 
 </div>
 
@@ -3996,7 +3996,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-72.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-72.svg)">
 
 </div>
 
@@ -4004,7 +4004,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Puerto Rico** <span class="svelte-gmk5l9">265</span>
+**Puerto Rico** <span class="svelte-gmk5l9">274</span>
 
 </div>
 
@@ -4016,7 +4016,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-31.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-31.svg)">
 
 </div>
 
@@ -4024,7 +4024,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Nebraska** <span class="svelte-gmk5l9">352</span>
+**Nebraska** <span class="svelte-gmk5l9">353</span>
 
 </div>
 
@@ -4036,7 +4036,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-30.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-30.svg)">
 
 </div>
 
@@ -4044,7 +4044,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Montana** <span class="svelte-gmk5l9">71</span>
+**Montana** <span class="svelte-gmk5l9">75</span>
 
 </div>
 
@@ -4056,7 +4056,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-17.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-17.svg)">
 
 </div>
 
@@ -4064,7 +4064,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Illinois** <span class="svelte-gmk5l9">7,833</span>
+**Illinois** <span class="svelte-gmk5l9">7,846</span>
 
 </div>
 
@@ -4076,7 +4076,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-55.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-55.svg)">
 
 </div>
 
@@ -4084,7 +4084,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Wisconsin** <span class="svelte-gmk5l9">1,001</span>
+**Wisconsin** <span class="svelte-gmk5l9">1,007</span>
 
 </div>
 
@@ -4096,7 +4096,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-27.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-27.svg)">
 
 </div>
 
@@ -4104,7 +4104,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**Minnesota** <span class="svelte-gmk5l9">1,681</span>
+**Minnesota** <span class="svelte-gmk5l9">1,689</span>
 
 </div>
 
@@ -4116,7 +4116,7 @@ day. Tap a state to see detailed map page.
 
 <div class="chart-inner svelte-gmk5l9">
 
-<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/curve-grid/deaths/total/USA-54.svg)">
+<div class="chart-image svelte-gmk5l9" style="background-image:url(https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/curve-grid/deaths/total/USA-54.svg)">
 
 </div>
 
@@ -4124,7 +4124,7 @@ day. Tap a state to see detailed map page.
 
 </div>
 
-**West Virginia** <span class="svelte-gmk5l9">127</span>
+**West Virginia** <span class="svelte-gmk5l9">131</span>
 
 </div>
 
@@ -4242,35 +4242,35 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/louisiana.svg" class="svelte-ig1tx7" alt="Louisiana heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/louisiana.svg" class="svelte-ig1tx7" alt="Louisiana heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Mississippi </span> <a href="https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>65,436 </span></td>
-<td><span>2,199 </span></td>
-<td><span>1,848 </span></td>
-<td><span>62 </span></td>
+<td><span>66,646 </span></td>
+<td><span>2,239 </span></td>
+<td><span>1,874 </span></td>
+<td><span>63 </span></td>
 <td><span>6,689 </span></td>
 <td><span>225 </span></td>
 <td><span>185 </span></td>
 <td><span>6 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/mississippi.svg" class="svelte-ig1tx7" alt="Mississippi heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/mississippi.svg" class="svelte-ig1tx7" alt="Mississippi heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Florida </span> <a href="https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>518,067 </span></td>
-<td><span>2,412 </span></td>
-<td><span>7,926 </span></td>
-<td><span>37 </span></td>
+<td><span>526,569 </span></td>
+<td><span>2,452 </span></td>
+<td><span>8,108 </span></td>
+<td><span>38 </span></td>
 <td><span>47,689 </span></td>
 <td><span>222 </span></td>
 <td><span>1,084 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/florida.svg" class="svelte-ig1tx7" alt="Florida heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/florida.svg" class="svelte-ig1tx7" alt="Florida heatmap" />
 </div></td>
 </tr>
 <tr class="even">
@@ -4284,63 +4284,63 @@ in last<br />
 <td><span>155 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/alabama.svg" class="svelte-ig1tx7" alt="Alabama heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/alabama.svg" class="svelte-ig1tx7" alt="Alabama heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Nevada </span> <a href="https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>54,633 </span></td>
-<td><span>1,774 </span></td>
-<td><span>920 </span></td>
-<td><span>30 </span></td>
+<td><span>55,462 </span></td>
+<td><span>1,801 </span></td>
+<td><span>949 </span></td>
+<td><span>31 </span></td>
 <td><span>6,491 </span></td>
 <td><span>211 </span></td>
 <td><span>89 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/nevada.svg" class="svelte-ig1tx7" alt="Nevada heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/nevada.svg" class="svelte-ig1tx7" alt="Nevada heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Georgia </span> <a href="https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>193,276 </span></td>
-<td><span>1,820 </span></td>
-<td><span>4,029 </span></td>
-<td><span>38 </span></td>
+<td><span>197,308 </span></td>
+<td><span>1,858 </span></td>
+<td><span>4,095 </span></td>
+<td><span>39 </span></td>
 <td><span>21,934 </span></td>
 <td><span>207 </span></td>
 <td><span>355 </span></td>
 <td><span>3 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/georgia.svg" class="svelte-ig1tx7" alt="Georgia heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/georgia.svg" class="svelte-ig1tx7" alt="Georgia heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Texas </span> <a href="https://www.nytimes.com/interactive/2020/us/texas-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>496,237 </span></td>
-<td><span>1,711 </span></td>
-<td><span>8,675 </span></td>
-<td><span>30 </span></td>
+<td><span>501,433 </span></td>
+<td><span>1,729 </span></td>
+<td><span>8,866 </span></td>
+<td><span>31 </span></td>
 <td><span>54,470 </span></td>
 <td><span>188 </span></td>
 <td><span>1,404 </span></td>
 <td><span>5 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/texas.svg" class="svelte-ig1tx7" alt="Texas heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/texas.svg" class="svelte-ig1tx7" alt="Texas heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span class="show-hide svelte-5vd9ek">+ </span> <span>Tennessee </span> <a href="https://www.nytimes.com/interactive/2020/us/tennessee-coronavirus-cases.html" class="svelte-5vd9ek has-plus">MAP »</a></td>
-<td><span>115,940 </span></td>
-<td><span>1,698 </span></td>
-<td><span>1,190 </span></td>
-<td><span>17 </span></td>
+<td><span>117,725 </span></td>
+<td><span>1,724 </span></td>
+<td><span>1,201 </span></td>
+<td><span>18 </span></td>
 <td><span>12,796 </span></td>
 <td><span>187 </span></td>
 <td><span>143 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/tennessee.svg" class="svelte-ig1tx7" alt="Tennessee heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/tennessee.svg" class="svelte-ig1tx7" alt="Tennessee heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -4354,7 +4354,7 @@ in last<br />
 <td><span>68 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/arkansas.svg" class="svelte-ig1tx7" alt="Arkansas heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/arkansas.svg" class="svelte-ig1tx7" alt="Arkansas heatmap" />
 </div></td>
 </tr>
 <tr class="even">
@@ -4368,7 +4368,7 @@ in last<br />
 <td><span>38 </span></td>
 <td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/idaho.svg" class="svelte-ig1tx7" alt="Idaho heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/idaho.svg" class="svelte-ig1tx7" alt="Idaho heatmap" />
 </div></td>
 </tr>
 </tbody>
@@ -4737,8 +4737,8 @@ in last<br />
 <tbody>
 <tr class="odd">
 <td><span>Taylor, Fla. </span></td>
-<td><span>936 </span></td>
-<td><span>4,340 </span></td>
+<td><span>947 </span></td>
+<td><span>4,391 </span></td>
 <td><span>606 </span></td>
 <td><span>2,810 </span></td>
 <td><div class="chart svelte-ig1tx7">
@@ -4752,17 +4752,17 @@ in last<br />
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/taylor.svg" class="svelte-ig1tx7" alt="Taylor heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_12/taylor.svg" class="svelte-ig1tx7" alt="Taylor heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Franklin, Fla. </span></td>
-<td><span>377 </span></td>
-<td><span>3,109 </span></td>
+<td><span>398 </span></td>
+<td><span>3,282 </span></td>
 <td><span>269 </span></td>
 <td><span>2,219 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/franklin.svg" class="svelte-ig1tx7" alt="Franklin heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_12/franklin.svg" class="svelte-ig1tx7" alt="Franklin heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
@@ -4772,47 +4772,47 @@ in last<br />
 <td><span>212 </span></td>
 <td><span>2,095 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_05/chicot.svg" class="svelte-ig1tx7" alt="Chicot heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_05/chicot.svg" class="svelte-ig1tx7" alt="Chicot heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Karnes, Texas </span></td>
-<td><span>562 </span></td>
-<td><span>3,602 </span></td>
+<td><span>632 </span></td>
+<td><span>4,051 </span></td>
 <td><span>296 </span></td>
 <td><span>1,897 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_48/karnes.svg" class="svelte-ig1tx7" alt="Karnes heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_48/karnes.svg" class="svelte-ig1tx7" alt="Karnes heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Gulf, Fla. </span></td>
-<td><span>569 </span></td>
-<td><span>4,172 </span></td>
+<td><span>599 </span></td>
+<td><span>4,392 </span></td>
 <td><span>233 </span></td>
 <td><span>1,708 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/gulf.svg" class="svelte-ig1tx7" alt="Gulf heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_12/gulf.svg" class="svelte-ig1tx7" alt="Gulf heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Martinsville, Va. </span></td>
-<td><span>196 </span></td>
-<td><span>1,561 </span></td>
+<td><span>202 </span></td>
+<td><span>1,609 </span></td>
 <td><span>196 </span></td>
 <td><span>1,561 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_51/martinsville.svg" class="svelte-ig1tx7" alt="Martinsville heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_51/martinsville.svg" class="svelte-ig1tx7" alt="Martinsville heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Jefferson, Fla. </span></td>
-<td><span>447 </span></td>
-<td><span>3,138 </span></td>
+<td><span>448 </span></td>
+<td><span>3,145 </span></td>
 <td><span>218 </span></td>
 <td><span>1,530 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_12/jefferson.svg" class="svelte-ig1tx7" alt="Jefferson heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_12/jefferson.svg" class="svelte-ig1tx7" alt="Jefferson heatmap" />
 </div></td>
 </tr>
 <tr class="even">
@@ -4822,27 +4822,27 @@ in last<br />
 <td><span>35 </span></td>
 <td><span>1,322 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_20/chase.svg" class="svelte-ig1tx7" alt="Chase heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_20/chase.svg" class="svelte-ig1tx7" alt="Chase heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Chattahoochee, Ga. </span></td>
-<td><span>736 </span></td>
-<td><span>6,748 </span></td>
+<td><span>759 </span></td>
+<td><span>6,959 </span></td>
 <td><span>142 </span></td>
 <td><span>1,302 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_13/chattahoochee.svg" class="svelte-ig1tx7" alt="Chattahoochee heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_13/chattahoochee.svg" class="svelte-ig1tx7" alt="Chattahoochee heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Sharkey, Miss. </span></td>
-<td><span>194 </span></td>
-<td><span>4,490 </span></td>
+<td><span>197 </span></td>
+<td><span>4,559 </span></td>
 <td><span>55 </span></td>
 <td><span>1,273 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/build/heatmaps/nyt_world/usa/usa_28/sharkey.svg" class="svelte-ig1tx7" alt="Sharkey heatmap" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_28/sharkey.svg" class="svelte-ig1tx7" alt="Sharkey heatmap" />
 </div></td>
 </tr>
 </tbody>

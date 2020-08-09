@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -59,8 +58,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -72,7 +70,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -83,8 +81,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Family](/section/well/family)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Why
-Parents Should Pause Before Oversharing
-Online</span>
+Parents Should Pause Before Oversharing Online</span>
 
 </div>
 
@@ -106,7 +103,7 @@ Online</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -144,8 +141,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -171,8 +167,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -195,8 +190,7 @@ story](#after-sponsor)
 </div>
 
 As social media comes of age, will we regret all the information we
-revealed about our families during its early
-years?
+revealed about our families during its early years?
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -230,8 +224,7 @@ Steinberg</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 4,
-    2020
+    Aug. 4, 2020
     
     </div>
 
@@ -239,7 +232,7 @@ Steinberg</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -312,7 +305,8 @@ education and
 [COPPA](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule)
 for the online privacy of children under 13 — they *do not* have a right
 to privacy
-[“](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1746540)[*from*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1746540)[their
+[“](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1746540)[*from*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1746540)
+[their
 parents,”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1746540)
 except in the most limited of circumstances.
 
@@ -367,11 +361,11 @@ in the hopes of changing school curriculum, for example. I’ve
 [photographed
 families](https://www.law.ufl.edu/law-news/law-professors-artistic-turn)
 whose lives have been [touched by childhood
-cancer](https://www.washingtonpost.com/news/parenting/wp/2016/09/20/families-of-children-with-cancer-ask-please-dont-look-away-heres-how-you-can-help/)who
-shared their children’s story alongside my pictures to help fund medical
-research and the costs associated with treatment, raise awareness of
-rare conditions, and create supportive communities that allow children
-to feel connected to others during long hospital stays.
+cancer](https://www.washingtonpost.com/news/parenting/wp/2016/09/20/families-of-children-with-cancer-ask-please-dont-look-away-heres-how-you-can-help/)
+who shared their children’s story alongside my pictures to help fund
+medical research and the costs associated with treatment, raise
+awareness of rare conditions, and create supportive communities that
+allow children to feel connected to others during long hospital stays.
 
 In our current era of social distancing, social media has become a
 primary way to [stay in
@@ -495,8 +489,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -540,8 +533,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

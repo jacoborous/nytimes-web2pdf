@@ -244,7 +244,7 @@ Fandos</span>](https://www.nytimes.com/by/nicholas-fandos)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 8, 2020Updated <span class="css-epvm6">1:27 p.m. ET</span>
+    Aug. 8, 2020Updated <span class="css-epvm6">7:54 p.m. ET</span>
     
     </div>
 
@@ -354,19 +354,27 @@ of obstruction.
 
 <div class="css-53u6y8">
 
-The impasse has prompted Mr. Trump [to threaten unilateral
+The impasse prompted Mr. Trump [to take unilateral
 action](https://www.nytimes.com/2020/08/07/us/politics/trump-congress-stimulus.html)
-in the coming days to provide relief on his own — though it remains
-unclear if he has the legal authority to do so. And it has sown
-uneasiness even among some rank-and-file Democrats, particularly those
-who represent politically competitive districts and are eager to show
-voters their party is capable of bipartisan compromise on pressing
-issues.
+on Saturday to provide relief on his own with a series of executive
+actions — though it remains unclear if he has the legal authority to do
+so. And it has sown uneasiness even among some rank-and-file Democrats,
+particularly those who represent politically competitive districts and
+are eager to show voters their party is capable of bipartisan compromise
+on pressing issues.
 
 “We cannot let desperate Americans and small businesses be used as pawns
 — even in the face of a president and Senate majority leader who appear
 incapable of empathy,” said Representative Dean Phillips, a first-term
 Democrat from Minnesota.
+
+On a private conference call on Saturday, Representative Tom Malinowski
+of New Jersey, another first-term Democrat, warned that a lack of an
+agreement would prompt his voters to declare “a pox on all our Houses.
+Congress is broken. Washington is broken.”
+
+“And that is great for challengers,” he added, according to a person
+familiar with the remarks, who spoke on the condition of anonymity.
 
 Republicans have been far sharper in their criticism of her tactics,
 blaming Ms. Pelosi for the lapse in jobless aid even though she included
@@ -414,10 +422,6 @@ sagging under the weight of Mr. Trump’s coronavirus response, the
 speaker and Democrats have been [emboldened to press their
 advantage](https://www.nytimes.com/2020/04/23/us/coronavirus-democrats-strategy.html).
 
-“At the core of her negotiations are values, and that steers her right,”
-said Senator Chuck Schumer, Democrat of New York and the minority
-leader. “It’s real. What she says out there, she says inside.”
-
 </div>
 
 </div>
@@ -425,6 +429,10 @@ leader. “It’s real. What she says out there, she says inside.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“At the core of her negotiations are values, and that steers her right,”
+said Senator Chuck Schumer, Democrat of New York and the minority
+leader. “It’s real. What she says out there, she says inside.”
 
 Ms. Pelosi’s hand has been strengthened by the [divisions among
 Republicans](https://www.nytimes.com/2020/07/22/us/politics/coronavirus-stimulus.html),
@@ -464,6 +472,14 @@ famously [went down on one
 knee](https://www.nytimes.com/2008/09/26/business/26bailout.html) at the
 White House to beg Ms. Pelosi not to pull her support from the plan.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 “It’s not me blowing this up. It’s the Republicans,” Ms. Pelosi told him
 then, adding bitingly, “I didn’t know you were Catholic.”
 
@@ -472,14 +488,6 @@ Trump — who has been [more an irritant than an active
 participant](https://www.nytimes.com/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
 in the negotiations — even wants the deal that he needs Ms. Pelosi to
 deliver.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 “Up and until now, she has rationally assumed there was some
 self-interest on the part of Trump that would lead to a deal,” said
@@ -511,6 +519,14 @@ the first phases of pandemic relief, she said.
 was not sure whether “he’s a clone for the president, or the president’s
 a clone for him.”
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 Ms. Pelosi said she also questioned the overall approach of the
 administration, comparing their negotiating tactics to “Sophie’s
 Choice,” a film in which a mother must choose which of her children to
@@ -520,18 +536,12 @@ At one point during one of the negotiations, Mr. Mnuchin had inquired
 what WIC, a nutritional program specifically for women, infants and
 children, was, according to a person familiar with the talks.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 “On any given day, you might say, why am I even talking to these people?
 They don’t care,” Ms. Pelosi said.
 
 “But the fact is, we’re there — we have an opportunity to do something.”
+
+Luke Broadwater contributed reporting.
 
 </div>
 

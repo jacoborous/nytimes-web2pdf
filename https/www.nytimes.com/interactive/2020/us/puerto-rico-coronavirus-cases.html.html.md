@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -55,8 +54,7 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s
-Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -71,8 +69,7 @@ Paper](https://www.nytimes.com/section/todayspaper)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[U.S.](/section/us)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Puerto
-Rico Coronavirus Case
-Count</span>
+Rico Coronavirus Case Count</span>
 
 </div>
 
@@ -94,7 +91,7 @@ Count</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -134,14 +131,14 @@ Coronavirus</span><span class="css-1pje3qr">
 Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
   - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    Updates](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Maps and
     Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
   - [Vaccine
     Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [F.A.Q.](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+  - [Markets &
+    Economy](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
 
 </div>
 
@@ -161,8 +158,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -180,15 +176,14 @@ story](#after-top)
 
 </div>
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 # Puerto Rico Coronavirus Case Count
 
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 5, 2020, 12:06 A.M.
-E.T.
+Times</span>Updated August 8, 2020, 6:15 P.M. E.T.
 
 </div>
 
@@ -196,7 +191,7 @@ E.T.
 
 <div>
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -213,7 +208,7 @@ E.T.
 
 </div>
 
-<div id="puerto-rico-coronavirus-cases" class="section interactive-standard interactive-content interactive-size-scoop css-1davkue" data-id="100000007059067">
+<div id="puerto-rico-coronavirus-cases" class="section interactive-standard interactive-content interactive-size-scoop css-1davkue">
 
 <div class="css-17ih8de interactive-body">
 
@@ -223,33 +218,33 @@ E.T.
 
 <div class="g-svelte" data-component="1">
 
-<div class="breadcrumbs false svelte-u8xm87" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
+<div class="breadcrumbs false svelte-1m5f6tq" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
 
 <div class="breadcrumbs__buttons--wrap">
 
-[World](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)<span class="svelte-u8xm87"> 
+[World](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 COUNTRIES
 
-<span class="svelte-u8xm87">| </span>
-[U.S.A.](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq">| </span>
+[U.S.A.](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 STATES
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 [Testing](https://www.nytimes.com/interactive/2020/us/coronavirus-testing.html)
 
 </div>
 
-<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-u8xm87">
+<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-1m5f6tq">
 
 [Brazil](https://www.nytimes.com/interactive/2020/world/americas/brazil-coronavirus-cases.html)[Canada](https://www.nytimes.com/interactive/2020/world/canada/canada-coronavirus-cases.html)[France](https://www.nytimes.com/interactive/2020/world/europe/france-coronavirus-cases.html)[Germany](https://www.nytimes.com/interactive/2020/world/europe/germany-coronavirus-cases.html)[India](https://www.nytimes.com/interactive/2020/world/asia/india-coronavirus-cases.html)[Italy](https://www.nytimes.com/interactive/2020/world/europe/italy-coronavirus-cases.html)[Mexico](https://www.nytimes.com/interactive/2020/world/americas/mexico-coronavirus-cases.html)[Spain](https://www.nytimes.com/interactive/2020/world/europe/spain-coronavirus-cases.html)[U.K.](https://www.nytimes.com/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 </div>
 
-<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-u8xm87">
+<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-1m5f6tq">
 
 [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)[Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)[Arizona](https://www.nytimes.com/interactive/2020/us/arizona-coronavirus-cases.html)[Arkansas](https://www.nytimes.com/interactive/2020/us/arkansas-coronavirus-cases.html)[California](https://www.nytimes.com/interactive/2020/us/california-coronavirus-cases.html)[Colorado](https://www.nytimes.com/interactive/2020/us/colorado-coronavirus-cases.html)[Connecticut](https://www.nytimes.com/interactive/2020/us/connecticut-coronavirus-cases.html)[Delaware](https://www.nytimes.com/interactive/2020/us/delaware-coronavirus-cases.html)[Florida](https://www.nytimes.com/interactive/2020/us/florida-coronavirus-cases.html)[Georgia](https://www.nytimes.com/interactive/2020/us/georgia-coronavirus-cases.html)[Hawaii](https://www.nytimes.com/interactive/2020/us/hawaii-coronavirus-cases.html)[Idaho](https://www.nytimes.com/interactive/2020/us/idaho-coronavirus-cases.html)[Illinois](https://www.nytimes.com/interactive/2020/us/illinois-coronavirus-cases.html)[Indiana](https://www.nytimes.com/interactive/2020/us/indiana-coronavirus-cases.html)[Iowa](https://www.nytimes.com/interactive/2020/us/iowa-coronavirus-cases.html)[Kansas](https://www.nytimes.com/interactive/2020/us/kansas-coronavirus-cases.html)[Kentucky](https://www.nytimes.com/interactive/2020/us/kentucky-coronavirus-cases.html)[Louisiana](https://www.nytimes.com/interactive/2020/us/louisiana-coronavirus-cases.html)[Maine](https://www.nytimes.com/interactive/2020/us/maine-coronavirus-cases.html)[Maryland](https://www.nytimes.com/interactive/2020/us/maryland-coronavirus-cases.html)[Massachusetts](https://www.nytimes.com/interactive/2020/us/massachusetts-coronavirus-cases.html)[Michigan](https://www.nytimes.com/interactive/2020/us/michigan-coronavirus-cases.html)[Minnesota](https://www.nytimes.com/interactive/2020/us/minnesota-coronavirus-cases.html)[Mississippi](https://www.nytimes.com/interactive/2020/us/mississippi-coronavirus-cases.html)[Missouri](https://www.nytimes.com/interactive/2020/us/missouri-coronavirus-cases.html)[Montana](https://www.nytimes.com/interactive/2020/us/montana-coronavirus-cases.html)[Nebraska](https://www.nytimes.com/interactive/2020/us/nebraska-coronavirus-cases.html)[Nevada](https://www.nytimes.com/interactive/2020/us/nevada-coronavirus-cases.html)[New
 Hampshire](https://www.nytimes.com/interactive/2020/us/new-hampshire-coronavirus-cases.html)[New
@@ -267,8 +262,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 </div>
 
-<span class="svelte-u8xm87"> 
-</span>
+<span class="svelte-1m5f6tq">  </span>
 
 </div>
 
@@ -294,8 +288,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -305,8 +298,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">500
-</span>
+<span class="count-label svelte-bw547y">500 </span>
 
 </div>
 
@@ -316,8 +308,7 @@ Virginia](https://www.nytimes.com/interactive/2020/us/west-virginia-coronavirus-
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">1,000
-cases</span>
+<span class="count-label svelte-bw547y">1,000 cases</span>
 
 </div>
 
@@ -331,44 +322,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.13375796178343%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.3125%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.394904458598724%; top: 91.67430491903453%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.75%; top: 91.67430491903453%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -404,7 +395,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-19,324
+21,424
 
 </div>
 
@@ -420,7 +411,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-237
+274
 
 </div>
 
@@ -428,8 +419,7 @@ Deaths
 
 <div class="note svelte-9rb9hv">
 
-Includes confirmed and probable cases where
-available
+Includes confirmed and probable cases where available
 
 </div>
 
@@ -455,21 +445,20 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes.com/2020/08/04/world/coronavirus-covid-19.html)
+»](https://www.nytimes.com/2020/08/08/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-At least 7 new coronavirus deaths and 533 new cases were reported in
-Puerto Rico on Aug. 4. Over the past week, there have been an average of
-498 cases per day, an increase of 24 percent from the average two weeks
+At least 7 new coronavirus deaths and 752 new cases were reported in
+Puerto Rico on Aug. 7. Over the past week, there have been an average of
+558 cases per day, an increase of 37 percent from the average two weeks
 earlier.
 
-As of Wednesday morning, there have been at least 19,324 cases and 237
+As of Saturday evening, there have been at least 21,424 cases and 274
 deaths in Puerto Rico since the beginning of the pandemic, according to
-a New York Times
-database.
+a New York Times database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
 
@@ -489,7 +478,7 @@ Per capita
 
 <div class="map-keys">
 
-<div class="map-key doubling-key active" data-type="hotspots">
+<div class="map-key doubling-key active" type="hotspots">
 
 <div class="key-subhed">
 
@@ -625,7 +614,7 @@ Few or no cases
 
 </div>
 
-<div class="map-key cases-key false" data-type="cases">
+<div class="map-key cases-key false" type="cases">
 
 <div class="key-bubbles">
 
@@ -649,12 +638,11 @@ Few or no cases
 
 </div>
 
-<div class="map-key percap-key false" data-type="percap">
+<div class="map-key percap-key false" type="percap">
 
 <div class="key-subhed">
 
-Share of population with a reported
-case
+Share of population with a reported case
 
 </div>
 
@@ -800,11 +788,11 @@ emerged.
 
 <div class="g-svelte" data-component="5">
 
-<div class="table-controls svelte-1c7zbrd multi-toggles">
+<div class="table-controls svelte-17o3xv multi-toggles">
 
-<div class="multi-toggle-buttons-container svelte-1c7zbrd">
+<div class="multi-toggle-buttons-container svelte-17o3xv">
 
-<div class="layer-toggles-grid svelte-1c7zbrd">
+<div class="layer-toggles-grid svelte-17o3xv">
 
 Cases
 
@@ -847,199 +835,174 @@ in last<br />
 7 days</th>
 <th>Per 100,000</th>
 <th>Weekly cases per capita
-<div class="legend-parent svelte-1x4ysxw">
-<div class="table-legend table-legend-hotspots svelte-1x4ysxw">
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #f2df91;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ffae43;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ff6e0b;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ce0a05;"></span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 2;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 3;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-</div>
+<div class="legend svelte-72ew08">
+<span class="block svelte-72ew08" style="background-color: #f2df91;"></span> <span class="block svelte-72ew08" style="background-color: #ffae43;"></span> <span class="block svelte-72ew08" style="background-color: #ff6e0b;"></span> <span class="block svelte-72ew08" style="background-color: #ce0a05;"></span> <span class="falling svelte-72ew08">Fewer</span> <span class="rising svelte-72ew08">More</span>
 </div></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><span>Puerto Rico </span></td>
-<td><span>19,324 </span></td>
-<td><span>571 </span></td>
-<td><span>237 </span></td>
-<td><span>7 </span></td>
-<td><span>3,484 </span></td>
-<td><span>103 </span></td>
-<td><span>28 </span></td>
-<td><span>&lt;1 </span></td>
+<td><span>21,424 </span></td>
+<td><span>633 </span></td>
+<td><span>274 </span></td>
+<td><span>8 </span></td>
+<td><span>3,905 </span></td>
+<td><span>115 </span></td>
+<td><span>46 </span></td>
+<td><span>1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
 <div class="pancake-chart svelte-1gzh5rp">
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
-<span class="first x-label svelte-ig1tx7">Mar. 1</span>
+<span class="first x-label svelte-ig1tx7">March 1</span>
 </div>
-<div class="pancake-point svelte-11ba04d" style="left: 100.00000000000001%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 4</span>
+<div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
+<span class="last x-label svelte-ig1tx7">Aug. 7</span>
 </div>
 </div>
 </div>
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/puerto_rico.svg" alt="Puerto Rico heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/puerto_rico.svg" class="svelte-ig1tx7" alt="Puerto Rico heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Florida </span></td>
-<td><span>158 </span></td>
-<td><span>1,395 </span></td>
+<td><span>173 </span></td>
+<td><span>1,527 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>38 </span></td>
-<td><span>335 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/florida.svg" alt="Florida heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Corozal </span></td>
-<td><span>188 </span></td>
-<td><span>582 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>64 </span></td>
-<td><span>198 </span></td>
+<td><span>37 </span></td>
+<td><span>327 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/corozal.svg" alt="Corozal heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Barranquitas </span></td>
-<td><span>218 </span></td>
-<td><span>793 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>54 </span></td>
-<td><span>197 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/barranquitas.svg" alt="Barranquitas heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/florida.svg" class="svelte-ig1tx7" alt="Florida heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>San Juan </span></td>
-<td><span>2,752 </span></td>
-<td><span>857 </span></td>
+<td><span>3,133 </span></td>
+<td><span>976 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>628 </span></td>
-<td><span>196 </span></td>
+<td><span>731 </span></td>
+<td><span>228 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/san_juan.svg" alt="San Juan heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/san_juan.svg" class="svelte-ig1tx7" alt="San Juan heatmap" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Carolina </span></td>
-<td><span>1,068 </span></td>
-<td><span>723 </span></td>
+<td><span>1,213 </span></td>
+<td><span>821 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>271 </span></td>
-<td><span>184 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/carolina.svg" alt="Carolina heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Naranjito </span></td>
-<td><span>240 </span></td>
-<td><span>882 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>48 </span></td>
-<td><span>176 </span></td>
+<td><span>336 </span></td>
+<td><span>228 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/naranjito.svg" alt="Naranjito heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Toa Alta </span></td>
-<td><span>498 </span></td>
-<td><span>700 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><span>120 </span></td>
-<td><span>169 </span></td>
-<td><span>— </span></td>
-<td><span>— </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/toa_alta.svg" alt="Toa Alta heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/carolina.svg" class="svelte-ig1tx7" alt="Carolina heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
 <td><span>Orocovis </span></td>
-<td><span>186 </span></td>
-<td><span>920 </span></td>
+<td><span>212 </span></td>
+<td><span>1,048 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>32 </span></td>
-<td><span>158 </span></td>
+<td><span>44 </span></td>
+<td><span>218 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/orocovis.svg" alt="Orocovis heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/orocovis.svg" class="svelte-ig1tx7" alt="Orocovis heatmap" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Morovis </span></td>
-<td><span>228 </span></td>
-<td><span>758 </span></td>
+<td><span>Naranjito </span></td>
+<td><span>275 </span></td>
+<td><span>1,011 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>47 </span></td>
-<td><span>156 </span></td>
+<td><span>53 </span></td>
+<td><span>195 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/morovis.svg" alt="Morovis heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/naranjito.svg" class="svelte-ig1tx7" alt="Naranjito heatmap" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Las Marías </span></td>
-<td><span>55 </span></td>
-<td><span>691 </span></td>
+<td><span>Vieques </span></td>
+<td><span>57 </span></td>
+<td><span>681 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
-<td><span>12 </span></td>
-<td><span>151 </span></td>
+<td><span>16 </span></td>
+<td><span>191 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/20139a6bad1057ff5cc9c0ed4110308185896386/build/heatmaps/nyt_world/usa/usa_72/las_mar_as.svg" alt="Las Marías heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/vieques.svg" class="svelte-ig1tx7" alt="Vieques heatmap" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Toa Alta </span></td>
+<td><span>563 </span></td>
+<td><span>792 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>130 </span></td>
+<td><span>183 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/toa_alta.svg" class="svelte-ig1tx7" alt="Toa Alta heatmap" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Bayamón </span></td>
+<td><span>1,446 </span></td>
+<td><span>848 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>309 </span></td>
+<td><span>181 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/bayam_n.svg" class="svelte-ig1tx7" alt="Bayamón heatmap" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Corozal </span></td>
+<td><span>218 </span></td>
+<td><span>675 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>58 </span></td>
+<td><span>179 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/corozal.svg" class="svelte-ig1tx7" alt="Corozal heatmap" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Vega Baja </span></td>
+<td><span>393 </span></td>
+<td><span>783 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>83 </span></td>
+<td><span>165 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/build/heatmaps/nyt_world/usa/usa_72/vega_baja.svg" class="svelte-ig1tx7" alt="Vega Baja heatmap" />
 </div></td>
 </tr>
 </tbody>
@@ -1091,8 +1054,7 @@ information our journalists are gathering from around the country.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -1102,8 +1064,7 @@ information our journalists are gathering from around the country.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">500
-</span>
+<span class="count-label svelte-bw547y">500 </span>
 
 </div>
 
@@ -1113,8 +1074,7 @@ information our journalists are gathering from around the country.
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">1,000
-cases</span>
+<span class="count-label svelte-bw547y">1,000 cases</span>
 
 </div>
 
@@ -1128,44 +1088,44 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.13375796178343%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.3125%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.394904458598724%; top: 91.67430491903453%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.75%; top: 91.67430491903453%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1186,8 +1146,7 @@ data reporting anomaly. Read more [here](#anomaly-notes).</span>
 <div class="g-source">
 
 <span class="g-credit">Note: The seven-day average is the average of a
-day and the previous six days of
-data.</span>
+day and the previous six days of data.</span>
 
 </div>
 
@@ -1211,8 +1170,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">0
-</span>
+<span class="count-label svelte-bw547y">0 </span>
 
 </div>
 
@@ -1222,8 +1180,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">10
-</span>
+<span class="count-label svelte-bw547y">10 </span>
 
 </div>
 
@@ -1233,8 +1190,7 @@ data.</span>
 
 <div class="grid-line horizontal svelte-bw547y">
 
-<span class="count-label svelte-bw547y">20
-deaths</span>
+<span class="count-label svelte-bw547y">20 deaths</span>
 
 </div>
 
@@ -1248,44 +1204,44 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.745222929936304%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.375%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 38.853503184713375%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 38.125%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.59872611464968%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 57.5%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 77.70700636942675%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 76.25%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 97.45222929936305%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 95.625%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 33.439490445859875%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 98.4375%; top: 47.82608695652174%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 46.496815286624205%; top: 90.06211180124224%">
+<div class="pancake-point svelte-11ba04d" style="left: 34.375%; top: 69.56521739130434%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1317,21 +1273,17 @@ States](https://www.nytimes.com/interactive/2020/04/28/us/coronavirus-death-toll
 and [in more than a dozen other
 countries](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
 have undercounted deaths during the coronavirus outbreak because of
-limited testing
-availability.
+limited testing availability.
 
 <div class="g-footer-asset">
 
-## <span class="g-balancer" data-id="8">About the data</span>
+## <span id="8" class="g-balancer">About the data</span>
 
 <div class="g-asset g-svelte g-anomaly-notes g-asset-width-full" style="">
 
 <div class="g-svelte" data-component="9">
 
-<div id="anomaly-notes" class="g-anomaly-notes svelte-11z6hfh">
-
-The Times has found the following reporting anomalies for the data on
-this page:
+<div id="anomaly-notes" class="g-anomaly-notes svelte-bczh6j">
 
 <div class="g-container g-list-circle">
 
@@ -1380,7 +1332,7 @@ Read more about the methodology and download county-level data for
 coronavirus cases in the United States from The New York Times [on
 GitHub](https://github.com/nytimes/covid-19-data).
 
-## <span class="g-balancer" data-id="10">Tracking the Coronavirus</span>
+## <span id="10" class="g-balancer">Tracking the Coronavirus</span>
 
 <div class="g-asset g-svelte g-footer-nav" style="max-width: 600px">
 
@@ -1417,8 +1369,7 @@ Countries
   - [United
     States](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+State by state
 
   - [Alabama](https://www.nytimes.com/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes.com/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -1499,7 +1450,7 @@ State by
 
 </div>
 
-## <span class="g-balancer" data-id="12">What you can do</span>
+## <span id="12" class="g-balancer">What you can do</span>
 
 Experts’ [understanding of how the Covid-19 works is
 growing](https://www.nytimes.com/2020/06/02/health/coronavirus-profile-covid.html).
@@ -1507,7 +1458,9 @@ It seems that there are [four factors that most likely play a
 role](https://www.nytimes.com/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
-how much you touch your face afterwards.
+how much you touch your face afterwards. [Here is a guide to the
+symptoms of
+Covid-19.](https://www.nytimes.com/interactive/2020/08/05/well/covid-19-symptoms.html)
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
@@ -1535,8 +1488,7 @@ them.
 
 Here’s a [complete guide on how you can
 prepare](https://www.nytimes.com/interactive/2020/world/coronavirus-tips-advice.html)
-for the coronavirus
-outbreak.
+for the coronavirus outbreak.
 
 </div>
 
@@ -1633,7 +1585,7 @@ Virgilio.
 
 <div class="css-i29ckm">
 
-<div class="interactive-sharetools css-9z2bwm" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="interactive-sharetools css-9z2bwm" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -1660,8 +1612,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -1699,8 +1650,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

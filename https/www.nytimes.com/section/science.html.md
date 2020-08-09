@@ -569,12 +569,11 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+    ## Coronavirus Live Updates: U.S. Surpasses 5 Million Coronavirus Cases
     
-    Talks on a new U.S. pandemic relief package are stalled and its
-    crucial benefits are expiring. President Trump said he would use
-    executive orders to provide aid, but it is unclear whether he has
-    the power to do so.
+    Brazil ranks second after the U.S. and also reached a milestone:
+    more than 100,000 deaths. Tens of thousands of motorcyclists
+    gathered in Sturgis, S.D., despite objections from residents.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -602,7 +601,7 @@ Advertisement
     
     </div>
     
-    ## Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu
+    ## Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu
     
     Most people won’t spread the virus widely. The few who do are
     probably in the wrong place at the wrong time in their infection,

@@ -170,6 +170,41 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sidestepping Congress, Trump Signs Executive Measures for Pandemic Relief
+    
+    President Trump signed the directives after two weeks of stalemate
+    with Democrats over a recovery package, using legally dubious
+    measures to try to restore lapsed benefits.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
+    <span>and</span> Jim Tankersley</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
     
     <div class="css-79elbk">
@@ -201,7 +236,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -236,7 +271,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -270,7 +305,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -305,7 +340,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -340,7 +375,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +410,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +443,7 @@ Advertisement
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -442,7 +477,7 @@ Advertisement
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -461,40 +496,6 @@ Advertisement
     President Trump and Democrats blamed each other for the lapse of
     $600-per-week federal unemployment benefits, risking further
     economic pain and a voter backlash for failing to act.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Emily Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/us/politics/senate-virus-aid.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/30/us/politics/30dc-virus-cong/merlin_175125483_766e94d2-b4cf-4291-bfa2-ec789bf05792-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## With Jobless Aid Set to Lapse, Lawmakers Fail to Agree on Extension
-    
-    Senate Republicans forced the chamber to begin moving forward with
-    an extension of unemployment benefits that expire on Friday, but
-    there was no agreement on a measure to do so.
     
     <div class="css-1nqbnmb ea5icrr0">
     

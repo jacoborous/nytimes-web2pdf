@@ -258,13 +258,19 @@ Friedman</span>
 
 </div>
 
-  - Aug. 8, 2020, <span class="css-epvm6">6:00 a.m. ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 8, 2020Updated <span class="css-epvm6">6:20 p.m. ET</span>
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -301,17 +307,13 @@ benefits from the federal government allowed her to pay rent and buy
 food. When her day care provider closed, she was able to get her
 4-year-old daughter a subscription to ABCmouse, an online learning app.
 
-But the federal money has run out, and talks in Washington over how to
-replace it have broken down.
+But the federal money ran out at the end of July, and politicians in
+Washington have been unable to agree on how to replace it.
 
 So Ms. Oseko, 39, is spending much of her time sitting in the Delaware
 hotel room where she has lived since her landlord kicked her out at the
 end of July, applying for jobs on her phone while watching the debate
 play out on the local news.
-
-“I’m glued to it because I want to know, is there going to be hope for
-me?” she said. “They’re fighting, and I have to watch them fight, but
-they have a place to sleep at night.”
 
 </div>
 
@@ -321,24 +323,20 @@ they have a place to sleep at night.”
 
 <div class="css-53u6y8">
 
-Until a few days ago, most analysts expected Congress to agree on a new
-emergency spending bill that would include at least a partial extension
-of the extra unemployment benefits, perhaps including retroactive
+“I’m glued to it because I want to know, is there going to be hope for
+me?” she said. “They’re fighting, and I have to watch them fight, but
+they have a place to sleep at night.”
+
+On Saturday, with negotiations in Congress stalled and on the verge of
+collapse, President Trump signed four directives aimed at providing
+economic assistance, including financial help to the unemployed. But it
+was unclear if Mr. Trump had the authority to act on his own on matters
+requiring federal spending, or how long it would take for money to start
+flowing if he did.
+
+Congress may yet agree on a new emergency spending bill that would
+include extra unemployment benefits, perhaps including retroactive
 payments for the period when the program lapsed.
-
-But negotiations stalled, and in an appearance at his golf club in New
-Jersey on Friday, President Trump said that if no deal was reached, he
-would issue an executive order extending the extra benefits in some
-form. It is unclear whether he has the authority to do so, or how long
-it will take for states to start paying out the benefits if he does.
-
-For many of the 30 million Americans relying on unemployment benefits,
-it could already be too late to prevent lasting financial harm. Without
-the extra $600 a week, which ran out at the end of July, they will need
-to get by on regular state unemployment benefits, which often total a
-few hundred dollars a week or less. For many families, that will not be
-enough to prevent eviction, hunger or mounting debt that will make it
-harder to climb out of the hole.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -360,7 +358,7 @@ harder to climb out of the hole.
 
 <div class="briefing-block-update-time">
 
-[20h
+[24h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#wealthy-families-are-throwing-a-lifeline-to-distressed-businesses)
 
 </div>
@@ -374,7 +372,7 @@ businesses.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today
 
 <div class="briefing-block-update-time">
 
-[21h
+[25h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
 
 </div>
@@ -388,7 +386,7 @@ employees.](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-
 
 <div class="briefing-block-update-time">
 
-[26h
+[30h
 ago](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
 
 </div>
@@ -430,21 +428,20 @@ updates](https://www.nytimes.com/live/2020/08/07/business/stock-market-today-cor
 
 </div>
 
+But for many of the 30 million Americans relying on unemployment
+benefits, it could already be too late to prevent lasting financial
+harm. Without a federal supplement, they will need to get by on regular
+state unemployment benefits, which often total a few hundred dollars a
+week or less. For many families, that will not be enough to pay the
+rent, stave off hunger or avoid mounting debt that will make it harder
+to climb out of the hole.
+
 Households and the broader economy are particularly vulnerable at this
 moment. [Eviction
 moratoriums](https://www.nytimes.com/2020/08/07/business/economy/housing-economy-eviction-renters.html)
-are expiring or have expired in much of the country, although Mr. Trump
-threatened to bypass Congress to reinstate a partial federal moratorium.
-The Paycheck Protection Program, which helped thousands of small
-businesses to retain workers, ends this week.
-
-There are already signs that the economy has slowed down this summer as
-virus cases have surged in much of the country. On Friday, the [Labor
-Department reported a net gain of 1.8 million
-jobs](https://www.nytimes.com/2020/08/07/business/economy/july-jobs-report.html)
-in July, a smaller increase than in May or June. Many economists warn
-that layoffs could begin rising again without more government support.
-Food banks say they are bracing for a new wave of demand.
+are expiring or have expired in much of the country. The Paycheck
+Protection Program, which helped thousands of small businesses to retain
+workers, ended Saturday.
 
 </div>
 
@@ -453,6 +450,14 @@ Food banks say they are bracing for a new wave of demand.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+There are already signs that the economy has slowed down this summer as
+virus cases have surged in much of the country. On Friday, the [Labor
+Department reported a net gain of 1.8 million
+jobs](https://www.nytimes.com/2020/08/07/business/economy/july-jobs-report.html)
+in July, a smaller increase than in May or June. Many economists warn
+that layoffs could begin rising again without more government support.
+Food banks say they are bracing for a new wave of demand.
 
 Before the pandemic, Ms. Oseko and her family were making ends meet,
 albeit with little margin for error. She earned $15 an hour as a
@@ -463,9 +468,9 @@ two-bedroom house near a park where their daughter could play.
 When the pandemic hit, Ms. Oseko’s hours were cut and her boyfriend was
 furloughed. Then, in May, she lost her job altogether. In the midst of
 that crisis, another one appeared: Their landlord sold her building and
-gave them 60 days to leave. They moved out last week and are burning
-through their meager savings at a rate of $76 a night at a Delaware
-motel that is filling up with families in the same predicament.
+gave them 60 days to leave. They moved out at the end of July and are
+burning through their meager savings at a rate of $76 a night at a
+Delaware motel that is filling up with families in the same predicament.
 
 </div>
 
@@ -537,6 +542,14 @@ The more generous benefits offered during this recession may have
 allowed families to save some money, but those savings won’t last long,
 particularly when food prices are rising at the fastest pace in years.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 As a result, families are being forced to make decisions with lasting
 consequences.
 
@@ -546,14 +559,6 @@ payment. The $600 unemployment supplement was a lifeline, allowing them
 to hold on to their home and their car. But on July 28, that lifeline
 snapped: The repo man showed up for the car on the day that their
 landlord delivered a three-day notice of eviction.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 With the extra $600 a week, Mr. Depretis, 42, would probably have been
 able to pay enough to hold off both creditors. Without it, he had to

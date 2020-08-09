@@ -376,15 +376,15 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Trump Signs Limited Orders on Economic Aid as Stimulus Talks Stall</span>
+## <span>U.S. Surpasses 5 Million Coronavirus Cases</span>
 
 </div>
 
-  - The executive orders came as crucial benefits were expiring and no
-    new pandemic relief was in sight.
-  - White House officials and top congressional Democrats remained
-    bitterly, and widely, divided on a number of critical issues. Here’s
-    the latest.
+  - No other country has reported as many infections: Brazil ranks
+    second, with about three million, and India is third with two
+    million.
+  - President Trump signed executive orders on economic aid as stimulus
+    talks stalled. Their impact may be limited. Here’s the latest.
 
 <div class="css-1slnf6i">
 
@@ -439,11 +439,25 @@ Speaker Nancy Pelosi is refusing to agree to a narrow relief measure.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/08/world/08VIRUS-TAB-slide-AF2D/08VIRUS-TAB-slide-AF2D-videoLarge.jpg)
+![](https://static01.nyt.com/images/2020/08/08/world/08VIRUS-TAB-pm-slide-NAFH/08VIRUS-TAB-pm-slide-NAFH-videoLarge.jpg)
 
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+![](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/0784f203bec09e80e434dbd4f952fbd250e0e652/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -540,13 +554,13 @@ president.
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div>
-
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-65h9d3 eqveam60">
+<div class="css-1yoguk1 eqveam60">
 
-<div class="css-1qj0wac eqveam61">
+<div class="css-qvz0vj eqveam61">
+
+<div class="css-1aew2eb eqveam62">
 
 <div class="css-1ee8y2t assetWrapper">
 
@@ -571,6 +585,36 @@ what happened next.
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-pwtn0q eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/08/magazine/us-russia-intelligence.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:177.77777777777777px">
+
+</div>
+
+</div>
+
+<div class="section css-1xdhyk6 e2u1rkt0">
+
+<span class="credit">Doug Mills/The New York Times</span>
 
 </div>
 
@@ -620,28 +664,31 @@ what happened next.
 
 </div>
 
-</div>
-
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div class="css-1ee8y2t assetWrapper">
+<div>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1yoguk1 eqveam60">
+<div class="css-1fgqvm0 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/07/health/coronavirus-superspreading-contagion.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>When Covid-19 Hit, Many Elderly Were Left to Die</span>
+## <span>Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu</span>
 
 </div>
 
-Warnings had piled up for years that nursing homes were vulnerable. The
-pandemic sent them to the back of the line for equipment and care.
+Most people won’t spread the virus widely. The few who do are probably
+in the wrong place at the wrong time in their infection, new models
+suggest.
 
 <div>
 
@@ -655,68 +702,13 @@ pandemic sent them to the back of the line for equipment and care.
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
+</div>
+
+</div>
+
+<div class="css-ws86q6 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
-
-[](/2020/08/08/world/europe/coronavirus-nursing-homes-elderly.html)
-
-<div class="css-1g8bx4t">
-
-![<span class="credit">Mauricio Lima for The New York
-Times</span>](https://static01.nyt.com/images/2020/08/03/world/00virus-nursinghomes-promo/00virus-nursinghomes-threeByTwoMediumAt2X.jpg)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-<div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -724,17 +716,16 @@ Times</span>](https://static01.nyt.com/images/2020/08/03/world/00virus-nursingho
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
+[](/2020/08/08/nyregion/nyc-illegal-parties.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Clashes Erupt in Beirut as Lebanon’s Anger Boils Over</span>
+## Rave Under the Bridge: Are Illicit Parties Endangering N.Y.C.?
 
 </div>
 
-A demonstration was fueled by fury over the corruption and negligence of
-the country’s ruling elite. Security forces fired tear gas at
-protesters.
+Videos and photos posted on social media of a number of parties show few
+guests abiding by social-distancing guidelines.
 
 <div>
 
@@ -747,43 +738,22 @@ protesters.
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
 
 <div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## As Lebanon Reels, Long-Awaited Assassination Verdicts Loom
-
-</div>
-
-Almost no one is expecting the full truth about the massacre of the
-country’s former prime minister and his entourage in a bombing in 2005.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
 
 <div class="css-1g8bx4t">
 
@@ -791,12 +761,49 @@ country’s former prime minister and his entourage in a bombing in 2005.
 
 </div>
 
-<div class="section css-1xdhyk6 e2u1rkt0">
+</div>
 
-Demonstrators took hold of Lebanon’s capital, fueled by widespread
-outrage after a blast in Beirut’s port that killed at least 154 people
-and destroyed entire neighborhoods. <span class="credit">Hassan
-Ammar/Associated Press</span>
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-96x60l eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/technology/talkspace.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>At Talkspace, Start-Up Culture Collides With Mental Health Concerns</span>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-7douaa eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/technology/talkspace.html)
+
+The therapy-by-text company made burner phones available for fake
+reviews and doesn’t adequately respect client privacy, former employees
+say.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -847,44 +854,6 @@ Burna Boy’s Afro-fusion music. And more.
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="css-pwtn0q eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/07/briefing/best-weekend-reads.html)
-
-<div class="css-1g8bx4t">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:177.77777777777777px">
-
-</div>
-
-</div>
-
-<div class="css-e4gm3y">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-778gjy eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
@@ -906,6 +875,32 @@ Burna Boy’s Afro-fusion music. And more.
 </div>
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/07/briefing/best-weekend-reads.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:480px">
+
+</div>
+
+</div>
+
+<div class="css-e4gm3y">
 
 </div>
 
@@ -988,7 +983,7 @@ do this right.
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-square640-v2.jpg?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
@@ -1005,6 +1000,42 @@ do this right.
 </div>
 
 <div class="css-dh19r0">
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
+
+<div class="css-dcl9ft">
+
+![Ross
+Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ross Douthat
+
+</div>
+
+</div>
+
+## What to Do When Covid Doesn’t Go Away
+
+</div>
+
+Lessons for coronavirus long-haulers from my own experience with chronic
+illness.
+
+</div>
+
+</div>
 
 <div class="css-tub26b">
 
@@ -1028,8 +1059,57 @@ James Mann
 
 </div>
 
-As national security adviser, he voiced strong opinions and acted on
-them, especially when it came to Beijing and Moscow.
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+David Hajdu
+
+</div>
+
+</div>
+
+## A Song That Changed Music Forever
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/05/opinion/sunday/indian-matchmaking-netflix.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Sanjena Sathian
+
+</div>
+
+</div>
+
+## We Need to Talk About ‘Indian Matchmaking’
+
+</div>
 
 </div>
 
@@ -1072,98 +1152,6 @@ Maureen Dowd
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
-
-<div class="css-dcl9ft">
-
-![Ross
-Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Ross Douthat
-
-</div>
-
-</div>
-
-## What to Do When Covid Doesn’t Go Away
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-David Hajdu
-
-</div>
-
-</div>
-
-## A Song That Changed Music Forever
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/latina-women-politics.html)
-
-<div class="css-dcl9ft">
-
-![Jorge
-Ramos](https://static01.nyt.com/images/2019/11/08/opinion/jorge-ramos/jorege-ramos-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Jorge Ramos
-
-</div>
-
-</div>
-
-## What Sonia Sotomayor Told a 10-Year-Old Girl
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
 [](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
 
 <div class="css-debyuq e1voiwgp1">
@@ -1179,6 +1167,32 @@ Michael T. Osterholm and Neel Kashkari
 </div>
 
 ## Here’s How to Crush the Virus Until Vaccines Arrive
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Ron Haviv
+
+</div>
+
+</div>
+
+## Could This Be the Last Time We See Our Dad?
 
 </div>
 
@@ -1285,39 +1299,6 @@ Elizabeth Bruenig
 
 </div>
 
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/opinion/beirut-explosion.html)
-
-<div class="css-dcl9ft">
-
-![Roger
-Cohen](https://static01.nyt.com/images/2014/11/01/opinion/cohen-circular/cohen-circular-thumbLarge-v6.png?quality=75&auto=webp&disable=upscale)
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Roger Cohen
-
-</div>
-
-</div>
-
-## Beirut on the Potomac
-
-</div>
-
-</div>
-
-</div>
-
 </div>
 
 </div>
@@ -1344,7 +1325,7 @@ Roger Cohen
 
 <div class="css-1xaqcky">
 
-[](/2020/08/07/sports/tennis/serena-williams-us-open.html)
+[](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
 
 <div class="css-1g8bx4t">
 
@@ -1358,7 +1339,7 @@ Roger Cohen
 
 <div class="section css-1xdhyk6 e2u1rkt0">
 
-<span class="credit">Ben Solomon for The New York Times</span>
+<span class="credit">Michaela Skovranova for The New York Times</span>
 
 </div>
 
@@ -1368,17 +1349,16 @@ Roger Cohen
 
 <div class="css-1nl6p6m">
 
-[](/2020/08/07/sports/tennis/serena-williams-us-open.html)
+[](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>After It All, Serena Williams Still Has No. 24 In Sight</span>
+## <span>Taking a Spear Into the Sea, and Washing Anxiety Away</span>
 
 </div>
 
-After a pause because of the pandemic, Williams is preparing for the
-U.S. Open, her next chance to tie Margaret Court’s Grand Slam singles
-title record.
+People in Sydney were carrying spearguns to and from the ocean. Our
+Australia bureau chief dived in to understand why.
 
 <div>
 
@@ -1410,16 +1390,16 @@ title record.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
+[](/2020/08/06/movies/megan-fox-jennifers-body.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Your Hot-Weather Guide to Coronavirus, Air-Conditioning and Airflow
+## What Megan Fox Taught Me About the Power of Subversive Girls
 
 </div>
 
-Indoor air is riskier than outdoor air. So what do you do if it’s really
-hot out?
+The horror comedy “Jennifer’s Body,” starring Fox as a demon who eats
+boys, showed me the value of teen scream queens.
 
 <div>
 
@@ -1437,7 +1417,7 @@ hot out?
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/science/coronavirus-spread-air-conditioning.html)
+[](/2020/08/06/movies/megan-fox-jennifers-body.html)
 
 <div class="css-1g8bx4t">
 
@@ -1471,17 +1451,16 @@ hot out?
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
+[](/2020/08/04/well/family/parents-social-media-privacy.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## This Is How It All Ends
+## Why Parents Should Pause Before Oversharing Online
 
 </div>
 
-In “The End of Everything,” the theoretical cosmologist Katie Mack takes
-a look at the ultimate doom and destruction of our universe. It’s not
-pretty.
+As social media comes of age, will we regret all the information we
+revealed about our families during its early years?
 
 <div>
 
@@ -1499,7 +1478,7 @@ pretty.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/books/review/the-end-of-everything-katie-mack.html)
+[](/2020/08/04/well/family/parents-social-media-privacy.html)
 
 <div class="css-1g8bx4t">
 

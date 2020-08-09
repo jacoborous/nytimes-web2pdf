@@ -199,7 +199,7 @@ Supported by
     
     <div class="css-10wtrbd">
     
-    ## [Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu](/2020/08/07/health/coronavirus-superspreading-contagion.html)
+    ## [Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu](/2020/08/07/health/coronavirus-superspreading-contagion.html)
     
     Most people won’t spread the virus widely. The few who do are
     probably in the wrong place at the wrong time in their infection,
@@ -514,22 +514,21 @@ Advertisement
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
-    Lee/USA Today Sports, via
-    Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+    Moneymaker for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
+    ## [Trump Sidesteps Congress on Coronavirus Relief Actions](/video/us/politics/100000007279838/trump-coronavirus-relief-order.html)
     
-    The players, who have pushed for more-frequent virus testing and
-    stronger protection of their status with the team, said Pac-12
-    Commissioner Larry Scott offered no concrete mandates for the
-    league’s universities.
+    President Trump signed four actions on coronavirus relief Saturday
+    after Congress negotiations stalled. It’s unclear what authority he
+    has to do so, and the orders are likely to be challenged in the
+    courts.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Billy
-    Witz</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Reuters</span></span>
     
     </div>
 
@@ -592,12 +591,11 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+    ## Coronavirus Live Updates: U.S. Surpasses 5 Million Coronavirus Cases
     
-    Talks on a new U.S. pandemic relief package are stalled and its
-    crucial benefits are expiring. President Trump said he would use
-    executive orders to provide aid, but it is unclear whether he has
-    the power to do so.
+    Brazil ranks second after the U.S. and also reached a milestone:
+    more than 100,000 deaths. Tens of thousands of motorcyclists
+    gathered in Sturgis, S.D., despite objections from residents.
     
     <div class="css-1nqbnmb ea5icrr0">
     

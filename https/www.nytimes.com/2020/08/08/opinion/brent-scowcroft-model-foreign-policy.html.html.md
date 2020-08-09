@@ -215,13 +215,13 @@ the Broken Friendship that Defined an Era.”
 
 </div>
 
-  - Aug. 8, 2020, <span class="css-epvm6">4:02 p.m. ET</span>
+  - Aug. 8, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -270,7 +270,7 @@ Times</span></span></span>](https://static01.nyt.com/images/2020/08/08/opinion/0
 It became known in foreign policy circles as “the Scowcroft model.”
 Brent Scowcroft, the former national security adviser for Presidents
 Gerald Ford and George H.W. Bush, who [died
-Friday](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html),
+Thursday](https://www.nytimes.com/2020/08/07/us/politics/brent-scowcroft-dead.html),
 was frequently praised for establishing a paradigm for doing that job
 that many of his successors attempted (or claimed) to follow. The irony
 is that the real Brent Scowcroft, a man of strong views, didn’t always

@@ -81,8 +81,7 @@
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[World](/section/world)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Coronavirus
-Live Updates: Weeks Before Classes Start, Colleges Make Reopening
-Plans</span>
+Live Updates: U.S. Surpasses 5 Million Coronavirus Cases</span>
 
 </div>
 
@@ -219,34 +218,33 @@ Supported by
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 8, 2020, 4:07 p.m.
+<span class="css-1656jku">Aug. 8, 2020, 8:16 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 4:07
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 8, 2020, 8:16
 p.m. ET</span>
 
 </div>
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+# Coronavirus Live Updates: U.S. Surpasses 5 Million Coronavirus Cases
 
 </div>
 
-Talks on a new U.S. pandemic relief package are stalled and its crucial
-benefits are expiring. President Trump said he would use executive
-orders to provide aid, but it is unclear whether he has the power to do
-so.
+Brazil ranks second after the U.S. and also reached a milestone: more
+than 100,000 deaths. Tens of thousands of motorcyclists gathered in
+Sturgis, S.D., despite objections from residents.
 
 <div class="css-192lewg e1oheyly0">
 
 Right Now
 
-President Trump plans to hold a news conference, where he’s expected to
-sign a handful of executive orders addressing the economic fallout from
-the coronavirus.
+President Trump signed executive actions on economic aid as stimulus
+talks stalled. Their impact may be limited, and legal challenges are
+expected.
 
 </div>
 
@@ -256,20 +254,20 @@ the coronavirus.
 
 ### Here’s what you need to know:
 
+  - [At 5 million cases, the U.S. has passed another coronavirus
+    milestone.](#link-697eb3e1)
+  - [With Congress at an impasse, Trump signs actions for another round
+    of economic aid.](#link-5b7b4fa2)
+  - [Brazil surpasses 100,000 virus deaths a month earlier than health
+    officials predicted.](#link-680eccee)
   - [Universities make reopening plans, and parents see tough choices no
     matter what.](#link-7bd2f2ea)
-  - [As U.S. relief talks falter again, Trump says he’s prepared to act
-    on his own.](#link-182e4a8e)
   - [Motorcycles fill the streets of Sturgis, S.D., for a 10-day rally
     expected to attract 250,000 people.](#link-6d42ce45)
+  - [Parents in the U.S. are suing schools, demanding they teach
+    children in person.](#link-458f8def)
   - [A C.D.C. report on children shows hundreds were sent to intensive
     care for a syndrome connected to Covid-19.](#link-57c61e05)
-  - [The blockaded Gaza Strip is nearly untouched, except for tough new
-    limits on movement.](#link-bb0ce1a)
-  - [Low-wage and unemployed workers find themselves in limbo as
-    stimulus measures expire.](#link-1f7e24cf)
-  - [Here’s how to regulate indoor air when summer weather coincides
-    with a pandemic.](#link-5bad68cc)
 
 </div>
 
@@ -281,14 +279,11 @@ the coronavirus.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Katelyn
-Hutchison, a member of her schools track team, and her father, Kelly
-Hutchison. Seeing her disappointment at a national track championship
-meet being canceled because of the coronavirus “was one of the most
-painful things I’ve ever experienced,” Mr. Hutchison
-said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nolis
-Anderson for The New York
-Times</span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-college/merlin_175377363_8014a0f4-9a2d-44df-9db4-db595c604847-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A testing
+center in the rural town of Ruleville, Miss., in
+July.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Rory
+Doyle for The New York
+Times</span></span>](https://static01.nyt.com/images/2020/08/07/world/07virus-briefing-5million-sub/merlin_175093896_a95684f2-9a09-4ead-a7fd-cca08f985db0-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -300,7 +295,7 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus
 
 ## 
 
-<div id="link-7bd2f2ea" class="css-105iojl">
+<div id="link-697eb3e1" class="css-105iojl">
 
 </div>
 
@@ -310,37 +305,27 @@ Times</span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus
 
 </div>
 
-Universities make reopening plans, and parents see tough choices no
-matter what.
+At 5 million cases, the U.S. has passed another coronavirus milestone.
 
-The usual parental worries about college-bound children — whether they
-will be happy, or productive, or find a suitable major leading to a
-stable career — are getting sidelined this fall by one overwhelming
-concern: With coronavirus cases [spiking in many parts of the
-country](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html),
-will students be safe at school?
+While politicians wrangled over a pandemic relief package and schools
+struggled over whether to open their doors to students, the United
+States passed another milestone on Saturday: more than five million
+known coronavirus infections.
 
-[More than a quarter of U.S.
-colleges](https://collegecrisis.shinyapps.io/dashboard/) plan to begin
-fall instruction fully or mostly online, but many are still opening up
-their dorms. And at many schools, upperclassmen are returning to
-off-campus apartments, or fraternity or sorority houses. That leaves
-parents with the choice of forcing their 20-year-olds to stay home
-against their will, or allowing them to leave and join their friends,
-knowing the infection data may not be in their favor.
+No other country has reported as many cases. Brazil ranks second, with
+about three million, and India is third with two million. (In cases per
+capita, the United States ranks eighth, between Oman and Peru.)
 
-“This is a situation where you have to pray for the best and be ready
-for the worst,” said Kelly Hutchison, a retired firefighter and [single
-father](https://books.apple.com/us/book/book-title/id1291492202?ls=1) in
-Chicago whose daughter, Katelyn, is a student at Ithaca College.
+The data, from [a New York Times
+database](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html),
+is based on reports of known cases from federal, state and local
+officials. Public health experts have warned that the actual number of
+people infected is far greater.
 
-Some parents are still debating whether their child should take the year
-off entirely. For schools on the semester system, tuition bills for
-thousands, or even tens of thousands of dollars, are due this month. But
-up until those due dates, colleges are trying to be flexible. In many
-cases, “you can defer admission, or you can take an academic leave, and
-they’ll allow you to come back,” said Lynn Pasquerella, the president of
-the Association of American Colleges and Universities.
+Cases are trending upward in seven states, as well as in Puerto Rico,
+Guam and the U.S. Virgin Islands, and decreasing in 17, according to The
+Times database. In the past week, Louisiana, Mississippi and Florida had
+the most new cases relative to population.
 
 </div>
 
@@ -350,52 +335,105 @@ the Association of American Colleges and Universities.
 
 <div class="css-53u6y8">
 
-Taking such a break, however, may not be realistic, said Jill
-Schwitzgebel, a college counselor in Celebration, Fla. “What is your
-child going to do with a gap year?” she said. “Getting a job is tough.
-Flying overseas is not happening.”
+The United States reported its millionth case on April 28, more than
+three months after the first reported case. The country passed two
+million cases on June 10, three million on July 7 and four million on
+July 23.
 
-Other updates from around the U.S.:
+The United States now tests roughly 720,000 people a day, according to
+[data from the Covid Tracking
+Project.](https://covidtracking.com/data/us-daily)
 
-  - **Princeton**
-    [announced](https://www.princeton.edu/news/2020/08/07/fall-2020-update-undergraduate-education-be-fully-remote)
-    Friday that all undergraduate classes would be held online during
-    the fall semester. In a statement, the university’s president said
-    that the pandemic “prevents a genuinely meaningful on-campus
-    experience for undergraduates.” On Monday, the university also said
-    it would cut tuition by 10 percent for all undergraduates during the
-    2020-21 school year.
+The number of new coronavirus cases daily peaked on July 16, with
+75,697. It has been slowly tapering off since then, to a seven-day
+average of around 54,000 per day.
 
-  - **Johns Hopkins University** [made a similar
-    announcement](https://hub.jhu.edu/2020/08/06/university-moves-undergraduate-instruction-online/)
-    on Thursday, moving to remote learning and reducing undergraduate
-    tuition by 10 percent for the fall term.
+The seven-day average daily death toll is hovering around 1,000. That is
+down from a peak of more than 2,200 on a single day in mid-April, when
+bigger cities like New York and Seattle were hit the hardest. (The most
+deadly single day was April 15, with 2,752.)
 
-  - Gov. Gavin Newsom of California released
-    [guidance](https://files.covid19.ca.gov/pdf/guidance-higher-education--en.pdf)
-    on Friday for colleges and universities that plan to reopen. For
-    schools in counties that are flagged by the state for elevated
-    transmission for three consecutive days, the guidance would prohibit
-    indoor classes. Many of the campuses of **California State
-    University**, the nation’s largest four-year public university
-    system, have [already committed to remote
-    learning](https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html)
-    for the fall.
+At least 161,000 people have died since the pandemic began. But the
+seven-day average daily death toll is now significantly higher than it
+was in early July, when it was around 500. Cases have surged since then
+— [particularly in the Sun Belt
+states](https://www.nytimes.com/2020/06/14/us/coronavirus-united-states.html)
+and in communities where officials moved quickly to
+[reopen](https://www.nytimes.com/interactive/2020/07/09/us/coronavirus-cases-reopening-trends.html).
+Many of the places with the most cases per capita have been smaller
+cities and rural communities in the South and the Midwest.
 
-  - On Thursday, the **University of Massachusetts, Amherst**
-    [backtracked](https://www.umass.edu/coronavirus/news/significant-changes-our-fall-reopening-plan)
-    on a previous plan to let students enrolled in online classes live
-    on campus. Just weeks before the semester is scheduled to begin, the
-    university said only a small subset of students “enrolled in
-    essential face-to-face classes” would be allowed into dorms and
-    dining halls.
+</div>
 
-  - Officials at **Harvard**
-    [said](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
-    on Thursday that they planned to allow up to 40 percent of
-    undergraduates, including the entire freshman class, to return to
-    campus for the fall, but that all instruction would be delivered
-    online. The university has not offered discounted tuition.
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">President Trump signed four
+actions on coronavirus relief Saturday after Congress negotiations
+stalled. It’s unclear what authority he has to do so, and the orders are
+likely to be challenged in the
+courts.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anna
+Moneymaker for The New York
+Times</span></span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+## 
+
+<div id="link-5b7b4fa2" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+With Congress at an impasse, Trump signs actions for another round of
+economic aid.
+
+President Trump took executive action on Saturday to circumvent Congress
+and try to extend an array of federal pandemic relief, resorting to a
+legally dubious set of edicts whose impact was unclear, as negotiations
+over [an economic recovery
+package](https://www.nytimes.com/2020/08/08/world/coronavirus-updates.html)
+appeared on the brink of collapse.
+
+It was not clear what authority Mr. Trump had to act on his own on the
+measures or what immediate effect, if any, they would have, given that
+Congress controls federal spending. But his decision to sign the
+measures — billed as a federal eviction ban, a payroll tax suspension,
+and relief for student borrowers and the unemployed — reflected the
+failure of two weeks of talks between White House officials and top
+congressional Democrats to strike a deal on a broad relief plan as
+crucial benefits have expired with no resolution in sight.
+
+Mr. Trump’s move also illustrated the heightened concern of a president
+staring down re-election in the middle of a historic recession and a
+pandemic, and determined to show voters that he was doing something to
+address the crises. But despite Mr. Trump’s assertions on Saturday that
+his actions “will take care of this entire situation,” the orders also
+leave a number of critical bipartisan funding proposals unaddressed,
+including providing assistance to small businesses, billions of dollars
+to schools ahead of the new school year, aid to states and cities and a
+second round of $1,200 stimulus checks to Americans.
+
+“Nancy Pelosi and Chuck Schumer have chosen to hold this vital
+assistance hostage,” Mr. Trump said, savaging the two top Democrats
+during a news conference at his private golf club in New Jersey, his
+second in two days. A few dozen club guests were in attendance, and the
+president appeared to revel in their laughter at his jokes denouncing
+his political rivals.
 
 </div>
 
@@ -543,13 +581,13 @@ Mass.
 ### U.S. hot spots ›
 
 ![US coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/images/orphan_usa-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/cd3f3bc6b8c8089803b9023f79b7e90a4d168062/images/orphan_usa-threeByTwoSmallAt2X.png)
 [](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 
 ### Worldwide ›
 
 ![Worldwide coronavirus
-cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29b653c7065c40929a24ba018b33e7d99dc/images/orphan_world-threeByTwoSmallAt2X.png)
+cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/cd3f3bc6b8c8089803b9023f79b7e90a4d168062/images/orphan_world-threeByTwoSmallAt2X.png)
 
 </div>
 
@@ -575,7 +613,7 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29
 
 ## 
 
-<div id="link-182e4a8e" class="css-105iojl">
+<div id="link-680eccee" class="css-105iojl">
 
 </div>
 
@@ -585,78 +623,41 @@ cases](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/73f1a29
 
 </div>
 
-As U.S. relief talks falter again, Trump says he’s prepared to act on
-his own.
+Brazil surpasses 100,000 virus deaths a month earlier than health
+officials predicted.
 
 </div>
 
 </div>
 
-![<span class="css-16f3y1r e13ogyst0">Though it’s unclear whether he has
-the authority to do so, President Trump said on Friday that if Congress
-did not reach an agreement, he would act unilaterally to extend a
-coronavirus economic aid
-package.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Anna
-Moneymaker for The New York
-Times</span></span></span>](https://static01.nyt.com/images/2020/09/07/business/07vid-trump/07vid-trump-videoSixteenByNine3000.jpg)
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
 
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
 
-<div class="css-53u6y8">
+</div>
 
-Crisis negotiations between the White House and top Democrats teetered
-on the brink of collapse on Friday, as both sides said they remained
-deeply divided on an economic recovery package and President Trump
-indicated that he was prepared to act on his own to provide relief,
-although it was unclear whether he has the authority to do so.
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
 
 </div>
 
 </div>
 
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
+</div>
 
-<div class="css-53u6y8">
-
-On Saturday afternoon, Mr. Trump plans to sign a handful of executive
-orders related to virus relief. The White House declined to describe the
-substance of the orders in advance. One person familiar with what was
-expected said they related to a halt in the payroll tax, an eviction
-moratorium, unemployment benefits and student loan relief.
-
-[At a news conference on
-Friday](https://www.nytimes.com/2020/08/07/us/politics/trump-news-conference-bedminster.html)
-evening at his golf resort in Bedminster, N.J., [Mr. Trump
-said](https://www.nytimes.com/video/us/politics/100000007279339/trump-says-he-will-act-on-his-own-if-congress-doesnt-agree-on-relief.html)
-that if an aid agreement with congressional Democrats could not be
-reached, he would sign executive orders reinstating a national
-moratorium on evictions, deferring student loan interest and payments
-“until further notice,” and “enhancing unemployment benefits” through
-the end of the year.
-
-He also said he would defer payroll taxes, retroactive from July 1
-through the end of the year.
-
-The president **** did not specify how the deferral would work, and it
-was unclear whether he had the authority to take such an action without
-approval from Congress. The move, which would not help unemployed
-workers, faces opposition from both Democrats and Republicans in
-Congress.
-
-The news conference came after a meeting between administration
-officials and Democratic leaders that ended with no agreement and no
-additional talks scheduled.
-
-Democrats, who had earlier said they would be willing to lower their
-spending demands to $2 trillion from $3.4 trillion, said the White House
-needed to return with a higher overall price tag after Mr. Trump’s
-negotiators declined to accept that offer. Republicans have proposed a
-$1 trillion plan.
-
-Treasury Secretary Steven Mnuchin and Mark Meadows, the White House
-chief of staff, called for Democrats to lower the amount of aid for
-state and local governments and to provide more specifics on how they
-proposed to revive lapsed unemployment benefits.
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Julio Cesar
+Ramos and his cousin Eduardo Magela mourning at the funeral of Maria das
+Dores, Ramos’ mother, in Brasilia, Brazil, last month. Ms. Dores died
+after contracting the
+virus.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Andre
+Sousa Borges/EPA, via Shutterstock</span></span>
 
 </div>
 
@@ -666,8 +667,193 @@ proposed to revive lapsed unemployment benefits.
 
 <div class="css-53u6y8">
 
-While the executive orders have not been finalized, Mr. Meadows said it
-was likely that action would come over the weekend.
+Five months after its first case of Covid-19, Brazil has passed the
+bleak milestone of 100,000 deaths, [the Ministry of Health reported on
+Saturday](https://covid.saude.gov.br/). The country is also reporting
+about three million cases.
+
+President Jair Bolsonaro has repeatedly denied the severity of Brazil’s
+coronavirus crisis even as the death count has risen more quickly than
+the government anticipated.
+
+Mr. Bolsonaro’s refusal to support social distancing measures pushed two
+health ministers out, leaving the country’s response to the virus to be
+led by a general with no experience in public health.
+
+The ministry has yet to reach an agreement with city and state
+officials, who have been scrambling to respond with varying levels of
+success, on how to combat the pandemic.
+
+In early March, officials at Brazil’s Ministry of Health predicted the
+virus would kill at least 100,000 of the country’s citizens. But they
+estimated that number would only be reached in September, said Julio
+Croda, who then headed the ministry’s department overseeing immunization
+and transmissible diseases.
+
+“The presidency wouldn’t believe in these numbers,” he said. “It’s one
+month ahead of schedule because the social distancing measures fell.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Since June, Brazil has frequently reported more than 1,000 new deaths a
+day, as the number of new infections and deaths plateaued at a high
+level. Dr. Croda believes the country will continue on this trajectory
+for some weeks, adding tens of thousands of deaths to its toll in the
+coming months.
+
+The numbers, he believes, will eventually fall — as they have begun to
+do in severely hit states such as Amazonas — when a large number of
+Brazilians acquire immunity to the virus.
+
+But that “has nothing to do with the government,” Dr. Croda said. “It is
+a consequence of tragedy.”
+
+## 
+
+<div id="link-7bd2f2ea" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Universities make reopening plans, and parents see tough choices no
+matter what.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Katelyn
+Hutchison, a member of her schools track team, and her father, Kelly
+Hutchison. Seeing her disappointment at a national track championship
+meet being canceled because of the coronavirus “was one of the most
+painful things I’ve ever experienced,” Mr. Hutchison
+said.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Nolis
+Anderson for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The usual parental worries about college-bound children — whether they
+will be happy, or productive, or find a suitable major leading to a
+stable career — are getting sidelined this fall by one overwhelming
+concern: With coronavirus cases [spiking in many parts of the
+country](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html),
+will students be safe at school?
+
+[More than a quarter of U.S.
+colleges](https://collegecrisis.shinyapps.io/dashboard/) plan to begin
+fall instruction fully or mostly online, but many are still opening up
+their dorms. And at many schools, upperclassmen are returning to
+off-campus apartments, or fraternity or sorority houses. That leaves
+parents with the choice of forcing their 20-year-olds to stay home
+against their will, or allowing them to leave and join their friends,
+knowing the infection data may not be in their favor.
+
+“This is a situation where you have to pray for the best and be ready
+for the worst,” said Kelly Hutchison, a retired firefighter and [single
+father](https://books.apple.com/us/book/book-title/id1291492202?ls=1) in
+Chicago whose daughter, Katelyn, is a student at Ithaca College.
+
+Some parents are still debating whether their child should take the year
+off entirely. For schools on the semester system, tuition bills for
+thousands, or even tens of thousands of dollars, are due this month. But
+up until those due dates, colleges are trying to be flexible. In many
+cases, “you can defer admission, or you can take an academic leave, and
+they’ll allow you to come back,” said Lynn Pasquerella, the president of
+the Association of American Colleges and Universities.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Taking such a break, however, may not be realistic, said Jill
+Schwitzgebel, a college counselor in Celebration, Fla. “What is your
+child going to do with a gap year?” she said. “Getting a job is tough.
+Flying overseas is not happening.”
+
+Other updates from around the U.S.:
+
+  - **Princeton**
+    [announced](https://www.princeton.edu/news/2020/08/07/fall-2020-update-undergraduate-education-be-fully-remote)
+    Friday that all undergraduate classes would be held online during
+    the fall semester. In a statement, the university’s president said
+    that the pandemic “prevents a genuinely meaningful on-campus
+    experience for undergraduates.” On Monday, the university also said
+    it would cut tuition by 10 percent for all undergraduates during the
+    2020-21 school year.
+
+  - **Johns Hopkins University** [made a similar
+    announcement](https://hub.jhu.edu/2020/08/06/university-moves-undergraduate-instruction-online/)
+    on Thursday, moving to remote learning and reducing undergraduate
+    tuition by 10 percent for the fall term.
+
+  - Gov. Gavin Newsom of California released
+    [guidance](https://files.covid19.ca.gov/pdf/guidance-higher-education--en.pdf)
+    on Friday for colleges and universities that plan to reopen. For
+    schools in counties that are flagged by the state for elevated
+    transmission for three consecutive days, the guidance would prohibit
+    indoor classes. Many of the campuses of **California State
+    University**, the nation’s largest four-year public university
+    system, have [already committed to remote
+    learning](https://www.nytimes.com/2020/05/12/us/cal-state-online-classes.html)
+    for the fall.
+
+  - On Thursday, the **University of Massachusetts, Amherst**
+    [backtracked](https://www.umass.edu/coronavirus/news/significant-changes-our-fall-reopening-plan)
+    on a previous plan to let students enrolled in online classes live
+    on campus. Just weeks before the semester is scheduled to begin, the
+    university said only a small subset of students “enrolled in
+    essential face-to-face classes” would be allowed into dorms and
+    dining halls.
+
+  - Officials at **Harvard**
+    [said](https://www.fas.harvard.edu/fas-decision-2020-2021-academic-year)
+    on Thursday that they planned to allow up to 40 percent of
+    undergraduates, including the entire freshman class, to return to
+    campus for the fall, but that all instruction would be delivered
+    online. The university has not offered discounted tuition.
 
 </div>
 
@@ -733,9 +919,6 @@ the number who attended last year, but a figure that puts it on track to
 be among the country’s largest public gatherings since the first
 coronavirus cases emerged.
 
-South Dakota is one of several states that did not impose a lockdown,
-and state officials have not required residents to wear masks.
-
 </div>
 
 </div>
@@ -743,6 +926,9 @@ and state officials have not required residents to wear masks.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+South Dakota is one of several states that did not impose a lockdown,
+and state officials have not required residents to wear masks.
 
 Health experts say the coronavirus is less likely to spread outdoors,
 especially when people wear masks and socially distance. But large
@@ -769,6 +955,106 @@ Saturday.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+## 
+
+<div id="link-458f8def" class="css-105iojl">
+
+</div>
+
+<div>
+
+<span height="1"></span>
+
+</div>
+
+Parents in the U.S. are suing schools, demanding they teach children in
+person.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:267.44444444444446px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Parents and
+children who want schools to reopen protest outside a meeting of the
+Hillsborough County school board in Tampa, Fla., on
+Thursday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Octavio
+Jones/Getty Images</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Two parents sued the school board and health department in Franklin
+County, Ohio, this week demanding that their son’s high school provide
+in-person classes to start the school year later this month. The lawsuit
+claims that remote learning, which the district plans to provide to all
+students until at least Sept. 21, does not meet their son’s educational
+needs.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Similar lawsuits have been filed in other parts of the country,
+including Springfield, Mo., where [three families are
+demanding](https://www.ky3.com/2020/07/31/springfield-attorney-files-lawsuit-against-springfield-public-schools-over-reopening-plan/)
+five days a week of in-person classes, and California, where [more than
+a dozen
+parents](https://www.ocregister.com/2020/08/07/parents-sue-gov-newsom-other-state-officials-demanding-in-person-instruction/)
+are seeking to overturn an order by Gov. Gavin Newsom that prevents
+schools from immediately reopening classrooms in most of the state.
+
+Parents of private school students in Maryland [also sued this
+week](https://www.nytimes.com/2020/08/05/us/schools-reopening-private-public.html)
+to block a Montgomery County order requiring private schools to teach
+remotely. The order was [rescinded on
+Friday](https://www.baltimoresun.com/coronavirus/bs-md-republicans-private-schools-20200807-3eiwqeyfgfh5nnppen3z4o7vba-story.html)
+after a battle of authority between the county and the governor.
+
+“Distance learning has been proved to be largely ineffective,” said Rex
+Elliott, the lawyer representing the Ohio parents suing the Upper
+Arlington Board of Education and the Franklin County Health Department.
+“That is devastating to their educational growth in the face of a
+virus that, in this age group, simply is not a dangerous or lethal
+concern.”
+
+Public health experts [continue to debate the
+evidence](https://www.nytimes.com/2020/07/30/health/coronavirus-children.html)
+over how easily children contract or spread the virus. It is also
+unclear how often they develop a [rare inflammatory
+condition](https://www.nytimes.com/2020/06/29/well/family/caring-for-children-with-multisystem-inflammatory-syndrome.html)
+that has been linked to Covid-19.
 
 ## 
 
@@ -1317,114 +1603,6 @@ effectively combat the epidemic, which sadly is rising again.”
 
 ## 
 
-<div id="link-2bb5ac9e" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-The C.D.C. closes some offices in Atlanta after discovering dangerous
-bacteria in the water.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
-headquarters of the Centers for Disease Control and Prevention in
-Atlanta.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Audra
-Melton for The New York Times</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The nation’s foremost public health agency is learning that it is not
-immune to the complex effects of the coronavirus pandemic.
-
-Recently, the Centers for Disease Control and Prevention told employees
-that some office space it leases in the Atlanta area would be closed
-again after property managers of the buildings discovered Legionella,
-the bacteria that causes Legionnaires’ disease, in water sources at the
-sites. No employees were sickened. The announcement was [reported on
-Friday by
-CNN](https://www.cnn.com/2020/08/07/health/coronavirus-legionnaires-water-cdc/index.html).
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-That the C.D.C. is contending with this problem highlights the
-seriousness of Legionella in the aftermath of coronavirus lockdowns, and
-how complicated it can be to prevent it.
-
-The C.D.C. itself [warns that Legionnaires’
-disease](https://www.cdc.gov/legionella/index.html), a respiratory
-illness, can be fatal in 1 in 10 cases. Since various jurisdictions in
-the United States have put in effect lockdowns to contain the spread of
-the new coronavirus, some experts have been warning of the [risk of
-Legionnaires’
-outbreaks](https://www.nytimes.com/2020/05/20/health/coronavirus-legionnaires-offices.html)
-when people return to buildings left unoccupied for months.
-
-The bacteria that causes the illness, Legionella pneumophila, can form
-in warm, stagnant water that is not properly disinfected. When sinks are
-turned on or toilets flushed, the bacteria can then be sent through the
-air and inhaled.
-
-While most earlier research focused on the growth of Legionella during
-weekends and short holiday periods, scientists are only beginning to
-learn about how the bacteria proliferates during periods of long-term
-stagnation, and which methods are most effective to protect against it.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-## 
-
 <div id="link-17b89333" class="css-105iojl">
 
 </div>
@@ -1474,6 +1652,10 @@ distancing and mask wearing. The diligence has helped keep the
 coronavirus under control in the city even as outbreaks have raged
 across the United States, primarily in the South and the West.
 
+As the summer wears on, however, mounting reports of parties, concerts
+and other social events, like a recent rave under the Kosciuszko Bridge,
+are raising fears that New York’s hard-earned stability may be tenuous.
+
 </div>
 
 </div>
@@ -1481,10 +1663,6 @@ across the United States, primarily in the South and the West.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
-
-As the summer wears on, however, mounting reports of parties, concerts
-and other social events, like a recent rave under the Kosciuszko Bridge,
-are raising fears that New York’s hard-earned stability may be tenuous.
 
 Over the last few weeks, videos and photos posted on social media have
 shown densely packed, mask-free crowds.
@@ -1528,232 +1706,14 @@ confirmed cases over the last five days.
 
 <div class="css-53u6y8">
 
-## 
-
-<div id="link-3fdfb923" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-As Myanmar’s tourism collapses, horses become too expensive to keep
-alive.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:262.2888888888889px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Praying
-outside the closed Shwedagon Pagoda in Yangon, Myanmar, last week. The
-Buddhist pagoda is one of the country’s most popular tourist
-sites.  </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Sai
-Aung Main/Agence France-Presse — Getty Images</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-When a coronavirus lockdown [sealed Myanmar’s
-borders](https://www.nytimes.com/2020/03/27/world/asia/coronavirus-myanmar-jobs-china.html?searchResultPosition=7)
-in March, the tourism industry was devastated, even if the country was
-spared from disease.
-
-Now, in the hill town of Pyin Oo Lwin, owners of horse carts that used
-to clip-clop through streets laden with visitors are sending their
-animals to slaughterhouses because they can no longer afford to keep
-them alive.
-
-“I feel sad about selling the horse, because he is like a family
-member,” said U Maung Win, a horse cart owner. “He worked so hard to
-save our lives, and I could not save his life.”
-
-For months now, no tourists have come to ride through the town, with its
-cool breezes and pretty gardens, Mr. Maung Win said, but the horses
-still needed to be fed, at a cost of a couple dollars a day. The
-slaughterhouses paid about $500 per animal.
-
-Mr. Maung Win, who supports a family of six, now works as a mason and is
-paid less than $10 a week.
-
-“It’s better than nothing,” he said.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-With his horse and a cart painted like a fairy-tale stagecoach, Mr.
-Maung Win could pull in $10 in a single day, delivering tourists to the
-botanical gardens or cafes offering fresh strawberries. Couples posed
-for wedding pictures in the carriages, holding the bell-adorned reins in
-their intertwined hands.
-
-Two-thirds of the 100 or so horse carts in town are now gone, Mr. Maung
-Win said.
-
-“I tried not to sell the horse to the slaughterhouse, but I had no
-choice,” he said. “I still feel sad talking about this.”
-
-Lucky friends, he said, had two horses. But he owned only one.
-
-## 
-
-<div id="link-6cd5a1c2" class="css-105iojl">
-
-</div>
-
-<div>
-
-<span height="1"></span>
-
-</div>
-
-When the virus hit, nursing home residents in some countries were left
-to die.
-
-</div>
-
-</div>
-
-<div class="css-79elbk" data-testid="photoviewer-wrapper">
-
-<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
-
-</div>
-
-<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
-
-<div class="css-1xdhyk6 erfvjey0">
-
-<span class="css-1ly73wi e1tej78p0">Image</span>
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:257.77777777777777px">
-
-</div>
-
-</div>
-
-</div>
-
-<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The
-Christalain nursing home in Brussels in June. An owner of the home said
-hospitals had rejected residents who had Covid-19, even when beds were
-available.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Mauricio
-Lima for The New York Times</span></span>
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Of all the missteps by governments during the pandemic, few have had
-such an immediate and devastating impact as the failure to protect
-nursing homes. Tens of thousands of older people have died — casualties
-not only of the virus, but of more than a decade of ignored warnings
-that nursing homes were vulnerable.
-
-Public health officials around the world excluded nursing homes from
-their pandemic preparedness plans and omitted residents from the
-mathematical models used to guide their responses.
-
-In recent months, as the United States has blundered its way into the
-world’s largest death toll, about 40 percent of those fatalities [have
-been
-linked](https://www.kff.org/health-costs/issue-brief/state-data-and-policy-actions-to-address-coronavirus/#stateleveldata)
-to long-term care centers. Yet European countries still lead the world
-in deaths per capita, in part because of what happened inside their
-nursing homes.
-
-Spanish prosecutors [are investigating
-cases](https://www.nytimes.com/2020/03/25/world/europe/Spain-coronavirus-nursing-homes.html)
-in which residents were abandoned to die. In Sweden, overwhelmed
-emergency doctors have acknowledged [turning away elderly
-patients](https://www.dn.se/nyheter/sverige/overlakare-logn-att-patienter-inte-prioriterats-bort/).
-In Britain, the [government ordered thousands of older hospital
-patients](https://www.independent.co.uk/news/health/coronavirus-care-homes-nhs-hospital-discharges-deaths-a9544671.html)
-— including some with Covid-19 — back to nursing homes to make room for
-an expected crush of virus cases. (Similar policies were in effect in
-[some U.S.
-states](https://www.nytimes.com/2020/04/24/us/nursing-homes-coronavirus.html).)
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-The response in Belgium has offered a gruesome twist: Paramedics and
-hospitals sometimes flatly denied care to elderly people, even as
-hospital beds sat unused.
-
-“Paramedics had been instructed by their referral hospital not to take
-patients over a certain age, often 75 but sometimes as low as 65,” the
-charity Doctors Without Borders said in a July
-[report](https://www.msf.org/sites/msf.org/files/2020-07/Left%20behind%20-%20MSF%20care%20homes%20in%20Belgium%20report.pdf).
-
-More than 5,700 residents of nursing homes in the country have died,
-[according to newly published
-data](https://www.medrxiv.org/content/10.1101/2020.06.20.20136234v1.full.pdf).
-During the peak of the crisis, from March through mid-May, residents
-accounted for two out of every three coronavirus deaths.
-
-</div>
-
-</div>
-
-<div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Reporting was contributed by Iyad Abuheweila, Matt Apuzzo, Makr Walker,
-Hannah Beech, Pam Belluck, Conor Dougherty, Alex Marshall, Constant
-Méheut, Zach Montague, Heather Murphy, Julia Echikson, Max Horberry,
-Claire Moses, Monika Pronczuk, Adam Rasgon, Thomas Rogers, Constance
-Sommer, Matina Stevis-Gridneff, Katherine J. Wu and Mihir Zaveri.
+Reporting was contributed by Iyad Abuheweila, Sarah Almukhtar, Manuela
+Andreoni, Matt Apuzzo, Hannah Beech, Pam Belluck, Julia Calderone, Emily
+Cochrane, Conor Dougherty, Jacey Fortin, Maggie Haberman, Alex Marshall,
+Giulia McDonnell Nieto del Rio, Constant Méheut, Zach Montague, Heather
+Murphy, Julia Echikson, Max Horberry, Claire Moses, Monika Pronczuk,
+Adam Rasgon, Thomas Rogers, Constance Sommer, Matina Stevis-Gridneff,
+Jim Tankersley, Derrick Taylor, Mark Walker, Katherine J. Wu and Mihir
+Zaveri.
 
 </div>
 

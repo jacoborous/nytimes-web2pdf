@@ -164,8 +164,8 @@ Than Just a Tweet: Trump’s Campaign to Undercut Democracy</span>
     
     </div>
     
-    [Tennessee
-    Results](https://www.nytimes.com/interactive/2020/08/06/us/elections/results-tennessee-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Hawaii
+    Results](https://www.nytimes.com/interactive/2020/08/08/us/elections/results-hawaii-primary-elections.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -633,7 +633,7 @@ the United States.”
 
 # Our 2020 Election Guide
 
-Updated Aug. 7, 2020
+Updated Aug. 8, 2020
 
   - 
     
@@ -641,11 +641,10 @@ Updated Aug. 7, 2020
     
     ## The Latest
     
-      - [Russia is using a range of techniques to denigrate Joe
-        Biden](https://www.nytimes.com/2020/08/07/us/politics/russia-china-trump-biden-election-interference.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
-        American intelligence officials said, declaring that Moscow
-        continues to try to interfere in the 2020 campaign to help
-        President Trump.
+      - With 160 lawsuits filed over voting rules and President Trump's
+        baseless claims of fraud, Election Day in America [could become
+        Election
+        Month](https://www.nytimes.com/2020/08/08/us/politics/voting-nov-3-election.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

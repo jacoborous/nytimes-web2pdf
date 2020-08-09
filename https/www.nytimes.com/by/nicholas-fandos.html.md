@@ -20,8 +20,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -61,7 +60,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -71,8 +70,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-top)
+[Continue reading the main story](#after-top)
 
 <div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -135,8 +133,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid1)
+[Continue reading the main story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -177,23 +174,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+    [](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/us/politics/09DC-Pelosi-print1/08DC-Pelosi1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+    ### <span class="css-m70j1g">News analysis</span>
     
-    The upset of the veteran congressman from St. Louis sent tremors
-    though the Democratic establishment in Missouri and Washington, D.C.
+    ## Pelosi Is Playing Hardball on Coronavirus Relief. She Thinks She’ll Win.
+    
+    Emboldened by Republican divisions and a favorable political
+    landscape, the speaker is refusing to agree to a narrow relief
+    measure, unbothered by charges that she is an impediment to a deal.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
+    Nicholas Fandos</span>
     
     </div>
     
@@ -206,6 +206,74 @@ story](#after-mid1)
     </div>
 
 2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/us/politics/sally-yates-flynn-investigation.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/06/us/politics/06dc-yates-print/merlin_175334196_f2e6a48c-8354-473c-b5cd-106139a8f0c9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Sally Yates, Under Attack by Republicans, Defends Flynn Investigation
+    
+    The former deputy attorney general criticized the Justice
+    Department’s decision to drop its prosecution of Michael T. Flynn,
+    President Trump’s former national security adviser.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/us/politics/cori-bush-missouri-william-lacy-clay.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/04/us/politics/04dc-missouri/04dc-missouri-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Cori Bush Defeats William Lacy Clay in a Show of Progressive Might
+    
+    The upset of the veteran congressman from St. Louis sent tremors
+    through the Democratic establishment in Missouri and Washington,
+    D.C.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas Fandos</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
     
     <div class="css-1cp3ece">
     
@@ -228,8 +296,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Emily Cochrane <span>and</span>
-    Nicholas
-    Fandos</span>
+    Nicholas Fandos</span>
     
     </div>
     
@@ -241,7 +308,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -264,8 +331,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Nicholas Fandos</span>
     
     </div>
     
@@ -277,7 +343,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -312,7 +378,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -335,8 +401,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nicholas
-    Fandos</span>
+    By <span class="css-1n7hynb">Nicholas Fandos</span>
     
     </div>
     
@@ -348,7 +413,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -371,8 +436,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nicholas Fandos <span>and</span>
-    Charlie
-    Savage</span>
+    Charlie Savage</span>
     
     </div>
     
@@ -384,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -406,8 +470,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Nicholas Fandos, Charlie Savage, Sharon
-    LaFraniere <span>and</span> Linda
-    Qiu</span>
+    LaFraniere <span>and</span> Linda Qiu</span>
     
     </div>
     
@@ -419,7 +482,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -442,74 +505,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Charlie Savage <span>and</span>
-    Nicholas
-    Fandos</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/live/2020/07/27/business/stock-market-today-coronavirus/republicans-want-to-slash-600-unemployment-payments-to-200)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/27/opinion/27-markets-brf-unemploymentbenefits1/merlin_174978804_c5832afa-6529-4c64-9657-3b3cd83b56f1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Republicans want to slash $600 unemployment payments to $200.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
-    Cochrane</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/26/us/politics/coronavirus-stimulus-bill-unemployment.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/07/26/us/politics/26dc-virus-cong/26dc-virus-cong-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump Officials Float Idea of Narrow Bill to Extend Unemployment Benefits
-    
-    The proposal on the eve of Republicans’ unveiling of a larger aid
-    bill amounts to a concession that the two parties are unlikely to
-    reach a deal before benefits expire.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Fandos <span>and</span> Emily
-    Cochrane</span>
+    Nicholas Fandos</span>
     
     </div>
     
@@ -527,24 +523,23 @@ story](#after-mid1)
 
 <div class="css-1stvaey">
 
-Show
-More
+Show More
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
 
 </div>
 
@@ -568,8 +563,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-mid2)
+[Continue reading the main story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -638,8 +632,7 @@ Email Author
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

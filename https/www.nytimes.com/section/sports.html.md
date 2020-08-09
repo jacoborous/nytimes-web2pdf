@@ -190,7 +190,7 @@ Supported by
 
 1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Harry
     How/Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/sports/08pga-silence1/08pga-silence1-threeByTwoMediumAt2X.jpg)
+    Images</span>](https://static01.nyt.com/images/2020/08/08/sports/08pga-silence1/08pga-silence1-threeByTwoMediumAt2X-v2.jpg)
     
     <div class="css-xbztij">
     
@@ -263,28 +263,26 @@ Supported by
         
         </div>
     
-    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
-        Monterrosa for The New York
-        Times</span>](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/merlin_175405419_33dfb7cf-fa3d-40d2-9094-3dc79fc00fc7-threeByTwoMediumAt2X.jpg)
+    3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stacey
+        Heatherington/NYRA, via Associated
+        Press</span>](https://static01.nyt.com/images/2020/08/08/sports/08travers/merlin_175485759_ee76117d-2894-41c4-8771-f258a682c723-threeByTwoMediumAt2X.jpg)
         
         <div class="css-1r9cexg">
         
         <div class="css-1ox3lt4">
         
-        [![](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/08nfl-optouts-1-thumbStandard.jpg)](/2020/08/08/sports/football/nfl-players-opt-out.html)
+        [![](https://static01.nyt.com/images/2020/08/08/sports/08travers/merlin_175485759_ee76117d-2894-41c4-8771-f258a682c723-thumbStandard.jpg)](/2020/08/08/sports/horse-racing/tiz-the-law-travers.html)
         
         </div>
         
-        ## [Bear Hugs and Bubbles: Why Some N.F.L. Players Opted Out](/2020/08/08/sports/football/nfl-players-opt-out.html)
+        ## [Tiz the Law Wins the Travers in a Runaway](/2020/08/08/sports/horse-racing/tiz-the-law-travers.html)
         
-        “I’m literally bear-hugging another creature on the other side
-        of the ball every single play,” Leo Koloamatangi, a Jets
-        offensive lineman, said. “If that guy has any symptoms, I’m
-        going to get them.”
+        The Belmont winner will head to the postponed Kentucky Derby as
+        the favorite after breezing to victory at Saratoga.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ben
-        Shpigel</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Joe
+        Drape</span></span>
         
         </div>
 
@@ -294,7 +292,26 @@ Supported by
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
+    Monterrosa for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/sports/08nfl-optouts-1/merlin_175405419_33dfb7cf-fa3d-40d2-9094-3dc79fc00fc7-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Bear Hugs and Bubbles: Why Some N.F.L. Players Opted Out](/2020/08/08/sports/football/nfl-players-opt-out.html)
+    
+    “I’m literally bear-hugging another creature on the other side of
+    the ball every single play,” Leo Koloamatangi, a Jets offensive
+    lineman, said. “If that guy has any symptoms, I’m going to get
+    them.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ben
+    Shpigel</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tom
     Pennington/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-live-2/merlin_175451520_0749e3d8-5836-4bc3-a036-b0045d77b4a0-videoLarge.jpg)
     
@@ -312,7 +329,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
     Lee/USA Today Sports, via
     Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
     
@@ -331,7 +348,7 @@ Supported by
     
     </div>
 
-3.  ### essay
+4.  ### essay
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Seth
     Wenig/Associated
@@ -351,7 +368,7 @@ Supported by
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>AJ
     Mast for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/07/sports/07nfl-employees01/07nfl-employees01-videoLarge.jpg)
     
@@ -370,7 +387,15 @@ Supported by
     
     </div>
 
-5.  ### on tennis
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ### on tennis
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
     Solomon for The New York
@@ -390,15 +415,7 @@ Supported by
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/sports/08indonesia-badminton-promo/08indonesia-badminton-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -414,7 +431,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
     Squire/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/07/sports/07pga-koepka/merlin_175392972_a0fbddf9-9c59-4960-8d1a-7d0af2748f2e-videoLarge.jpg)
     
@@ -431,7 +448,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
     J. Terrill/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/07/multimedia/07xp-angels-fentanyl-pix/07xp-angels-fentanyl-pix-videoLarge.jpg)
     
@@ -446,26 +463,6 @@ Supported by
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Christina
     Morales</span></span>
-    
-    </div>
-
-4.  ### On Horse Racing
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cindy
-    Schultz for The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/08/sports/07horses2-print/07horses-1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [For a Small Stable, Big Prizes Could Lie Ahead](/2020/08/07/sports/tiz-the-law-millions.html)
-    
-    Tiz the Law has won the first leg of this year’s rejiggered Triple
-    Crown, and his stallion rights have the potential to generate
-    millions for Sackatoga Stable in New York.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Joe
-    Drape</span></span>
     
     </div>
 
@@ -541,6 +538,41 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/sports/soccer/juventus-sarri-champions-league.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/sports/08onsoccer-sarri/merlin_175462515_96897e40-5fad-42f4-b5b1-83032e456016-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Soccer</span>
+    
+    ## In Champions League, a Coach With the Right Résumé Can Still Get It Wrong
+    
+    For Europe’s superclubs, the bar for success hasn’t changed. What
+    teams look for in a coach absolutely has.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Rory Smith</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/sports/baseball/cardinals-game-postponed-coronavirus.html)
     
     <div class="css-79elbk">
@@ -568,7 +600,7 @@ Advertisement
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -603,7 +635,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -639,7 +671,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -672,7 +704,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -706,7 +738,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -739,7 +771,7 @@ Advertisement
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -773,7 +805,43 @@ Advertisement
     
     </div>
 
-8.  
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/sports/tiz-the-law-millions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/08/sports/07horses2-print/07horses-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">On Horse Racing</span>
+    
+    ## For a Small Stable, Big Prizes Could Lie Ahead
+    
+    Tiz the Law has won the first leg of this year’s rejiggered Triple
+    Crown, and his stallion rights have the potential to generate
+    millions for Sackatoga Stable in New York.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Joe Drape</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
     
     <div class="css-1cp3ece">
     
@@ -796,75 +864,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Tyler Kepner</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/sports/equestrian-sexual-abuse-george-morris.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/sports/06georgemorris-1/merlin_159011256_09938999-1329-4dff-9d87-ae952bd106c2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Top Equestrians Accused of Sex Abuse in Lawsuits
-    
-    George Morris and Jimmy Williams have been barred from the sport
-    over allegations of sexual abuse. Now, people who said they were
-    abused are escalating their legal battle.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah Maslin Nir</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/sports/soccer/arda-turan-galatasaray-barcelona.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/06/sports/06soccer-turan1/06soccer-turan1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">On Soccer</span>
-    
-    ## Whatever Happened to Arda Turan?
-    
-    For months, Barcelona paid the finest player Turkey has ever
-    produced not to play soccer. Why?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Rory Smith</span>
     
     </div>
     

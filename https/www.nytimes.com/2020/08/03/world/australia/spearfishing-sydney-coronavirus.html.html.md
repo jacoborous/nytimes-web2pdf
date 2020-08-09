@@ -24,8 +24,7 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site
-index](#site-index)
+[Skip to content](#site-content)[Skip to site index](#site-index)
 
 </div>
 
@@ -41,7 +40,7 @@ index](#site-index)
 
 <div data-aria-hidden="false">
 
-<div id="site-content" data-role="main">
+<div id="site-content" role="main">
 
 <div>
 
@@ -52,8 +51,7 @@ index](#site-index)
 <div class="css-epjblv">
 
 <span class="css-17xtcya">[Australia](/section/world/australia)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Taking
-a Spear Into the Sea, and Washing Anxiety
-Away</span>
+a Spear Into the Sea, and Washing Anxiety Away</span>
 
 </div>
 
@@ -75,7 +73,7 @@ Away</span>
 
 <div class="css-4xjgmj">
 
-<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+<div class="css-4skfbu" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
 
   - 
   - 
@@ -117,14 +115,14 @@ Home](https://www.nytimes.com/spotlight/at-home?action=click&pgtype=Article&stat
 
 </div>
 
-  - [Talk: To
-    Strangers](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Make: Grilled
-    Pizza](https://www.nytimes.com/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Watch: 'The
-    Goldbergs'](https://www.nytimes.com/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters' Google
+  - [Watch: Sam
+    Jay](https://www.nytimes.com/2020/08/04/arts/television/sam-jay-netflix-special.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Peruse: Reporters' Google
     Docs](https://www.nytimes.com/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make:
+    Empanadas](https://www.nytimes.com/2020/08/04/dining/colombian-empanadas-carlos-gaviria.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Explore: N.Y.C. Street
+    Art](https://www.nytimes.com/2020/08/06/arts/design/street-art-nyc-george-floyd.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
 
 </div>
 
@@ -180,8 +178,7 @@ Supported by
 
 </div>
 
-[Continue reading the main
-story](#after-sponsor)
+[Continue reading the main story](#after-sponsor)
 
 <div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -216,14 +213,13 @@ Cave</span>](https://www.nytimes.com/by/damien-cave)
 
 </div>
 
-  - Aug. 3,
-    2020
+  - Aug. 3, 2020
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -535,6 +531,14 @@ humpback whales, an important animal for local Indigenous groups, at a
 site across the bay from Sydney’s commercial port with its towering
 cranes.
 
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
 The industrial and the traditional — on the surface, they pressed
 against each other. In the water, they disappeared. A soft blanket of
 blue covered sea grass that swayed like slow-motion dancers on the stage
@@ -615,8 +619,7 @@ Skovranova for The New York Times</span></span>
 <span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Ms. Shearman
 gutting a successful
 catch.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Michaela
-Skovranova for The New York
-Times</span></span>
+Skovranova for The New York Times</span></span>
 
 </div>
 
@@ -697,8 +700,7 @@ able to feed their families with their kill.
 At Adreno in Sydney, Australia’s largest spearfishing retailer, one of
 the employees, Jayden Nightingale, 22, told me he goes out three times a
 week and would soon be in the water to catch a feast for his brother’s
-birthday. “My mother asked for octopus,” he
-said.
+birthday. “My mother asked for octopus,” he said.
 
 </div>
 
@@ -731,8 +733,7 @@ Leitao, center, a professional spearfishing instructor, giving a
 spearfishing  lesson to  Clay Warner, left, and Heath Jones at Dive
 Spear and
 Sport.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Matthew
-Abbott for The New York
-Times</span></span>
+Abbott for The New York Times</span></span>
 
 </div>
 
@@ -764,8 +765,7 @@ Times</span></span>
 center, holding the two students in place during a breathing and
 relaxation
 lesson. </span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Matthew
-Abbott for The New York
-Times</span></span>
+Abbott for The New York Times</span></span>
 
 </div>
 
@@ -914,8 +914,7 @@ Advertisement
 
 </div>
 
-[Continue reading the main
-story](#after-bottom)
+[Continue reading the main story](#after-bottom)
 
 <div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
 
@@ -959,8 +958,7 @@ story](#after-bottom)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site
-    Map](https://spiderbites.nytimes.com)
+  - [Site Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

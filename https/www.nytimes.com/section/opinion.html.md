@@ -242,88 +242,43 @@ Series
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diana
-    Walker/The LIFE Images Collection, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Arturo
+    Holmes/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Douthat/09Douthat-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ### Maureen Dowd
+    ### Ross Douthat
     
-    ## [No Wrist Corsages, Please](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
+    ## [What to Do When Covid Doesn’t Go Away](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
     
-    Has America grown since 1984, or will the knives still be out for
-    Biden’s running mate?
+    Lessons for coronavirus long-haulers from my own experience with
+    chronic illness.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Maureen
-    Dowd</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ross
+    Douthat</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
-    J. Brown/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Paul
+    Hosefros/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/08/opinion/08mann-pix/08mann-pix-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Here’s How to Crush the Virus Until Vaccines Arrive](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+    ## [Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’](/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
     
-    To save lives, and save the economy, we need another lockdown.
+    As national security adviser, he voiced strong opinions and acted on
+    them, especially when it came to Beijing and Moscow.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael T.
-    Osterholm</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Neel
-    Kashkari</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Mann</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SDI
-    Productions/E+, via Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Ramos/07Ramos-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ### Jorge Ramos
-    
-    ## [What Sonia Sotomayor Told a 10-Year-Old Girl](/2020/08/07/opinion/latina-women-politics.html)
-    
-    Reflecting on the words of a Supreme Court justice and women’s path
-    to political equality.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jorge
-    Ramos</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### Ruchir Sharma
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
-    Gray/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Why Is Everyone Buying Gold?](/2020/08/08/opinion/gold-investment-coronavirus.html)
-    
-    It’s one of the best performing assets in the world this year.
-    That’s not a great sign.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ruchir
-    Sharma</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
     Langmuir African American Photograph Collection at Stuart A. Rose
     Manuscript, Archives, and Rare Book Library, Emory
     University</span>](https://static01.nyt.com/images/2020/08/09/opinion/08hajdu/08hajdu-videoLarge.jpg)
@@ -341,58 +296,96 @@ Series
     
     </div>
 
-3.  ### Elliot Ackerman
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hannibal
-    Hanschke/Reuters</span>](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-videoLarge.jpg)
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Amrita
+    Marino</span>](https://static01.nyt.com/images/2020/08/06/opinion/sunday/06sathian/05sathian-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [America’s Military Should Confront Its Past, Not Bury It](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
+    ## [We Need to Talk About ‘Indian Matchmaking’](/2020/08/05/opinion/sunday/indian-matchmaking-netflix.html)
     
-    The German military’s infiltration by far-right extremists should be
-    a warning for how we confront our own troubled history.
+    The Netflix show is controversial. But it tells awkward truths about
+    my community.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elliot
-    Ackerman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sanjena
+    Sathian</span></span>
     
     </div>
 
-4.  ### David Brooks
+2.  ### Maureen Dowd
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tim
-    Enthoven</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09brooks/09brooks-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diana
+    Walker/The LIFE Images Collection, via Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09Dowd2/09Dowd2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Where Do Republicans Go From Here?](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
+    ## [No Wrist Corsages, Please](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
     
-    The party looks brain-dead at every spot Trump touches. But off in
-    the corners, there’s a lot of intellectual ferment.
+    Has America grown since 1984, or will the knives still be out for
+    Biden’s running mate?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">David
-    Brooks</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maureen
+    Dowd</span></span>
     
     </div>
 
-5.  ### Jamelle Bouie
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mandel
-    Ngan/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08bouie_print/merlin_153869544_fe018d11-1ded-4eef-909b-30ab36d22516-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Frederic
+    J. Brown/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/07/opinion/07Osterholm1/07Osterholm1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump and His Allies Think They Know Who Counts](/2020/08/07/opinion/trump-2020-census.html)
+    ## [Here’s How to Crush the Virus Until Vaccines Arrive](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
     
-    But history has a way of confounding those who think they can
-    control it.
+    To save lives, and save the economy, we need another lockdown.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jamelle
-    Bouie</span></span>
+    <span class="css-1baulvz" itemprop="name">Michael T.
+    Osterholm</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Neel
+    Kashkari</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/09/opinion/00ron9/00ron9-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Could This Be the Last Time We See Our Dad?](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
+    
+    Zoom has become a link between loved ones. But is what we see
+    onscreen real life?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ron
+    Haviv</span></span>
+    
+    </div>
+
+5.  ### Ruchir Sharma
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Gray/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/08/opinion/08Sharma/08Sharma-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Why Is Everyone Buying Gold?](/2020/08/08/opinion/gold-investment-coronavirus.html)
+    
+    It’s one of the best performing assets in the world this year.
+    That’s not a great sign.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Ruchir
+    Sharma</span></span>
     
     </div>
 
@@ -484,6 +477,39 @@ Advertisement
     
     <div class="css-1l4spti">
     
+    [](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/05/opinion/05Ackerman1/05Ackerman1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## America’s Military Should Confront Its Past, Not Bury It
+    
+    The German military’s infiltration by far-right extremists should be
+    a warning for how we confront our own troubled history.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elliot Ackerman</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/07/opinion/beirut-explosion.html)
     
     <div class="css-79elbk">
@@ -510,7 +536,7 @@ Advertisement
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -544,7 +570,7 @@ Advertisement
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -577,7 +603,7 @@ Advertisement
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -612,7 +638,7 @@ Advertisement
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -638,7 +664,40 @@ Advertisement
     
     </div>
 
-7.  
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/opinion/sunday/republican-party-trump-2020.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.nyt.com/images/2020/08/09/opinion/sunday/09brooks/09brooks-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Where Do Republicans Go From Here?
+    
+    The party looks brain-dead at every spot Trump touches. But off in
+    the corners, there’s a lot of intellectual ferment.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David Brooks</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
     
     <div class="css-1cp3ece">
     
@@ -671,7 +730,7 @@ Advertisement
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -693,72 +752,6 @@ Advertisement
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Ericka Andersen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/07/opinion/tiktok-wechat-china-trump-executive-order.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/07/opinion/07Wolff/07Wolff-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## So What Does Trump Have Against TikTok?
-    
-    His foolish and dangerous edicts suggest that the United States,
-    like China, no longer believes in a global internet.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Josephine Wolff</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.nyt.com/images/2020/08/09/opinion/00ron9/00ron9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Could This Be the Last Time We See Our Dad?
-    
-    Zoom has become a link between loved ones. But is what we see
-    onscreen real life?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ron Haviv</span>
     
     </div>
     

@@ -188,28 +188,26 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/07/world/07hariri2/07hariri2-videoLarge-v2.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/merlin_175465020_2c9785c9-935a-4d38-bf06-2b83d2aee8de-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/07/world/07hariri2/merlin_175381473_a6263c94-9fa7-4b84-9434-e88ab2bbd0cf-thumbStandard.jpg)](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+    [![](https://static01.nyt.com/images/2020/08/08/world/08Lebanon01/08Lebanon01-thumbStandard.jpg)](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
     
     </div>
     
-    ## [As Lebanon Reels, Long-Awaited Hariri Assassination Verdicts Loom](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+    ## [Clashes Erupt in Beirut at Blast Protest as Lebanon’s Anger Boils Over](/2020/08/08/world/middleeast/Beirut-explosion-protests-lebanon.html)
     
-    A U.N.-backed court will soon pronounce verdicts in a 15-year-old
-    bombing in Beirut that roiled the Middle East. But critics say the
-    court’s protracted deliberations and huge expense have undermined
-    its original purpose.
+    The demonstrations were fueled by fury over the corruption and
+    negligence of the country’s ruling elite. Security forces fired tear
+    gas to push back the protesters.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Marlise Simons</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Vivian
-    Yee</span></span>
+    <span class="css-1baulvz" itemprop="name">Ben Hubbard</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Mona
+    El-Naggar</span></span>
     
     </div>
 
@@ -271,7 +269,26 @@ Supported by
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Federico
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/07/world/07hariri2/07hariri2-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [As Lebanon Reels, Long-Awaited Hariri Assassination Verdicts Loom](/2020/08/08/world/middleeast/hariri-assassination-trial-hague.html)
+    
+    A U.N.-backed court will soon pronounce verdicts in a 15-year-old
+    bombing in Beirut that roiled the Middle East. But critics say the
+    court’s protracted deliberations and huge expense have undermined
+    its original purpose.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Marlise Simons</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Vivian
+    Yee</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Federico
     Rios for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/05/world/05uribe/05uribe-videoLarge-v3.jpg)
     
@@ -289,7 +306,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/world/07india-plane-sub/merlin_175429530_ebd030f5-cdce-404d-955a-73a0866d6803-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/07/world/07india-plane-sub/merlin_175429530_ebd030f5-cdce-404d-955a-73a0866d6803-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -305,7 +322,7 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
     photo by Jeff J
     Mitchell</span>](https://static01.nyt.com/images/2020/08/07/world/07britain/merlin_175420941_f2cf4be2-c557-4f4c-b190-ca48cdc04d9f-videoLarge.jpg)
     
@@ -322,7 +339,7 @@ Supported by
     
     </div>
 
-4.  ### The Saturday Profile
+5.  ### The Saturday Profile
     
     ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Woohae
     Cho for The New York
@@ -343,7 +360,15 @@ Supported by
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Keith
     Bradsher/The New York
     Times</span>](https://static01.nyt.com/images/2020/09/06/world/06china-demolitions-1/06china-demolitions-1-videoLarge-v2.jpg)
     
@@ -362,15 +387,7 @@ Supported by
     
     </div>
 
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Juan
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Juan
     Karita/Associated
     Press</span>](https://static01.nyt.com/images/2020/08/07/world/07bolivia/07bolivia-videoLarge.jpg)
     
@@ -389,7 +406,7 @@ Supported by
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Diego
     Ibarra Sanchez for The New York
     Times</span>](https://static01.nyt.com/images/2020/08/07/world/07Beirut01/merlin_175387014_c15f4b0b-db98-4948-afb1-d6ceead88a22-videoLarge.jpg)
     
@@ -407,54 +424,33 @@ Supported by
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Tatyana
-    Zenkovich/EPA, via
-    Shutterstock</span>](https://static01.nyt.com/images/2020/08/07/world/07belarus01/07belarus01-videoLarge-v3.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
+    Zehbrauskas for The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/06/world/06mexico-migration/06mexico-migration-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Europe’s ‘Last Dictator,’ Facing Re-Election, Is Increasingly in Peril](/2020/08/07/world/europe/belarus-election-aleksandr-lukashenko.html)
+    ## [After a Lull, the Number of Migrants Trying to Enter the U.S. Has Soared](/2020/08/06/world/americas/mexico-immigration-usa.html)
     
-    For 26 years, Aleksandr G. Lukashenko has ruled Belarus as if it
-    were his personal fief. In his sixth presidential election, the
-    result is not in doubt, but he is being challenged like never
-    before.
+    The number of immigrants arrested at the southwestern border has
+    more than doubled since the spring, fueled by Mexico’s economic
+    slump and a Trump administration policy that migrants say works in
+    their favor.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ivan
-    Nechepurenko</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kirk
+    Semple</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dev
-    Ramkhelawon/L'Express Maurice via Agence
-    France-Presse</span>](https://static01.nyt.com/images/2020/08/07/world/07mauritius/07mauritius-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/06/world/06beirut-firefighter3/06beirut-firefighter3-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Mauritius Faces Environmental Crisis as Oil Spills From Grounded Ship](/2020/08/07/world/africa/mauritius-oil-spill.html)
+    ## [Paramedic Who Died in Beirut Explosion Is a Symbol of Lebanon’s Grief](/2020/08/06/world/middleeast/Beirut-explosion-paramedic-Fares.html)
     
-    A Japanese-owned bulk carrier ran aground near the Indian Ocean
-    island in late July, with nearly 4,000 tons of fuel oil and 200 tons
-    of diesel on board. And now its hull has cracked.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elian
-    Peltier</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ishara
-    S. Kodikara/Agence France-Presse — Getty
-    Images</span>](https://static01.nyt.com/images/2020/08/07/world/07srilanka-1/merlin_175409814_bd17c6ab-3b72-48c0-9857-758e2318e7b3-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Sri Lanka Election Hands Rajapaksa Family a Bigger Slice of Control](/2020/08/06/world/asia/sri-lanka-elections-rajapaksa.html)
-    
-    President Gotabaya Rajapaksa’s party clinched the majority of seats
-    in Parliament, aiming to amend the Constitution and expand
-    presidential powers. Rights groups are concerned.
+    Sahar Fares, 27, was planning her wedding. Instead, her family held
+    her funeral after she died in the blast that tore through the city.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Maria
@@ -564,22 +560,21 @@ Advertisement
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kirby
-    Lee/USA Today Sports, via
-    Reuters</span>](https://static01.nyt.com/images/2020/08/08/sports/08pac12-01/08pac12-01-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/08/business/08virus-briefing-trumplede/08virus-briefing-trumplede-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Pac-12 Players Say Commissioner Was Dismissive of Their Virus Concerns](/2020/08/08/sports/ncaafootball/coronavirus-pac-12-players-larry-scott.html)
+    ## [Sidestepping Congress, Trump Signs Executive Measures for Pandemic Relief](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
     
-    The players, who have pushed for more-frequent virus testing and
-    stronger protection of their status with the team, said Pac-12
-    Commissioner Larry Scott offered no concrete mandates for the
-    league’s universities.
+    President Trump signed the directives after two weeks of stalemate
+    with Democrats over a recovery package, using legally dubious
+    measures to try to restore lapsed benefits.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Billy
-    Witz</span></span>
+    <span class="css-1baulvz" itemprop="name">Maggie Haberman</span>,
+    <span class="css-1baulvz" itemprop="name">Emily Cochrane</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Jim
+    Tankersley</span></span>
     
     </div>
 
@@ -1064,12 +1059,11 @@ Advertisement
     
     </div>
     
-    ## Coronavirus Live Updates: Weeks Before Classes Start, Colleges Make Reopening Plans
+    ## Coronavirus Live Updates: U.S. Surpasses 5 Million Coronavirus Cases
     
-    Talks on a new U.S. pandemic relief package are stalled and its
-    crucial benefits are expiring. President Trump said he would use
-    executive orders to provide aid, but it is unclear whether he has
-    the power to do so.
+    Brazil ranks second after the U.S. and also reached a milestone:
+    more than 100,000 deaths. Tens of thousands of motorcyclists
+    gathered in Sturgis, S.D., despite objections from residents.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1234,7 +1228,7 @@ Advertisement
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v701.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/03/03/world/coronavirus-map-promo/coronavirus-map-promo-thumbWide-v702.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -1271,7 +1265,7 @@ Advertisement
     
     </div>
     
-    ## Why the Coronavirus is More Likely to ‘Superspread’ Than the Flu
+    ## Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu
     
     Most people won’t spread the virus widely. The few who do are
     probably in the wrong place at the wrong time in their infection,
