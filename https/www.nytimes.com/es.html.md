@@ -20,7 +20,8 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site index](#site-index)
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
 
 </div>
 
@@ -125,7 +126,8 @@
 
   - [T Magazine](https://www.nytimes.com/section/t-magazine)
 
-  - [Real Estate](https://www.nytimes.com/section/realestate)
+  - [Real
+Estate](https://www.nytimes.com/section/realestate)
 
   - [Video](https://www.nytimes.com/video)
 
@@ -139,7 +141,11 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" role="main">
+<div id="site-content" data-role="main">
+
+<div class="css-1ffjgkm">
+
+</div>
 
 <div id="collection-espanol" class="section css-oji1ln e9abtgs0">
 
@@ -151,107 +157,113 @@
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
-    Fremson/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/31/science/05virus-plasma-ES-00/31VIRUS-PLASMA1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Marco
+    Garro para The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/13/world/00virusTV-schools-ES-00/00Virus-TVSchools-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/07/31/science/05virus-plasma-ES-00/31VIRUS-PLASMA1-thumbStandard.jpg)](/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html)
+    [![](https://static01.nyt.com/images/2020/08/13/world/00virusTV-schools-ES-00/00Virus-TVSchools-thumbStandard.jpg)](/es/2020/08/17/espanol/educacion-television.html)
     
     </div>
     
-    ## [Trump elogia el tratamiento de plasma mientras los investigadores luchan por finalizar los estudios que prueban su eficacia](/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html)
+    ## [La educación por televisión vive un auge por la pandemia del coronavirus](/es/2020/08/17/espanol/educacion-television.html)
     
-    Miles de pacientes de la COVID-19 han sido tratados con plasma
-    sanguíneo de personas que se han recuperado del virus. Sin embargo,
-    el tratamiento aún no ha sido probado en ensayos clínicos rigurosos.
+    En las regiones donde el acceso a internet es limitado se está
+    recurriendo a tecnología menos actual para llegar a los estudiantes.
+    Esa opción de educación remota también podría ser útil en los países
+    más ricos que se han centrado en las clases en
+    línea.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz" itemprop="name">Katie Thomas</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Noah
-    Weiland</span></span>
+    <span class="css-1baulvz" itemprop="name">Benjamin Mueller</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Mitra
+    Taj</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ryan
-    Garcia</span>](https://static01.nyt.com/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Juan
+    Z Perini/EPA vía
+    Shutterstock</span>](https://static01.nyt.com/images/2020/08/17/multimedia/17Alvarado-ES-1/17Alvarado-ES-1-videoLarge.jpg)
     
     <div class="css-7l6h4f">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.nyt.com/images/2020/08/05/dining/05Chefs-Centric-Cover-Illo/05Chefs-Centric-Cover-Illo-thumbStandard.jpg)](/es/2020/08/08/espanol/estilos-de-vida/chef-restaurante-cultura.html)
+    [![](https://static01.nyt.com/images/2020/08/17/multimedia/17Alvarado-ES-1/17Alvarado-ES-1-thumbStandard.jpg)](/es/2020/08/17/espanol/opinion/alvaro-uribe-colombia.html)
     
     </div>
     
-    ## [El ocaso del cocinero superestrella](/es/2020/08/08/espanol/estilos-de-vida/chef-restaurante-cultura.html)
+    ### Comentario
     
-    Durante décadas, la figura del genio solitario en la cocina ha
-    fomentado la creatividad culinaria y estropeado a los restaurantes
-    con abusos e injusticia. Con la pandemia, el protagonismo absoluto
-    del chef podría estar en su acto final.
+    ## [Jubilar a un caudillo](/es/2020/08/17/espanol/opinion/alvaro-uribe-colombia.html)
+    
+    Álvaro Uribe, expresidente de Colombia, redefinió y casi monopolizó
+    el poder desde 2002. Su detención es una oportunidad única para que
+    ese país se desprenda del personalismo
+    atávico.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-    <span class="css-1baulvz last-byline" itemprop="name">Tejal
-    Rao</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sinar
+    Alvarado</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>SDI
-        Productions/E+ vía Getty
-        Images</span>](https://static01.nyt.com/images/2020/08/07/opinion/07Ramos-ES/07Ramos-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Arianne
+        P.
+        Oriá</span>](https://static01.nyt.com/images/2020/08/18/science/15Tears-ES-01/13TB-ANIMALTEARS2-videoLarge.jpg)
+        
+        <div class="css-7l6h4f">
+        
+        ### Mundo Animal
+        
+        ## [Las lágrimas de cocodrilo (literalmente) podrían ser la cura para la resequedad de los ojos](/es/2020/08/15/espanol/ciencia-y-tecnologia/ojo-seco.html)
+        
+        <div class="css-ajkwsy">
+        
+        [![](https://static01.nyt.com/images/2020/08/18/science/15Tears-ES-01/13TB-ANIMALTEARS2-thumbStandard.jpg)](/es/2020/08/15/espanol/ciencia-y-tecnologia/ojo-seco.html)
+        
+        </div>
+        
+        Al estudiar las numerosas formas en que los animales mantienen
+        sus ojos limpios y lubricados, los científicos esperan ayudar a
+        abordar los problemas de la visión
+        humana.
+        
+        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
+        <span class="css-1baulvz last-byline" itemprop="name">Katherine
+        J.
+        Wu</span></span>
+        
+        </div>
+    
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
+        Dean para The New York
+        Times</span>](https://static01.nyt.com/images/2020/08/16/multimedia/16Carrion-ES/merlin_171237588_d5c4befe-cee9-46b5-894c-457d1046f89d-videoLarge.jpg)
         
         <div class="css-7l6h4f">
         
         ### Comentario
         
-        ## [Lecciones para ser presidenta](/es/2020/08/07/espanol/opinion/presidenta-estados-unidos.html)
+        ## [Simbiosfera: hacia otro modo de entender lo humano](/es/2020/08/16/espanol/opinion/coronavirus-arte.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.nyt.com/images/2020/08/07/opinion/07Ramos-ES/07Ramos-thumbStandard.jpg)](/es/2020/08/07/espanol/opinion/presidenta-estados-unidos.html)
+        [![](https://static01.nyt.com/images/2020/08/16/multimedia/16Carrion-ES/16Carrion-ES-thumbStandard.jpg)](/es/2020/08/16/espanol/opinion/coronavirus-arte.html)
         
         </div>
         
-        La esperanza de las mujeres de alcanzar las máximas posiciones
-        del gobierno en Estados Unidos lleva demasiado tiempo en
-        suspenso.
+        La pandemia nos recordó que la Tierra no existe para ser el
+        hotel de nuestras vacaciones. No debemos confundir el progreso
+        humano con la explotación de los recursos naturales y para eso
+        necesitamos más narradores del
+        Antropoceno.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
         <span class="css-1baulvz last-byline" itemprop="name">Jorge
-        Ramos</span></span>
-        
-        </div>
-    
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Juan
-        Karita/Associated
-        Press</span>](https://static01.nyt.com/images/2020/08/07/world/07bolivia-ES/07bolivia-videoLarge.jpg)
-        
-        <div class="css-7l6h4f">
-        
-        ### Sudamérica
-        
-        ## [Bolivia está bloqueada, los manifestantes obstruyen el acceso a las ciudades](/es/2020/08/07/espanol/america-latina/bloqueos-bolivia.html)
-        
-        <div class="css-ajkwsy">
-        
-        [![](https://static01.nyt.com/images/2020/08/07/world/07bolivia-ES/07bolivia-thumbStandard.jpg)](/es/2020/08/07/espanol/america-latina/bloqueos-bolivia.html)
-        
-        </div>
-        
-        Seis millones de personas han quedado aisladas por 70 bloqueos
-        instalados en protesta por la respuesta del gobierno al
-        coronavirus y el aplazamiento de las elecciones generales del
-        país.
-        
-        <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
-        <span class="css-1baulvz" itemprop="name">María Silvia
-        Trigo</span> y
-        <span class="css-1baulvz last-byline" itemprop="name">Anatoly
-        Kurmanaev</span></span>
+        Carrión</span></span>
         
         </div>
 
@@ -261,84 +273,101 @@
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Khadija
-    Farah para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/world/07Kenia-escuelas-ES/00Virus-Kenya-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
+    G Mabanglo/EPA, vía
+    Shutterstock</span>](https://static01.nyt.com/images/2020/07/30/us/politics/12xp-virus-neveragain-ES/30xp-virus-neveragain-elbow-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [La inusual solución de Kenia al problema escolar: cancelar el año y empezar de nuevo](/es/2020/08/07/espanol/mundo/cierre-escuela-coronavirus-kenia.html)
+    ## [Once cosas supuestamente divertidas que nunca más serán iguales](/es/2020/08/15/espanol/ciencia-y-tecnologia/coronavirus-actividades-prohibidas.html)
     
-    Debido a la pandemia, algunos estudiantes tomaban clases en línea y
-    otros no. Así que el gobierno eliminó el año escolar para todos, que
-    deberán repetir el curso en 2021. La medida, que pretendía atender
-    la brecha de acceso a la educación, puede empeorar la desigualdad .
+    La pandemia podría cambiar partes inesperadas de nuestras vidas en
+    los próximos años, dicen los
+    expertos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Abdi Latif
-    Dahir</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Bryan
+    Pietsch</span></span>
     
     </div>
 
-2.  ### América Latina
+2.  ### medio Oriente
     
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Federico
-    Rios para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/05/world/07uribe-ES-1/merlin_175318935_49d41761-d0da-4944-bdb0-844a92f5bbcc-videoLarge.jpg)
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Oded
+    Balilty/Associated
+    Press</span>](https://static01.nyt.com/images/2020/08/14/world/14Palestinians-ES-00/merlin_175670490_3d1bdeab-4016-4a5a-bbd1-d1c97999b50e-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [La detención de Álvaro Uribe profundiza las divisiones de Colombia](/es/2020/08/07/espanol/america-latina/alvaro-uribe-colombia.html)
+    ## [El acuerdo entre Israel y los Emiratos Árabes es solo otra pesadilla para los palestinos](/es/2020/08/14/espanol/mundo/palestinos-israel-acuerdo-paz-uae.html)
     
-    Con el político más poderoso del país en arresto domiciliario, la
-    nación vuelve a la intensa fragmentación política que durante años
-    ha intentado superar.
+    Con la anexión de Cisjordania fuera de discusión y la diplomacia
+    árabe de cabeza, la lucha palestina ahora es una batalla por
+    conservar la
+    relevancia.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Turkewitz</span></span>
+    <span class="css-1baulvz" itemprop="name">Isabel Kershner</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Adam
+    Rasgon</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adriana
-    Zehbrauskas para The New York
-    Times</span>](https://static01.nyt.com/images/2020/08/06/world/06mexico-migration-ES-1/06mexico-migration-videoLarge.jpg)
+3.  ### Sabores
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beatriz
+    Da Costa para The New York Times. Estilismo de comida: Frances
+    Boswell.</span>](https://static01.nyt.com/images/2020/08/12/dining/14carne-asada-ES-00/merlin_175253970_5287970b-3058-4cc2-a259-2c2893c7580a-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Tras una pausa, el número de migrantes que intentan entrar a Estados Unidos se ha disparado](/es/2020/08/06/espanol/america-latina/migracion-estados-unidos.html)
+    ## [Encontré el alma de Sonora en la carne asada](/es/2020/08/14/espanol/sonora-carne-asada.html)
     
-    El número de personas arrestadas en la frontera se ha duplicado
-    desde la primavera debido a la recesión económica de México y a una
-    política del gobierno de Donald Trump que, según los inmigrantes,
-    funciona a su favor.
+    Una carne asada es mucho más que poner alimento al fuego: en el
+    norte de México es un ritual semanal para compartir con amigos y
+    familiares
+    cercanos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Kirk
-    Semple</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Pati
+    Jinich</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/08/05/world/middleeast/beirut-a2/beirut-a2-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michele
+    Spatari/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/11/science/13Aerosoles-ES-1/11VIRUS-AEROSOLS1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Explosión en Beirut: esto revelan las imágenes del estallido](/es/2020/08/06/espanol/mundo/beirut-video-explosion-libano.html)
+    ## [Unos científicos recolectaron coronavirus del aire de un hospital y descubrieron que puede ser infeccioso](/es/2020/08/13/espanol/coronavirus-en-aire.html)
     
-    Una investigación visual a partir de más de 70 videos ofrece algunas
-    pistas sobre las causas de la explosión y la fuerza de su
-    destrucción.
+    Muchos expertos creen que el virus en el aire juega un papel
+    importante en la transmisión comunitaria. Un nuevo estudio completa
+    la pieza que falta: los virus flotantes pueden infectar
+    células.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Evan Hill</span>,
-    <span class="css-1baulvz" itemprop="name">Stella Cooper</span>,
-    <span class="css-1baulvz" itemprop="name">Christiaan
-    Triebert</span>, <span class="css-1baulvz" itemprop="name">Christoph
-    Koettl</span>, <span class="css-1baulvz" itemprop="name">Drew
-    Jordan</span>, <span class="css-1baulvz" itemprop="name">Dmitriy
-    Khavin</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">John
-    Ismay</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Apoorva
+    Mandavilli</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Misha
+    Friedman/Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/13/world/13xp-belarus-explainer-ES-1/merlin_175528485_0616daf3-9e71-47a4-81f0-db4506d84353-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [¿Qué sucede en Bielorrusia?](/es/2020/08/13/espanol/mundo/protestas-bielorrusia.html)
+    
+    Una guía de las protestas, la respuesta policial y la crisis de
+    gobierno provocada por una elección
+    disputada.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Daniel
+    Victor</span></span>
     
     </div>
 
@@ -356,7 +385,8 @@ Advertisement
 
 </div>
 
-[Continue reading the main story](#after-mid1)
+[Continue reading the main
+story](#after-mid1)
 
 <div id="mid1" class="ad mid1-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -372,100 +402,113 @@ Advertisement
 
 ## [Opinión](/es/section/opinion)
 
-[Más en Opinión »](/es/section/opinion)
+[Más en Opinión
+    »](/es/section/opinion)
 
-1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Amis/Associated
-    Press</span>](https://static01.nyt.com/images/2020/08/05/opinion/06Murguia-ES/merlin_160813464_8b673843-e1fe-4043-94a4-c1b8d0c98819-videoLarge.jpg)
+1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pierre-Philippe
+    Marcou/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/13/opinion/13jimenez-ES/13jimenez-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Janet Murguía</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">David Jiménez</span>
     
-    ## [El memorando del censo es otro truco de Trump. No muerdas el anzuelo](/es/2020/08/06/espanol/opinion/censo-inmigrantes-trump.html)
+    ## [El rey iba desnudo y España miró a otro lado](/es/2020/08/13/espanol/opinion/rey-juan-carlos-exilio-corrupcion.html)
     
-    Los latinos no deben dejar que el presidente de Estados Unidos los
-    intimide.
+    Una cultura de pleitesía desfasada, pero todavía vigente, permitió a
+    Juan Carlos I convertirse en el millonario lobista de las dictaduras
+    árabes y ocultar su fortuna durante décadas. Solo una reforma
+    profunda puede rescatar a la monarquía de su peor
+    crisis.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Janet
-    Murguía</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Jiménez</span></span>
     
     </div>
 
-2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jon
-    Nazca/Reuters</span>](https://static01.nyt.com/images/2020/08/05/multimedia/05letona-ES-1/merlin_175274166_c003197f-30d6-4d26-a2d6-7b97ef5d0b83-videoLarge.jpg)
+2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yuri
+    Cortez/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/12/multimedia/12Salamanca-ES/merlin_138961392_e98f2853-2d2e-4a07-91cd-76f235e1192f-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Alberto Letona</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">Sebastián Salamanca</span>
     
-    ## [Juan Carlos I, de rey a villano](/es/2020/08/05/espanol/opinion/juan-carlos-exilio-espana.html)
+    ## [Es hora de acabar con la verdad oficial en México](/es/2020/08/12/espanol/opinion/violencia-periodistas-mexico.html)
     
-    Por décadas, el monarca emérito de España gozó del aprecio de muchos
-    ciudadanos; hoy acusaciones de corrupción en su contra ponen a
-    prueba el futuro de la monarquía y de su hijo, el rey Felipe VI.
+    Hace cinco años fueron asesinadas cinco personas en Ciudad de
+    México, entre ellas el fotorreportero Rubén Espinosa y la defensora
+    de derechos humanos Nadia Vera. A la fecha no se ha esclarecido este
+    caso.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alberto
-    Letona</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sebastián
+    Salamanca</span></span>
     
     </div>
 
-3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
-    Zender</span>](https://static01.nyt.com/images/2020/08/05/opinion/05campos/04campos-videoLarge.jpg)
+3.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Esteban
+    Collazo/Agence France-Presse — Getty
+    Images</span>](https://static01.nyt.com/images/2020/08/11/multimedia/11alconada-ES/merlin_175303398_8a21b91b-2d18-4b90-af43-bbd7290a0c8a-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## <span class="css-1baulvz last-byline" itemprop="name">Patrícia Campos Mello</span>
+    ## <span class="css-1baulvz last-byline" itemprop="name">Hugo Alconada Mon</span>
     
-    ## [Por qué los brasileños deberían temer a la oficina de odio](/es/2020/08/04/espanol/opinion/bolsonaro-oficina-odio-brasil.html)
+    ## [Reforma de la justicia argentina: 10 razones para un fracaso](/es/2020/08/11/espanol/opinion/argentina-justicia-reforma.html)
     
-    El presidente Jair Bolsonaro, sus hijos y aliados han sembrado el
-    odio en línea contra las instituciones que defienden la democracia.
-    Ahora la indignación se está desbordando en la calle.
+    La necesaria renovación judicial argentina se ha encontrado con una
+    serie de escollos que podrían frustrarla, incluso antes de ser
+    debatida y
+    sancionada.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Patrícia
-    Campos Mello</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Hugo Alconada
+    Mon</span></span>
     
     </div>
 
-4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Henry
-        Romero/Reuters</span>](https://static01.nyt.com/images/2020/08/03/multimedia/03Rios-ES/03Rios-ES-videoLarge.jpg)
+4.  1.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kenzo
+        Tribouillard/Agence France-Presse — Getty
+        Images</span>](https://static01.nyt.com/images/2020/08/10/multimedia/10Ulchur-ES/merlin_174750936_defa6b2d-2b03-450b-8eba-b10b5c086b6a-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Viri Ríos</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Iván Ulchur-Rota</span>
         
-        ## [La salud pública en México es eso-que-nadie-quiere-usar](/es/2020/08/03/espanol/opinion/servicio-salud-mexico.html)
+        ## [La prensa en Ecuador debe despolarizarse](/es/2020/08/10/espanol/opinion/ecuador-rafael-correa.html)
         
-        Las clases medias mexicanas claudicaron de intentar atenderse en
-        hospitales públicos y los más pobres los usan pensando que ahí
-        solo van a morirse. Esto debe cambiar.
+        Gran parte de la cobertura de los medios ecuatorianos sigue
+        marcada por revanchismos políticos. Denunciar abusos a los
+        derechos incluso de las figuras que atacaron la libertad de
+        prensa es una tarea del
+        periodismo.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Viri
-        Ríos</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Iván
+        Ulchur-Rota</span></span>
         
         </div>
     
-    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leah
-        Nash</span>](https://static01.nyt.com/images/2020/08/08/opinion/07senior-ES-1/05senior2-videoLarge.jpg)
+    2.  ![<span class="css-3d70fe e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>María
+        Hergueta</span>](https://static01.nyt.com/images/2020/08/17/opinion/17lozano-illo/13lozano-illo-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## <span class="css-1baulvz last-byline" itemprop="name">Jennifer Senior</span>
+        ## <span class="css-1baulvz last-byline" itemprop="name">Isaac Lozano</span>
         
-        ## [La fatiga pandémica no solo te afecta a ti](/es/2020/08/07/espanol/opinion/ansiedad-coronavirus.html)
+        ## [La educación a distancia es difícil. Pero que se mueran tus familiares es peor](/es/2020/08/17/espanol/opinion/covid-regreso-clases-estudiante.html)
         
-        Llámalo angustia por la COVID-19, cansancio de verano o como
-        quieras, pero tenemos un problema mucho más profundo y
-        colectivo: como nación, no estamos bien.
+        Soy un estudiante de bajos recursos en un apartamento lleno de
+        gente y mi familia es vulnerable a la COVID-19. Los beneficios
+        de regresar a la escuela no valen la pena si ponemos en riesgo
+        nuestra
+        salud.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Jennifer
-        Senior</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Isaac
+        Lozano</span></span>
         
         </div>
 
@@ -475,26 +518,48 @@ Advertisement
 
 ## [Elecciones 2020 Estados Unidos](#)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Makela para The New York
-    Times</span>](https://static01.nyt.com/images/2020/06/23/us/politics/29vpguide-ES-promo/merlin_173110821_c31a20b2-7096-4e01-9e02-a71f5bf4088c-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/12/us/politics/13TRUMP-HARRIS-ES/12dc-memo1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Joe Biden busca vicepresidenta y ellas son las 12 candidatas](/es/2020/07/29/espanol/estados-unidos/biden-vicepresidente.html)
+    ## [Lo que Trump dice sobre Kamala Harris ilustra cómo ve a las mujeres: son ‘desagradables’ o amas de casa](/es/2020/08/14/espanol/mundo/trump-kamala-harris.html)
     
-    Esta es la lista de mujeres que han sido consideradas como
-    compañeras de fórmula por la campaña del virtual candidato
-    demócrata, Joe Biden. Este análisis reúne las ventajas y
-    desventajas de cada una.
+    Cuando Harris se unió a la candidatura demócrata, el presidente no
+    perdió el tiempo llamándola “desagradable” y alabando al “ama de
+    casa de los suburbios” que, según dice, votará por él. Sus puntos de
+    vista están fuera de sintonía con la
+    realidad.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Alexander
-    Burns</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Katie
+    Rogers</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Daniel
+    Acker para The New York
+    Times</span>](https://static01.nyt.com/images/2020/08/11/us/politics/12vp-bio-ES-1/11VP-whois-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [¿Quién es Kamala Harris, la selección para vicepresidenta de Joe Biden?](/es/2020/08/12/espanol/estados-unidos/quien-es-kamala-harris-vicepresidenta.html)
+    
+    Un recorrido por los momentos clave de la carrera de la senadora de
+    California, la primera mujer negra y la primera persona de
+    ascendencia asiática en unirse a la fórmula electoral para la
+    presidencia de uno de los dos partidos principales de Estados
+    Unidos.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Maggie Astor</span> y
+    <span class="css-1baulvz last-byline" itemprop="name">Sydney
+    Ember</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
     Schaff/The New York
     Times</span>](https://static01.nyt.com/images/2019/09/10/us/politics/10-biden-candidatepage/10-biden-candidatepage-videoLarge.jpg)
     
@@ -504,7 +569,8 @@ Advertisement
     
     El exvicepresidente, ahora virtual nominado del Partido Demócrata,
     dice que puede construir sobre el legado de Obama y unir a Estados
-    Unidos en un momento desafiante.
+    Unidos en un momento
+    desafiante.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">Katie
@@ -512,7 +578,7 @@ Advertisement
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann
     Archive/Getty
     Images</span>](https://static01.nyt.com/images/2020/08/03/opinion/03Keyssar-ES-1/03keyssarWeb-videoLarge.jpg)
     
@@ -522,7 +588,8 @@ Advertisement
     
     Aunque ha habido intentos recurrentes de reformar el complejo método
     de elegir presidentes en ese país, las políticas raciales han tenido
-    un lugar protagónico en impedir cambios.
+    un lugar protagónico en impedir
+    cambios.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Alexander
@@ -530,7 +597,7 @@ Advertisement
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
     Mills/The New York
     Times</span>](https://static01.nyt.com/images/2020/04/27/us/politics/00-trump-cand-page/00-trump-cand-page-mediumThreeByTwo440.jpg)
     
@@ -541,31 +608,12 @@ Advertisement
     El presidente número 45 de Estados Unidos, un líder profundamente
     divisivo, se postuló para la reelección con una plataforma basada en
     la inmigración, el comercio y la economía. Después llegó la crisis
-    del coronavirus.
+    del
+    coronavirus.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">Annie
     Karni</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
-    Mills/The New York
-    Times</span>](https://static01.nyt.com/images/2020/07/15/climate/17Cambioclimatico-TrumpBiden-ES-1/15CLI-TRUMPBIDEN1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Las contrastantes agendas ambientales de Trump y Biden](/es/2020/07/17/espanol/estados-unidos/cambio-climatico-trump-biden.html)
-    
-    En el lapso de dos días, Donald Trump y Joe Biden expusieron puntos
-    de vista divergentes sobre las regulaciones ambientales y el cambio
-    climático. Esto ayuda a definir lo que está en juego en la carrera
-    presidencial de Estados Unidos.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Lisa Friedman</span> y
-    <span class="css-1baulvz last-byline" itemprop="name">Katie
-    Glueck</span></span>
     
     </div>
 
@@ -579,7 +627,8 @@ Advertisement
 
 </div>
 
-[Continue reading the main story](#after-mid2)
+[Continue reading the main
+story](#after-mid2)
 
 <div id="mid2" class="ad mid2-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -602,7 +651,8 @@ Advertisement
     ## [¿Tengo síntomas de COVID-19?](/es/interactive/2020/08/06/espanol/ciencia-y-tecnologia/tengo-covid-19-sintomas.html)
     
     Ahora cada tos, estornudo o jaqueca te hace dudar: ¿será
-    coronavirus? Esta guía te ayudará a comprender los síntomas.
+    coronavirus? Esta guía te ayudará a comprender los
+    síntomas.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz" itemprop="name">Tara Parker-Pope</span> y
@@ -618,7 +668,8 @@ Advertisement
     ## [Mapa de coronavirus en Estados Unidos](/es/interactive/2020/espanol/mundo/coronavirus-en-estados-unidos.html)
     
     Un mapa detallado muestra la dimensión del brote de coronavirus con
-    tablas y gráficos de la cantidad de fallecimientos y casos.
+    tablas y gráficos de la cantidad de fallecimientos y
+    casos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">The New York
@@ -633,7 +684,8 @@ Advertisement
     ## [Mapa de coronavirus en México](/es/interactive/2020/espanol/america-latina/coronavirus-en-mexico.html)
     
     Un mapa detallado muestra la dimensión del brote de coronavirus con
-    tablas y gráficos de la cantidad de fallecimientos y casos.
+    tablas y gráficos de la cantidad de fallecimientos y
+    casos.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz last-byline" itemprop="name">The New York
@@ -641,13 +693,14 @@ Advertisement
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/16/science/coronavirus-tratamientos-curas-1594920159701/coronavirus-tratamientos-curas-1594920159701-videoLarge-v5.png)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.nyt.com/images/2020/07/16/science/coronavirus-tratamientos-curas-1594920159701/coronavirus-tratamientos-curas-1594920159701-videoLarge-v6.png)
     
     <div class="css-10wtrbd">
     
     ## [Tratamientos y medicamentos para el coronavirus: monitoreo de efectividad](/es/interactive/2020/science/coronavirus-tratamientos-curas.html)
     
-    Una lista actualizada de tratamientos potenciales para la COVID-19.
+    Una lista actualizada de tratamientos potenciales para la
+    COVID-19.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Por
     <span class="css-1baulvz" itemprop="name">Jonathan Corum</span>,
@@ -668,7 +721,8 @@ Advertisement
     Los científicos han probado artículos de uso diario para encontrar
     la mejor opción que nos proteja contra el coronavirus. Fundas de
     almohadas, franela y bolsas de aspiradora plegadas estilo origami
-    son algunas candidatas.
+    son algunas
+    candidatas.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Tara
@@ -707,24 +761,34 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/07/espanol/explosion-libano-coronavirus.html)
+    [](/es/2020/08/17/espanol/america-latina/vacuna-coronavirus-brasil.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/16/world/17Brazil-vac-ES-00/merlin_175106148_7983adc4-cfe5-443f-9c34-7dab22b57205-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">El Times</span>
+    ### <span class="css-m70j1g">América del Sur</span>
     
-    ## Las virtudes de hablar con desconocidos
+    ## Brasil es el laboratorio ideal para buscar la vacuna contra el coronavirus
     
-    En una pandemia o tras una explosión, mantener vivo el contacto con
-    extraños puede ser un modo de salvación.
+    El contagio generalizado, una amplia reserva nacional de científicos
+    y una sólida infraestructura de fabricación de inmunizaciones han
+    convertido al país en un actor importante en la búsqueda de una
+    vacuna.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Elda Cantú</span>
+    Por <span class="css-1n7hynb">Manuela Andreoni <span>y</span>
+    Ernesto Londoño</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/15/world/americas/brazil-coronavirus-vaccine.html "Read in English")
     
     </div>
     
@@ -742,30 +806,32 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/07/espanol/hablar-con-desconocidos.html)
+    [](/es/2020/08/16/espanol/estilos-de-vida/soltera-amor.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/science/03BRODY-STRANGERS-illo/03BRODY-STRANGERS-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/09/fashion/09MODERN-MARRIAGECLUB/09MODERN-MARRIAGECLUB-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Los beneficios de hablar con extraños
+    ### <span class="css-m70j1g">Modern Love</span>
     
-    Las conexiones casuales que encontramos con la gente en el
-    transcurso de la vida cotidiana pueden generar una sensación de
-    pertenencia a una comunidad.
+    ## Cuando se sobrestima el matrimonio
+    
+    Estar soltera a tus 30 años puede ser lo mismo que esperar en fila
+    para entrar a un club de moda: cuando logras entrar puedes pensar,
+    ¿esto era todo?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Jane E. Brody</span>
+    Por <span class="css-1n7hynb">Katerina Tsasis</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html "Read in English")
+    English](https://www.nytimes.com/2020/08/07/style/modern-love-when-marriage-is-just-another-overhyped-nightclub.html "Read in English")
     
     </div>
     
@@ -783,29 +849,32 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/06/espanol/estilos-de-vida/bodas-coronavirus-contagio.html)
+    [](/es/2020/08/14/espanol/deportes/bayern-barcelona-8-2-champions-messi.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/09/fashion/06virus-weddings-ES/09CovidSpreadingWeddings1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/14/sports/14OnSoccer-ES-00/14onsoccer-messi-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## El estrés de que tu boda se convierta en un evento de propagación de coronavirus
+    ### <span class="css-m70j1g">Fútbol</span>
     
-    A pesar de las precauciones, el virus se ha extendido a través de
-    bodas, grandes y pequeñas, infectando a invitados y proveedores.
+    ## Bayern 8, Barcelona 2. El fin
+    
+    Una paliza en los cuartos de final de la Liga de Campeones mostró a
+    un Bayern Munich en la plenitud de sus capacidades y a un Barcelona
+    en el ocaso.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Alyson Krueger</span>
+    Por <span class="css-1n7hynb">Rory Smith</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/04/fashion/weddings/weddings-as-covid-super-spreaders.html "Read in English")
+    English](https://www.nytimes.com/2020/08/14/sports/soccer/bayern-barcelona-8-2-champions-league.html "Read in English")
     
     </div>
     
@@ -823,23 +892,33 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/interactive/2020/08/06/espanol/ciencia-y-tecnologia/tengo-covid-19-sintomas.html)
+    [](/es/2020/08/14/espanol/mundo/trump-kamala-harris.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/06/us/covid-19-sintomas-ES-promo-1596751696581/covid-19-sintomas-ES-promo-1596751696581-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/12/us/politics/13TRUMP-HARRIS-ES/12dc-memo1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ¿Tengo síntomas de COVID-19?
+    ### <span class="css-m70j1g">Estados Unidos</span>
     
-    Ahora cada tos, estornudo o jaqueca te hace dudar: ¿será
-    coronavirus? Esta guía te ayudará a comprender los síntomas.
+    ## Lo que Trump dice sobre Kamala Harris ilustra cómo ve a las mujeres: son ‘desagradables’ o amas de casa
+    
+    Cuando Harris se unió a la candidatura demócrata, el presidente no
+    perdió el tiempo llamándola “desagradable” y alabando al “ama de
+    casa de los suburbios” que, según dice, votará por él. Sus puntos de
+    vista están fuera de sintonía con la realidad.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Tara Parker-Pope <span>y</span> Mika
-    Gröndahl</span>
+    Por <span class="css-1n7hynb">Katie Rogers</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes.com/2020/08/12/us/politics/trump-women-kamala-harris.html "Read in English")
     
     </div>
     
@@ -857,23 +936,26 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/interactive/2020/08/06/espanol/ciencia-y-tecnologia/tengo-covid-19-sintomas.html)
+    [](/es/2020/08/14/espanol/Kamala-Harris-Trump-evangelicos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/06/us/covid-19-sintomas-ES-promo-1596751696581/covid-19-sintomas-ES-promo-1596751696581-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/us/12evangelical-ES-09/00TRUMPEVANGELICAL-wayside-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ¿Tengo síntomas de COVID-19?
+    ### <span class="css-m70j1g">El Times</span>
     
-    Ahora cada tos, estornudo o jaqueca te hace dudar: ¿será
-    coronavirus? Esta guía te ayudará a comprender los síntomas.
+    ## La promesa de Donald Trump a los cristianos evangélicos
+    
+    Joe Biden elige compañera de fórmula, protestas en Bielorrusia, la
+    fidelidad de las ranas, una parrillada en México y más lecturas de
+    fin de semana.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Tara Parker-Pope <span>y</span> Mika
-    Gröndahl</span>
+    Por <span class="css-1n7hynb">Elda
+    Cantú</span>
     
     </div>
     
@@ -891,33 +973,31 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/06/espanol/mundo/abrir-escuelas-israel-coronavirus.html)
+    [](/es/2020/08/13/espanol/estados-unidos/trump-cristianos-evangelicos.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/07/30/world/06ISRAEL-VIRUS-ES-00/merlin_175107777_4e8b4d3c-4cff-4662-9a50-ed36b51f50d8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/06/us/12EVANGELICAL-scrolly01/00EVANGELICAL-siouxcenter-alt-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Medio Oriente</span>
+    ## ‘El cristianismo tendrá poder’
     
-    ## Israel reabrió las escuelas cuando el coronavirus amainó. No fue buena idea
-    
-    A medida que los países consideran estrategias de regreso a clases,
-    un brote de coronavirus en una escuela secundaria de Jerusalén
-    ofrece una historia aleccionadora.
+    Donald Trump hizo una promesa a los cristianos evangélicos blancos
+    de Estados Unidos, un grupo de votantes cuyo apoyo puede
+    desconcertar al observador externo.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Isabel Kershner <span>y</span> Pam
-    Belluck</span>
+    Por <span class="css-1n7hynb">Elizabeth Dias <span>y</span> Jenn
+    Ackerman <span>and</span> Tim Gruber</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/04/world/middleeast/coronavirus-israel-schools-reopen.html "Read in English")
+    English](https://www.nytimes.com/2020/08/09/us/evangelicals-trump-christianity.html "Read in English")
     
     </div>
     
@@ -935,31 +1015,32 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/06/espanol/negocios/entrevista-de-trabajo-internet.html)
+    [](/es/2020/08/12/espanol/ciencia-y-tecnologia/vacuna-rusia-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/01/business/01virus-interview-illo/31virus-interview-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/11/science/12virus-vaccine-ES/11VACCINE-SAFETY1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Trabajo</span>
+    ### <span class="css-m70j1g">Ciencia</span>
     
-    ## Cómo triunfar en una entrevista laboral por internet
+    ## El anuncio de una vacuna rusa preocupa a los expertos: ‘Esto va más allá de la estupidez’
     
-    Un puñado de técnicas clásicas y algunos consejos exclusivos para la
-    era del teletrabajo pueden ayudarte a conseguir tu próximo empleo.
+    Las vacunas se encuentran entre los productos médicos más seguros
+    del mundo, pero eso solo se debe al intenso rigor de los ensayos
+    clínicos.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Julie Weed</span>
+    Por <span class="css-1n7hynb">Carl Zimmer</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/03/business/online-job-interview-tips.html "Read in English")
+    English](https://www.nytimes.com/2020/08/11/health/russia-covid-19-vaccine-safety.html "Read in English")
     
     </div>
     
@@ -977,33 +1058,35 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/05/espanol/ciencia-y-tecnologia/tuberculosis-malaria-coronavirus.html)
+    [](/es/2020/08/12/espanol/estados-unidos/quien-es-kamala-harris-vicepresidenta.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/science/04SCI-VIRUS-GLOBAL-ES-03/00VIRUS-GLOBAL4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/11/us/politics/12vp-bio-ES-1/11VP-whois-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Salud Global</span>
+    ### <span class="css-m70j1g">Estados Unidos</span>
     
-    ## Se está propagando ‘el monstruo más grande de todos’. Y no es el coronavirus
+    ## ¿Quién es Kamala Harris, la selección para vicepresidenta de Joe Biden?
     
-    La tuberculosis mata a 1,5 millones de personas cada año. Los
-    confinamientos y las interrupciones de la cadena de suministro de
-    medicamentos amenazan el progreso en la batalla contra esta
-    enfermedad, el VIH y el paludismo.
+    Un recorrido por los momentos clave de la carrera de la senadora de
+    California, la primera mujer negra y la primera persona de
+    ascendencia asiática en unirse a la fórmula electoral para la
+    presidencia de uno de los dos partidos principales de Estados
+    Unidos.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Apoorva Mandavilli</span>
+    Por <span class="css-1n7hynb">Maggie Astor <span>y</span> Sydney
+    Ember</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/03/health/coronavirus-tuberculosis-aids-malaria.html "Read in English")
+    English](https://www.nytimes.com/2020/08/11/us/politics/kamala-bio.html "Read in English")
     
     </div>
     
@@ -1021,31 +1104,32 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/05/espanol/mundo/libano-explosion-beirut.html)
+    [](/es/2020/08/12/espanol/ciencia-y-tecnologia/ranas-brasil.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/04/world/05Beirut-yee-ES/merlin_175303311_606f30a4-a476-48ec-9327-c93d6f96b2d5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/12/science/12tb-frog-matingES-01/12TB-FROGMATING1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Medio Oriente</span>
+    ### <span class="css-m70j1g">Mundo animal</span>
     
-    ## Beirut me trató como a una amiga cuando era una extraña ensangrentada y aturdida
+    ## ¿Existe la fidelidad grupal? Unas ranas en Brasil parecen probar que sí
     
-    En un país condicionado por la calamidad, todos supieron qué hacer,
-    incluyendo ayudar a heridos que no conocían.
+    Un macho es “fiel” a dos hembras, siempre y cuando sus compañeras no
+    intenten devorar los huevos ajenos. Se trata de un comportamiento
+    reproductivo que no se había visto en anfibios.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Vivian Yee</span>
+    Por <span class="css-1n7hynb">Katherine J. Wu</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/04/world/middleeast/lebanon-explosion-beirut.html "Read in English")
+    English](https://www.nytimes.com/2020/08/12/science/frog-group-fidelity.html "Read in English")
     
     </div>
     
@@ -1063,33 +1147,30 @@ Advertisement
     
     <div class="css-1l4spti">
     
-    [](/es/2020/08/05/espanol/mundo/explosion-beirut-que-paso.html)
+    [](/es/2020/08/12/espanol/curso-escolar-en-linea.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.nyt.com/images/2020/08/05/world/05Beirut-Explainer-ES/merlin_175322967_91935e7a-fece-4ef5-879e-9e033021942f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.nyt.com/images/2020/08/03/multimedia/5parenting-education-planning/5parenting-education-planning-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Medio Oriente</span>
+    ## Cómo prepararse para el aprendizaje a distancia
     
-    ## Explosiones en Beirut: esto es lo que sabemos
-    
-    Al menos 137 personas perdieron la vida, 300.000 se quedaron sin
-    hogar y la segunda explosión se llegó a sentir en Chipre. Hay una
-    investigación en curso, así como una búsqueda de sobrevivientes.
+    Este nuevo curso escolar no tiene por qué ser como el anterior. Aquí
+    hay unos consejos para no estar abrumados mientras guiamos a
+    nuestros hijos durante la educación en línea.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    Por <span class="css-1n7hynb">Austin Ramzy <span>y</span> Elian
-    Peltier</span>
+    Por <span class="css-1n7hynb">Jenny Anderson</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Read in
-    English](https://www.nytimes.com/2020/08/05/world/middleeast/beirut-explosion-what-happened.html "Read in English")
+    English](https://www.nytimes.com/2020/08/05/parenting/parents-distance-learning.html "Read in English")
     
     </div>
     
@@ -1107,23 +1188,24 @@ Advertisement
 
 <div class="css-1stvaey">
 
-Ver más
+Ver
+más
 
 <div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="assertive">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
 
 </div>
 
-<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" role="log" data-aria-live="polite">
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
 
 </div>
 
@@ -1147,7 +1229,8 @@ Advertisement
 
 </div>
 
-[Continue reading the main story](#after-mid3)
+[Continue reading the main
+story](#after-mid3)
 
 <div id="mid3" class="ad mid3-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
 
@@ -1167,7 +1250,8 @@ Advertisement
 
 </div>
 
-[Continue reading the main story](#after-mktg)
+[Continue reading the main
+story](#after-mktg)
 
 <div id="mktg" class="ad mktg-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1217,7 +1301,8 @@ Advertisement
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site Map](https://spiderbites.nytimes.com)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 

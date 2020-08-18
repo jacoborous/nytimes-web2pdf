@@ -6,7 +6,8 @@
 
 <div class="css-142l3g4">
 
-[Continue reading the main story](#after-dfp-ad-top)
+[Continue reading the main
+story](#after-dfp-ad-top)
 
 <div class="ad dfp-ad-top-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -46,7 +47,8 @@
 
 </div>
 
-[Skip to content](#site-content)[Skip to site index](#site-index)
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
 
 </div>
 
@@ -82,7 +84,8 @@
 
 <div class="css-bfvq22 e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes.com/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
 
 </div>
 
@@ -167,7 +170,8 @@
   - [Travel](https://www.nytimes.com/section/travel)
   - [Magazine](https://www.nytimes.com/section/magazine)
   - [T Magazine](https://www.nytimes.com/section/t-magazine)
-  - [Real Estate](https://www.nytimes.com/section/realestate)
+  - [Real
+Estate](https://www.nytimes.com/section/realestate)
   - [Video](https://www.nytimes.com/video)
 
 </div>
@@ -178,7 +182,7 @@
 
 <div data-aria-hidden="false">
 
-<div id="site-content" role="main">
+<div id="site-content" data-role="main">
 
 <div class="css-189d5rw e6b6cmu0">
 
@@ -202,7 +206,7 @@
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
+[](/2020/08/17/podcasts/the-daily/trump-coronavirus-vaccine-covid.html)
 
 <div class="css-1g8bx4t">
 
@@ -212,7 +216,7 @@
 
 </div>
 
-[](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
+[](/2020/08/17/podcasts/the-daily/trump-coronavirus-vaccine-covid.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
@@ -226,7 +230,8 @@
 
 <div class="css-8oysku e18972d71">
 
-Jack Dorsey on Twitter’s mistakes.
+Inside Operation Warp
+Speed.
 
 </div>
 
@@ -244,7 +249,7 @@ Jack Dorsey on Twitter’s mistakes.
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
+[](/2020/08/13/podcasts/nice-white-parents-school.html)
 
 <div class="css-1g8bx4t">
 
@@ -254,7 +259,7 @@ Jack Dorsey on Twitter’s mistakes.
 
 </div>
 
-[](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
+[](/2020/08/13/podcasts/nice-white-parents-school.html)
 
 <div class="css-8oysku e18972d71" type="1">
 
@@ -268,7 +273,8 @@ Jack Dorsey on Twitter’s mistakes.
 
 <div class="css-8oysku e18972d71">
 
-How white parents can shape a school, even when they aren’t there.
+Is it possible to limit the power of white
+parents?
 
 </div>
 
@@ -286,23 +292,23 @@ How white parents can shape a school, even when they aren’t there.
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/07/technology/trump-tiktok-wechat.html)
+[](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/05/14/business/ontech-nl-icon/ontech-nl-icon-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
+![](https://static01.nyt.com/images/2020/08/12/multimedia/coronavirusschoolsbriefing-nl-icon/coronavirusschoolsbriefing-nl-icon-square640-v2.png?quality=75&auto=webp&disable=upscale&width=350)
 
 </div>
 
 </div>
 
-[](/2020/08/07/technology/trump-tiktok-wechat.html)
+[](https://www.nytimes.com/newsletters/coronavirus-schools-briefing)
 
 <div class="css-8oysku e18972d71" type="1">
 
 <div class="css-1iexn6j e1voiwgp1">
 
-## ‘On Tech With Shira Ovide’
+## Coronavirus Schools Briefing
 
 </div>
 
@@ -310,7 +316,7 @@ How white parents can shape a school, even when they aren’t there.
 
 <div class="css-8oysku e18972d71">
 
-President Trump swings against TikTok and WeChat.
+How is the pandemic reshaping education? Get the latest news.
 
 </div>
 
@@ -346,6 +352,620 @@ President Trump swings against TikTok and WeChat.
 
 </div>
 
+<div>
+
+<div class="section css-d2znx6" data-block-tracking-id="Spotlight">
+
+<div class="css-1z104mk">
+
+<div class="section css-1akkl0w" data-template-name="FullSpanMedia">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div>
+
+<div class="section css-hdqqnp">
+
+<div>
+
+[](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
+
+<div class="dnc-container">
+
+<div class="description">
+
+<span class="button">Tonight at 9 PM EST</span> Watch the Democratic
+National Convention and follow our live
+analysis.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section css-1akkl0w" data-template-name="Cols3StoryMediaStory">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-1o0io7w e1whdksc0" span="5">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
+
+### Democratic Convention Begins Tonight; Ex-Official Under Trump Backs Biden
+
+[](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
+
+  - Bernie Sanders and Michelle Obama are speaking tonight at the
+    first-ever online Democratic convention.
+  - A former Homeland Security official for President Trump endorsed Joe
+    Biden, saying the president was “actively doing damage to our
+    security.”
+  - President Trump confirmed that he would deliver his nomination
+    acceptance speech next week at the White House. Here’s the latest.
+
+<div class="css-1yyp2fg">
+
+Live
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1weuxfd e1whdksc0" span="10">
+
+<div class="css-p7eiul e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div>
+
+<div class="section css-hdqqnp">
+
+<div>
+
+<div id="g-hp-tabs" class="g-hp-tabs">
+
+<div class="g-hp-tabs-inner">
+
+<div class="g-hp-tab g-active" data-tab="photos" data-media="">
+
+<div class="g-media-wrap" data-type="">
+
+[](https://www.nytimes.com/article/dnc-schedule.html)
+
+<div id="dnc">
+
+<div class="g-tab-fader">
+
+<div class="g-tab-fader-inner">
+
+<div class="tab-kicker">
+
+Tonight’s Speakers
+
+</div>
+
+<div class="g-photo-wrap-dnc g-photo-active-dnc">
+
+<div class="g-timestamp">
+
+Michelle
+Obama
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.nyt.com/images/2020/09/15/reader-center/15hp-dnc-fader-obama/15hp-dnc-fader-obama-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.nyt.com/images/2020/09/15/reader-center/15hp-dnc-fader-obama/15hp-dnc-fader-obama-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Paul R. Giunta/Invision, via AP </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap-dnc">
+
+<div class="g-timestamp">
+
+Bernie
+Sanders
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.nyt.com/images/2020/08/17/reader-center/17hp-dnc-fader-bernie-sub/merlin_169875378_4715d639-acbd-47ae-a559-ba8303831aa4-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.nyt.com/images/2020/08/17/reader-center/17hp-dnc-fader-bernie-sub/17hp-dnc-fader-bernie-sub-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Erin Schaff/NYT </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap-dnc">
+
+<div class="g-timestamp">
+
+Andrew
+Cuomo
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-9IIE/17hp-dnc-fader-slide-9IIE-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-9IIE/17hp-dnc-fader-slide-9IIE-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Stefani Reynolds for The NYT </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap-dnc">
+
+<div class="g-timestamp">
+
+Amy
+Klobuchar
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-0GHZ/17hp-dnc-fader-slide-0GHZ-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-0GHZ/17hp-dnc-fader-slide-0GHZ-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Travis Dove for The NYT </span>
+
+</div>
+
+</div>
+
+<div class="g-photo-wrap-dnc">
+
+<div class="g-timestamp">
+
+Eva Longoria
+(M.C.)
+
+</div>
+
+<div class="desktop">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-5OA8/17hp-dnc-fader-slide-5OA8-videoLarge.jpg)
+
+</div>
+
+<div class="mobile">
+
+![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-5OA8/17hp-dnc-fader-slide-5OA8-square640.jpg)
+
+</div>
+
+<div class="g-caption">
+
+<span class="g-credit"> Suzi Pratt/Getty for Refinery29
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1o0io7w e1whdksc0" span="5">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/2020/08/17/us/politics/john-kasich-biden.html)
+
+### John Kasich, a ‘Deeply Worried’ Republican, Steps Up for Biden
+
+[](https://www.nytimes.com/2020/08/17/us/politics/john-kasich-biden.html)
+
+Mr. Kasich, a lifelong Republican and former rival of President Trump’s,
+will speak at the Democratic convention — and vote for Joe
+Biden.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/article/republicans-voting-for-biden-not-trump.html)
+
+### A number of prominent Republicans have said they will not be backing the president’s re-election. Here’s where they stand.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="section css-1akkl0w" data-template-name="Cols3StoryStoryStory">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-tfaay7 e1whdksc0" span="7">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/2020/08/17/upshot/polls-2020-election-convention.html)
+
+### Biden Heads Into Convention With Diminished but Still Sizable Lead
+
+[](https://www.nytimes.com/2020/08/17/upshot/polls-2020-election-convention.html)
+
+Recent polls show him with an edge of eight to nine percentage points
+among likely
+voters.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tfaay7 e1whdksc0" span="7">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/2020/08/17/us/politics/gretchen-whitmer-interview.html)
+
+### Gretchen Whitmer on What It Was Like Inside the Biden V.P. Search
+
+[](https://www.nytimes.com/2020/08/17/us/politics/gretchen-whitmer-interview.html)
+
+Ms. Whitmer, the governor of Michigan and a contender on Joe Biden’s
+short list, spoke with The Times ahead of her speech at the Democratic
+convention.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-97jus7 e1whdksc0" span="6">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+<div class="css-1dybjdb e1whdksc2">
+
+<div>
+
+<div class="story-wrapper">
+
+<div class="css-1tfqggw">
+
+<div class="css-k008qs">
+
+<div class="css-nlmav5 e1whdksc0" span="1">
+
+<div class="css-1rvhhh9 e1whdksc1">
+
+[](https://www.nytimes.com/live/2020/08/17/us/dnc-convention?action=click&module=Spotlight&pgtype=Homepage#michelle-obama-a-confident-performer-and-reticent-partisan-will-anchor-mondays-program)
+
+### Michelle Obama, a confident speaker and reticent partisan, will anchor Monday’s program.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div class="css-698um9">
@@ -354,21 +974,19 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-jbmajz">
 
-<div>
+<div class="css-11i19ht">
 
 <div class="section css-15zaaaz eq74mwp0" data-block-tracking-id="Top Stories" data-testid="block-TopStories">
 
-<div class="css-1oxv4in e1aa0s8g0">
-
-<div class="css-1aew2eb eqveam62">
+<div class="css-1goe63e e1aa0s8g0">
 
 <div>
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1yoguk1 eqveam60">
+<div class="css-bs48m0 eqveam60">
 
-<div class="css-qvz0vj eqveam61">
+<div class="css-1qj0wac eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
@@ -376,19 +994,18 @@ President Trump swings against TikTok and WeChat.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/world/coronavirus-updates.html)
+[](/2020/08/17/world/coronavirus-covid.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>U.S. Surpasses 5 Million Coronavirus Cases</span>
+## <span>U.N.C. Changes Plans and Will Teach Undergrads Remotely</span>
 
 </div>
 
-  - No other country has reported as many infections. Brazil ranks
-    second, with about three million, and also reached a milestone:
-    100,000 deaths.
-  - In the past week, Louisiana, Mississippi and Florida had the most
-    new cases relative to population. Here’s the latest.
+The university at Chapel Hill announced its plans after new cases
+emerged. The postmaster general agreed to testify before a House panel.
+Here’s the
+latest.
 
 <div class="css-1slnf6i">
 
@@ -410,159 +1027,7 @@ President Trump swings against TikTok and WeChat.
 
 </div>
 
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/images/2020/08/08/world/08VIRUS-TAB-pm-slide-NAFH/08VIRUS-TAB-pm-slide-NAFH-videoLarge.jpg)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1fgqvm0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/trump-stimulus-bill-coronavirus.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Sidestepping Congress, Trump Signs Executive Measures for Virus Relief
-
-</div>
-
-President Trump signed the directives after stimulus talks stalled,
-using legally dubious measures to try to restore lapsed benefits.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/nancy-pelosi-coronavirus-relief.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Analysis: Speaker Nancy Pelosi is playing hardball and refusing to agree to a narrow relief measure.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-1g8bx4t">
-
-![](https://static01.nyt.com/newsgraphics/2020/03/16/coronavirus-maps/cd3f3bc6b8c8089803b9023f79b7e90a4d168062/images/orphan_usa-threeByTwoSmallAt2X.png)
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1fgqvm0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/us/politics/voting-nov-3-election.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>What Will Happen After Voting Ends on Election Day?</span>
-
-</div>
-
-President Trump’s litigiousness and unfounded claims of fraud have
-increased the likelihood of epic postelection court fights.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
+<div class="css-778gjy eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -572,17 +1037,57 @@ increased the likelihood of epic postelection court fights.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/kristi-noem-pence-trump.html)
+[](/2020/08/17/us/k-12-schools-reopening.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## How Kristi Noem Fueled Speculation About Mike Pence’s Job
+## Catch Up on the Latest With Schools
 
 </div>
 
-After her flight on Air Force One provoked rumors, Gov. Kristi Noem of
-South Dakota returned to Washington to smooth things over with the vice
-president.
+Sign up for our new newsletter on the seismic changes to education that
+are taking place during the pandemic.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/world/coronavirus-television-schools.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Struggling Under Lockdown, Schools Worldwide Relearn the Value of TV
+
+</div>
+
+Poor regions where internet access is scarce are turning to an older
+technology that could also help wealthy countries that have focused on
+online
+classes.
 
 <div>
 
@@ -614,6 +1119,158 @@ president.
 
 <div class="css-1yoguk1 eqveam60">
 
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/health/coronavirus-herd-immunity.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>What if ‘Herd Immunity’ Is Closer Than Scientists Thought?</span>
+
+</div>
+
+Researchers are trying to figure out how many people in a community must
+be immune before the coronavirus fades.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/technology/coronavirus-disinformation-doctors.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Coronavirus Doctors Battle Another Scourge: Misinformation
+
+</div>
+
+Physicians say they regularly treat people more inclined to believe what
+they read on Facebook than what a medical professional tells them.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1mnngwr eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div>
+
+<div class="css-1xaqcky">
+
+[](/2020/08/17/upshot/pandemic-recession-cities-fiscal-shortfall.html)
+
+<div class="css-1g8bx4t">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:480px">
+
+</div>
+
+</div>
+
+<div class="css-e4gm3y">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nl6p6m">
+
+[](/2020/08/17/upshot/pandemic-recession-cities-fiscal-shortfall.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## The Recession Is About to Slam Cities. Not Just the Blue-State Ones.
+
+</div>
+
+Those with budgets that rely heavily on tourism, sales taxes or direct
+state assistance will face particular
+distress.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-1g8bx4t">
+
+<div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
 <div class="css-qvz0vj eqveam61">
 
 <div class="css-1aew2eb eqveam62">
@@ -622,17 +1279,17 @@ president.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/magazine/us-russia-intelligence.html)
+[](/2020/08/17/us/politics/postal-service-voting.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Unwanted Truths: Inside Trump’s Battles With U.S. Intelligence Agencies</span>
+## <span>Postal Crisis Has States Looking for Alternatives to Mail-In Ballots</span>
 
 </div>
 
-Last year, intelligence officials gathered to write a classified report
-on Russia’s interest in the 2020 election. Our investigation uncovered
-what happened next.
+Democratic Party and state officials are looking for a Plan B: ballot
+drop-boxes, curbside voting, and even expanded in-person polling
+sites.
 
 <div>
 
@@ -654,9 +1311,9 @@ what happened next.
 
 <div class="css-pwtn0q eqveam60">
 
-<div class="css-1qj0wac eqveam61">
+<div class="css-qvz0vj eqveam61">
 
-[](/2020/08/08/magazine/us-russia-intelligence.html)
+[](/2020/08/17/us/politics/postal-service-voting.html)
 
 <div class="css-1g8bx4t">
 
@@ -668,33 +1325,46 @@ what happened next.
 
 </div>
 
-<div class="section css-1xdhyk6 e2u1rkt0">
-
-<span class="credit">Doug Mills/The New York Times</span>
-
 </div>
 
 </div>
 
 </div>
 
-</div>
-
-<div class="css-778gjy eqveam60">
+<div class="css-nmg095 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
 <div class="css-1aew2eb eqveam62">
 
+<div data-aria-hidden="true">
+
+[](/2020/08/17/us/politics/postal-service-voting.html)
+
+<div class="css-1g8bx4t">
+
+<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+
+Mail-in ballot drop boxes were widely used for the first time in
+Pennsylvania’s June primary. The Trump campaign is suing to block them
+in November. <span class="credit">Mark Makela for The New York
+Times</span>
+
+</div>
+
+</div>
+
+</div>
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/us/politics/trump-russia.html)
+[](/article/Vote-by-mail.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## President Trump, Russia and an intelligence document: Here are the key takeaways.
+## Here’s how mail-in voting works.
 
 </div>
 
@@ -722,76 +1392,39 @@ what happened next.
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div>
+<div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1fgqvm0 eqveam60">
+<div class="css-1yoguk1 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/health/coronavirus-superspreading-contagion.html)
+[](/2020/08/17/world/europe/belarus-lukashenko-protests.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Why the Coronavirus Is More Likely to ‘Superspread’ Than the Flu</span>
+## <span>No Longer Cowed, Belarus Has Message for Once-Mighty Dictator: ‘Go Away\!’</span>
 
 </div>
 
-Most people won’t spread the virus widely. The few who do are probably
-in the wrong place at the wrong time in their infection, new models
-suggest.
+</div>
+
+</div>
+
+<div class="css-zmmks0 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+[](/2020/08/17/world/europe/belarus-lukashenko-protests.html)
+
+As his base starts to desert him after protests over a rigged election
+were met with brutality, Aleksandr Lukashenko’s grip on power may be
+slipping.
 
 <div>
 
 <div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/nyregion/nyc-illegal-parties.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Rave Under the Bridge: Are Illicit Parties Endangering N.Y.C.?
-
-</div>
-
-Videos and photos posted on social media of a number of parties show few
-guests abiding by social-distancing guidelines.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 
@@ -833,11 +1466,30 @@ guests abiding by social-distancing guidelines.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/technology/talkspace.html)
+[](/2020/08/16/style/does-rapid-covid-testing-work-weddings-parties.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>At Talkspace, Start-Up Culture Collides With Mental Health Concerns</span>
+<div class="css-hb0qj3">
+
+The Great Read
+
+</div>
+
+## <span>Rapid Testing Is the New Velvet Rope</span>
+
+</div>
+
+Determined to proceed with events this summer, hosts are adding
+screenings at the door. But such measures are hardly a guarantee of
+safety, experts
+warn.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
 
 </div>
 
@@ -849,114 +1501,26 @@ guests abiding by social-distancing guidelines.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/07/technology/talkspace.html)
-
-The therapy-by-text company made burner phones available for fake
-reviews and doesn’t adequately respect client privacy, former employees
-say.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1yoguk1 eqveam60">
-
-<div class="css-qvz0vj eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/07/briefing/best-weekend-reads.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>11 of Our Best Weekend Reads</span>
-
-</div>
-
-The kindness of strangers in Beirut. 75 years since the atomic bombings.
-Burna Boy’s Afro-fusion music. And more.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/interactive/2020/08/07/briefing/beirut-tiktok-census-bureau-news-quiz.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Did you follow the headlines this week? Take our quiz.
-
-</div>
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-zmmks0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-[](/2020/08/07/briefing/best-weekend-reads.html)
+[](/2020/08/16/style/does-rapid-covid-testing-work-weddings-parties.html)
 
 <div class="css-1g8bx4t">
 
 <div class="css-zjzyr8">
 
-<div data-testid="lazyimage-container" style="height:480px">
+<div data-testid="lazyimage-container" style="height:177.77777777777777px">
 
 </div>
 
 </div>
 
-<div class="css-e4gm3y">
+<div class="section css-1xdhyk6 e2u1rkt0" data-aria-hidden="true">
+
+Amanda Seekamp, who is in charge of guest relations at the Surf Lodge in
+Montauk, N.Y., gets a rapid test. <span class="credit">Joe Carrotta for
+The New York
+Times</span>
+
+</div>
 
 </div>
 
@@ -978,7 +1542,7 @@ Burna Boy’s Afro-fusion music. And more.
 
 <div class="css-717c4s">
 
-<div>
+<div class="css-zbs5hn">
 
 <div class="section css-1g8pbzc eq74mwp0" data-block-tracking-id="Opinion" data-testid="block-Opinion">
 
@@ -986,7 +1550,59 @@ Burna Boy’s Afro-fusion music. And more.
 
 ### Opinion
 
-<div class="css-dlmg09">
+<div class="css-anz6u5">
+
+<div class="css-tub26b">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/opinion/joe-biden-conservative-2020.html)
+
+<div class="css-dcl9ft">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:40px">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-1dvlumo e18df3gd0">
+
+Bret Stephens
+
+</div>
+
+</div>
+
+## On Being a Biden Conservative
+
+</div>
+
+It’s about upholding your principles at the expense of your politics.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-tub26b">
 
@@ -998,7 +1614,19 @@ Burna Boy’s Afro-fusion music. And more.
 
 <div class="css-qvz0vj eqveam61">
 
-[](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
+[](/2020/08/17/opinion/bernie-sanders-joe-biden.html)
+
+<div class="css-dcl9ft">
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:40px">
+
+</div>
+
+</div>
+
+</div>
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1006,18 +1634,18 @@ Burna Boy’s Afro-fusion music. And more.
 
 <div class="css-1dvlumo e18df3gd0">
 
-The Editorial Board
+Elizabeth Bruenig
 
 </div>
 
 </div>
 
-## America Could Control the Pandemic by October. Let’s Get to It.
+## I Asked Bernie Sanders if It Was All Over. ‘No,’ He Groaned.
 
 </div>
 
-The solutions to combating the coronavirus are no mystery. It’s time to
-do this right.
+The senator from Vermont explains why the left still has a fighting
+chance.
 
 <div>
 
@@ -1035,11 +1663,17 @@ do this right.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/08/opinion/sunday/coronavirus-response-testing-lockdown.html)
+[](/2020/08/17/opinion/bernie-sanders-joe-biden.html)
 
 <div class="css-1g8bx4t">
 
-![](https://static01.nyt.com/images/2020/08/09/opinion/09covid-editorial-08/09covid-editorial-08-square640-v2.jpg?quality=75&auto=webp&disable=upscale&width=350)
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:145.33333333333334px">
+
+</div>
+
+</div>
 
 </div>
 
@@ -1061,12 +1695,17 @@ do this right.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/opinion/sunday/covid-lyme-treatment-medicine.html)
+[](/2020/08/17/opinion/trump-us-mail.html)
 
 <div class="css-dcl9ft">
 
-![Ross
-Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-douthat-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:40px">
+
+</div>
+
+</div>
 
 </div>
 
@@ -1076,42 +1715,13 @@ Douthat](https://static01.nyt.com/images/2018/04/03/opinion/ross-douthat/ross-do
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Ross Douthat
+Paul Krugman
 
 </div>
 
 </div>
 
-## What to Do When Covid Doesn’t Go Away
-
-</div>
-
-Lessons for coronavirus long-haulers from my own experience with chronic
-illness.
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/opinion/brent-scowcroft-model-foreign-policy.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-James Mann
-
-</div>
-
-</div>
-
-## Brent Scowcroft Didn’t Always Follow ‘the Scowcroft Model’
+## Trump, the Mail and the Unbinding of America
 
 </div>
 
@@ -1123,64 +1733,17 @@ James Mann
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/opinion/sunday/crazy-blues-mamie-smith.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-David Hajdu
-
-</div>
-
-</div>
-
-## A Song That Changed Music Forever
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/05/opinion/sunday/indian-matchmaking-netflix.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Sanjena Sathian
-
-</div>
-
-</div>
-
-## We Need to Talk About ‘Indian Matchmaking’
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/08/opinion/sunday/biden-vice-president-geraldine-ferraro.html)
+[](/2020/08/17/opinion/coronavirus-cities-suburbs.html)
 
 <div class="css-dcl9ft">
 
-![Maureen
-Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-dowd-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:40px">
+
+</div>
+
+</div>
 
 </div>
 
@@ -1190,13 +1753,13 @@ Dowd](https://static01.nyt.com/images/2018/04/02/opinion/maureen-dowd/maureen-do
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Maureen Dowd
+Annalee Newitz
 
 </div>
 
 </div>
 
-## No Wrist Corsages, Please
+## Want to Flee the City for Suburbia? Think Again
 
 </div>
 
@@ -1208,7 +1771,7 @@ Maureen Dowd
 
 <div class="css-6p6lnl">
 
-[](/2020/08/07/opinion/coronavirus-lockdown-unemployment-death.html)
+[](/2020/08/17/opinion/trump-biden-harris-democratic-convention.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1216,13 +1779,13 @@ Maureen Dowd
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Michael T. Osterholm and Neel Kashkari
+Gail Collins and Bret Stephens
 
 </div>
 
 </div>
 
-## Here’s How to Crush the Virus Until Vaccines Arrive
+## Welcome, Democrats, to Wherever It Is That We Are
 
 </div>
 
@@ -1234,7 +1797,7 @@ Michael T. Osterholm and Neel Kashkari
 
 <div class="css-6p6lnl">
 
-[](/2020/08/06/opinion/sunday/coronavirus-baruch-haviv-death.html)
+[](/2020/08/17/opinion/covid-19-heart-disease.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1242,13 +1805,13 @@ Michael T. Osterholm and Neel Kashkari
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Ron Haviv
+Haider Warraich
 
 </div>
 
 </div>
 
-## Zoom Calls With Our Dying Father
+## Covid-19 Is Creating a Wave of Heart Disease
 
 </div>
 
@@ -1260,12 +1823,33 @@ Ron Haviv
 
 <div class="css-6p6lnl">
 
-[](/2020/08/06/opinion/sunday/gloria-purvis-george-floyd-blm.html)
+[](/2020/08/17/opinion/letters/postal-service-election-democracy.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## The Postal Crisis: ‘Our Democracy Is at Risk’
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/15/opinion/joe-biden-2020-1988-what-it-takes.html)
 
 <div class="css-dcl9ft">
 
-![Elizabeth
-Bruenig](https://static01.nyt.com/images/2020/01/24/opinion/elizabeth-bruenig/elizabeth-bruenig-thumbLarge.png?quality=75&auto=webp&disable=upscale)
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:40px">
+
+</div>
+
+</div>
 
 </div>
 
@@ -1275,13 +1859,13 @@ Bruenig](https://static01.nyt.com/images/2020/01/24/opinion/elizabeth-bruenig/el
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Elizabeth Bruenig
+Jennifer Senior
 
 </div>
 
 </div>
 
-## Why Won’t More White Christians Say Black Lives Matter?
+## Meet Young Joe Biden, the ‘Wild Stallion’
 
 </div>
 
@@ -1293,14 +1877,7 @@ Elizabeth Bruenig
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/opinion/gold-investment-coronavirus.html)
-
-<div class="css-dcl9ft">
-
-![Ruchir
-Sharma](https://static01.nyt.com/images/2018/04/02/opinion/ruchir-sharma/ruchir-sharma-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/16/opinion/us-coronavirus-testing.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1308,13 +1885,13 @@ Sharma](https://static01.nyt.com/images/2018/04/02/opinion/ruchir-sharma/ruchir-
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Ruchir Sharma
+The Editorial Board
 
 </div>
 
 </div>
 
-## Why Is Everyone Buying Gold?
+## Should You Get That Coronavirus Test?
 
 </div>
 
@@ -1326,14 +1903,7 @@ Ruchir Sharma
 
 <div class="css-6p6lnl">
 
-[](/2020/08/08/opinion/nazi-confederate-military-history-ksk.html)
-
-<div class="css-dcl9ft">
-
-![Elliot
-Ackerman](https://static01.nyt.com/images/2020/03/13/opinion/elliot-ackerman/elliot-ackerman-thumbLarge.png?quality=75&auto=webp&disable=upscale)
-
-</div>
+[](/2020/08/17/opinion/coronavirus-schools-teachers.html)
 
 <div class="css-debyuq e1voiwgp1">
 
@@ -1341,13 +1911,40 @@ Ackerman](https://static01.nyt.com/images/2020/03/13/opinion/elliot-ackerman/ell
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Elliot Ackerman
+Kelly Treleaven
 
 </div>
 
 </div>
 
-## America’s Military Should Confront Its Past, Not Bury It
+## Get Ready for a Teacher Shortage Like We’ve Never Seen Before
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/opinion/thailand-protests.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Tom Felix Joehnk and Matt
+Wheeler
+
+</div>
+
+</div>
+
+## ‘You Have Awakened a Sleeping Giant’
 
 </div>
 
@@ -1381,21 +1978,13 @@ Elliot Ackerman
 
 <div class="css-1xaqcky">
 
-[](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
-
 <div class="css-1g8bx4t">
 
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:480px">
+<div>
 
 </div>
 
-</div>
-
-<div class="section css-1xdhyk6 e2u1rkt0">
-
-<span class="credit">Michaela Skovranova for The New York Times</span>
+<div class="css-e4gm3y">
 
 </div>
 
@@ -1405,16 +1994,17 @@ Elliot Ackerman
 
 <div class="css-1nl6p6m">
 
-[](/2020/08/03/world/australia/spearfishing-sydney-coronavirus.html)
+[](/2020/08/14/us/queer-lesbian-women-suffrage.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## <span>Taking a Spear Into the Sea, and Washing Anxiety Away</span>
+## <span>How Queer Women Powered the Suffrage Movement</span>
 
 </div>
 
-People in Sydney were carrying spearguns to and from the ocean. Our
-Australia bureau chief dived in to understand why.
+For many suffragists, scholars have found, the freedom to choose whom
+and how they loved was tied deeply to the idea of voting
+rights.
 
 <div>
 
@@ -1446,16 +2036,18 @@ Australia bureau chief dived in to understand why.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/06/movies/megan-fox-jennifers-body.html)
+[](/2020/08/17/business/giant-bikes-coronavirus-shortage.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## What Megan Fox Taught Me About the Power of Subversive Girls
+## Sorry, the World’s Biggest Bike Maker Can’t Help You Buy a Bike Right Now
 
 </div>
 
-The horror comedy “Jennifer’s Body,” starring Fox as a demon who eats
-boys, showed me the value of teen scream queens.
+The pandemic has created a bicycle boom — and a shortage. Giant, the
+Taiwanese juggernaut, is trying to meet demand while navigating the
+politics of
+trade.
 
 <div>
 
@@ -1473,7 +2065,7 @@ boys, showed me the value of teen scream queens.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/06/movies/megan-fox-jennifers-body.html)
+[](/2020/08/17/business/giant-bikes-coronavirus-shortage.html)
 
 <div class="css-1g8bx4t">
 
@@ -1507,16 +2099,17 @@ boys, showed me the value of teen scream queens.
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/well/family/parents-social-media-privacy.html)
+[](/2020/08/16/nyregion/metropolitan-diary.html)
 
 <div class="css-debyuq e1voiwgp1">
 
-## Why Parents Should Pause Before Oversharing Online
+## ‘I Saw a Man Standing on One of the Paths in a Densely Wooded Area’
 
 </div>
 
-As social media comes of age, will we regret all the information we
-revealed about our families during its early years?
+Out for a walk in Riverside Park, adventures in customer service and
+more reader tales of New York City in this week’s Metropolitan
+Diary.
 
 <div>
 
@@ -1534,7 +2127,7 @@ revealed about our families during its early years?
 
 <div class="css-1qj0wac eqveam61">
 
-[](/2020/08/04/well/family/parents-social-media-privacy.html)
+[](/2020/08/16/nyregion/metropolitan-diary.html)
 
 <div class="css-1g8bx4t">
 
@@ -1580,7 +2173,8 @@ revealed about our families during its early years?
 
 ### Advertisement
 
-[Continue reading the main story](#after-dfp-ad-mid1-large)
+[Continue reading the main
+story](#after-dfp-ad-mid1-large)
 
 <div id="dfp-ad-mid1-large" class="ad dfp-ad-mid1-large-wrapper" style="text-align:center;height:100%;display:block">
 
@@ -1644,7 +2238,8 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
     Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
   - [Terms of
     Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
-  - [Site Map](https://spiderbites.nytimes.com)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
 
