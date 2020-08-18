@@ -1,0 +1,595 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes.com/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes.com/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes.com/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Trump
+Received Unsubstantiated Report That Russia Had Damaging Information
+About
+Him</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2jsp4xR</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Trump Received Unsubstantiated Report That Russia Had Damaging Information About Him
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">President-elect
+Donald J. Trump on Monday at Trump Tower in
+Manhattan.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Kevin
+Hagen for The New York
+Times</span></span></span>](https://static01.nyt.com/images/2017/01/11/us/11intel/11intel-articleInline.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Scott
+Shane</span>](http://www.nytimes.com/by/scott-shane),
+[<span class="css-1baulvz" itemprop="name">Adam
+Goldman</span>](https://www.nytimes.com/by/adam-goldman) and
+[<span class="css-1baulvz last-byline" itemprop="name">Matthew
+Rosenberg</span>](http://www.nytimes.com/by/matthew-rosenberg)
+
+</div>
+
+</div>
+
+  - Jan. 10,
+    2017
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+WASHINGTON — The chiefs of America’s intelligence agencies last week
+presented President Obama and President-elect [Donald J.
+Trump](http://www.nytimes.com/topic/person/donald-trump?inline=nyt-per)
+with a summary of unsubstantiated reports that Russia had collected
+compromising and salacious personal information about Mr. Trump, two
+officials with knowledge of the briefing said.
+
+The summary is based on memos generated by political operatives seeking
+to derail Mr. Trump’s candidacy. Details of the reports began
+circulating in the fall and were widely known among journalists and
+politicians in Washington.
+
+The two-page summary, first
+[reported](http://edition.cnn.com/2017/01/10/politics/donald-trump-intelligence-report-russia/index.html)
+by CNN, was presented as an appendix to the intelligence agencies’
+[report on Russian hacking efforts during the
+election](https://www.nytimes.com/2017/01/06/us/politics/donald-trump-wall-hack-russia.html),
+the officials said. The material was not corroborated, and The New York
+Times has not been able to confirm the claims. But intelligence agencies
+considered it so potentially explosive that they decided Mr. Obama, Mr.
+Trump and congressional leaders needed to be told about it and informed
+that the agencies were actively investigating it.
+
+Intelligence officials were concerned that the information would leak
+before they informed Mr. Trump of its existence, said the officials, who
+spoke on the condition of anonymity because they were not authorized to
+speak about it publicly.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The author of the memos is Christopher Steele, a former British
+intelligence officer with MI-6, who once served in Moscow. After Mr.
+Steele retired in 2009, he founded a private firm called [Orbis Business
+Intelligence](https://orbisbi.com/) in London. Former C.I.A. officials
+described him as an expert on Russia who is well respected in the spy
+world.
+
+On Tuesday night, Mr. Trump responded to the memos on Twitter:
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In an appearance recorded for NBC’s “Late Night With Seth Meyers,” Mr.
+Trump’s spokeswoman, Kellyanne Conway, said of the claims in the
+opposition research memos, “He has said he is not aware of that.”
+
+On Wednesday, a spokesman for President Vladimir V. Putin of Russia
+dismissed the allegations. “The Kremlin has no compromising dossier on
+Trump, such information isn’t consistent with reality and is nothing but
+an absolute fantasy,” the spokesman, Dmitri S. Peskov, said at a news
+conference.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Since the intelligence agencies’ report on Friday that Mr. Putin of
+Russia had ordered the hacking and leaks of Democratic emails in order
+to hurt his Democratic opponent, Hillary Clinton, and help Mr. Trump,
+the president-elect and his aides have said that Democrats are trying to
+mar his election
+victory.
+
+</div>
+
+</div>
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-17dprlf" data-id="100000004799217" data-slug="news-tips-article-promo" style="max-width:580px">
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The decision of top intelligence officials to give the president, the
+president-elect and the so-called Gang of Eight — Republican and
+Democratic leaders of Congress and the intelligence committees — what
+they know to be unverified, defamatory material was extremely unusual.
+
+The appendix summarized opposition research memos prepared mainly by a
+retired British intelligence operative for a Washington political and
+corporate research firm. The firm was paid for its work first by Mr.
+Trump’s Republican rivals and later by supporters of Mrs. Clinton. The
+Times has checked on a number of the details included in the memos but
+has been unable to substantiate them.
+
+The memos suggest that for many years, the Russian government of Mr.
+Putin has looked for ways to influence Mr. Trump, who has traveled
+repeatedly to Moscow to investigate real estate deals or to oversee the
+Miss Universe competition, which he owned for several years. Mr. Trump
+never completed any major deals in Russia, though he discussed them for
+years.
+
+Mr. Steele, who gathered the material about Mr. Trump, is considered a
+competent and reliable operative with extensive experience in Russia,
+American officials said. But he passed on what he heard from Russian
+informants and others, and what they told him has not yet been vetted by
+American intelligence.
+
+The memos describe sex videos involving prostitutes with Mr. Trump in a
+2013 visit to a Moscow hotel. The videos were supposedly prepared as
+“kompromat,” or compromising material, with the possible goal of
+blackmailing Mr. Trump in the future.
+
+The memos also suggest that Russian officials proposed various lucrative
+deals, essentially as disguised bribes in order to win influence over
+Mr. Trump.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The memos describe several purported meetings during the 2016
+presidential campaign between Trump representatives and Russian
+officials to discuss matters of mutual interest, including the Russian
+hacking of the Democratic National Committee and Mrs. Clinton’s campaign
+chairman, John D. Podesta.
+
+If some of the unproven claims in the memos are merely titillating,
+others would amount to extremely serious, potentially treasonous acts.
+
+One of the opposition research memos quotes an unidentified Russian
+source as claiming that the hacking and leaking of Democratic emails was
+carried out “with the full knowledge and support of TRUMP and senior
+members of his campaign team.” In return, the memo said, “the TRUMP team
+had agreed to sideline Russian intervention in Ukraine as a campaign
+issue” because Mr. Putin “needed to cauterize the subject.”
+
+Michael Cohen, a lawyer and adviser to Mr. Trump, also went to Twitter
+to deny a specific claim in the opposition research involving him. One
+of the memos claims that Mr. Cohen went to Prague in August or September
+to meet with Kremlin representatives and to talk about Russian hacking
+of Democrats.
+
+Mr. Cohen tweeted on Tuesday night:
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In addition, in a recent interview with The Times, one of the Russian
+officials named in the memo as having met with Mr. Cohen, Oleg
+Solodukhin, denied that he had met with Mr. Cohen or any other Trump
+representative.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“I don’t know where that rumor came from,” Mr. Solodukhin, of the
+Russian organization Rossotrudnichestvo, which promotes Russian culture
+and interests abroad, said in a telephone interview.
+
+The Times [reported before the
+election](https://www.nytimes.com/2016/11/01/us/politics/fbi-russia-election-donald-trump.html)
+that the F.B.I. was looking into possible evidence of links between the
+Trump campaign and Russia. But the investigation surfaced again at a
+Senate hearing on Tuesday in a series of questions from Senator Ron
+Wyden, Democrat of Oregon, to the F.B.I. director, James B. Comey.
+
+Mr. Wyden, trying to draw Mr. Comey out on information he may have heard
+during a classified briefing, asked if the F.B.I. had investigated the
+Trump campaign’s contacts with Russia. Mr. Comey demurred, saying he
+could not discuss any investigations that might or might not be
+underway. Mr. Wyden kept pressing, asking Mr. Comey to provide a written
+answer to the question before Mr. Trump’s inauguration on Jan. 20
+because he feared there would be no declassification of the information
+once Mr. Trump took office.
+
+After the hearing, Mr. Wyden posted on Twitter:
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The F.B.I. obtained the material long before the election, and some of
+the memos in the opposition research dossier are dated as early as June.
+But agents have struggled to confirm it, according to federal officials
+familiar with the investigation.
+
+Allies of Senator Harry Reid, the Senate Democratic leader from Nevada
+who retired at the end of the year, said the disclosures validated his
+call last summer for an investigation by the F.B.I. into Mr. Trump’s
+links to Russia.
+
+Democrats on Tuesday night pressed for a thorough investigation of the
+claims in the memos. Representative Eric Swalwell of California, a
+member of the House Intelligence Committee, called for law enforcement
+to find out whether the Russian government had had any contact with Mr.
+Trump or his campaign.
+
+“The president-elect has spoken a number of times, including after being
+presented with this evidence, in flattering ways about Russia and its
+dictator,” Mr. Swalwell said. “Considering the evidence of Russia
+hacking our democracy to his benefit, the president-elect would do a
+service to his presidency and our country by releasing his personal and
+business income taxes, as well as information on any global financial
+holdings.”
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes.com/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes.com/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes.com/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes.com/privacy)
+  - [Terms of
+    Service](https://help.nytimes.com/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes.com/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes.com)
+  - [Help](https://help.nytimes.com/hc/en-us)
+  - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
