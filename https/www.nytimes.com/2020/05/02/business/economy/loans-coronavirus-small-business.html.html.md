@@ -132,35 +132,22 @@ It</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf00-e0a4-11ea-9b77-b5fd14d00076)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes.com/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf01-e0a4-11ea-9b77-b5fd14d00076)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf02-e0a4-11ea-9b77-b5fd14d00076)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf03-e0a4-11ea-9b77-b5fd14d00076)</span>
+  - <span class="css-ousu42">[Signs of Lasting
+    Immunity](https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf04-e0a4-11ea-9b77-b5fd14d00076)</span>
+  - <span class="css-ousu42">[Markets &
+    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf05-e0a4-11ea-9b77-b5fd14d00076)</span>
 
 </div>
 
@@ -409,7 +396,7 @@ pandemic.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -417,44 +404,43 @@ pandemic.
 
 <div class="briefing-block-update-time active">
 
-[43m
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
-
-</div>
-
-<div>
-
-[The ad giant Publicis has ‘parted ways’ with an executive over his
-virus
-tweets.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-ad-giant-publicis-has-parted-ways-with-an-executive-over-his-virus-tweets)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[2h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
-
-</div>
-
-<div>
-
-[NBCUniversal to cut about 10 percent of its work
-force.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#nbcuniversal-to-cut-about-10-percent-of-its-work-force)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
 [3h
-ago](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#critics-pile-on-an-sec-proposal-to-limit-investor-disclosure)
 
 </div>
 
 <div>
 
-[Loans are harder to get, even as interest rates are
-low.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#loans-are-harder-to-get-even-as-interest-rates-are-low)
+[Critics pile on an S.E.C. proposal to limit investor
+disclosure](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#critics-pile-on-an-sec-proposal-to-limit-investor-disclosure)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[5h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
+
+</div>
+
+<div>
+
+[Here’s what you need to know for the week
+ahead.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[5h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-worlds-biggest-bike-maker-steers-around-trade-obstacles)
+
+</div>
+
+<div>
+
+[The world’s biggest bike maker steers around trade
+obstacles.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-worlds-biggest-bike-maker-steers-around-trade-obstacles)
 
 </div>
 
@@ -465,14 +451,14 @@ low.](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-corona
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

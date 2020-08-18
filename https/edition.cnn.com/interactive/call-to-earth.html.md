@@ -1,5 +1,0 @@
-# 301 Moved Permanently
-
------
-
-nginx

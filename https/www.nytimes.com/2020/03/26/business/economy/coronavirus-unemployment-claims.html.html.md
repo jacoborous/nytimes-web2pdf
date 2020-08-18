@@ -131,35 +131,22 @@ Apart</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d602b0-e0fd-11ea-9543-ff538f7d3baa)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes.com/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d629c0-e0fd-11ea-9543-ff538f7d3baa)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d629c1-e0fd-11ea-9543-ff538f7d3baa)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d629c2-e0fd-11ea-9543-ff538f7d3baa)</span>
+  - <span class="css-ousu42">[State of Play for
+    K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d629c3-e0fd-11ea-9543-ff538f7d3baa)</span>
+  - <span class="css-ousu42">[Markets &
+    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=10d650d0-e0fd-11ea-9543-ff538f7d3baa)</span>
 
 </div>
 
@@ -450,7 +437,7 @@ hospitalizations.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -458,45 +445,45 @@ hospitalizations.
 
 <div class="briefing-block-update-time">
 
-[34h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[7h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
 
 </div>
 
 <div>
 
-[Kodak’s chief executive was given stock options. Then the share price
-spiked 1,000
-percent.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#kodaks-chief-executive-was-given-stock-options-then-the-share-price-spiked-1000-percent)
+[Robinhood, a stock trading app, is valued at $11.2 billion in its
+latest funding
+round.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[37h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[10h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
 
 </div>
 
 <div>
 
-[Fitch Ratings downgrades its outlook on U.S.
-debt.](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fitch-ratings-downgrades-its-outlook-on-us-debt)
+[New unemployment benefits authorized by President Trump won’t come
+until late
+August.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[44h
-ago](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[15h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
 
 </div>
 
 <div>
 
-[U.S. sanctions more Chinese officials over human rights violations as
-tensions
-flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-sanctions-more-chinese-officials-over-human-rights-violations-as-tensions-flare)
+[Here’s what you need to know for the week
+ahead.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
 
 </div>
 
@@ -507,14 +494,14 @@ flare](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coron
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes.com/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
