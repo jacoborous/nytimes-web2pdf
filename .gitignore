@@ -1,3 +1,4 @@
+*.lock
 *.txt
 *.sh
 *.out

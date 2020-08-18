@@ -105,15 +105,15 @@ Bust.</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Climate and</span><span class="css-1rxm0ex"> Environment</span></span>](https://www.nytimes.com/section/climate?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=065876b0-e0fd-11ea-8a79-dde9be5d7048)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Climate and</span><span class="css-1rxm0ex"> Environment</span></span>](https://www.nytimes.com/section/climate?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a9781a70-e108-11ea-b922-ef603cfaa1fb)
 
   - <span class="css-ousu42">[Methane Rule
-    Rollback](https://www.nytimes.com/2020/08/13/climate/trump-methane.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=065876b1-e0fd-11ea-8a79-dde9be5d7048)</span>
+    Rollback](https://www.nytimes.com/2020/08/13/climate/trump-methane.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a9784180-e108-11ea-b922-ef603cfaa1fb)</span>
   - <span class="css-ousu42">[Trump’s
-    Changes](https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=065876b2-e0fd-11ea-8a79-dde9be5d7048)</span>
-  - <span class="css-ousu42">[Climate 101](https://www.nytimes.com/interactive/2020/04/19/climate/climate-crash-course-1.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=065876b3-e0fd-11ea-8a79-dde9be5d7048)</span>
+    Changes](https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a9784181-e108-11ea-b922-ef603cfaa1fb)</span>
+  - <span class="css-ousu42">[Climate 101](https://www.nytimes.com/interactive/2020/04/19/climate/climate-crash-course-1.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a9784182-e108-11ea-b922-ef603cfaa1fb)</span>
   - <span class="css-ousu42">[Is Your Hometown
-    Hotter?](https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=065876b4-e0fd-11ea-8a79-dde9be5d7048)</span>
+    Hotter?](https://www.nytimes.com/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a9784183-e108-11ea-b922-ef603cfaa1fb)</span>
 
 </div>
 

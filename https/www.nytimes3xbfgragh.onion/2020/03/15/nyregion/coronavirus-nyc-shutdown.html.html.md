@@ -136,18 +136,18 @@ Coronavirus</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Schools</span><span class="css-1rxm0ex"> Reopening</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c648980-e0fd-11ea-bccd-6b99202f6344)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Schools</span><span class="css-1rxm0ex"> Reopening</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae0-e108-11ea-8d35-a17ec3519a05)
 
   - <span class="css-ousu42">[State of Play for
-    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c648981-e0fd-11ea-bccd-6b99202f6344)</span>
+    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae1-e108-11ea-8d35-a17ec3519a05)</span>
   - <span class="css-ousu42">[College
-    Costs](https://www.nytimes3xbfgragh.onion/2020/08/15/us/covid-college-tuition.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c648982-e0fd-11ea-bccd-6b99202f6344)</span>
+    Costs](https://www.nytimes3xbfgragh.onion/2020/08/15/us/covid-college-tuition.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae2-e108-11ea-8d35-a17ec3519a05)</span>
   - <span class="css-ousu42">[Priced Out of Learning
-    Pods](https://www.nytimes3xbfgragh.onion/2020/08/14/us/covid-schools-learning-pods.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c648983-e0fd-11ea-bccd-6b99202f6344)</span>
+    Pods](https://www.nytimes3xbfgragh.onion/2020/08/14/us/covid-schools-learning-pods.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae3-e108-11ea-8d35-a17ec3519a05)</span>
   - <span class="css-ousu42">[N.Y.C. Schools Not
-    Ready](https://www.nytimes3xbfgragh.onion/2020/08/14/nyregion/school-reopening-nyc.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c648984-e0fd-11ea-bccd-6b99202f6344)</span>
+    Ready](https://www.nytimes3xbfgragh.onion/2020/08/14/nyregion/school-reopening-nyc.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae4-e108-11ea-8d35-a17ec3519a05)</span>
   - <span class="css-ousu42">[Prepare for Distance
-    Learning](https://www.nytimes3xbfgragh.onion/2020/08/05/parenting/parents-distance-learning.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=1c64b090-e0fd-11ea-bccd-6b99202f6344)</span>
+    Learning](https://www.nytimes3xbfgragh.onion/2020/08/05/parenting/parents-distance-learning.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=bed37ae5-e108-11ea-8d35-a17ec3519a05)</span>
 
 </div>
 

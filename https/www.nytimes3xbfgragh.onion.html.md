@@ -206,49 +206,6 @@ Estate](https://www.nytimes3xbfgragh.onion/section/realestate)
 
 <div class="css-1d537rb e18972d70" media="[object Object]">
 
-[](/2020/08/17/briefing/democrats-postal-service-rage-moms.html)
-
-<div class="css-1g8bx4t">
-
-![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/reader-center/081720evening-briefing-promo/081720evening-briefing-promo-square640.jpg?quality=75&auto=webp&disable=upscale&width=350)
-
-</div>
-
-</div>
-
-[](/2020/08/17/briefing/democrats-postal-service-rage-moms.html)
-
-<div class="css-8oysku e18972d71" type="1">
-
-<div class="css-1iexn6j e1voiwgp1">
-
-## Your Monday Evening Briefing
-
-</div>
-
-</div>
-
-<div class="css-8oysku e18972d71">
-
-Here’s what you need to know at the end of the
-day.
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ydsmmq">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-geek62">
-
-<div class="css-1d537rb e18972d70" media="[object Object]">
-
 [](/2020/08/17/podcasts/the-daily/trump-coronavirus-vaccine-covid.html)
 
 <div class="css-1g8bx4t">
@@ -327,6 +284,49 @@ parents?
 
 </div>
 
+<div class="css-ydsmmq">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-geek62">
+
+<div class="css-1d537rb e18972d70" media="[object Object]">
+
+[](https://www.nytimes3xbfgragh.onion/newsletters/coronavirus-schools-briefing)
+
+<div class="css-1g8bx4t">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/multimedia/coronavirusschoolsbriefing-nl-icon/coronavirusschoolsbriefing-nl-icon-square640-v2.png?quality=75&auto=webp&disable=upscale&width=350)
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/newsletters/coronavirus-schools-briefing)
+
+<div class="css-8oysku e18972d71" type="1">
+
+<div class="css-1iexn6j e1voiwgp1">
+
+## Coronavirus Schools Briefing
+
+</div>
+
+</div>
+
+<div class="css-8oysku e18972d71">
+
+How is the pandemic reshaping education? Get the latest
+news.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 </div>
 
 <div class="css-1y8l3jc">
@@ -355,50 +355,45 @@ parents?
 
 <div>
 
-<div class="section css-d2znx6" data-block-tracking-id="Spotlight">
+<div class="section css-o3tihn eq74mwp0" data-block-tracking-id="Spotlight" data-testid="block-Spotlight">
 
-<div class="css-1z104mk">
+<div class="css-1nivyeh">
 
-<div class="section css-1akkl0w" data-template-name="Cols3StoryMediaStory">
+<div class="css-1aew2eb eqveam62">
 
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
+<div class="section">
 
-# Live Analysis: Democrats Open a Highly Unusual Convention
+<div class="css-1qiat4j eqveam63">
 
-<div class="css-1dybjdb e1whdksc2">
+<div class="css-778gjy eqveam60">
 
-<div class="css-1tfqggw">
+<div class="css-qvz0vj eqveam61">
 
-<div class="css-k008qs">
+<div class="css-1aew2eb eqveam62">
 
-<div class="css-1o0io7w e1whdksc0" span="5">
+<div class="css-1ee8y2t assetWrapper">
 
-<div class="css-1rvhhh9 e1whdksc1">
+<div class="css-6p6lnl">
 
-<div class="css-1dybjdb e1whdksc2">
+[](/2020/08/17/us/politics/democratic-national-convention-recap.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## <span>No Crowds, No Cheers: Democrats Begin a Most Unusual Convention</span>
+
+</div>
+
+  - Driven online, Democrats presented a program that spanned the
+    ideological gamut from socialists to Republicans, all joining to
+    make the case for Joe Biden.
+  - The event was a vivid illustration of how widespread opposition to
+    President Trump and the still-raging pandemic have upended the
+    country’s
+politics.
 
 <div>
 
-<div class="story-wrapper">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-nlmav5 e1whdksc0" span="1">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
-
-### John Kasich and Other Republicans Join Event to Make Case for Biden
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
-
-  - Michelle Obama, the former first lady, will have a leading role on
-    the first night. Senator Bernie Sanders of Vermont will also speak.
-  - Watch and follow live analysis from our reporters
-here.
+<div class="css-na047m">
 
 </div>
 
@@ -414,58 +409,21 @@ here.
 
 </div>
 
-</div>
+<div class="css-1jk947i eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1g8bx4t">
+
+<div style="max-width:100%;margin:0 auto">
+
+<div class="css-191iepd" data-id="100000007293966" data-slug="17hp-dnc-fader" style="max-width:1050px">
 
 </div>
 
-<div class="css-1weuxfd e1whdksc0" span="10">
-
-<div class="css-p7eiul e1whdksc1">
-
-<div class="css-1dybjdb e1whdksc2">
-
-<div>
-
-<div class="story-wrapper">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-nlmav5 e1whdksc0" span="1">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-<div>
-
-<div class="section css-hdqqnp">
-
-<div>
-
-<div id="g-graphic" class="liveblog" data-preview-slug="2019-12-19-styln-blog-promo" data-env="production">
-
-<div class="promo-inner no-posts">
-
-[](https://www.nytimes3xbfgragh.onion/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
-
-<div class="g-right">
-
-<div class="g-vhs-player-container live video">
-
-<div class="g-live-bug">
-
-Live
-
 </div>
 
-<div id="g-vhs-player-target" data-id="100000007293513">
-
-</div>
-
-<div class="g-player-cover g-player-video-screen">
-
-<span class="g-player-cover-button">Watch with Live
-Analysis</span>
+<div class="css-e4gm3y">
 
 </div>
 
@@ -475,73 +433,55 @@ Analysis</span>
 
 </div>
 
-</div>
+<div class="css-778gjy eqveam60">
 
-</div>
+<div class="css-1qj0wac eqveam61">
 
-<div class="css-1o0io7w e1whdksc0" span="5">
+<div class="css-1aew2eb eqveam62">
 
-<div class="css-1rvhhh9 e1whdksc1">
+<div class="css-1ee8y2t assetWrapper">
 
-<div class="css-1dybjdb e1whdksc2">
-
-<div>
-
-<div class="story-wrapper">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-nlmav5 e1whdksc0" span="1">
-
-<div class="css-1rvhhh9 e1whdksc1">
+<div class="css-6p6lnl">
 
 [](https://www.nytimes3xbfgragh.onion/live/2020/08/17/us/dnc-convention)
 
-### Highlights: Andrew Cuomo accused President Trump of politicizing the virus. George Floyd’s brothers led a moment of silence.
+<div class="css-debyuq e1voiwgp1">
 
-<div class="css-1yyp2fg">
-
-Live
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+## Catch up on the highlights: Bernie Sanders offered a call for unity. Michelle Obama took direct aim at President Trump.
 
 </div>
 
 <div>
 
-<div class="story-wrapper">
+<div class="css-na047m">
 
-<div class="css-1tfqggw">
+</div>
 
-<div class="css-k008qs">
+</div>
 
-<div class="css-nlmav5 e1whdksc0" span="1">
+</div>
 
-<div class="css-1rvhhh9 e1whdksc1">
+</div>
 
-[](https://www.nytimes3xbfgragh.onion/2020/08/17/us/politics/convention-democratic-night-1.html)
+<div class="css-1ee8y2t assetWrapper">
 
-### Analysis: Democrats Find Trump to Be a Uniter … of Their Party
+<div class="css-6p6lnl">
 
-[](https://www.nytimes3xbfgragh.onion/2020/08/17/us/politics/convention-democratic-night-1.html)
+[](/2020/08/17/us/politics/convention-democratic-night-1.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Analysis: Democrats Find Trump to Be a Uniter … of Their Party
+
+</div>
 
 Progressives still have serious reservations about Joe Biden. But for
 now, the ideological fights are on
 hold.
 
-</div>
+<div>
+
+<div class="css-na047m">
 
 </div>
 
@@ -561,90 +501,113 @@ hold.
 
 </div>
 
-<div class="section css-1akkl0w" data-template-name="Cols2StoryStory">
-
-<div class="css-1dybjdb e1whdksc2">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-16odu4q e1whdksc0" span="8">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-<div class="css-1dybjdb e1whdksc2">
+<div class="section">
 
 <div>
 
-<div class="story-wrapper">
+<div class="css-1qiat4j eqveam63">
 
-<div class="css-1tfqggw">
+<div class="css-1yoguk1 eqveam60">
 
-<div class="css-k008qs">
+<div class="css-1qj0wac eqveam61">
 
-<div class="css-nlmav5 e1whdksc0" span="1">
+<div class="css-1aew2eb eqveam62">
 
-<div class="css-1rvhhh9 e1whdksc1">
+<div class="css-1ee8y2t assetWrapper">
 
-[](https://www.nytimes3xbfgragh.onion/article/republicans-voting-for-biden-not-trump.html)
+<div class="css-6p6lnl">
 
-### All the Republicans Who Have Decided Not to Support Trump
+[](/2020/08/17/us/politics/bernie-sanders-democratic-convention.html)
 
-[](https://www.nytimes3xbfgragh.onion/article/republicans-voting-for-biden-not-trump.html)
+<div class="css-debyuq e1voiwgp1">
 
-Numerous top G.O.P. officials have said publicly or privately that they
-will not be backing the president’s re-election. Here’s a look at where
-they
-stand.
+## <span>Bernie Sanders Goes on Attack Against Trump and Urges Support for Biden</span>
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-16odu4q e1whdksc0" span="8">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-<div class="css-1dybjdb e1whdksc2">
+The runner-up for the party’s nomination assailed President Trump,
+warning, “The future of our democracy is at
+stake.”
 
 <div>
 
-<div class="story-wrapper">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-nlmav5 e1whdksc0" span="1">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-[](https://www.nytimes3xbfgragh.onion/2020/08/17/us/politics/trump-campaign-biden-harris.html)
-
-### Trump Questions Biden’s Mental Abilities and Calls Harris Biden’s ‘Boss’
-
-[](https://www.nytimes3xbfgragh.onion/2020/08/17/us/politics/trump-campaign-biden-harris.html)
-
-The president made three campaign rally-like appearances in an attempt
-to counterprogram the first night of the Democratic National
-Convention.
+<div class="css-na047m">
 
 </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-11xi8gi eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/article/republicans-voting-for-biden-not-trump.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## A number of prominent Republicans have said they will not be backing the president’s re-election. Here’s where they stand.
+
+</div>
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/us/politics/john-kasich-biden.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## John Kasich, a ‘Deeply Worried’ Republican, Steps Up for Biden
+
+</div>
+
+Mr. Kasich, a lifelong Republican and former rival of President Trump’s
+spoke at the Democratic convention — and said he would vote for Mr.
+Biden.
+
+<div>
+
+<div class="css-na047m">
 
 </div>
 
@@ -1938,6 +1901,8 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
 
 </div>
 
+</div>
+
 ## Site Index
 
 <div>
@@ -1968,38 +1933,6 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
     Map](https://spiderbites.nytimes3xbfgragh.onion)
   - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
   - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 

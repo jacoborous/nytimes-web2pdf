@@ -135,18 +135,18 @@ Season</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee0-e0fd-11ea-bcef-69dac116c31c)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c290-e108-11ea-b959-2b70faf7b631)
 
   - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee1-e0fd-11ea-bcef-69dac116c31c)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c291-e108-11ea-b959-2b70faf7b631)</span>
   - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee2-e0fd-11ea-bcef-69dac116c31c)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c292-e108-11ea-b959-2b70faf7b631)</span>
   - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee3-e0fd-11ea-bcef-69dac116c31c)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c293-e108-11ea-b959-2b70faf7b631)</span>
   - <span class="css-ousu42">[State of Play for
-    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee4-e0fd-11ea-bcef-69dac116c31c)</span>
+    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c294-e108-11ea-b959-2b70faf7b631)</span>
   - <span class="css-ousu42">[Markets &
-    Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01a54ee5-e0fd-11ea-bcef-69dac116c31c)</span>
+    Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a487c295-e108-11ea-b959-2b70faf7b631)</span>
 
 </div>
 
@@ -452,7 +452,7 @@ materialize.
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-18T01:58:10.452Z
+Updated 2020-08-18T03:48:43.730Z
 
 </div>
 
@@ -460,11 +460,12 @@ Updated 2020-08-18T01:58:10.452Z
 
   - [U.S. college campuses grapple with coronavirus fears, outbreaks and
     protests.](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6fdbc8ef)
-  - [For primary and secondary students and staff, it’s been a difficult
-    back-to-school
-    season.](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-12d68713)
-  - [Data reporting problems are causing confusion in Iowa and
-    elsewhere.](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6aa8318c)
+  - [For primary and secondary school students and staff, it’s been a
+    difficult back-to-school
+    season.](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7e47207)
+  - [At the Democratic National Convention, Cuomo and others assail
+    Trump’s handling of the
+    virus.](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-44c3fee2)
 
 <div class="briefing-block-footer">
 

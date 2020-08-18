@@ -361,6 +361,10 @@ news.
 
 <div class="section css-1akkl0w" data-template-name="Cols3StoryMediaStory">
 
+[](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
+
+# Live Analysis: Democrats Set for Their ‘Virtual’ Convention
+
 <div class="css-1dybjdb e1whdksc2">
 
 <div class="css-1tfqggw">
@@ -385,19 +389,17 @@ news.
 
 <div class="css-1rvhhh9 e1whdksc1">
 
-[](https://www.nytimes.com/2020/08/17/us/politics/democratic-national-convention-recap.html)
+[](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
 
-### No Crowds, No Cheers: Democrats Begin a Most Unusual Convention
+### Both Democrats and Republicans Will Make the Case for Joe Biden
 
-[](https://www.nytimes.com/2020/08/17/us/politics/democratic-national-convention-recap.html)
+[](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
 
-  - Driven online, Democrats presented a program that spanned the
-    ideological gamut from socialists to Republicans, all joining to
-    make the case for Joe Biden.
-  - The event was a vivid illustration of how widespread opposition to
-    President Trump and the still-raging pandemic have upended the
-    country’s
-politics.
+  - Michelle Obama, the former first lady, will have a leading role on
+    the first night. Senator Bernie Sanders of Vermont will also speak.
+  - Watch live from 9 p.m. to 11 p.m. Eastern time, and follow live
+    analysis from our reporters
+here.
 
 </div>
 
@@ -437,18 +439,34 @@ politics.
 
 <div>
 
-![](https://static01.nyt.com/images/2020/08/17/homepage/17hp-dnc-fader-slide-ZWGF/17hp-dnc-fader-slide-ZWGF-threeByTwoLargeAt2X.jpg?format=pjpg)
+<div class="section css-hdqqnp">
 
-<span class="css-1wwt6lr">Democratic National Convention, via
-AP</span>
+<div>
+
+<div id="g-graphic" class="liveblog" data-preview-slug="2019-12-19-styln-blog-promo" data-env="production">
+
+<div class="promo-inner no-posts">
+
+[](https://www.nytimes.com/interactive/2020/08/17/us/politics/democratic-national-convention-live-stream-analysis.html)
+
+<div class="g-right">
+
+<div class="g-vhs-player-container live video">
+
+<div class="g-live-bug">
+
+Live
 
 </div>
 
-</div>
+<div id="g-vhs-player-target" data-id="100000007293513">
 
 </div>
 
-</div>
+<div class="g-player-cover g-player-video-screen">
+
+<span class="g-player-cover-button">Watch with Live
+Analysis</span>
 
 </div>
 
@@ -482,7 +500,7 @@ AP</span>
 
 [](https://www.nytimes.com/live/2020/08/17/us/dnc-convention)
 
-### Catch up on the highlights: Bernie Sanders offered a call for unity. Michelle Obama took direct aim at President Trump.
+### Catch up on the highlights: An ex-official under President Trump backed Joe Biden, who has retained a lead in the polls.
 
 <div class="css-1yyp2fg">
 
@@ -544,13 +562,7 @@ hold.
 
 </div>
 
-</div>
-
-</div>
-
-</div>
-
-<div class="section css-1akkl0w" data-template-name="Cols3StoryStoryStory">
+<div class="section css-1akkl0w" data-template-name="Cols2StoryStory">
 
 <div class="css-1dybjdb e1whdksc2">
 
@@ -558,53 +570,7 @@ hold.
 
 <div class="css-k008qs">
 
-<div class="css-tfaay7 e1whdksc0" span="7">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-<div class="css-1dybjdb e1whdksc2">
-
-<div>
-
-<div class="story-wrapper">
-
-<div class="css-1tfqggw">
-
-<div class="css-k008qs">
-
-<div class="css-nlmav5 e1whdksc0" span="1">
-
-<div class="css-1rvhhh9 e1whdksc1">
-
-[](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-democratic-convention.html)
-
-### Bernie Sanders Goes on Attack Against Trump and Urges Support for Biden
-
-[](https://www.nytimes.com/2020/08/17/us/politics/bernie-sanders-democratic-convention.html)
-
-The runner-up for the party’s nomination assailed President Trump,
-warning, “The future of our democracy is at
-stake.”
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-97jus7 e1whdksc0" span="6">
+<div class="css-16odu4q e1whdksc0" span="8">
 
 <div class="css-1rvhhh9 e1whdksc1">
 
@@ -651,7 +617,7 @@ stand.
 
 </div>
 
-<div class="css-tfaay7 e1whdksc0" span="7">
+<div class="css-16odu4q e1whdksc0" span="8">
 
 <div class="css-1rvhhh9 e1whdksc1">
 
@@ -669,17 +635,15 @@ stand.
 
 <div class="css-1rvhhh9 e1whdksc1">
 
-[](https://www.nytimes.com/2020/08/17/us/politics/john-kasich-biden.html)
+[](https://www.nytimes.com/2020/08/17/us/politics/trump-campaign-biden-harris.html)
 
-### John Kasich, a ‘Deeply Worried’ Republican, Steps Up for Biden
+### Trump Questions Biden’s Mental Abilities and Calls Harris Biden’s ‘Boss’
 
-[](https://www.nytimes.com/2020/08/17/us/politics/john-kasich-biden.html)
+[](https://www.nytimes.com/2020/08/17/us/politics/trump-campaign-biden-harris.html)
 
-Mr. Kasich, a lifelong Republican and former rival of President Trump’s
-spoke at the Democratic convention — and says he will vote for Mr.
-Biden.
-
-</div>
+The president made three campaign rally-like appearances in an attempt
+to counterprogram the first night of the Democratic National
+Convention.
 
 </div>
 
@@ -725,9 +689,11 @@ Biden.
 
 <div class="css-1goe63e e1aa0s8g0">
 
+<div>
+
 <div class="css-1qiat4j eqveam63">
 
-<div class="css-1yoguk1 eqveam60">
+<div class="css-bs48m0 eqveam60">
 
 <div class="css-1qj0wac eqveam61">
 
@@ -764,6 +730,108 @@ latest.
 
 </div>
 
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/us/k-12-schools-reopening.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Catch Up on the Latest With Schools
+
+</div>
+
+Sign up for our new newsletter on the seismic changes to education that
+are taking place during the pandemic.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-778gjy eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/world/coronavirus-television-schools.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Struggling Under Lockdown, Schools Worldwide Relearn the Value of TV
+
+</div>
+
+Poor regions where internet access is scarce are turning to an older
+technology that could also help wealthy countries that have focused on
+online
+classes.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1nuzdmm e1aa0s8g0">
+
+<div class="css-1qiat4j eqveam63">
+
+<div class="css-1yoguk1 eqveam60">
+
+<div class="css-1qj0wac eqveam61">
+
+<div class="css-1aew2eb eqveam62">
+
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-6p6lnl">
@@ -772,12 +840,39 @@ latest.
 
 <div class="css-debyuq e1voiwgp1">
 
-## What if ‘Herd Immunity’ Is Closer Than Scientists Thought?
+## <span>What if ‘Herd Immunity’ Is Closer Than Scientists Thought?</span>
 
 </div>
 
 Researchers are trying to figure out how many people in a community must
 be immune before the coronavirus fades.
+
+<div>
+
+<div class="css-na047m">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ee8y2t assetWrapper">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/technology/coronavirus-disinformation-doctors.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+## Coronavirus Doctors Battle Another Scourge: Misinformation
+
+</div>
+
+Physicians say they regularly treat people more inclined to believe what
+they read on Facebook than what a medical professional tells them.
 
 <div>
 
@@ -1086,93 +1181,6 @@ slipping.
 
 <div class="css-1nuzdmm e1aa0s8g0">
 
-<div>
-
-<div class="css-1qiat4j eqveam63">
-
-<div class="css-1fgqvm0 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/17/us/politics/trump-court-transgender-rights.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## <span>Judge Blocks Trump Officials’ Attempt to End Transgender Health Protections</span>
-
-</div>
-
-The decision arrived a day before a Trump administration rule narrowing
-the legal definition of sex discrimination was set to take effect.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-ws86q6 eqveam60">
-
-<div class="css-1qj0wac eqveam61">
-
-<div class="css-1aew2eb eqveam62">
-
-<div class="css-1ee8y2t assetWrapper">
-
-<div class="css-6p6lnl">
-
-[](/2020/08/17/us/politics/china-spying-alexander-yuk-ching-ma.html)
-
-<div class="css-debyuq e1voiwgp1">
-
-## Ex-C.I.A. Officer Is Accused of Spying for China
-
-</div>
-
-The arrest of a 67-year-old Hawaii resident is the latest case involving
-former intelligence officers charged with providing documents to
-Beijing.
-
-<div>
-
-<div class="css-na047m">
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-1nuzdmm e1aa0s8g0">
-
 <div class="css-1ee8y2t assetWrapper">
 
 <div class="css-1g8bx4t">
@@ -1426,44 +1434,6 @@ chance.
 
 <div class="css-6p6lnl">
 
-[](/2020/08/17/opinion/trump-contested-election-protests.html)
-
-<div class="css-dcl9ft">
-
-<div class="css-zjzyr8">
-
-<div data-testid="lazyimage-container" style="height:40px">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-debyuq e1voiwgp1">
-
-<div class="css-1xdt15l">
-
-<div class="css-tnu8m6 e18df3gd0">
-
-Michelle Goldberg
-
-</div>
-
-</div>
-
-## Trump Might Cheat. Activists Are Getting Ready.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-tub26b">
-
-<div class="css-6p6lnl">
-
 [](/2020/08/17/opinion/trump-us-mail.html)
 
 <div class="css-dcl9ft">
@@ -1502,7 +1472,7 @@ Paul Krugman
 
 <div class="css-6p6lnl">
 
-[](/2020/08/17/opinion/trump-post-office-election.html)
+[](/2020/08/17/opinion/trump-contested-election-protests.html)
 
 <div class="css-dcl9ft">
 
@@ -1522,13 +1492,13 @@ Paul Krugman
 
 <div class="css-tnu8m6 e18df3gd0">
 
-Charlie Warzel
+Michelle Goldberg
 
 </div>
 
 </div>
 
-## The Post Office Mess Is Meant to Exhaust You. Don’t Let It.
+## Trump Might Cheat. Activists Are Getting Ready.
 
 </div>
 
@@ -1605,6 +1575,32 @@ Jennifer Senior
 </div>
 
 ## Meet Young Joe Biden, the ‘Wild Stallion’
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-tub26b">
+
+<div class="css-6p6lnl">
+
+[](/2020/08/17/opinion/covid-19-heart-disease.html)
+
+<div class="css-debyuq e1voiwgp1">
+
+<div class="css-1xdt15l">
+
+<div class="css-tnu8m6 e18df3gd0">
+
+Haider Warraich
+
+</div>
+
+</div>
+
+## Covid-19 Is Creating a Wave of Heart Disease
 
 </div>
 
@@ -1975,8 +1971,6 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
 
 </div>
 
-</div>
-
 ## Site Index
 
 <div>
@@ -2007,6 +2001,38 @@ think](http://nyt.qualtrics.com/jfe/form/SV_eFJmKj9v0krSE0l)
     Map](https://spiderbites.nytimes.com)
   - [Help](https://help.nytimes.com/hc/en-us)
   - [Subscriptions](https://www.nytimes.com/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 

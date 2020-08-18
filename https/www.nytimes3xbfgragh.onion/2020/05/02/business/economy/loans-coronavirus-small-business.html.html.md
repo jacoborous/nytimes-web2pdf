@@ -136,18 +136,18 @@ It</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaa8820-e0fc-11ea-978b-55c0413dede3)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771800-e107-11ea-8db3-f56620f69f1a)
 
   - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaa8821-e0fc-11ea-978b-55c0413dede3)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771801-e107-11ea-8db3-f56620f69f1a)</span>
   - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaa8822-e0fc-11ea-978b-55c0413dede3)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771802-e107-11ea-8db3-f56620f69f1a)</span>
   - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaa8823-e0fc-11ea-978b-55c0413dede3)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771803-e107-11ea-8db3-f56620f69f1a)</span>
   - <span class="css-ousu42">[State of Play for
-    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaaaf30-e0fc-11ea-978b-55c0413dede3)</span>
+    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771804-e107-11ea-8db3-f56620f69f1a)</span>
   - <span class="css-ousu42">[Markets &
-    Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=baaaaf31-e0fc-11ea-978b-55c0413dede3)</span>
+    Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=3c771805-e107-11ea-8db3-f56620f69f1a)</span>
 
 </div>
 
@@ -404,7 +404,7 @@ pandemic.
 
 <div class="briefing-block-update-time">
 
-[7h
+[8h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
 
 </div>
@@ -419,7 +419,7 @@ round.](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market
 
 <div class="briefing-block-update-time">
 
-[10h
+[11h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
 
 </div>
@@ -434,7 +434,7 @@ August.](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-marke
 
 <div class="briefing-block-update-time">
 
-[15h
+[16h
 ago](https://www.nytimes3xbfgragh.onion/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
 
 </div>

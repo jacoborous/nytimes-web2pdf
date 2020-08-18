@@ -136,18 +136,18 @@ It</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf00-e0a4-11ea-9b77-b5fd14d00076)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68ae590-e108-11ea-9503-53aac87edadd)
 
   - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf01-e0a4-11ea-9b77-b5fd14d00076)</span>
+    Updates](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68b0ca0-e108-11ea-9503-53aac87edadd)</span>
   - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf02-e0a4-11ea-9b77-b5fd14d00076)</span>
+    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68b0ca1-e108-11ea-9503-53aac87edadd)</span>
   - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf03-e0a4-11ea-9b77-b5fd14d00076)</span>
-  - <span class="css-ousu42">[Signs of Lasting
-    Immunity](https://www.nytimes.com/2020/08/16/health/coronavirus-immunity-antibodies.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf04-e0a4-11ea-9b77-b5fd14d00076)</span>
+    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68b0ca2-e108-11ea-9503-53aac87edadd)</span>
+  - <span class="css-ousu42">[State of Play for
+    K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68b0ca3-e108-11ea-9503-53aac87edadd)</span>
   - <span class="css-ousu42">[Markets &
-    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=9d2fdf05-e0a4-11ea-9b77-b5fd14d00076)</span>
+    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a68b0ca4-e108-11ea-9503-53aac87edadd)</span>
 
 </div>
 
@@ -402,23 +402,39 @@ pandemic.
 
 <div class="briefing-block-lb-items">
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[3h
-ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#critics-pile-on-an-sec-proposal-to-limit-investor-disclosure)
+[8h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
 
 </div>
 
 <div>
 
-[Critics pile on an S.E.C. proposal to limit investor
-disclosure](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#critics-pile-on-an-sec-proposal-to-limit-investor-disclosure)
+[Robinhood, a stock trading app, is valued at $11.2 billion in its
+latest funding
+round.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
 
 </div>
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[5h
+[11h
+ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
+
+</div>
+
+<div>
+
+[New unemployment benefits authorized by President Trump won’t come
+until late
+August.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#new-unemployment-benefits-authorized-by-president-trump-wont-come-until-late-august)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[17h
 ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
 
 </div>
@@ -427,20 +443,6 @@ ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronav
 
 [Here’s what you need to know for the week
 ahead.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#heres-what-you-need-to-know-for-the-week-ahead)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[5h
-ago](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-worlds-biggest-bike-maker-steers-around-trade-obstacles)
-
-</div>
-
-<div>
-
-[The world’s biggest bike maker steers around trade
-obstacles.](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-worlds-biggest-bike-maker-steers-around-trade-obstacles)
 
 </div>
 
@@ -458,7 +460,7 @@ updates](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-cor
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes.com/2020/08/17/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

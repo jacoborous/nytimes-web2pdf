@@ -137,18 +137,18 @@ Website</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba58f50-e0e8-11ea-9c1d-631a2322174c)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes.com/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c2be0-e0fd-11ea-8caf-4f00d32c9813)
 
   - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba5b660-e0e8-11ea-9c1d-631a2322174c)</span>
+    Updates](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c2be1-e0fd-11ea-8caf-4f00d32c9813)</span>
   - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba5b661-e0e8-11ea-9c1d-631a2322174c)</span>
+    Cases](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c2be2-e0fd-11ea-8caf-4f00d32c9813)</span>
   - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba5b662-e0e8-11ea-9c1d-631a2322174c)</span>
+    Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c52f0-e0fd-11ea-8caf-4f00d32c9813)</span>
   - <span class="css-ousu42">[State of Play for
-    K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba5b663-e0e8-11ea-9c1d-631a2322174c)</span>
+    K-12](https://www.nytimes.com/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c52f1-e0fd-11ea-8caf-4f00d32c9813)</span>
   - <span class="css-ousu42">[Markets &
-    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=aba5b664-e0e8-11ea-9c1d-631a2322174c)</span>
+    Economy](https://www.nytimes.com/live/2020/08/17/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=180c52f2-e0fd-11ea-8caf-4f00d32c9813)</span>
 
 </div>
 
@@ -408,20 +408,19 @@ months.”
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-17T23:52:32.519Z
+Updated 2020-08-18T01:58:10.452Z
 
 </div>
 
 </div>
 
-  - [Education officials in the U.S. grapple with coronavirus fears,
-    outbreaks and
-    protests.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6cb7525)
-  - [Some doctors say people they treat are more inclined to believe
-    social media posts than medical
-    professionals.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-23d8429b)
-  - [The U.S. postmaster general will testify before a House panel next
-    week.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-21a159a0)
+  - [U.S. college campuses grapple with coronavirus fears, outbreaks and
+    protests.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6fdbc8ef)
+  - [For primary and secondary students and staff, it’s been a difficult
+    back-to-school
+    season.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-12d68713)
+  - [Data reporting problems are causing confusion in Iowa and
+    elsewhere.](https://www.nytimes.com/2020/08/17/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6aa8318c)
 
 <div class="briefing-block-footer">
 
