@@ -169,6 +169,83 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/14/health/covid-19-antibody-treatments.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/science/14VIRUS-TRIALS1/14VIRUS-TRIALS1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Clinical Trials of Coronavirus Drugs Are Taking Longer Than Expected
+    
+    Antibody trials sponsored by Regeneron and Eli Lilly are off to a
+    slow start because of a dearth of tests, overwhelmed hospitals and
+    reluctant patients.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie
+    Thomas</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/05virus-plasma-ES-00/31VIRUS-PLASMA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## El tratamiento de plasma: Trump lo elogia y los investigadores luchan por finalizar estudios que prueben su eficacia
+    
+    Miles de pacientes de la COVID-19 han sido tratados con plasma
+    sanguíneo de personas que se han recuperado del virus. Sin embargo,
+    el tratamiento aún no ha sido probado en ensayos clínicos rigurosos.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie Thomas <span>and</span> Noah
+    Weiland</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/08/04/health/trump-plasma.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/health/trump-plasma.html)
     
     <div class="css-79elbk">
@@ -190,6 +267,13 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html "Read in Spanish")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -198,7 +282,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +316,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -268,7 +352,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -303,7 +387,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -339,7 +423,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -374,7 +458,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -409,7 +493,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -428,76 +512,6 @@ story](#after-mid1)
     The Maryland-based company, which has never brought a product to
     market before, just made the biggest deal to date with the Trump
     administration’s Operation Warp Speed.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Thomas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/24/health/drug-kickbacks-regeneron.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/24/science/24REGENERON2/24REGENERON2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Regeneron Funneled Kickbacks Through a Patient Charity, Federal Lawsuit Claims
-    
-    The case is the latest inquiry into pharmaceutical companies’
-    donations to patient assistance charities, which have been blamed
-    for inflating the cost of drugs.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Katie
-    Thomas</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/20/health/hydroxychloroquine-coronavirus-trial.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/science/20virus-drug/merlin_173191026_480392c1-e26f-4edc-918d-ffd2bb29e81b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Federal Agency Halts Studies of Hydroxychloroquine, Drug Trump Promoted
-    
-    The National Institutes of Health decided to stop one trial because
-    the drug was unlikely to benefit patients, and another because not
-    enough people enrolled.
     
     <div class="css-1nqbnmb ea5icrr0">
     

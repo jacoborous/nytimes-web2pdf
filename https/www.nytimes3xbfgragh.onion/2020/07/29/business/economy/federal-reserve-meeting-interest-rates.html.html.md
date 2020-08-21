@@ -131,35 +131,21 @@ Sputters</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e47b0-e3a1-11ea-912a-61b8543016b1)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e6ec0-e3a1-11ea-912a-61b8543016b1)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e6ec1-e3a1-11ea-912a-61b8543016b1)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e6ec2-e3a1-11ea-912a-61b8543016b1)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e6ec3-e3a1-11ea-912a-61b8543016b1)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=623e6ec4-e3a1-11ea-912a-61b8543016b1)</span>
 
 </div>
 
@@ -367,7 +353,7 @@ events.”
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -375,43 +361,43 @@ events.”
 
 <div class="briefing-block-update-time">
 
-[11h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
+[21h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#american-airlines-to-stop-flights-to-15-cities-after-government-aid-ends)
 
 </div>
 
 <div>
 
-[The Chicago Fed president says it’s up to Congress to save the
-economy.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-chicago-fed-president-says-its-up-to-congress-to-save-the-economy)
+[American Airlines to stop flights to 15 cities after government aid
+ends.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#american-airlines-to-stop-flights-to-15-cities-after-government-aid-ends)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[11h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
+[22h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#without-school-plays-and-assemblies-a-technicians-livelihood-withers)
 
 </div>
 
 <div>
 
-[F.A.A. says Boeing has ‘effectively mitigated’ defects in the 737
-Max.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#faa-says-boeing-has-effectively-mitigated-defects-in-the-737-max)
+[Without school plays and assemblies, a technician’s livelihood
+withers.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#without-school-plays-and-assemblies-a-technicians-livelihood-withers)
 
 </div>
 
 <div class="briefing-block-update-time">
 
-[14h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
+[22h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#finding-a-job-after-a-long-search-but-settling-for-less-pay)
 
 </div>
 
 <div>
 
-[Small businesses got emergency loans, but not what they
-expected.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#small-businesses-got-emergency-loans-but-not-what-they-expected)
+[Finding a job after a long search, but settling for less
+pay.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#finding-a-job-after-a-long-search-but-settling-for-less-pay)
 
 </div>
 
@@ -422,14 +408,14 @@ expected.](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-mar
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/live/2020/08/03/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes3xbfgragh.onion/2020/08/03/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

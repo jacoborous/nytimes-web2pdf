@@ -460,6 +460,71 @@ Kessel<span class="css-1iknmmf">•</span>November 12,
     
     ### The Worldwide War on Truth
 
+  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000006831441/gods-from-space.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/01/opinion/opdoc-gods-from-space-img/opdoc-gods-from-space-img-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">5:22</span>
+    
+    ### Gods From Space
+
+  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007249913/dying-in-your-mothers-arms.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/opinion/opdoc-palliative-img/opdoc-palliative-img-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">22:21</span>
+    
+    ### Dying in Your Mother’s Arms
+
+  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007228098/coronavirus-doctors-nurses-healthcare.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/autossell/regrets-10/regrets-10-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">5:06</span>
+    
+    ### ‘The Wounds Are Still Fresh’
+
+  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007278127/coronavirus-vaccine-update.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/autossell/CovidUpdate_E3V2-thumb/CovidUpdate_E3V2-thumb-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">2:45</span>
+    
+    ### Covid Update: Don’t Rush the Vaccine
+
+  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007227782/2020-election-prediction-allan-lichtman.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/autossell/op-Lichtman_thumb1-print/op-Lichtman_thumb1-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">7:14</span>
+    
+    ### He Predicted Trump’s Win in 2016. Now He’s Ready to Call 2020.
+
   - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007247238/tears-teacher.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
     
     <div class="css-1aetz0h">
@@ -667,71 +732,6 @@ Kessel<span class="css-1iknmmf">•</span>November 12,
     <span class="css-1xigvfz">4:35</span>
     
     ### How Was My Son Ahmaud Arbery’s Murder Not a Hate Crime?
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007179767/coronavirus-hospital-philadelphia.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/08/autossell/philly-thumb-2/philly-thumb-2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">6:48</span>
-    
-    ### One Hospital. One Virus. The Fear Won’t End for These Doctors.
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007161418/coronavirus-georgia-restaurant-reopening.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/05/28/autossell/OP-GEORGIA_Thumb7/OP-GEORGIA_Thumb7-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">5:01</span>
-    
-    ### I Reopened My Restaurant, and I Don’t Regret It
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007171122/protests-constitutional-rights.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/03/autossell/bill-of-rights-2/bill-of-rights-2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">2:13</span>
-    
-    ### The Bill of Rights, Revised
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007161402/coronavirus-amazon-hazard-pay.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/autossell/OP-AMZAON-THUMB2/OP-AMZAON-THUMB2-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">4:06</span>
-    
-    ### We Work in an Amazon Warehouse. We Didn’t Sign Up to Be Heroes.
-
-  - [](https://www.nytimes3xbfgragh.onion/video/opinion/100000007139379/how-to-be-alone.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/opinion)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/05/23/opinion/opdoc-how-to-be-alone-img/opdoc-how-to-be-alone-img-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">6:11</span>
-    
-    ### How to Be Alone
 
 </div>
 

@@ -172,6 +172,106 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/live/2020/08/13/business/stock-market-today-coronavirus/refinancing-your-home-loan-just-got-more-expensive)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/business/13-markets-brf-FannieFreddie/merlin_163621443_7ad1439a-461f-422b-ab90-25385ca6d114-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Refinancing your home loan just got more expensive.
+    
+    Fannie and Freddie will impose a 0.5 percent fee on most mortgage
+    refinancings to cope with expected losses from the pandemic.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/13/business/hedge-funds-and-private-equity-firms-gave-loans-now-theyre-suing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/business/13-markets-brf-loandefaults/13-markets-brf-loandefaults-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hedge funds and private equity firms gave loans. Now they’re suing.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/13/business/commercial-landlord-loan-foreclosure.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/business/13JPvirus-loandefaults-print/merlin_175667466_98132cbf-ef07-4acf-934b-d9dc715f5d21-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Worried Lenders Pounce on Landlords Unable to Pay Their Loans
+    
+    Some hedge funds and private equity firms that lent money to
+    property owners are now suing them for falling behind on interest
+    payments.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Goldstein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/live/2020/08/04/business/stock-market-today-coronavirus/trading-in-kodak-shares-comes-under-scrutiny)
     
     <div class="css-79elbk">
@@ -201,7 +301,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -232,7 +332,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -267,7 +367,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -303,7 +403,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -338,7 +438,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -373,7 +473,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -395,113 +495,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matthew
-    Goldstein</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/25/business/jay-clayton-sec-sdny.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/25/business/25clayton/25clayton-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Jay Clayton, Would-Be Prosecutor, Says He’s Focused on His Current Job
-    
-    Mr. Clayton, the chairman of the Securities and Exchange Commission,
-    answered questions from House Democrats about his unusual nomination
-    to be the top federal prosecutor in Manhattan.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew
-    Goldstein</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/20/business/jay-clayton-sdny-sec.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/us/politics/20dc-clayton/20dc-clayton-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Jay Clayton, Low-Profile Regulator, Is Catapulted Into a Political Fight
-    
-    Amid a muted tenure at the S.E.C., the corporate lawyer is now the
-    Trump administration’s intended nominee to be the top prosecutor for
-    the Southern District of New York.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew Goldstein <span>and</span> Ben
-    Protess</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/18/us/politics/park-police-gregory-monahan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/us/politics/17dc-monahan-1sub/merlin_173090691_db4ea7c2-9fa6-4239-ac6a-1a87c67ea0e3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Park Police Head Had Been Accused of Illegal Searches and Unreliable Testimony
-    
-    The force was centrally involved in the authorities’ use of pepper
-    balls to clear protesters from a park near the White House this
-    month.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Matthew Goldstein <span>and</span>
-    Katie Benner</span>
+    By <span class="css-1n7hynb">Matthew Goldstein</span>
     
     </div>
     

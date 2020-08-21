@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -176,22 +180,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/briefing/beirut-blasts-coronavirus-metoo.html)
+    [](/2020/08/21/books/elena-ferrante-lying-life-of-adults-ann-goldstein-translator.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/books/21Goldstein1/21Goldstein1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Beirut Blasts, Coronavirus, \#MeToo: Your Wednesday Briefing
+    ## Reading Elena Ferrante in English? You’re Also Reading Ann Goldstein
     
-    Here’s what you need to know.
+    The self-effacing translator worked with the “My Brilliant Friend”
+    author again for her latest book, “The Lying Life of Adults.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
+    By <span class="css-1n7hynb">Joumana
+    Khatib</span>
     
     </div>
     
@@ -209,22 +214,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/briefing/tiktok-spain-turkey.html)
+    [](/2020/08/21/world/europe/russia-navalny-poison-hospital.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/04ambriefing-euro-promo/04ambriefing-euro-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/world/21navalny-sub1/21navalny-sub1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok, Spain’s Monarchy, Turkey: Your Tuesday Briefing
+    ## Russian Doctors Accused of Blocking Overseas Transfer of Aleksei Navalny
     
-    Here’s what you need to know.
+    A plane from Germany arrived in Russia to pick up the prominent
+    opposition leader for treatment after a suspected poisoning. But
+    medical officials say his condition is too unstable.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabella
-    Kwai</span>
+    By <span class="css-1n7hynb">Mike
+    Ives</span>
     
     </div>
     
@@ -242,24 +249,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/europe/genoa-italy-new-bridge.html)
+    [](/2020/08/20/briefing/steve-bannon-aleksei-navalny-algorithm-bias.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03genoa1/merlin_175267842_f7374fa0-deae-4584-b1a7-2f6b06888166-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/21am-briefing-europe-promo/20bannon-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Italy Leaders Hail Genoa’s New Bridge as Sign of Resilience
+    ## Steve Bannon, Aleksei Navalny, Algorithm Bias: Your Friday Briefing
     
-    Less than two years after the collapse of the Morandi Bridge killed
-    43 people and embarrassed the nation, Italy inaugurated its
-    replacement, and vowed to do better.
+    Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gaia
-    Pianigiani</span>
+    By <span class="css-1n7hynb">Natasha
+    Frost</span>
     
     </div>
     
@@ -277,24 +282,30 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/europe/juan-carlos-leaves-spain.html)
+    [](/2020/08/20/world/europe/navalny-poison-russia-kremlin.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03spain-royal/03spain-royal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20navalny-poison/20navalny-poison-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Juan Carlos, Spain’s Former King, Quits Country Amid Multiple Investigations
+    ## Don’t Drink the Tea: Poison Is a Favored Weapon in Russia
     
-    The former king’s departure, which comes as he faces financial
-    inquiries, may fuel Spain’s political and social debate over the
-    future of the monarchy.
+    Poison has been a preferred tool of the Russian security service for
+    more than a century, and critics of the Kremlin say it remains in
+    the arsenal today.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Raphael
-    Minder</span>
+    By <span class="css-1n7hynb">Andrew E.
+    Kramer</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/world/20200821/navalny-poison-russia-kremlin/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/world/20200821/navalny-poison-russia-kremlin/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -312,24 +323,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/europe/italy-coronavirus-prostitution-sex-work.html)
+    [](/2020/08/20/world/europe/manchester-area-attack-hashim-abedi.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/virus-italy-sexwork1/virus-italy-sexwork1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20manchester01/20manchester01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘I Am Scared’: Italian Sex Workers Face Poverty and Illness in the Pandemic
+    ## Brother of Manchester Arena Bomber Is Jailed for at Least 55 Years
     
-    Prostitution is not illegal in Italy, nor is it regulated as an
-    official occupation. But the coronavirus has forced many sex workers
-    to accept certain risks in order to avoid poverty.
+    The brother, Hashim Abedi, had already been convicted of murder for
+    his role in the 2017 attack on a pop concert in northern England
+    that killed 22 people.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emma
-    Bubola</span>
+    By <span class="css-1n7hynb">The Associated
+    Press</span>
     
     </div>
     
@@ -347,24 +358,26 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/europe/turkey-nato.html)
+    [](/2020/08/20/theater/france-theater-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/02turkey-nato01/02turkey-nato01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20paris-theater01/merlin_175816776_42bf8749-1ace-4a07-a0cc-f336fd4495fe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Turkish Aggression Is NATO’s ‘Elephant in the Room’
+    ### <span class="css-m70j1g">Theater Review</span>
     
-    Despite being a NATO member, Turkey has bought Russian air defense.
-    And a recent push into Libya and its energy ambitions nearly led to
-    armed conflicts with France and Greece.
+    ## In France, Live Theater Calls for Masked Actors and Creative Solutions
+    
+    The company Les Tréteaux de France has been meeting the challenges
+    of social distancing with a variety of measures, including
+    voice-overs and unusual settings.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Steven
-    Erlanger</span>
+    By <span class="css-1n7hynb">Laura
+    Cappelle</span>
     
     </div>
     
@@ -382,27 +395,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/video/world/europe/100000007269932/who-coronavirus-briefing.html)
+    [](/2020/08/20/world/europe/uk-england-grading-algorithm.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03virus-briefing-WHO/merlin_166979457_578e930d-7c64-482b-ae30-784816cccef8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/world/19uk-algorithms02/19uk-algorithms02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    ## British Grading Debacle Shows Pitfalls of Automating Government
     
-    ## ‘There Is No Silver Bullet,’ W.H.O. Chief Says
-    
-    On Monday, the director of the W.H.O., Tedros Adhanom Ghebreyesus,
-    spoke about a number of promising vaccines but stressed that the
-    best course of action was to take measures to curb the spread of
-    disease.
+    The uproar over an algorithm that lowered the grades of 40 percent
+    of students is a sign of battles to come regarding the use of
+    technology in public services.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By
-    <span class="css-1n7hynb">Reuters</span>
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
     
     </div>
     
@@ -420,24 +430,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/europe/poland-court-presidential-election.html)
+    [](/2020/08/20/world/asia/1970-man-hijacks-plane.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03poland/03poland-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20ihtretrospective-image/20ihtretrospective-image-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Poland’s Supreme Court Declares Presidential Election Valid
+    ## 1970: Lovesick Japanese Man Hijacks Plane With Toy Gun
     
-    The decision comes after supporters of the opposition candidate
-    filed protests questioning the narrow victory for the incumbent,
-    Andrzej Duda.
+    An apprentice cook, claiming he wanted to die after an affair went
+    awry, was apprehended by the police after forcing the passenger jet
+    to land. No one was injured.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Monika
-    Pronczuk</span>
+    By <span class="css-1n7hynb">The International Herald
+    Tribune</span>
     
     </div>
     
@@ -455,23 +465,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/obituaries/john-hume-dies.html)
+    [](/2020/08/20/world/europe/navalny-poison-russia.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/03hume-obit3/03hume-obit3-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20navalny-01/20navalny-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## John Hume, Nobel Laureate for Work in Northern Ireland, Dies at 83
+    ## Aleksei Navalny Hospitalized in Russia in Suspected Poisoning
     
-    The politician’s campaign for peace was seen as a driving force
-    behind an end to 25 years of sectarian conflict in the territory.
+    The prominent opposition leader was reported to be in serious but
+    stable condition in intensive care in Siberia after his flight to
+    Moscow was forced to make an emergency landing.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alan
-    Cowell</span>
+    By <span class="css-1n7hynb">Andrew
+    Higgins</span>
     
     </div>
     
@@ -489,21 +500,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/briefing/vaccine-race-donald-trump-spacex.html)
+    [](/2020/08/20/briefing/belarus-coronavirus-barack-obama.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03ambriefing-europe-promo/03ambriefing-europe-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/reader-center/20ambriefing-euro-promo/20ambriefing-euro-belarus-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Vaccine Race, Donald Trump, SpaceX: Your Monday Briefing
+    ## Belarus, Coronavirus, Barack Obama: Your Thursday Briefing
     
     Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Isabella Kwai</span>
+    By <span class="css-1n7hynb">Isabella Kwai <span>and</span> Natasha
+    Frost</span>
     
     </div>
     

@@ -131,7 +131,7 @@ Deforestation</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -233,14 +233,20 @@ Casado</span>
 
 </div>
 
-  - Aug. 1, 2020, <span class="css-epvm6">10:04 a.m.
-    ET</span>
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published Aug. 1, 2020Updated Aug. 2,
+    2020
+    
+    </div>
 
   - 
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -308,10 +314,10 @@ opportunity to slow, or even reverse, that trend by promoting private
 sector support for greener policies.
 
 “Brazil is becoming an environmental pariah on the global stage,
-destroying a positive reputation that took decades to build,” said
-Sueley Araújo, a veteran environmental policy expert who was dismissed
-as the head of the country’s main environmental protection agency soon
-after Mr. Bolsonaro took office.
+destroying a positive reputation that took decades to build,” said Suely
+Araújo, a veteran environmental policy expert who was dismissed as the
+head of the country’s main environmental protection agency soon after
+Mr. Bolsonaro took office.
 
 </div>
 

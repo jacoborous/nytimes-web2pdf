@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,28 +70,7 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
+<div class="css-1ffjgkm">
 
 </div>
 
@@ -166,95 +146,98 @@ Money](/section/your-money)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-    Moneymaker for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07jpDC-ORDERs-print/merlin_175392885_12569975-dca2-460a-83de-8e4453ec2632-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Pool
+    photo by Graeme Jennings/EPA, via
+    Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/business/20zuckerberg/merlin_175079943_59127eee-99fc-4982-812a-8d980f7ce196-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Trump’s Orders on WeChat and TikTok Are Uncertain. That May Be the Point.](/2020/08/07/business/economy/trump-executive-order-tiktok-wechat.html)
+    ## [Mark Zuckerberg Questioned Under Oath in F.T.C. Antitrust Inquiry](/2020/08/20/technology/facebook-zuckerberg-ftc-questioned.html)
     
-    The restrictions on the two Chinese-owned apps followed a familiar
-    model for other policy announcements on China from the Trump
-    administration.
+    It was the first known time that regulators directly interviewed a
+    chief executive of one of the tech companies being scrutinized for
+    potential antitrust
+    violations.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ana
-    Swanson</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    McCabe</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Adam
-    Dean for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07china-wechat-1/merlin_139155753_efcaf9ee-1c9a-4a78-9a29-81cfc90402bf-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    Sullivan/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/19HARRISTECH-print/19HARRISTECH-print-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Targeting WeChat, Trump Takes Aim at China’s Bridge to the World](/2020/08/07/business/trump-china-wechat-tiktok.html)
+    ## [How Kamala Harris Forged Close Ties With Big Tech](/2020/08/20/technology/kamala-harris-ties-to-big-tech.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/07china-wechat-1/07china-wechat-1-thumbStandard.jpg)](/2020/08/07/business/trump-china-wechat-tiktok.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/19HARRISTECH-print/19HARRISTECH-print-thumbStandard-v2.jpg)](/2020/08/20/technology/kamala-harris-ties-to-big-tech.html)
     
     </div>
     
-    The all-purpose app, which the administration is restricting along
-    with TikTok, is how many Chinese living abroad stay in touch with
-    one another, and with people back
-    home.
+    Silicon Valley has enthusiastically backed Ms. Harris since she
+    first ran for state attorney general in California a decade
+    ago.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Paul Mozur</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Raymond
-    Zhong</span></span>
+    <span class="css-1baulvz" itemprop="name">Daisuke
+    Wakabayashi</span>,
+    <span class="css-1baulvz" itemprop="name">Stephanie Saul</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
+    Vogel</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Danish
-    Siddiqui/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06dc-chinaban1/merlin_175366002_fe1eaecc-4bf3-4dfe-8538-24ad1d4024bb-videoLarge.jpg)
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
+    Adams</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20JPsullivan1-print/20sullivan-mediumThreeByTwo440.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Trump Targets WeChat and TikTok, in Sharp Escalation With China](/2020/08/06/technology/trump-wechat-tiktok-china.html)
+    ## [Former Uber Security Chief Charged With Concealing Hack](/2020/08/20/technology/joe-sullivan-uber-charged-hack.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06dc-chinaban1/merlin_175366002_fe1eaecc-4bf3-4dfe-8538-24ad1d4024bb-thumbStandard.jpg)](/2020/08/06/technology/trump-wechat-tiktok-china.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20JPsullivan1-print/20sullivan-thumbStandard.jpg)](/2020/08/20/technology/joe-sullivan-uber-charged-hack.html)
     
     </div>
     
-    The government cited national security concerns in announcing
-    sweeping restrictions on two popular Chinese social media networks,
-    a move that is likely to be met with
-    retaliation.
+    Joe Sullivan, who led Uber’s security team through the company’s
+    most tumultuous period, was fired by the company’s newly installed
+    chief executive in
+    2017.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Ana Swanson</span>,
-    <span class="css-1baulvz" itemprop="name">Mike Isaac</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Paul
-    Mozur</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Facebook</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/multimedia/06Facebook-Apple-game/06Facebook-Apple-game-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+    Henry for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20rideshutdown-print/20rideshutdown-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Facebook Gaming Finally Clears Apple Hurdle, Arriving in App Store](/2020/08/07/technology/facebook-apple-gaming-app-store.html)
+    ## [Uber and Lyft Get Reprieve After Threatening to Shut Down](/2020/08/20/technology/uber-lyft-california-shutdown.html)
     
     <div class="css-ajkwsy">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/multimedia/06Facebook-Apple-game/06Facebook-Apple-game-thumbStandard.jpg)](/2020/08/07/technology/facebook-apple-gaming-app-store.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20rideshutdown-print/20rideshutdown-thumbStandard.jpg)](/2020/08/20/technology/uber-lyft-california-shutdown.html)
     
     </div>
     
-    Saying Apple forced changes during months of rejection, the social
-    network is releasing a version for iPhone and iPad users
-    today.
+    The companies, under legal pressure to reclassify their California
+    drivers as employees, said they would halt rides before an appeals
+    court gave them permission to
+    continue.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Seth
-    Schiesel</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Kate
+    Conger</span></span>
     
     </div>
 
@@ -290,7 +273,41 @@ story](#after-mid1)
 [More in Personal Technology
     »](/section/technology/personaltech)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/technology/personaltech/20TECHTIP1/19TECHTIP_TOP-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Protect Your Privacy and the Environment While Upgrading Your Gear](/2020/08/19/technology/personaltech/smartphone-iphone-computer-recycle.html)
+    
+    Got a new phone, tablet or computer and want to repurpose or
+    responsibly recycle the old one? Here’s a guide to moving
+    on.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">J. D.
+    Biersdorfer</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+    Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/business/12Techfix-illo/12Techfix-illo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [We Tested Instagram Reels, the TikTok Clone. What a Dud.](/2020/08/12/technology/personaltech/tested-facebook-reels-tiktok-clone-dud.html)
+    
+    TikTok might not be winning over President Trump, but it sure beats
+    its Instagram copycat for making and sharing short
+    videos.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Brian X. Chen</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Taylor
+    Lorenz</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jim
     Wilson/The New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/03techfix1/merlin_175172151_1161db2d-0ad4-4dfb-ba9d-acded59f4da7-videoLarge.jpg)
     
@@ -307,7 +324,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>via
     SRI
     International</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/obituaries/02English-obit1/Obit-English1-videoLarge.jpg)
     
@@ -325,7 +342,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Glenn
     Harvey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/business/29Techfix-illo/30Techfix-illo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -339,39 +356,6 @@ story](#after-mid1)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Brian X.
     Chen</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/00LIVE-STREAM-WED-COMBO/00LIVE-STREAM-WED-COMBO-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Livestream Your Wedding Like a Pro](/2020/07/28/fashion/weddings/livestream-your-wedding-like-a-pro.html)
-    
-    These gadgets will help you improve the production quality and
-    create memorable experiences for you and your digital
-    guests.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Bortz</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Simone
-    Noronha</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/travel/23aipassport/23aipassport-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A High-Tech Array of Travel Tools: ‘Smart’ Health Cards, Temperature-Reading Glasses and More](/2020/07/23/travel/artificial-intelligence-coronavirus-passport.html)
-    
-    Products that rely on artificial intelligence aim to make travel
-    safer during the pandemic. But hefty prices and privacy concerns are
-    issues.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Debra
-    Kamin</span></span>
     
     </div>
 
@@ -406,25 +390,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/technology/trump-tiktok-wechat.html)
+    [](/2020/08/20/technology/ann-syrdal-who-helped-give-computers-a-female-voice-dies-at-74.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/business/07ontech-videostill/07ontech-videostill-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/obituaries/21Syrdal1/Syrdal1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">on tech</span>
+    ## Ann Syrdal, Who Helped Give Computers a Female Voice, Dies at 74
     
-    ## Trump Swings Against TikTok, WeChat
-    
-    President Trump signed executive orders against two popular
-    China-based apps. Let me try to explain.
+    As a researcher at AT\&T, she helped lay the groundwork for modern
+    digital assistants like Siri and Alexa.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
+    By <span class="css-1n7hynb">Cade
+    Metz</span>
     
     </div>
     
@@ -442,22 +424,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/style/kibbo-van-life-startup.html)
+    [](/2020/08/20/world/europe/uk-england-grading-algorithm.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/06VANLIFE-kibbo-park/oakImage-1595971463697-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/world/19uk-algorithms02/19uk-algorithms02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What if Your Home Could Be Mobile, but Also You Could Park It?
+    ## British Grading Debacle Shows Pitfalls of Automating Government
     
-    A start-up rethinks a little about how to live.
+    The uproar over an algorithm that lowered the grades of 40 percent
+    of students is a sign of battles to come regarding the use of
+    technology in public services.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Candace
-    Jackson</span>
+    By <span class="css-1n7hynb">Adam
+    Satariano</span>
     
     </div>
     
@@ -475,23 +459,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/style/gamer-chair-market-herman-miller.html)
+    [](/2020/08/19/style/la-party-power-cut-tiktok.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/fashion/22CHAIRS2/oakImage-1595261127673-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/fashion/19VIRUS-INFLUENCERS-1/19VIRUS-INFLUENCERS-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## This Is Not a Desk Chair
+    ## An Influencer House Wouldn’t Stop Partying, So L.A. Cut Its Power
     
-    The pandemic has put video game equipment in unusually high demand.
-    The gaming chair is ascendant.
+    This month, Mayor Eric Garcetti said that Angelenos who violated the
+    city’s guidelines on gatherings during a health crisis would have
+    their water and power turned off. Today, he followed through.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sanam
-    Yar</span>
+    By <span class="css-1n7hynb">Taylor
+    Lorenz</span>
     
     </div>
     
@@ -509,24 +494,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/technology/talkspace.html)
+    [](/2020/08/19/technology/airbnb-ipo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/business/07Talkspace-illo/07Talkspace-illo-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00airbnb-promo/merlin_171592323_6685d092-eca4-40d5-8014-0a79df44556b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## At Talkspace, Start-Up Culture Collides With Mental Health Concerns
+    ## Airbnb, a ‘Sharing Economy’ Pioneer, Files to Go Public
     
-    The therapy-by-text company made burner phones available for fake
-    reviews and doesn’t adequately respect client privacy, former
-    employees say.
+    The home rental company, which was privately valued at $31 billion,
+    is trying to go public after its business was crushed by the
+    pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kashmir Hill <span>and</span> Aaron
-    Krolik</span>
+    By <span class="css-1n7hynb">Erin
+    Griffith</span>
     
     </div>
     
@@ -544,23 +529,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/technology/uber-ride-hailing-delivery-coronavirus.html)
+    [](/2020/08/19/technology/facebook-qanon-groups-takedown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06markets-brf-uber/06markets-brf-uber-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19facebookqanon/19facebookqanon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Uber’s Revenue Craters, as Deliveries Surge in Pandemic
+    ## Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory
     
-    Uber said revenue fell 29 percent in the second quarter because
-    people traveled less, but food deliveries soared.
+    The social network also said it was restricting another 1,950
+    groups, 440 pages on Facebook and more than 10,000 accounts on
+    Instagram related to the conspiracy group.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
+    By <span class="css-1n7hynb">Sheera
+    Frenkel</span>
     
     </div>
     
@@ -578,23 +564,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/style/influencer-parties-jake-paul-tana-mongeau-thomas-petrou-hype-house.html)
+    [](/2020/08/19/technology/trump-oracle-tiktok.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/fashion/06INFLUENCER-PARTIES-tana-mongeau/merlin_159784014_0ad93863-3b6d-4f0e-9096-60ecf59256a9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19oracle/merlin_160921458_eb7c3ab9-ca4c-41fc-9f76-2931ed63e629-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why Influencers Won’t Stop Partying Anytime Soon
+    ## Trump Says Oracle Could ‘Handle’ Owning TikTok
     
-    Creators in Los Angeles say that hosting and posting about big
-    social gatherings is part of their job, coronavirus or no.
+    President Trump, who has been pushing for a sale of the
+    Chinese-owned video app, did not say whether Oracle would be a
+    better buyer than Microsoft.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Taylor
-    Lorenz</span>
+    By <span class="css-1n7hynb">David
+    McCabe</span>
     
     </div>
     
@@ -612,24 +599,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/world/europe/russia-extremisim-chat-group-sentence.html)
+    [](/2020/08/19/style/instagram-activism-graphics-zines.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06russia-extremism1/merlin_175367304_1311a450-a839-4ffb-ab93-5b5548c106d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/fashion/19instagram-zines1/19instagram-zines1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Chat Group Becomes Target of Moscow’s Wrath as Security Crackdown Widens
+    ## The New Digi-Zines
     
-    The group started out as an online discussion of hobbies, schoolwork
-    and sometimes politics. But then it was infiltrated by an informer
-    for Russia’s all-powerful security services.
+    Artists, activists and academics are dropping knowledge and
+    resources on Instagram in an effort to democratize access to
+    information.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andrew
-    Higgins</span>
+    By <span class="css-1n7hynb">Melissa
+    Guerrero</span>
     
     </div>
     
@@ -647,25 +634,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/technology/the-cult-of-the-tech-genius.html)
+    [](/2020/08/19/style/coned-blackouts-spectrum-hurricanes.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/06ontech/06ontech-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/fashion/19LostInternet/19LostInternet-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">on tech</span>
+    ## We Live Online. Hurricanes and Blackouts Mean Enormous Isolation.
     
-    ## The Cult of the Tech Genius
-    
-    It’s time to rethink how we treat and enable these brilliant — but
-    damaging — tech personalities.
+    Bad weather and blackouts now destroy our ability to work, see
+    family and friends, buy things and generally pretend that 2020 is
+    normal.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Shira
-    Ovide</span>
+    By <span class="css-1n7hynb">Ezra
+    Marcus</span>
     
     </div>
     
@@ -683,24 +669,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/technology/trump-facebook-coronavirus-video.html)
+    [](/2020/08/19/technology/apple-2-trillion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/05trumpfacebook/05trumpfacebook-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/apple-mkt-cap-promo-1596767397262/apple-mkt-cap-promo-1596767397262-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Facebook Removes Trump Campaign’s Misleading Coronavirus Video
+    ## Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip
     
-    It was the first time Facebook took down a post by Mr. Trump’s
-    campaign for spreading virus misinformation, but it did not signal a
-    change to the company’s defense of free expression.
+    Apple is the first U.S. company to hit that value, a staggering
+    ascent that began in the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Cecilia Kang <span>and</span> Sheera
-    Frenkel</span>
+    By <span class="css-1n7hynb">Jack
+    Nicas</span>
     
     </div>
     
@@ -718,22 +703,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/technology/facebook-online-hate.html)
+    [](/2020/08/19/technology/big-tech-business-domination.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/05fbletter2/05fbletter2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/business/12techdominance/12techdominance-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Facebook Must Better Police Online Hate, State Attorneys General Say
+    ## Big Tech’s Domination of Business Reaches New Heights
     
-    The call from 20 state officials adds to the rising pressure facing
-    Mark Zuckerberg and his company.
+    As the economy contracts and many companies struggle to survive, the
+    biggest tech companies are amassing wealth and influence in ways
+    unseen in decades.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Davey Alba</span>
+    By <span class="css-1n7hynb">Peter Eavis <span>and</span> Steve
+    Lohr</span>
     
     </div>
     

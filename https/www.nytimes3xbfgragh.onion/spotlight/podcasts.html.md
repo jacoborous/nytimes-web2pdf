@@ -70,6 +70,10 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="collection-podcasts" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -167,19 +171,18 @@ story](#after-subheader)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-    Creese for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/04daily/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/world/21daily-nba/merlin_175963434_3cd3a139-68c5-4791-a54c-090de23624a5-jumbo.jpg)
     
     <div class="css-gjijuv">
     
     ### The Daily
     
-    ## [Is the U.S. Ready to Vote by Mail?](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html)
+    ## [A Pandemic-Proof Bubble?](/2020/08/21/podcasts/the-daily/nba-coronavirus-basketball.html)
     
-    What we’ve learned from the very different experiences of two
-    states, Georgia and
-    Montana.
+    The N.B.A. has sealed off its players and staff in a secure campus
+    in Florida — a medical and social experiment unlike anything in the
+    history of
+    sports.
     
     <span class="css-me3p27"></span>
     
@@ -218,21 +221,22 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Davide
-    Barco</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/sports/00Baseball-Preview-copy/00Baseball-Preview-videoLarge.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Illustration
+    by Tracy Ma/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/podcasts/14DAILY-2/14DAILY-2-videoLarge-v4.jpg)
     
     <div class="css-10wtrbd">
     
     ### the daily newsletter
     
-    ## [Life Without Sports?](/2020/07/31/podcasts/daily-newsletter-baseball-season-serial.html)
+    ## [Why ‘Cancel Culture’ Is a Distraction](/2020/08/14/podcasts/daily-newsletter-cancel-culture-beirut-protest.html)
     
-    It’s “deeply boring,” our producer
-    reports.
+    A reporter’s last thoughts before putting the phrase to
+    rest.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Daniel
-    Guillemette</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jonah Engel
+    Bromwich</span></span>
     
     </div>
 
@@ -268,70 +272,72 @@ story](#after-mid1)
 [More in The Daily
     »](/column/the-daily)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/24/business/03daily/24michigan-arrest1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/opinion/20daily-biden/16senior1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Wrongfully Accused by an Algorithm](/2020/08/03/podcasts/the-daily/algorithmic-justice-racism.html)
+    ## [Joe Biden’s 30-Year Quest](/2020/08/20/podcasts/the-daily/biden-election.html)
     
-    In what may be the first known case of its kind, a faulty facial
-    recognition match led to a Michigan man’s arrest for a crime he did
-    not
-    commit.
+    The former vice president twice failed to secure the Democratic
+    nomination. Now that he has succeeded, how much will his past
+    mistakes affect his bid for the White
+    House?
     
     <span class="css-me3p27"></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/01/21/magazine/21mag-femaleanger1-copy/21mag-femaleanger1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/world/19daily-dejoy/merlin_175343967_fc16f97e-a47d-437a-a042-6b5e49455304-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Sunday Read: ‘On Female Rage’](/2020/08/02/podcasts/the-daily/on-female-rage.html)
+    ## [The President, the Postal Service and the Election](/2020/08/19/podcasts/the-daily/dejoy-postal-service-trump.html)
     
-    “I used to insist I didn’t get angry. Not
-    anymore.”
+    Recent cuts have raised a question: Is President Trump deliberately
+    slowing the mail to help his chances in the
+    election?
     
     <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/us/politics/31daily/00dc-army-metoo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/world/18daily-uae/merlin_175656030_d1d0b45d-b690-4412-b29a-99974bc6dd97-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [A \#MeToo Moment in the Military](/2020/07/31/podcasts/the-daily/vanessa-guillen-military-metoo.html)
+    ## [A Dinner and a Deal](/2020/08/18/podcasts/the-daily/israel-UAE.html)
     
-    What happened to 20-year-old Specialist Vanessa Guillen, and how the
-    United States
-    responded.
+    The United Arab Emirates has become the first Arab country in nearly
+    30 years to establish full diplomatic relations with Israel. It was
+    a shift with a delicate dance behind
+    it.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/reader-center/30daily/merlin_175077825_5ebc931b-baa1-489a-960c-34e4d845e997-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17daily-warpspeed/17daily-warpspeed-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Big Tech Hearing](/2020/07/30/podcasts/the-daily/congress-facebook-amazon-google-apple.html)
+    ## [Inside Operation Warp Speed](/2020/08/17/podcasts/the-daily/trump-coronavirus-vaccine-covid.html)
     
-    A grilling on the power of digital giants in the internet
-    age.
+    The goal of the initiative is admirable: getting a coronavirus
+    vaccine out to Americans and saving lives as soon as possible. It is
+    not, however, without its
+    problems.
     
     <span class="css-me3p27"></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/world/29daily/merlin_157181268_478b9364-1e98-4d34-a4af-7e959f4ae9a8-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/magazine/16mag-intelligence-02-copy/16mag-intelligence-02-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Confronting China](/2020/07/29/podcasts/the-daily/china-trump-foreign-policy.html)
+    ## [The Sunday Read: ‘Unwanted Truths’](/2020/08/16/podcasts/the-daily/trump-russia-intelligence.html)
     
-    Some members of the Trump administration believe the superpower
-    country poses an existential threat to the U.S. — one they are
-    working to address now.
+    Inside President Trump’s battles with U.S. intelligence agencies
     
     <span class="css-me3p27"></span>
     
@@ -542,7 +548,38 @@ story](#after-mid2)
 [More in Popcast
     »](/column/popcast-pop-music-podcast)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Santiago
+    Felipe/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/arts/18popcast/merlin_170913834_aaee4730-b16c-47b6-8d82-5159894fd311-mediumThreeByTwo440.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Music Lost to Coronavirus, Part 1](/2020/08/18/arts/music/popcast-coronavirus-deaths.html)
+    
+    Remembering Joe Diffie, Mona Foot and DJ Black N
+    Mild.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robyn
+    Beck/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/arts/10popcast/merlin_174653283_e3f65a02-c13c-4e15-b7e7-30fd80cef9d9-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Welcome Return of the Chicks](/2020/08/10/arts/music/popcast-the-chicks-gaslighter.html)
+    
+    How would Nashville be different if it hadn’t pushed the trio away?
+    A conversation about “Gaslighter” and
+    beyond.
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Beth
     Garrabrant</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04popcast/merlin_174962052_3ba6f89c-ca2a-4420-98b8-a5a3594f22db-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -556,7 +593,7 @@ story](#after-mid2)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Valerie
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Valerie
     Macon/Agence France-Presse — Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/arts/27popcast/27popcast-videoLarge.jpg)
     
@@ -572,7 +609,7 @@ story](#after-mid2)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yara
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Yara
     Nardi/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/arts/20popcast/20popcast-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -580,39 +617,7 @@ story](#after-mid2)
     ## [Remembering Ennio Morricone, the Film Score Maestro](/2020/07/20/arts/music/popcast-ennio-morricone.html)
     
     His music was dynamic, bold and idiosyncratic, setting a high bar
-    for composers connecting sound and
-    vision.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Theo
-    Wargo/Getty Images for
-    Directv</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/11/arts/09popcast/09popcast-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [The Timely Agitation of Run the Jewels](/2020/07/09/arts/music/popcast-run-the-jewels.html)
-    
-    Killer Mike and El-P’s anti-government and pro-justice hip-hop feels
-    like it anticipated the current
-    moment.
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Stephanie
-    Keith/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/29/arts/29popcast/29popcast-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Pop Superfans Are Getting Politically Active. What Happens Next?](/2020/06/30/arts/music/popcast-superfans-politics.html)
-    
-    A subset of passionate listeners are asking for more of their heroes
-    than simply music.
+    for composers connecting sound and vision.
     
     <span class="css-me3p27"></span>
     
@@ -648,7 +653,35 @@ story](#after-mid3)
 [More in The Book Review
     »](/column/book-review-podcast)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/Scott_Americans_Jones--Hagar/Scott_Americans_Jones--Hagar-mediumThreeByTwo440-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Fictional World of Edward P. Jones](/2020/08/14/books/review/podcast-a-o-scott-edward-p-jones-eric-jay-dolin-furious-sky-hurricanes.html)
+    
+    A.O. Scott talks about Jones’s work and the American experience, and
+    Eric Jay Dolin discusses “A Furious
+    Sky.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>.</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Isabel Wilkerson Talks About ‘Caste’](/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html)
+    
+    Wilkerson describes the ideas about race in America that fuel her
+    new book, and David Hill discusses “The
+    Vapors.”
+    
+    <span class="css-me3p27"></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/books/31pod-cover/31pod-cover-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -662,7 +695,7 @@ story](#after-mid3)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/books/24pod-cover/24pod-cover-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/books/24pod-cover/24pod-cover-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -676,42 +709,14 @@ story](#after-mid3)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/books/17podcover/17podcover-videoLarge-v2.png)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/books/17podcover/17podcover-videoLarge-v2.png)
     
     <div class="css-10wtrbd">
     
     ## [Newt Gingrich and the Dawn of an Era](/2020/07/17/books/review/podcast-julian-zelizer-burning-down-house-newt-gingrich-notes-silencing-lacy-crawford.html)
     
     Julian E. Zelizer talks about “Burning Down the House,” and Lacy
-    Crawford talks about “Notes on a
-    Silencing.”
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/06/books/review/00Mendelsohn-utopia/00Mendelsohn-utopia-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [David Mitchell’s Vast and Tangled Universe](/2020/07/10/books/review/david-mitchell-utopia-avenue-daniel-mendelsohn-biggest-bluff-poker-maria-konnikova.html)
-    
-    Daniel Mendelsohn discusses Mitchell’s career and new novel, “Utopia
-    Avenue,” and Maria Konnikova talks about “The Biggest
-    Bluff.”
-    
-    <span class="css-me3p27"></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/03/books/03pod-cover/03pod-cover-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Jules Feiffer on His Long, Varied Career](/2020/07/03/books/review/podcast-jules-feiffer-smart-george-steve-inskeep-imperfect-union.html)
-    
-    Feiffer talks about his new picture book and more, and Steve Inskeep
-    discusses “Imperfect Union.”
+    Crawford talks about “Notes on a Silencing.”
     
     <span class="css-me3p27"></span>
     
@@ -847,24 +852,20 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-reading-list.html)
+    [](/2020/08/20/podcasts/nice-white-parents-school.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/06/02/books/review/30nwp-promo-reading/02Kendi-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Reading List Behind ‘Nice White Parents’
+    ## Episode Five: ‘We Know It When We See It’
     
-    Everyone wants what’s best for their children’s education. But who
-    gets to decide what’s best? The reporter behind our new podcast from
-    Serial shares the books that helped her answer that question.
+    An unexpected last chapter. Some white parents start behaving
+    differently.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Chana
-    Joffe-Walt</span>
     
     </div>
     
@@ -882,19 +883,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
+    [](/2020/08/14/podcasts/the-daily/protest-adidas-strike.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/world/Daily-adidas/merlin_153212400_eb1626b8-785e-4854-b315-a6844f84e570-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘I Still Believe in It’
+    ## Protesting Her Own Employer
     
-    White parents in the 1960s fought to be part of a new, racially
-    integrated school in Brooklyn. So why did their children never
-    attend?
+    How an assistant apparel designer at Adidas came to lead daily
+    protests against her employer’s handling of
+    race.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -914,18 +915,20 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    [](/2020/08/13/podcasts/the-daily/school-reopening.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/13daily/schools-reopening-coronavirus-image-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Book of Statuses
+    ## Why Teachers Aren’t Ready to Reopen Schools
     
-    A group of parents takes one big step
-    together.
+    The president is demanding schools return to in-person learning.
+    Officials are answering that call. But teachers and their unions say
+    many of those plans are
+    unsafe.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -945,19 +948,18 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/podcasts/the-daily/unemployment-benefits-coronavirus.html)
+    [](/2020/08/13/podcasts/nice-white-parents-school.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/28daily/23virus-uiexplain1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why $600 Checks Are Tearing Republicans Apart
+    ## Episode Four: ‘Here’s Another Fun Thing You Can Do’
     
-    As Republicans consider whether to extend weekly payments for those
-    without work during the pandemic, the election looms
-    large.
+    Is it possible to limit the power of white
+    parents?
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -977,19 +979,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/podcasts/the-daily/new-york-hospitals-covid.html)
+    [](/2020/08/12/podcasts/the-daily/biden-kamala-harris-vp.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/world/27daily-hospitals/merlin_172404552_f4e79cbc-7bf0-488a-a220-9f945e56e065-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/world/12daily-harris/merlin_175589466_4176592c-09a0-4743-ac9f-268b2449ee4f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Mistakes New York Made
+    ## A Historic V.P. Decision
     
-    An investigation into hospitals during the peak of the city’s
-    coronavirus outbreak exposed significant disparities in health
-    care.
+    Joe Biden’s vice-presidential search has ended: Kamala Harris will
+    be his running mate. How did he settle on the California
+    senator?
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1009,18 +1011,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/26/podcasts/the-daily/the-accusation-the-sunday-read.html)
+    [](/2020/08/11/podcasts/the-daily/cancel-culture.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/22/magazine/26audm-2/22mag-titleix-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/style/11daily-cancelculture/28cancel-3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Sunday Read: ‘The Accusation’
+    ## Cancel Culture, Part 2: A Case Study
     
-    An examination of the truth, in a moment when facts can seem
-    malleable.
+    A progressive Twitter user tried to stem one wave of social-media
+    outrage — and found himself co-opted into
+    another.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1040,24 +1043,21 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/podcasts/daily-newsletter-schools-reopening-summer-playlist.html)
+    [](/2020/08/10/podcasts/the-daily/cancel-culture.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/science/24daily-newsletter-image1/merlin_174095748_6b11e6ba-a408-471e-8a73-9bf945b568d9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/opinion/10daily-cancelculture/14douthatWeb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">the daily newsletter</span>
+    ## Cancel Culture, Part 1: Where It Came From
     
-    ## Answering Your Questions About School Reopenings
-    
-    And a summer mixtape. Because school hasn’t started just yet.
+    Many people claim to have been “canceled.” What does that mean? And
+    how did it
+    start?
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pam
-    Belluck</span>
     
     </div>
     
@@ -1075,19 +1075,19 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/podcasts/the-daily/mlb-baseball-season-coronavirus.html)
+    [](/2020/08/09/podcasts/the-daily/quarantine-isolation.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/sports/24daily/merlin_174785379_4055717e-72ea-458c-bb74-6f70c40f7b11-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/podcasts/09daily-audm/09daily-audm-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Battle for a Baseball Season
+    ## The Sunday Read: ‘A Speck in the Sea’
     
-    A conversation with the commissioner of Major League Baseball about
-    the path to this season’s
-    start.
+    This is a story about isolation — and the struggle to close the
+    space between
+    us.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -1107,22 +1107,25 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/podcasts/nice-white-parents-serial.html)
+    [](/2020/08/07/podcasts/daily-newsletter-black-lives-matter-protests.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/podcasts/nice-white-parents-album-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/podcasts/07DAILY-NEWSLETTER-2/07DAILY-NEWSLETTER-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Introducing: Nice White Parents
+    ### <span class="css-m70j1g">THE DAILY NEWSLETTER</span>
     
-    A new limited series about building a better school system, and what
-    gets in the way. “Nice White Parents” — coming July 30 from Serial
-    Productions, brought to you by The New York
-    Times.
+    ## ‘Hope is Really Important in This Work’
+    
+    Our interview with a longtime protester about her journey to the
+    front lines.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sydney
+    Harper</span>
     
     </div>
     
@@ -1140,20 +1143,23 @@ story](#after-mid4)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/podcasts/the-daily/portland-protests.html)
+    [](/2020/08/07/podcasts/the-daily/Jack-dorsey-twitter-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/23daily-image/22portland-tactics02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/podcasts/10daily-dorsey/10daily-dorsey-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Showdown in Portland
+    ## Jack Dorsey on Twitter’s Mistakes
     
-    Why have militarized federal forces been deployed to an American
-    city?
+    The social network’s C.E.O. has plans to improve the platform. But
+    will the changes be enough?
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Lauren Jackson <span>and</span> Desiree
+    Ibekwe</span>
     
     </div>
     

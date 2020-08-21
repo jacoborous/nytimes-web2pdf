@@ -176,6 +176,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/20/world/asia/india-police-brutality.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/00india-police-2/00india-police-2-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Hundreds of Police Killings in India, but No Mass Protests
+    
+    Despite evidence of widespread police brutality, no significant
+    grass-roots movement has arisen. For many Indians, day-to-day crime
+    is the more pressing issue.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jeffrey Gettleman <span>and</span>
+    Sameer
+    Yasir</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/19/world/asia/india-activists-arrests-riots-coronavirus.html)
     
     <div class="css-79elbk">
@@ -205,7 +241,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -241,7 +277,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -276,7 +312,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +347,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +381,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -379,7 +415,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -408,7 +444,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -444,7 +480,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -467,41 +503,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Sameer Yasir <span>and</span> Kai
     Schultz</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/29/world/asia/coronavirus-india-lockdown.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/30/world/29virus-india-lockdown-3/merlin_172924788_75697ace-0f59-4e5d-b122-4cac5ee8bc17-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Its Coronavirus Caseload Soaring, India Is Reopening Anyway
-    
-    Worried for its economy, India loosened tough restrictions and may
-    lift them entirely this weekend. But infection numbers are climbing
-    fast.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kai Schultz <span>and</span> Sameer
-    Yasir</span>
     
     </div>
     

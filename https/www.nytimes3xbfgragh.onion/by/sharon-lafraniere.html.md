@@ -177,6 +177,78 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/19/us/politics/blood-plasma-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/business/00virus-plasma-1/merlin_174329514_3b40dd0e-a16d-4006-a811-4510614384a9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.D.A.’s Emergency Approval of Blood Plasma Is Now on Hold
+    
+    Government health leaders including Dr. Francis S. Collins and Dr.
+    Anthony S. Fauci urged caution last week, citing weak data from the
+    country’s largest plasma study.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Noah Weiland, Sharon LaFraniere
+    <span>and</span> Sheri
+    Fink</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/18/us/politics/paul-manafort-konstantin-kilimnik.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18dc-manafort1/18dc-manafort1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Report Details Manafort’s Ties During 2016 Trump Campaign to a Russian Agent
+    
+    The former campaign chairman Paul Manafort kept in close touch with
+    a longtime colleague whom Senate investigators identified as a
+    Russian intelligence officer.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sharon LaFraniere <span>and</span>
+    Julian E.
+    Barnes</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/politics/coronavirus-vaccine.html)
     
     <div class="css-79elbk">
@@ -207,7 +279,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -242,7 +314,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -279,7 +351,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +386,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +421,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -383,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -418,7 +490,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -438,75 +510,6 @@ story](#after-mid1)
     subsidies, critics are concerned that the funds could be used to
     ensure that the president maintains the backing of one of his key
     voting blocs.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sharon
-    LaFraniere</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/15/us/politics/michael-flynn-case-explained.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/15/us/politics/15dc-legal/15dc-legal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Justice Dept.’s Attempt to Drop the Michael Flynn Case, Explained
-    
-    The move is highly unusual and has prompted a judge to appoint an
-    outsider to argue against the department.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Charlie Savage <span>and</span> Sharon
-    LaFraniere</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/14/us/politics/trump-emoluments-clause-fourth-circuit.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/14/us/politics/14dc-emoluments/merlin_171801495_310386a8-276f-49c8-a38b-b061d5abd7e1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Appeals Court Allows Emoluments Suit Against Trump to Proceed
-    
-    The court rejected the president’s request to dismiss a case brought
-    by the State of Maryland and the District of Columbia regarding his
-    Washington hotel.
     
     <div class="css-1nqbnmb ea5icrr0">
     
