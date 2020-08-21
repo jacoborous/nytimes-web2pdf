@@ -177,6 +177,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/11/us/virus-young-deaths.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00virus-youngdeaths-castro/00virus-youngdeaths-castro-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Virus Is Killing Young Floridians. Race Is a Big Factor.
+    
+    The number of younger adults in the state who died of the disease
+    quadrupled last month, as rising numbers of them tested positive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frances Robles, Robert Gebeloff,
+    Danielle Ivory <span>and</span> Kimiko de
+    Freytas-Tamura</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/07/28/us/covid-19-colleges-universities.html)
     
     <div class="css-79elbk">
@@ -207,7 +242,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +278,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -279,7 +314,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +349,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -349,7 +384,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +419,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -436,39 +471,7 @@ story](#after-mid1)
     
     ## Social distancing isn’t an option when it comes to prisons.
     
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Danielle
-    Ivory</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/03/17/us/coronavirus-prisons-jails.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/17/us/17VIRUS-PRISONS-promo/17VIRUS-PRISONS-promo-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘We Are Not a Hospital’: A Prison Braces for the Coronavirus
-    
-    In places where social distancing is impossible and medical care
-    strained, bars won’t stop the infection’s spread.
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -491,23 +494,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/03/06/nyregion/jeffrey-epstein-gun-jail.html)
+    [](/2020/03/17/us/coronavirus-prisons-jails.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/05/us/05epsteinjail/merlin_159271629_30f2722c-523e-43e1-aeae-403f9d2d3c59-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/03/17/us/17VIRUS-PRISONS-promo/17VIRUS-PRISONS-promo-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Loaded Gun Found Smuggled Into Jail Where Jeffrey Epstein Killed Himself
+    ## ‘We Are Not a Hospital’: A Prison Braces for the Coronavirus
     
-    The discovery came during a weeklong lockdown at the Manhattan jail,
-    which has faced scrutiny since the disgraced financier’s suicide.
+    In places where social distancing is impossible and medical care
+    strained, bars won’t stop the infection’s spread.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ed Shanahan <span>and</span> Danielle
-    Ivory</span>
+    By <span class="css-1n7hynb">Danielle Ivory</span>
     
     </div>
     

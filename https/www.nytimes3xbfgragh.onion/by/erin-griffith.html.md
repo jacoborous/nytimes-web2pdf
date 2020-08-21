@@ -174,19 +174,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/live/2020/07/29/technology/tech-ceos-hearing-testimony/big-techs-rivals-spoke-out-ahead-of-the-hearing)
+    [](/live/2020/08/19/business/stock-market-today-coronavirus/airbnb-files-for-an-ipo-brushing-off-pandemic-concerns)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29tech-hearing-rivals/merlin_164279103_480dfcec-5c97-492c-b524-1e7885551ae2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00airbnb-promo/merlin_171592323_6685d092-eca4-40d5-8014-0a79df44556b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Big Tech’s rivals spoke out ahead of the hearing.
+    ## Airbnb files for an I.P.O., brushing off pandemic concerns.
+    
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac <span>and</span> Erin
+    By <span class="css-1n7hynb">Erin
     Griffith</span>
     
     </div>
@@ -205,23 +207,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/business/dealbook/tiktok-bytedance-investors-trump.html)
+    [](/2020/08/19/technology/airbnb-ipo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23tiktok/merlin_174342381_805f1937-d01f-40f4-9c63-d04e50c81afb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00airbnb-promo/merlin_171592323_6685d092-eca4-40d5-8014-0a79df44556b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok’s Parent Said to Weigh Selling a Majority Stake in the Video App
+    ## Airbnb, a ‘Sharing Economy’ Pioneer, Files to Go Public
     
-    The move would reduce ownership by a Chinese company, ByteDance,
-    amid escalating tensions between the U.S. and China.
+    The home rental company, which was privately valued at $31 billion,
+    is trying to go public after its business was crushed by the
+    pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael J. de la Merced
-    <span>and</span> Erin
+    By <span class="css-1n7hynb">Erin
     Griffith</span>
     
     </div>
@@ -240,15 +242,17 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/live/2020/07/17/business/stock-market-today-coronavirus/airbnb-was-like-a-family-then-the-layoffs-started)
+    [](/live/2020/08/17/business/stock-market-today-coronavirus/robinhood-a-stock-trading-app-is-valued-at-11-2-billion-in-its-latest-funding-round)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/17markets-brf-robinhood/merlin_173900673_796f80b3-2187-42f6-aeca-a8703effedcc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Airbnb was like a family. Then the layoffs started.
+    ## Robinhood, a stock trading app, is valued at $11.2 billion in its latest funding round.
+    
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -271,22 +275,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/17/technology/airbnb-coronavirus-layoffs-.html)
+    [](/2020/08/14/technology/pinterest-walkout-equality.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/business/00airbnb1/merlin_173400378_c8e2a75e-fc10-4a7b-83e3-0a448fe486e1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/business/14pinterest1/14pinterest1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Airbnb Was Like a Family, Until the Layoffs Started
+    ## Pinterest Employees Demand Gender and Race Equality
     
-    What happens when a kumbaya office culture meets the business
-    realities of a pandemic?
+    More than 200 said they stood in solidarity with three former
+    co-workers who have accused the company of discrimination.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Erin Griffith</span>
+    By <span class="css-1n7hynb">Erin
+    Griffith</span>
     
     </div>
     
@@ -304,16 +309,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/15/technology/airbnb-ipo.html)
+    [](/2020/08/13/technology/apple-fortnite-ban.html)
     
-    ## Airbnb Says Its I.P.O. Plans Are Back on Track
+    <div class="css-79elbk">
     
-    After a financial hit from the pandemic, the San Francisco company
-    said business was starting to return from its nose-dive.
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/business/13JPfortnite-print/13fortnite2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Fortnite Creator Sues Apple and Google After Ban From App Stores
+    
+    Epic Games, the maker of the popular game, provoked the tech giants
+    by violating their policies, then released a social media campaign
+    and lawsuits to confront them.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Erin
+    By <span class="css-1n7hynb">Jack Nicas, Kellen Browning
+    <span>and</span> Erin
     Griffith</span>
     
     </div>
@@ -332,18 +345,18 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/10/business/work-week-gemma-correll.html)
+    [](/2020/08/11/technology/pinterest-francoise-brougher-gender-discrimination-lawsuit.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/12/business/00LIKEABOSS-correll/merlin_174334155_d3e3833e-b100-4042-8f41-c53d175e7704-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/business/00pinterest1/00pinterest1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Gemma Correll’s Pandemic Diary: Just Like Her Normal Diary
+    ## Pinterest Accused of Gender Bias in Suit by Former No. 2 Executive
     
-    The illustrator spends time with her pugs and counteracts social
-    media with calm reality TV.
+    Françoise Brougher, Pinterest’s former chief operating officer, said
+    she was fired after speaking up about mistreatment.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -366,23 +379,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/07/technology/peggy-johnson-magic-leap-ceo.html)
+    [](/2020/08/10/business/start-ups-braced-for-the-worst-but-the-worst-never-came.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/07/business/07magicleap/merlin_156412599_0d1fc409-cc0a-4286-9f33-5d96d88345ba-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/00startups1/00startups1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Magic Leap Hires Top Microsoft Executive as C.E.O.
-    
-    Peggy Johnson, who led Microsoft’s business development, will take
-    over the struggling virtual reality start-up in August.
+    ## Start-ups braced for the worst, but the worst never came.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Erin Griffith <span>and</span> Karen
-    Weise</span>
+    By <span class="css-1n7hynb">Erin
+    Griffith</span>
     
     </div>
     
@@ -400,19 +410,18 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/06/technology/palantir-technologies-ipo.html)
+    [](/2020/08/10/technology/start-ups-pandemic-silicon-valley.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/06/business/06palantir1/06palantir1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/business/00startups1/00startups1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Palantir Technologies Files to Go Public
+    ## Start-Ups Braced for the Worst. The Worst Never Came.
     
-    The data start-up, which has a valuation of $20 billion, would be
-    the largest Silicon Valley tech listing since Uber made its debut
-    last year.
+    The doomsday warnings about tech start-ups failing in the pandemic
+    have not yielded the shakeout that many expected a few months ago.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -435,24 +444,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/05/technology/uber-postmates-deal.html)
+    [](/live/2020/07/29/technology/tech-ceos-hearing-testimony/big-techs-rivals-spoke-out-ahead-of-the-hearing)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/06/business/06uberpostmates/merlin_172154190_7a07be07-730f-42d0-933f-fc4fd0a48a45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/business/29tech-hearing-rivals/merlin_164279103_480dfcec-5c97-492c-b524-1e7885551ae2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Uber Buys Postmates for $2.65 Billion
+    ## Big Tech’s rivals spoke out ahead of the hearing.
     
-    The ride-hailing company’s core business has struggled in the
-    pandemic, so it is betting on the growth of its Uber Eats division.
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac, Erin Griffith
-    <span>and</span> Adam
-    Satariano</span>
+    By <span class="css-1n7hynb">Mike Isaac <span>and</span> Erin
+    Griffith</span>
     
     </div>
     
@@ -470,23 +477,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/06/29/technology/uber-postmates-buy-offer.html)
+    [](/2020/07/23/business/dealbook/tiktok-bytedance-investors-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/29/business/29postmates1/29postmates1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/business/23tiktok/merlin_174342381_805f1937-d01f-40f4-9c63-d04e50c81afb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Uber Makes Offer to Buy Postmates Delivery Service
+    ## TikTok’s Parent Said to Weigh Selling a Majority Stake in the Video App
     
-    The ride-hailing company has been trying to expand its food-delivery
-    business to compensate for the collapse of its main business.
+    The move would reduce ownership by a Chinese company, ByteDance,
+    amid escalating tensions between the U.S. and China.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac <span>and</span> Erin
-    Griffith</span>
+    By <span class="css-1n7hynb">Michael J. de la Merced
+    <span>and</span> Erin Griffith</span>
     
     </div>
     

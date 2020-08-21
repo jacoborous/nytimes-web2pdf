@@ -169,6 +169,111 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/18/us/notre-dame-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/18NOTREDAME/merlin_175441752_705a5f92-4f05-4f4b-8a6e-1a2d96237f16-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Notre Dame, Michigan State Shifting Online as Campus Outbreaks Grow
+    
+    After 147 people tested positive for the coronavirus, Notre Dame
+    said it would shift to remote instruction for at least two weeks.
+    Michigan State told undergraduates not to come to campus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frances
+    Robles</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/18/us/coronavirus-fraternities-sororities.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/18virus-frats-1/merlin_175606797_89ae1558-66e3-4fed-aaf1-a9e4530432ea-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Frats Are Being Frats’: Greek Life Is Stoking the Virus on Some Campuses
+    
+    Universities are struggling with how to prevent tightly packed
+    sorority and fraternity houses from turning into virus clusters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Amy Harmon, Frances Robles, Alan
+    Blinder <span>and</span> Thomas
+    Fuller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/11/us/virus-young-deaths.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/us/00virus-youngdeaths-castro/00virus-youngdeaths-castro-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Virus Is Killing Young Floridians. Race Is a Big Factor.
+    
+    The number of younger adults in the state who died of the disease
+    quadrupled last month, as rising numbers of them tested positive.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frances Robles, Robert Gebeloff,
+    Danielle Ivory <span>and</span> Kimiko de
+    Freytas-Tamura</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/us/coronavirus-masks-enforcement-key-west.html)
     
     <div class="css-79elbk">
@@ -198,7 +303,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -233,7 +338,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -243,7 +348,7 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/travel/16-cruise-ban/16-cruise-ban-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/travel/16-cruise-ban/16-cruise-ban-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -268,7 +373,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -303,7 +408,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -338,7 +443,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -375,7 +480,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -397,139 +502,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Frances
-    Robles</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/06/17/espanol/america-latina/presidente-honduras-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/world/17Honduras-ES-01/17virus-honduras-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Centroamérica</span>
-    
-    ## El presidente de Honduras es hospitalizado debido al coronavirus
-    
-    Juan Orlando Hernández, quien dijo que también su esposa y dos
-    colaboradores se infectaron, es ahora parte de un reducido grupo de
-    líderes mundiales que contrajeron un virus que ha alcanzado los
-    pasillos del poder en el mundo.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Frances Robles <span>and</span> Kirk
-    Semple</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/06/17/world/americas/honduras-president-coronavirus.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/17/world/americas/honduras-president-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/world/17virus-honduras-1/17virus-honduras-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## President of Honduras Hospitalized for Coronavirus
-    
-    Juan Orlando Hernández, who said his wife and two aides were also
-    infected, joined a small crop of world leaders who have caught the
-    virus that has reached into halls of power around the globe.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Frances Robles <span>and</span> Kirk
-    Semple</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/06/17/espanol/america-latina/presidente-honduras-coronavirus.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/06/02/espanol/america-latina/nicaragua-coronavirus-muertes.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/27/world/01NICARAGUA-01/27virus-nicaragua-new2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Centroamérica</span>
-    
-    ## Nicaragua se resiste a la cuarentena y empiezan a hacerse entierros a medianoche
-    
-    El país ha rechazado las estrictas medidas introducidas a nivel
-    mundial para frenar la propagación del coronavirus. Las familias
-    dicen que están pagando el precio.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Alfonso Flores Bermúdez
-    <span>and</span> Frances Robles</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/05/31/world/americas/coronavirus-nicaragua-burials.html "Read in English")
+    By <span class="css-1n7hynb">Frances Robles</span>
     
     </div>
     

@@ -169,6 +169,39 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/interactive/2020/08/20/us/california-wildfire-maps.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/california-wildfire-maps-1597953721571/california-wildfire-maps-1597953721571-thumbWide-v2.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## California Fires Map Tracker
+    
+    Maps showing the extents of the major fires in Northern California.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matthew
+    Bloch</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/07/31/us/hurricane-isaias-tracker-map.html)
     
     <div class="css-79elbk">
@@ -196,7 +229,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -230,7 +263,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -262,7 +295,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -294,7 +327,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -326,7 +359,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -358,7 +391,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -390,7 +423,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -422,7 +455,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -443,42 +476,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matthew
-    Bloch</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/05/16/nyregion/nyc-coronavirus-moving-leaving.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/16/us/nyc-coronavirus-moving-leaving-promo-1589664602545/nyc-coronavirus-moving-leaving-promo-1589664602545-thumbWide-v4.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Where New Yorkers Moved to Escape Coronavirus
-    
-    As some of New York's wealthiest neighborhoods emptied out,
-    mail-forwarding requests show us where they went.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Azi Paybarah, Matthew Bloch
-    <span>and</span> Scott Reinhard</span>
+    By <span class="css-1n7hynb">Matthew Bloch</span>
     
     </div>
     

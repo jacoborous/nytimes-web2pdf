@@ -119,35 +119,21 @@ Count</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-mij9hh">
+<div class="css-mij9hh">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1xxkt5x">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad994500-e385-11ea-9791-4976ace6e451)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad994501-e385-11ea-9791-4976ace6e451)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad994502-e385-11ea-9791-4976ace6e451)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad996c10-e385-11ea-9791-4976ace6e451)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad996c11-e385-11ea-9791-4976ace6e451)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=ad996c12-e385-11ea-9791-4976ace6e451)</span>
 
 </div>
 
@@ -187,7 +173,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 4, 2020, 2:10 P.M.
+Times</span>Updated August 21, 2020, 12:02 A.M.
 E.T.
 
 </div>
@@ -223,33 +209,33 @@ E.T.
 
 <div class="g-svelte" data-component="1">
 
-<div class="breadcrumbs false svelte-u8xm87" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
+<div class="breadcrumbs false svelte-1m5f6tq" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
 
 <div class="breadcrumbs__buttons--wrap">
 
-[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-u8xm87"> 
+[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 COUNTRIES
 
-<span class="svelte-u8xm87">| </span>
-[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq">| </span>
+[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 STATES
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
 
 </div>
 
-<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-u8xm87">
+<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-1m5f6tq">
 
 [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)[Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)[France](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/france-coronavirus-cases.html)[Germany](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/germany-coronavirus-cases.html)[India](https://www.nytimes3xbfgragh.onion/interactive/2020/world/asia/india-coronavirus-cases.html)[Italy](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/italy-coronavirus-cases.html)[Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/mexico-coronavirus-cases.html)[Spain](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/spain-coronavirus-cases.html)[U.K.](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 </div>
 
-<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-u8xm87">
+<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-1m5f6tq">
 
 [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)[Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)[Arizona](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arizona-coronavirus-cases.html)[Arkansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arkansas-coronavirus-cases.html)[California](https://www.nytimes3xbfgragh.onion/interactive/2020/us/california-coronavirus-cases.html)[Colorado](https://www.nytimes3xbfgragh.onion/interactive/2020/us/colorado-coronavirus-cases.html)[Connecticut](https://www.nytimes3xbfgragh.onion/interactive/2020/us/connecticut-coronavirus-cases.html)[Delaware](https://www.nytimes3xbfgragh.onion/interactive/2020/us/delaware-coronavirus-cases.html)[Florida](https://www.nytimes3xbfgragh.onion/interactive/2020/us/florida-coronavirus-cases.html)[Georgia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/georgia-coronavirus-cases.html)[Hawaii](https://www.nytimes3xbfgragh.onion/interactive/2020/us/hawaii-coronavirus-cases.html)[Idaho](https://www.nytimes3xbfgragh.onion/interactive/2020/us/idaho-coronavirus-cases.html)[Illinois](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)[Indiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/indiana-coronavirus-cases.html)[Iowa](https://www.nytimes3xbfgragh.onion/interactive/2020/us/iowa-coronavirus-cases.html)[Kansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kansas-coronavirus-cases.html)[Kentucky](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kentucky-coronavirus-cases.html)[Louisiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/louisiana-coronavirus-cases.html)[Maine](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maine-coronavirus-cases.html)[Maryland](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maryland-coronavirus-cases.html)[Massachusetts](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)[Michigan](https://www.nytimes3xbfgragh.onion/interactive/2020/us/michigan-coronavirus-cases.html)[Minnesota](https://www.nytimes3xbfgragh.onion/interactive/2020/us/minnesota-coronavirus-cases.html)[Mississippi](https://www.nytimes3xbfgragh.onion/interactive/2020/us/mississippi-coronavirus-cases.html)[Missouri](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)[Montana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/montana-coronavirus-cases.html)[Nebraska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)[Nevada](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nevada-coronavirus-cases.html)[New
 Hampshire](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-hampshire-coronavirus-cases.html)[New
@@ -267,7 +253,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq"> 
 </span>
 
 </div>
@@ -301,7 +287,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 38.080495356037154%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 37.96526054590571%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -320,44 +306,52 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 54.807692307692314%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 91.61849710982659%; top: -3.000000000000014%">
+
+<span class="annotation left svelte-cf0pcx mini" style="width: 7.1em">Cases
+from previous two
+days</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 49.42196531791908%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.794871794871796%; top: 85.23662096417515%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.653179190751448%; top: 85.20914569301667%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -369,6 +363,9 @@ average</span>
 </div>
 
 </div>
+
+<span class="anomaly-key g-credit svelte-1iuahvx">Day with data
+reporting anomaly</span>
 
 </div>
 
@@ -390,7 +387,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-94,251
+109,882
 
 </div>
 
@@ -406,7 +403,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-2,244
+2,427
 
 </div>
 
@@ -441,24 +438,25 @@ available
 
 [Map](#map)[By county](#county)[New cases](#cases)[Tips](#tips)[Latest
 news
-»](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid-19.html)
 
 </div>
 
 </div>
 
-At least 1,324 new cases were reported in Virginia on Aug. 3. Over the
-past week, there have been an average of 1,005 cases per day, an
-increase of 4 percent from the average two weeks earlier.
+At least 17 new coronavirus deaths and 863 new cases were reported in
+Virginia on Aug. 20. Over the past week, there have been an average of
+894 cases per day, a decrease of 12 percent from the average two weeks
+earlier.
 
-As of Tuesday afternoon, there have been at least 94,251 cases and 2,244
+As of Friday morning, there have been at least 109,882 cases and 2,427
 deaths in Virginia since the beginning of the pandemic, according to a
 New York Times
 database.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map g-asset-width-bleed" style="">
 
-<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;states&quot;,&quot;data_regions&quot;:&quot;nytgraphics.4lmuna8o&quot;,&quot;data_regions_clipped&quot;:&quot;nytgraphics.3w43kva4&quot;,&quot;base_regions&quot;:&quot;nytgraphics.bq75aeje&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.1vsxxapq&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;nytgraphics.08j0yr4w&quot;,&quot;base_urban&quot;:&quot;nytgraphics.1ihx7l51&quot;,&quot;circles&quot;:&quot;nytgraphics.9qhw0hoy&quot;,&quot;city_labels&quot;:&quot;nytgraphics.3zpaiwln&quot;,&quot;base_labels&quot;:&quot;nytgraphics.3iuw1n6d&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;x&quot;}" data-page="{&quot;slug&quot;:&quot;virginia&quot;,&quot;tileset&quot;:&quot;states&quot;,&quot;data&quot;:&quot;USA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;[\n    [-83.67539499999998, 36.7249397272152],\n    [-75.242266, 39.65489220771785]\n  ]&quot;,&quot;show_data_labels&quot;:&quot;&quot;,&quot;base_layer_mask&quot;:&quot;USA-51&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;hotspots&quot;,&quot;cases&quot;,&quot;deaths&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="hotspots">
+<div class="e-slip-map-wrap" data-tiles="{&quot;tileset_id&quot;:&quot;states&quot;,&quot;data_regions&quot;:&quot;nytgraphics.18reg779&quot;,&quot;data_regions_clipped&quot;:&quot;nytgraphics.a5pimcx1&quot;,&quot;base_regions&quot;:&quot;nytgraphics.bq75aeje&quot;,&quot;base_regions_lines&quot;:&quot;nytgraphics.1vsxxapq&quot;,&quot;base_regions_lines_thick&quot;:&quot;&quot;,&quot;base_roads&quot;:&quot;nytgraphics.08j0yr4w&quot;,&quot;base_urban&quot;:&quot;nytgraphics.1ihx7l51&quot;,&quot;circles&quot;:&quot;nytgraphics.9qhw0hoy&quot;,&quot;city_labels&quot;:&quot;nytgraphics.3zpaiwln&quot;,&quot;base_labels&quot;:&quot;nytgraphics.3iuw1n6d&quot;,&quot;labels_points&quot;:&quot;&quot;,&quot;data_regions_points&quot;:&quot;x&quot;,&quot;city_labels_points&quot;:&quot;x&quot;}" data-page="{&quot;slug&quot;:&quot;virginia&quot;,&quot;tileset&quot;:&quot;states&quot;,&quot;data&quot;:&quot;USA&quot;,&quot;data_levels&quot;:&quot;county,state&quot;,&quot;radius_depth&quot;:&quot;&quot;,&quot;ignore_geoids&quot;:&quot;&quot;,&quot;bounds&quot;:&quot;[\n    [-83.67539499999998, 36.7249397272152],\n    [-75.242266, 39.65489220771785]\n  ]&quot;,&quot;show_data_labels&quot;:&quot;&quot;,&quot;base_layer_mask&quot;:&quot;USA-51&quot;,&quot;max_hierarchy_depth&quot;:&quot;&quot;,&quot;ignore_geoids_choro&quot;:&quot;&quot;,&quot;max_radius_desktop&quot;:&quot;&quot;,&quot;max_radius_mobile&quot;:&quot;&quot;,&quot;min_choro_cases&quot;:&quot;&quot;,&quot;hide_tooltip_deaths&quot;:&quot;&quot;,&quot;aspect_ratio&quot;:&quot;&quot;,&quot;percap_breaks&quot;:&quot;&quot;,&quot;cases_button_text&quot;:&quot;&quot;,&quot;hide_tabs&quot;:&quot;&quot;,&quot;alt_label_style&quot;:&quot;&quot;,&quot;hide_data_lines&quot;:&quot;&quot;,&quot;data_borders_stop&quot;:&quot;&quot;}" data-mapviews="[&quot;hotspots&quot;,&quot;cases&quot;,&quot;deaths&quot;,&quot;percap&quot;]" data-tooltips="{}" data-currentview="hotspots">
 
 <div class="e-slip-map-ui">
 
@@ -811,11 +809,11 @@ emerged.
 
 <div class="g-svelte" data-component="5">
 
-<div class="table-controls svelte-1c7zbrd multi-toggles">
+<div class="table-controls svelte-151tvja multi-toggles">
 
-<div class="multi-toggle-buttons-container svelte-1c7zbrd">
+<div class="multi-toggle-buttons-container svelte-151tvja">
 
-<div class="layer-toggles-grid svelte-1c7zbrd">
+<div class="layer-toggles-grid svelte-151tvja">
 
 Cases
 
@@ -858,199 +856,174 @@ in last<br />
 7 days</th>
 <th>Per 100,000</th>
 <th>Weekly cases per capita
-<div class="legend-parent svelte-1x4ysxw">
-<div class="table-legend table-legend-hotspots svelte-1x4ysxw">
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #f2df91;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ffae43;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ff6e0b;"></span>
-</div>
-<div class="legend-item svelte-1x4ysxw">
-<span class="block svelte-1x4ysxw" style="background-color: #ce0a05;"></span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 2;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-desktop legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-left svelte-1x4ysxw" style="grid-column-start: 1; grid-column-end: 3;">
-<span>Fewer</span>
-</div>
-<div class="legend-label legend-label-mobile legend-label-right svelte-1x4ysxw" style="grid-column-start: 4; grid-column-end: 5;">
-<span>More</span>
-</div>
-</div>
+<div class="legend svelte-1b175ns">
+<span class="block svelte-1b175ns" style="background-color: #f2df91;"></span> <span class="block svelte-1b175ns" style="background-color: #ffae43;"></span> <span class="block svelte-1b175ns" style="background-color: #ff6e0b;"></span> <span class="block svelte-1b175ns" style="background-color: #ce0a05;"></span> <span class="falling svelte-1b175ns">Fewer</span> <span class="rising svelte-1b175ns">More</span>
 </div></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><span>Virginia </span></td>
-<td><span>94,251 </span></td>
-<td><span>1,104 </span></td>
-<td><span>2,244 </span></td>
-<td><span>26 </span></td>
-<td><span>7,034 </span></td>
-<td><span>82 </span></td>
-<td><span>136 </span></td>
-<td><span>2 </span></td>
+<td><span>109,882 </span></td>
+<td><span>1,287 </span></td>
+<td><span>2,427 </span></td>
+<td><span>28 </span></td>
+<td><span>6,260 </span></td>
+<td><span>73 </span></td>
+<td><span>64 </span></td>
+<td><span>&lt;1 </span></td>
 <td><div class="chart svelte-ig1tx7">
 <div class="chart-container svelte-ig1tx7">
 <div class="pancake-chart svelte-1gzh5rp">
 <div class="pancake-point svelte-11ba04d" style="left: 0%; top: 100%">
-<span class="first x-label svelte-ig1tx7">Mar. 1</span>
+<span class="first x-label svelte-ig1tx7">March 1</span>
 </div>
 <div class="pancake-point svelte-11ba04d" style="left: 100%; top: 100%">
-<span class="last x-label svelte-ig1tx7">Aug. 3</span>
+<span class="last x-label svelte-ig1tx7">Aug. 20</span>
 </div>
 </div>
 </div>
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/virginia.svg" alt="Virginia heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/virginia.svg" alt="Virginia heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Franklin City </span></td>
-<td><span>152 </span></td>
-<td><span>1,908 </span></td>
-<td><span>6 </span></td>
-<td><span>75 </span></td>
-<td><span>39 </span></td>
-<td><span>490 </span></td>
-<td><span>2 </span></td>
-<td><span>25 </span></td>
+<td><span>Galax </span></td>
+<td><span>388 </span></td>
+<td><span>6,113 </span></td>
+<td><span>26 </span></td>
+<td><span>410 </span></td>
+<td><span>36 </span></td>
+<td><span>567 </span></td>
+<td><span>1 </span></td>
+<td><span>16 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/franklin_city.svg" alt="Franklin City heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/galax.svg" alt="Galax heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Prince Edward </span></td>
-<td><span>358 </span></td>
-<td><span>1,570 </span></td>
-<td><span>10 </span></td>
-<td><span>44 </span></td>
-<td><span>98 </span></td>
-<td><span>430 </span></td>
-<td><span>4 </span></td>
-<td><span>18 </span></td>
+<td><span>Emporia </span></td>
+<td><span>204 </span></td>
+<td><span>3,816 </span></td>
+<td><span>15 </span></td>
+<td><span>281 </span></td>
+<td><span>22 </span></td>
+<td><span>412 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/prince_edward.svg" alt="Prince Edward heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/emporia.svg" alt="Emporia heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
 <td><span>Greensville </span></td>
-<td><span>438 </span></td>
-<td><span>3,864 </span></td>
-<td><span>10 </span></td>
-<td><span>88 </span></td>
-<td><span>31 </span></td>
-<td><span>273 </span></td>
-<td><span>1 </span></td>
-<td><span>9 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/greensville.svg" alt="Greensville heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Portsmouth </span></td>
-<td><span>1,631 </span></td>
-<td><span>1,728 </span></td>
-<td><span>24 </span></td>
-<td><span>25 </span></td>
-<td><span>249 </span></td>
-<td><span>264 </span></td>
-<td><span>3 </span></td>
-<td><span>3 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/portsmouth.svg" alt="Portsmouth heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Norfolk </span></td>
-<td><span>3,425 </span></td>
-<td><span>1,411 </span></td>
-<td><span>26 </span></td>
+<td><span>578 </span></td>
+<td><span>5,099 </span></td>
 <td><span>11 </span></td>
-<td><span>566 </span></td>
-<td><span>233 </span></td>
-<td><span>6 </span></td>
-<td><span>2 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/norfolk.svg" alt="Norfolk heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="odd">
-<td><span>Petersburg </span></td>
-<td><span>478 </span></td>
-<td><span>1,525 </span></td>
-<td><span>16 </span></td>
-<td><span>51 </span></td>
-<td><span>69 </span></td>
-<td><span>220 </span></td>
-<td><span>4 </span></td>
-<td><span>13 </span></td>
-<td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/petersburg.svg" alt="Petersburg heatmap" class="svelte-ig1tx7" />
-</div></td>
-</tr>
-<tr class="even">
-<td><span>Brunswick </span></td>
-<td><span>212 </span></td>
-<td><span>1,306 </span></td>
-<td><span>2 </span></td>
-<td><span>12 </span></td>
-<td><span>33 </span></td>
-<td><span>203 </span></td>
+<td><span>97 </span></td>
+<td><span>43 </span></td>
+<td><span>379 </span></td>
 <td><span>— </span></td>
 <td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/brunswick.svg" alt="Brunswick heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/greensville.svg" alt="Greensville heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Galax </span></td>
-<td><span>341 </span></td>
-<td><span>5,373 </span></td>
+<td><span>Martinsville </span></td>
+<td><span>265 </span></td>
+<td><span>2,111 </span></td>
+<td><span>3 </span></td>
 <td><span>24 </span></td>
-<td><span>378 </span></td>
-<td><span>12 </span></td>
-<td><span>189 </span></td>
-<td><span>6 </span></td>
-<td><span>95 </span></td>
+<td><span>36 </span></td>
+<td><span>287 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/galax.svg" alt="Galax heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/martinsville.svg" alt="Martinsville heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="even">
-<td><span>Danville </span></td>
-<td><span>347 </span></td>
-<td><span>867 </span></td>
-<td><span>7 </span></td>
-<td><span>17 </span></td>
+<td><span>Franklin City </span></td>
+<td><span>222 </span></td>
+<td><span>2,786 </span></td>
+<td><span>6 </span></td>
 <td><span>75 </span></td>
-<td><span>187 </span></td>
-<td><span>4 </span></td>
-<td><span>10 </span></td>
+<td><span>21 </span></td>
+<td><span>264 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/danville.svg" alt="Danville heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/franklin_city.svg" alt="Franklin City heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 <tr class="odd">
-<td><span>Suffolk </span></td>
-<td><span>1,141 </span></td>
-<td><span>1,239 </span></td>
-<td><span>49 </span></td>
-<td><span>53 </span></td>
-<td><span>164 </span></td>
-<td><span>178 </span></td>
-<td><span>4 </span></td>
-<td><span>4 </span></td>
+<td><span>Danville </span></td>
+<td><span>506 </span></td>
+<td><span>1,264 </span></td>
+<td><span>9 </span></td>
+<td><span>22 </span></td>
+<td><span>76 </span></td>
+<td><span>190 </span></td>
+<td><span>1 </span></td>
+<td><span>2 </span></td>
 <td><div class="chart svelte-ig1tx7">
-<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/b0d73d23a7cc6fac169d2f3bc174cccb1e3b3ad7/build/heatmaps/nyt_world/usa/usa_51/suffolk.svg" alt="Suffolk heatmap" class="svelte-ig1tx7" />
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/danville.svg" alt="Danville heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Southampton </span></td>
+<td><span>311 </span></td>
+<td><span>1,764 </span></td>
+<td><span>13 </span></td>
+<td><span>74 </span></td>
+<td><span>33 </span></td>
+<td><span>187 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/southampton.svg" alt="Southampton heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Wise </span></td>
+<td><span>269 </span></td>
+<td><span>720 </span></td>
+<td><span>5 </span></td>
+<td><span>13 </span></td>
+<td><span>68 </span></td>
+<td><span>182 </span></td>
+<td><span>1 </span></td>
+<td><span>3 </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/wise.svg" alt="Wise heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="even">
+<td><span>Appomattox </span></td>
+<td><span>121 </span></td>
+<td><span>760 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>28 </span></td>
+<td><span>176 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/appomattox.svg" alt="Appomattox heatmap" class="svelte-ig1tx7" />
+</div></td>
+</tr>
+<tr class="odd">
+<td><span>Bland </span></td>
+<td><span>38 </span></td>
+<td><span>605 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><span>11 </span></td>
+<td><span>175 </span></td>
+<td><span>— </span></td>
+<td><span>— </span></td>
+<td><div class="chart svelte-ig1tx7">
+<img src="https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/build/heatmaps/nyt_world/usa/usa_51/bland.svg" alt="Bland heatmap" class="svelte-ig1tx7" />
 </div></td>
 </tr>
 </tbody>
@@ -1109,7 +1082,7 @@ information our journalists are gathering from around the country.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 69.04024767801857%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 68.98263027295286%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -1120,7 +1093,7 @@ information our journalists are gathering from around the country.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 38.080495356037154%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 37.96526054590571%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -1131,7 +1104,7 @@ information our journalists are gathering from around the country.
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 7.120743034055721%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 6.9478908188585535%">
 
 <div class="grid-line horizontal svelte-bw547y">
 
@@ -1150,44 +1123,52 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 54.807692307692314%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 91.61849710982659%; top: -3.000000000000014%">
+
+<span class="annotation left svelte-cf0pcx" style="width: 7.1em">Cases
+from previous two
+days</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 49.42196531791908%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.794871794871796%; top: 85.23662096417515%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.653179190751448%; top: 85.20914569301667%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1196,9 +1177,14 @@ average</span>
 
 </div>
 
+<span class="break svelte-1iuahvx" style="left: 91.90751445086705%; top: 0%; width: 0.58%"></span>
+
 </div>
 
 </div>
+
+<span class="anomaly-key g-credit svelte-1iuahvx">These are days with a
+data reporting anomaly. Read more [here](#anomaly-notes).</span>
 
 </div>
 
@@ -1267,44 +1253,44 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 19.871794871794872%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 39.10256410256411%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 58.97435897435898%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 78.20512820512822%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 98.07692307692308%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 56.08974358974359%; top: 0%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.578034682080926%; top: 0%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 21.794871794871796%; top: 87.13450292397661%">
+<div class="pancake-point svelte-11ba04d" style="left: 19.653179190751448%; top: 87.13450292397661%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1332,7 +1318,7 @@ cases chart to display trend.</span>
 </div>
 
 The New York Times has found that official [tallies in the United
-States](https://www.nytimes3xbfgragh.onion/interactive/2020/04/28/us/coronavirus-death-toll-total.html)
+States](https://www.nytimes3xbfgragh.onion/interactive/2020/08/12/us/covid-deaths-us.html)
 and [in more than a dozen other
 countries](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
 have undercounted deaths during the coronavirus outbreak because of
@@ -1346,6 +1332,24 @@ availability.
 <div class="g-asset g-svelte g-anomaly-notes g-asset-width-full" style="">
 
 <div class="g-svelte" data-component="9">
+
+<div id="anomaly-notes" class="g-anomaly-notes svelte-bczh6j">
+
+The Times has identified the following reporting anomalies or
+methodology changes in the data:
+
+<div class="g-container g-list-circle">
+
+<span class="g-anomaly-notes__date svelte-bczh6j">May 6: </span> The
+state was unable to release updates because of a technical issue.
+
+<span class="g-anomaly-notes__date svelte-bczh6j">Aug. 7: </span> The
+state released backlogged cases from the previous two days after
+resolving a technical issue.
+
+</div>
+
+</div>
 
 </div>
 
@@ -1387,24 +1391,207 @@ GitHub](https://github.com/nytimes/covid-19-data).
 
 <div class="g-svelte" data-component="11">
 
-<div class="nav-wrap svelte-idrnru">
+<div class="nav-wrap svelte-15xraff">
 
-  - [World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
-  - [World
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
-  - [U.S.
-    Cities](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
-  - [U.S.
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
-  - [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
-  - [Nursing
-    homes](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
-  - [New York
-    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
-  - [Reopening](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
-  - [Vaccines](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+### United States
 
-Countries
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/orphan_usa-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+county
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/deaths-us.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus in the
+U.S.
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Cities and Metro
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/metros.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Cities and Metro Areas
+
+Where it is getting better and
+worse
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/testing.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Testing
+
+Is your state doing
+enough?
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Nursing
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/nursing-homes.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Nursing Homes
+
+The hardest-hit states and
+facilities
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Reopening](https://static01.graylady3jvrrxbe.onion/images/2020/04/24/us/states-reopen-map-coronavirus-promo-1587778728210/states-reopen-map-coronavirus-promo-1587778728210-threeByTwoSmallAt2X-v96.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Reopening
+
+Which states are open and
+closed
+
+</div>
+
+</div>
+
+</div>
+
+### World
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/orphan_world-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+country
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/deaths-world.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus around the
+world
+
+</div>
+
+</div>
+
+</div>
+
+### Health
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/vaccines.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Vaccines
+
+Track their
+development
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-drugs-treatments.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/treatments.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Treatments
+
+Rated by effectiveness and
+    safety
+
+</div>
+
+</div>
+
+</div>
+
+### Countries
 
   - [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)
   - [Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)
@@ -1418,8 +1605,7 @@ Countries
   - [United
     States](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+### States, Territories and Cities
 
   - [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -1457,6 +1643,8 @@ State by
     Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-mexico-coronavirus-cases.html)
   - [New
     York](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-york-coronavirus-cases.html)
+  - [New York
+    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
   - [North
     Carolina](https://www.nytimes3xbfgragh.onion/interactive/2020/us/north-carolina-coronavirus-cases.html)
   - [North
@@ -1494,7 +1682,7 @@ State by
 
 <div class="g-ad">
 
-<div id="mid127" class="place-ad" data-position="mid127" data-size-key="default">
+<div id="mid69" class="place-ad" data-position="mid69" data-size-key="default">
 
 </div>
 
@@ -1508,7 +1696,9 @@ It seems that there are [four factors that most likely play a
 role](https://www.nytimes3xbfgragh.onion/article/coronavirus-how-it-spreads.html):
 how close you get to an infected person; how long you are near that
 person; whether that person expels viral droplets on or near you; and
-how much you touch your face afterwards.
+how much you touch your face afterwards. [Here is a guide to the
+symptoms of
+Covid-19.](https://www.nytimes3xbfgragh.onion/interactive/2020/08/05/well/covid-19-symptoms.html)
 
 You can help reduce your risk and do your part to protect others by
 following some [basic
@@ -1581,7 +1771,7 @@ Lemonides, [Allison
 McCann](https://www.nytimes3xbfgragh.onion/by/allison-mccann), [Richard
 A. Oppel Jr.](https://www.nytimes3xbfgragh.onion/by/richard-a-oppel-jr),
 [Jugal K. Patel](https://www.nytimes3xbfgragh.onion/by/jugal-k-patel),
-Julie Walton Shaver, [Anjali
+Kirk Semple, Julie Walton Shaver, [Anjali
 Singhvi](https://www.nytimes3xbfgragh.onion/by/anjali-singhvi), Charlie
 Smart, [Mitch Smith](https://www.nytimes3xbfgragh.onion/by/mitch-smith),
 [Derek Watkins](https://www.nytimes3xbfgragh.onion/by/derek-watkins),
@@ -1595,25 +1785,26 @@ Baker](https://www.nytimes3xbfgragh.onion/by/mike-baker), [Ellen
 Barry](https://www.nytimes3xbfgragh.onion/by/ellen-barry), Samone Blair,
 Nicholas Bogel-Burroughs, Aurelien Breeden, Elisha Brown, Emma Bubola,
 Maddie Burakoff, Alyssa Burr, Christopher Calabrese, Sarah Cahalan, Zak
-Cassel, Robert Chiarito, Matt Craig, Yves De Jesus, Brendon Derr,
-Brandon Dupré, Melissa Eddy, John Eligon, Timmy Facciola, Bianca Fortis,
-Matt Furber, Robert Gebeloff, [Matthew
+Cassel, Robert Chiarito, Izzy Colón, Matt Craig, Yves De Jesus, Brendon
+Derr, Brandon Dupré, Melissa Eddy, John Eligon, Timmy Facciola, Bianca
+Fortis, Matt Furber, Robert Gebeloff, [Matthew
 Goldstein](https://www.nytimes3xbfgragh.onion/by/matthew-goldstein),
-Grace Gorenflo, Rebecca Griesbach, Lauryn Higgins, Josh Holder, Jake
-Holland, Jon Huang, Anna Joyce, Ann Hinga Klein, Jacob LaGesse, Alex
-Lim, Patricia Mazzei, Jesse McKinley, Miles McKinley, K.B. Mensah, Sarah
-Mervosh, Jacob Meschke, Lauren Messman, Andrea Michelson, Jaylynn
-Moffat-Mowatt, Steven Moity, Paul Moon, Thomas Gibbons-Neff, Anahad
-O'Connor, Ashlyn O’Hara, Azi Paybarah, Elian Peltier, Sean Plambeck,
-Elisabetta Povoledo, Cierra S. Queen, Savannah Redl, Scott Reinhard,
-Thomas Rivas, Frances Robles, Natasha Rodriguez, Alison Saldanha, [Kai
+Grace Gorenflo, Rebecca Griesbach, Benjamin Guggenheim, Lauryn Higgins,
+Josh Holder, Jake Holland, Jon Huang, Anna Joyce, Ann Hinga Klein, Jacob
+LaGesse, Alex Lim, Patricia Mazzei, Jesse McKinley, Miles McKinley, K.B.
+Mensah, Sarah Mervosh, Jacob Meschke, Lauren Messman, Andrea Michelson,
+Jaylynn Moffat-Mowatt, Steven Moity, Paul Moon, Thomas Gibbons-Neff,
+Anahad O'Connor, Ashlyn O’Hara, Azi Paybarah, Elian Peltier, Sean
+Plambeck, Elisabetta Povoledo, Cierra S. Queen, Savannah Redl, Scott
+Reinhard, Thomas Rivas, Frances Robles, Natasha Rodriguez, Alison
+Saldanha, [Kai
 Schultz](https://www.nytimes3xbfgragh.onion/by/kai-schultz), Alex
 Schwartz, Emily Schwing, Libby Seline, Sarena Snider, Brandon Thorp,
 Alex Traub, Maura Turcotte, Tracey Tully, Lisa Waananen Jones, Amy
-Schoenfeld Walker, Jeremy White and [Sameer
-Yasir](https://www.nytimes3xbfgragh.onion/by/sameer-yasir).   ·   Data
-acquisition and additional work contributed by Will Houp, Andrew Chavez,
-Michael Strickland, Tiff Fehr, Miles Watkins, [Josh
+Schoenfeld Walker, Jeremy White, Kristine White, [Sameer
+Yasir](https://www.nytimes3xbfgragh.onion/by/sameer-yasir) and John
+Yoon.   ·   Data acquisition and additional work contributed by Will
+Houp, Andrew Chavez, Michael Strickland, Tiff Fehr, Miles Watkins, [Josh
 Williams](https://www.nytimes3xbfgragh.onion/by/josh-williams), Albert
 Sun, Shelly Seroussi, Nina Pavlich, Carmen Cincotti, Ben Smithgall,
 Andrew Fischer, [Rachel

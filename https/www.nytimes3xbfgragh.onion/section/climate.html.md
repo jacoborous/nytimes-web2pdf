@@ -55,7 +55,8 @@ Environment](https://www.nytimes3xbfgragh.onion/section/climate)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -68,6 +69,24 @@ Environment](https://www.nytimes3xbfgragh.onion/section/climate)
 <div data-aria-hidden="false">
 
 <div id="site-content" data-role="main">
+
+<div class="css-1ffjgkm">
+
+<div class="css-l9svim">
+
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Climate and</span><span class="css-1rxm0ex"> Environment</span></span>](https://www.nytimes3xbfgragh.onion/section/climate?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=9936cae0-e382-11ea-9ddb-8b30e8177d24)
+
+  - <span class="css-ousu42">[Arctic
+    Refuge](https://www.nytimes3xbfgragh.onion/2020/08/17/climate/alaska-oil-drilling-anwr.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=9936cae1-e382-11ea-9ddb-8b30e8177d24)</span>
+  - <span class="css-ousu42">[Trump’s
+    Changes](https://www.nytimes3xbfgragh.onion/interactive/2020/climate/trump-environment-rollbacks.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=9936cae2-e382-11ea-9ddb-8b30e8177d24)</span>
+  - <span class="css-ousu42">[Climate 101](https://www.nytimes3xbfgragh.onion/interactive/2020/04/19/climate/climate-crash-course-1.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=9936f1f0-e382-11ea-9ddb-8b30e8177d24)</span>
+  - <span class="css-ousu42">[Is Your Hometown
+    Hotter?](https://www.nytimes3xbfgragh.onion/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=9936f1f1-e382-11ea-9ddb-8b30e8177d24)</span>
+
+</div>
+
+</div>
 
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
@@ -155,105 +174,104 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ringo
-    H.W. Chiu/Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erin
+    Schaff/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/climate/18CLI-CLIMATEDONORS1/18CLI-CLIMATEDONORS1-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-DISASTERS1/04CLI-DISASTERS1-thumbStandard.jpg)](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/climate/18CLI-CLIMATEDONORS1/18CLI-CLIMATEDONORS1-thumbStandard.jpg)](/2020/08/18/climate/climate-change-biden.html)
     
     </div>
     
-    ## [Hurricane, Fire, Covid-19: Disasters Expose the Hard Reality of Climate Change](/2020/08/04/climate/hurricane-isaias-apple-fire-climate.html)
+    ## [‘Climate Donors’ Flock to Biden to Counter Trump’s Fossil Fuel Money](/2020/08/18/climate/climate-change-biden.html)
     
-    Twin emergencies on two coasts this week — Hurricane Isaias and the
-    Apple Fire — offer a preview of life in a warming world and the
-    steady danger of overlapping
-    disasters.
+    Once nonexistent, campaign cash earmarked as "climate donations" is
+    flowing to Joe Biden as a small but growing counterweight to the
+    monied muscle of fossil
+    fuels.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Christopher
-    Flavelle</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Henry
-    Fountain</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Lisa
+    Friedman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>John
-    Sirlin/Alamy</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-TORNADOES/04CLI-TORNADOES-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christopher
+    Miller for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2019/10/20/science/00cli-anwr-1/merlin_160070262_b3e34514-a4ed-41d4-bdb8-e345b86ce106-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/climate/04CLI-TORNADOES/04CLI-TORNADOES-thumbStandard.jpg)](/2020/08/04/climate/hurricanes-tornadoes.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2019/10/20/science/00cli-anwr-1/00cli-anwr-1-thumbStandard.jpg)](/2020/08/17/climate/alaska-oil-drilling-anwr.html)
     
     </div>
     
-    ## [Why Hurricanes Bring Tornadoes After They Make Landfall](/2020/08/04/climate/hurricanes-tornadoes.html)
+    ## [Trump Administration Finalizes Plan to Open Arctic Refuge to Drilling](/2020/08/17/climate/alaska-oil-drilling-anwr.html)
     
-    Tornadoes start in the outer edges of hurricanes. Once a storm is
-    over land, the increase in surface friction can lead to
-    twisters.
+    The decision sets up a fierce legal battle over the fate of a vast,
+    remote area that is home to polar bears, caribou and the promise of
+    oil
+    wealth.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz" itemprop="name">Brad Plumer</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Henry
     Fountain</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Patrick
+        T.
+        Fallon/Bloomberg</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/climate/17CLI-CARS/17CLI-CARS-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Inequity at the boiling point
-        
-        ## [A Quarter of Bangladesh Is Flooded. Millions Have Lost Everything.](/2020/07/30/climate/bangladesh-floods.html)
+        ## [Defying Trump, 5 Automakers Lock In a Deal on Greenhouse Gas Pollution](/2020/08/17/climate/california-automakers-pollution.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/climate/30CLI-BANGLADESH1/30CLI-BANGLADESH1-thumbStandard.jpg)](/2020/07/30/climate/bangladesh-floods.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/climate/17CLI-CARS/17CLI-CARS-thumbStandard.jpg)](/2020/08/17/climate/california-automakers-pollution.html)
         
         </div>
         
-        The country’s latest calamity illustrates a striking inequity of
-        our time: The people least responsible for climate change are
-        among those most hurt by its
-        consequences.
+        The five — Ford, Honda, BMW, Volkswagen and Volvo — sealed a
+        binding agreement with California to follow the state’s stricter
+        tailpipe emissions
+        rules.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Somini Sengupta</span>
-        and
-        <span class="css-1baulvz last-byline" itemprop="name">Julfikar
-        Ali
-        Manik</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Coral
+        Davenport</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Munir
-        Uz Zaman/Agence France-Presse \&mdash; Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jessica
+        Lutz for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/climate/13CLI-METHANE1/13CLI-METHANE1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Rising Seas Could Menace Millions Beyond Shorelines, Study Finds](/2020/07/30/climate/sea-level-inland-floods.html)
+        ## [Trump Eliminates Major Methane Rule, Even as Leaks Are Worsening](/2020/08/13/climate/trump-methane.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/climate/30CLI-FLOODS3-print/30CLI-FLOOD1-thumbStandard.jpg)](/2020/07/30/climate/sea-level-inland-floods.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/climate/13CLI-METHANE1/13CLI-METHANE1-thumbStandard.jpg)](/2020/08/13/climate/trump-methane.html)
         
         </div>
         
-        As climate change raises sea levels, storm surges and high tides
-        will push farther inland, a team of researchers
-        says.
+        The weakening of Obama-era efforts to fight climate change
+        amounts to a gift to many oil companies. Researchers warn that
+        the decision ignores
+        science.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Brad
-        Plumer</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Coral
+        Davenport</span></span>
         
         </div>
 
@@ -263,24 +281,7 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/climate/24cli-pebblemine-12/24cli-pebblemine-12-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Gold vs. Salmon: An Alaska Mine Project Just Got a Boost](/2020/07/24/climate/pebble-mine-alaska-environment.html)
-    
-    The Trump Administration, rejecting concerns over the risks to
-    Alaska’s fishery, cleared the way on Friday for the Pebble
-    Mine.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Henry Fountain</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Acacia
-    Johnson</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/12/23/multimedia/cli-rollbacks-vehicle-emissions/cli-rollbacks-vehicle-emissions-videoLarge-v6.png)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/12/23/multimedia/cli-rollbacks-vehicle-emissions/cli-rollbacks-vehicle-emissions-videoLarge-v6.png)
     
     <div class="css-10wtrbd">
     
@@ -296,6 +297,25 @@ story](#after-sponsor)
     <span class="css-1baulvz" itemprop="name">Livia Albeck-Ripka</span>
     and <span class="css-1baulvz last-byline" itemprop="name">Kendra
     Pierre-Louis</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>KC
+    Nwakalor for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/climate/08cli-heat-A1-3/06heat-intro-1-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Here's What Extreme Heat Looks Like: Profoundly Unequal](/interactive/2020/08/06/climate/climate-change-inequality-heat.html)
+    
+    Earth is overheating. This year is poised to be one of the hottest
+    ever. Millions are already feeling the pain, but the agony of
+    extreme heat is profoundly unequal across the
+    globe.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Somini
+    Sengupta</span></span>
     
     </div>
 
@@ -410,24 +430,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-land-conservation-bill.html)
+    [](/video/us/elections/100000007299993/gavin-newsom-speaks-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-conserve/04dc-conserve-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/elections/Screen-Shot-2020-08-20-at-9/Screen-Shot-2020-08-20-at-9-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Signs Landmark Land Conservation Bill
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    The bipartisan Great American Outdoors Act guarantees funding for
-    federal land use efforts. The president claimed credit for
-    Republicans.
+    ## ‘Climate Change Is Real,’ Newsom Tells D.N.C. Amid Wildfires
+    
+    Gov. Gavin Newsom of California addressed the Democratic National
+    Convention remotely from near one of the wildfires burning across
+    his state.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie
-    Karni</span>
+    By <span class="css-1n7hynb">The New York
+    Times</span>
     
     </div>
     
@@ -445,23 +467,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/energy-environment/bp-renewable-investment.html)
+    [](/2020/08/20/business/energy-environment/california-blackout-electric-grid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/04BP-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19ca-blackout1/19ca-blackout1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## BP Reports a Huge Loss and Vows to Increase Renewable Investment
+    ## Poor Planning Left California Short of Electricity in a Heat Wave
     
-    The European oil giant has plans for a future with more electrical
-    generation.
+    Scores of power plants were down or operating below their capacity
+    just as hot weather drove up demand.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stanley
-    Reed</span>
+    By <span class="css-1n7hynb">Ivan
+    Penn</span>
     
     </div>
     
@@ -479,26 +501,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/books/review/migrations-charlotte-mcconaghy.html)
+    [](/2020/08/20/climate/greenland-ice-loss-climate-change.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/books/review/Christie1/Christie1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/climate/20CLI-GREENLAND2/merlin_175818159_1541e7d8-f7df-4e7a-b368-69110772f8a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Fiction</span>
+    ## Loss of Greenland Ice Sheet Reached a Record Last Year
     
-    ## ‘The Animals Are Dying. Soon We Will Be Alone Here.’
-    
-    In “Migrations,” Charlotte McConaghy’s visceral reimagining of
-    “Moby-Dick,” a young woman documents some of the world’s last
-    surviving seabirds.
+    The ice loss in 2019 was more than twice the annual average since
+    2003, scientists said.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Christie</span>
+    By <span class="css-1n7hynb">Henry
+    Fountain</span>
     
     </div>
     
@@ -516,24 +535,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/mortgages-affordable-housing.html)
+    [](/video/us/elections/100000007297726/michelle-lujan-grisham-speaks-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31smallmortgages1/merlin_174909417_6801b90c-d375-4a5d-b3af-ca9f1e0da20e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/video/19vid-dnc-grisham-still/19vid-dnc-grisham-still-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Where a Little Mortgage Goes a Long Way
+    ### <span class="css-5xm8y ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
     
-    Affordable homes can be hard to buy because lenders don’t make much
-    money on small loans. But programs to encourage homeownership can
-    help buyers build wealth.
+    ## ‘Time Is Running Out to Save Our Planet,’ New Mexico Governor Says
+    
+    As she endorsed Joe Biden during the Democratic National Convention,
+    Gov. Michelle Lujan Grisham called for action to combat the
+    existential crisis of climate change.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matthew
-    Goldstein</span>
+    By <span class="css-1n7hynb">The New York
+    Times</span>
     
     </div>
     
@@ -551,24 +572,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/world/middleeast/Middle-East-heat-wave.html)
+    [](/2020/08/19/climate/earth-overshoot-day.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31heatwave/merlin_175001865_05582ad2-bf6c-4d4f-acee-82bf1880bac9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/climate/19cli-newsletter/19cli-newsletter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scorching Temperatures Bake Middle East Amid Eid al-Adha Celebrations
+    ### <span class="css-m70j1g">Climate Fwd:</span>
     
-    Record high temperatures were recorded in Baghdad and Damascus, and
-    experts warned of the effects of prolonged heat waves as the planet
-    warms.
+    ## ‘Earth Overshoot Day’ Is This Week
+    
+    Also, a pair of victories for oil and gas that could be short-lived
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Falih Hassan <span>and</span> Elian
-    Peltier</span>
+    By <span class="css-1n7hynb">Susan Shain <span>and</span> John
+    Schwartz</span>
     
     </div>
     
@@ -586,25 +607,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/climate/skating-hockey-climate-change.html)
+    [](/2020/08/19/business/behavioral-contagion-carbon-tax.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/climate/28cli-newsletter-hockey/merlin_134340137_ebca4404-4563-49ad-a299-2fea43001f6f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/business/16View-illo/16View-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Climate Fwd:</span>
+    ### <span class="css-m70j1g">Economic View</span>
     
-    ## It’s Summer. Let’s Talk About Hockey.
+    ## Behavioral Contagion Could Spread the Benefits of a Carbon Tax
     
-    Also this week, health benefits from cutting emissions
+    It’s not too late to fight climate change with a long-overdue policy
+    that would have surprisingly broad impact, an economist says.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David Waldstein, Veronica Penney
-    <span>and</span> Lisa
-    Friedman</span>
+    By <span class="css-1n7hynb">Robert H.
+    Frank</span>
     
     </div>
     
@@ -622,23 +643,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/business/energy-environment/joe-biden-oil-gas-energy.html)
+    [](/2020/08/18/world/africa/captain-mauritius-oil-spill-arrested.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00biden-energy1/00biden-energy1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/world/18mauritius/merlin_175807935_dee5128e-e52b-4089-818e-952a56b4d148-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Oil and Gas Groups See ‘Some Common Ground’ in Biden Energy Plan
+    ## Captain in Mauritius Oil Spill Disaster Is Arrested
     
-    Some energy executives are pleased that the former vice president is
-    not calling for a fracking ban and said they could work with him.
+    The MV Wakashio, which split into two on Saturday, has spilled at
+    least 1,000 tons of oil into the Indian Ocean, endangering
+    world-renowned coral reefs and lagoons.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Clifford Krauss <span>and</span> Ivan
-    Penn</span>
+    By <span class="css-1n7hynb">Abdi Latif
+    Dahir</span>
     
     </div>
     
@@ -656,23 +678,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/world/europe/france-heated-terraces-coronavirus.html)
+    [](/2020/08/17/climate/death-valley-hottest-temperature-on-earth.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/28france-terraces1/28france-terraces1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/multimedia/17xp-deathvalley/merlin_175821324_43bd1446-d7e5-414d-ae3b-c09aca06ee91-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cold Comfort: France to Ban Heated Terraces, but Not This Winter
+    ## Death Valley Just Recorded the Hottest Temperature on Earth
     
-    The ban is part of a series of environmental measures meant to curb
-    energy consumption and push the nation toward a greener economy.
+    Scientists still have to validate the reading of 130 degrees
+    Fahrenheit on Sunday, the equivalent of 54 degrees Celsius.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Constant
-    Méheut</span>
+    By <span class="css-1n7hynb">Concepción de León <span>and</span>
+    John
+    Schwartz</span>
     
     </div>
     
@@ -690,26 +713,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/magazine/pollution-philadelphia-black-americans.html)
+    [](/2020/08/17/business/energy-environment/california-blackout-electric-grid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/magazine/02mag-philadelphia-02/02mag-philadelphia-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/17CA-BLACKOUT4/merlin_174565470_3be2264d-9de6-44dc-8267-cb5424ad478d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Feature</span>
+    ## California Expresses Frustration as Blackouts Enter 4th Day
     
-    ## Pollution Is Killing Black Americans. This Community Fought Back.
-    
-    African-Americans are 75 percent more likely than others to live
-    near facilities that produce hazardous waste. Can a grass-roots
-    environmental-justice movement make a difference?
+    The agency that manages the state’s electric grid says rolling
+    blackouts are needed to balance supply and demand. But the governor
+    said regulators were not prepared.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Linda
-    Villarosa</span>
+    By <span class="css-1n7hynb">Ivan
+    Penn</span>
     
     </div>
     
@@ -727,24 +748,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/climate/trump-fuel-efficiency-rule.html)
+    [](/2020/08/17/business/energy-environment/oil-companies-europe-electric.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/climate/27CLI-EPA/27CLI-EPA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/00oilclimate2/merlin_175267773_0785f358-7d29-45d2-9331-e8173c8e6072-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## E.P.A. Inspector General to Investigate Trump’s Biggest Climate Rollback
+    ## Europe’s Big Oil Companies Are Turning Electric
     
-    The agency’s watchdog office said Monday it would investigate
-    whether the reversal of Obama-era fuel efficiency standards violated
-    government rules.
+    Under pressure from governments and investors, industry leaders like
+    BP and Shell are accelerating their production of cleaner energy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Coral Davenport <span>and</span> Lisa
-    Friedman</span>
+    By <span class="css-1n7hynb">Stanley Reed</span>
     
     </div>
     

@@ -175,24 +175,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/politics/trump-john-lewis-axios.html)
+    [](/live/2020/08/20/us/dnc-convention-election/the-republican-embrace-of-qanon-goes-far-beyond-trump)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04elections-briefing-lewis/merlin_134953749_a776ab58-fa21-4555-aa5d-9a7085572964-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20-live-qanon/merlin_175618101_3412ea68-f476-494b-bf39-4360122ab097-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Assesses John Lewis’s Legacy: ‘He Didn’t Come to My Inauguration’
+    ## The Republican embrace of QAnon goes far beyond Trump.
     
-    President Trump was asked by an interviewer to reflect on the late
-    congressman’s contributions to the civil rights movement. He talked
-    up his own record instead.
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Neil
-    Vigdor</span>
+    By <span class="css-1n7hynb">Matthew Rosenberg <span>and</span>
+    Maggie
+    Haberman</span>
     
     </div>
     
@@ -210,25 +209,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/politics/congress-jobless-aid-talks-trump.html)
+    [](/2020/08/20/us/elections/trump-will-hold-a-funeral-service-for-his-brother-at-the-white-house-on-friday.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03dc-virus-stimulus01/03dc-virus-stimulus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20-live-funeral-20051/merlin_175703292_c64bdc4b-91a5-46d4-912a-e8aa05767234-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## With Jobless Aid Expired, Trump Sidelines Himself in Stimulus Talks
-    
-    As his top advisers met with Democratic leaders to try to hash out a
-    compromise, President Trump hurled insults at Democrats and mused
-    aloud about short-circuiting the talks and acting on his own.
+    ## Trump will hold a funeral service for his brother at the White House on Friday.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman, Emily Cochrane
-    <span>and</span> Jim
-    Tankersley</span>
+    By <span class="css-1n7hynb">Maggie
+    Haberman</span>
     
     </div>
     
@@ -246,25 +240,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    [](/2020/08/20/us/politics/stephen-bannon-arrest.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dc-bannon-trump-sub/20dc-bannon-trump-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    ## Arrest Disrupts Bannon’s Efforts to Stay Relevant After Leaving White House
     
-    The announcement came after the company consulted with President
-    Trump, who has threatened to ban the app and expressed national
-    security concerns about it in recent weeks.
+    Since leaving the Trump administration, the former senior adviser
+    was caught up in federal investigations and lost command of the
+    far-right arena he once ruled.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Maggie
-    Haberman</span>
+    By <span class="css-1n7hynb">Maggie Haberman, Michael S. Schmidt
+    <span>and</span> Jeremy W.
+    Peters</span>
     
     </div>
     
@@ -282,25 +276,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/kayleigh-mcenany.html)
+    [](/2020/08/20/us/elections/the-republican-embrace-of-qanon-goes-far-beyond-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-kayleigh-pix1/02dc-kayleigh-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20-live-qanon/merlin_175618101_3412ea68-f476-494b-bf39-4360122ab097-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">White HOUse MEMO</span>
-    
-    ## Kayleigh McEnany Heckles the Press. Is That All?
-    
-    President Trump does not always watch her briefings, and even his
-    allies say she risks being known more for “hitting the press with a
-    two-by-four” than advancing his priorities.
+    ## The Republican embrace of QAnon goes far beyond Trump.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Maggie
+    By <span class="css-1n7hynb">Matthew Rosenberg <span>and</span>
+    Maggie
     Haberman</span>
     
     </div>
@@ -319,25 +308,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/us/politics/trump-delay-2020-election.html)
+    [](/2020/08/20/us/politics/qanon-trump-republicans.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30trump-election1/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/us/politics/21QAnon-Republicans-p1/merlin_160635537_2e915832-099a-465b-9834-1d3f80110875-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Floats an Election Delay, and Republicans Shoot It Down
+    ## The Republican Embrace of QAnon Goes Far Beyond Trump
     
-    The president’s suggestion that the Nov. 3 vote could be delayed —
-    something he cannot do on his own — drew unusually firm Republican
-    resistance and signaled worry about his re-election bid.
+    As the president all but endorses the internet-driven conspiracy
+    theory, it is shifting from the fringes of the internet to become an
+    offline political movement.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maggie Haberman, Jonathan Martin
-    <span>and</span> Reid J.
-    Epstein</span>
+    By <span class="css-1n7hynb">Matthew Rosenberg <span>and</span>
+    Maggie
+    Haberman</span>
     
     </div>
     
@@ -355,23 +344,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/us/politics/trump-inhofe-tata-pentagon.html)
+    [](/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/30dc-tata/30dc-tata-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20bannonTOPnew/20bannonTOPnew-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Inflammatory Comments Delay Confirmation of Retired General to Pentagon Post
+    ## Steve Bannon Is Charged With Fraud in We Build the Wall Campaign
     
-    Half an hour before a hearing for Anthony J. Tata was to begin, the
-    Oklahoma Republican who is the chairman of the Senate Armed Services
-    Committee delayed it.
+    Mr. Bannon and three others are accused in a scheme to use funds
+    raised for construction to pay for personal expenses.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Helene Cooper, Catie Edmondson
+    By <span class="css-1n7hynb">Alan Feuer, William K. Rashbaum
     <span>and</span> Maggie
     Haberman</span>
     
@@ -391,25 +379,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/trump-suburbs-housing-white-voters.html)
+    [](/2020/08/18/us/elections/struggling-to-court-female-voters-trump-will-pardon-the-very-first-one.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/politics/29TRUMP-SUBURBS/merlin_174387555_a81a394f-9b9a-4bfd-8dfd-dae963e10c8b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18-live-election-brief-anthony/18-live-election-brief-anthony-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Plays on Racist Fears of Terrorized Suburbs to Court White Voters
-    
-    President Trump painted a false picture of suburbs under siege,
-    saying he was protecting them from low-income housing, as he seeks
-    to win over white voters who were key to his 2016 victory.
+    ## Struggling to court female voters, Trump will pardon the very first one.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Annie Karni, Maggie Haberman
-    <span>and</span> Sydney
-    Ember</span>
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Katie
+    Rogers</span>
     
     </div>
     
@@ -427,24 +410,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/protests-portland-federal-withdrawal.html)
+    [](/2020/08/18/us/elections/a-firm-linked-to-a-trump-allys-pillow-company-is-buying-ads-for-his-campaign.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/29portland-withdrawal/29portland-withdrawal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18-live-election-brief-lindell/18-live-election-brief-lindell-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Federal Agencies Agree to Withdraw From Portland, With Conditions
-    
-    Gov. Kate Brown of Oregon said the teams would begin a withdrawal on
-    Thursday. Federal officials cautioned that they would withdraw only
-    when they were confident the federal courthouse could be secured.
+    ## A firm linked to a Trump ally’s pillow company is buying ads for his campaign.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Baker <span>and</span> Zolan
-    Kanno-Youngs</span>
+    By <span class="css-1n7hynb">Maggie
+    Haberman</span>
     
     </div>
     
@@ -462,26 +441,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/europe/woody-johnson-trump.html)
+    [](/2020/08/18/us/politics/trump-susan-b-anthony-pardon.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/politics/24dc-woody1/24dc-woody1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18DC-TRUMP-ANTHONY/18DC-TRUMP-ANTHONY-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Woody Johnson Was a Loyal Trump Supporter in 2016. As an Ambassador, He May Be Too Loyal.
+    ## On Centennial of 19th Amendment, Trump Pardons Susan B. Anthony and Targets 2020 Election
     
-    In the view of some American diplomats, Mr. Johnson’s willingness to
-    carry out President Trump’s request to seek the British government’s
-    help in moving the British Open to his golf resort in Scotland was
-    only the latest example of the envoy’s poor judgment.
+    President Trump’s pardon of the famed suffragist came as women
+    celebrated the 100th anniversary of their right to vote, and in the
+    middle of his attacks on mail-in voting.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mark Landler, Lara Jakes
-    <span>and</span> Maggie
-    Haberman</span>
+    By <span class="css-1n7hynb">Maggie Haberman <span>and</span> Katie
+    Rogers</span>
     
     </div>
     
@@ -499,25 +476,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/politics/kimberly-guilfoyles-trump-fundraising.html)
+    [](/live/2020/08/17/us/dnc-convention/a-former-trump-homeland-security-official-backs-biden-saying-working-for-the-president-was-terrifying)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/politics/00-GUILFOYLE/merlin_174209379_d5bade2c-87ef-48ce-a2b0-a89745779509-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17-live-coop-1539/17-live-coop-1539-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Kimberly Guilfoyle’s Fund-Raising for Trump Draws Scrutiny
+    ## A former Trump Homeland Security official backs Biden, saying working for the president ‘was terrifying.’
     
-    Ms. Guilfoyle has raised money from donors and has made inroads with
-    some who have rejected calls from others. Yet Trump supporters
-    inside and outside the campaign say the operation she’s built hasn’t
-    lived up to expectations.
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kenneth P. Vogel <span>and</span>
-    Maggie Haberman</span>
+    By <span class="css-1n7hynb">Maggie Haberman</span>
     
     </div>
     

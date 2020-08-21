@@ -133,11 +133,13 @@ Suggests</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
+
+<div id="NYT_TOP_BANNER_REGION">
 
 <div>
 
-<div id="styln-elections-notifications-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+<div id="styln-elections-notifications-menu" class="section css-l08pwh interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -155,8 +157,8 @@ Suggests</span>
     
     </div>
     
-    [Latest
-    Results](https://www.nytimes3xbfgragh.onion/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [D.N.C.
+    Updates](https://www.nytimes3xbfgragh.onion/live/2020/08/20/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -168,8 +170,8 @@ Suggests</span>
     
     </div>
     
-    [Biden’s V.P.
-    Search](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Biden’s
+    Speech](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-presidential-nomination-dnc.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -181,8 +183,8 @@ Suggests</span>
     
     </div>
     
-    [Map of
-    Donations](https://www.nytimes3xbfgragh.onion/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Election
+    Calendar](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -194,21 +196,8 @@ Suggests</span>
     
     </div>
     
-    [Delegate
-    Count](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [The
-    Candidates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Voting by
+    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/11/us/politics/vote-by-mail-us-states.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -224,6 +213,8 @@ Suggests</span>
     Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
+
+</div>
 
 </div>
 
@@ -345,7 +336,7 @@ Weiser</span>](https://www.nytimes3xbfgragh.onion/by/benjamin-weiser)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
+    Published Aug. 3, 2020Updated Aug. 20,
     2020
     
     </div>
@@ -354,7 +345,7 @@ Weiser</span>](https://www.nytimes3xbfgragh.onion/by/benjamin-weiser)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -383,26 +374,36 @@ Weiser</span>](https://www.nytimes3xbfgragh.onion/by/benjamin-weiser)
 <div class="css-53u6y8">
 
 The Manhattan district attorney’s office suggested on Monday that it had
-been investigating President Trump and his company for possible bank and
-insurance fraud, a significantly broader inquiry than the prosecutors
-have acknowledged in the past.
+been investigating [President
+Trump](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
+and his company for possible [bank and insurance
+fraud](https://www.nytimes3xbfgragh.onion/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html),
+a significantly broader inquiry than the prosecutors have acknowledged
+in the past.
 
-The suggestion by the office of the district attorney, Cyrus R. Vance
-Jr., came in a new federal court filing arguing that Mr. Trump’s
-accountants should have to comply with a grand jury subpoena seeking
-eight years of his personal and corporate tax returns. Mr. Trump has
-asked a judge to declare the subpoena invalid.
+The suggestion by the office of the district attorney, [Cyrus R. Vance
+Jr](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html).,
+came in a new federal court filing arguing that Mr. Trump’s accountants
+should have to comply with a grand jury subpoena seeking eight years of
+his personal and corporate [tax
+returns](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html).
+Mr. Trump has asked a judge to declare the subpoena invalid.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Until now, the district attorney’s inquiry had appeared largely focused
 on hush-money payments made in the run-up to the 2016 presidential
 election to two women who said they had affairs with Mr. Trump.
-
-In the new filing, the prosecutors did not explicitly identify the
-matters under scrutiny in the grand jury inquiry, which by law is
-conducted in secret. But they said that “undisputed” assertions in
-earlier court papers and several news reports about Mr. Trump’s business
-practices showed that the office had a wide legal basis for the
-subpoena.
 
 </div>
 
@@ -411,6 +412,13 @@ subpoena.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+In the new filing, the prosecutors did not explicitly identify the
+matters under scrutiny in the grand jury inquiry, which by law is
+conducted in secret. But they said that “undisputed” assertions in
+earlier court papers and several news reports about Mr. Trump’s business
+practices showed that the office had a wide legal basis for the
+subpoena.
 
 “In light of these public reports of possibly extensive and protracted
 criminal conduct at the Trump Organization,” there was nothing improper
@@ -424,14 +432,8 @@ They also included [an article on the congressional testimony of his
 former lawyer and fixer, Michael D.
 Cohen](https://www.wsj.com/articles/cohen-to-say-trump-knew-about-wikileaks-talks-engaged-in-criminal-conduct-while-in-office-11551249532),
 who told lawmakers last year that the president had committed insurance
-fraud. Lawyers for the president have denied wrongdoing.
-
-The suggestion that the investigation, which has gone on for nearly two
-years, was broader than Mr. Vance’s office had previously acknowledged
-could raise the stakes for Mr. Trump, his company and its executives, if
-the inquiry were ever to lead to charges of bank or insurance fraud,
-which are
-felonies.
+fraud. Lawyers for the president have denied
+wrongdoing.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -441,35 +443,68 @@ felonies.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="">
+<div id="styln-briefing-block">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
-<div class="briefing-block-ts">
+</div>
 
-Updated 2020-08-05T03:23:56.561Z
+<div class="briefing-block-lb-items">
+
+<div class="briefing-block-update-time">
+
+[7h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div>
+
+[Night 3 featured more policy, a focus on women and a full-throated
+rejection of Trump by his
+predecessor.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div>
+
+[Trump live-tweeted Obama’s speech tonight. He’ll appear on Fox News
+right before Biden’s
+tomorrow.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
+
+</div>
+
+<div>
+
+[Advocates for domestic violence survivors praised Biden in a
+video.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
 
 </div>
 
 </div>
-
-  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
-    to
-    Trump.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
-  - [The military-style uniforms of federal agents who responded to the
-    unrest in Portland will be
-    replaced.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-62a8e06b)
-  - [President Trump is suddenly a big supporter of mail-in voting — in
-    Florida.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -484,12 +519,15 @@ updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-elec
 </div>
 
 </div>
+
+The suggestion that the investigation, which has gone on for nearly two
+years, was broader than Mr. Vance’s office had previously acknowledged
+could raise the stakes for Mr. Trump, his company and its executives, if
+the inquiry were ever to lead to charges of bank or insurance fraud,
+which are felonies.
 
 The inquiry into the hush-money payments seemed to center on a less
 serious crime, the filing of false business records.
-
-A spokesman for Mr. Vance’s office declined to comment. Lawyers for Mr.
-Trump did not reply to requests for comment.
 
 </div>
 
@@ -498,6 +536,9 @@ Trump did not reply to requests for comment.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+A spokesman for Mr. Vance’s office declined to comment. Lawyers for Mr.
+Trump did not reply to requests for comment.
 
 Asked about the investigation at a White House briefing, Mr. Trump
 called it a “continuation of the worst witch hunt in American history.”
@@ -525,14 +566,6 @@ said. “The prosecutor is just doing what he has to do in order to
 suggest this is a broad white-collar investigation, which generally
 justifies fairly broad subpoenas to financial institutions.”
 
-Mr. Vance, a Democrat, [subpoenaed Mr. Trump’s accounting firm, Mazars
-USA, in August 2019 for the tax
-returns](https://www.nytimes3xbfgragh.onion/2019/09/16/nyregion/trump-tax-returns-cy-vance.html)
-and other financial records dating to 2011. Mr. Trump tried to block the
-subpoena almost immediately, initially arguing that as a sitting
-president, [he was immune from state criminal
-investigation.](https://www.nytimes3xbfgragh.onion/2019/09/19/nyregion/trump-tax-returns-lawsuit.html)
-
 </div>
 
 </div>
@@ -540,6 +573,14 @@ investigation.](https://www.nytimes3xbfgragh.onion/2019/09/19/nyregion/trump-tax
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Mr. Vance, a Democrat, [subpoenaed Mr. Trump’s accounting firm, Mazars
+USA, in August 2019 for the tax
+returns](https://www.nytimes3xbfgragh.onion/2019/09/16/nyregion/trump-tax-returns-cy-vance.html)
+and other financial records dating to 2011. Mr. Trump tried to block the
+subpoena almost immediately, initially arguing that as a sitting
+president, [he was immune from state criminal
+investigation.](https://www.nytimes3xbfgragh.onion/2019/09/19/nyregion/trump-tax-returns-lawsuit.html)
 
 The case wound its way through the federal courts until last month, when
 the Supreme Court soundly rejected that argument in a major ruling on
@@ -577,11 +618,6 @@ in Manhattan. [Federal prosectors concluded their
 investigation](https://www.nytimes3xbfgragh.onion/2019/07/17/nyregion/michael-cohen-trump-investigation.html)
 into the matter last year and have not charged anyone else.
 
-In a recent federal court hearing, Mr. Vance’s office accused [Mr. Trump
-of dragging out the legal fight in order to effectively shield himself
-from criminal
-investigation](https://www.nytimes3xbfgragh.onion/2020/07/16/nyregion/donald-trump-taxes-cyrus-vance.html).
-
 </div>
 
 </div>
@@ -589,6 +625,11 @@ investigation](https://www.nytimes3xbfgragh.onion/2020/07/16/nyregion/donald-tru
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+In a recent federal court hearing, Mr. Vance’s office accused [Mr. Trump
+of dragging out the legal fight in order to effectively shield himself
+from criminal
+investigation](https://www.nytimes3xbfgragh.onion/2020/07/16/nyregion/donald-trump-taxes-cyrus-vance.html).
 
 “What the president’s lawyers are seeking here is delay,” Carey R.
 Dunne, a lawyer in Mr. Vance’s office, told Judge Marrero.
@@ -652,30 +693,27 @@ trial.
 
 # Our 2020 Election Guide
 
-Updated Aug. 4, 2020
+Updated Aug. 20, 2020
 
   - 
     
     -----
     
-    ## The Latest
+    ## Convention Recap
     
-      - Kris Kobach, a polarizing figure in Kansas politics, [lost the
-        Senate primary
-        there](https://www.nytimes3xbfgragh.onion/2020/08/04/us/politics/kobach-tlaib.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
-        relieving G.O.P. officials who feared he could jeopardize a safe
-        seat.
+      - Joe Biden accepted the Democratic nomination, urging Americans
+        to have faith that they could [“overcome this season of
+        darkness.”](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/Joe-Biden-accepts-democratic-nomination.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     
     -----
     
-    ## Biden’s V.P. Search
+    ## News Analysis
     
-      - [Here are 13
-        women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
-        who have been under consideration to be Joe Biden’s running
-        mate, and why each might be chosen — and might not be.
+      - Looming over Mr. Biden’s nomination was the ever-present shadow
+        of another man who’s poised to dominate the campaign: [Donald J.
+        Trump](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-dnc-speech-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

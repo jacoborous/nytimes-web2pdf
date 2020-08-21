@@ -132,7 +132,7 @@ Returns</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -248,7 +248,7 @@ Rashbaum</span>](https://www.nytimes3xbfgragh.onion/by/william-k-rashbaum)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 16, 2020Updated July 17,
+    Published July 16, 2020Updated Aug. 10,
     2020
     
     </div>
@@ -285,16 +285,28 @@ Rashbaum</span>](https://www.nytimes3xbfgragh.onion/by/william-k-rashbaum)
 <div class="css-53u6y8">
 
 The Manhattan district attorney’s office accused [President
-Trump](https://www.nytimes3xbfgragh.onion/2019/07/29/nyregion/trump-sharpton-ny-history.html)
+Trump](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
 on Thursday of purposely dragging out a court battle over a subpoena
-[seeking eight years of his tax
-returns](https://www.nytimes3xbfgragh.onion/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html)
+seeking eight years of his [tax
+returns](https://www.nytimes3xbfgragh.onion/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html)
 in an attempt to effectively shield himself from criminal investigation.
 
 Carey R. Dunne, a lawyer for the prosecutor’s office, told a federal
 judge that the longer the president disputes the subpoena, the higher
 the chance that the statute of limitations would expire for any possible
 crime that may have been committed.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 The office is seeking the president’s personal tax returns and those of
 his family business, the Trump Organization, as part of an investigation
@@ -303,9 +315,6 @@ into hush-money payments made in the run-up to the 2016 election. The
 subpoena](https://www.nytimes3xbfgragh.onion/2020/07/09/us/politics/trump-taxes.html)
 for nearly a year.
 
-“What the president’s lawyers are seeking here is delay,” Mr. Dunne
-said. “I think that’s the entire strategy here.”
-
 </div>
 
 </div>
@@ -313,6 +322,9 @@ said. “I think that’s the entire strategy here.”
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+“What the president’s lawyers are seeking here is delay,” Mr. Dunne
+said. “I think that’s the entire strategy here.”
 
 He added: “Let’s not let delay kill this case.”
 
@@ -340,11 +352,6 @@ argument](https://www.nytimes3xbfgragh.onion/2020/07/09/us/trump-taxes-supreme-c
 Still, the high court left open the possibility that Mr. Trump could
 raise new objections to the subpoena.
 
-The case was sent back to Judge Marrero, [who called for the hearing
-this
-week](https://www.nytimes3xbfgragh.onion/2020/07/15/nyregion/donald-trump-taxes-cyrus-vance.html)
-so that both sides could outline their positions.
-
 </div>
 
 </div>
@@ -352,6 +359,11 @@ so that both sides could outline their positions.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+The case was sent back to Judge Marrero, [who called for the hearing
+this
+week](https://www.nytimes3xbfgragh.onion/2020/07/15/nyregion/donald-trump-taxes-cyrus-vance.html)
+so that both sides could outline their positions.
 
 At the hearing, a lawyer for the president, William S. Consovoy, made it
 clear that Mr. Trump was likely to raise challenges to the scope of the
@@ -382,11 +394,6 @@ escape scrutiny, Mr. Dunne said, without elaboration.
 Mr. Trump’s lawyers must outline their new objections to the subpoena by
 July 27, and Mr. Vance can then respond.
 
-Mr. Vance has been looking into hush-money payments that Michael D.
-Cohen, the president’s lawyer and former fixer, made in 2016 to Stormy
-Daniels, an adult film actress who said she had an affair with Mr.
-Trump. The president has denied an affair.
-
 </div>
 
 </div>
@@ -394,6 +401,11 @@ Trump. The president has denied an affair.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Mr. Vance has been looking into hush-money payments that Michael D.
+Cohen, the president’s lawyer and former fixer, made in 2016 to Stormy
+Daniels, an adult film actress who said she had an affair with Mr.
+Trump. The president has denied an affair.
 
 Mr. Cohen later [pleaded guilty to federal campaign finance
 violations](https://www.nytimes3xbfgragh.onion/2018/11/29/nyregion/michael-cohen-trump-russia-mueller.html)

@@ -2464,6 +2464,25 @@ Parents</span>
 
 <div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
 
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/20/podcasts/nice-white-parents-school.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 20, 2020<span>  <span class="css-orcm78">•</span> 
+54:03</span><span class="css-i5svdo">Episode Five: ‘We Know It When We
+See
+It’</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
 [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/13/podcasts/nice-white-parents-school.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
 
 <div class="css-14o8mz7 e1gfokfg2">
@@ -2616,9 +2635,9 @@ Published Aug. 6, 2020Updated Aug. 10,
 
 <div class="css-53u6y8">
 
-“Nice White Parents” is a new podcast from Serial Productions, a New
-York Times Company, about the 60-year relationship between white parents
-and the public school down the block.
+From Serial and The New York Times: “Nice White Parents” looks at the
+60-year relationship between white parents and the public school down
+the block.
 
 **Listen to the show on your mobile device:** **[Via Apple
 Podcasts](https://podcasts.apple.com/us/podcast/nice-white-parents/id1524080195)**

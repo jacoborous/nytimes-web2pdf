@@ -171,6 +171,73 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/17/us/elections/the-presidents-top-donors-from-2016-are-not-giving-as-much-to-his-re-election.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/politics/00TrumpBigDonors/merlin_175180350_4cd1f2e6-4a9c-47f4-81e6-4c2b21a92ced-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The president’s top donors from 2016 are not giving as much to his re-election.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Glenn Thrush, Rebecca R. Ruiz
+    <span>and</span> Karen
+    Yourish</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/16/us/politics/trumps-campaign-big-donors.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/politics/00TrumpBigDonors/merlin_175180350_4cd1f2e6-4a9c-47f4-81e6-4c2b21a92ced-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump’s Policies Are a Boon to the Super Rich. So Where Are All the Seven-Figure Checks?
+    
+    Only a small fraction of the president’s top donors from 2016 have
+    given as much to his re-election effort.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Glenn Thrush, Rebecca R. Ruiz
+    <span>and</span> Karen
+    Yourish</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/interactive/2020/06/07/us/george-floyd-protest-aerial-photos.html)
     
     <div class="css-79elbk">
@@ -201,7 +268,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +304,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +339,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -308,41 +375,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/03/01/business/michael-milken-trump-pardon.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/02/27/business/00milken01/00milken01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Milken Had Key Allies in Pardon Bid: Trump’s Inner Circle
-    
-    Rudolph Giuliani and Sheldon Adelson were among those who asked
-    President Trump to pardon a symbol of 1980s greed.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">James B. Stewart <span>and</span> Jesse
-    Drucker</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -413,7 +446,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -449,7 +482,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -473,43 +506,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Alicia Parlapiano, Weiyi Cai
-    <span>and</span> Karen
-    Yourish</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2019/11/06/us/politics/trump-vindman-twitter.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/11/06/multimedia/06vindman/merlin_163517688_abd15f6d-12cf-40a3-93ad-2851e1b01c68-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Trump’s Twitter War Room Aims Its Punches at Decorated Colonel
-    
-    The president and his allies have used the platform to frame his
-    defense and attack key witnesses, including Lt. Col. Alexander S.
-    Vindman.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike McIntire <span>and</span> Nicholas
-    Confessore</span>
+    <span>and</span> Karen Yourish</span>
     
     </div>
     

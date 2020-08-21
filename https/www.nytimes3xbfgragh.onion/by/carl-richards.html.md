@@ -386,42 +386,6 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2019/06/03/your-money/sketch-guy-time-outside-nature.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/06/03/business/060319bucks-carl-sketch/2c8b1b9500c04f2a9324c485ef75207b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Sketch Guy</span>
-    
-    ## You Need More Time Outside, and You Can Fit It in Your Schedule
-    
-    What if there was a therapy that cost nothing and was available to
-    nearly everyone? Or a way to hold meetings but not around a table?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Carl
-    Richards</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2019/04/17/your-money/one-step-at-a-time.html)
     
     <div class="css-79elbk">
@@ -452,7 +416,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -488,7 +452,7 @@ story](#after-mid1)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -509,6 +473,43 @@ story](#after-mid1)
     In a world where things often feel static, there is inherent value
     in reminding yourself that you can change. Let’s call that
     adventure. What’s yours?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Carl
+    Richards</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2018/business/how-to-talk-about-money.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2018/08/29/autossell/Landing-Page/Landing-Page-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Guide</span>
+    
+    ## How to Talk About Money
+    
+    At some point, you’re going to have to have a conversation about
+    money — with a spouse, a roommate, your kids, your aging parents —
+    but did anyone ever teach you how to talk about money?
     
     <div class="css-1nqbnmb ea5icrr0">
     

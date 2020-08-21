@@ -120,35 +120,21 @@ Again)</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-mij9hh">
+<div class="css-mij9hh">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1xxkt5x">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6200-e387-11ea-a6c1-6f7a25730905)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6201-e387-11ea-a6c1-6f7a25730905)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6202-e387-11ea-a6c1-6f7a25730905)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6203-e387-11ea-a6c1-6f7a25730905)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6204-e387-11ea-a6c1-6f7a25730905)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=772e6205-e387-11ea-a6c1-6f7a25730905)</span>
 
 </div>
 
@@ -234,7 +220,7 @@ Mervosh</span>](https://www.nytimes3xbfgragh.onion/by/sarah-mervosh),
 <span class="css-1baulvz" itemprop="name">Yuriria Avila</span>,
 <span class="css-1baulvz" itemprop="name">Barbara Harvey</span> and
 <span class="css-1baulvz last-byline" itemprop="name">Alex Leeds
-Matthews</span>Updated Aug. 4,
+Matthews</span>Updated Aug. 20,
 2020
 
 </div>
@@ -278,33 +264,33 @@ Matthews</span>Updated Aug. 4,
 
 <div class="g-svelte" data-component="1">
 
-<div class="breadcrumbs false svelte-u8xm87" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
+<div class="breadcrumbs false svelte-1m5f6tq" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
 
 <div class="breadcrumbs__buttons--wrap">
 
-[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-u8xm87"> 
+[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 COUNTRIES
 
-<span class="svelte-u8xm87">| </span>
-[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq">| </span>
+[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 STATES
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
 
 </div>
 
-<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-u8xm87">
+<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-1m5f6tq">
 
 [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)[Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)[France](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/france-coronavirus-cases.html)[Germany](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/germany-coronavirus-cases.html)[India](https://www.nytimes3xbfgragh.onion/interactive/2020/world/asia/india-coronavirus-cases.html)[Italy](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/italy-coronavirus-cases.html)[Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/mexico-coronavirus-cases.html)[Spain](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/spain-coronavirus-cases.html)[U.K.](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 </div>
 
-<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-u8xm87">
+<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-1m5f6tq">
 
 [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)[Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)[Arizona](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arizona-coronavirus-cases.html)[Arkansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arkansas-coronavirus-cases.html)[California](https://www.nytimes3xbfgragh.onion/interactive/2020/us/california-coronavirus-cases.html)[Colorado](https://www.nytimes3xbfgragh.onion/interactive/2020/us/colorado-coronavirus-cases.html)[Connecticut](https://www.nytimes3xbfgragh.onion/interactive/2020/us/connecticut-coronavirus-cases.html)[Delaware](https://www.nytimes3xbfgragh.onion/interactive/2020/us/delaware-coronavirus-cases.html)[Florida](https://www.nytimes3xbfgragh.onion/interactive/2020/us/florida-coronavirus-cases.html)[Georgia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/georgia-coronavirus-cases.html)[Hawaii](https://www.nytimes3xbfgragh.onion/interactive/2020/us/hawaii-coronavirus-cases.html)[Idaho](https://www.nytimes3xbfgragh.onion/interactive/2020/us/idaho-coronavirus-cases.html)[Illinois](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)[Indiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/indiana-coronavirus-cases.html)[Iowa](https://www.nytimes3xbfgragh.onion/interactive/2020/us/iowa-coronavirus-cases.html)[Kansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kansas-coronavirus-cases.html)[Kentucky](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kentucky-coronavirus-cases.html)[Louisiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/louisiana-coronavirus-cases.html)[Maine](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maine-coronavirus-cases.html)[Maryland](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maryland-coronavirus-cases.html)[Massachusetts](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)[Michigan](https://www.nytimes3xbfgragh.onion/interactive/2020/us/michigan-coronavirus-cases.html)[Minnesota](https://www.nytimes3xbfgragh.onion/interactive/2020/us/minnesota-coronavirus-cases.html)[Mississippi](https://www.nytimes3xbfgragh.onion/interactive/2020/us/mississippi-coronavirus-cases.html)[Missouri](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)[Montana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/montana-coronavirus-cases.html)[Nebraska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)[Nevada](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nevada-coronavirus-cases.html)[New
 Hampshire](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-hampshire-coronavirus-cases.html)[New
@@ -322,7 +308,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 
 </div>
 
@@ -1131,7 +1117,7 @@ IN
 
 </div>
 
-<div class="g-carto-state g-st-IL g-color" data-stateid="IL" data-state="Illinois" style="left: 49.83388704318937%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
+<div class="g-carto-state g-st-IL" data-stateid="IL" data-state="Illinois" style="left: 49.83388704318937%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
 
 <div class="g-st">
 
@@ -1181,7 +1167,7 @@ ID
 
 </div>
 
-<div class="g-carto-state g-st-OR g-color" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
+<div class="g-carto-state g-st-OR" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
 
 <div class="g-st">
 
@@ -1716,7 +1702,7 @@ ID
 
 </div>
 
-<div class="g-carto-state g-st-OR g-color" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
+<div class="g-carto-state g-st-OR" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
 
 <div class="g-st">
 
@@ -2251,7 +2237,7 @@ ID
 
 </div>
 
-<div class="g-carto-state g-st-OR g-color" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
+<div class="g-carto-state g-st-OR" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
 
 <div class="g-st">
 
@@ -2785,7 +2771,7 @@ ID
 
 </div>
 
-<div class="g-carto-state g-st-OR g-color" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
+<div class="g-carto-state g-st-OR" data-stateid="OR" data-state="Oregon" style="left: 8.305647840531561%; top: 37.3134328358209%; width: 7.973421926910299%; height: 11.940298507462686%">
 
 <div class="g-st">
 
@@ -3160,9 +3146,12 @@ Arizona
 <span class="g-text">After Gov. Doug Ducey’s stay-at-home order expired
 May 15, Arizona saw cases soar. In late June, Mr. Ducey, a Republican,
 announced that the state would “pause” operations of bars, gyms, movie
-theaters, waterparks and tubing rentals to contain the virus’s
-spread.</span> <span class="g-link">[Read more
-»](https://www.azcentral.com/story/news/local/arizona-health/2020/07/23/watch-live-ducey-provide-arizona-covid-19-update/5490927002/)</span>
+theaters, waterparks and tubing rentals to contain the virus’s spread,
+sparking lawsuits from some business owners. A court ruled that the
+state had to give businesses the opportunity to reopen safely, prompting
+Mr. Ducey to release guidelines on August 10 for “paused businesses” to
+follow in order to reopen.</span> <span class="g-link">[Read more
+»](https://www.fox10phoenix.com/news/arizona-gov-ducey-releases-guidelines-for-paused-businesses-to-reopen)</span>
 
 </div>
 
@@ -3543,7 +3532,8 @@ Personal care
 <div class="g-cat-text">
 
 Pet groomers; Hair salons and barbershops in some counties; Nail salons,
-cosmetology services, tattoo parlors, piercing shops in some counties
+cosmetology services, tattoo parlors, piercing shops in some counties;
+Hair salons and barbershops for outdoor service in most counties
 
 </div>
 
@@ -4271,13 +4261,13 @@ Bars
 
 </div>
 
-<div id="g-state-KY" class="g-state g-cat-reversing" data-state="KY">
+<div id="g-state-HI" class="g-state g-cat-reversing" data-state="HI">
 
 <div class="g-name-details-wrap">
 
 <div class="g-name">
 
-Kentucky
+Hawaii
 
 </div>
 
@@ -4285,26 +4275,27 @@ Kentucky
 
 <div class="g-inner-box">
 
-<div class="g-stateCaseChartShell" data-state="Kentucky">
+<div class="g-stateCaseChartShell" data-state="Hawaii">
 
 </div>
 
 <div class="g-date-details">
 
-<span class="g-date-details-text">Reopened May 20.</span>
+<span class="g-date-details-text">Reopened May 7.</span>
 
 </div>
 
 <div class="g-text-wrap">
 
-<span class="g-text">Gov. Andy Beshear, a Democrat, reopened businesses
-under new guidelines beginning in early May, then ordered residents to
-wear masks in public soon after the state had reached the end of its
-initial reopening timeline. As case numbers continued to climb, Mr.
-Beshear ordered bars to close again starting July 28 and restaurants to
-reduce indoor dining capacity to 25 percent. </span>
-<span class="g-link">[Read more
-»](https://www.courier-journal.com/story/news/2020/07/27/kentucky-gov-andy-beshear-order-bar-closures-covid-cases-spike/5517328002/)</span>
+<span class="g-text">Gov. David Ige, a Democrat, started the state’s
+reopening process in early May, when there were only a few new cases
+reported each day. Each island can now set its own timeline for
+reopening, with the governor’s approval. Despite the slow approach,
+Hawaii has seen a resurgence of the virus. In response, Oahu recently
+moved to close parks and beaches, and Mr. Ige reinstated a quarantine
+requirement for inter-island travel.</span> <span class="g-link">[Read
+more
+»](https://www.civilbeat.org/2020/08/the-interisland-travel-quarantine-is-coming-back-oahu-beaches-and-parks-to-close-again/)</span>
 
 </div>
 
@@ -4362,7 +4353,7 @@ Food and drink
 
 <div class="g-cat-text">
 
-Restaurant dining; Distilleries
+Restaurant dining; Bars in some areas
 
 </div>
 
@@ -4388,7 +4379,8 @@ Personal care
 
 <div class="g-cat-text">
 
-Pet grooming and boarding; Salons, barbershops, tattoo parlors, etc.
+Pet groomers; Nail salons in some areas; Tattoo parlors in some areas;
+Salons and barbershops
 
 </div>
 
@@ -4438,8 +4430,7 @@ Entertainment
 
 <div class="g-cat-text">
 
-Movie theaters; Bowling alleys; Museums, aquariums, libraries, outdoor
-attractions; Venues and events spaces
+Theaters in some areas; Arcades, bowling alleys, mini golf in some areas
 
 </div>
 
@@ -4465,7 +4456,8 @@ Outdoor and recreation
 
 <div class="g-cat-text">
 
-Gyms; Aquatic centers; Campgrounds; Public pools
+Beaches and parks in some areas; State parks in some areas; Pools and
+waterparks in some areas; Campgrounds in some areas; Gyms
 
 </div>
 
@@ -4491,7 +4483,7 @@ Industries
 
 <div class="g-cat-text">
 
-Manufacturing, construction, offices
+Construction in some areas; Offices in some areas
 
 </div>
 
@@ -4501,11 +4493,83 @@ Manufacturing, construction, offices
 
 </div>
 
-<div class="g-details-wrap g-details_closed">
+</div>
+
+</div>
+
+</div>
+
+<div id="g-state-IL" class="g-state g-cat-reversing" data-state="IL">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Illinois
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Illinois">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened May 29.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. J.B. Pritzker, a Democrat, faced political
+pushback for his cautious reopening strategy, but Illinois has not seen
+a strong upward trend in cases. On June 26, the state moved into its
+fourth and final stage of reopening, but as transmission increased over
+the summer Mr. Pritzker introduced a "mitigation" plan for areas with
+increasing positive test rates. In mid-August, Mr. Pritzker closed bars,
+restaurants and casinos in one of the state's regions.</span>
+<span class="g-link">[Read more
+»](https://www.wbez.org/stories/use-this-tool-to-track-illinois-reopening-plan-by-phase-region-and-address/51871836-6a73-47dc-a8f1-18c6fe2f2a6e)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
 
 <div class="g-details-subhed">
 
-Closed
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
 
 </div>
 
@@ -4527,7 +4591,136 @@ Food and drink
 
 <div class="g-cat-text">
 
-Bars
+Restaurant dining in some areas; Bars in some areas
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Pet grooming; Hair salons, barber shops, nail salons, spas, waxing
+centers, tattoo parlors
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Museums, zoos; Theaters; Casinos in some areas
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+State parks; limited fishing, boating, golf courses; Gyms
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Industries
+
+</div>
+
+<div class="g-cat-text">
+
+Manufacturing; Offices
 
 </div>
 
@@ -4574,8 +4767,10 @@ state’s stay-at-home order to lift and an array of businesses to reopen
 starting May 15. In June, citing an increase in cases, Mr. Edwards said
 the state would remain in Phase 2 for several more weeks. As cases
 continued to climb, Mr. Edwards ordered bars to close again and required
-the use of masks in public.</span> <span class="g-link">[Read more
-»](https://www.theadvocate.com/baton_rouge/news/coronavirus/article_06904936-d122-11ea-ba80-37555176f8af.html)</span>
+the use of masks in public, later saying that these restrictions would
+remain in place through late August.</span> <span class="g-link">[Read
+more
+»](https://www.wdsu.com/article/watch-live-gov-edwards-providing-biweekly-covid-19-update/33513056)</span>
 
 </div>
 
@@ -4984,7 +5179,7 @@ Entertainment
 <div class="g-cat-text">
 
 Arcades, bowling alleys, theaters, night clubs and convention centers in
-some regions
+some regions; Casinos
 
 </div>
 
@@ -5570,6 +5765,243 @@ Casinos; Theaters
 
 </div>
 
+<div id="g-state-OR" class="g-state g-cat-reversing" data-state="OR">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Oregon
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Oregon">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened May 15.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Kate Brown, a Democrat, started a three-phase
+regional reopening on May 15, but said Phase 3 would not come until
+September at the earliest. Masks are required in both outdoor and indoor
+spaces, and indoor gatherings of more than 10 people are prohibited.
+Capacity for restaurants and bars was lowered, and Ms. Brown recently
+rolled back reopenings in three counties because of growing positive
+test rates.</span> <span class="g-link">[Read more
+»](https://www.eastoregonian.com/coronavirus/oregon-governor-tightens-virus-restrictions-for-malheur-county/article_a5ba1480-1070-5aab-9732-27a7df8c5df7.html)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurants and bars in most counties
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Salons, barbershops in most counties
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+Houses of worship in most counties
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Movie theaters, bowling alleys in most counties
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+Some state parks; Pools in most counties; Gyms in most counties
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Industries
+
+</div>
+
+<div class="g-cat-text">
+
+Offices in most counties
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div id="g-state-PR" class="g-state g-cat-reversing" data-state="PR">
 
 <div class="g-name-details-wrap">
@@ -5598,12 +6030,12 @@ Puerto Rico
 
 <span class="g-text">Gov. Wanda Vázquez announced a curfew and closed
 non-essential businesses in March. Restaurants and retail stores were
-allowed to reopen in late May. In mid-June, Ms. Vázquez eased the
-lockdown and allowed most businesses to reopen, but on July 17, she
-ordered the re-closure of bars, movie theaters, casinos and gyms and
-reduced indoor dining limits to 50 percent.</span>
-<span class="g-link">[Read more
-»](https://www.bloomberg.com/news/articles/2020-07-16/puerto-rico-closes-bars-movie-theaters-casinos-amid-pandemic)</span>
+allowed to reopen in late May, but on July 17, she ordered the
+re-closure of bars, movie theaters, casinos and gyms. Ms. Vázquez also
+announced a 24-hour lockdown on Sundays beginning August 22 and lasting
+until September 11, along with reduced capacity in restaurants, malls
+and houses of worship. </span> <span class="g-link">[Read more
+»](https://www.washingtonpost.com/world/the_americas/puerto-rico-imposes-stricter-measures-amid-coronavirus-spike/2020/08/19/f597247e-e265-11ea-82d8-5e55d47e90ca_story.html)</span>
 
 </div>
 
@@ -7079,7 +7511,7 @@ three stages of reopening swiftly, but as cases surged, Mr. Little
 delayed a full reopening planned for June 26. The state has remained
 paused in its final stage for over a month now, re-evaluating every two
 weeks.</span> <span class="g-link">[Read more
-»](https://idahonews.com/news/coronavirus/gov-little-to-address-idahoans-about-stage-4-again)</span>
+»](https://www.kmvt.com/2020/08/06/gov-brad-little-to-hold-press-conference-on-idaho-reopening-opening-of-schools/)</span>
 
 </div>
 
@@ -7765,6 +8197,304 @@ Theaters
 
 </div>
 
+<div id="g-state-MA" class="g-state g-cat-pausing" data-state="MA">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Massachusetts
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Massachusetts">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened May 18.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Charlie Baker, a Republican, announced a
+phased reopening beginning in May. The state entered the first step of
+phase three in early July. One month later, Mr. Baker announced that the
+state would indefinitely delay any further progression due to an
+increase in cases. Mr. Baker also announced he would reduce outdoor
+gathering limits to 50 people.</span> <span class="g-link">[Read more
+»](https://www.bostonglobe.com/2020/08/07/nation/baker-reduces-limit-outdoor-gatherings-50-people/)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurant dining
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Hair salons, barbershops; Pet grooming; Nail salons, massage parlors,
+tanning salons
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Bowling alleys; Museums, aquariums; Theaters and performance venues;
+Movie theaters; Casinos
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+Golf courses; Beaches, parks, fishing, hunting and boating; Gyms
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Industries
+
+</div>
+
+<div class="g-cat-text">
+
+Construction, manufacturing; Offices; Hotels, lodging
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-details-wrap g-details_closed">
+
+<div class="g-details-subhed">
+
+Closed
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Bars
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Ballrooms, stadiums and convention halls
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div id="g-state-MS" class="g-state g-cat-pausing" data-state="MS">
 
 <div class="g-name-details-wrap">
@@ -7793,12 +8523,13 @@ Mississippi
 
 <span class="g-text">Gov. Tate Reeves, a Republican, let the state’s
 stay-at-home order expire April 27 and reopened retail stores, with some
-limits. All businesses were allowed to open June 1. In July, Mr. Reeves
-announced that the state would pause a full reopening. As numbers
-continued to climb, Mr. Reeves gradually imposed mask orders in dozens
-of counties, in addition to tightening restrictions on social gatherings
-and bars statewide.</span> <span class="g-link">[Read more
-»](https://www.sunherald.com/news/coronavirus/article244467187.html)</span>
+limits. All businesses were allowed to open in June, but in July Mr.
+Reeves said the state would pause a full reopening. As case numbers
+continued to climb, he tightened restrictions on social gatherings and
+bars statewide and later issued a mask mandate. School reopenings will
+be delayed for higher grades in certain counties.</span>
+<span class="g-link">[Read more
+»](https://www.wlox.com/2020/08/04/watch-gov-reeves-makes-announcement-schools/)</span>
 
 </div>
 
@@ -8303,9 +9034,10 @@ North Carolina
 <span class="g-text">Gov. Roy Cooper, a Democrat, allowed a variety of
 businesses to reopen in May. In late June, with cases counts trending
 upward, Mr. Cooper paused North Carolina’s reopening plan and required
-residents to wear face coverings in public. </span>
+residents to wear face coverings in public. Mr. Cooper has since
+extended the pause on reopening into September.</span>
 <span class="g-link">[Read more
-»](https://www.newsobserver.com/news/coronavirus/article244212852.html)</span>
+»](https://www.newsobserver.com/news/coronavirus/article244737227.html)</span>
 
 </div>
 
@@ -8528,241 +9260,6 @@ Outdoor and recreation
 <div class="g-cat-text">
 
 Gyms
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="g-state-OR" class="g-state g-cat-pausing" data-state="OR">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Oregon
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Oregon">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened May 15.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. Kate Brown, a Democrat, started a three-phase
-regional reopening on May 15, but said Phase 3 would not come until
-September at the earliest. Masks are required in both outdoor and indoor
-spaces, and indoor gatherings of more than 10 people are prohibited.
-Capacity for restaurants and bars was lowered, and Ms. Brown recently
-rolled back reopenings in two counties because of growing positive test
-rates.</span> <span class="g-link">[Read more
-»](https://www.oregonlive.com/news/2020/07/oregon-gov-kate-brown-announces-new-mask-mandate-for-kids-earlier-bar-and-restaurant-closure-times.html)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurants and bars
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Salons, barbershops
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Movie theaters, bowling alleys in most counties
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-Some state parks; Pools in most counties; Gyms
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Industries
-
-</div>
-
-<div class="g-cat-text">
-
-Offices in most counties
 
 </div>
 
@@ -9477,687 +9974,6 @@ Nightclubs
 
 </div>
 
-<div id="g-state-GA" class="g-state g-cat-forward" data-state="GA">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Georgia
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Georgia">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened April 24.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. Brian Kemp, a Republican, went toe-to-toe with
-the White House and local mayors over his decision to reopen large parts
-of Georgia’s economy ahead of other states. Mr. Kemp has continued
-steadily with reopening plans while case counts have trended upward, and
-he has pushed back on local governments that have tried to enforce
-stricter shutdowns or mask requirements, going as far as suing Atlanta’s
-mayor and city council over a mask order.</span>
-<span class="g-link">[Read more
-»](https://www.ledger-enquirer.com/news/coronavirus/article244285992.html)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Hair salons, barbershops, etc.
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Bowling alleys; Theaters, private social clubs; Large venues; Bars,
-nightclubs
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-Gyms
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="g-state-HI" class="g-state g-cat-forward" data-state="HI">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Hawaii
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Hawaii">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened May 7.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. David Ige, a Democrat, started the state’s
-reopening process in early May, when there were only a few new cases
-reported each day. Each island can now set its own timeline for
-reopening, with the governor’s approval. Despite the slow approach,
-Hawaii has seen a resurgence of the virus in recent days.</span>
-<span class="g-link">[Read more
-»](https://www.bigislandvideonews.com/2020/06/04/hawaii-economic-reopening-strategy-posted-online/)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining; Bars
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Pet groomers; Nail salons in some areas; Tattoo parlors in some areas;
-Salons and barbershops
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Arcades, bowling alleys, theaters in some areas
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-Beaches, piers, docks, etc.; State parks; Pools and waterparks in some
-areas; Campgrounds in some areas; Gyms
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Industries
-
-</div>
-
-<div class="g-cat-text">
-
-Construction in some areas; Offices in some areas
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="g-state-IL" class="g-state g-cat-forward" data-state="IL">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Illinois
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Illinois">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened May 29.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. J.B. Pritzker, a Democrat, faced political
-pushback for his cautious reopening strategy, but Illinois has not seen
-a strong upward trend in cases. On June 26, the state moved into its
-fourth and final stage of reopening. </span> <span class="g-link">[Read
-more
-»](https://www.wbez.org/stories/use-this-tool-to-track-illinois-reopening-plan-by-phase-region-and-address/51871836-6a73-47dc-a8f1-18c6fe2f2a6e)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Pet grooming; Hair salons, barber shops, nail salons, spas, waxing
-centers, tattoo parlors
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Museums, zoos; Theaters
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-State parks; limited fishing, boating, golf courses; Gyms
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Industries
-
-</div>
-
-<div class="g-cat-text">
-
-Manufacturing; Offices
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 <div id="g-state-ME" class="g-state g-cat-forward" data-state="ME">
 
 <div class="g-name-details-wrap">
@@ -10405,303 +10221,6 @@ Bars for indoor service
 
 </div>
 
-<div id="g-state-MA" class="g-state g-cat-forward" data-state="MA">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Massachusetts
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Massachusetts">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened May 18.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. Charlie Baker, a Republican, announced a
-phased reopening beginning in May. The state is now in the third phase.
-Mr. Baker has indicated that the fourth and final phase, which would
-allow bars to reopen, will not begin until a treatment or vaccine is
-available. </span> <span class="g-link">[Read more
-»](https://www.nbcboston.com/news/coronavirus/for-phase-4-businesses-indefinite-wait-to-reopen-is-exceptionally-difficult/2159533/)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Hair salons, barbershops; Pet grooming; Nail salons, massage parlors,
-tanning salons
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Bowling alleys; Museums, aquariums; Theaters and performance venues;
-Movie theaters; Casinos
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-Golf courses; Beaches, parks, fishing, hunting and boating; Gyms
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Industries
-
-</div>
-
-<div class="g-cat-text">
-
-Construction, manufacturing; Offices; Hotels, lodging
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-details-wrap g-details_closed">
-
-<div class="g-details-subhed">
-
-Closed
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Bars
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Ballrooms, stadiums and convention halls
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
 <div id="g-state-NY" class="g-state g-cat-forward" data-state="NY">
 
 <div class="g-name-details-wrap">
@@ -10870,7 +10389,7 @@ Entertainment
 
 <div class="g-cat-text">
 
-Museums and aquariums in some regions
+Museums and aquariums in some regions; Bowling alleys
 
 </div>
 
@@ -10959,7 +10478,7 @@ Entertainment
 
 <div class="g-cat-text">
 
-Movie theaters, casinos; Amusement parks, bowling alleys
+Movie theaters, casinos; Amusement parks
 
 </div>
 
@@ -11267,9 +10786,7 @@ Tennessee
 
 <span class="g-text">Gov. Bill Lee, a Republican, announced reopening
 plans for 89 of 95 Tennessee counties starting April 27. The remaining
-counties were to follow individual reopening plans. All counties are now
-in some phase of reopening, and restaurants and retail stores can
-operate in most counties with no restrictions.</span>
+counties were to follow individual reopening plans.</span>
 <span class="g-link">[Read more
 »](https://www.wsmv.com/news/tennessee-releases-new-guidelines-for-reopening-restaurants-retail-and-large-attractions/article_0f74cd22-9ad3-11ea-9f03-e3784e1e4029.html)</span>
 
@@ -11432,241 +10949,6 @@ Outdoor and recreation
 <div class="g-cat-text">
 
 State parks; Gyms
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<div id="g-state-VT" class="g-state g-cat-forward" data-state="VT">
-
-<div class="g-name-details-wrap">
-
-<div class="g-name">
-
-Vermont
-
-</div>
-
-</div>
-
-<div class="g-inner-box">
-
-<div class="g-stateCaseChartShell" data-state="Vermont">
-
-</div>
-
-<div class="g-date-details">
-
-<span class="g-date-details-text">Reopened May 15.</span>
-
-</div>
-
-<div class="g-text-wrap">
-
-<span class="g-text">Gov. Phil Scott, a Republican, allowed small
-changes, such as the opening of farmers’ markets, before a broader
-reopening beginning with retail stores on May 18. Other businesses, such
-as gyms and restaurants, reopened in June. Starting August 1, the face
-masks will be required in both indoor and outdoor public spaces.</span>
-<span class="g-link">[Read more
-»](https://vtdigger.org/2020/07/24/scott-orders-mask-mandate/)</span>
-
-</div>
-
-<div class="g-details-wrap-outer">
-
-<div class="g-details-wrap g-details">
-
-<div class="g-details-subhed">
-
-Open
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Retail
-
-</div>
-
-<div class="g-cat-text">
-
-Retail stores
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Food and drink
-
-</div>
-
-<div class="g-cat-text">
-
-Restaurant dining
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Personal care
-
-</div>
-
-<div class="g-cat-text">
-
-Hair salons and barbershops; Nail salons, spas, tattoo parlors
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Houses of worship
-
-</div>
-
-<div class="g-cat-text">
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Entertainment
-
-</div>
-
-<div class="g-cat-text">
-
-Museums, theaters, libraries
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Outdoor and recreation
-
-</div>
-
-<div class="g-cat-text">
-
-State parks, golf courses, trails, etc.; Campgrounds; Gyms, fitness
-centers
-
-</div>
-
-</div>
-
-</div>
-
-<div class="g-cat-details-wrap">
-
-<div class="g-cat-marker">
-
-<span class="g-marker-outer"><span></span></span>
-
-</div>
-
-<div class="g-cat-name-text-wrap">
-
-<div class="g-cat-name">
-
-Industries
-
-</div>
-
-<div class="g-cat-text">
-
-Manufacturing, construction, distribution
 
 </div>
 
@@ -11889,6 +11171,216 @@ Outdoor and recreation
 <div class="g-cat-text">
 
 Gyms; Pools
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="g-state-GA" class="g-state g-cat-reopened" data-state="GA">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Georgia
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Georgia">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened April 24.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Brian Kemp, a Republican, went toe-to-toe with
+the White House and local mayors over his decision to reopen large parts
+of Georgia’s economy ahead of other states. Mr. Kemp has continued
+steadily with reopening plans while case counts have trended upward, and
+he has firmly opposed recommendations for a statewide mask mandate. In
+mid-August, however, he amended an executive order to allow local areas
+to implement mask requirements.</span> <span class="g-link">[Read more
+»](https://www.ajc.com/politics/politics-blog/kemps-latest-order-allows-local-mask-mandates-for-the-first-time/GJRZ2AXEB5GEPN2TX6BPJGEC24/)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurant dining
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Hair salons, barbershops, etc.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Bowling alleys; Theaters, private social clubs; Large venues; Bars,
+nightclubs
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+Gyms
 
 </div>
 
@@ -12331,6 +11823,243 @@ Industries
 <div class="g-cat-text">
 
 Offices
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="g-state-KY" class="g-state g-cat-reopened" data-state="KY">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Kentucky
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Kentucky">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened May 20.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Andy Beshear, a Democrat, reopened businesses
+under new guidelines beginning in early May, then ordered residents to
+wear masks in public soon after the state had reached the end of its
+initial reopening timeline. As case numbers continued to climb, Mr.
+Beshear ordered bars to close again starting July 28 and restaurants to
+reduce indoor dining capacity. Mr. Beshear lifted those restrictions and
+allowed bars to reopen two weeks later.</span>
+<span class="g-link">[Read more
+»](https://www.rcnky.com/articles/2020/08/10/governor-delay-person-school-until-sept-28-bars-reopen-restaurants-expand)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurant dining; Distilleries; Bars
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Pet grooming and boarding; Salons, barbershops, tattoo parlors, etc.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Movie theaters; Bowling alleys; Museums, aquariums, libraries, outdoor
+attractions; Venues and events spaces
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+Gyms; Aquatic centers; Campgrounds; Public pools
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Industries
+
+</div>
+
+<div class="g-cat-text">
+
+Manufacturing, construction, offices
 
 </div>
 
@@ -12817,7 +12546,8 @@ Montana
 in phases, beginning in late April. All businesses could reopen June 1,
 provided they followed certain guidelines. In July, citing rising case
 counts, Mr. Bullock ordered Montanans in certain counties to wear masks
-in many public settings.</span> <span class="g-link">[Read more
+in many public settings. He later amended this order to include
+schools.</span> <span class="g-link">[Read more
 »](https://montanafreepress.org/2020/07/15/bullock-covid-masks-mandatory/)</span>
 
 </div>
@@ -14659,6 +14389,241 @@ Gyms; Pools
 
 </div>
 
+<div id="g-state-VT" class="g-state g-cat-reopened" data-state="VT">
+
+<div class="g-name-details-wrap">
+
+<div class="g-name">
+
+Vermont
+
+</div>
+
+</div>
+
+<div class="g-inner-box">
+
+<div class="g-stateCaseChartShell" data-state="Vermont">
+
+</div>
+
+<div class="g-date-details">
+
+<span class="g-date-details-text">Reopened May 15.</span>
+
+</div>
+
+<div class="g-text-wrap">
+
+<span class="g-text">Gov. Phil Scott, a Republican, allowed small
+changes, such as the opening of farmers’ markets, before a broader
+reopening beginning with retail stores on May 18. Other businesses, such
+as gyms and restaurants, reopened in June. Face masks are required in
+both indoor and outdoor public spaces.</span> <span class="g-link">[Read
+more
+»](https://vtdigger.org/2020/07/24/scott-orders-mask-mandate/)</span>
+
+</div>
+
+<div class="g-details-wrap-outer">
+
+<div class="g-details-wrap g-details">
+
+<div class="g-details-subhed">
+
+Open
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Retail
+
+</div>
+
+<div class="g-cat-text">
+
+Retail stores
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Food and drink
+
+</div>
+
+<div class="g-cat-text">
+
+Restaurant dining; Bars
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Personal care
+
+</div>
+
+<div class="g-cat-text">
+
+Hair salons and barbershops; Nail salons, spas, tattoo parlors
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Houses of worship
+
+</div>
+
+<div class="g-cat-text">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Entertainment
+
+</div>
+
+<div class="g-cat-text">
+
+Museums, theaters, libraries
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Outdoor and recreation
+
+</div>
+
+<div class="g-cat-text">
+
+State parks, golf courses, trails, etc.; Campgrounds; Gyms, fitness
+centers
+
+</div>
+
+</div>
+
+</div>
+
+<div class="g-cat-details-wrap">
+
+<div class="g-cat-marker">
+
+<span class="g-marker-outer"><span></span></span>
+
+</div>
+
+<div class="g-cat-name-text-wrap">
+
+<div class="g-cat-name">
+
+Industries
+
+</div>
+
+<div class="g-cat-text">
+
+Manufacturing, construction, distribution
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <div id="g-state-VA" class="g-state g-cat-reopened" data-state="VA">
 
 <div class="g-name-details-wrap">
@@ -15291,9 +15256,10 @@ Wyoming
 <span class="g-text">Gov. Mark Gordon, a Republican, did not order
 Wyoming residents to stay home, and he began lifting restrictions on
 businesses May 1. However, Mr. Gordon recently extended safety measures
-on restaurants, bars and gyms through August 15. </span>
+on restaurants, bars and gyms through August 31. Beginninig August 16,
+outdoor venues can hold gatherings of up to 1,000 people.</span>
 <span class="g-link">[Read more
-»](https://cowboystatedaily.com/2020/05/07/gordon-opens-wyoming-restaurants-and-bars-by-may-15/)</span>
+»](https://www.wyomingpublicmedia.org/post/larger-outdoor-gatherings-allowed-housing-assistance-expands-aid#stream/0)</span>
 
 </div>
 
@@ -15488,24 +15454,207 @@ parks
 
 <div class="g-svelte" data-component="1">
 
-<div class="nav-wrap svelte-idrnru">
+<div class="nav-wrap svelte-15xraff">
 
-  - [World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
-  - [World
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
-  - [U.S.
-    Cities](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
-  - [U.S.
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
-  - [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
-  - [Nursing
-    homes](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
-  - [New York
-    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
-  - [Reopening](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
-  - [Vaccines](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+### United States
 
-Countries
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/orphan_usa-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+county
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/deaths-us.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus in the
+U.S.
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Cities and Metro
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/metros.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Cities and Metro Areas
+
+Where it is getting better and
+worse
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/testing.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Testing
+
+Is your state doing
+enough?
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Nursing
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/nursing-homes.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Nursing Homes
+
+The hardest-hit states and
+facilities
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Reopening](https://static01.graylady3jvrrxbe.onion/images/2020/04/24/us/states-reopen-map-coronavirus-promo-1587778728210/states-reopen-map-coronavirus-promo-1587778728210-threeByTwoSmallAt2X-v96.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Reopening
+
+Which states are open and
+closed
+
+</div>
+
+</div>
+
+</div>
+
+### World
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/orphan_world-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+country
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/deaths-world.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus around the
+world
+
+</div>
+
+</div>
+
+</div>
+
+### Health
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/vaccines.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Vaccines
+
+Track their
+development
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-drugs-treatments.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/92c610a4bd67191a7b0c5618900cc95dbacdc73d/images/footer-thumbs/treatments.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Treatments
+
+Rated by effectiveness and
+    safety
+
+</div>
+
+</div>
+
+</div>
+
+### Countries
 
   - [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)
   - [Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)
@@ -15519,8 +15668,7 @@ Countries
   - [United
     States](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+### States, Territories and Cities
 
   - [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -15558,6 +15706,8 @@ State by
     Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-mexico-coronavirus-cases.html)
   - [New
     York](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-york-coronavirus-cases.html)
+  - [New York
+    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
   - [North
     Carolina](https://www.nytimes3xbfgragh.onion/interactive/2020/us/north-carolina-coronavirus-cases.html)
   - [North

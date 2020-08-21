@@ -173,6 +173,120 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/19/us/politics/blood-plasma-covid-19.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/business/00virus-plasma-1/merlin_174329514_3b40dd0e-a16d-4006-a811-4510614384a9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## F.D.A.’s Emergency Approval of Blood Plasma Is Now on Hold
+    
+    Government health leaders including Dr. Francis S. Collins and Dr.
+    Anthony S. Fauci urged caution last week, citing weak data from the
+    country’s largest plasma study.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Noah Weiland, Sharon LaFraniere
+    <span>and</span> Sheri
+    Fink</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/17/us/politics/trump-court-transgender-rights.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17dc-transgender/merlin_173564148_eca1db0a-9b1b-4d5d-9409-6e1a9c35d369-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Judge Blocks Trump Officials’ Attempt to End Transgender Health Protections
+    
+    The decision arrived a day before a Trump administration rule
+    narrowing the legal definition of sex discrimination was set to take
+    effect.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Margot Sanger-Katz <span>and</span>
+    Noah
+    Weiland</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/science/05virus-plasma-ES-00/31VIRUS-PLASMA1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## El tratamiento de plasma: Trump lo elogia y los investigadores luchan por finalizar estudios que prueben su eficacia
+    
+    Miles de pacientes de la COVID-19 han sido tratados con plasma
+    sanguíneo de personas que se han recuperado del virus. Sin embargo,
+    el tratamiento aún no ha sido probado en ensayos clínicos rigurosos.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katie Thomas <span>and</span> Noah
+    Weiland</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/08/04/health/trump-plasma.html "Read in English")
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/health/trump-plasma.html)
     
     <div class="css-79elbk">
@@ -194,6 +308,13 @@ story](#after-mid1)
     
     </div>
     
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/07/espanol/ciencia-y-tecnologia/plasma-convaleciente-coronavirus.html "Read in Spanish")
+    
+    </div>
+    
     </div>
     
     <div class="css-1lc2l26 e1xfvim33">
@@ -202,7 +323,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -238,7 +359,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -273,7 +394,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -309,7 +430,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -345,7 +466,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -381,7 +502,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -404,113 +525,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Michael D. Shear, Noah Weiland, Eric
-    Lipton, Maggie Haberman <span>and</span> David E.
-    Sanger</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/us/politics/medicare-agency-inspector-general.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/politics/17dc-verma/merlin_171380025_42c33401-6cb0-4c44-80f4-dc622b20112d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Watchdog Faults Medicare Agency’s Use of Communications Contractors
-    
-    An inspector general’s audit said the Centers for Medicare and
-    Medicaid Service used communications contractors for work that
-    should have been performed by public servants.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Margot Sanger-Katz <span>and</span>
-    Noah
-    Weiland</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/us/politics/vaccine-Slaoui-coronavirus-trump.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/us/politics/15dc-virus-warpspeed/merlin_172536735_e9d95f09-d49e-48b0-9a1c-179a05885efb-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Chief Vaccine Scientist Will Not Be Forced to Disclose Pharmaceutical Stocks
-    
-    Dr. Moncef Slaoui, the chief adviser for the Trump administration’s
-    coronavirus vaccine program, can remain a government contractor,
-    thus shielding him from disclosure rules.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Noah
-    Weiland</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/13/us/politics/fauci-trump-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/us/politics/13dc-virus-fauci/merlin_171696780_ed9e8a48-95c8-4311-b8f3-43192400a8e8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Fauci Back at the White House, a Day After Trump Aides Tried to Undermine Him
-    
-    The visit underscored a reality for both the president and his most
-    prominent coronavirus adviser: They are stuck with each other.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael D. Shear <span>and</span> Noah
-    Weiland</span>
+    Lipton, Maggie Haberman <span>and</span> David E. Sanger</span>
     
     </div>
     

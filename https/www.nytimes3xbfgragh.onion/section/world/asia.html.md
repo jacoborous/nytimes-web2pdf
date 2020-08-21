@@ -69,6 +69,10 @@ Pacific](https://www.nytimes3xbfgragh.onion/section/world/asia)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -176,24 +180,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/taiwan-azar-beijing-coronavirus.html)
+    [](/2020/08/20/briefing/south-korea-outbreak-china-crackdown-navalny.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05virus-taiwan-1/merlin_175199349_0866db72-6796-458b-b40d-e47a3a715abe-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20virus-skorea-1sub-copy/20virus-skorea-1sub-copy-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Health Secretary to Visit Taiwan, in a Move Likely to Anger Beijing
+    ## Your Friday Briefing
     
-    The trip by Alex M. Azar II, a rare high-level U.S. visit, is being
-    billed as an opportunity to highlight Taiwan’s success in battling
-    the coronavirus pandemic.
+    South Korea outbreak, China crackdown, Aleksei Navalny: Here’s what
+    you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Amy
-    Qin</span>
+    By <span class="css-1n7hynb">Melina
+    Delkic</span>
     
     </div>
     
@@ -211,24 +214,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/us-troops-afghanistan.html)
+    [](/2020/08/20/world/asia/thailand-arrests-protests.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/politics/04dc-military/04dc-military-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20thai-arrests-1/20thai-arrests-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## More U.S. Troops Will Leave Afghanistan Before the Election, Trump Says
+    ## Thailand Police Arrest Activists, Escalating Protest Crackdown
     
-    The president’s assertion undercuts diplomats who have said
-    withdrawals will depend on the Taliban’s commitment to its peace
-    deal with the United States.
+    Rappers, a lawyer and other government critics have been accused of
+    sedition, a crime that can carry a 7-year prison sentence.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Gibbons-Neff</span>
+    By <span class="css-1n7hynb">Hannah
+    Beech</span>
     
     </div>
     
@@ -246,22 +248,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/briefing/beirut-explosion-melbourne-lockdown-pakistan.html)
+    [](/2020/08/20/world/asia/coronavirus-south-korea-church-sarang-jeil.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/briefing/05briefing-asia-slide-89DA/05briefing-asia-slide-89DA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20virus-skorea-1sub/20virus-skorea-1sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Beirut Blasts, Melbourne Lockdown, Island SOS: Your Wednesday Briefing
+    ## In South Korea’s New Covid-19 Outbreak, Religion and Politics Collide
     
-    Here’s what you need to know.
+    The Sarang Jeil Church in Seoul has been a magnet for thousands of
+    conservative Christians who fear their country is turning communist
+    under President Moon Jae-in. Many have contracted the coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Carole
-    Landry</span>
+    By <span class="css-1n7hynb">Choe
+    Sang-Hun</span>
     
     </div>
     
@@ -279,24 +283,30 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/asia/pakistan-hindu-conversion.html)
+    [](/2020/08/20/world/asia/china-xi-jinping-communist-party.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/world/00pakistan-hindus1/00pakistan-hindus1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20china-purge-1/20china-purge-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Poor and Desperate, Pakistani Hindus Accept Islam to Get By
+    ## ‘Drive the Blade In’: Xi Shakes Up China’s Law-and-Order Forces
     
-    Drawn by jobs or land offered by Muslim groups, some Hindus, facing
-    discrimination and a virus-ravaged economy, are essentially
-    converting to survive.
+    Citing Mao, the Communist Party has started a campaign to ensure
+    that police officers, judges and state security agents remain loyal
+    and disciplined in challenging times.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maria Abi-Habib <span>and</span> Zia
-    ur-Rehman</span>
+    By <span class="css-1n7hynb">Chris
+    Buckley</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/china/20200821/china-xi-jinping-communist-party/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/china/20200821/china-xi-jinping-communist-party/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -314,24 +324,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/australia/sos-pacific-island.html)
+    [](/2020/08/20/world/asia/1970-man-hijacks-plane.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/world/04sos-pacific-1/merlin_175284195_c3a56f16-aa09-45ee-9c4c-eea9738d6caf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20ihtretrospective-image/20ihtretrospective-image-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 3 Men Marooned in the Pacific Are Rescued After Writing SOS in the Sand
+    ## 1970: Lovesick Japanese Man Hijacks Plane With Toy Gun
     
-    Three days after their boat ran out of fuel and drifted off course
-    in Micronesia, the men were found in good condition after a plane
-    saw their giant plea for help spelled out on the sand.
+    An apprentice cook, claiming he wanted to die after an affair went
+    awry, was apprehended by the police after forcing the passenger jet
+    to land. No one was injured.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Elian
-    Peltier</span>
+    By <span class="css-1n7hynb">The International Herald
+    Tribune</span>
     
     </div>
     
@@ -349,26 +359,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/magazine/behrouz-boochani-australia.html)
+    [](/2020/08/20/world/asia/india-police-brutality.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/magazine/09mag-Boochani-03/09mag-Boochani-03-thumbWide-v7.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/world/00india-police-2/00india-police-2-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">feature</span>
+    ## Hundreds of Police Killings in India, but No Mass Protests
     
-    ## Behrouz Boochani Just Wants to Be Free
-    
-    He fled Iran’s Revolutionary Guard. He exposed Australia’s offshore
-    detention camps — from the inside. He survived, stateless, for seven
-    years. What’s next?
+    Despite evidence of widespread police brutality, no significant
+    grass-roots movement has arisen. For many Indians, day-to-day crime
+    is the more pressing issue.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Megan K.
-    Stack</span>
+    By <span class="css-1n7hynb">Jeffrey Gettleman <span>and</span>
+    Sameer
+    Yasir</span>
     
     </div>
     
@@ -386,22 +395,30 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/briefing/coronavirus-tiktok-afghanistan-australia.html)
+    [](/2020/08/19/world/asia/north-korea-economy-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-01-copy/03DC-Trump-CEO-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20nkorea-1sub/20nkorea-1sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok, Coronavirus, Spearfishing: Your Tuesday Briefing
+    ## North Korea’s Leader Had Big Economic Plans. He Admits They’ve Failed.
     
-    Here’s what you need to know.
+    Kim Jong-un’s blunt assessment led his country to plan a rare
+    Workers’ Party congress for January to chart a new course after the
+    country was hammered by sanctions, floods and the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Carole
-    Landry</span>
+    By <span class="css-1n7hynb">Choe
+    Sang-Hun</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200821/north-korea-economy-coronavirus/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200821/north-korea-economy-coronavirus/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -419,23 +436,30 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/tiktok-microsoft-tweens.html)
+    [](/2020/08/19/us/politics/trump-china-hong-kong.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03microsoft1/merlin_169492596_88048f5c-3a77-4706-9082-19d123949da8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dc-diplo-hk/19dc-diplo-hk-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## With TikTok, ‘Uncool’ Microsoft Aims for the Love of Tweens
+    ## U.S. Suspends Bilateral Agreements With Hong Kong, Escalating Tensions With China
     
-    Buying one of the largest and most influential social networks in
-    the country could change the perception of the tech giant.
+    The actions are part of the Trump administration’s broader efforts
+    to punish China for its attempts to stifle political dissent in Hong
+    Kong.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Karen
-    Weise</span>
+    By <span class="css-1n7hynb">Pranshu
+    Verma</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/usa/20200820/trump-china-hong-kong/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/usa/20200820/trump-china-hong-kong/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -453,24 +477,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/asia/afghanistan-prison-isis-taliban.html)
+    [](/2020/08/19/briefing/hubei-officials-australian-vaccine-apple.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03afghan-prison6/merlin_175263168_e480620a-c180-403d-995f-66ba81207750-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dc-virus-china1-copy/19dc-virus-china1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 29 Dead After ISIS Attack on Afghan Prison
+    ## Hubei Officials, Apple, Kiribati: Your Thursday Briefing
     
-    The 20-hour gun battle left officials scrambling to recapture
-    hundreds of prisoners, including many from the Islamic State and the
-    Taliban.
+    Here’s what you need to know.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Zabihullah Ghazi <span>and</span> Mujib
-    Mashal</span>
+    By <span class="css-1n7hynb">Melina
+    Delkic</span>
     
     </div>
     
@@ -488,23 +510,31 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/world/asia/pakistan-media-abductions.html)
+    [](/2020/08/19/world/asia/china-coronavirus-beijing-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/world/03pakistan-media-promo/03pakistan-media-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dc-virus-china1/19dc-virus-china1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Abductions, Censorship and Layoffs: Pakistani Critics Are Under Siege
+    ## Local Officials in China Hid Coronavirus Dangers From Beijing, U.S. Agencies Find
     
-    Recent abductions of a journalist and an activist have underscored
-    Pakistan’s worsening rights conditions as the country’s security
-    forces pressure the news media and human rights groups.
+    A new U.S. intelligence report says top officials in Beijing were in
+    the dark in early January on the true dangers of the virus. That
+    could affect U.S. policy on China.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Maria Abi-Habib</span>
+    By <span class="css-1n7hynb">Edward Wong, Julian E. Barnes
+    <span>and</span> Zolan
+    Kanno-Youngs</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200820/china-coronavirus-beijing-trump/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200820/china-coronavirus-beijing-trump/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     

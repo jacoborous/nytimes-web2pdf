@@ -132,35 +132,21 @@ Investment</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986d080-e38c-11ea-ba56-c354277706d3)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986d081-e38c-11ea-ba56-c354277706d3)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986d082-e38c-11ea-ba56-c354277706d3)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986f790-e38c-11ea-ba56-c354277706d3)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986f791-e38c-11ea-ba56-c354277706d3)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4986f792-e38c-11ea-ba56-c354277706d3)</span>
 
 </div>
 
@@ -235,10 +221,11 @@ generation.
 
 <div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
 
-![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Lightsource
-BP’s floating installation at the Queen Elizabeth II Reservoir, in
-Britain, in this undated photo released by Lightsource BP in
-2019.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Reuters</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04BP/merlin_153014457_298cbec8-7f4a-4507-ac2f-a5636d6bc2e9-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">The BP
+chief executive, Bernard Looney, has said that in a decade, he wants the
+company to be investing around $5 billion a year in renewable
+energy.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Toby
+Melville/Reuters</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/business/04BP-sub/04BP-sub-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
 </div>
 
@@ -265,8 +252,14 @@ Reed</span>](https://www.nytimes3xbfgragh.onion/by/stanley-reed)
 
 </div>
 
-  - Aug. 4,
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Aug. 4,
     2020
+    
+    </div>
 
   - 
     
@@ -346,52 +339,51 @@ year.
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-lb-items">
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[11h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
-
-</div>
-
-<div>
-
-[Fox Corporation’s plunging profit is cushioned by Fox
-News.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#fox-corporations-plunging-profit-is-cushioned-by-fox-news)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[11h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
+[10h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-producer-of-unhinged-makes-a-big-bet-on-audiences-returning-to-theaters)
 
 </div>
 
 <div>
 
-[Trading in Kodak shares comes under
-scrutiny.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trading-in-kodak-shares-comes-under-scrutiny)
+[The producer of ‘Unhinged’ makes a big bet on audiences returning to
+theaters.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-producer-of-unhinged-makes-a-big-bet-on-audiences-returning-to-theaters)
 
 </div>
 
-<div class="briefing-block-update-time active">
+<div class="briefing-block-update-time">
 
-[12h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
+[19h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#american-airlines-to-stop-flights-to-15-cities-after-government-aid-ends)
 
 </div>
 
 <div>
 
-[Disney lost $4.7 billion last quarter, but its newest business was a
-big
-hit.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#disney-lost-4-7-billion-last-quarter-but-its-newest-business-was-a-big-hit)
+[American Airlines to stop flights to 15 cities after government aid
+ends.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#american-airlines-to-stop-flights-to-15-cities-after-government-aid-ends)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[20h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#without-school-plays-and-assemblies-a-technicians-livelihood-withers)
+
+</div>
+
+<div>
+
+[Without school plays and assemblies, a technician’s livelihood
+withers.](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#without-school-plays-and-assemblies-a-technicians-livelihood-withers)
 
 </div>
 
@@ -402,14 +394,14 @@ hit.](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-t
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Global](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Global](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 

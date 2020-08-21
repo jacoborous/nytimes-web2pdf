@@ -70,7 +70,7 @@ index](#site-index)
 <div class="css-nhmgdh">
 
 <span class="css-1dv1kvn" data-aria-live="polite">Showing 10 out of
-19,368 results for:</span><span class="css-1dv1kvn"></span>
+19,300 results for:</span><span class="css-1dv1kvn"></span>
 
 <div class="css-aoqhyj">
 
@@ -184,17 +184,17 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     Europe
     
-    [](/aponline/2020/08/04/world/europe/ap-eu-sweden-killed-teenager.html?searchResultPosition=1)
+    [](/reuters/2020/08/21/world/europe/21reuters-eurozone-economy-pmi.html?searchResultPosition=1)
     
-    #### Outcry in Sweden After Drive-By Shooting Kills 12-Year-Old
+    #### Euro Zone Business Recovery Stuttered in August: PMIs
     
-    The Swedish government vowed Tuesday to find the perpetrators of a
-    drive-by shooting that killed a 12-year-old girl in what authorities
-    said appears to be the latest violence from suburban feuds between
-    criminal gangs fighting over territory.
+    The euro zone's economic recovery from its deepest downturn on
+    record has stuttered this month, particularly in services, as the
+    pent-up demand unleashed last month by the easing of coronavirus
+    lockdowns dwindled, a survey showed on Friday.
     
-    By The Associated
-    Press
+    By
+    Reuters
     
     </div>
     
@@ -210,18 +210,19 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Politics
+    Europe
     
-    [](/reuters/2020/08/04/us/politics/04reuters-usa-election-arpaio.html?searchResultPosition=2)
+    [](/reuters/2020/08/21/world/europe/21reuters-britain-eu-official.html?searchResultPosition=2)
     
-    #### 'America's Toughest Sheriff' Faces Tough Race to Win Old Job Back
+    #### Latest Round of Brexit Talks Bring No Breakthrough, Says EU Official
     
-    Joe Arpaio, the former sheriff of Arizona's largest county who built
-    a national reputation as a staunch opponent of illegal immigration
-    and found a powerful ally in President Donald Trump, is seeking to
-    win his old job in Tuesday's Republican primary.
+    The latest negotiating round between Britain and the EU on their
+    future relationship after a post-Brexit transition period runs out
+    at the end of 2020 brought no breakthroughs this week on the key
+    sticking points, an official with the bloc said on Friday.
     
-    By Reuters
+    By
+    Reuters
     
     </div>
     
@@ -237,15 +238,18 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Book
-    Review
+    Europe
     
-    [](/2020/08/04/books/review/wandering-in-strange-lands-by-morgan-jerkins-an-excerpt.html?searchResultPosition=3)
+    [](/reuters/2020/08/21/world/europe/21reuters-health-coronavirus-ireland-resign.html?searchResultPosition=3)
     
-    #### ‘Wandering in Strange Lands,’ by Morgan Jerkins: An Excerpt
+    #### Irish Minister Resigns Over COVID-19 Breach, Colleague Says
     
-    An excerpt from “Wandering in Strange Lands,” by Morgan
-    Jerkins
+    Ireland's agriculture minister resigned on Friday, a cabinet
+    colleague said, after his attendance at a social event which may
+    have breached COVID-19 regulations drew a wave of public anger.
+    
+    By
+    Reuters
     
     </div>
     
@@ -261,16 +265,16 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Business
+    Europe
     
-    [](/reuters/2020/08/04/business/04reuters-booking-hldg-jobs.html?searchResultPosition=4)
+    [](/reuters/2020/08/21/world/europe/21reuters-health-coronavirus-ireland.html?searchResultPosition=4)
     
-    #### Booking.com Wants to Lay Off a Quarter of Its Staff: NRC Handelsblad
+    #### Irish PM Accepts Minister's Resignation Over COVID-19 Breach
     
-    Booking Holding Inc., the U.S.-based company that owns travel
-    website Booking.com, wants to layoff one quarter of its 17,000
-    workers as a result of business lost during the coronavirus
-    pandemic, Dutch newspaper NRC Handelsblad reported on Tuesday.
+    Ireland's prime minister on Friday accepted the resignation of
+    Agriculture Minister Dara Calleary after his attendance at a social
+    event which may have breached COVID-19 regulations drew a wave of
+    public anger.
     
     By Reuters
     
@@ -287,13 +291,13 @@ Sort by RelevanceSort by NewestSort by Oldest
     ### Advertisement
     
     [Continue reading the main
-    story](#after-mid242)
+    story](#after-mid206)
     
-    <div id="mid242" class="ad mid242-wrapper" style="text-align:center;height:100%;display:block">
+    <div id="mid206" class="ad mid206-wrapper" style="text-align:center;height:100%;display:block">
     
     </div>
     
-    <div id="after-mid242">
+    <div id="after-mid206">
     
     </div>
     
@@ -307,20 +311,18 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Asia
-    Pacific
+    Europe
     
-    [](/reuters/2020/08/04/world/asia/04reuters-health-coronavirus-india.html?searchResultPosition=5)
+    [](/reuters/2020/08/21/world/europe/21reuters-health-coronavirus-russia-vaccine.html?searchResultPosition=5)
     
-    #### Sun Pharma Latest to Sell COVID-19 Drug Favipiravir in India
+    #### Russia's Vektor COVID-19 Vaccine to Complete Clinical Trial in September: RIA
     
-    India's Sun Pharmaceutical Industries Ltd said on Tuesday it would
-    soon begin selling its version of favipiravir, becoming the latest
-    generic drugmaker to supply the antiviral to treat COVID-19 in the
-    world's third worst-hit nation.
+    The clinical trial of a Russian COVID-19 vaccine being developed by
+    the Siberian Vektor research centre is due to be completed in
+    September, the RIA news agency cited Russia's healthcare watchdog as
+    saying on Friday.
     
-    By
-    Reuters
+    By Reuters
     
     </div>
     
@@ -336,16 +338,17 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Politics
+    Asia
+    Pacific
     
-    [](/reuters/2020/08/04/us/politics/04reuters-health-coronavirus-usa-congress.html?searchResultPosition=6)
+    [](/reuters/2020/08/21/world/asia/21reuters-health-coronavirus-papua.html?searchResultPosition=6)
     
-    #### White House, U.S. Congress Democrats to Continue Effort on Coronavirus Aid
+    #### Papua New Guinea Bars Chinese Workers in Vaccine Trial Over Virus Risk: Paper
     
-    Top White House officials and Democratic leaders in the U.S.
-    Congress will try again on Tuesday to narrow gaping differences over
-    a fifth major coronavirus-aid bill to help stimulate the economy and
-    possibly dispatch new aid to the unemployed.
+    Papua New Guinea has denied entry to Chinese nationals who
+    participated in a COVID-19 vaccine trial, the Australian newspaper
+    said on Friday, as the Pacific nation battles a worsening outbreak
+    of the respiratory disease.
     
     By
     Reuters
@@ -366,17 +369,16 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     U.S.
     
-    [](/reuters/2020/08/04/us/04reuters-health-coronavirus-usa-military-feature.html?searchResultPosition=7)
+    [](/aponline/2020/08/21/us/ap-us-portland-protests.html?searchResultPosition=7)
     
-    #### Military Helps Worn-Out Nurses, Sicker Patients in California COVID-19 Effort
+    #### Unlawful Assembly Declared at Portland ICE Building
     
-    All day long, as Air Force nurse Major Pinky Brewton cares for
-    patients struggling to breathe in California's COVID-19 ravaged San
-    Joaquin Valley, fears for her family simmer underneath her cool
-    exterior.
+    Demonstrators returned to a U.S. Immigration and Customs Enforcement
+    building in Portland, Oregon, late Thursday for a second consecutive
+    night and faced off with law enforcement.
     
-    By
-    Reuters
+    By The Associated
+    Press
     
     </div>
     
@@ -392,19 +394,18 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Business
+    Europe
     
-    [](/reuters/2020/08/04/business/04reuters-usa-tiktok-minecraft.html?searchResultPosition=8)
+    [](/reuters/2020/08/21/world/europe/21reuters-russia-politics-navalny-poison.html?searchResultPosition=8)
     
-    #### Microsoft's Rescue Attempt of TikTok Endears Old Company to New Generation
+    #### Russian Hospital Doctor Says No Poison Found in Tests on Kremlin Critic Navalny
     
-    Microsoft has emerged as a savior to young users of TikTok, who
-    praised the tech industry giant for trying to buy parts of the
-    social media company's operations, in hopes of avoiding a U.S.
-    shutdown.
+    The deputy head doctor of a hospital in Siberia said on Friday
+    doctors had found no traces of poison in tests carried out on
+    Kremlin critic Alexei Navalny, who was taken ill while flying back
+    to Moscow from Siberia.
     
-    By
-    Reuters
+    By Reuters
     
     </div>
     
@@ -420,15 +421,17 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    Europe
+    Asia
+    Pacific
     
-    [](/reuters/2020/08/04/world/europe/04reuters-france-hong-kong.html?searchResultPosition=9)
+    [](/reuters/2020/08/21/world/asia/21reuters-health-coronavirus-southkorea.html?searchResultPosition=9)
     
-    #### France Says It Will Not Ratify Extradition Treaty With Hong Kong
+    #### South Korea Urges More Testing, Quarantines as Coronavirus Cases Hit 5-1/2 Month High
     
-    France said on Monday it would not ratify a 2017 extradition treaty
-    with Hong Kong after China introduced a controversial national
-    security law for the global financial hub.
+    South Korean health authorities warned on Friday that a cluster of
+    coronavirus infections in the capital Seoul was threatening to
+    spread after thousands of people attended a rally by conservative
+    political groups last week.
     
     By Reuters
     
@@ -446,20 +449,21 @@ Sort by RelevanceSort by NewestSort by Oldest
     
     <div class="css-e1lvw9">
     
-    The
-    Daily
+    Asia
+    Pacific
     
-    [](/2020/08/04/podcasts/the-daily/mail-in-voting-president-trump.html?searchResultPosition=10)
+    [](/reuters/2020/08/21/world/asia/21reuters-health-coronavirus-hongkong.html?searchResultPosition=10)
     
-    #### Is the U.S. Ready to Vote by Mail?
+    #### Hong Kong Leader Announces Mass COVID-19 Testing to Begin September 1
     
-    What we’ve learned from the very different experiences of two
-    states, Georgia and
-    Montana.
+    Hong Kong leader Carrie Lam said on Friday that mass testing of
+    residents for coronavirus in the Asian financial hub will begin on
+    Sept. 1, as she warned people not to be complacent despite a steady
+    fall in the number of new infections.
+    
+    By Reuters
     
     </div>
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/politics/04daily/merlin_175126236_6c5d937a-ab38-460a-87aa-892bfd358495-threeByTwoSmallAt2X.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     

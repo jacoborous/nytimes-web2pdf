@@ -173,6 +173,217 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/15/us/coronavirus-testing-decrease.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/us/00VIRUS-TESTING-1/merlin_175669473_5bfbf699-61d6-4e4d-92cc-63309138b2e5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘We’re Clearly Not Doing Enough’: Drop in Testing Hampers Coronavirus Response
+    
+    For the first time during the pandemic, the United States saw a
+    downward trend in the number of coronavirus tests conducted each
+    day.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Mervosh, Nicholas Bogel-Burroughs
+    <span>and</span> Sheryl Gay
+    Stolberg</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/us/politics/virus-stimulus-congress-trump.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/us/politics/10dc-virus-cong3/merlin_172404513_79261b5e-ed8b-48ed-a42b-ebc959f92ea2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Governors Say Trump’s Order on Pandemic Relief Could Wreck State Budgets
+    
+    With Congress at an impasse on stimulus talks, disarray over
+    resuming negotiations bodes poorly for reaching a deal this week.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Luke Broadwater, Emily Cochrane, Sarah
+    Mervosh <span>and</span> Alan
+    Rappeport</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/us/covid-test-accuracy-governor-dewine-ohio.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07virus-falsetest/07virus-falsetest-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How Accurate Are Virus Tests? Ohio Governor’s Results Show Positives and Negatives
+    
+    With testing delays nationwide, experts are increasingly
+    recommending a new type of rapid test that gives less accurate
+    results. It is imperfect, but as one expert put it, “pretty good is
+    a lot better than none.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Mervosh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/us/mike-dewine-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06virus-dewine/merlin_175382577_4f5513ba-95da-40b1-bb46-ed17204928a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Gov. Mike DeWine of Ohio Tests Positive, Then Negative, for Coronavirus
+    
+    The governor said he felt confident in the results of a negative
+    test that was taken hours after he tested positive while being
+    screened to greet President Trump.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Mervosh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/us/coronavirus-us.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/07VIRUS-STANDSALONE-P1/06VIRUS-STANDSALONE-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Unique U.S. Failure to Control the Virus
+    
+    Slowing the coronavirus has been especially difficult for the United
+    States because of its tradition of prioritizing individualism and
+    missteps by the Trump administration.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">David Leonhardt <span>and</span> Lauren
+    Leatherby</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/04/us/virus-testing-delays.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04VIRUS-TESTING-mass/merlin_174443316_57fadf4c-cbfd-45c0-b35b-8a68c9821b14-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘It’s Like Having No Testing’: Coronavirus Test Results Are Still Delayed
+    
+    A shortage of chemicals needed to test for the virus is part of what
+    is slowing turnaround times.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah Mervosh <span>and</span> Manny
+    Fernandez</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/us/school-closing-coronavirus.html)
     
     <div class="css-79elbk">
@@ -202,7 +413,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -237,7 +448,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -272,7 +483,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -296,218 +507,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Sarah Mervosh <span>and</span> Simon
     Romero</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/us/california-covid-19-cases.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/23VIRUS-CALIFORNIA-boardwalk2/merlin_174857235_21b80054-b926-4cd2-beb2-697bff1c933b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘It’s Emotional Whiplash’: California Is Once Again at the Center of the Virus Crisis
-    
-    The state was the first to issue a stay-at-home order, helping to
-    control an early outbreak. It has now surpassed New York for the
-    most known cases of the virus.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tim Arango <span>and</span> Sarah
-    Mervosh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/interactive/2020/07/23/us/coronavirus-hospitalizations-us.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/coronavirus-hospitalizations-us-promo-1595468186958/coronavirus-hospitalizations-us-promo-1595468186958-thumbWide-v9.png?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Where the Virus Is Sending People to Hospitals
-    
-    New data from nearly 50 cities shows the number of people
-    hospitalized with coronavirus is rising in a wide expanse of hot
-    spots around the country.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lazaro Gamio, Sarah Mervosh
-    <span>and</span> Keith
-    Collins</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/us/coronavirus-hospitalizations-near-peak.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/22VIRUS-HOSPITALIZATIONS-nc/merlin_174692424_192772b6-f34a-41a3-987b-de5ddef9aedd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## U.S. Hospitalizations for the Coronavirus Near April Peak
-    
-    The rising hospitalizations reflect the scale of serious illnesses:
-    Nearly as many people are in hospitals now as there were when New
-    York was at its worst.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nicholas Bogel-Burroughs
-    <span>and</span> Sarah
-    Mervosh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/us/coronavirus-masks.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/16virus-masks05/merlin_174293298_ec953435-cc00-469e-a828-d6143bfb7f35-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Mask Rules Expand Across U.S. as Clashes Over the Mandates Intensify
-    
-    More retailers and states are instituting mask requirements, but
-    tensions are mounting for people who see the rules as infringements.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sarah Mervosh, Manny Fernandez
-    <span>and</span> Campbell
-    Robertson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/us/oklahoma-governor-coronavirus-stitt.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/us/15VIRUS-OKLAHOMA-swap/15VIRUS-OKLAHOMA-swap-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Oklahoma Governor Tests Positive for Coronavirus
-    
-    Gov. Kevin Stitt said he was “pretty shocked” to become the first
-    governor known to have contracted the virus. Oklahoma has averaged
-    more than 640 new cases per day over the past week.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Manny Fernandez <span>and</span> Sarah
-    Mervosh</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/us/national-parks-reopening.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/16virus-parks01/00virus-parks01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Western Outbreaks Threaten Tourist Season at National Parks
-    
-    Americans crave outdoor recreation more than ever. But national
-    parks — sometimes many miles from equipped hospitals — are grappling
-    with how to safely stay open.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Elizabeth Williamson <span>and</span>
-    Sarah Mervosh</span>
     
     </div>
     

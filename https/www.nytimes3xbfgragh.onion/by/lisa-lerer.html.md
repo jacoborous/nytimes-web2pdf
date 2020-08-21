@@ -174,24 +174,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/elizabeth-warren-biden-vice-president.html)
+    [](/2020/08/20/us/politics/julia-louis-dreyfus-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/03warren-race1/00Warren-race1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20emcees1/merlin_175920372_11e7b0cb-8a32-4ada-b22c-63a6ba0e3abf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Elizabeth Warren’s Evolution on Race Brought Her Here
+    ## Julia Louis-Dreyfus Caps a Week of Starring Roles for 4 Actresses
     
-    Ms. Warren, a racially progressive politician, is the only white
-    woman still under serious consideration to become Joe Biden’s
-    running mate.
+    Ms. Louis-Dreyfus was the final television star to guide viewers
+    through the Democratic National Convention, after Kerry Washington,
+    Tracee Ellis Ross and Eva Longoria.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Sydney
-    Ember</span>
+    By <span class="css-1n7hynb">Sydney Ember <span>and</span> Lisa
+    Lerer</span>
     
     </div>
     
@@ -209,23 +209,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/us/politics/trump-election-delay-distraction.html)
+    [](/2020/08/20/us/elections/night-3-of-the-convention-focused-on-policy-and-harris-made-history.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/20/us/onpolitics-siren/onpolitics-siren-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dems-ledeall-screens2-briefing/merlin_175925307_d87bad76-6893-42cf-a751-6603f2d7f331-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
-    
-    ## Trump Can’t Delay the Election
-    
-    But he sure can stir up a lot of anxiety about voting.
+    ## Night 3 of the convention focused on policy, and Harris made history.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span> Lisa
     Lerer</span>
     
     </div>
@@ -244,24 +240,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/politics/patty-murray-schools-reopening.html)
+    [](/live/2020/08/19/us/dnc-convention-election/night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/politics/29onpolitics-pm/merlin_173199525_f123106e-0683-4e1c-88b8-a33a6c060bdd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dems-ledeall-screens2-briefing/merlin_175925307_d87bad76-6893-42cf-a751-6603f2d7f331-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
+    ## Night 3 featured more policy, a focus on women and a full-throated rejection of Trump by his predecessor.
     
-    ## Reopening Schools: Senator Patty Murray Says Congress Needs to Step Up
-    
-    She isn’t optimistic that Congress will help schools reopen safely
-    in the fall: “There’s going to be a lot of parents in tears.”
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span> Lisa
     Lerer</span>
     
     </div>
@@ -280,23 +273,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/us/politics/a-republican-panic-button.html)
+    [](/2020/08/19/us/politics/democratic-national-convention-recap.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/20/us/onpolitics-siren/onpolitics-siren-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
+    ## Democrats Nominate Harris for Vice President, as Obama Lashes Trump
     
-    ## A Republican Panic Button
-    
-    Could Democrats be heading for a landslide in November?
+    Senator Kamala Harris became the first woman of color on a major
+    party ticket, while former President Barack Obama condemned
+    President Trump by name and issued a grim warning about the
+    durability of American democracy.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
+    By <span class="css-1n7hynb">Astead W. Herndon <span>and</span> Lisa
     Lerer</span>
     
     </div>
@@ -315,26 +309,33 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/us/politics/aoc-women-ted-yoho.html)
+    [](/es/2020/08/19/espanol/estados-unidos/hillary-clinton-convencion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/20/us/onpolitics-siren/onpolitics-siren-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19hillary-ES-1/merlin_163969284_d749be5e-1198-4347-bbd3-c8965926556d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
+    ### <span class="css-m70j1g">Elecciones 2020</span>
     
-    ## That Word
+    ## Hillary Clinton en la convención demócrata: un retorno agridulce
     
-    Few prominent women in power have publicly addressed a particular
-    vulgarity that men have leveled against them for years. Today, on
-    the floor of the House, that changed.
+    La candidata demócrata a la presidencia en 2016 volverá al escenario
+    para apoyar a Joe Biden y transmitir su legado a Kamala Harris, la
+    candidata a la vicepresidencia.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Glenn
+    Thrush</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/08/19/us/politics/hillary-clinton-democratic-convention.html "Read in English")
     
     </div>
     
@@ -352,25 +353,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/22/us/politics/miami-mayor-francis-suarez-masks.html)
+    [](/2020/08/19/us/politics/democratic-convention-biden-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/26/us/onpolitics-timer-sand/onpolitics-timer-sand-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/20/us/onpolitics-clash/onpolitics-clash-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    ## Miami Mayor Wants Florida to Mask Up, Too
+    ## Democrats Set Aside Their Differences
     
-    Mayor Francis Suarez of Miami, a Republican, wants President Trump
-    and Governor Ron DeSantis to enforce a masks-in-public rule.
+    Night 2 of the Democratic National Convention made clear why Joe
+    Biden is now the nominee.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Nick
+    Corasaniti</span>
     
     </div>
     
@@ -388,25 +389,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/20/us/politics/trump-suburbs.html)
+    [](/2020/08/19/us/politics/hillary-clinton-democratic-convention.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/04/22/us/onpolitics-flag/onpolitics-flag-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19hillary/merlin_163969284_d749be5e-1198-4347-bbd3-c8965926556d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
+    ## Hillary Clinton’s Bittersweet Return to the Democratic Convention
     
-    ## Not Rockin’ the Suburbs
-    
-    The suburbs are the political bellwether of our time. And right now,
-    President Trump is losing them. Badly.
+    The party’s 2016 standard-bearer will return to the stage on
+    Wednesday to promote Joseph R. Biden Jr. and confer her legacy on
+    Kamala Harris, the vice-presidential nominee.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Glenn
+    Thrush</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/19/espanol/estados-unidos/hillary-clinton-convencion.html "Read in Spanish")
     
     </div>
     
@@ -424,23 +431,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/17/us/politics/democratic-convention-milwaukee.html)
+    [](/2020/08/17/us/politics/2020-democratic-national-convention-biden.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/18/us/politics/17demconvention/17demconvention-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/multimedia/onpolitics-ballons/onpolitics-ballons-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Democrats Are Downsizing Their Convention to Almost Nothing
+    ### <span class="css-m70j1g">On Politics</span>
     
-    An event that was once expected to draw 50,000 people to Milwaukee
-    may now involve just 300, with plans still far from settled a month
-    before the convention.
+    ## A Big Ol’ Virtual Experiment
+    
+    Here’s what we’re watching as the Democrats begin their week of
+    nightly Zoom addresses.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Reid J. Epstein <span>and</span> Lisa
+    By <span class="css-1n7hynb">Lisa
     Lerer</span>
     
     </div>
@@ -459,25 +467,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/16/us/politics/democratic-convention-milwaukee.html)
+    [](/2020/08/17/us/politics/democrats-women-voters-anger.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/us/politics/16demconvention/merlin_170488575_2c5aa5f7-2739-4633-9702-1df119531d1d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/us/politics/00ragemoms1/merlin_174959391_66e010e5-30d0-4d85-8e41-7caa73072a5f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Democratic Officials Tell Members of Congress to Skip the Convention
+    ## The ‘Rage Moms’ Democrats Are Counting On
     
-    The directive ensures that little will happen at the convention in
-    Milwaukee beyond speeches by former Vice President Joseph R. Biden
-    Jr., his vice-presidential nominee and a handful of other top party
-    leaders.
+    As millions of American families face an uncertain start to the
+    school year, the anger of women who find themselves expected to be
+    teacher, caregiver, employee and parent is fueling a political
+    uprising.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Lerer</span>
+    By <span class="css-1n7hynb">Lisa Lerer <span>and</span> Jennifer
+    Medina</span>
     
     </div>
     
@@ -495,19 +503,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/16/us/politics/reopening-schools-teachers-students.html)
+    [](/2020/08/13/us/politics/dnc-virtual-convention-tom-perez.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/20/us/onpolitics-aid/onpolitics-aid-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/us/politics/13onpolitics-pm/merlin_169811805_e271492d-300e-49ef-b64c-5acefc8efba4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">On Politics With Lisa Lerer</span>
     
-    ## Reopen Schools? Here’s What You Had to Say
+    ## What Will a Virtual Convention Look Like?
     
-    Parents, teachers and students shared fears and frustrations.
+    We talked to Tom Perez, the chairman of the Democratic National
+    Committee, to find out.
     
     <div class="css-1nqbnmb ea5icrr0">
     

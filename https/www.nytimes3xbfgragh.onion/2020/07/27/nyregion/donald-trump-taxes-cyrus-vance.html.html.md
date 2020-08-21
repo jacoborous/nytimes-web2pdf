@@ -132,7 +132,7 @@ Overbroad’</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -246,7 +246,7 @@ Rashbaum</span>](https://www.nytimes3xbfgragh.onion/by/william-k-rashbaum)
     
     <div class="css-ld3wwf e16638kd2">
     
-    July 27,
+    Published July 27, 2020Updated Aug. 5,
     2020
     
     </div>
@@ -255,7 +255,7 @@ Rashbaum</span>](https://www.nytimes3xbfgragh.onion/by/william-k-rashbaum)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -282,12 +282,13 @@ Rashbaum</span>](https://www.nytimes3xbfgragh.onion/by/william-k-rashbaum)
 
 <div class="css-53u6y8">
 
-President Trump on Monday mounted his most forceful and detailed legal
-attack yet on the [subpoena for his tax returns by the Manhattan
-district
-attorney](https://www.nytimes3xbfgragh.onion/2020/08/03/nyregion/donald-trump-taxes-cyrus-vance.html),
-arguing the request was “wildly overbroad” and “issued in bad faith,” a
-new court filing shows.
+[President
+Trump](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
+on Monday mounted his most forceful and detailed legal attack yet on the
+subpoena for his [tax
+returns](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/trump-taxes-vance-deutsche-bank.html)
+by the Manhattan district attorney, arguing the request was “wildly
+overbroad” and “issued in bad faith,” a new court filing shows.
 
 Mr. Trump’s lawyers asked a federal judge in Manhattan to declare that
 the subpoena from the district attorney, Cyrus R. Vance Jr., a Democrat,

@@ -69,6 +69,10 @@ Hours](https://www.nytimes3xbfgragh.onion/column/36-hours)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -389,41 +393,6 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/02/20/travel/what-to-do-36-hours-in-switzerland.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/02/20/travel/20Hours-Basel5/20Hours-Basel5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## 36 Hours in Basel
-    
-    It might be known for Art Basel, but this riverside city in
-    Switzerland is also the birthplace of Roger Federer, has some 40
-    museums and cherishes its many traditions.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Dave
-    Seminara</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
     [](/2020/02/13/travel/what-to-do-36-hours-in-niseko-japan.html)
     
     <div class="css-79elbk">
@@ -453,7 +422,7 @@ story](#after-sponsor)
     
     </div>
 
-9.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -488,7 +457,7 @@ story](#after-sponsor)
     
     </div>
 
-10. 
+9.  
     
     <div class="css-1cp3ece">
     
@@ -510,7 +479,42 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Remy Scalza</span>
+    By <span class="css-1n7hynb">Remy
+    Scalza</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/01/23/travel/36-hours-what-to-do-in-honolulu.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/01/23/travel/23Hours-Honolulu2/23Hours-Honolulu2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 36 Hours in Honolulu
+    
+    Beyond the beach in the Hawaii capital, where new takes on
+    traditional dishes, in-depth local history museums and a kitschy
+    cocktail (or two) are on the itinerary.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Susanne Fowler</span>
     
     </div>
     

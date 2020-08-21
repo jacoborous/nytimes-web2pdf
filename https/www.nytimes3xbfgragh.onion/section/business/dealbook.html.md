@@ -63,6 +63,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -152,95 +156,107 @@ Sorkin](/vi-assets/static-assets/dealbook-logo-reduced-7ef9bf245f53a22de79f41f72
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    Noble Jr. for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Erika
+    P. Rodriguez for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20Jpvirus-jobless-print/merlin_175662330_af94c2ca-5bd1-4cfb-879d-166cc38fa370-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04-markets-brf-ford/04-markets-brf-ford-thumbStandard.jpg)](/2020/08/04/business/ford-jim-hackett-james-farley.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20Jpvirus-jobless-print/20markets-brf-jobless-thumbStandard.jpg)](/2020/08/20/business/economy/unemployment-claims.html)
     
     </div>
     
-    ## [Ford, Struggling in a Changing Industry, Replaces Its C.E.O.](/2020/08/04/business/ford-jim-hackett-james-farley.html)
+    ## [Unemployment Claims Rise as Rollout of $300 Benefit Lags](/2020/08/20/business/economy/unemployment-claims.html)
     
-    Jim Hackett, who failed to impress Wall Street, will be replaced by
-    James Farley, an auto industry veteran who started his career at
-    Toyota.
+    With the labor market showing new fragility, most states have yet to
+    seek funds under President Trump’s stopgap plan to supplement weekly
+    jobless
+    pay.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Neal E.
-    Boudette</span></span>
+    <span class="css-1baulvz" itemprop="name">Nelson D. Schwartz</span>
+    and <span class="css-1baulvz last-byline" itemprop="name">Tiffany
+    Hsu</span></span>
     
     </div>
 
-2.  
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aaron
+    J. Thornton/Getty Images for
+    Essence</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/18mgm-print/18mgm-1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Google Faces European Inquiry Into Fitbit Acquisition](/2020/08/04/business/google-fitbit-europe.html)
+    <div class="css-1dqkjed">
     
-    Authorities are investigating how Google will use health and
-    wellness data collected from Fitbit’s fitness tracking
-    devices.
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/18mgm-print/18mgm-1-thumbStandard.jpg)](/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html)
+    
+    </div>
+    
+    ## [Pledging to Tell More Inclusive Stories, MGM Remakes Orion Pictures](/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html)
+    
+    The 36-year-old producer Alana Mayo will lead the division, which
+    will release two or three films a year and focus exclusively on
+    underrepresented
+    filmmakers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Satariano</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Brooks
+    Barnes</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
-        Moneymaker for The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jason
+        Henry for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20rideshutdown-print/20rideshutdown-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+        ## [Uber and Lyft Get Reprieve After Threatening to Shut Down](/2020/08/20/technology/uber-lyft-california-shutdown.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/03DC-Trump-CEO-01-thumbStandard.jpg)](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20rideshutdown-print/20rideshutdown-thumbStandard.jpg)](/2020/08/20/technology/uber-lyft-california-shutdown.html)
         
         </div>
         
-        The president’s interventions in company dealings based on his
-        own instincts are a departure from the arm’s-length approach of
-        predecessors of either
-        party.
+        The companies, under legal pressure to reclassify their
+        California drivers as employees, said they would halt rides
+        before an appeals court gave them permission to
+        continue.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Michael D.
-        Shear</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Kate
+        Conger</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
-        Plavevski/EPA, via
-        Shutterstock</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-videoLarge-v2.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+        Sullivan/Getty
+        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/19HARRISTECH-print/19HARRISTECH-print-videoLarge-v2.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Trump Reverses Course on TikTok, Opening Door to Microsoft Bid](/2020/08/03/technology/trump-tiktok-microsoft.html)
+        ## [How Kamala Harris Forged Close Ties With Big Tech](/2020/08/20/technology/kamala-harris-ties-to-big-tech.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/merlin_175258689_6b3ad16b-c147-4a64-a7cf-7a84b8b5f0dc-thumbStandard.jpg)](/2020/08/03/technology/trump-tiktok-microsoft.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/19HARRISTECH-print/19HARRISTECH-print-thumbStandard-v2.jpg)](/2020/08/20/technology/kamala-harris-ties-to-big-tech.html)
         
         </div>
         
-        The president said he did not object to a potential acquisition
-        of the Chinese-owned app, retreating from comments about banning
-        the
-        service.
+        Silicon Valley has enthusiastically backed Ms. Harris since she
+        first ran for state attorney general in California a decade
+        ago.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Ana Swanson</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Mike
-        Isaac</span></span>
+        <span class="css-1baulvz" itemprop="name">Daisuke
+        Wakabayashi</span>,
+        <span class="css-1baulvz" itemprop="name">Stephanie Saul</span>
+        and
+        <span class="css-1baulvz last-byline" itemprop="name">Kenneth P.
+        Vogel</span></span>
         
         </div>
 
@@ -250,77 +266,74 @@ Sorkin](/vi-assets/static-assets/dealbook-logo-reduced-7ef9bf245f53a22de79f41f72
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-    W. Lee/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-videoLarge.jpg)
+1.  ### DealBook Newsletter
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Josh
+    Edelson/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/business/20db-newsletter-apple/20db-newsletter-apple-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Men’s Wearhouse Owner Files for Bankruptcy](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+    ## [Apple’s Trillions](/2020/08/20/business/dealbook/apple-two-trillion-market-value.html)
     
-    Tailored Brands, known for its clothing chains Men’s Wearhouse and
-    JoS. A. Bank, struggled as the pandemic shut stores and consumer
-    demand for office attire
-    dropped.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Gillian
-    Friedman</span></span>
-    
-    </div>
-
-2.  ### DealBook Newsletter
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Florence
-    Lo/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03db-newslettertiktok/merlin_175237974_b8a81d01-c2eb-4b1f-a51d-26bc593e6219-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [What Would Microsoft Do With TikTok?](/2020/08/03/business/dealbook/tiktok-microsoft-takeover.html)
-    
-    The potential blockbuster deal could go a few different
-    ways.
+    The iPhone maker is the first U.S. company to hit a $2 trillion
+    valuation. How high can it
+    go?
     
     <span class="css-me3p27"></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
-    Bedder/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31james-murdoch-print/31james-murdoch-01-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ruth
+    Fremson/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/00workshare1/00workshare1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [James Murdoch Resigns From News Corp, Ending Role in Family Empire](/2020/07/31/business/media/james-murdoch-resigns-news-corp.html)
+    ## [This Plan Pays to Avoid Layoffs. Why Don’t More Employers Use It?](/2020/08/20/business/economy/jobs-work-sharing-unemployment.html)
     
-    While his elder brother, Lachlan Murdoch, rises in the family
-    business, James Murdoch has grown more distant from his father’s
-    companies.
+    Often-overlooked job sharing programs, with a recent dose of federal
+    aid, put workers on part-time duty in a downturn and make up lost
+    wages.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael M. Grynbaum</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Edmund
-    Lee</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Patricia
+    Cohen</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
-    New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31eu-econ-promo/31eu-econ-promo-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Gabrielle
+    Lurie/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00airbnb-promo/merlin_171592323_6685d092-eca4-40d5-8014-0a79df44556b-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Despite Historic Plunge, Europe’s Economy Flashes Signs of Recovery](/2020/07/31/business/europe-economy-recovery-coronavirus.html)
+    ## [Airbnb, a ‘Sharing Economy’ Pioneer, Files to Go Public](/2020/08/19/technology/airbnb-ipo.html)
     
-    European countries that have better contained the virus are poised
-    for speedier economic recovery than the United
-    States.
+    The home rental company, which was privately valued at $31 billion,
+    is trying to go public after its business was crushed by the
+    pandemic.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Peter S. Goodman</span>,
-    <span class="css-1baulvz" itemprop="name">Liz Alderman</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Jack
-    Ewing</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Erin
+    Griffith</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Demetrius
+    Freeman for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19virus-bigbox-1/19virus-bigbox-1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Big-Box Retailers’ Profits Surge as Pandemic Marches On](/2020/08/19/business/coronavirus-walmart-target-home-depot.html)
+    
+    Walmart and Target reported record sales in the second quarter,
+    driven by the convenience of one-stop shopping and their e-commerce
+    operations.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Gillian
+    Friedman</span></span>
     
     </div>
 
@@ -392,23 +405,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/technology/levandowski-google-uber-sentencing-trade-secrets.html)
+    [](/2020/08/19/technology/trump-oracle-tiktok.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04levandowski2/04levandowski2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19oracle/merlin_160921458_eb7c3ab9-ca4c-41fc-9f76-2931ed63e629-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Star Technologist Who Crossed Google Sentenced to 18 Months in Prison
+    ## Trump Says Oracle Could ‘Handle’ Owning TikTok
     
-    Anthony Levandowski, a onetime star Silicon Valley engineer of
-    self-driving cars, had pleaded guilty to stealing trade secrets.
+    President Trump, who has been pushing for a sale of the
+    Chinese-owned video app, did not say whether Oracle would be a
+    better buyer than Microsoft.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
+    By <span class="css-1n7hynb">David
+    McCabe</span>
     
     </div>
     
@@ -426,24 +440,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [](/2020/08/19/technology/apple-2-trillion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/apple-mkt-cap-promo-1596767397262/apple-mkt-cap-promo-1596767397262-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    ## Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of operation.
+    Apple is the first U.S. company to hit that value, a staggering
+    ascent that began in the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks
-    Barnes</span>
+    By <span class="css-1n7hynb">Jack
+    Nicas</span>
     
     </div>
     
@@ -461,23 +474,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/technology/apple-schiller-marketing-executive-departure.html)
+    [](/2020/08/19/business/dealbook/stock-market-record-high.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04apple/merlin_160564608_9afafdf7-e9fd-44f5-9b2d-daad3b37e192-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19db-newsletter-markets/merlin_175853073_163c3881-c182-4c0c-9e27-ffc0abb37aae-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Apple Replaces Phil Schiller as Its Top Marketing Executive
+    ### <span class="css-m70j1g">DealBook Newsletter</span>
     
-    Mr. Schiller will be replaced by Greg Joswiak, a longtime executive
-    at the company.
+    ## What Is Going On?
+    
+    A new stock market high may seem strange when set against the human
+    and economic devastation of the pandemic. Here’s how investors are
+    justifying
+    it.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Davey Alba <span>and</span> Brian X.
-    Chen</span>
     
     </div>
     
@@ -495,26 +509,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/robot-cleaning-coronavirus.html)
+    [](/2020/08/18/business/stock-market-record.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/04Virus-Robots-01/04Virus-Robots-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/business/newhigh-promo/newhigh-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Square Feet</span>
+    ## ‘This Market Is Nuts’: S\&P 500 Hits Record, Defying Economic Devastation
     
-    ## For Robots, It’s a Time to Shine (and Maybe Disinfect)
-    
-    The pandemic has turned cleaning and other mundane building tasks
-    into a challenge, stoking interest in machines as cost-effective
-    solutions.
+    Investors have cast the nearly relentless drumbeat of bad news aside
+    to focus on any signs that the worst of the coronavirus pandemic
+    might be over.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lisa
-    Prevost</span>
+    By <span class="css-1n7hynb">Matt
+    Phillips</span>
     
     </div>
     
@@ -532,23 +544,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    [](/2020/08/18/business/dealbook/tiktok-huawei-china.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/18db-newsletter-tiktok/merlin_175355451_97054a4c-1098-41d5-9483-69e3c1900d11-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    ### <span class="css-m70j1g">DealBook Newsletter</span>
     
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve ads.
+    ## TikTok, Huawei and the ‘Splinternet’
+    
+    A new suitor emerges for TikTok and the White House imposes more
+    restrictions on Huawei. The net effect of such moves could be a
+    fracturing of the
+    web.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
     
     </div>
     
@@ -566,31 +579,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    [](/2020/08/18/technology/uber-lyft-franchise-california.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/18ridefranchise1/18ridefranchise1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    ## Uber and Lyft Consider Franchise-Like Model in California
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    Under pressure to classify their freelance drivers as employees, the
+    ride-hailing companies are discussing another option.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen Browning</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
+    By <span class="css-1n7hynb">Kate
+    Conger</span>
     
     </div>
     
@@ -608,29 +613,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-trump-microsoft-bytedance-china-ban.html)
+    [](/2020/08/17/business/dealbook/CalPERS-Ben-Meng-trustees.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok-explainer/merlin_174789882_5921ddba-8b0b-4810-8be5-13759f7e727c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/17calpers1/merlin_87387392_4671c50a-9129-4c20-b398-3e2166f40e69-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s Going On With TikTok? Here’s What We Know
+    ## After CalPERS Investment Chief’s Abrupt Departure, Trustees Talk Next Steps
     
-    President Trump is talking about banning the app. TikTok may also
-    sell its U.S. operations. Let’s sort through it all here.
+    The California pension fund’s board is searching for a successor to
+    Ben Meng, while another state body investigates conflict-of-interest
+    allegations.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David
-    McCabe</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/technology/20200803/tiktok-trump-microsoft-bytedance-china-ban/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Mary Williams
+    Walsh</span>
     
     </div>
     
@@ -648,23 +648,31 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/technology/tiktok-sale-trump-ban.html)
+    [](/2020/08/17/technology/trump-tiktok-wechat-ban.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/01tiktok/merlin_175185663_9e434ff0-7dd2-45cb-9722-b47752b5bd81-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/business/16tech-fracture/16tech-fracture-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ByteDance Said to Offer to Sell TikTok’s U.S. Operations
+    ## Trump’s Attacks on TikTok and WeChat Could Further Fracture the Internet
     
-    The Trump administration has said the video app poses security
-    concerns because of its Chinese ownership.
+    The president’s restrictions on Chinese tech may be part of an
+    eye-for-an-eye logic called reciprocity. The price could be a global
+    patchwork of online fiefs.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Raymond Zhong <span>and</span> Steve
-    Lohr</span>
+    By <span class="css-1n7hynb">Ana Swanson, Paul Mozur
+    <span>and</span> Raymond
+    Zhong</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/technology/20200818/trump-tiktok-wechat-ban/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/technology/20200818/trump-tiktok-wechat-ban/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -682,24 +690,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/technology/tiktok-microsoft.html)
+    [](/2020/08/17/business/dealbook/tiktok-unitedmasters-music.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/business/31JPtiktok-print/merlin_170133723_92af7f95-2132-4ee6-bc4d-638fcf0dc8cd-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/17db-newsletter-tiktok/merlin_175260234_505cb386-5aac-48fd-a66d-a29ed0a9bd9e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Microsoft Said to Be in Talks to Buy TikTok, as Trump Weighs Curtailing App
+    ### <span class="css-m70j1g">DealBook Newsletter</span>
     
-    The discussions come as TikTok’s ownership by a Chinese company is
-    under scrutiny by the White House and lawmakers.
+    ## TikTok Makes a Deal (Not That One)
+    
+    As the Chinese-owned app negotiates its potential sale, it is
+    signing a different sort of
+    deal.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Alan
-    Rappeport</span>
     
     </div>
     
@@ -717,24 +724,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/business/michael-dell-corner-office.html)
+    [](/2020/08/16/technology/roblox-tweens-videogame-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/31CORNEROFFICE-DELL/31CORNEROFFICE-DELL-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/00roblox1-print/00roblox1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">corner office</span>
+    ## Where Has Your Tween Been During the Pandemic? On This Gaming Site
     
-    ## ‘America, What a Country.’ Michael Dell on His Life and Business
-    
-    The billionaire tech executive discusses capitalism, immigration,
-    innovation and why 2020 has given us “a glimpse of the future.”
+    Millions of children have flocked to the online gaming site Roblox
+    since March. That’s helping game developers, some as young as 16,
+    make a lot of money.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David Gelles</span>
+    By <span class="css-1n7hynb">Kellen Browning</span>
     
     </div>
     

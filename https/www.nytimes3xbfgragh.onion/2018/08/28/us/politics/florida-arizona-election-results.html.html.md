@@ -1,0 +1,766 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes3xbfgragh.onion/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">A
+Black Progressive and a Trump Acolyte Win Florida Governor
+Primaries</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2MVR4Mx</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# A Black Progressive and a Trump Acolyte Win Florida Governor Primaries
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Andrew
+Gillum, the mayor of Tallahassee, is an outspoken
+progressive.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Joe
+Rondone/Tallahassee Democrat, via Associated
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/29/us/politics/29primaries-gillum1/29primaries-gillum1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Patricia
+Mazzei</span>](https://www.nytimes3xbfgragh.onion/by/patricia-mazzei)
+and [<span class="css-1baulvz last-byline" itemprop="name">Jonathan
+Martin</span>](https://www.nytimes3xbfgragh.onion/by/jonathan-martin)
+
+</div>
+
+</div>
+
+  - Aug. 28,
+    2018
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+ORLANDO, Fla. — Florida Democrats nominated [Andrew
+Gillum](https://www.nytimes3xbfgragh.onion/2018/08/28/us/politics/andrew-gillum-florida.html),
+the Tallahassee mayor, and Republicans tapped Representative [Ron
+DeSantis](https://www.nytimes3xbfgragh.onion/2018/08/29/us/politics/ron-desantis-bio-facts.html)
+for governor Tuesday, setting the stage for a ferocious general election
+in the country’s largest swing state between one of President Trump’s
+most unabashed allies and an outspoken progressive who would be
+Florida’s first black governor.
+
+Mr. Gillum’s narrow defeat of the former congresswoman Gwen Graham, the
+front-runner, represented one of the most significant upsets of the
+primary season and a major victory for the liberal wing of the
+Democratic Party. It sets up twin governors’ races in neighboring
+Southern states between left-leaning African-Americans banking on the
+region’s new, diversifying electorate, and ardent, Trump-style
+nationalists.
+
+Georgia’s Democratic candidate, Stacey Abrams, will now be joined by Mr.
+Gillum, while its Republican candidate, the secretary of state Brian
+Kemp, has a mirror to the south in Mr. DeSantis.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+And here, with redistricting looming after the next census, Medicaid
+expansion on the line and control of the most crucial presidential
+battleground at stake, the Florida governor’s race is shaping up to be a
+titanic showdown. The specter of two young, hard-charging politicians
+who represent the beating heart of their parties facing off will
+supercharge the fall campaign.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Mayor Andrew Gillum of Tallahassee
+won Florida’s Democratic primary for governor on Tuesday. If he wins in
+November, Mr. Gillum would be the state’s first black
+governor.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Steve
+Cannon/Associated
+Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/29/us/politics/29gillum1/29gillum1-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“We’re going to make clear to the rest of the world that the dark days
+that we’ve been under, coming out of Washington, that the derision and
+the division that has been coming out of our White House, that right
+here in the state of Florida we are going to remind this nation of what
+is truly the American way,” Mr. Gillum told jubilant supporters in
+Tallahassee.
+
+In Arizona, Republican primary voters chose the establishment favorite,
+Representative Martha McSally, to replace Mr. Trump’s most outspoken
+G.O.P. critic in the Senate, Jeff Flake, in a contest that evolved into
+a test of which candidate could embrace Mr. Trump most snugly. In the
+Arizona governor’s primary, Democrats again chose an outspoken
+progressive over a pragmatist.
+
+\[[*Read
+ke*](https://www.nytimes3xbfgragh.onion/2018/08/29/us/politics/arizona-florida-election.html)*y*
+[*takeaways from Tuesday night’s
+results.*](https://www.nytimes3xbfgragh.onion/2018/08/29/us/politics/arizona-florida-election.html)\]
+
+Lifted by a June endorsement from Mr. Trump, Mr. DeSantis overwhelmed
+Adam Putnam, the state agriculture commissioner and one-time favorite
+for the nomination, taking 57 percent of the vote to Mr. Putnam’s 37
+percent with all precincts reporting, according to The Associated Press.
+
+But the surprise of the night was Mr. Gillum’s victory over Ms. Graham,
+the daughter of governor-turned-senator Bob Graham. Propelled by an
+endorsement from Senator Bernie Sanders and financing from Tom Steyer,
+George Soros and Collective PAC, a group dedicated to electing
+African-Americans, the 39-year-old mayor surged at the end of the
+campaign to upset Ms. Graham, the establishment
+pick.
+
+</div>
+
+</div>
+
+<div class="css-1sngw6j">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2018/08/28/us/elections/florida-primary-elections.html)
+
+<div class="css-1eoytci">
+
+![](https://static01.graylady3jvrrxbe.onion/images/2018/08/28/us/elections/florida-primary-elections-1535471953824/florida-primary-elections-1535471953824-articleLarge.png)
+
+</div>
+
+<div class="css-1rha1bf">
+
+## Florida Primary Election Results
+
+See full results and maps from the Florida primaries.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+With 100 percent of precincts reporting, Mr. Gillum won 34 percent of
+the vote while Ms. Graham had 31 percent, The A.P. reported.
+
+Beyond Ms. Graham, Mr. Gillum defeated five other rivals. Three
+opponents — Ms. Graham, Philip Levine and Jeff Greene — far outspent the
+Tallahassee mayor.
+
+Campaigning in Miami’s Little Havana neighborhood on Saturday, Mr.
+Gillum relished his underdog status.
+
+“My opponents have spent, together, over $90 million in this race. We
+have spent four” million, he said. “Money doesn’t vote. People do.”
+
+\[*[Read more about Mr. Gillum’s victory
+here.](https://www.nytimes3xbfgragh.onion/2018/08/28/us/politics/andrew-gillum-florida.html)*\]
+
+Mr. Gillum edged out Ms. Graham, a former North Florida congresswoman
+who finished second, and Mr. Levine, the former Miami Beach mayor who
+finished third after dropping nearly $30 million of his personal fortune
+into the campaign. Ms. Graham, a moderate, had been considered the
+favorite in a midterm year in which many Democratic women have fared
+well.
+
+But her centrism and the implicit case for electability proved to be of
+little asset in a year when emotions have gripped both parties.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In the final weeks of the election, Mr. Gillum aired an ad trumpeting
+his support for universal health care, legalizing marijuana and
+abolishing the Immigration and Customs Enforcement agency. He is also a
+vocal advocate of impeaching Mr. Trump.
+
+Addressing supporters at her election night party at a bar in downtown
+Orlando just before 10 p.m., Ms. Graham called Mr. Gillum a friend
+before, during and after the
+campaign.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Representative
+Martha McSally, the Republican candidate for Arizona Senate, addressed
+the crowd at her watch party in Tempe, Ariz., on
+Tuesday.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Conor
+E. Ralph for The New York
+Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/29/us/29primaries-McSally/29primaries-McSally-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“I said, ‘Now, Andrew, go out and win this damn thing,’” she said.
+“Because this is too important.”
+
+Mr. Gillum’s unexpected nomination represents a sharp break with recent
+Florida midterm elections, in which Democratic voters nominated somewhat
+bland moderates to try to win in a purple state. Instead, they lost over
+and over again: Democrats have not held the Florida governor’s mansion
+in two decades, and they lost the past two governor’s elections by a
+single percentage point.
+
+Mr. Gillum argued Democrats needed to back a progressive who could
+expand the electorate by attracting more black, Latino and millennial
+voters who might otherwise sit out the midterm.
+
+“We’re showing that we can bring together the Bernie Sanders wing of the
+party and the Hillary Clinton wing of the party,” he said in a recent
+interview. Democrats cannot win, he added, by “trying to be
+Republican-lite.”
+
+Florida Democrats have long considered Mr. Gillum a rising star in a
+state party with few of them. He was elected to the city commission
+while still a student at Florida A\&M University, and he spoke at the
+2016 Democratic National Convention in Philadelphia.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But only in the last few weeks of the governor’s race did Mr. Gillum
+start looking like a serious contender. Early on, he struggled to raise
+serious money, as donors worried about an F.B.I. investigation into City
+Hall corruption — an inquiry that Mr. DeSantis wasted no time in raising
+Tuesday night. “He’s embroiled in corruption scandals,” he said. “This
+guy can’t even run the city of Tallahassee.”
+
+The mayor, who has said he is not the investigation’s target,
+consistently placed fourth out of five in public polls, despite
+outperforming his opponents in debates with his charisma on stage and
+grass-roots support in the audience.
+
+His poor showing in surveys, however, kept his rivals from attacking
+him, allowing Mr. Gillum to move up unscathed by the pointed television
+attacks that engulfed Ms. Graham, Mr. Levine and Mr. Greene, a
+billionaire Palm Beach real estate investor who spent nearly $40 million
+but finished fourth.
+
+Mr. DeSantis’s victory represented another emphatic demonstration of the
+president’s [iron grip on the Republican
+Party](https://www.nytimes3xbfgragh.onion/2018/08/27/us/politics/trump-endorsements.html).
+Mr. DeSantis steadily gained notoriety on the right, and attention in
+the Oval Office, last year by frequently appearing on Fox News to defend
+Mr. Trump.
+
+</div>
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Representative DeSantis beat his
+challenger, Adam Putnam, to secure the Republican nomination in
+Florida.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Cassi
+Alexandra for The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/29/us/politics/29primaries-desantis1-print-sub/29primaries-desantis1-videoSixteenByNine3000.jpg)
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The president took notice of Mr. DeSantis, a Navy veteran, and praised
+his candidacy last December. Mr. Trump’s near-endorsement prompted a
+flurry of lobbying by Republicans urging him to refrain from offering
+his formal blessing. And among [the party officials counseling
+restraint](https://www.nytimes3xbfgragh.onion/2018/05/14/us/politics/pence-trump-midterms.html)
+was Vice President Mike Pence, who served with Mr. Putnam in the House.
+
+But Mr. Trump was grateful for Mr. DeSantis’s televised advocacy,
+believed the former JAG officer looked the part of a governor and had
+little relationship with Mr. Putnam. In June, Mr. Trump offered, as he
+put it on Twitter, his “full Endorsement.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Recounting his intervention in the Florida race last week at a rally
+last week in West Virginia, Mr. Trump said of Mr. DeSantis: “He was at
+three, and I gave him a nice shot, and a nice little tweet — bing bing —
+and he went from three to like 20 something.”
+
+Mr. DeSantis was almost certainly winning more than 3 percent of the
+vote when Mr. Trump weighed in, but there is little doubt that the
+president’s support dramatically reshaped the race.
+
+Mr. DeSantis trumpeted the endorsement in his advertising and basked in
+the president’s praise when they stood together on stage in Tampa in
+late July.
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Putnam fought back, emphasizing his deep knowledge of Florida and
+chiding Mr. DeSantis for his television ubiquity. The son of a citrus
+farming family who was elected to the State Legislature when he was 22,
+he went on to serve in the House leadership in Washington.
+
+“Florida’s not picking an apprentice; we’re picking a governor,” Mr.
+Putnam said.
+
+In the House, [Donna Shalala, the secretary of Health and Human Services
+under President Bill
+Clinton](https://www.nytimes3xbfgragh.onion/2018/08/27/us/politics/donna-shalala-congress.html),
+defeated state Representative David Richardson in a Miami district
+Democratic primary.
+
+Her Republican opponent will be Maria Elvira Salazar, a former
+Spanish-language television journalist who on Tuesday bested a crowded
+field, including a rival who said as a child she went up on a spaceship
+with aliens. Democrats are expected to pick up the liberal-leaning seat,
+which is currently held by Representative Ileana Ros-Lehtinen, a veteran
+Republican who is
+retiring.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Representative
+Kyrsten Sinema won the Democratic primary for Senate in
+Arizona.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Conor
+E. Ralph for The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In Orlando, Representative Darren Soto, the first Puerto Rican elected
+to Congress from Florida, fended off a Democratic primary challenge from
+former Representative Alan Grayson, a liberal firebrand who has
+struggled in his attempt to return to Washington.
+
+*\[*[*A Parkland parent won election to the school
+board.\]*](https://www.nytimes3xbfgragh.onion/2018/08/28/us/parkland-school-board-election.html)
+
+In Arizona, just three days after the death of Senator John McCain,
+Republicans demonstrated how much the party had drifted from Mr.
+McCain’s pragmatic style of politics to Mr. Trump’s hard-line
+nationalism.
+
+After asking the president to stay out of the race, Ms. McSally, who
+would not say how she voted in 2016, sought Mr. Trump’s endorsement
+earlier this month.
+
+Ms. McSally, one of the first women to fly in combat for the Air Force,
+handily beat two far-right conservatives who divided that part of the
+electorate: the former Maricopa County sheriff, Joe Arpaio, whom Mr.
+Trump pardoned last year, and Kelli Ward, a former state senator who
+garnered nearly 40 percent in a 2016 primary against Mr. McCain and
+sought to capitalize on his death Monday by saying “political
+correctness is like a cancer.”
+
+Ms. McSally will now take on the Democratic primary victor,
+Representative Kyrsten Sinema, in a contest that could help decide
+control of the Senate.
+
+Speaking to supporters, Ms. McSally called for a moment of silence for
+Mr. McCain, but then quickly targeted Ms. Sinema. “It’s a choice between
+a doer and a talker, between a patriot and a protester,” Ms. McSally
+said.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Ms. Sinema also bowed to Mr. McCain and placed herself in his tradition
+of “always putting country over party,” saying that Arizonans need “an
+independent voice” in the Senate.
+
+In the governor’s race there, David Garcia, a liberal Democrat, defeated
+his centrist opponent, Steve Farley, to take on Gov. Doug Ducey, a
+Republican who may be vulnerable in November.
+
+Mr. Garcia, a former executive at the State Education Department, has
+sought to rally progressives, urging them to “imagine no wall in
+southern Arizona.” Mr. Farley argued that Democrats can win in a
+red-tinted state only by presenting themselves as pragmatists.
+
+In Oklahoma, Republicans nominated the Tulsa business executive Kevin
+Stitt in the runoff for governor, spurning former Mayor Mick Cornett of
+Oklahoma City, who was attacked as being insufficiently supportive of
+Mr. Trump. With Gov. Mary Fallin, the Republican lame duck, leaving
+office with dismal approval ratings, Democrats believe they could be
+competitive in what is generally a deeply conservative state.
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

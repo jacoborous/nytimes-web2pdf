@@ -84,7 +84,7 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <span class="css-17xtcya">[Travel](/section/travel)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Thinking
 of Traveling in the U.S.? These States Have Travel
-Restrictions</span>
+Restrictions.</span>
 
 </div>
 
@@ -131,35 +131,21 @@ Restrictions</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11450-e385-11ea-bdc5-47f412bc941f)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11451-e385-11ea-bdc5-47f412bc941f)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11452-e385-11ea-bdc5-47f412bc941f)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11453-e385-11ea-bdc5-47f412bc941f)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11454-e385-11ea-bdc5-47f412bc941f)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=e2d11455-e385-11ea-bdc5-47f412bc941f)</span>
 
 </div>
 
@@ -219,12 +205,12 @@ story](#after-sponsor)
 
 <div class="css-1vkm6nb ehdk2mb0">
 
-# Thinking of Traveling in the U.S.? These States Have Travel Restrictions
+# Thinking of Traveling in the U.S.? These States Have Travel Restrictions.
 
 </div>
 
-Nearly half of the states have strict measures in place for visitors,
-from mandatory testing to quarantine requirements.
+Nearly half of the states have measures in place for visitors, from
+mandatory testing to quarantine requirements.
 
 <div class="css-79elbk" data-testid="photoviewer-wrapper">
 
@@ -262,7 +248,7 @@ Schwartz</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published July 10, 2020Updated Aug. 4,
+    Published July 10, 2020Updated Aug. 20,
     2020
     
     </div>
@@ -310,10 +296,11 @@ state restrictions on travelers are constantly evolving, with some
 requiring mandatory testing and others imposing [quarantine
 requirements](https://www.cdc.gov/quarantine/index.html).
 
-The Centers for Disease Control and Prevention notes that travel
-increases a person’s chance of getting and spreading the virus. “Staying
-home is the best way to protect yourself and others from Covid-19,” the
-federal agency cautions.
+The Centers for Disease Control and Prevention notes that [travel
+increases a person’s chance of getting and spreading the
+virus](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-during-covid19.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Ftravelers%2Ftravel-in-the-us.html).
+“Staying home is the best way to protect yourself and others from
+Covid-19,” the federal agency cautions.
 
 For those who do take a trip, the C.D.C. notes that each mode of
 transportation has its own risks, and offers a series of recommendations
@@ -343,58 +330,29 @@ counties may have more stringent regulations than issued by their state.
 
 ### [Alabama](https://alabama.travel/my-trip/staying-safe)
 
-As of Aug. 4, there were no statewide restrictions in Alabama.
+As of Aug. 19, there were no statewide restrictions in Alabama.
 
 ### [Alaska](https://covid19.alaska.gov/travelers/)
 
-People entering Alaska must complete a [Mandatory Declaration Form for
-Interstate
-Travelers](https://covid19.alaska.gov/wp-content/uploads/2020/06/06112020-Mandate-10-Travel-declaration-form-Ver-2.0-6-10-f.pdf),
-and through Aug. 10 must agree to one of the following conditions:
+All nonresidents must upload proof of a negative or pending virus test
+taken within 72 hours before departure to [an online travel
+portal](https://www.alaska.covidsecureapp.com/), where they can also
+submit a travel declaration and self-isolation plan. The state requests
+a second test be done seven to 14 days after arriving in Alaska.
 
-  - Those with proof of a negative test within the previous 72 hours
-    must take another test between seven and 14 days after arrival, and
-    minimize interactions with others until they receive those new
-    results.
-
-  - Tourists with a negative result from a test taken in the five days
-    before their trip agree to take a second test at the airport upon
-    arrival, and then a third test seven to 14 days later. They also
-    agree to minimize interaction with others until the third test is
-    back.
-
-  - For now, people can also receive a test upon arrival, if one is
-    available, but they must self-quarantine until the results are
-    reported. Those who refuse to be tested must self-quarantine for 14
-    days or until the end of their stay, whichever is shorter. Beginning
-    Aug. 11, only residents can receive a test at the airport.
-    Nonresidents must arrive with a negative virus test taken within 72
-    hours before departure.
+Visitors arriving without a previously taken test can get one for $250,
+and must quarantine while awaiting results at their own cost. Testing is
+free for Alaska residents, who also have the option of a two-week
+quarantine instead of a test.
 
 ### [Arizona](https://tourism.az.gov/covid-19-updates-2/)
 
-As of Aug. 4, there were no statewide restrictions in Arizona.
+As of Aug. 19, there were no statewide restrictions in Arizona.
 
 ### [Arkansas](https://www.arkansas.com/travel-advisory/covid-19)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Arkansas.
-
-### [California](https://www.visitcalifornia.com/latest-covid-19-coronavirus)
-
-As of Aug. 4, there were no statewide restrictions in
-California.
-
-### [Colorado](https://covid19.colorado.gov/prepare-protect-yourself/prevent-the-spread/travel)
-
-As of Aug. 4, there were no statewide restrictions in
-Colorado.
-
-### [Connecticut](https://portal.ct.gov/Coronavirus/Covid-19-Knowledge-Base/Travel-In-or-Out-of-CT)
-
-With rare exception, those coming into Connecticut for more than 24
-hours from a state or area with a high rate of confirmed infections must
-self-quarantine for 14 days.
 
 </div>
 
@@ -404,42 +362,42 @@ self-quarantine for 14 days.
 
 <div class="css-53u6y8">
 
-TheThe 34 states currently affected by the order are Alaska, Alabama,
-Arizona, Arkansas, California, Florida, Georgia, Idaho, Illinois,
-Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Minnesota,
-Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North
-Carolina, North Dakota, Ohio, Oklahoma, Rhode Island, South Carolina,
-Tennessee, Texas, Utah, Virginia, Washington and Wisconsin. Visitors or
-residents returning from Puerto Rico face the same restrictions.
+### [California](https://www.visitcalifornia.com/latest-covid-19-coronavirus)
 
-The quarantine rules apply to anyone who spent more than 24 hours in one
-of the affected states within the previous 14 days. A person who cannot
-quarantine because they are coming in for a funeral, for instance, may
-show proof of negative results for a coronavirus test taken in the
-previous 72 hours. Those who have been tested but have not received the
-results are required to quarantine until negative results are received
-and submitted to the state.
+As of Aug. 19, there were no statewide restrictions in
+California.
 
-Anyone arriving from one of the higher rate areas must fill out a
-[mandatory health
-form](https://appengine.egov.com/apps/ct/DPH/Connecticut-Travel-Health-Form).
-Failure to do that, or to quarantine as required, carries a fine of up
-to
-$1,000.
+### [Colorado](https://covid19.colorado.gov/prepare-protect-yourself/prevent-the-spread/travel)
 
-### [Delaware](https://www.visitdelaware.com/industry/covid-19-in-delaware/)
+As of Aug. 19, there were no statewide restrictions in
+Colorado.
 
-As of Aug. 4, there were no statewide restrictions in
-Delaware.
+### [Connecticut](https://portal.ct.gov/Coronavirus/Covid-19-Knowledge-Base/Travel-In-or-Out-of-CT)
 
-### [District of Columbia](https://washington.org/dc-information/coronavirus-travel-update-washington-dc)
+With rare exception, those coming into Connecticut after more than 24
+hours in a state or area with a high rate of confirmed infections must
+self-quarantine for 14 days from their last contact with the affected
+state.
 
-People who have been to a high-risk state for nonessential travel ** in
-the previous two weeks who come into Washington for 24 hours or more
-[must self-quarantine for 14
-days](https://coronavirus.dc.gov/page/mayor’s-order-2020-081-requirement-self-quarantine-after-non-essential-travel-during-covid-19).
-The order excludes travelers from Maryland and
-Virginia.
+The states currently affected by the order are Alabama, Alaska, Arizona,
+Arkansas, California, Delaware, Florida, Georgia, Hawaii, Idaho,
+Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland,
+Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, North
+Carolina, North Dakota, Oklahoma, South Carolina, South Dakota,
+Tennessee, Texas, Utah, Virginia and Wisconsin. Visitors or residents
+returning from Puerto Rico or the U.S. Virgin Islands face the same
+restrictions.
+
+Someone whose home state is added to the list after they are already
+vacationing in Connecticut is asked to quarantine, but isn’t required
+to. People under self-quarantine may leave for medical visits, to obtain
+medication or to shop for groceries. A person who cannot quarantine
+because they are coming in for a funeral, for instance, may show proof
+of negative results for a coronavirus test taken in the previous 72
+hours. Those who have been tested but have not received the results are
+required to quarantine until negative results are received and submitted
+to the
+state.
 
 <div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
 
@@ -449,42 +407,42 @@ Virginia.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NlNTkwYjM3LWJmOWItNTdmYy05MmI1LWFlNjk3ZDBlZmU2NQ==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-05T07:58:24.076Z
+Updated 2020-08-21T07:46:15.883Z
 
 </div>
 
 </div>
 
-  - [As talks drag on, McConnell signals openness to jobless aid
-    extension, and negotiators agree on a
-    deadline.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
-  - [Novavax sees encouraging results from two studies of its
-    experimental
-    vaccine.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Mississippians must now wear masks in public, governor
-    says.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
+  - [Shutdowns, warnings and scoldings follow alarming incidents on
+    college
+    campuses.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-68774d88)
+  - [Biden knocks Trump’s pandemic response, and outlines a national
+    strategy.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-26b58724)
+  - [U.S. health agencies announce moves to confront the flu season and
+    plummeting child vaccination
+    rates.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4e542da3)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -500,91 +458,97 @@ updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.h
 
 </div>
 
-Until at least Aug. 10, the states affected by the order are Arkansas,
-Arizona, Alabama, California, Delaware, Florida, Georgia, Idaho, Iowa,
-Kansas, Louisiana, Mississippi, Missouri Montana, Nebraska, Nevada, New
-Mexico, North Carolina, North Dakota, Ohio, Oklahoma, South Carolina,
-Tennessee, Texas, Utah, Washington and Wisconsin.
+Anyone arriving from one of the higher rate areas must fill out a
+[mandatory health
+form](https://appengine.egov.com/apps/ct/DPH/Connecticut-Travel-Health-Form).
+Failure to do that, or to quarantine as required, carries a fine of up
+to $1,000 per
+violation.
+
+### [Delaware](https://www.visitdelaware.com/industry/covid-19-in-delaware/)
+
+As of Aug. 19, there were no statewide restrictions in
+Delaware.
+
+### [District of Columbia](https://washington.org/dc-information/coronavirus-travel-update-washington-dc)
+
+People who have been to a high-risk state for nonessential travel ** in
+the previous two weeks then come into Washington for 24 hours or more
+[must self-quarantine for 14
+days](https://coronavirus.dc.gov/page/mayor’s-order-2020-081-requirement-self-quarantine-after-non-essential-travel-during-covid-19).
+The order excludes travelers from Maryland and Virginia.
+
+The states affected by the order are Alaska, Arkansas, Arizona, Alabama,
+California, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas,
+Kentucky, Louisiana, Minnesota, Mississippi, Missouri, Montana,
+Nebraska, Nevada, New Mexico, North Carolina, North Dakota, Oklahoma,
+South Carolina, Tennessee, Texas, Utah and Wisconsin.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 ### [Florida](https://floridahealthcovid19.gov/travelers/)
 
-People from New York, New Jersey and Connecticut must self-quarantine at
-their own expense for 14 days when they enter Florida. Violators may be
-fined up to $500 or imprisoned for up to 60 days.
-
-The order is in effect [until
-Sept. 5](https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-166.pdf).
+As of Aug. 19, there were no statewide restrictions in Florida. County
+and city restrictions may be in place.
 
 ### [Georgia](https://dph.georgia.gov/covid-19-travel)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Georgia.
 
 ### [Hawaii](https://www.hawaiitourismauthority.org/news/alerts/covid-19-novel-coronavirus/)
 
-All those arriving in Hawaii must isolate for two weeks, or until the
-end of their stay, whichever is shorter. Arriving travelers must sign a
-form confirming they are aware of the quarantine and that violating it
-is a criminal offense that carries up to a $5,000 fine and up to a year
-in prison.
+Visitors and residents arriving in Hawaii from out of state must
+quarantine for 14 days. A mandatory 14-day inter-island self-quarantine
+is also required for those arriving to Kauai, Hawaii Island or Maui
+County (Maui, Molokai, Lanai), and traveling between these islands. The
+order does not include inter-island travelers arriving on Oahu.
 
-</div>
+Travelers should check the state and island websites to see which forms
+need to be filled out, as different islands have different requirements.
 
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
-Beginning Sept. 1, travelers can avoid that restriction by showing proof
-of a negative coronavirus test taken within 72 hours of their trip.
-
-Forms must also be filled out for inter-island travel, and those with a
-temperature of 100.4 or above are not allowed to fly.
+Those violating state quarantine requirements face up to a $5,000 fine
+and up to a year in prison.
 
 ### [Idaho](https://visitidaho.org/covid-19-travel-alert/)
 
-Travelers to Boise and other cities in Ada County are encouraged to
-self-quarantine for 14 days. Other counties in the state are further
-along in their reopening and don’t have a similar
-request.
+As of Aug. 19, there were no statewide restrictions in Idaho. County
+restrictions may be in place: For instance, travelers to Boise and other
+cities in Ada County are encouraged to self-quarantine for 14
+days.
 
 ### [Illinois](https://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus/travel-guidance)
 
-There are no statewide restrictions, but those entering or returning to
+As of Aug. 19, there are no statewide restrictions. However, under an
+[emergency travel
+order](https://www.chicago.gov/city/en/sites/covid-19/home/emergency-travel-order.html),
+a 14-day quarantine is required for those entering or returning to
 Chicago from Alabama, Arizona, Arkansas, California, Florida, Georgia,
-Idaho, Iowa, Kansas, Louisiana, Missouri (as of July 31), Mississippi,
-Nebraska (as of July 31), Nevada, North Carolina, North Dakota (as of
-July 31), Oklahoma, Puerto Rico (as of Aug. 7), South Carolina,
-Tennessee, Texas, Utah and Wisconsin (as of July 31), are [required to
-self-quarantine for 14
-days](https://www.chicago.gov/city/en/sites/covid-19/home.html) from
-their last contact with those areas. Those violating the order face
-fines of up to $500 per day, up to a maximum of $7,000.
+Idaho, Louisiana, Mississippi, Missouri, Nevada, North Carolina, North
+Dakota, Oklahoma, Puerto Rico, South Carolina, Tennessee and Texas.
 
 ### [Indiana](https://www.coronavirus.in.gov)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Indiana.
 
 ### [Iowa](https://www.traveliowa.com/aspx/general/dynamicpage.aspx?id=204)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Iowa.
 
 ### [Kansas](https://www.coronavirus.kdheks.gov/175/Travel-Exposure-Related-Isolation-Quaran)
 
-Those who visited Florida after June 29 must self-quarantine for 14 days
-after entering or returning to Kansas. The same is true for anyone who
-visited Arizona between June 17 and July 27.
-
-The state plans to review the list around Aug. 11.
-
-### [Kentucky](https://governor.ky.gov/covid19)
-
-Travelers who visited states or territories with an infection rate
-approaching 15 percent or higher [are asked to self-quarantine for 14
-days](https://coronavirus.jhu.edu/testing/testing-positivity).
+Those who attended any out-of-state gathering that included 500 people
+or more on or after Aug. 11 must quarantine for 14 days when entering
+Kansas. Anyone who visited Florida between June 29 and Aug. 11 must
+complete their 14-day self-quarantine.
 
 </div>
 
@@ -594,34 +558,45 @@ days](https://coronavirus.jhu.edu/testing/testing-positivity).
 
 <div class="css-53u6y8">
 
-[Those
-areas](https://kentucky.gov/Pages/Activity-stream.aspx?n=CHFS&prId=281)affected
-are Alabama, Arizona, Florida, Georgia, Idaho, Nevada, Puerto Rico,
-South Carolina and
+### [Kentucky](https://governor.ky.gov/covid19)
+
+Travelers who visited states with an infection rate approaching 15
+percent or higher [are asked to self-quarantine for 14
+days](https://coronavirus.jhu.edu/testing/testing-positivity). The
+recommendation applies to visitors from Alabama, Arizona, Florida,
+Idaho, Mississippi, Nevada, South Carolina and
 Texas.
 
 ### [Louisiana](https://louisianatravelassociation.org/covid-19-resources)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Louisiana.
 
 ### [Maine](https://www.maine.gov/covid19/restartingmaine/keepmainehealthy/faqs)
 
-Only residents of Vermont, New Hampshire, Connecticut, New York and New
-Jersey who stay in commercial lodging in Maine can enter the state
-without restriction. Everyone else must either self-quarantine for 14
-days, or sign a document stating that they tested negative within the
-previous 72 hours. Those in quarantine may leave their hotel or campsite
-only for limited outdoor activities, such as hiking, when no other
-people are around.
+Only residents of Connecticut, New Hampshire, New Jersey, New York and
+Vermont can enter the state without restriction. Everyone else must
+either self-quarantine for 14 days, or sign a document stating that they
+had a negative result to the coronavirus test within the previous 72
+hours. Those in quarantine may leave their hotel or campsite only for
+limited outdoor activities, such as hiking, when no other people are
+around.
 
-Maine residents who travel out of state to a state not on the exempted
-list must also quarantine when they return or test negative for the
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
+Maine residents who travel to a state not on the exempted list must also
+quarantine when they return or alternatively, test negative for the
 virus.
 
 ### [Maryland](https://www.visitmaryland.org/article/travel-alerts)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Maryland.
 
 ### [Massachusetts](https://www.mass.gov/info-details/covid-19-updates-and-information)
@@ -635,26 +610,25 @@ negative test for the coronavirus taken within the previous 72 hours.
 Those awaiting test results must quarantine until a negative result is
 received.
 
-The lower risk states exempt from the requirements are: Connecticut,
-Hawaii, Maine, New Hampshire, New Jersey, New York, Rhode Island and
-Vermont. A person must have been in those states for the previous two
-weeks, or merely passed through a higher risk area.
+The exemption applies to those who were in one of the following states
+for the two weeks before their visit to Massachusetts: Connecticut,
+Maine, New Hampshire, New Jersey, New York and Vermont.
 
 Those who fail to comply with the rules face fines of up to $500 per
 day.
 
 ### [Michigan](https://www.michigan.gov/coronavirus/)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Michigan.
 
 ### [Minnesota](https://www.exploreminnesota.com/info/coronavirus-covid-19-information)
 
-As of Aug. 4, there were no statewide restrictions in Minnesota.
+As of Aug. 19, there were no statewide restrictions in Minnesota.
 
 ### [Mississippi](https://visitmississippi.org/covid-19-travel-alert/)
 
-As of Aug. 4, there were no statewide restrictions in Mississippi.
+As of Aug. 19, there were no statewide restrictions in Mississippi.
 
 </div>
 
@@ -666,11 +640,11 @@ As of Aug. 4, there were no statewide restrictions in Mississippi.
 
 ### [Missouri](https://www.visitmo.com/travel-updates)
 
-As of Aug. 4, there were no statewide restrictions in Missouri.
+As of Aug. 19, there were no statewide restrictions in Missouri.
 
 ### [Montana](https://www.visitmt.com/travel-alerts.html)
 
-As of Aug. 4, there were no statewide restrictions in Montana.
+As of Aug. 19, there were no statewide restrictions in Montana.
 
 At Glacier National Park, only the west entrance is open. The Blackfeet
 Nation is keeping the park’s eastern entrances, which are on tribal
@@ -679,11 +653,11 @@ August](https://www.washingtonpost.com/national/a-closed-border-pandemic-weary-t
 
 ### [Nebraska](http://dhhs.ne.gov/Pages/COVID-19-Traveler-Recommendations.aspx)
 
-As of Aug. 4, there were no statewide restrictions in Nebraska.
+As of Aug. 19, there were no statewide restrictions in Nebraska.
 
 ### [Nevada](https://nvhealthresponse.nv.gov/info/travelers-visitors/)
 
-As of Aug. 4, there were no statewide restrictions in Nevada.
+As of Aug. 19, there were no statewide restrictions in Nevada.
 
 ### [New Hampshire](https://www.covidguidance.nh.gov/out-state-visitors)
 
@@ -699,14 +673,14 @@ self-quarantine for 14 days, even if they had a recent negative virus
 test.
 
 The request applies to those who spent more than 24 hours in Alabama,
-Alaska, Arizona, Arkansas, California, Florida, Georgia, Idaho,
-Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland,
-Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico,
-North Carolina, North Dakota, Ohio, Oklahoma, Puerto Rico, Rhode Island,
-South Carolina, Tennessee, Texas, Utah, Virginia, Washington or
-Wisconsin.
+Alaska, Arizona, Arkansas, California, Delaware, Florida, Georgia,
+Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana,
+Maryland, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada,
+North Carolina, North Dakota, Oklahoma, Puerto Rico, South Carolina,
+South Dakota, Tennessee, Texas, Utah, Virginia, the U.S. Virgin Islands
+and Wisconsin.
 
-Travelers from those states are also asked to complete an online survey
+Travelers from those areas are also asked to complete an online survey
 providing details about where they have been and where they plan to
 stay.
 
@@ -733,7 +707,7 @@ shorter.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-18477" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -745,7 +719,24 @@ shorter.
 
 #### Frequently Asked Questions
 
-Updated August 4, 2020
+Updated August 17, 2020
+
+  - #### Why does standing six feet away from others help?
+    
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        on the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
 
   - #### I have antibodies. Am I now immune?
     
@@ -804,17 +795,6 @@ Updated August 4, 2020
         -- without giving you the sick employee’s name -- that they may
         have been exposed to the virus.
 
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes3xbfgragh.onion/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
   - #### What is school going to look like in September?
     
       - It is unlikely that many schools will return to a normal
@@ -845,7 +825,7 @@ Updated August 4, 2020
         in your
 community.
 
-<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-18477" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 
@@ -879,45 +859,49 @@ The order is in effect until at least Aug.
 ### [New York](https://coronavirus.health.ny.gov/covid-19-travel-advisory)
 
 New York requires individuals who have spent more than 24 hours in a
-state or area with significant community spread of the coronavirus to
-self-quarantine for 14 days.
+state or area with significant community spread of the [coronavirus to
+self-quarantine](https://www.nytimes3xbfgragh.onion/2020/08/16/nyregion/coronavirus-quarantine-nyc.html)
+for 14 days.
 
-The 34 states affected by the quarantine order are Alaska, Alabama,
-Arizona, Arkansas, California, Florida, Georgia, Idaho, Illinois,
-Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Mississippi,
-Minnesota, Missouri, Montana, Nebraska, Nevada, New Mexico, North
-Carolina, North Dakota, Ohio, Oklahoma, Rhode Island, South Carolina,
-Tennessee, Texas, Utah, Virginia, Washington and Wisconsin. It also
-applies to Puerto Rico.
+The states and territories affected by the quarantine order are Alabama,
+Alaska, Arizona, Arkansas, California, Delaware, Florida, Georgia,
+Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana,
+Maryland, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada,
+North Carolina, North Dakota, Oklahoma, Puerto Rico, South Carolina,
+South Dakota, Tennessee, Texas, Utah, Virginia, the U.S. Virgin Islands
+and Wisconsin.
 
-Those arriving at airports in New York must fill out a Health Department
-traveler form, or face a possible $2,000 fine and a [mandatory
-quarantine
-order](https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form).
+Those arriving at airports in New York must fill out a [Health
+Department traveler
+form](https://forms.ny.gov/s3/Welcome-to-New-York-State-Traveler-Health-Form),
+or face a possible $2,000 fine and a mandatory quarantine order.
 Travelers arriving by air must fill out the form before leaving the
 airport, while those arriving by car, train or other modes of
-transportation must fill it out
-online.
+transportation must fill it out online. To ensure compliance, travelers
+to New York City [may be stopped at random at bridge and tunnel
+crossings](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/nyc-coronavirus-quarantine-checkpoints.html),
+in Penn Station and at the Port Authority Bus
+Terminal.
 
 ### [North Carolina](https://www.nc.gov/covid-19/covid-19-travel-resources)
 
-As of Aug. 4, there were no statewide restrictions in North
+As of Aug. 19, there were no statewide restrictions in North
 Carolina.
 
 ### [North Dakota](https://www.health.nd.gov/diseases-conditions/coronavirus/travel)
 
-As of Aug. 4, there were no statewide restrictions in North Dakota.
+As of Aug. 19, there were no statewide restrictions in North
+Dakota.
 
-### [Ohio](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
+### [Ohio](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/families-and-individuals/COVID-19-Travel-Advisory/)
 
 Traveling Ohioans and out-of-state tourists who have visited an area of
 high risk, or who have had possible exposure to the coronavirus, are
 asked to voluntarily quarantine for 14 days.
 
-As of July 29, Ohio has identified [the following
-states](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/families-and-individuals/COVID-19-Travel-Advisory/COVID-19-Travel-Advisory)
-as high risk: Alabama, Arizona, Florida, Idaho, Kansas, Mississippi, and
-South Carolina.
+As of Aug. 19, Ohio has identified [the following
+states](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/families-and-individuals/COVID-19-Travel-Advisory/)
+as high risk: Florida, Idaho, Mississippi and Nevada.
 
 </div>
 
@@ -927,24 +911,22 @@ South Carolina.
 
 <div class="css-53u6y8">
 
-The list is expected to be updated on Aug. 6.
-
 ### [Oklahoma](https://coronavirus.health.ok.gov/travel)
 
-As of Aug. 4, there were no statewide restrictions in Oklahoma.
+As of Aug. 19, there were no statewide restrictions in Oklahoma.
 
 ### [Oregon](https://traveloregon.com/travel-alerts/)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Oregon.
 
 ### [Pennsylvania](https://www.health.pa.gov/topics/disease/coronavirus/Pages/Travelers.aspx)
 
 The state asks travelers who have visited an area with a Covid-19 surge
 to self-quarantine for 14 days. The states are Alabama, Arizona,
-Arkansas, California, Florida, Georgia, Idaho, Iowa, Kansas, Louisiana,
-Mississippi, Missouri, Nevada, North Carolina, Oklahoma, South Carolina,
-Tennessee, Texas and Utah.
+Arkansas, California, Florida, Georgia, Idaho, Kansas, Louisiana,
+Mississippi, Missouri, Nevada, North Dakota, Oklahoma, South Carolina,
+Tennessee and Texas.
 
 ### [Rhode Island](https://health.ri.gov/covid/)
 
@@ -957,10 +939,10 @@ state recommends the full two-week quarantine.
 
 [The states
 identified](https://docs.google.com/spreadsheets/d/e/2PACX-1vSUCk9FlHBoJt5ZO0U6PKTTY7jHH8V4MovED0WiqpTTixdgMSCnUWI25xX5DCmQmtLknzu7Bo0jwY02/pubhtml?gid=0&single=true)
-are Alabama, Arizona, Arkansas, California, Colorado, Florida, Georgia,
-Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland,
-Mississippi, Missouri, Nebraska, Nevada, North Carolina, North Dakota,
-Oklahoma, Oregon, Pennsylvania, South Carolina, South Dakota, Tennessee,
+are Alabama, Arizona, Arkansas, California, Delaware, Florida, Georgia,
+Hawaii, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Minnesota,
+Mississippi, Missouri, Montana, Nebraska, Nevada, North Carolina, North
+Dakota, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee,
 Texas, Utah, Virginia, Washington, Wisconsin and Wyoming. Visitors from
 Puerto Rico must also
 quarantine.
@@ -974,20 +956,20 @@ region.
 
 ### [South Dakota](https://www.travelsouthdakota.com/coronavirus-covid-19)
 
-As of Aug. 4, there were no statewide restrictions in South
+As of Aug. 19, there were no statewide restrictions in South
 Dakota.
 
 ### [Tennessee](https://www.tnvacation.com/articles/tennessee-travel-amid-coronavirus)
 
-As of Aug. 4, there were no statewide restrictions in Tennessee.
+As of Aug. 19, there were no statewide restrictions in Tennessee.
 
 ### [Texas](https://gov.texas.gov/travel-texas/page/covid19)
 
-As of Aug. 4, there were no statewide restrictions in Texas.
+As of Aug. 19, there were no statewide restrictions in Texas.
 
 ### [Utah](https://www.visitutah.com/plan-your-trip/covid-19/)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Utah.
 
 </div>
@@ -1026,39 +1008,26 @@ test.
 
 ### [Virginia](https://www.vdh.virginia.gov/coronavirus/frequently-asked-questions/u-s-travelers/)
 
-As of Aug. 4, there were no statewide restrictions in
+As of Aug. 19, there were no statewide restrictions in
 Virginia.
 
 ### [Washington](https://www.experiencewa.com/articles/date-coronavirus-travel-advisory)
 
-As of Aug. 4, there were no statewide restrictions in Washington.
+As of Aug. 19, there were no statewide restrictions in Washington.
 
 ### [West Virginia](https://wvtourism.com/travel-alert/)
 
-As of Aug. 4, there were no statewide restrictions in West Virginia.
+As of Aug. 19, there were no statewide restrictions in West Virginia.
 
 ### [Wisconsin](https://www.dhs.wisconsin.gov/covid-19/travel.htm)
 
-There is no quarantine request, but the state asks those who have
-traveled within the United States and are entering Wisconsin to check
-themselves for symptoms of Covid-19 and to stay home as much as possible
-for 14 days. Wisconsinites are asked not to travel to summer or rental
-homes. Local quarantine restrictions may be in place at the county
+As of Aug. 19, there were no statewide restrictions in Wisconsin. Local
+quarantine restrictions may be in place at the county
 level.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 ### [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/covid-19-orders-and-guidance/)
 
-As of Aug. 4, there were no statewide restrictions in Wyoming.
-
------
+As of Aug. 19, there were no statewide restrictions in Wyoming.
 
 Follow Karen Schwartz on Twitter:
 [@WanderWomanIsMe](https://twitter.com/wanderwomanisme?lang=en)
@@ -1067,13 +1036,11 @@ Follow Karen Schwartz on Twitter:
 
 </div>
 
-<div>
-
-</div>
-
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+-----
 
 ***Follow New York Times Travel***
 *on*[*Instagram*](https://www.instagram.com/nytimestravel/)*,*[*Twitter*](https://twitter.com/nytimestravel)

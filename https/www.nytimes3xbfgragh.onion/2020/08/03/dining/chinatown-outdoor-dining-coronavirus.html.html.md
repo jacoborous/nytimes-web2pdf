@@ -132,11 +132,13 @@ Time</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
+
+<div id="NYT_TOP_BANNER_REGION">
 
 <div>
 
-<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+<div id="maps-athome-menu" class="section css-l08pwh interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -149,14 +151,16 @@ Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=A
 
 </div>
 
-  - [Talk: To
-    Strangers](https://www.nytimes3xbfgragh.onion/2020/08/03/well/family/the-benefits-of-talking-to-strangers.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Make: Grilled
-    Pizza](https://www.nytimes3xbfgragh.onion/2020/08/01/at-home/coronavirus-make-pizza-on-a-grill.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Watch: 'The
-    Goldbergs'](https://www.nytimes3xbfgragh.onion/2020/07/31/arts/television/goldbergs-abc-stream.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters' Google
-    Docs](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Make: Lobster
+    Salad](https://www.nytimes3xbfgragh.onion/2020/08/14/dining/lobster-salad-recipe.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Sneak In:
+    Exercise](https://www.nytimes3xbfgragh.onion/2020/08/15/at-home/coronavirus-at-home-quick-exercises.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [See: Reporters'
+    Obsessions](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+  - [Deck Out: Your
+    Porch](https://www.nytimes3xbfgragh.onion/2020/08/15/at-home/coronavirus-fall-patio-furniture.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
+
+</div>
 
 </div>
 
@@ -545,6 +549,14 @@ buildings are empty. A handful of sidewalk tables would make little
 difference to banquet and dim sum restaurants with space for hundreds of
 people at a time, including Jing Fong and 88 Palace, which have not
 embraced outdoor dining.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
 
 Mr. Tang held out for a month before giving in. “We don’t have a
 choice,” he said. “We have to survive.”

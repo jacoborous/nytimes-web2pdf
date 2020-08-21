@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -176,30 +180,31 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/world/americas/colombia-president-uribe-charged.html)
+    [](/2020/08/19/world/americas/coronavirus-venezuela.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/world/05uribe-print/merlin_138461055_e8f62ffd-95e1-4b71-8a94-dda7b8b50083-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20virus-venezuela-sub/00virus-venezuela-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Colombia Supreme Court Orders Ex-President Álvaro Uribe Detained
+    ## Venezuela Deploys Security Forces in Coronavirus Crackdown
     
-    A decision to put Mr. Uribe under house arrest as a fraud and
-    bribery investigation unfolds could be a turning point in a nation
-    used to seeing powerful politicians avoid prosecution.
+    A ruined economy and a broken health care system have left President
+    Nicolás Maduro unable to fight the pandemic as other world leaders
+    have. Instead, he’s detained thousands to try to halt the spread.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Turkewitz</span>
+    By <span class="css-1n7hynb">Anatoly Kurmanaev, Isayen Herrera
+    <span>and</span> Sheyla Urdaneta</span>
     
     </div>
     
     <div class="css-185051n">
     
     [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/america-latina/alvaro-uribe-detencion-colombia.html "Read in Spanish")
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/19/espanol/america-latina/venezuela-represion-coronavirus.html "Read in Spanish")
     
     </div>
     
@@ -217,24 +222,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    [](/2020/08/17/world/canada/finance-minister-resigns-trudeau.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada-minister1/17canada-minister1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Caribbean Dilemma
+    ## Canada Finance Minister Quits Post Amid Charity Scandal
     
-    Many islands are open to American travelers. Going could mean
-    bringing coronavirus to places ill prepared to deal with it. Not
-    going could mean deepening economic woes. How do you choose?
+    Bill Morneau insisted his stepping down was not related to a
+    conflict-of-interest controversy that has embroiled him and Prime
+    Minister Justin Trudeau of Canada.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nina
-    Burleigh</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -252,26 +257,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/obituaries/bernaldina-jose-pedro-dead-coronavirus.html)
+    [](/2020/08/17/world/americas/honey-mel-gibson-chile.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/obituaries/30Pedro/30Pedro-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17chile-honey/17chile-honey-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## She Was Selling Honey to Survive. Then Mel Gibson Threatened to Sue.
     
-    ## Bernaldina José Pedro, Repository of Indigenous Culture, Dies at 75
-    
-    Ms. Pedro was a leader of Brazil’s Macuxi people and carried a
-    message of alarm for their fate to Pope Francis. She died of the
-    novel coronavirus.
+    A single mother in Chile began selling organic honey from home
+    during quarantine, using the actor’s name as a play on words. His
+    lawyer was not amused.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Astor</span>
+    By <span class="css-1n7hynb">Ernesto
+    Londoño</span>
     
     </div>
     
@@ -289,26 +292,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/travel/remote-schools-patagonia.html)
+    [](/2020/08/17/world/canada/toronto-g20-settlement.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada/17canada-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The World Through a Lens</span>
+    ## Toronto Police to Pay $12.5 Million to Protesters Arrested During 2010 G-20 Summit
     
-    ## A Visit to 5 of Patagonia’s Most Remote Schoolhouses
-    
-    Community life within the isolated villages of southern Chile is
-    facilitated in part by an unlikely source: a network of rural
-    schools.
+    Brutal police tactics during the global meeting shocked many
+    Canadians, led to 1,100 arrests and were found unlawful.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Andria
-    Hautamaki</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -326,25 +326,31 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/americas/guyana-president-ali-oil.html)
+    [](/2020/08/15/world/americas/brazil-coronavirus-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02guyana/merlin_169986186_c1231a6a-b3e4-45de-8a61-b70ca5d3e8b3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/world/SUB16virus-brazil-vax/merlin_175106148_7983adc4-cfe5-443f-9c34-7dab22b57205-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Guyana Swears In New Leader, Resolving Struggle Over Oil Wealth
+    ## Coronavirus Crisis Has Made Brazil an Ideal Vaccine Laboratory
     
-    Mohamed Irfaan Ali will manage the flow of billions in new oil
-    revenues, which are reshaping the small South American country and
-    heightened a standoff after elections in March.
+    Widespread contagion, a deep bench of scientists and a robust
+    vaccine-making infrastructure have made Brazil an important player
+    in the quest to find a vaccine.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nafeeza Yahya-Sakur <span>and</span>
-    Anatoly
-    Kurmanaev</span>
+    By <span class="css-1n7hynb">Manuela Andreoni <span>and</span>
+    Ernesto Londoño</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/17/espanol/america-latina/vacuna-coronavirus-brasil.html "Read in Spanish")
     
     </div>
     
@@ -362,24 +368,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/americas/mexico-el-marro-capture.html)
+    [](/2020/08/14/world/canada/trump-canada-aluminum-exports.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02mexico2/merlin_170327064_c214ce7c-82c0-4a6b-ab03-3dc20289260d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/24/world/24canadaletter-aluminium/24canadaletter-aluminium-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Mexico Seizes Crime Boss El Marro, Under Pressure to Cut Violence
+    ### <span class="css-m70j1g">CANADA LETTER</span>
     
-    While the arrest of José Antonio Yépez delivers a major blow to a
-    cartel, analysts say officials lack a cohesive strategy against
-    debilitating crime.
+    ## Looking Behind Trump’s Latest Attack on Canada’s Aluminum Exports
+    
+    We spoke with an economist in Washington about the U.S. president’s
+    latest trade salvo against his neighboring trade partner.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Azam
-    Ahmed</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -397,30 +404,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/world/americas/mexico-tv-virus-telenovela.html)
+    [](/2020/08/14/world/americas/eusebio-leal-spengler-who-restored-old-havana-dies-at-77.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/world/00mexico-melodrama/merlin_173965713_f45fb63a-5152-433a-b9e9-4cfa786e4780-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/obituaries/12Leal1/12Leal1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Less Sex, More Viewers: Pandemic Boosts Mexico’s Flagging Telenovelas
+    ## Eusebio Leal Spengler, Who Restored Old Havana, Dies at 77
     
-    Dismissed as too old-fashioned to compete with streaming services,
-    the melodramas have seen viewership surge from Mexicans seeking the
-    familiar in a distressing time.
+    His decades-long effort to preserve a capital’s colonial buildings
+    turned a former slum into a tourist destination and capitalist
+    success story.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Natalie Kitroeff</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/02/espanol/america-latina/televisa-rosa-de-guadalupe-netflix.html "Read in Spanish")
+    By <span class="css-1n7hynb">Steven
+    Kurutz</span>
     
     </div>
     
@@ -438,32 +439,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/obituaries/victor-victor-dead-coronavirus.html)
+    [](/2020/08/14/arts/luchita-hurtado-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/obituaries/27Victor/merlin_175001436_38b11f8e-227a-4e2c-9821-7618af9b2524-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/15/obituaries/00Hurtado1/00Hurtado1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## Luchita Hurtado, Artist Who Became a Sensation in Her 90s, Dies at 99
     
-    ## Víctor Víctor, Known for the Hit ‘Mesita de Noche,’ Dies at 71
-    
-    A singer, songwriter and producer, Mr. Víctor also worked to bring
-    theater, music and dance lessons to underprivileged communities. He
-    died of Covid-19.
+    For years she worked in the shadow of her artist husbands and more
+    famous peers, painting at night when the children were asleep. Then
+    a trove of her work was discovered.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sandra E. Garcia</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/03/espanol/cultura/victor-victor-murio-coronavirus.html "Read in Spanish")
+    By <span class="css-1n7hynb">Karen
+    Rosenberg</span>
     
     </div>
     
@@ -481,25 +474,26 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/world/americas/Brazil-amazon-deforestation-bolsonaro.html)
+    [](/2020/08/13/obituaries/david-galante-dead-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/world/02brazil-amazon/merlin_160086585_797d8284-14b9-4098-83bc-3d9e148ee8a1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/obituaries/10Galante/10Galante-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Under Pressure, Brazil’s Bolsonaro Forced to Fight Deforestation
+    ### <span class="css-m70j1g">Those We’ve Lost</span>
     
-    After fending off international criticism on rainforest destruction,
-    President Jair Bolsonaro caved to pressure and took steps to curb
-    deforestation and forest fires.
+    ## David Galante, Who Spoke Belatedly About Auschwitz, Dies at 96
+    
+    It took Mr. Galante decades before he felt comfortable sharing the
+    horrors he witnessed during the Holocaust. He died of the
+    coronavirus.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ernesto Londoño <span>and</span>
-    Letícia
-    Casado</span>
+    By <span class="css-1n7hynb">Daniel
+    Politi</span>
     
     </div>
     
@@ -517,23 +511,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/science/vines-lianas-panama.html)
+    [](/2020/08/12/world/americas/Mexico-Pena-Nieto-bribes.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/00SCI-VINES1/00SCI-VINES1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/world/12mexico/12mexico-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Trilobites</span>
+    ## Mexico’s Former President Accused in Bribery Scandal
     
-    ## How Woody Vines Do the Twist
-    
-    Slowly, scientists are learning how lianas quickly climb.
+    Corruption allegations against past presidents have never led to
+    prosecution. Will the latest claims about Enrique Peña Nieto lead to
+    the first?
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Devi Lockwood</span>
+    By <span class="css-1n7hynb">Natalie Kitroeff</span>
     
     </div>
     

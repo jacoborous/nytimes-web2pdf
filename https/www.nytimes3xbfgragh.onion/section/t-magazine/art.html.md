@@ -63,6 +63,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -596,24 +600,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/t-magazine/culture-therapist-grief.html)
+    [](/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/t-magazine/art/culture-therapist-slide-4JHU/culture-therapist-slide-4JHU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/arts/23CREWDSON1/23CREWDSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How Should I Respond to Overzealous Gestures of Sympathy?
+    ## For Gregory Crewdson, Truth Lurks in the Landscape
     
-    “These people mire you in your sense of loss just as you are ready
-    to discover what remains to be found,” writes one of our advice
-    columnists.
+    As the artist shot his cinematically constructed images in the
+    Berkshires, he was afflicted by mysterious maladies. “I felt my body
+    betrayed me,” he said.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Megan
-    O’Grady</span>
+    By <span class="css-1n7hynb">Arthur
+    Lubow</span>
     
     </div>
     
@@ -631,26 +635,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
+    [](/2020/08/20/t-magazine/monte-uzulu-vivanterre-emme-parsons.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/t-magazine/19tmag-newsletter-slide-OHNJ/19tmag-newsletter-slide-OHNJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    ## The T List: Five Things We Recommend This Week
     
-    ## The 1964 Olympics Certified a New Japan, in Steel and on the Screen
-    
-    The world’s elite athletes would have been in Tokyo right now if not
-    for the coronavirus pandemic. When they went half a century ago,
-    they discovered a capital transformed by design.
+    A Oaxacan resort, fine jewelry inspired by crudités — and
+    more.
     
     <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason
-    Farago</span>
     
     </div>
     
@@ -668,27 +666,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/design/virtual-art-gallery-shows.html)
+    [](/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20DIA-REVIEWalt1/20DIA-REVIEWalt1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Art Reviews</span>
+    ### <span class="css-m70j1g">Critic’s Pick</span>
     
-    ## Three Art Gallery Shows to See Right Now
+    ## Dia Beacon Reopens With a Sonic Boom
     
-    Galleries and museums are getting creative about presenting work
-    online during the pandemic. Some are open for in-person visits. Here
-    are shows worth viewing either way.
+    The D.J. Carl Craig’s basement “club” shows the affinity between
+    minimal art and techno music. It’s an after-party for the Covid age,
+    minus the sweat.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Roberta Smith, Jillian Steinhauer
-    <span>and</span> Martha
-    Schwendener</span>
+    By <span class="css-1n7hynb">Jason
+    Farago</span>
     
     </div>
     
@@ -706,20 +703,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
+    [](/2020/08/19/t-magazine/berlin-infamous-skating-couple-design.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/t-magazine/07tmag-berlin-slide-0TTL/07tmag-berlin-slide-0TTL-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The T List: Five Things We Recommend This Week
+    ## In Berlin, a Loft That Is Part Gallery and Part Roller Rink
     
-    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
-    more.
+    Sascha Dornhöfer and Alexandra Rothert live with and by their art.
     
     <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gisela
+    Williams</span>
     
     </div>
     
@@ -737,23 +736,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/art-accounts-to-follow-instagram.html)
+    [](/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29instagram-art1/29instagram-art1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/arts/16BIGGERS-main/16BIGGERS-main-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Five Art Accounts to Follow on Instagram Now
+    ### <span class="css-m70j1g">Studio Visit</span>
     
-    Our critic shares accounts that make her feel, think and see in new
-    ways — something that feels especially vital right now.
+    ## Cracking Codes With Sanford Biggers
+    
+    “You don’t have to follow the norms,” says this artist who makes
+    wrenching sculptures transformed by gunfire and radically altered
+    heirloom quilts. A studio visit sheds light on his personal journey.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Jillian
-    Steinhauer</span>
+    By <span class="css-1n7hynb">Siddhartha
+    Mitter</span>
     
     </div>
     
@@ -771,24 +773,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+    [](/2020/08/13/arts/design/nyc-galleries-art-shows.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/arts/12gallery-notebook1/12gallery-notebook1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Kerry James Marshall’s Black Birds Take Flight in a New Series
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    Inspired by John James Audubon, the painter explores the societal
-    “pecking order” in two works that dovetail with “this mystery
-    about whether or not Audubon himself was Black.”
+    ## A Bouquet of Group Art Shows Near Houston Street
+    
+    These expansive exhibitions, in galleries on or near the Lower East
+    Side, create an immersive sense of art and the reawakening art
+    scene.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Ted
-    Loos</span>
+    By <span class="css-1n7hynb">Roberta
+    Smith</span>
     
     </div>
     
@@ -806,25 +810,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/t-magazine/yoshitomo-nara.html)
+    [](/2020/08/13/t-magazine/inque-postcards-rain-boots.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/t-magazine/30tmag-nara-slide-67ZV/30tmag-nara-slide-67ZV-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/t-magazine/12tmag-newsletter-slide-EVW7/12tmag-newsletter-slide-EVW7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">True Believers</span>
+    ## The T List: Five Things We Recommend This Week
     
-    ## Yoshitomo Nara Paints What He Hears
-    
-    Ahead of a major retrospective in Los Angeles, the Japanese artist
-    discusses his musical education.
+    Fine-art postcards, Bottega Veneta rain boots — and
+    more.
     
     <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Nick
-    Marino</span>
     
     </div>
     
@@ -842,24 +841,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/t-magazine/howardena-pindell.html)
+    [](/2020/08/12/arts/design/instagram-art-accounts-to-follow.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-pindell/13tmag-pindell-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/arts/13instagram-art-main/13instagram-art-main-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">True Believers</span>
+    ## Five Art Accounts to Follow on Instagram Now
     
-    ## A Portrait of an Artist Not to Be Underestimated
-    
-    The painter Howardena Pindell discusses her 1990 work “Scapegoat.”
+    Our critic looks in on a photographer in Los Angeles, a museum in
+    Cape Town, fierce young critics in London and culture workers who
+    are out there fighting for beauty and justice.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Howardena
-    Pindell</span>
+    By <span class="css-1n7hynb">Siddhartha
+    Mitter</span>
     
     </div>
     
@@ -877,26 +876,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/t-magazine/tom-of-finland.html)
+    [](/2020/08/10/arts/design/aids-quilts-david-wojnarowicz-.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-tomoffinland-slide-Q1LS/13tmag-tomoffinland-slide-Q1LS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09aidsquilt1/merlin_175489713_5e69e0d5-37aa-4b88-b57c-334e618f9f38-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">True Believers</span>
+    ## AIDS Quilts for an Artist and His Partner, Sewn During a New Pandemic
     
-    ## Eight Artists on the Influence of Tom of Finland
-    
-    Touko Valio Laaksonen, who would have been 100 this
-    year, transformed depictions of queer eroticism in art through his
-    hyper-real, hypermasculine style.
+    Tom Rauffenbart had resolved to create a tribute to his partner, the
+    artist David Wojnarowicz. A sewing circle of women took up the cause
+    for both men, stitching through lockdown.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">John
-    Chiaverina</span>
+    By <span class="css-1n7hynb">Brian
+    Boucher</span>
     
     </div>
     
@@ -914,24 +911,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/t-magazine/jewish-museum-new-york.html)
+    [](/2020/08/10/t-magazine/aiko-hachisuka-art-sculpture.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/art/Jewish-museum-slide-EGXT/Jewish-museum-slide-EGXT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-HVS6/Tadobe-slide-HVS6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">True Believers</span>
+    ### <span class="css-m70j1g">T Presents</span>
     
-    ## How New York’s Jewish Museum Anticipated the Avant-Garde
+    ## The Artist Making Bulbous, Colorful Sculptures Out of Thrifted Clothes
     
-    A string of adventurous curators made a quasi-religious institution
-    a leading arbiter of mid-20th-century American art.
+    Each of Aiko Hachisuka’s intricate, hand-stitched pieces is a
+    meditation on memory, materiality and domestic labor.
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Arthur Lubow</span>
+    By <span class="css-1n7hynb">Merrell Hambleton</span>
     
     </div>
     

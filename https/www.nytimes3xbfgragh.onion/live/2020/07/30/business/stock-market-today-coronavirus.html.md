@@ -68,49 +68,23 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div id="site-content" data-role="main">
 
-<div class="css-15bl40j">
+<div class="css-1ffjgkm">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1ufzkuw" data-id="100000007203936">
+<div class="css-l9svim">
 
-<div class="css-17ih8de interactive-body" data-sourceid="100000007203936">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=8893dde0-e38c-11ea-8116-4d918b8da330)
 
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus)
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=8893dde1-e38c-11ea-8116-4d918b8da330)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=8893dde2-e38c-11ea-8116-4d918b8da330)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=889404f0-e38c-11ea-8116-4d918b8da330)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=889404f1-e38c-11ea-8116-4d918b8da330)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=LegacyCollection&impression_id=889404f2-e38c-11ea-8116-4d918b8da330)</span>
 
 </div>
-
-</div>
-
-</div>
-
-</div>
-
-<div class="css-mj09ha">
-
-<span>Last Updated <span class="css-vxcmzt"></span></span>
-
-<div class="css-ki347z">
-
-<span class="css-1656jku">July 31, 2020, 7:05 a.m.
-ET</span><span class="css-xwx5dt"></span>
-
-</div>
-
-<span class="css-1dv1kvn" data-aria-live="polite">July 31, 2020, 7:05
-a.m. ET</span>
 
 </div>
 
@@ -664,6 +638,22 @@ Source: Bureau of Economic Analysis
 By Karl Russell
 
 </div>
+
+</div>
+
+<div class="css-1eylumt">
+
+<span>Last Updated <span class="css-1xu7vd"></span></span>
+
+<div class="css-ki347z">
+
+<span class="css-1656jku">July 31, 2020, 7:05 a.m.
+ET</span><span class="css-xwx5dt"></span>
+
+</div>
+
+<span class="css-1dv1kvn" data-aria-live="polite">July 31, 2020, 7:05
+a.m. ET</span>
 
 </div>
 

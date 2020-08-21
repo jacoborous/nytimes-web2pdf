@@ -69,6 +69,10 @@ Cosmos](https://www.nytimes3xbfgragh.onion/section/science/space)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -157,17 +161,55 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA,
-    via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>European
+    Southern
+    Observatory</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/science/14SCI-BETELGEUSE1/14SCI-BETELGEUSE1-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home](/2020/08/01/science/nasa-spacex-astronauts.html)
+    ### Out There
     
-    Bob Behnken and Doug Hurley are getting ready to splash down after
-    two months in
-    orbit.
+    ## [This Star Looked Like It Would Explode. Maybe It Just Sneezed](/2020/08/14/science/betelgeuse-star-supernova.html)
+    
+    The mysterious dimming of the red supergiant Betelgeuse is the
+    result of a stellar exhalation, astronomers
+    say.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dennis
+    Overbye</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Peter
+    Komka/MTI, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/09SCI-KUIPER1/09SCI-KUIPER1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Amazon Satellites Add to Astronomers’ Worries About the Night Sky](/2020/08/10/science/amazon-project-kuiper.html)
+    
+    The F.C.C. approved the company’s 3,236-satellite constellation,
+    which aims to provide high-speed internet service around the
+    world.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Becky
+    Ferreira</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bill
+    Ingalls/NASA, via Agence France-Presse \&mdash; Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit](/2020/08/02/science/spacex-astronauts-splashdown.html)
+    
+    Bob Behnken and Doug Hurley returned to Earth in the first water
+    landing by an American space crew since
+    1975.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kenneth
@@ -175,7 +217,32 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>L.
+    Cal\&ccedil;ada/ESO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/science/00SCI-OUTTHERE-promo/00SCI-OUTTHERE-promo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### Out There
+    
+    ## [A Star Went Supernova in 1987. Where Is It Now?](/2020/08/07/science/supernova-neutron-star-sn1987a.html)
+    
+    Astronomers might have found the ultradense remnant of an explosion
+    that wracked a nearby
+    galaxy.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dennis
+    Overbye</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30hpmars/30hpmars-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
     
@@ -191,7 +258,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/University
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL-Caltech/University
     of
     Arizona</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARS-JEZERO1/merlin_175006794_4356ac65-099d-47d0-aa04-33516549667b-videoLarge.jpg)
     
@@ -209,7 +276,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
     Porlan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28MARSCHAT2/28MARSCHAT2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -227,13 +294,7 @@ story](#after-sponsor)
     
     </div>
 
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRGINGALACTIC2/28VIRGINGALACTIC2-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28VIRGINGALACTIC2/28VIRGINGALACTIC2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -249,7 +310,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
     Porlan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28MARSSAMPLE/28MARSSAMPLE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -266,7 +327,15 @@ story](#after-sponsor)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/exploring-the-solar-system-promo-1595620746754/exploring-the-solar-system-promo-1595620746754-videoLarge.png)
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/us/exploring-the-solar-system-promo-1595620746754/exploring-the-solar-system-promo-1595620746754-videoLarge.png)
     
     <div class="css-10wtrbd">
     
@@ -281,7 +350,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/science/space/mars-spacecraft-overview-1595636280246/mars-spacecraft-overview-1595636280246-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/science/space/mars-spacecraft-overview-1595636280246/mars-spacecraft-overview-1595636280246-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -297,35 +366,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  ### Out There
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Morgan
-    Hornsby for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/27SCI-OUTTHERE-MARS-promo/27SC-OUTTHERE-MARS-promo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Coming of Age on Mars](/2020/07/27/science/mars-sarah-stewart-johnson.html)
-    
-    In a new book, planetary scientist Sarah Stewart Johnson recalls how
-    the Red Planet drew her to become a
-    scientist.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dennis
-    Overbye</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Solar
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Solar
     Orbiter/EUI Team (ESA &
     NASA)</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/science/16SOLARORBITER-loop-cover/16SOLARORBITER-loop-cover-videoLarge.jpg)
     
@@ -340,42 +381,6 @@ story](#after-sponsor)
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Kenneth
     Chang</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chris
-    Pietsch/The Register-Guard, via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/science/15SCI-COMET1/15SCI-COMET1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Comet NEOWISE: How to See It in Night Skies](/article/neowise-comet.html)
-    
-    Enjoy it while you can. The frozen ball of ice won’t return to the
-    inner solar system for 6,800
-    years.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Adam
-    Mann</span></span>
-    
-    </div>
-
-3.  ### Out There
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/10cosmicwall-mw/10cosmicwall-mw-videoLarge-v3.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Beyond the Milky Way, a Galactic Wall](/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
-    
-    Astronomers have discovered a vast assemblage of galaxies hidden
-    behind our own, in the “zone of
-    avoidance.”
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dennis
-    Overbye</span></span>
     
     </div>
 
@@ -465,7 +470,25 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL/University
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Morgan
+    Hornsby for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/science/27SCI-OUTTHERE-MARS-promo/27SC-OUTTHERE-MARS-promo-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Coming of Age on Mars](/2020/07/27/science/mars-sarah-stewart-johnson.html)
+    
+    In a new book, planetary scientist Sarah Stewart Johnson recalls how
+    the Red Planet drew her to become a
+    scientist.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dennis
+    Overbye</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA/JPL/University
     of
     Arizona</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARSMOONS/merlin_174901806_c697045b-15f4-489c-8196-173bf399e4d2-videoLarge.jpg)
     
@@ -482,7 +505,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andrew
     Schuerger, University of
     Florida</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/science/24SCI-MARSJARS1/24SCI-MARSJARS1-videoLarge.jpg)
     
@@ -500,7 +523,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Miguel
     Porlan</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/science/28SCI-MARSLIFE1-03/28SCI-MARSLIFE1-03-videoLarge-v3.jpg)
     
     <div class="css-10wtrbd">
@@ -517,25 +540,6 @@ story](#after-mid1)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Carlos
-    Garcia
-    Rawlins/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/22/world/22marslaunch-sub/22marslaunch-sub-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [China’s Mars Mission, Tianwen-1, Begins Its Monthslong Journey](/2020/07/22/science/mars-china-launch.html)
-    
-    The combined orbiter, lander and rover will reach the red planet in
-    February, if all goes well. NASA plans a Mars launch of its own next
-    week.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Michael Roston</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Steven Lee
-    Myers</span></span>
-    
-    </div>
-
 </div>
 
 <div class="section 5-band css-jhqenn ep7jkp60">
@@ -545,7 +549,23 @@ story](#after-mid1)
 [More in Out There
     »](/column/out-there)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>R.
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>NASA</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/science/10cosmicwall-mw/10cosmicwall-mw-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Beyond the Milky Way, a Galactic Wall](/2020/07/10/science/astronomy-galaxies-attractor-universe.html)
+    
+    Astronomers have discovered a vast assemblage of galaxies hidden
+    behind our own, in the “zone of
+    avoidance.”
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Dennis
+    Overbye</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>R.
     Hurt/IPAC/Caltech</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/science/25SCI-BLACKHOLE/25SCI-BLACKHOLE-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -562,7 +582,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
     Andrix/Virgo/EGO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/07/science/23SCI-OUTTHERE-LIGO/23SCI-OUTTHERE-LIGO-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -579,7 +599,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Enrico
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Enrico
     Sacchetti/Science
     Source</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/science/17SCI-OUTTHERE-XENON1/17SCI-OUTTHERE-XENON1-videoLarge.jpg)
     
@@ -596,7 +616,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>JPL/NASA</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/16/science/16SCI-OUTTHERE-ICEBERG/16SCI-OUTTHERE-ICEBERG-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>JPL/NASA</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/16/science/16SCI-OUTTHERE-ICEBERG/16SCI-OUTTHERE-ICEBERG-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -605,22 +625,6 @@ story](#after-mid1)
     A new study suggests the interloper may have arisen in an
     interstellar cloud, where stars are sometimes
     born.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Dennis
-    Overbye</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/09/science/05SCI-OUTTHERE-BLACKHOLE1/05SCI-OUTTHERE-BLACKHOLE1-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Watch This Black Hole Blow Bubbles](/2020/06/05/science/black-hole-astronomy.html)
-    
-    A black hole was seen shooting electrified gas and energy into
-    space. Each blob contained about 400 million billion pounds of
-    matter.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Dennis
@@ -680,6 +684,77 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/15/science/moon-lasers-dust.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/15/science/15SCI-MOONDUST1/15SCI-MOONDUST1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Trilobites</span>
+    
+    ## How Do You Solve a Moon Mystery? Fire a Laser at It
+    
+    Researchers have used reflective prisms left on the moon’s surface
+    for decades, but had increasingly seen problems with their
+    effectiveness.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Katherine
+    Kornei</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/11/science/perseid-meteor-shower.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2017/07/18/science/space-calendar-perseids/space-calendar-perseids-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Perseid Meteor Shower: Watch It Peak in Night Skies
+    
+    Meteor showers can light up night skies from dusk to dawn, and if
+    you’re lucky you might be able to catch a glimpse.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas St.
+    Fleur</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/02/us/flag-boat-SpaceX.html)
     
     <div class="css-79elbk">
@@ -708,41 +783,7 @@ story](#after-mid2)
     
     </div>
 
-2.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/08/02/science/spacex-astronauts-splashdown.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/reader-center/03sci-splashdown-floater-A1/03sci-splashdown-floater-A1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Thanks for Flying SpaceX’: NASA Astronauts Safely Splash Down After Journey From Orbit
-    
-    Bob Behnken and Doug Hurley returned to Earth in the first water
-    landing by an American space crew since 1975.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -776,7 +817,41 @@ story](#after-mid2)
     
     </div>
 
-4.  
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/01/science/nasa-spacex-astronauts.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/science/01sci-astronauts-capsule/merlin_175216434_9d678aba-9c92-426a-bf3f-45b5f10187b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## SpaceX Crew Dragon Departs, Carrying NASA Astronauts Toward Home
+    
+    Bob Behnken and Doug Hurley are getting ready to splash down after
+    two months in orbit.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Kenneth
+    Chang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
     
     <div class="css-1cp3ece">
     
@@ -811,7 +886,7 @@ story](#after-mid2)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -853,7 +928,7 @@ story](#after-mid2)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -893,7 +968,7 @@ story](#after-mid2)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -927,7 +1002,7 @@ story](#after-mid2)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -947,77 +1022,7 @@ story](#after-mid2)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Dennis
-    Overbye</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/14/science/mars-united-arab-emirates.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/science/14SCI-MARSUAE2/merlin_174530790_2e8becee-83b9-47ac-8443-a40d71b5e759-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## How the United Arab Emirates Set Its Sights on Mars
-    
-    The launch of the Hope orbiter was delayed because of weather. The
-    mission’s goal is to make contributions to research on the red
-    planet. But the Emirati government really hopes it will inspire
-    future scientists.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Kenneth
-    Chang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/10/business/britain-oneweb.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/business/10oneweb-1/10oneweb-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Britain Gambles on a Bankrupt Satellite Operator, OneWeb
-    
-    Pushed by Brexit, the U.K. government will have a platform to expand
-    into the space business.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Stanley Reed</span>
+    By <span class="css-1n7hynb">Dennis Overbye</span>
     
     </div>
     

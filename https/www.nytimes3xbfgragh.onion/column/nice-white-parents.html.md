@@ -69,6 +69,10 @@ Parents](https://www.nytimes3xbfgragh.onion/column/nice-white-parents)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -186,7 +190,7 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
+    [](/2020/08/20/podcasts/nice-white-parents-school.html)
     
     <div class="css-79elbk">
     
@@ -194,11 +198,10 @@ story](#after-sponsor)
     
     </div>
     
-    ## ‘I Still Believe in It’
+    ## Episode Five: ‘We Know It When We See It’
     
-    White parents in the 1960s fought to be part of a new, racially
-    integrated school in Brooklyn. So why did their children never
-    attend?
+    An unexpected last chapter. Some white parents start behaving
+    differently.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -218,7 +221,7 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    [](/2020/08/13/podcasts/nice-white-parents-school.html)
     
     <div class="css-79elbk">
     
@@ -226,10 +229,10 @@ story](#after-sponsor)
     
     </div>
     
-    ## The Book of Statuses
+    ## Episode Four: ‘Here’s Another Fun Thing You Can Do’
     
-    A group of parents takes one big step
-    together.
+    Is it possible to limit the power of white
+    parents?
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -249,6 +252,102 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/06/podcasts/episode-three-this-is-our-school-how-dare-you.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Episode Three: ‘This Is Our School, How Dare You?’
+    
+    How white parents can shape a school, even when they aren’t
+    there.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/podcasts/nice-white-parents-serial-2.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Episode Two: ‘I Still Believe in It’
+    
+    White parents in the 1960s fought to be part of a new, racially
+    integrated school in Brooklyn. So why did their children never
+    attend?
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/30/podcasts/nice-white-parents-serial.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/podcasts/30nwp-art/nice-white-parents-album-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Episode One: The Book of Statuses
+    
+    From Serial and The New York Times: “Nice White Parents” looks at
+    the 60-year relationship between white parents and the public school
+    down the
+    block.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/23/podcasts/nice-white-parents-serial.html)
     
     <div class="css-79elbk">
@@ -259,9 +358,9 @@ story](#after-sponsor)
     
     ## Introducing: Nice White Parents
     
-    A new limited series about building a better school system, and what
-    gets in the way. “Nice White Parents” — coming July 30 from Serial
-    Productions, brought to you by The New York Times.
+    A new five-part series about building a better school system, and
+    what gets in the way. New episodes of “Nice White Parents” are
+    available here, brought to you by Serial, a New York Times Company.
     
     <div class="css-1nqbnmb ea5icrr0">
     

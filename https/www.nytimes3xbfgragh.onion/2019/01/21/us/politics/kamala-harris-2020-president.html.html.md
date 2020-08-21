@@ -1,0 +1,859 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes3xbfgragh.onion/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">Kamala
+Harris Declares Candidacy, Evoking King and Joining Diverse
+Field</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2HlwRyc</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+<div id="NYT_TOP_BANNER_REGION">
+
+<div>
+
+<div id="styln-elections-notifications-menu" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="nytslm_innerContainer" data-aria-live="polite">
+
+<div class="nytslm_title">
+
+</div>
+
+  - 
+    
+    <div id="live_container" class="nytslm_li_loud">
+    
+    <div id="live" class="nytslm_li_live_loud">
+    
+    </div>
+    
+    [D.N.C.
+    Updates](https://www.nytimes3xbfgragh.onion/live/2020/08/20/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Biden’s
+    Speech](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-presidential-nomination-dnc.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Election
+    Calendar](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Voting by
+    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/11/us/politics/vote-by-mail-us-states.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+  - 
+    
+    <div id="default_container" class="nytslm_li_loud">
+    
+    <div id="default" class="nytslm_li_default_loud">
+    
+    </div>
+    
+    [Politics
+    Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# Kamala Harris Declares Candidacy, Evoking King and Joining Diverse Field
+
+</div>
+
+![<span class="css-16f3y1r e13ogyst0">Senator Kamala Harris, Democrat of
+California, is a former prosecutor and was elected to the Senate in
+2016. Ms. Harris has struck a balance between campaigning as a
+progressive fighter and defending moderate aspects of her
+record.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Sarah
+Silbiger/The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2019/01/22/us/politics/00harris-hfo/00harris-hfo-videoSixteenByNine3000.jpg)
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">Astead W.
+Herndon</span>](https://www.nytimes3xbfgragh.onion/by/astead-w-herndon)
+
+</div>
+
+</div>
+
+  - Jan. 21,
+    2019
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+WASHINGTON — Senator Kamala Harris, the California Democrat and
+barrier-breaking prosecutor who became the second black woman to serve
+in the United States Senate, declared her candidacy for president on
+Monday, joining an increasingly crowded and diverse field in what
+promises to be [a wide-open nomination
+process](https://www.nytimes3xbfgragh.onion/2018/12/31/us/politics/2020-democratic-candidates.html).
+
+The choreography of the announcement carried abundant symbolism: Ms.
+Harris entered the race on the holiday of Martin Luther King’s Birthday,
+an overt nod to the historic nature of her candidacy. Her timing was
+also meant to evoke Shirley Chisholm, the New York congresswoman who
+[became the first woman to seek the Democratic Party’s nomination for
+president](https://www.nytimes3xbfgragh.onion/2005/01/03/obituaries/shirley-chisholm-unbossedpioneer-in-congress-is-dead-at-80.html)
+47 years ago this week.
+
+In addition, Ms. Harris will hold her first campaign event on Friday in
+South Carolina, where black voters are the dominant force in the
+Democratic primary, rather than start off by visiting Iowa and New
+Hampshire, the two predominantly white states that hold their nomination
+contests first. She will hold a kickoff rally Sunday in Oakland, Calif.,
+her hometown, and a town hall in Iowa later next week.
+
+“The core of my campaign is the people,” Ms. Harris said at an afternoon
+news conference at Howard University, the historically black college she
+attended in the 1980s. “Nobody is living their life through the lens of
+one issue. And I think what people want is leadership that sees them
+through the complexity of their lives and pays equal attention to their
+needs. Let’s not put people in a box.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Ms. Harris’s campaign is already facing skepticism from some in the
+party’s liberal wing, who believe she has lurched to the left only in
+recent years as preparation for a presidential campaign. She has
+repeatedly come under scrutiny from liberals for several
+“tough-on-crime” positions she took as a prosecutor in California,
+including defending the use of the death penalty as recently as 2015 and
+establishing a measure that sought to punish parents for chronically
+truant children.
+
+For the first time, the Democratic presidential race now includes
+several high-profile women, with Ms. Harris joining two other prominent
+senators, [Elizabeth Warren of
+Massachusetts](https://www.nytimes3xbfgragh.onion/2018/12/31/us/politics/elizabeth-warren-2020-president-announcement.html)
+and [Kirsten Gillibrand of New
+York](https://www.nytimes3xbfgragh.onion/2019/01/15/us/politics/gillibrand-president-election.html).
+[Representative Tulsi
+Gabbard](https://www.nytimes3xbfgragh.onion/2019/01/11/us/politics/tulsi-gabbard-2020-president-announcement.html),
+a Hawaii Democrat, has also said she is running, and more women could
+enter the race in the coming weeks.
+
+Ms. Harris made her announcement during a morning interview on “Good
+Morning America.” She also released a video aimed at supporters and
+other Democrats, debuting a campaign slogan that played off her
+background as a prosecutor: “Kamala Harris For the People.”
+
+</div>
+
+</div>
+
+<div class="css-cfo9c3">
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“The future of our country depends on you, and millions of others,
+lifting our voices to fight for our American values,” Ms. Harris said in
+the video. “Let’s do this together: For ourselves, for our children, for
+our country,” she said.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Her announcement [kicked off a day of tribute and
+outreach](https://www.nytimes3xbfgragh.onion/2019/01/21/us/politics/biden-crime-bill-regrets.html?action=click&module=Top%20Stories&pgtype=Homepage)
+to black voters by Democratic presidential candidates and potential
+candidates. Senators Cory Booker of New Jersey and Bernie Sanders of
+Vermont made appearances, as did Ms. Gillibrand, Ms. Warren and former
+Vice President Joseph R. Biden Jr., [who expressed
+regret](https://www.nytimes3xbfgragh.onion/2019/01/21/us/politics/biden-crime-bill-regrets.html)
+for supporting crime bills earlier in his career that have been
+criticized for disproportionately impacting black
+Americans.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-nfldraft-updates-block" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-lb-items">
+
+<div class="briefing-block-update-time">
+
+[7h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div>
+
+[Night 3 featured more policy, a focus on women and a full-throated
+rejection of Trump by his
+predecessor.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div>
+
+[Trump live-tweeted Obama’s speech tonight. He’ll appear on Fox News
+right before Biden’s
+tomorrow.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
+
+</div>
+
+<div>
+
+[Advocates for domestic violence survivors praised Biden in a
+video.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
+
+</div>
+
+</div>
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Ms. Harris’s long-expected entry comes as many Democrats are eager to
+find new leaders and as the party grasps for a unifying message [that
+can appeal to its increasingly progressive base and more moderate voters
+who have recoiled from President
+Trump](https://www.nytimes3xbfgragh.onion/2019/01/14/us/politics/democratic-candidates-issues-2020.html).
+
+A 54-year-old former California attorney general and San Francisco
+district attorney, Ms. Harris is something of a bridge between the
+Democrats eyeing the race who are in their 70s, like Mr. Biden and Mr.
+Sanders, and those in their 40s, like Mr. Booker and former
+Representative Beto O’Rourke. Further, while she hails from one of the
+country’s most famously liberal cities, she has ties to both the
+pragmatic and leftist wings of the party: She is rooted in the Bay
+Area’s Democratic establishment but has embraced a more progressive
+agenda since being elected to the Senate in 2016.
+
+While other Democrats have focused their economic policy on regulating
+corporations or limiting the influence of Wall Street, Ms. Harris’s
+signature proposal is more focused on individuals and would provide
+lower-income families with monthly cash payments of up to $500. She has
+also proposed a bail reform bill that’s backed by several civil rights
+groups, and she focused her initial Senate work on curbing maternal
+death rates, particularly among black women.
+
+Like many Democrats, Ms. Harris has sought to align herself with the
+party’s leftward drift in recent years, proclaiming her support for
+“Medicare for All” and, after an initial hesitation, disavowing most
+corporate donations. She has also embraced the legalization of
+recreational marijuana, a position she once rebuffed.
+
+\[*Who’s in, who’s ready to join? Follow the Democratic field with*
+[*The Times’s candidate
+tracker*](https://www.nytimes3xbfgragh.onion/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&module=Top%20Stories&pgtype=Homepage).\]
+
+“She has long been a reform-minded prosecutor who struck a balance
+between the need for public safety and reckoning with civil rights
+ideals,” said Kristen Clarke, president and executive director of the
+Lawyers’ Committee for Civil Rights Under Law.
+
+But not everyone agrees that Ms. Harris can easily assuage Democrats
+worried about her record as a prosecutor and district attorney.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“If Kamala Harris wants people who care about dismantling mass
+incarceration and correcting miscarriages of justice to vote for her,
+she needs to radically break with her past,” wrote Lara Bazelon, a law
+professor, [in an opinion piece for The Times last
+week](https://www.nytimes3xbfgragh.onion/2019/01/17/opinion/kamala-harris-criminal-justice.html).
+
+Ms. Harris is still not yet well known to voters, but [there is
+curiosity about her among the party
+rank-and-file](https://www.nytimes3xbfgragh.onion/2019/01/12/us/politics/kamala-harris-democrats.html)
+as they face a Democratic nomination contest that is defined primarily
+by its uncertainty.
+
+Mr. Trump has thrust issues of race and identity to the forefront of the
+national debate, and with the Democratic coalition growing even more
+dependent on racial minorities, Ms. Harris — the daughter of a Jamaican
+father and Indian mother — would represent a history-making contrast in
+a general election against the president.
+
+As the first black woman in the Senate in over a decade, she garnered
+attention from her perch on key committees for her intensive
+interrogations of Trump administration officials and nominees, most
+famously during [a Senate Intelligence Committee
+hearing](https://www.nytimes3xbfgragh.onion/2017/06/13/us/politics/kamala-harris-interrupted-jeff-sessions.html)
+with former Attorney General Jeff Sessions.
+
+“Did you have communication with Russian businessmen or any Russian
+national? Are you aware of any communications?” Ms. Harris asked Mr.
+Sessions during the tense exchange.
+
+“You let me qualify,’’ Mr. Sessions responded. “If I don’t qualify, you
+accuse me of lying, so I need to be correct as best as I can. I’m not
+able to be rushed this fast. It makes me nervous.”
+
+Ms. Harris focused her initial campaign message on broad themes of unity
+and revitalization, which emphasize her unique status as one of — if not
+the — most viable black women to ever run for president. Her
+announcement video borrows language from “Lift Every Voice and Sing,”
+the song and poem written in 1900 and long referred to as America’s
+“black national anthem.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+She has been compared to former President Barack Obama, who also ran for
+president just two years after coming to the Senate. But unlike Mr.
+Obama, who became a political celebrity even before he arrived in
+Washington, Ms. Harris has made her name since being elected to
+Congress.
+
+“We can’t have business as usual, and I like that she’s not waiting her
+time — but she wants to make this time her own,” said Aaron Jenkins, a
+37-year-old who works in education policy and attended the National
+Action Network’s breakfast honoring the King holiday on Monday.
+
+Her centrist standing in the party could also turn out to be an asset.
+Her campaign advisers, which include several people who helped shepherd
+her from San Francisco to Capitol Hill, believe she is well-suited to
+build coalitions within the Democratic electorate, because she is not
+tethered to a single faction.
+
+However, even before she formally entered the race, Ms. Harris was
+criticized by some in her own party.
+
+One of her top aides, Larry Wallace, resigned in December after
+revelations that he was involved in a harassment lawsuit and a $400,000
+settlement while working for the California Department of Justice. Ms.
+Harris has said she did not know about the settlement, but she
+apologized and took “full responsibility” for hiring Mr. Wallace.
+
+Critics on Ms. Harris’s left have also called her record into question,
+pointing to a dramatic increase in the state’s prison population during
+her years in public office.
+
+“Kamala Harris is a cop” goes one often-repeated criticism that floods
+the senator’s social media accounts.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+“There were cases where folks who made a decision in my office and
+didn’t consult me and I regret that,” Ms. Harris said Monday when
+asked about some of her more controversial cases. “But there’s a lot of
+what I did as a prosecutor that I’m proud of.”
+
+A Quinnipiac University poll in mid-December illustrated Ms. Harris’s
+potential, finding her with a favorable rating among Democrats but with
+the majority of respondents still wanting “to hear more.” About 40
+percent of Democrats had a favorable opinion of her, compared with just
+4 percent who viewed her unfavorably.
+
+Ms. Harris, the first major candidate for president from California in
+over a quarter-century, could also benefit from changes to the 2020
+nominating calendar. Her native state has moved up its primary to early
+March, immediately after the first four early-nominating states,
+presenting the possibility that she could capture a large trove of
+delegates just as the contest gets underway.
+
+Republicans were quick to denigrate her candidacy on Monday.
+
+“Kamala Harris is arguably the least-vetted Democrat running for
+president, but it’s already clear how unqualified and out of touch she
+is,” the Republican National Committee said in a statement, adding, “All
+she has to show for her brief time in the Senate is a radically liberal
+voting record.”
+
+Ms. Harris’s campaign will be based in Baltimore with a second office in
+Oakland. Among the staff members she announced Monday was Maya Harris,
+her sister, who was a senior adviser to Hillary Clinton’s 2016 campaign
+and will serve as Ms. Harris’s campaign chair.
+
+The campaign also premiered a logo that reads “Kamala Harris For The
+People” in blue and red letters across a yellow background. It was
+intended as another nod to Ms. Chisholm, who used a similar color scheme
+for her presidential campaign in
+1972.
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div id="NYT_BELOW_MAIN_CONTENT_REGION">
+
+<div>
+
+<div id="STLYN_guide_v1_STYLN_guide_a" class="section css-l08pwh interactive-content interactive-size-medium">
+
+<div class="css-17ih8de interactive-body">
+
+<div class="g-story g-freebird g-max-limit" data-preview-slug="styln-scroll-guide">
+
+</div>
+
+<div id="g-electionguide-id" class="g-electionguide">
+
+<div class="g-electionguide-container">
+
+<div class="g-electionguide-wrapper">
+
+<div class="g-electionguide-logo">
+
+</div>
+
+# Our 2020 Election Guide
+
+Updated Aug. 20, 2020
+
+  - 
+    
+    -----
+    
+    ## Convention Recap
+    
+      - Joe Biden accepted the Democratic nomination, urging Americans
+        to have faith that they could [“overcome this season of
+        darkness.”](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/Joe-Biden-accepts-democratic-nomination.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+
+  - 
+    
+    -----
+    
+    ## News Analysis
+    
+      - Looming over Mr. Biden’s nomination was the ever-present shadow
+        of another man who’s poised to dominate the campaign: [Donald J.
+        Trump](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-dnc-speech-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
+
+  - 
+    
+    -----
+    
+    ## Keep Up With Our Coverage
+    
+      - Get an
+        [email](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
+        recapping the day’s news
+    
+    <!-- end list -->
+    
+      - Download our mobile app on
+        [iOS](https://apps.apple.com/us/app/nytimes/id284862083?ls=1&mat_click_id=5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948&referrer=mat_click_id%3D5c79ae7455014fd1bd66b5610c05b8f2-20191112-16948%26link_click_id%3D722930677036718082)
+        and
+        [Android](http://a.localytics.com/android?id=com.nytimes.android&referrer=utm_source%3Dother_nyt_mobile_web%26utm_medium%3DWeb%2520page%26utm_term%3DGeneral%2520Mobile%2520Page%26utm_campaign%3DNYT%2520Mobile%2520General%2520Page)
+        and turn on Breaking News and Politics alerts
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

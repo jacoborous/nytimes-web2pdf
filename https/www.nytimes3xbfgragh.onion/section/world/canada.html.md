@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -176,24 +180,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/sports/toronto-nhl-playoffs.html)
+    [](/2020/08/17/world/canada/finance-minister-resigns-trudeau.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/sports/04nhl-toronto-3/merlin_156430548_d842714e-5d34-4577-8a1d-1ef1a7a59a45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada-minister1/17canada-minister1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Toronto Tones Down Its Postseason Party
+    ## Canada Finance Minister Quits Post Amid Charity Scandal
     
-    The N.H.L. playoffs are proceeding without fans in and around
-    Scotiabank Arena, leaving hockey to compete with other leagues for
-    attention.
+    Bill Morneau insisted his stepping down was not related to a
+    conflict-of-interest controversy that has embroiled him and Prime
+    Minister Justin Trudeau of Canada.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Morgan
-    Campbell</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -211,20 +215,18 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/world/canada/leone-farrell-chemist.html)
+    [](/2020/08/17/world/canada/toronto-g20-settlement.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/world/31canadaletter/31canadaletter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada/17canada-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">CANADA LeTTER</span>
+    ## Toronto Police to Pay $12.5 Million to Protesters Arrested During 2010 G-20 Summit
     
-    ## Canada’s Key Role in Creating a Once Awaited Vaccine
-    
-    An American researcher created the polio vaccine, but a Toronto lab
-    and a pioneering female scientist made its mass production possible.
+    Brutal police tactics during the global meeting shocked many
+    Canadians, led to 1,100 arrests and were found unlawful.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -247,24 +249,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/world/canada/justin-trudeau-we-charity.html)
+    [](/2020/08/14/world/canada/trump-canada-aluminum-exports.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/world/30trudeau4/merlin_175124229_55283d52-744e-4720-8333-ab6448f70f57-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/24/world/24canadaletter-aluminium/24canadaletter-aluminium-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Cool Trudeau Rebuffs Conflict Charges. Will Canadians Buy His Story?
+    ### <span class="css-m70j1g">CANADA LETTER</span>
     
-    There was no corruption, just a government working to save lives
-    during a pandemic. That’s the message the prime minister delivered
-    to skeptical lawmakers, and to Canadians.
+    ## Looking Behind Trump’s Latest Attack on Canada’s Aluminum Exports
+    
+    We spoke with an economist in Washington about the U.S. president’s
+    latest trade salvo against his neighboring trade partner.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Catherine
-    Porter</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -282,25 +285,27 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/climate/skating-hockey-climate-change.html)
+    [](/2020/08/10/world/canada/oscar-peterson-montreal-little-burgundy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/climate/28cli-newsletter-hockey/merlin_134340137_ebca4404-4563-49ad-a299-2fea43001f6f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/00Montreal-Dispatch/00Montreal-Dispatch-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Climate Fwd:</span>
+    ### <span class="css-m70j1g">Montreal Dispatch</span>
     
-    ## It’s Summer. Let’s Talk About Hockey.
+    ## Should Montreal Subway Honor Polarizing Priest or Jazz Genius?
     
-    Also this week, health benefits from cutting emissions
+    A fight to rename a metro stop pits those who want to celebrate a
+    revered Black musician against those who want to retain the name of
+    a priest who espoused equal rights for Francophone Quebecers — and
+    also anti-Semitism.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">David Waldstein, Veronica Penney
-    <span>and</span> Lisa
-    Friedman</span>
+    By <span class="css-1n7hynb">Dan
+    Bilefsky</span>
     
     </div>
     
@@ -318,26 +323,26 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/realestate/house-hunting-in-nova-scotia-a-sprawling-seaside-villa-for-2-million.html)
+    [](/2020/08/07/world/canada/canada-letter-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/realestate/29IHH-NOVASCOTIA-slide-A0QU/29IHH-NOVASCOTIA-slide-A0QU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/us/07canadaletter-moderna/27virus-briefing-lede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">International real estate</span>
+    ### <span class="css-m70j1g">CANADA LeTTER</span>
     
-    ## House Hunting in Nova Scotia: A Sprawling Seaside Villa for $2 Million
+    ## Canada Has Placed Its First Vaccine Order, but Don’t Expect a ‘Silver Bullet’
     
-    The eastern Canadian province has managed to make up for the loss of
-    foreign buyers with more domestic transactions, staving off the
-    worst of the pandemic.
+    Before the federal government announced an order for millions of
+    doses of a still unproven vaccine, its top doctor sounded a note of
+    caution.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alison
-    Gregor</span>
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
     
     </div>
     
@@ -355,21 +360,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/slideshow/2020/07/29/realestate/cape-cod-style-on-the-shores-of-nova-scotia.html)
+    [](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/realestate/29IHH-NOVASCOTIA-slide-CTJD/29IHH-NOVASCOTIA-slide-CTJD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/07canada-virus/07canada-virus-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Cape Cod Style on the Shores of Nova Scotia
+    ## Canada to U.S. Visitors: Please Don’t Sneak Across the Border
     
-    This five-bedroom seaside mansion, perched on a headland jutting
-    into Mahone Bay in Nova Scotia, Canada, is on the market for $2
-    million.
+    Some Canadian citizens, concerned about the spread of the
+    coronavirus, are taking matters into their own hands and reporting
+    illegal American visitors.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Karen
+    Schwartz</span>
     
     </div>
     
@@ -387,24 +395,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/arts/design/hirshhorn-museum-jon-rafman.html)
+    [](/2020/08/06/world/canada/museum-of-human-rights-discrimination.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/28rafman-item/28rafman-item-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/00Canada-Museum/00Canada-Museum-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Hirshhorn Suspends Jon Rafman Show After Allegations of Sexual Misconduct
+    ## ‘Racism Is Pervasive and Systemic’ at Canada’s Museum of Human Rights, Report Says
     
-    The move follows the suspension of an exhibition of the artist’s
-    works at a Montreal museum earlier this month after several women
-    accused him of sexual misconduct on Instagram.
+    Even before it opened in 2014, the museum was dogged by controversy.
+    Now, after discrimination accusations, it has been rebuked.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Bahr</span>
+    By <span class="css-1n7hynb">Catherine Porter <span>and</span> Ian
+    Austen</span>
     
     </div>
     
@@ -422,24 +429,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/27/sports/hockey/eddie-shack-feisty-wing-for-powerful-maple-leafs-dies-at-83.html)
+    [](/2020/08/06/world/middleeast/saudi-prince-mohammed-lawsuit-aljabri.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/obituaries/27Shack-sub/27Shack-sub-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/21/world/06saudi-suit/21saudi-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Eddie Shack, Feisty Wing for Powerful Maple Leafs, Dies at 83
+    ## Former Saudi Official Accuses the Crown Prince of Trying to Kill Him
     
-    He helped Toronto win four Stanley Cups in the ’60s, his pugnacity
-    earning love in Toronto (and, no surprise, hatred in rival
-    Montreal).
+    Saad Aljabri, a former top intelligence official, filed suit in
+    Washington alleging that Crown Prince Mohammed bin Salman sent a
+    team of agents to Canada to kill him.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Richard
-    Goldstein</span>
+    By <span class="css-1n7hynb">Ben Hubbard <span>and</span> Mark
+    Mazzetti</span>
     
     </div>
     
@@ -457,23 +464,26 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/25/at-home/coronavirus-true-crime-podcasts-race.html)
+    [](/2020/08/06/world/asia/hiroshima-japan-setsuko-thurlow.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/podcasts/26ah-truecrime-podcast/26ah-truecrime-podcast-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/world/06hiroshima-profile/06hiroshima-profile-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## True Crime Podcasts at the Intersection of Race
+    ### <span class="css-m70j1g">The Saturday Profile</span>
     
-    True crime is the lifeblood of podcasting. Here’s a list of shows
-    that make racial justice their focus.
+    ## Witnessing Nuclear Carnage, Then Devoting Her Life to Peace
+    
+    Setsuko Thurlow, a survivor of the atomic bombing in Hiroshima 75
+    years ago, has used the power of her personal story to try to rid
+    the world of nuclear weapons.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Phoebe
-    Lett</span>
+    By <span class="css-1n7hynb">Motoko
+    Rich</span>
     
     </div>
     
@@ -491,24 +501,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/world/canada/cronk.html)
+    [](/2020/08/04/sports/toronto-nhl-playoffs.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/world/24canadaletter/24canadaletter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/sports/04nhl-toronto-3/merlin_156430548_d842714e-5d34-4577-8a1d-1ef1a7a59a45-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">CANADA LETTER</span>
+    ## Toronto Tones Down Its Postseason Party
     
-    ## Cracking Open a Bottle of Calgary’s Past
-    
-    One man’s social media post of archived 19th-century newspaper ads
-    has revived interest in a long forgotten drink.
+    The N.H.L. playoffs are proceeding without fans in and around
+    Scotiabank Arena, leaving hockey to compete with other leagues for
+    attention.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ian Austen</span>
+    By <span class="css-1n7hynb">Morgan Campbell</span>
     
     </div>
     
