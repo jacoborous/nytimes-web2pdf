@@ -63,6 +63,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -588,6 +592,282 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/20/t-magazine/monte-uzulu-vivanterre-emme-parsons.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/t-magazine/19tmag-newsletter-slide-OHNJ/19tmag-newsletter-slide-OHNJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    A Oaxacan resort, fine jewelry inspired by crudités — and
+    more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/19/t-magazine/berlin-infamous-skating-couple-design.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/t-magazine/07tmag-berlin-slide-0TTL/07tmag-berlin-slide-0TTL-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## In Berlin, a Loft That Is Part Gallery and Part Roller Rink
+    
+    Sascha Dornhöfer and Alexandra Rothert live with and by their art.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Gisela
+    Williams</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/13/t-magazine/inque-postcards-rain-boots.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/t-magazine/12tmag-newsletter-slide-EVW7/12tmag-newsletter-slide-EVW7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    Fine-art postcards, Bottega Veneta rain boots — and
+    more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/t-magazine/sophia-moreno-bunge-floral-design.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-6JFF/Tadobe-slide-6JFF-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">T Presents</span>
+    
+    ## A Floral Designer Who Forages in the Hills of Malibu
+    
+    Using unexpected materials to create lush arrangements, Sophia
+    Moreno-Bunge brings the Californian wilderness indoors.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Molly
+    Creeden</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/t-magazine/elizabeth-garouste-interior-design.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-RAWG/Tadobe-slide-RAWG-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">T Presents</span>
+    
+    ## The Designer Who Gives Her Pieces Minds of Their Own
+    
+    Elizabeth Garouste’s richly layered interiors and fantastical
+    furniture are as appealing now as they were when she first caught
+    Paris’s attention in the ’80s.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Hilary
+    Moss</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/t-magazine/mariam-kamara-architect-design.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-GD81/Tadobe-slide-GD81-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">T Presents</span>
+    
+    ## In Niger, an Architect Looking to the Country’s Design Traditions
+    
+    Eschewing a Western definition of modernity, Mariam Kamara instead
+    conceives of buildings and spaces that account for how people really
+    live.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Michael
+    Snyder</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/video/t-magazine/design/100000007258999/t-process-sophia-moreno-bunge.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-F6M4/Tadobe-slide-F6M4-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-1j5banm ezz4tcd1">Times</span><span class="css-1a54gqt">Video</span>
+    
+    ## T Process | Sophia Moreno-Bunge
+    
+    The florist creates a wild, sculptural arrangement of plants
+    including golden rain tree, oats, artichoke flowers and green
+    persimmons.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Scott J.
+    Ross</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/t-magazine/loewe-home-scents-candles.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/t-magazine/-06tmag-loewe-slide-CKPS/-06tmag-loewe-slide-CKPS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Inspired by Memories and Remedies, Earthy Home Scents From Loewe
+    
+    An amateur plantsman, Jonathan Anderson shares his bounty with the
+    rest of us.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Alice
+    Cavanagh</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/03/t-magazine/david-de-rothschild-venice-home-design.html)
     
     <div class="css-79elbk">
@@ -617,7 +897,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -641,278 +921,7 @@ story](#after-mid1)
     
     <div class="css-15yh6bw ea5icrr0">
     
-    By <span class="css-1n7hynb">Jason
-    Farago</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-3.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
-    more.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/t-magazine/luis-barragan.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/t-magazine/13tmag-barragan-slide-8Z4F/13tmag-barragan-slide-8Z4F-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">True Believers</span>
-    
-    ## Luis Barragán’s Forgotten Works, Revisited
-    
-    After moving to Mexico City in 1935, the architect set about
-    designing a series of obscure functionalist residences that he would
-    later disown.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Suleman
-    Anaya</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/arts/disabilities-architecture-design.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/multimedia/24ADA-Design-02/24ADA-Design-02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">critic’s notebook</span>
-    
-    ## Building Accessibility Into America, Literally
-    
-    Thirty years on, the Americans With Disabilities Act has reshaped
-    the way designers and the public have come to think about equity,
-    civil rights and American architecture. But it’s only a start.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Michael
-    Kimmelman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/16/t-magazine/margo-price-album-tlist.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/t-magazine/15tmag-tlist-slide-TBXG/15tmag-tlist-slide-TBXG-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Unisex jerkins, raw vinegars, classic sportswear — and
-    more.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/13/t-magazine/brownstone-brooklyn-design.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/17/t-magazine/17tmag-chenbrownstone-slide-X4QD/17tmag-chenbrownstone-slide-X4QD-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Colorful Townhouse With Nods to James Turrell
-    
-    The architect Michael K. Chen brought a crumbling Brooklyn
-    brownstone back to life by reanimating its once vibrantly painted
-    walls.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Daniel
-    Cappello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/09/t-magazine/robert-longo-quarantine-films.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/08/t-magazine/08tmag-tlist-slide-HCSJ/08tmag-tlist-slide-HCSJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Handblown glass, sparkly shoes, Scottish jewelry — and
-    more.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/07/t-magazine/tom-atton-moore.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/07/t-magazine/tom-atton-moore-slide-U496/tom-atton-moore-slide-U496-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">On the Verge</span>
-    
-    ## A Designer Who Makes Rugs Based on Screenshots
-    
-    Tom Atton Moore’s vibrant floor coverings are indebted to
-    centuries-old craft techniques — and to the more contemporary art of
-    trawling through one’s phone.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Clem de
-    Pressigny</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/t-magazine/kenzo-vans-tlist.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/t-magazine/01tmag-newsletter-slide-LL2I/01tmag-newsletter-slide-LL2I-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The T List: Five Things We Recommend This Week
-    
-    Three-course French meals for the home, a new Greek hotel — and
-    more.
-    
-    <div class="css-15yh6bw ea5icrr0">
+    By <span class="css-1n7hynb">Jason Farago</span>
     
     </div>
     

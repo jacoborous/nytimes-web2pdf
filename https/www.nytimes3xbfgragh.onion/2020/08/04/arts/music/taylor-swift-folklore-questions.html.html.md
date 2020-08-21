@@ -131,7 +131,7 @@ Your Questions About Taylor Swift’s
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -292,6 +292,41 @@ bars
 
 <span class="css-nxkttv">More episodes
 of</span><span class="css-19zi9mh">Popcast</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/arts/18popcast/merlin_170913834_aaee4730-b16c-47b6-8d82-5159894fd311-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/18/arts/music/popcast-coronavirus-deaths.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 18, 2020<span>  <span class="css-orcm78">•</span> 
+58:27</span><span class="css-i5svdo">The Music Lost to Coronavirus, Part
+1</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/arts/10popcast/10popcast-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/10/arts/music/popcast-the-chicks-gaslighter.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 10, 2020<span class="css-i5svdo">The Welcome Return of the
+Chicks</span>
 
 </div>
 
@@ -474,45 +509,7 @@ Back</span>
 <div class="css-1qq8bvn">
 
 May 18, 2020<span>  <span class="css-orcm78">•</span> 
-46:45</span><span class="css-i5svdo">The Many Lives of Doja
-Cat</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/11/arts/11popcast1/11popcast1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/11/arts/music/popcast-tony-allen-florian-schneider.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-May 11, 2020<span>  <span class="css-orcm78">•</span> 
-1:01:04</span><span class="css-i5svdo">Remembering Tony Allen and
-Florian Schneider, Two Pillars of
-Rhythm</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/30/arts/music/30popcast/30popcast-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/04/30/arts/music/popcast-fiona-apple.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-April 30, 2020<span>  <span class="css-orcm78">•</span> 
-53:15</span><span class="css-i5svdo">The Triumphant Return of Fiona
-Apple, Pop Music Renegade</span>
+46:45</span><span class="css-i5svdo">The Many Lives of Doja Cat</span>
 
 </div>
 

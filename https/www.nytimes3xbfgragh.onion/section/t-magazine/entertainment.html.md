@@ -63,6 +63,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -495,6 +499,104 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/20/t-magazine/monte-uzulu-vivanterre-emme-parsons.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/t-magazine/19tmag-newsletter-slide-OHNJ/19tmag-newsletter-slide-OHNJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The T List: Five Things We Recommend This Week
+    
+    A Oaxacan resort, fine jewelry inspired by crudités — and
+    more.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/15/at-home/play-suffrage-game.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/multimedia/16AH-suffragegameUPDATE/16AH-suffragegameUPDATE-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Join the Final Drive To Suffrage
+    
+    Our game lets you follow the 19th Amendment’s journey from passage
+    in the Senate to ratification by 36 states.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jennifer
+    Harlan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/08/at-home/coronavirus-newspaper-basket.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/multimedia/09ah-basket-weaving17/09ah-basket-weaving17-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Turn Your Newspaper Into a Basket
+    
+    Behold all the news that’s fit to weave.
+    
+    <div class="css-15yh6bw ea5icrr0">
+    
+    By <span class="css-1n7hynb">Christy
+    Harmon</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-156habm e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
     
     <div class="css-79elbk">
@@ -520,7 +622,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -554,7 +656,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -585,7 +687,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -621,7 +723,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -656,7 +758,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -687,7 +789,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -712,107 +814,6 @@ story](#after-mid1)
     By <span class="css-1n7hynb">Wesley Morris, Maya Phillips, Mekado
     Murphy, Ben Kenigsberg, Monica Castillo <span>and</span> Natalia
     Winkelman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/09/arts/things-to-do-weekend-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/arts/09wkd-arts-roundup-kids/09wkd-arts-roundup-kids-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Weekend roundup</span>
-    
-    ## 7 Things to Do This Weekend
-    
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/02/arts/things-to-do-weekend-fourth-of-july-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/03/arts/02wkd-arts-roundup-tv/02wkd-arts-roundup-tv-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Weekend Arts Roundup</span>
-    
-    ## 8 Things to Do This Fourth of July Weekend
-    
-    Our culture writers offer suggestions for celebrating Independence
-    Day, and what to watch or listen to without leaving your
-    home.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-156habm e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/at-home/celebrate-fourth-of-july-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/28/multimedia/28ah-julyfourth02/28ah-julyfourth02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Honor America’s Birthday (Safely) in 2020
-    
-    You may not be able to congregate for parades or fireworks, but
-    there are other options when it comes to having a festive Fourth.
-    
-    <div class="css-15yh6bw ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sara Aridi</span>
     
     </div>
     

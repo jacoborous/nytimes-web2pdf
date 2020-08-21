@@ -173,6 +173,72 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/06/business/snap-will-make-a-major-effort-to-register-first-time-voters.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/03/business/03snaptrump/03snapchat-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Snap will make a major effort to register first-time voters.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Cecilia
+    Kang</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/technology/trump-facebook-coronavirus-video.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/business/05trumpfacebook/05trumpfacebook-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Facebook Removes Trump Campaign’s Misleading Coronavirus Video
+    
+    It was the first time Facebook took down a post by Mr. Trump’s
+    campaign for spreading virus misinformation, but it did not signal a
+    change to the company’s defense of free expression.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Cecilia Kang <span>and</span> Sheera
+    Frenkel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/29/technology/big-tech-hearing-apple-amazon-facebook-google.html)
     
     <div class="css-79elbk">
@@ -202,7 +268,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -211,6 +277,8 @@ story](#after-mid1)
     [](/live/2020/07/29/technology/tech-ceos-hearing-testimony/republicans-focused-on-bias-concerns-about-platforms)
     
     ## Republicans focused on bias concerns about platforms.
+    
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -227,7 +295,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -242,6 +310,8 @@ story](#after-mid1)
     </div>
     
     ## There are many investigations into the tech companies. Here’s where they all stand.
+    
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -258,7 +328,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -273,6 +343,8 @@ story](#after-mid1)
     </div>
     
     ## What to expect from the hearing.
+    
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -290,7 +362,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -325,7 +397,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -359,7 +431,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -401,7 +473,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -424,73 +496,6 @@ story](#after-mid1)
     
     By <span class="css-1n7hynb">Cecilia Kang <span>and</span> Sheera
     Frenkel</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/25/technology/barr-google-investigation.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/26/business/25JPantitrustdoj1-print/merlin_165432687_85138655-3d4a-4382-bb2b-db469cfba3df-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Barr’s Interest in Google Antitrust Case Keeps It Moving Swiftly
-    
-    Attorney General William Barr’s attention to the Justice Department
-    investigation shows the high stakes for the agency and for him.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">David McCabe <span>and</span> Cecilia
-    Kang</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/17/technology/justice-dept-urges-rolling-back-legal-shield-for-tech-companies.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2019/08/03/business/17DOJTECH/00techshield-tear-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Justice Dept. Urges Rolling Back Legal Shield for Tech Companies
-    
-    The agency said that Congress should repeal parts of a law that has
-    been crucial for the growth of companies like Facebook and Twitter.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Cecilia Kang</span>
     
     </div>
     

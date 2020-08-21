@@ -119,35 +119,21 @@ Tracker</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-mij9hh">
+<div class="css-mij9hh">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1xxkt5x">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f07e60-e39b-11ea-89f5-73e141fcc61b)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f07e61-e39b-11ea-89f5-73e141fcc61b)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f07e62-e39b-11ea-89f5-73e141fcc61b)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f07e63-e39b-11ea-89f5-73e141fcc61b)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f0a570-e39b-11ea-89f5-73e141fcc61b)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=15f0a571-e39b-11ea-89f5-73e141fcc61b)</span>
 
 </div>
 
@@ -167,7 +153,7 @@ Corum</span>](https://www.nytimes3xbfgragh.onion/by/jonathan-corum),
 Wu</span>](https://www.nytimes3xbfgragh.onion/by/katherine-j--wu) and
 [<span class="css-1baulvz last-byline" itemprop="name">Carl
 Zimmer</span>](https://www.nytimes3xbfgragh.onion/by/carl-zimmer)Updated
-July 22, 2020
+August 10, 2020
 
 </div>
 
@@ -217,35 +203,35 @@ español](https://www.nytimes3xbfgragh.onion/es/interactive/2020/science/coronav
 
 <div class="g-asset g-svelte breadcrumbs-wrap" style="max-width: 600px">
 
-<div class="g-svelte" data-component="1493">
+<div class="g-svelte" data-component="1">
 
-<div class="breadcrumbs false svelte-u8xm87" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
+<div class="breadcrumbs false svelte-1m5f6tq" style="--state-rows: 11;\n\t--country-rows: 2;\n\t--state-rows-medium: 18;\n\t--country-rows-medium: 3;\n\t--state-rows-small: 26;\n\t--country-rows-small: 5;">
 
 <div class="breadcrumbs__buttons--wrap">
 
-[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-u8xm87"> 
+[World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 COUNTRIES
 
-<span class="svelte-u8xm87">| </span>
-[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-u8xm87"> 
+<span class="svelte-1m5f6tq">| </span>
+[U.S.A.](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)<span class="svelte-1m5f6tq"> 
 </span>
 
 STATES
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
 
 </div>
 
-<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-u8xm87">
+<div id="amp-menu-countries" class="breadcrumbs__menu breadcrumbs__menu--countries false svelte-1m5f6tq">
 
 [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)[Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)[France](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/france-coronavirus-cases.html)[Germany](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/germany-coronavirus-cases.html)[India](https://www.nytimes3xbfgragh.onion/interactive/2020/world/asia/india-coronavirus-cases.html)[Italy](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/italy-coronavirus-cases.html)[Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/mexico-coronavirus-cases.html)[Spain](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/spain-coronavirus-cases.html)[U.K.](https://www.nytimes3xbfgragh.onion/interactive/2020/world/europe/united-kingdom-coronavirus-cases.html)
 
 </div>
 
-<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-u8xm87">
+<div id="amp-menu-states" class="breadcrumbs__menu breadcrumbs__menu--states false svelte-1m5f6tq">
 
 [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)[Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)[Arizona](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arizona-coronavirus-cases.html)[Arkansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/arkansas-coronavirus-cases.html)[California](https://www.nytimes3xbfgragh.onion/interactive/2020/us/california-coronavirus-cases.html)[Colorado](https://www.nytimes3xbfgragh.onion/interactive/2020/us/colorado-coronavirus-cases.html)[Connecticut](https://www.nytimes3xbfgragh.onion/interactive/2020/us/connecticut-coronavirus-cases.html)[Delaware](https://www.nytimes3xbfgragh.onion/interactive/2020/us/delaware-coronavirus-cases.html)[Florida](https://www.nytimes3xbfgragh.onion/interactive/2020/us/florida-coronavirus-cases.html)[Georgia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/georgia-coronavirus-cases.html)[Hawaii](https://www.nytimes3xbfgragh.onion/interactive/2020/us/hawaii-coronavirus-cases.html)[Idaho](https://www.nytimes3xbfgragh.onion/interactive/2020/us/idaho-coronavirus-cases.html)[Illinois](https://www.nytimes3xbfgragh.onion/interactive/2020/us/illinois-coronavirus-cases.html)[Indiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/indiana-coronavirus-cases.html)[Iowa](https://www.nytimes3xbfgragh.onion/interactive/2020/us/iowa-coronavirus-cases.html)[Kansas](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kansas-coronavirus-cases.html)[Kentucky](https://www.nytimes3xbfgragh.onion/interactive/2020/us/kentucky-coronavirus-cases.html)[Louisiana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/louisiana-coronavirus-cases.html)[Maine](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maine-coronavirus-cases.html)[Maryland](https://www.nytimes3xbfgragh.onion/interactive/2020/us/maryland-coronavirus-cases.html)[Massachusetts](https://www.nytimes3xbfgragh.onion/interactive/2020/us/massachusetts-coronavirus-cases.html)[Michigan](https://www.nytimes3xbfgragh.onion/interactive/2020/us/michigan-coronavirus-cases.html)[Minnesota](https://www.nytimes3xbfgragh.onion/interactive/2020/us/minnesota-coronavirus-cases.html)[Mississippi](https://www.nytimes3xbfgragh.onion/interactive/2020/us/mississippi-coronavirus-cases.html)[Missouri](https://www.nytimes3xbfgragh.onion/interactive/2020/us/missouri-coronavirus-cases.html)[Montana](https://www.nytimes3xbfgragh.onion/interactive/2020/us/montana-coronavirus-cases.html)[Nebraska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nebraska-coronavirus-cases.html)[Nevada](https://www.nytimes3xbfgragh.onion/interactive/2020/us/nevada-coronavirus-cases.html)[New
 Hampshire](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-hampshire-coronavirus-cases.html)[New
@@ -263,7 +249,7 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 
 </div>
 
-<span class="svelte-u8xm87">  </span>
+<span class="svelte-1m5f6tq">  </span>
 
 </div>
 
@@ -280,9 +266,9 @@ Virginia](https://www.nytimes3xbfgragh.onion/interactive/2020/us/west-virginia-c
 The Covid-19 pandemic is one of the greatest challenges modern medicine
 has ever faced. Doctors and scientists are scrambling to find treatments
 and drugs that can save the lives of infected people and perhaps even
-prevent infection.
+prevent them from getting sick in the first place.
 
-Below is an updated list of **19 of the most-talked-about treatments for
+Below is an updated list of **20 of the most-talked-about treatments for
 the coronavirus**. While some are accumulating evidence that they’re
 effective, most are still at early stages of research. We also included
 a warning about a few that are just
@@ -304,7 +290,7 @@ bunk.
 
 <div id="g-ai0-1" class="g-text g-aiAbs g-aiPointText" style="top:8.812%;margin-top:-9.8px;left:49.9969%;margin-left:-256px;width:512px;">
 
-We are following <span class="g-cstyle0">19 coronavirus
+We are following <span class="g-cstyle0">20 coronavirus
 treatments</span> for effectiveness and
 safety:
 
@@ -322,9 +308,9 @@ safety:
 
 </div>
 
-<div id="g-ai0-4" class="g-text g-aiAbs g-aiPointText" style="top:46.7797%;margin-top:-37.6px;left:51.8779%;margin-left:-39.5px;width:79px;">
+<div id="g-ai0-4" class="g-text g-aiAbs g-aiPointText" style="top:46.7797%;margin-top:-37.6px;left:51.8779%;margin-left:-33.5px;width:67px;">
 
-10
+11
 
 </div>
 
@@ -394,7 +380,7 @@ fraud
 
 <div id="g-ai1-1" class="g-335 g-aiAbs g-aiPointText" style="top:5.5313%;margin-top:-19.3px;left:49.9309%;margin-left:-159.5px;width:319px;">
 
-<span class="g-cstyle0">We are following </span>19 coronavirus
+<span class="g-cstyle0">We are following </span>20 coronavirus
 treatments
 
 for effectiveness and
@@ -408,9 +394,9 @@ safety:
 
 </div>
 
-<div id="g-ai1-3" class="g-335 g-aiAbs g-aiPointText" style="top:29.3878%;margin-top:-41.6px;left:84.2549%;margin-left:-42.5px;width:85px;">
+<div id="g-ai1-3" class="g-335 g-aiAbs g-aiPointText" style="top:29.3878%;margin-top:-41.6px;left:84.1535%;margin-left:-35.5px;width:71px;">
 
-10
+11
 
 </div>
 
@@ -486,7 +472,7 @@ fraud
 
 <div id="g-ai2-1" class="g-300 g-aiAbs g-aiPointText" style="top:5.738%;margin-top:-19.3px;left:49.9382%;margin-left:-159.5px;width:319px;">
 
-<span class="g-cstyle0">We are following </span>19 coronavirus
+<span class="g-cstyle0">We are following </span>20 coronavirus
 treatments
 
 for effectiveness and
@@ -500,9 +486,9 @@ safety:
 
 </div>
 
-<div id="g-ai2-3" class="g-300 g-aiAbs g-aiPointText" style="top:29.3385%;margin-top:-37.6px;left:84.2721%;margin-left:-39.5px;width:79px;">
+<div id="g-ai2-3" class="g-300 g-aiAbs g-aiPointText" style="top:29.3385%;margin-top:-37.6px;left:84.2721%;margin-left:-33.5px;width:67px;">
 
-10
+11
 
 </div>
 
@@ -573,12 +559,13 @@ or fraud
 </div>
 
 There is no cure yet for Covid-19. And even the most promising
-treatments to date only help certain groups of patients, and await
+treatments to date only help certain groups of patients and await
 validation from further trials. The F.D.A. has not fully licensed any
-treatment specifically for the coronavirus, but it has granted
+treatment specifically for the coronavirus. Although it has granted
 [emergency use
 authorization](https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization)
-to a few.
+to some treatments, their effectiveness against Covid-19 has yet to be
+demonstrated in large-scale, randomized clinical trials.
 
 <div class="g-container g-refer">
 
@@ -586,10 +573,14 @@ This list provides a snapshot of the latest research on the coronavirus,
 but does not constitute medical endorsements. Always consult your doctor
 about treatments for Covid-19.
 
-New additions and recent updates:
+**New additions and recent updates**:
 
-•  We [adjusted](#note) some labels used in the tracker after additional
-discussions with experts. <span class="g-updated">July 17</span>
+•  Added **[ivermectin](#ivermectin)**, a drug typically used against
+parasitic worms that is being increasingly prescribed in Latin America.
+<span class="g-updated">Aug. 10</span>
+
+•  Updated descriptions for several treatments.
+<span class="g-updated">Aug. 10</span>
 
 </div>
 
@@ -601,18 +592,17 @@ Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus
 
 ## <span class="xg-balancer" data-id="14">What the Labels Mean</span>
 
-<span class="g-wide">**WIDELY USED**</span>: These treatments have been
-used widely by doctors and nurses to treat patients hospitalized for
-diseases that affect the respiratory system, including Covid-19.
+<span class="g-wide">WIDELY USED</span>: These treatments have been used
+widely by doctors and nurses to treat patients hospitalized for diseases
+that affect the respiratory system, including Covid-19.
 
-<span class="g-promising">**PROMISING EVIDENCE**</span>: Early evidence
-from studies on patients suggests effectiveness, but more research is
-needed. This category includes treatments that have shown improvements
-in morbidity, mortality and recovery in at least one randomized
-controlled trial, in which some people get a treatment and others get a
-placebo.
+<span class="g-promising">PROMISING EVIDENCE</span>: Early evidence from
+studies on patients suggests effectiveness, but more research is needed.
+This category includes treatments that have shown improvements in
+morbidity, mortality and recovery in at least one randomized controlled
+trial, in which some people get a treatment and others get a placebo.
 
-<span class="g-mixed">**TENTATIVE OR MIXED EVIDENCE**</span>: Some
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>: Some
 treatments show promising results in cells or animals, which need to be
 confirmed in people. Others have yielded encouraging results in
 retrospective studies in humans, which look at existing datasets rather
@@ -620,14 +610,25 @@ than starting a new trial. Some treatments have produced different
 results in different experiments, raising the need for larger, more
 rigorously designed studies to clear up the confusion.
 
-<span class="g-not">**NOT PROMISING**</span>: **** Early evidence
-suggests that these treatments do not work.
+<span class="g-not">NOT PROMISING</span>: **** Early evidence suggests
+that these treatments do not work.
 
-<span class="g-fraud">**PSEUDOSCIENCE OR FRAUD**</span>: These are not
+<span class="g-fraud">PSEUDOSCIENCE OR FRAUD</span>: These are not
 treatments that researchers have ever considered using for Covid-19.
 Experts have warned against trying them, because they do not help
 against the disease and can instead be dangerous. Some people have even
 been arrested for their false promises of a Covid-19 cure.
+
+<span class="g-franklin"></span><span class="g-cells">EVIDENCE IN
+CELLS</span>, <span class="g-animals">ANIMALS</span> or
+<span class="g-humans">HUMANS</span>: These labels indicate where the
+evidence for a treatment comes from. Researchers often start out with
+experiments on cells and then move onto animals. Many of those animal
+experiments often fail; if they don’t, researchers may consider moving
+on to research on humans, such as retrospective studies or randomized
+clinical trials. In some cases, scientists are testing out treatments
+that were developed for other diseases, allowing them to move directly
+to human trials for Covid-19.
 
 <div class="g-asset g-svelte" style="max-width: 600px">
 
@@ -671,6 +672,7 @@ searching for antivirals that work against the new coronavirus.*</span>
 <span id="remdesivir"></span>
 
 <span class="g-promising">PROMISING EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS, ANIMALS AND HUMANS</span>
 <span class="g-emergency">EMERGENCY USE
 AUTHORIZATION</span>  
 <span class="g-tname">Remdesivir</span>  
@@ -692,7 +694,8 @@ among those who are very ill.
 
 <span id="favipiravir"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS, ANIMALS AND HUMANS</span>  
 <span class="g-tname">Favipiravir</span>  
 Originally designed to beat back influenza, favipiravir blocks a virus’s
 ability to copy its genetic material. A [small
@@ -701,19 +704,24 @@ in March indicated the drug might help purge the coronavirus from the
 airway, but results from larger, well-designed clinical trials are still
 pending.
 
-<span id="eidd"></span>
+<span id="mk4482"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
-<span class="g-tname">EIDD-2801</span>  
-Another antiviral originally designed to fight the flu, EIDD-2801 has
-had promising
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS, ANIMALS AND HUMANS</span>  
+<span class="g-tname">MK-4482</span>  
+Another antiviral originally designed to fight the flu, MK-4482
+(previously known as EIDD-2801) has had promising
 [results](https://stm.sciencemag.org/content/12/541/eabb5883) against
-the new coronavirus in studies in cells and on animals. It is still
-being tested in humans.
+the new coronavirus in studies in cells and on animals. Merck, which has
+been running clinical trials on the drug this summer, has
+[announced](https://www.cnbc.com/2020/07/31/merck-aims-to-start-large-pivotal-studies-on-coronavirus-treatment-in-september.html)
+it will launch a large Phase III trial in September.  
+<span class="g-updated">Updated Aug. 6</span>
 
 <span id="ace2"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-cells">EVIDENCE IN CELLS</span>  
 <span class="g-tname">Recombinant ACE-2</span>  
 To enter cells, the coronavirus must first [unlock
 them](https://www.nytimes3xbfgragh.onion/interactive/2020/03/11/science/how-coronavirus-hijacks-your-cells.html)
@@ -724,9 +732,45 @@ Recombinant ACE-2 proteins have shown promising
 [results](https://doi.org/10.1016/j.cell.2020.04.004) in experiments on
 cells, but not yet in animals or people.
 
+<span id="ivermectin"></span>
+
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS AND HUMANS</span>  
+<span class="g-tname">Ivermectin</span>  
+For decades, ivermectin has served as a potent drug to treat parasitic
+worms. Doctors use it against river blindness and other diseases, while
+veterinarians give dogs a different formulation to cure heartworm.
+Studies on cells have suggested ivermectin might also kill viruses. But
+scientists have yet to find evidence in animal studies or human trials
+that it can treat viral diseases. As a result, Ivermectin is not
+approved to use as an antiviral.  
+  
+In April, Australian researchers
+[reported](https://www.sciencedirect.com/science/article/pii/S0166354220302011)
+that the drug blocked coronaviruses in cell cultures, but they used a
+dosage that was so high it might have dangerous side effects in people.
+The FDA immediately issued a
+[warning](https://www.fda.gov/animal-veterinary/product-safety-information/fda-letter-stakeholders-do-not-use-ivermectin-intended-animals-treatment-covid-19-humans)
+against taking pet medications to treat or prevent Covid-19. “These
+animal drugs can cause serious harm in people,” the agency warned.  
+  
+Since then a number of clinical trials have been launched to see if a
+safe dose of ivermectin can fight Covid-19. In Singapore, for example,
+the National University Hospital is running a 5,000-person
+[trial](https://clinicaltrials.gov/ct2/show/NCT04446104) to see if it
+can prevent people from getting infected. As of now, there’s no firm
+evidence that it works. Nevertheless ivermectin is being prescribed
+[increasingly
+often](https://www.nytimes3xbfgragh.onion/2020/07/23/world/americas/chlorine-coronavirus-bolivia-latin-america.html?searchResultPosition=1)
+in Latin America, [much to the
+distress](http://www.ajtmh.org/content/journals/10.4269/ajtmh.20-0271)
+of disease experts.  
+<span class="g-updated">Updated Aug. 10</span>
+
 <span id="lopinavir"></span>
 
-<span class="g-not">NOT PROMISING</span>  
+<span class="g-not">NOT PROMISING</span> <span class="g-humans">EVIDENCE
+IN CELLS AND HUMANS</span>  
 <span class="g-tname">Lopinavir and ritonavir</span>  
 Twenty years ago, the F.D.A. approved this combination of drugs to treat
 H.I.V. Recently, researchers tried them out on the new coronavirus and
@@ -734,7 +778,7 @@ found that they stopped the virus from replicating. But clinical trials
 in patients proved disappointing. In early July, the World Health
 Organization
 [suspended](https://www.who.int/news-room/detail/04-07-2020-who-discontinues-hydroxychloroquine-and-lopinavir-ritonavir-treatment-arms-for-covid-19)
-trials on patients hospitalized for Covid-19. But they didn’t rule out
+trials on patients hospitalized for Covid-19. They didn’t rule out
 studies to see if the drugs could help patients not sick enough to be
 hospitalized, or to prevent people exposed to the new coronavirus from
 falling ill. The drug could also still have a role to play in certain
@@ -743,21 +787,22 @@ treatments](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736\(20\
 
 <span id="hydroxychloroquine"></span>
 
-<span class="g-not">NOT PROMISING</span>  
+<span class="g-not">NOT PROMISING</span> <span class="g-humans">EVIDENCE
+IN CELLS, ANIMALS AND HUMANS</span>  
 <span class="g-tname">Hydroxychloroquine and chloroquine</span>  
 German chemists synthesized chloroquine in the 1930s as a drug against
 malaria. A less toxic version, called hydroxychloroquine, was [invented
 in 1946](https://www.nature.com/articles/s41421-020-0156-0#:~:text=Hydroxychloroquine%20\(HCQ\)%20sulfate%2C%20a,than%20CQ%20in%20animals4.),
 and later was approved for other diseases such as lupus and rheumatoid
 arthritis. At the start of the Covid-19 pandemic, researchers discovered
-that both drugs could stop the coronavirus from replicating in cells.
+that both drugs could stop the coronavirus from replicating in cells.  
+  
 Since then, they’ve had a tumultuous ride. A few small studies on
 patients offered some hope that hydroxychloroquine could treat Covid-19.
 The World Health Organization launched a randomized clinical trial in
 March to see if it was indeed safe and effective for Covid-19, as did
-Novartis and a number of universities.  
-  
-Meanwhile, President Trump repeatedly [promoted
+Novartis and a number of universities. Meanwhile, President Trump
+repeatedly [promoted
 hydroxychloroquine](https://www.nytimes3xbfgragh.onion/2020/04/06/us/politics/coronavirus-trump-malaria-drug.html)
 at press conferences, touting it as a “game changer,” and even [took it
 himself](https://www.nytimes3xbfgragh.onion/2020/05/18/us/politics/trump-hydroxychloroquine-covid-coronavirus.html).
@@ -800,24 +845,29 @@ other organs when used to treat Covid-19.
   
 In July, researchers at Henry Ford hospital in Detroit published a
 [study](https://www.statnews.com/2020/07/08/a-flawed-covid-19-study-gets-the-white-houses-attention-and-the-fda-may-pay-the-price/)
-finding that hydroxychloroquine reduced mortality in Covid-19 patients.
-President Trump [praised the study on
+finding that hydroxychloroquine was associated with a reduction in
+mortality in Covid-19 patients. President Trump [praised the study on
 Twitter](https://twitter.com/realDonaldTrump/status/1280328830218051584),
-but experts raised doubts about it because it was not a randomized
-controlled trial. Still, the White House has initiated a push for the
-F.D.A. to reauthorize hydroxychloroquine as an emergency Covid-19
-treatment.  
+but experts raised
+[doubts](https://www.sciencedirect.com/science/article/pii/S1201971220305300?dgcid=rss_sd_all)
+about it. The study was not a randomized controlled trial, in which some
+people got a placebo instead of hydroxychloroquine. The study’s results
+might not be due to the drug killing the virus. Instead, doctors may
+have given the drug to people who were less sick, and thus more likely
+to recover anyway.  
   
 Despite negative results, a number of hydroxychloroquine trials have
-continued. A recent analysis by STAT and Applied XL found more than 180
+continued, although most are small, testing a few dozen or a few hundred
+patients. A recent analysis by STAT and Applied XL found more than 180
 [ongoing clinical
 trials](https://www.statnews.com/2020/07/06/data-show-panic-and-disorganization-dominate-the-study-of-covid-19-drugs/)
 testing hydroxychloroquine or chloroquine, for treating or preventing
-Covid-19. Although it’s clear the drugs are no panacea, it’s possible
-they could work in combination with other treatments, or when given in
-early stages of the disease.  
-<span class="g-updated">Updated July
-22</span>
+Covid-19. Although it’s clear the drugs are no panacea, it’s
+theoretically possible they could provide some benefit in combination
+with other treatments, or when given in early stages of the disease.
+Only well-designed trials can determine if that’s the case.  
+<span class="g-updated">Updated Aug.
+10</span>
 
 ## <span class="xg-balancer" data-id="18">Mimicking the Immune System</span>
 
@@ -827,59 +877,104 @@ might help people who can’t mount an adequate defense.*</span>
 
 <span id="plasma"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS AND HUMANS</span>  
 <span class="g-tname">Convalescent plasma</span>  
 A century ago, doctors filtered plasma from the blood of recovered flu
 patients. So-called convalescent plasma, rich with antibodies, helped
 people sick with flu fight their illness. Now researchers are trying out
 this
 [strategy](https://www.nytimes3xbfgragh.onion/2020/04/24/smarter-living/coronavirus-convalescent-plasma-antibodies.html?searchResultPosition=1)
-on Covid-19. Early trials with convalescent plasma have yielded
-[promising, if preliminary,
-results](https://www.nytimes3xbfgragh.onion/2020/05/22/health/coronarvirus-convalescent-serum.html?searchResultPosition=2),
-and the F.D.A. has authorized its use on very sick patients infected by
-the coronavirus.
+on Covid-19. In May, the F.D.A. designated convalescent plasma an
+“[investigational
+product.](https://www.fda.gov/vaccines-blood-biologics/investigational-new-drug-ind-or-device-exemption-ide-process-cber/recommendations-investigational-covid-19-convalescent-plasma)”
+That means that despite not yet being shown as safe and effective,
+plasma can be used in clinical trials and given to some patients who are
+seriously ill with Covid-19. Tens of thousands of patients in the U.S.
+have received plasma through a program launched by the Mayo Clinic and
+the federal government.  
+  
+The Trump administration has praised convalescent plasma, despite the
+lack of evidence yet that it works. The first wave of trials have been
+[small](https://www.nytimes3xbfgragh.onion/2020/05/22/health/coronarvirus-convalescent-serum.html?searchResultPosition=2)
+and the results have been mixed. Large randomized clinical trials are
+underway, but they’ve [struggled to enroll enough
+participants](https://www.nytimes3xbfgragh.onion/2020/08/04/health/trump-plasma.html),
+some of whom worry they will receive a placebo instead of the treatment
+itself.  
+  
+Experts say that it’s vital to complete these trials to determine if
+convalescent plasma is safe and effective. If these trials are
+successful, it could serve as an important stopgap measure until more
+potent therapies become widely available.  
+<span class="g-updated">Updated Aug. 10</span>
 
 <span id="monoclonal"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS, ANIMALS AND HUMANS</span>  
 <span class="g-tname">Monoclonal antibodies</span>  
-Convalescent plasma contains a mix of different antibodies, some of
-which can attack the coronavirus, and some of which can’t. Researchers
-have been sifting through the slurry for the most potent antibodies
-against Covid-19. Synthetic copies of these molecules, known as
-[monoclonal
-antibodies](https://www.nytimes3xbfgragh.onion/2020/07/09/health/regeneron-monoclonal-antibodies.html),
-can be manufactured in bulk and then injected into patients. Safety
-trials for this treatment have [only just
-begun](https://investor.lilly.com/news-releases/news-release-details/lilly-begins-worlds-first-study-potential-covid-19-antibody),
-with several more on the way.
+Convalescent plasma from people who recover from Covid-19 contains a mix
+of different antibodies. Some of the molecules can attack the
+coronavirus, but many are directed at other pathogens. Researchers have
+sifted through this slurry to find the most potent antibodies against
+Covid-19. They have then manufactured synthetic copies of these
+molecules, known as monoclonal antibodies. Researchers have begun
+investigating them as a treatment for Covid-19, either individually or
+in cocktails.  
+  
+Monoclonal antibodies were first developed as a therapy in the 1970s,
+and since then the F.D.A. has approved them for [79
+diseases](https://jbiomedsci.biomedcentral.com/articles/10.1186/s12929-019-0592-z),
+ranging from cancer to AIDS. Since the start of the pandemic,
+researchers have found dozens of monoclonal antibodies that show promise
+against Covid-19 in [preclinical
+studies](https://www.nytimes3xbfgragh.onion/reuters/2020/08/03/us/03reuters-health-coronavirus-regeneron.html)
+on cells and animals. [Companies like Eli Lilly and Regeneron recently
+began clinical
+trials](https://www.nytimes3xbfgragh.onion/2020/07/09/health/regeneron-monoclonal-antibodies.html)
+studying monoclonal antibodies. Several other firms, as well as teams at
+universities, are slated to enter the race soon as well.  
+<span class="g-updated">Updated Aug. 10</span>
 
 <span id="interferon"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN CELLS, ANIMALS AND HUMANS</span>  
 <span class="g-tname">Interferons</span>  
 Interferons are molecules our cells naturally produce in response to
-viruses, rousing the immune system to attack. Injecting synthetic
-interferons is now a standard treatment for a number of immune
-disorders.
+viruses. They have profound effects on the immune system, rousing it to
+attack the invaders, while also reining it in to avoid damaging the
+body’s own tissues. Injecting synthetic interferons is now a standard
+treatment for a number of immune disorders.
 [Rebif](https://www.nationalmssociety.org/Treating-MS/Medications/Rebif),
-for example, is prescribed for multiple sclerosis. Early studies,
-including experiments in
-[mice](https://pubmed.ncbi.nlm.nih.gov/32511406/) and
-[cells](https://academic.oup.com/jid/article/doi/10.1093/infdis/jiaa350/5860074),
-hint that injecting interferons may help against Covid-19. An open-label
-study in China suggested that the molecules could [help prevent healthy
-people from getting
+for example, is prescribed for multiple sclerosis.  
+  
+As part of its strategy to attack our bodies, the coronavirus appears to
+[tamp down
+interferon](https://www.nytimes3xbfgragh.onion/2020/08/04/health/coronavirus-immune-system.html).
+That finding has encouraged researchers to see whether a boost of
+interferon might help people weather Covid-19, particularly early in
+infection. Early studies, including experiments in
+[cells](https://academic.oup.com/jid/article/doi/10.1093/infdis/jiaa350/5860074)
+and [mice](https://pubmed.ncbi.nlm.nih.gov/32511406/), have yielded
+encouraging results that have led to clinical trials.  
+  
+An open-label study in China suggested that the molecules could [help
+prevent healthy people from getting
 infected](https://www.medrxiv.org/content/10.1101/2020.04.11.20061473v2).
 On July 20, the British pharmaceutical company Synairgen
 [announced](https://www.nytimes3xbfgragh.onion/2020/07/20/world/covid-19-treatment-synairgen-interferon-beta.html)
 that an inhaled form of interferon called SNG001 lowered the risk of
 severe Covid-19 in infected patients in a small clinical trial. The full
 data have not yet been released to the public, or published in a
-scientific journal.  
-<span class="g-updated">Updated July
-20</span>
+scientific journal. On August 6, the National Institute of Allergy and
+Infectious Diseases
+[launched](https://www.nih.gov/news-events/news-releases/nih-clinical-trial-testing-remdesivir-plus-interferon-beta-1a-covid-19-treatment-begins)
+a Phase III trial on a combination of Rebif and the antiviral
+remdesivir, with results expected by fall 2020.  
+<span class="g-updated">Updated Aug.
+10</span>
 
 ## <span class="xg-balancer" data-id="20">Putting Out Friendly Fire</span>
 
@@ -889,7 +984,8 @@ virus. Scientists are testing drugs that can rein in its attack.*</span>
 
 <span id="dexamethasone"></span>
 
-<span class="g-promising">PROMISING EVIDENCE</span>  
+<span class="g-promising">PROMISING EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN HUMANS</span>  
 <span class="g-tname">Dexamethasone</span>  
 This cheap and widely available steroid blunts many types of immune
 responses. Doctors have long used it to treat allergies, asthma and
@@ -912,7 +1008,8 @@ ventilator or are receiving supplemental oxygen.
 
 <span id="cytokine"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN HUMANS</span>  
 <span class="g-tname">Cytokine Inhibitors</span>  
 The body produces signaling molecules called cytokines to fight off
 diseases. But manufactured in excess, cytokines can trigger the immune
@@ -922,38 +1019,50 @@ cytokine storms, and they have proven effective against arthritis and
 other inflammatory disorders. Some turn off the supply of molecules that
 launch the production of the cytokines themselves. Others block the
 receptors on immune cells to which cytokines would normally bind. A few
-block the cellular messages they send.  
+block the cellular messages they send. Depending on how the drugs are
+formulated, they can block one cytokine at a time, or muffle signals
+from several at once.  
   
-Against the coronavirus, several of these drugs, including tocilizumab,
-sarilumab and
-[anakinra](https://onlinelibrary.wiley.com/doi/10.1002/art.41422), have
-[offered modest
+Against the coronavirus, several of these drugs have [offered modest
 help](https://www.medrxiv.org/content/10.1101/2020.06.01.20119149v2) in
-some trials, but faltered in others. The drug company Regeneron recently
-announced that a branded version of sarilumab, Kevzara,
-[failed](https://www.nytimes3xbfgragh.onion/reuters/2020/07/02/us/02reuters-health-coronavirus-regeneron-pharms.html)
-Phase 3 clinical trials.
+some trials, but faltered in others. Drug companies Regeneron and Roche
+drug both
+[recently](https://newsroom.regeneron.com/news-releases/news-release-details/regeneron-and-sanofi-provide-update-kevzarar-sarilumab-phase-3)
+[announced](https://www.roche.com/investors/updates/inv-update-2020-07-29.htm)
+that two drugs called sarilumab and tocilizumab, which both target the
+cytokine IL-6, did not appear to benefit patients in Phase 3 clinical
+trials. Many other trials remain underway, several of which combine
+cytokine inhibitors with other treatments.  
+<span class="g-updated">Updated Aug. 10</span>
 
-<span id="cytosorb"></span>
+<span id="bloodfilter"></span>
 
 <span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN HUMANS</span>
 <span class="g-emergency">EMERGENCY USE AUTHORIZATION</span>  
-<span class="g-tname">Cytosorb</span>  
-Cytosorb is a cartridge that [filters
-cytokines](https://www.nytimes3xbfgragh.onion/2020/06/11/health/coronavirus-cytokine-storm.html)from
-the blood in an attempt to cool cytokine storms. The machine can purify
-a patient’s entire blood supply about 70 times in a 24-hour period. It
-was [granted emergency use
-authorization](https://www.nhlbi.nih.gov/news/2020/novel-blood-filter-approved-fda-emergency-treatment-covid-19)
-by the F.D.A. for Covid-19 based on a small study in March suggesting
-that it had helped dozens of severely ill Covid-19 patients in Europe
-and China. [Further
-trials](https://clinicaltrials.gov/ct2/results?cond=covid-19&term=cytosorb&cntry=&state=&city=&dist=)
-on patients with Covid-19 are now underway.
+<span class="g-tname">Blood filtration systems</span>  
+The F.D.A. has [granted emergency use
+authorization](https://www.nytimes3xbfgragh.onion/2020/08/10/health/stephen-hahn-fda.html)
+to several devices that [filter
+cytokines](https://www.nytimes3xbfgragh.onion/2020/06/11/health/coronavirus-cytokine-storm.html)
+from the blood in an attempt to cool [cytokine
+storms](https://www.nytimes3xbfgragh.onion/2020/06/11/health/coronavirus-cytokine-storm.html).
+One machine, called Cytosorb, can reportedly purify a patient’s entire
+blood supply about 70 times in a 24-hour period. A small study in March
+suggested that Cytosorb had helped dozens of severely ill Covid-19
+patients in Europe and China, but it was not a randomized clinical trial
+that could conclusively demonstrate it was effective. A number of
+studies on blood filtration systems are underway, but experts caution
+that these devices carry some risks. For example, such filters could
+[remove beneficial
+components](https://www.fda.gov/media/136866/download) of blood as well,
+such as vitamins or medications.  
+<span class="g-updated">Updated Aug. 10</span>
 
 <span id="stemcells"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN HUMANS</span>  
 <span class="g-tname">Stem cells</span>  
 Certain kinds of stem cells can secrete anti-inflammatory molecules.
 Over the years, researchers have tried to use them as a [treatment for
@@ -1003,7 +1112,8 @@ cases](https://www.nytimes3xbfgragh.onion/2020/04/26/health/coronavirus-patient-
 
 <span id="anticoagulants"></span>
 
-<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>  
+<span class="g-mixed">TENTATIVE OR MIXED EVIDENCE</span>
+<span class="g-humans">EVIDENCE IN HUMANS</span>  
 <span class="g-tname">Anticoagulants</span>  
 The coronavirus can invade cells in the lining of blood vessels, leading
 to tiny clots that can cause strokes and other serious harm.
@@ -1080,26 +1190,209 @@ coronavirus.
 
 <div class="g-asset g-svelte g-footer-nav" style="max-width: 600px">
 
-<div class="g-svelte" data-component="308">
+<div class="g-svelte" data-component="1">
 
-<div class="nav-wrap svelte-idrnru">
+<div class="nav-wrap svelte-15xraff">
 
-  - [World](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
-  - [World
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
-  - [U.S.
-    Cities](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
-  - [U.S.
-    Deaths](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
-  - [Testing](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
-  - [Nursing
-    homes](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
-  - [New York
-    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
-  - [Reopening](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
-  - [Vaccines](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+### United States
 
-Countries
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/orphan_usa-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+county
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/05/05/us/coronavirus-death-toll-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/deaths-us.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus in the
+U.S.
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/upshot/five-ways-to-monitor-coronavirus-outbreak-us.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Cities and Metro
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/metros.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Cities and Metro Areas
+
+Where it is getting better and
+worse
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-testing.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/testing.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Testing
+
+Is your state doing
+enough?
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-nursing-homes.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Nursing
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/nursing-homes.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Nursing Homes
+
+The hardest-hit states and
+facilities
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/states-reopen-map-coronavirus.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Reopening](https://static01.graylady3jvrrxbe.onion/images/2020/04/24/us/states-reopen-map-coronavirus-promo-1587778728210/states-reopen-map-coronavirus-promo-1587778728210-threeByTwoSmallAt2X-v96.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Reopening
+
+Which states are open and
+closed
+
+</div>
+
+</div>
+
+</div>
+
+### World
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-maps.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Latest Maps and
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/orphan_world-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Latest Maps and Data
+
+Cases and deaths for every
+country
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/04/21/world/coronavirus-missing-deaths.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Deaths Above
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/deaths-world.jpg)
+
+<div class="card-text svelte-15xraff">
+
+#### Deaths Above Normal
+
+The true toll of coronavirus around the
+world
+
+</div>
+
+</div>
+
+</div>
+
+### Health
+
+<div class="top svelte-15xraff">
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/vaccines.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Vaccines
+
+Track their
+development
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-drugs-treatments.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/4f1984be305c252f9ee31badc15a159ecb4475a3/images/footer-thumbs/treatments.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Treatments
+
+Rated by effectiveness and
+    safety
+
+</div>
+
+</div>
+
+</div>
+
+### Countries
 
   - [Brazil](https://www.nytimes3xbfgragh.onion/interactive/2020/world/americas/brazil-coronavirus-cases.html)
   - [Canada](https://www.nytimes3xbfgragh.onion/interactive/2020/world/canada/canada-coronavirus-cases.html)
@@ -1113,8 +1406,7 @@ Countries
   - [United
     States](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html)
 
-State by
-    state
+### States, Territories and Cities
 
   - [Alabama](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alabama-coronavirus-cases.html)
   - [Alaska](https://www.nytimes3xbfgragh.onion/interactive/2020/us/alaska-coronavirus-cases.html)
@@ -1152,6 +1444,8 @@ State by
     Mexico](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-mexico-coronavirus-cases.html)
   - [New
     York](https://www.nytimes3xbfgragh.onion/interactive/2020/us/new-york-coronavirus-cases.html)
+  - [New York
+    City](https://www.nytimes3xbfgragh.onion/interactive/2020/nyregion/new-york-city-coronavirus-cases.html)
   - [North
     Carolina](https://www.nytimes3xbfgragh.onion/interactive/2020/us/north-carolina-coronavirus-cases.html)
   - [North
@@ -1211,10 +1505,17 @@ ongoing clinical trials repeatedly end with disappointing
 results.</span>
 
 <span class="g-sync">Sources: National Library of Medicine; National
-Institutes of Health; Paul Knoepfler, University of California, Davis;
-Phyllis Tien, University of California, San Francisco; John Moore and
-Douglas Nixon, Weill Cornell Medical College; Noah Haber, Stanford
-University.</span>
+Institutes of Health; William Amarquaye, University of South Florida;
+Paul Bieniasz, Rockefeller University; Jeremy Faust, Brigham & Women’s
+Hospital; Matt Frieman, University of Maryland School of Medicine; Noah
+Haber, Stanford University; Swapnil Hiremath, University of Ottawa;
+Akiko Iwasaki, Yale University; Paul Knoepfler, University of
+California, Davis; Elena Massarotti, Brigham and Women’s Hospital; John
+Moore and Douglas Nixon, Weill Cornell Medical College; Erica Ollman
+Saphire, La Jolla Institute for Immunology; Regina Rabinovich, Harvard
+T.H. Chan School of Public Health; Ilan Schwartz, University of Alberta;
+Phyllis Tien, University of California, San
+Francisco.</span>
 
 </div>
 

@@ -132,34 +132,20 @@ Security</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1590763508878" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Race and</span><span class="css-1rxm0ex"> America</span></span>](https://www.nytimes3xbfgragh.onion/news-event/george-floyd-protests-minneapolis-new-york-los-angeles?name=styln-george-floyd&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2ce5ae20-e39a-11ea-8c8a-b7fbae24c18c)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">Race
-and</span><span class="css-1pje3qr">
-America</span></span>](https://www.nytimes3xbfgragh.onion/news-event/george-floyd-protests-minneapolis-new-york-los-angeles?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - [Black Lives Matter
-    Movement](https://www.nytimes3xbfgragh.onion/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [History of ‘I Can’t
-    Breathe’](https://www.nytimes3xbfgragh.onion/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [How Public Opinion
-    Shifted](https://www.nytimes3xbfgragh.onion/interactive/2020/06/10/upshot/black-lives-matter-attitudes.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [45 Days in
-    Louisville](https://www.nytimes3xbfgragh.onion/interactive/2020/07/16/us/black-lives-matter-protests-louisville-breonna-taylor.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42">[Black Lives Matter
+    Movement](https://www.nytimes3xbfgragh.onion/interactive/2020/07/03/us/george-floyd-protests-crowd-size.html?name=styln-george-floyd&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2ce5ae21-e39a-11ea-8c8a-b7fbae24c18c)</span>
+  - <span class="css-ousu42">[History of ‘I Can’t
+    Breathe’](https://www.nytimes3xbfgragh.onion/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html?name=styln-george-floyd&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2ce5ae22-e39a-11ea-8c8a-b7fbae24c18c)</span>
+  - <span class="css-ousu42">[How Public Opinion
+    Shifted](https://www.nytimes3xbfgragh.onion/interactive/2020/06/10/upshot/black-lives-matter-attitudes.html?name=styln-george-floyd&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2ce5d530-e39a-11ea-8c8a-b7fbae24c18c)</span>
+  - <span class="css-ousu42">[45 Days in
+    Louisville](https://www.nytimes3xbfgragh.onion/interactive/2020/07/16/us/black-lives-matter-protests-louisville-breonna-taylor.html?name=styln-george-floyd&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2ce5d531-e39a-11ea-8c8a-b7fbae24c18c)</span>
 
 </div>
 

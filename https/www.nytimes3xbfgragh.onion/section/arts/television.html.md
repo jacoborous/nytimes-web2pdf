@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -159,72 +163,77 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Democratic
+    National Convention, via Associated
+    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20dnc-tv-alt/20dnc-tv-alt-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02immigration-review/02immigration-review-thumbStandard.jpg)](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20dnc-tv-alt/20dnc-tv-alt-thumbStandard.jpg)](/2020/08/20/arts/television/dnc-barack-obama.html)
     
     </div>
     
-    ## [‘Immigration Nation’ Review: The Banality of Deportation](/2020/08/02/arts/television/immigration-nation-review-netflix.html)
+    ### Critic’s notebook
     
-    This Netflix documentary looks at the bureaucracy of immigration
-    enforcement — an intriguing investigation that probably won’t change
-    any
-    minds.
+    ## [Barack Obama Dials the Volume Down and the Urgency Up](/2020/08/20/arts/television/dnc-barack-obama.html)
+    
+    D.N.C. speeches by the former president and the would-be vice
+    president face the pandemic challenge: How do you bring down an
+    empty
+    house?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Mike
-    Hale</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">James
+    Poniewozik</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Merrick
-    Morton/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>HBO
+    Max</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20Watching-Rose-Matafeo/20Watching-Rose-Matafeo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02perry-recap/02perry-recap-thumbStandard.jpg)](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20Watching-Rose-Matafeo/20Watching-Rose-Matafeo-thumbStandard.jpg)](/2020/08/20/arts/television/nxivm-hbo-love-time-corona.html)
     
     </div>
     
-    ### Perry Mason
+    ### Watching
     
-    ## [‘Perry Mason’ Season 1, Episode 7: Resurrection Sunday](/2020/08/02/arts/television/perry-mason-recap-episode-7.html)
+    ## [How Much Watching Time Do You Have This Weekend?](/2020/08/20/arts/television/nxivm-hbo-love-time-corona.html)
     
-    As Perry gathers evidence, a clearer picture of Baby Charlie’s fate
-    emerges. Meanwhile, the moment of truth arrives for Emily and Sister
-    Alice.
+    Our TV critic recommends checking out a new stand-up special and an
+    engrossing documentary about the Nxivm
+    cult.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sean T.
-    Collins</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Margaret
+    Lyons</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Democratic
+        National Convention, via Associated
+        Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19dnc-tv-2/19dnc-tv-2-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
         ### Critic’s Notebook
         
-        ## [Muppet Meta Mania, Revived for the Streaming Era](/2020/07/31/arts/television/muppets-now.html)
+        ## [The D.N.C. Offers Calamari Counterprogramming](/2020/08/19/arts/television/dnc-roll-call-vote.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03muppets/03muppets-thumbStandard.jpg)](/2020/07/31/arts/television/muppets-now.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19dnc-tv-2/19dnc-tv-2-thumbStandard.jpg)](/2020/08/19/arts/television/dnc-roll-call-vote.html)
         
         </div>
         
-        The Muppets were made of, by and for TV. Two new shows, “Muppets
-        Now” on Disney+ and “The Not-Too-Late Show With Elmo” on HBO
-        Max, reimagine the media-savvy furry friends for a new
-        age.
+        At the pandemic-altered convention, the usually dull roll call
+        became a travelogue of American diversity and comeback
+        squid.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">James
@@ -232,27 +241,28 @@ story](#after-sponsor)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>BBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/merlin_172859073_50d8470f-744c-4299-a4b4-fe38eea4228e-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joyce
+        Kim for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/19nasser1/19nasser1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ### critic’s notebook
-        
-        ## [With American TV on Pause, Here Are 5 British Series to Watch](/2020/07/30/arts/television/in-my-skin-hulu.html)
+        ## [Latif Nasser, Harvard Ph.D., on the Rewards of Being Dumb](/2020/08/19/arts/television/connected-latif-nasser-netflix.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30british-series/30british-series-thumbStandard.jpg)](/2020/07/30/arts/television/in-my-skin-hulu.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/19nasser1/19nasser1-thumbStandard.jpg)](/2020/08/19/arts/television/connected-latif-nasser-netflix.html)
         
         </div>
         
-        On outlets from Hulu to Peacock to PBS, it’s the summer of the
-        trans-Atlantic
-        import.
+        They include getting your own Netflix show. Nasser, a science
+        journalist known for his work on “Radiolab,” talked about going
+        on-camera for “Connected” and the importance of staying
+        curious.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Mike
-        Hale</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Remy
+        Tumin</span></span>
         
         </div>
 
@@ -262,96 +272,93 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Richard
-    Cartwright/ABC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31comfort-goldbergs1/31comfort-goldbergs1-videoLarge.jpg)
+1.  ### Critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Aimee
+    Spinks/Netflix</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/arts/16oldguard-watchmen5/merlin_174158310_ba4a12e3-6bc3-4ce5-84f3-68c103635951-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Comfort Viewing: Why I Still Love ‘The Goldbergs’](/2020/07/31/arts/television/goldbergs-abc-stream.html)
+    ## [Black Women Are the Superheroes the World Needs](/2020/08/16/movies/oldguard-watchmen.html)
     
-    The period sitcom about a Jewish family in the ’80s has for seven
-    seasons been a weekly gift of old-fashioned
-    zingers.
+    In different ways and to varying degrees of success, “Watchmen” and
+    “The Old Guard” know that these characters have a much more
+    nuanced understanding of
+    justice.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Noel
-    Murray</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Maya
+    Phillips</span></span>
     
     </div>
 
-2.  ### Critic’s notebook
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Photo
-    illustration by Jennifer Ledbury/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02truth-WEB/02truth-WEB-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ali
+    Goldstein/NBC</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/17tvtakedowns-4/17tvtakedowns-4-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Reconciliation Must Be Televised](/2020/07/30/arts/television/the-moment-racism-tv.html)
+    ## [What Actually Happens When a TV Episode Gets Pulled?](/2020/08/17/arts/television/pulled-episodes-blackface.html)
     
-    What is the next step as America confronts its racism? A broadcast
-    spectacle, our critic writes, that could look like court, a
-    telethon, therapy, an Oprah show — and
-    more.
+    This summer brought a flurry of TV takedowns, with offensive
+    episodes of “30 Rock,” “Workaholics” and others being removed from
+    circulation. But in the digital era, what does that even
+    mean?
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Wesley
-    Morris</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sean
+    Malin</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michelle
-    Mishina-Kunz for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02last-chance1/02last-chance1-videoLarge-v3.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Christian
+    Black/Apple
+    TV+</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/arts/14lasso/14lasso-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [‘Last Chance U’ Travels to Oakland, Just Like the Players](/2020/07/28/arts/television/last-chance-u-season-5.html)
+    ## [‘Ted Lasso’ Review: Jason Sudeikis as America’s Nicest Export](/2020/08/14/arts/television/ted-lasso-review.html)
     
-    For its final season about junior college football, the Netflix
-    series looks at a commuter college in a gentrifying city where many
-    of the players can’t afford to
-    live.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Scott
-    Tobias</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Mark
-    Hill/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28EMMYS-CONVO2/merlin_163951620_f1b96611-35ce-463f-9f90-41787acd5e33-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Emmys: Our Critics on ‘Watchmen,’ ‘Maisel’ and, Yes, ‘Tiger King’](/2020/07/28/arts/television/emmys-watchmen-handmaids-tale-tiger-king.html)
-    
-    This year brought bounties for “Watchmen” (hooray) and “The
-    Marvelous Mrs. Maisel” (again?), but should TV even be celebrating
-    itself as a pandemic rages
-    on?
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">James Poniewozik</span>
-    and <span class="css-1baulvz last-byline" itemprop="name">Margaret
-    Lyons</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Disney+,
-    via Associated
-    Press</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/arts/28EMMYS-SNUBS4/merlin_165673722_e416155d-ccbd-49b3-a550-1b775c971c0f-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Emmys 2020 Snubs and Surprises: Baby Yoda Breaks Through](/2020/07/28/arts/television/emmys-snubs-mandalorian-zendaya-reese.html)
-    
-    In troubling times, the nominations made room for some popcorn
-    TV.
+    A fish-out-of-water sports comedy on Apple TV+ takes folksiness to a
+    new level of
+    sophistication.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Mike
     Hale</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Elizabeth
+    Morris/HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/arts/13lovecraft/13lovecraft-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [‘Lovecraft Country’ Review: Nightmare on Jim Crow Street](/2020/08/13/arts/television/lovecraft-country-review.html)
+    
+    HBO’s new horror series sends a Black family on a quest across 1950s
+    America, where anyone they see might be a
+    monster.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Mike
+    Hale</span></span>
+    
+    </div>
+
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>HBO</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/arts/16coronavirus-tv5/16coronavirus-tv5-videoLarge-v3.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Remote Control: Making Television Mid-Pandemic](/2020/08/12/arts/television/coastal-elites-connecting-social-distance.html)
+    
+    When TV production stopped in the spring, a few showrunners began
+    working on pandemic-themed series that could be shot mostly from
+    afar. But will viewers even want more shut-in
+    stories?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Alexis
+    Soloski</span></span>
     
     </div>
 
@@ -411,21 +418,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/arts/television/jimmy-fallon-trumps-latest-interview-made-his-briefings-look-good.html)
+    [](/2020/08/21/arts/television/late-night-steve-bannon-seth-meyers.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/05latenight/05latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/21latenight/21latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Best of Late Night</span>
     
-    ## Jimmy Fallon: Trump’s Latest Interview Made His Briefings Look Good
+    ## Late Night Savors Steve Bannon’s Arrest (and His Photo)
     
-    The “Axios on HBO” interview was “such a disaster, at one point FEMA
-    showed up and wrapped Trump in a foil blanket,” the “Tonight Show”
-    host said.
+    The former Trump adviser has been charged with fraud, but the hosts
+    seemed almost as interested in his current look. Seth Meyers called
+    him a “baked-potato Fabio.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -448,23 +455,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/arts/television/whats-on-tv-wednesday-rafiki-and-big-brother.html)
+    [](/2020/08/21/arts/television/whats-on-tv-friday-hoops-and-the-one-and-only-ivan.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/05tvcol-2/05tvcol-2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/21tvcol-hoops/21tvcol-hoops-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Wednesday: ‘Rafiki’ and ‘Big Brother’
+    ## What’s on TV Friday: ‘Hoops’ and ‘The One and Only Ivan’
     
-    A forbidden love story comes to Criterion. And a longstanding game
-    show begins its 22nd season.
+    An animated comedy series for adults hits Netflix. And Sam Rockwell
+    voices a talented gorilla in a new Disney movie.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mariel
-    Wamsley</span>
+    By <span class="css-1n7hynb">Gabe
+    Cohn</span>
     
     </div>
     
@@ -482,24 +489,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [](/2020/08/20/us/politics/julia-louis-dreyfus-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20emcees1/merlin_175920372_11e7b0cb-8a32-4ada-b22c-63a6ba0e3abf-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    ## Julia Louis-Dreyfus Caps a Week of Starring Roles for 4 Actresses
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of operation.
+    Ms. Louis-Dreyfus was the final television star to guide viewers
+    through the Democratic National Convention, after Kerry Washington,
+    Tracee Ellis Ross and Eva Longoria.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks
-    Barnes</span>
+    By <span class="css-1n7hynb">Sydney Ember <span>and</span> Lisa
+    Lerer</span>
     
     </div>
     
@@ -517,26 +524,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/sam-jay-netflix-special.html)
+    [](/2020/08/20/movies/horror-streaming-sevices.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04sam-jay1/04sam-jay1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20horror-streaming3/20horror-streaming3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">On Comedy</span>
+    ## The Best Places to Stream for the Best Screams
     
-    ## Sam Jay: A Comic Who Belongs to No Camp
-    
-    With a deadpan glare, the stand-up takes shots at everyone and won’t
-    say something funny just for a laugh. Now she’s on the cusp of
-    breaking out, thanks to a Netflix special.
+    A survey of the horror offerings on the top streaming platforms.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jason
-    Zinoman</span>
+    By <span class="css-1n7hynb">Elisabeth
+    Vincentelli</span>
     
     </div>
     
@@ -554,25 +557,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/the-good-fight-the-split.html)
+    [](/2020/08/20/movies/scary-movies-summer.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09Ask-watching1/merlin_148944999_050e9c93-e02d-4675-8331-db3e3315b60f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20summer-chills1/merlin_174159117_c72d899b-3d12-4d82-8019-db01884fa2dc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Ask a TV critic</span>
+    ## Scary Movies for When the World Is a Fright
     
-    ## After ‘The Good Fight,’ Try ‘The Split’
-    
-    Our television critic answers your questions and offers guidance on
-    what to watch next.
+    This summer, horror movies are booming. Here’s a guide to the top
+    new scares of the season.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Margaret
-    Lyons</span>
+    By <span class="css-1n7hynb">Erik
+    Piepenburg</span>
     
     </div>
     
@@ -590,25 +591,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
+    [](/2020/08/20/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20wkd-arts-roundup-comedy/merlin_175886961_dc53b754-7b1d-428f-b5ab-bbc90b417771-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">What I Love</span>
+    ### <span class="css-m70j1g">Weekend Roundup</span>
     
-    ## Harris Faulkner, Working From Home in Shades of Blue
+    ## 7 Things to Do This Weekend
     
-    The Fox News anchor’s mother gave her some decorating advice: ‘Just
-    make it beautiful.’ And she’s been trying.
+    How can you get your cultural fix when many arts institutions remain
+    closed? Our writers offer suggestions for what to listen to, read
+    and
+    watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Joanne
-    Kaufman</span>
     
     </div>
     
@@ -626,21 +626,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/seth-meyers-tiktok-trump.html)
+    [](/2020/08/20/arts/television/late-night-trump-obama-clinton-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04latenight/04latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20latenight/20latenight-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">Best of Late Night</span>
     
-    ## Seth Meyers: After TikTok, Trump Could Ban Candy Crush
+    ## Late Night Wonders How Trump Is Reacting to the D.N.C. Speeches
     
-    “I’m almost certain Trump has no idea what TikTok is. I’m betting
-    TikTok was one of the answers he wrote on his cognitive test,” Seth
-    Meyers joked on Monday’s “Late Night.”
+    “Trump’s entire list of enemies” addressed the convention on
+    Wednesday, said Jimmy Fallon. “The White House must have restrained
+    him tonight like he was Hannibal Lecter.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -663,24 +663,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/arts/television/whats-on-tv-tuesday.html)
+    [](/2020/08/20/arts/television/whats-on-tv-thursday-bill-ted-and-an-easy-girl.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/arts/04tvcol-lewis/04tvcol-lewis-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20tvcol-billandted/merlin_10948016_ad955eea-4534-4208-800a-14c4fe45011d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Tuesday: ‘John Lewis: Celebrating a Hero’ and a Timely Documentary
+    ## What’s on TV Thursday: ‘Bill & Ted’ and ‘An Easy Girl’
     
-    Celebrities come together to honor the congressman. And “The Stand:
-    How One Gesture Shook the World” revisits an iconic image from the
-    1968 Summer Olympics.
+    With a sequel coming soon, revisit “Bill & Ted’s Excellent
+    Adventure.” Or watch the latest film from the French director
+    Rebecca Zlotowski on Netflix.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren
-    Messman</span>
+    By <span class="css-1n7hynb">Gabe
+    Cohn</span>
     
     </div>
     
@@ -698,24 +698,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/television/whats-on-tv-monday-immigration-nation-and-dora-and-the-lost-city-of-gold.html)
+    [](/2020/08/19/arts/television/mary-hartline-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03tvcol-1/03tvcol-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/obituaries/Hartline/Hartline-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Monday: ‘Immigration Nation’ and ‘Dora and the Lost City of Gold’
+    ## Mary Hartline, a TV Star When TV Was New, Is Dead at 92
     
-    A six-part docu-series about the Immigration and Customs Enforcement
-    agency is on Netflix. And a live-action adaptation of “Dora” arrives
-    on Hulu.
+    Often called television’s first sex symbol, she was a striking
+    presence on “Super Circus” from 1949 to 1955 — and a master of
+    promotion.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Libbey</span>
+    By <span class="css-1n7hynb">Anita
+    Gates</span>
     
     </div>
     
@@ -733,22 +733,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/arts/television/whats-on-tv-sunday-connected-and-the-spacex-landing.html)
+    [](/2020/08/19/arts/television/trevor-noah-michelle-obama-speech.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/arts/02tvcol-connected/02tvcol-connected-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19latenight/19latenight-thumbWide.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What’s on TV Sunday: ‘Connected’ and the SpaceX Landing
+    ### <span class="css-m70j1g">Best of Late Night</span>
     
-    “Radiolab” journalist Latif Nasser hosts a new show on Netflix, and
-    the SpaceX craft makes its return to Earth.
+    ## Trevor Noah Praises Michelle Obama’s ‘Ice-Cold’ Trump Takedown
+    
+    The former first lady’s speech at the Democratic National Convention
+    made quite an impression on Noah and the other hosts.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren Messman</span>
+    By <span class="css-1n7hynb">Trish Bendix</span>
     
     </div>
     

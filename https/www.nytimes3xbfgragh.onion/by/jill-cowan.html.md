@@ -177,20 +177,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/us/biden-vp-karen-bass-kamala-harris.html)
+    [](/2020/08/20/us/california-vacaville-complex-fire.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/04basscatoday/merlin_175261437_21e95f0b-eb62-45c6-b3a5-cf7c8fdc54e6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/fire-vid-alt/fire-vid-alt-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">California Today</span>
+    ## Wildfires, a Heat Wave, Power Outages and a Pandemic in California
     
-    ## Could a Californian Be Vice President?
-    
-    Tuesday: Yes, and here’s what it would mean for the Golden State.
-    Also: California’s coronavirus data is slightly encouraging.
+    Thursday: California in August has tested the limits of things that
+    can go wrong at once. Also: Californians at the Democratic National
+    Convention.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -213,24 +212,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/us/california-coronavirus-modoc-county.html)
+    [](/2020/08/19/us/california-heatwave-blackouts-wildfires.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/03alturascatoday/03alturascatoday-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/19wildfires-1/merlin_175905363_40013fe4-4d2f-4df1-9495-3734fa4e4e46-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The Last California County Without a Coronavirus Case
+    ## Fires, Blackouts, a Heat Wave and a Pandemic: California’s ‘Horrible’ Month
     
-    Monday: The virus found its way into tiny, remote Modoc County.
-    Also: The Apple Fire prompted evacuations, and a successful
-    astronaut return.
+    The nation’s most-populated state is facing multiple crises,
+    including 23 major wildfires raging while the daily death toll from
+    the coronavirus is above 100.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas Fuller <span>and</span> Jill
-    Cowan</span>
+    By <span class="css-1n7hynb">Thomas
+    Fuller</span>
     
     </div>
     
@@ -248,20 +247,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/us/coronavirus-california-health-equity.html)
+    [](/2020/08/19/us/robert-garcia-dnc.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/us/30viruscatoday/merlin_175086831_5ae224dc-7c42-47bc-918c-1ae250d4157d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/19garciacatoday/merlin_175656969_e5ed69ba-70fb-4362-afdd-f5d8ca70d43e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## What More Can California Do to Stop the Coronavirus?
+    ## Talking to Long Beach’s Mayor, a ‘Next Generation’ Democrat
     
-    Thursday: A conversation about navigating risk today. Also: Teachers
-    push for limits, and Los Angeles basketball is almost back.
+    Wednesday: Mayor Robert Garcia of Long Beach discusses losing his
+    parents to Covid-19 and speaking at the Democratic National
+    Convention.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -284,21 +284,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/us/california-coronavirus-demographics.html)
+    [](/2020/08/18/us/california-blackouts.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/us/29testingcaliforniatoday/merlin_174940851_c1f7da5d-b606-42df-af20-75934f341c9d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/18powercatoday/merlin_175801983_119f8062-831c-445d-a54b-5bcd69dfa12f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## Californians Support Black Lives Matter and Wearing Masks
+    ## Why Millions of Californians Could Lose Power
     
-    Wednesday: A recent survey shows Californians are largely aligned,
-    but differences of opinion reflect disparities. Also: L.G.B.T.Q.
-    coronavirus data; and Emmy nominations.
+    Tuesday: Gov. Gavin Newsom demanded an investigation into rolling
+    blackouts over the weekend. Also: The Democratic National Convention
+    kicked off.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -321,25 +321,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/28/us/newsom-coronavirus-valley.html)
+    [](/2020/08/17/us/pac-12-football-california.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/28mendotacaliforniatoday/merlin_170520240_81ec0891-5091-4859-bace-5fc3a7949a59-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/01/14/sports/17calcatoday/30NCAA-01-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## Helping California’s Hard-Hit Central Valley
+    ## What to Know About the Pac-12 in the Fall
     
-    Tuesday: An announcement by Gov. Gavin Newsom signaled a shift in
-    the state’s fight against Covid-19. Also: Taking stock of protests.
+    Monday: California is influencing pandemic plans for conferences
+    nationwide. Also: A heat wave hits the state.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jill
-    Cowan</span>
+    By <span class="css-1n7hynb">Jill Cowan <span>and</span> Alan
+    Blinder</span>
     
     </div>
     
@@ -357,20 +357,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/us/california-coronavirus-new-york-cases.html)
+    [](/2020/08/14/us/ca-voter-status-mail-ballot.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/23viruscatoday/merlin_174853155_ed09c64d-72da-445f-8da0-8b20137862d8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/us/14votingcatoday/merlin_173711088_2dbf3d7e-64a1-45ed-a5fe-dadba1bf2cda-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## California Reports More Coronavirus Cases Than New York
+    ## Now That We Know Who’s Running, Here’s How to Vote in California
     
-    Thursday: But New York has recorded far more deaths. None of it is
-    good.
+    Friday: Although Californians have a leg up, turning out voters
+    during a pandemic will still be a challenge. Also: The jockeying for
+    Kamala Harris’s seat has begun.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -393,20 +394,20 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/22/us/coronavirus-ca-warehouse-workers.html)
+    [](/2020/08/13/us/ca-school-district-reopening-guidelines.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/22warehousecatoday1/merlin_172539669_360b678b-74f1-4673-a6d6-697d23152d5d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/us/13schoolcatoday/merlin_175595457_7d441ebc-3d70-4c02-8abc-f626ce2d06b9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## Warehouses Are Headed for the Central Valley, Too
+    ## What Are the Plans for Reopening California Schools?
     
-    Wednesday: The logistics industry has transformed the Inland Empire.
-    Its next destination? The Central Valley.
+    Thursday: The year has started out looking different across the
+    state. Also: A dangerous fire in northern Los Angeles County.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -429,21 +430,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/21/us/california-coronavirus-cases.html)
+    [](/2020/08/12/us/kamala-harris-vp-ca.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/21barbercatoday/merlin_174617151_afbfe809-77a4-463d-a606-b0d0e162fd5b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/us/12kamalacatoday/merlin_161795355_764ae379-33a7-41b4-8e6a-afb63292e1fa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## Haircuts Outside? California Shows Complexity of Reopening
+    ## Who Could Replace Kamala Harris in the Senate?
     
-    Tuesday: Learning to live with the pandemic continues to be a
-    consuming challenge. Also: An effort to destigmatize mental health
-    care.
+    Wednesday: Senator Kamala Harris is officially Joe Biden’s
+    vice-presidential pick. Also: The Pac-12 won’t play football in the
+    fall.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -466,18 +467,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/17/us/california-schools-reopening-newsom.html)
+    [](/2020/08/11/us/sonia-angell-ca-health-director-resigns.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/17virus-calschools/17virus-calschools-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/us/11angellcatoday/merlin_169662450_78db32f2-3e5f-4341-9b18-aa73cbf97bb1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Newsom Order Would Keep Most California Schools Online
+    ### <span class="css-m70j1g">California Today</span>
     
-    Districts in counties with rising caseloads will be required to
-    teach remotely until conditions improve.
+    ## A California Health Official’s Abrupt Resignation
+    
+    Tuesday: A top state public health official resigned as California
+    struggles with the pandemic. Also: A swarm of earthquakes; and
+    women’s suffrage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -500,26 +504,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/17/us/ca-coronavirus-covid-testing.html)
+    [](/2020/08/06/us/university-of-california-incoming-class.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/17CALTODAY-testing2/merlin_174594600_560ab1b4-f314-4641-bd75-485f9b36d635-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/06daviscatoday/merlin_173814255_6b234d33-08c3-46a1-8392-ca3eb4f7ecdc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">California Today</span>
     
-    ## Is California Doing Enough Coronavirus Testing?
+    ## New Students Show Diversity of U.C.’s Freshman Class
     
-    California is among several states struggling to catch up to the
-    recent surge in cases. Also: A call to prospective University of
-    California students.
+    Thursday: Meet more students in the historic incoming class at the
+    University of California. Also: School reopening becomes more
+    complicated.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marie Tae McDermott <span>and</span>
-    Jill Cowan</span>
+    By <span class="css-1n7hynb">Jill Cowan</span>
     
     </div>
     

@@ -100,34 +100,19 @@ Risk</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-11qgg8s">
+<div class="css-11qgg8s">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1591906231550" class="section interactive-content interactive-size-medium css-1du2ztb">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Climate and</span><span class="css-1rxm0ex"> Environment</span></span>](https://www.nytimes3xbfgragh.onion/section/climate?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01570e60-e39b-11ea-9f3a-f5bd08dc668f)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">Climate
-and</span><span class="css-1pje3qr">
-Environment</span></span>](https://www.nytimes3xbfgragh.onion/section/climate?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - [Rising
-    Seas](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/sea-level-inland-floods.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Trump’s
-    Changes](https://www.nytimes3xbfgragh.onion/interactive/2020/climate/trump-environment-rollbacks.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Climate 101](https://www.nytimes3xbfgragh.onion/interactive/2020/04/19/climate/climate-crash-course-1.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Is Your Hometown
-    Hotter?](https://www.nytimes3xbfgragh.onion/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/climate-change?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42">[Arctic
+    Refuge](https://www.nytimes3xbfgragh.onion/2020/08/17/climate/alaska-oil-drilling-anwr.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01570e61-e39b-11ea-9f3a-f5bd08dc668f)</span>
+  - <span class="css-ousu42">[Trump’s
+    Changes](https://www.nytimes3xbfgragh.onion/interactive/2020/climate/trump-environment-rollbacks.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01570e62-e39b-11ea-9f3a-f5bd08dc668f)</span>
+  - <span class="css-ousu42">[Climate 101](https://www.nytimes3xbfgragh.onion/interactive/2020/04/19/climate/climate-crash-course-1.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01573570-e39b-11ea-9f3a-f5bd08dc668f)</span>
+  - <span class="css-ousu42">[Is Your Hometown
+    Hotter?](https://www.nytimes3xbfgragh.onion/interactive/2018/08/30/climate/how-much-hotter-is-your-hometown.html?name=styln-climate&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=01573571-e39b-11ea-9f3a-f5bd08dc668f)</span>
 
 </div>
 
@@ -477,7 +462,7 @@ said.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-37356" class="css-19mumt8" data-role="complementary" data-storyline="Climate and Environment" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-37797" class="css-19mumt8" data-role="complementary" data-storyline="Climate and Environment" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -489,22 +474,25 @@ said.
 
 #### Keep Up on the Latest Climate News
 
-Updated July 30, 2020
+Updated Aug. 18, 2020
 
-Here’s what you need to know about the latest climate change news this
-week:
+Here’s what you need to know this week:
 
-  -   - [Floods
-        in](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/bangladesh-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)[Bangladesh](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/bangladesh-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
-        are punishing the people least responsible for climate change.
-      - As climate change raises sea levels, [storm surges and high
-        tides](https://www.nytimes3xbfgragh.onion/2020/07/30/climate/sea-level-inland-floods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
-        are likely to push farther inland.
-      - The E.P.A. inspector general plans to investigate whether a
-        rollback of fuel efficiency standards [violated government
-        rules](https://www.nytimes3xbfgragh.onion/2020/07/27/climate/trump-fuel-efficiency-rule.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup).
+  -   - Five automakers [sealed a binding
+        agreement](https://www.nytimes3xbfgragh.onion/2020/08/17/climate/california-automakers-pollution.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
+        with California to follow the state’s stricter tailpipe
+        emissions rules.
+      - The Trump administration[eliminated a major methane
+        rule](https://www.nytimes3xbfgragh.onion/2020/08/13/climate/trump-methane.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup),
+        even as leaks are worsening, in a decision that researchers
+        warned ignored science.
+      - Climate change leaders said [the vice-presidential choice of
+        Kamala
+        Harris](https://www.nytimes3xbfgragh.onion/2020/08/12/climate/kamala-harris-environmental-justice.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_keepup)
+        signaled that Democrats will have a focus on environmental
+        justice.
 
-<div id="styln-survey-component-37356" class="styln-survey-component">
+<div id="styln-survey-component-37797" class="styln-survey-component">
 
 </div>
 

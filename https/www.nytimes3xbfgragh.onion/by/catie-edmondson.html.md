@@ -172,6 +172,243 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/20/us/politics/former-postal-governor-tells-congress-mnuchin-politicized-postal-service.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dc-postal/20dc-postal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Former Postal Governor Tells Congress Mnuchin Politicized Postal Service
+    
+    David C. Williams also said he raised concerns about Louis DeJoy,
+    the embattled postmaster general, before he was hired.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nicholas Fandos, Alan Rappeport,
+    Kenneth P. Vogel <span>and</span> Catie
+    Edmondson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/20/us/politics/david-williams-postal-service.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dc-williams/20dc-williams-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Who Is David C. Williams? A Postal Service Overseer Who Resigned
+    
+    Mr. Williams, who will testify before lawmakers about the U.S.
+    Postal Service on Thursday, is expected to allege efforts by the
+    Trump administration to undermine the agency.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catie
+    Edmondson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/18/us/elections/louis-dejoy-the-postmaster-general-will-testify-before-the-senate-on-friday-about-service-cuts.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18-live-electionsbrief-dejoy/18-live-electionsbrief-dejoy-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Louis DeJoy, the postmaster general, will testify before the Senate on Friday about service cuts.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
+    Edmondson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/17/us/politics/dejoy-postal-service-mail-in-voting.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17dc-postal/merlin_175823529_c0f99542-4a90-4cde-85da-afba5b8be8a5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## DeJoy Earned Millions From Company With Financial Ties to Postal Service
+    
+    The postmaster general, under fire for his business ties and his
+    cost-cutting measures, will testify before the House next week.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catie Edmondson <span>and</span> Emily
+    Cochrane</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/live/2020/08/17/us/dnc-convention/the-postmaster-general-received-millions-in-income-from-a-company-that-works-with-usps-documents-show)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17-live-postal/merlin_175699077_d85dfd3c-ee10-4646-8a8a-489ea2f4cb3f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The postmaster general received millions in income from a company that works with U.S.P.S., documents show.
+    
+    This was featured in live coverage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catie Edmondson, Emily Cochrane,
+    Michael D. Shear <span>and</span> Luke
+    Broadwater</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/16/us/politics/coronavirus-postal-service-stimulus-bill.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/us/politics/16dc-postal/merlin_175699260_8bdf490a-64a7-49ed-9198-d6a2d4275e42-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Pelosi to Recall House for Postal Service Vote as Democrats Press for DeJoy to Testify
+    
+    The House will cut short its summer recess to consider legislation
+    that would counter changes at the Postal Service that critics say
+    undermine casting ballots by mail.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Emily Cochrane <span>and</span> Catie
+    Edmondson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/live/2020/08/16/us/election-trump-vs-biden/democrats-call-on-postmaster-dejoy-to-resign-as-protests-against-him-continue)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/15/business/15elections-post-video/merlin_175749588_93a369af-a611-4652-88f7-472694cf0692-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Democrats call on Postmaster DeJoy to resign as protests against him continue.
+    
+    This was featured in live coverage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catie
+    Edmondson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/politics/trump-suburban-voters-republicans-house.html)
     
     <div class="css-79elbk">
@@ -200,7 +437,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -235,7 +472,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -258,270 +495,7 @@ story](#after-mid1)
     <div class="css-1nqbnmb ea5icrr0">
     
     By <span class="css-1n7hynb">Helene Cooper, Catie Edmondson
-    <span>and</span> Maggie
-    Haberman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/us/politics/lafayette-square-park-police-protests.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/politics/28dc-unrest-lafayette/merlin_175034889_a960ee80-d19b-4138-929b-3b34145b740c-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Despite Evidence, Park Police Chief Says ‘Tremendous Restraint’ Was Used in Lafayette Clash
-    
-    Lawmakers repeatedly pressed Gregory T. Monahan to square his
-    remarks with videos showing his officers attacking protesters. He
-    declined.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catie
-    Edmondson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/27/us/politics/national-guard-excessive-force-lafayette-square.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/us/politics/27dc-lafayette/merlin_173090928_2641b589-0068-488c-8782-2433e250b400-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## National Guard Officer Says Police Used ‘Excessive’ Force at White House Clash
-    
-    An Army National Guard officer at Lafayette Square plans to tell
-    lawmakers that the Park Police unleashed an “unprovoked escalation”
-    on peaceful protesters last month.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catie
-    Edmondson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/es/2020/07/24/espanol/estados-unidos/alexandria-ocasio-cortez-insulto.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/24AOC-ES-1/23vid-elections-AOC-vid-cover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Estados Unidos</span>
-    
-    ## Alexandria Ocasio-Cortez condena la misoginia en el Congreso de Estados Unidos
-    
-    Después de que un legislador republicano se refirió a la congresista
-    con una grosería sexista, ella acudió al pleno de la Cámara para
-    denunciar el abuso que enfrentan las mujeres en el país.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Luke Broadwater <span>and</span> Catie
-    Edmondson</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Read in
-    English](https://www.nytimes3xbfgragh.onion/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html "Read in English")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/us/alexandria-ocasio-cortez-sexism-congress.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/23vid-elections-AOC-vid-cover/23vid-elections-AOC-vid-cover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A.O.C. Unleashes a Viral Condemnation of Sexism in Congress
-    
-    After a Republican lawmaker referred to Representative Alexandria
-    Ocasio-Cortez using a sexist vulgarity, she took to the House floor
-    to denounce the abuse faced by women in Congress and across the
-    nation.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Luke Broadwater <span>and</span> Catie
-    Edmondson</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/07/24/espanol/estados-unidos/alexandria-ocasio-cortez-insulto.html "Read in Spanish")
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/22/us/politics/confederate-statues-us-capitol.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/politics/22dc-statues-sub/merlin_174837648_f3aaaec6-6dd2-42ac-9623-0cf6e57c530e-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## House Votes to Remove Confederate Statues From U.S. Capitol
-    
-    The bipartisan vote to banish the statues from display was the
-    latest step in a nationwide push to remove historical symbols of
-    racism and oppression from public places.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catie
-    Edmondson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/21/us/politics/senate-police-military-equipment.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/01/us/politics/01dc-unrest-equipment/merlin_173012736_7c4acbb9-efb4-4f6b-931a-b4947a61311f-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Senate Kills Broad Curbs on Military Gear for Police, Thwarting Push to Demilitarize
-    
-    The Senate adopted a narrower proposal to limit the transfer of some
-    military equipment to local police departments, but data shows that
-    such restrictions have done little to reduce the flow.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catie
-    Edmondson</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/20/us/politics/congress-trump-confederate-base-names.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/us/politics/20dc-bases/20dc-bases-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Defying Trump, Lawmakers Move to Strip Military Bases of Confederate Names
-    
-    The push by both Republicans and Democrats in Congress sets up an
-    election-year veto fight with the president, and shows how he has
-    isolated himself even from members of his own party on the issue.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Catie Edmondson <span>and</span> Emily
-    Cochrane</span>
+    <span>and</span> Maggie Haberman</span>
     
     </div>
     

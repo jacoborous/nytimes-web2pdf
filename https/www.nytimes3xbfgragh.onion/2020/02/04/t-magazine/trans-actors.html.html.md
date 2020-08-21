@@ -1,0 +1,792 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-100wwgy">The Trans Actors Challenging Outmoded Ideas of
+Masculinity</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-o5pzib">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2UrgoxA</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+Social Studies
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# The Trans Actors Challenging Outmoded Ideas of Masculinity
+
+</div>
+
+Despite years of progress, trans male representation in film and
+television has remained all but nonexistent. Now, there’s a new group of
+rising stars.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-1l9o2ey e13ogyst0" data-aria-hidden="true">From left:
+Elliot Fletcher, Shaan Dasani, Theo Germaine, Leo Sheng and Scott Turner
+Schofield, photographed on Oct. 2, 2019, in downtown Los
+Angeles.</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Andy
+Freeberg</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/01/30/t-magazine/oakImage-1580405768393/oakImage-1580405768393-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By <span class="css-1baulvz last-byline" itemprop="name">David
+Ebershoff</span>
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-nv7ky2 e16638kd2">
+    
+    Feb. 4,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+### 1\. First Time I Saw Me
+
+Last August, at a premiere party at the NeueHouse on Sunset Boulevard in
+Los Angeles, the actor [Brian Michael
+Smith](https://www.thebrianmichael.com/) was biting into a slider when
+he turned around and there was [Oprah
+Winfrey](https://www.nytimes3xbfgragh.onion/topic/person/oprah-winfrey).
+Several years before, as a black transgender man struggling to break
+into Hollywood, Smith saw no obvious trajectory to a meaningful career.
+Even a college acting teacher said no one would cast him. “I saw zero
+representation of transmasculinity,” he says, using an umbrella term
+that means different things to different people but often describes
+trans men and nonbinary people who identify more with masculinity. “It
+was very isolating to grow up and have these dreams. I didn’t see how I
+was going to be able to do it.”
+
+This is how dreams are murdered, but instead of succumbing, Smith told
+himself “to Oprah this situation” — meaning create his own path. And so
+he did. He now plays a trio of distinct trans characters on TV: Toine,
+the gentle cop on OWN’s “[Queen
+Sugar](https://www.nytimes3xbfgragh.onion/watching/titles/queen-sugar),”
+whose 2017 coming-out episode coincided with Smith’s public coming out;
+Pierce, a political strategist on Showtime’s [sequel to “The L
+Word,”](https://www.nytimes3xbfgragh.onion/2019/11/29/arts/television/l-word-generation-q.html)
+which debuted in December; and a firefighter on Fox’s new “[9-1-1: Lone
+Star](https://www.nytimes3xbfgragh.onion/2020/01/02/arts/television/50-shows-to-watch.html).”
+At the premiere, Smith saw his opportunity to thank the woman whose name
+had become his own inspirational verb. He swallowed the slider, extended
+his hand — and you know what Oprah said? “I know who you are.”
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-1l9o2ey e13ogyst0" data-aria-hidden="true">Kofi
+Siriboe as Ralph Angel Bordelon and Brian Michael Smith as Toine Wilkins
+in “Queen Sugar”
+(2017).</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>OWN:
+Oprah Winfrey
+Network</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/02/04/t-magazine/04tmag-transmaleactors-slide-QH4U/04tmag-transmaleactors-slide-QH4U-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Smith, 37, tells me this story in a Los Angeles hotel lobby on a rare
+day off. He keeps his head shaved, his beard trimmed and a polished
+stone from a yoga retreat in his pocket. Something he talks about —
+something all the trans male and nonbinary actors I interviewed for this
+story talk about — is why visibility matters. “It’s necessary for people
+to see themselves onscreen,” says [Shaan
+Dasani](https://www.shaandasani.com/), who appeared in two 2019 web
+comedies, “[These Thems](http://www.thesethems.com/)” and “Razor
+Tongue.” “It’s necessary for people to see multiple versions of
+masculinity.”
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+In 2014, Laverne Cox appeared on Time magazine’s cover with the headline
+“[The Transgender Tipping
+Point](https://time.com/135480/transgender-tipping-point/).” Since then,
+trans women have been working in Hollywood in increasing numbers, but
+that tipping point is only coming now for trans male and transmasculine
+actors and story lines. “We’ve been invisible,” says [Nick
+Adams](https://www.glaad.org/nick-adams-director-transgender-media-representation),
+the director of transgender representation at Glaad. He keeps an
+unofficial tally of trans men in film and television, dating back to a
+1987 episode of “[The Golden
+Girls](https://www.nytimes3xbfgragh.onion/watching/recommendations/the-golden-girls?auto=true).”
+The next entries come in 1999: an episode of the CBS series “L.A.
+Doctors,” about a teenager who abuses masculinizing hormones, and “[Boys
+Don’t
+Cry](https://www.nytimes3xbfgragh.onion/2019/10/09/movies/boys-dont-cry-anniversary.html),”
+about the life and murder of Brandon Teena, played by Hilary Swank.
+“Five years ago, the kind of roles I’m doing would have [gone to
+cisgender
+actors](https://www.nytimes3xbfgragh.onion/2015/09/04/movies/who-gets-to-play-the-transgender-part-in-hollywood.html),”
+says [Theo Germaine](https://www.instagram.com/theogermaine/?hl=en), 27,
+of their recent parts as young trans men on Netflix’s “[The
+Politician](https://www.nytimes3xbfgragh.onion/2019/09/26/business/media/netflix-ryan-murphy-the-politician.html)”
+and Showtime’s “[Work in
+Progress](https://www.nytimes3xbfgragh.onion/2020/01/23/arts/television/david-lynch-netflix-work-in-progress-showtime.html)”
+(Germaine identifies as nonbinary and uses both male and gender-neutral
+pronouns). Germaine is correct, but the reality is starker: Five years
+ago, these roles mostly didn’t exist. When a transmasculine character
+did pop up, he was often a victim, his story limited to and by trans
+trauma; Smith describes seeing “Boys Don’t Cry” while in high school as
+both affirming and terrifying.
+
+But in the last year, we’ve witnessed more trans male and nonbinary
+actors onscreen than ever before. Even more important is what the actors
+and their roles represent. They are reflecting back the reality of trans
+male and nonbinary lives while mainstreaming long-marginalized
+characters and narratives. They are introducing multidimensional
+characters whose gender intersects with other facets of identity — race,
+class, sexual orientation, disability. Through their performances and
+social media, the actors are updating and expanding the very idea of the
+leading man.
+
+Why is this vital? Let me start with the most basic reason: survival.
+The actors are creating characters that audiences have never seen before
+at a time when right-wing politicians are trying to strip trans people
+of not only their rights (the [military’s recent
+restrictions](https://www.nytimes3xbfgragh.onion/2018/07/05/us/military-transgender-recruits.html)
+surrounding transgender troops and recruits, for example) but their
+humanity (think of all the so-called [bathroom
+bills](https://www.nytimes3xbfgragh.onion/2019/07/23/us/north-carolina-transgender-bathrooms.html)).
+A paradox of America 2020: There’s been a swift advancement of trans
+visibility and equality, even as anti-trans violence has become what
+both the [Human Rights
+Campaign](https://www.hrc.org/resources/a-national-epidemic-fatal-anti-trans-violence-in-the-united-states-in-2019)
+and the [American Medical
+Association](https://www.nytimes3xbfgragh.onion/2019/09/27/us/transgender-women-deaths.html)
+call an epidemic, and an unprecedented acceptance of trans folks, even
+as the Supreme Court considers whether someone’s gender identity is
+grounds for termination from employment. More than half of trans male
+adolescents have attempted suicide, according to a 2018 study published
+in the journal Pediatrics. “There’s a reason for that,” says [Scott
+Turner Schofield](https://www.scotttschofield.com/), who stars in
+Amazon’s new “[Studio
+City](https://www.amazon.com/Studio-City/dp/B0831S9K6R).” “We’re raised
+to believe there’s something wrong with us. We’re raised to believe
+we’re the only one.” So when Smith’s character came out on “Queen
+Sugar,” Twitter lit up with the hashtag
+[\#FirstTimeISawMe](https://www.instagram.com/explore/tags/firsttimeisawme/).
+Progress — social, cultural, political — always begins with the
+self.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1l9o2ey e13ogyst0" data-aria-hidden="true">“It’s
+necessary for people to see themselves onscreen,” says Dasani, center.
+“It’s necessary for people to see multiple versions of
+masculinity.”</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Andy
+Freeberg</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+### 2\. Superheroes
+
+Two and a half years ago, [Leo Sheng](https://www.leosheng.com/) was in
+Ann Arbor, Mich., about to start a master’s in social work when a
+casting agent messaged him on Instagram. “Acting was not on my radar,”
+he says. Sheng flew to New York for an audition. As he boarded the plane
+back to Michigan, his phone rang: He got the part. In “Adam,” which
+premiered last August, Sheng plays Ethan, a young trans man so
+emotionally grounded that he becomes the ballast for the cis characters
+flailing all around him, thus flipping a trans narrative trope. Soon
+after, he was cast in “The L Word: Generation Q” as Micah, an adjunct
+professor of social work.
+
+Sheng, now 23, recognizes the potential for social and political change
+in acting: Through characters like Ethan and Micah, he’s helping
+Hollywood revise its depictions of trans men, catching up to trans lives
+as they’re actually lived. Story lines are moving past transition into
+love, friendship, work, family — the everything-ness of a man’s life.
+Sheng and the other actors are portraying men not defined by crisis or
+fear, or hormones and chest-binding, but in the midst of full and
+(mostly) happy lives — “a type of happiness a lot of people want to know
+is possible,” Sheng says.
+
+Sheng uses social media to further complicate the narrative, engaging in
+an ongoing deconstruction of who and what defines the male self. He
+posts about going to the gym and his evolving relationship to muscles.
+He wants people to see trans male bodies as they are, whether ripped or
+soft, hairy or smooth, boyish or dad-ish, scarred or not. Sheng recently
+posted about his period, a frankness that drew praise but also online
+attacks about his identity.
+
+Something we can’t forget: Even as the actors appear in more and more
+celebrated projects, some people continue to deny their existence. The
+English actor, writer and director Jake Graf, 42, says in the past trans
+men were invisible, both onscreen and in broader society, in part
+because many could choose whether to disclose their identity: “Largely
+due to our physicality, we’ve been afforded the luxury of living that
+unseen, under-the-radar, stealth life.” Their reasons were complex and
+understandable (personal safety, social and financial stability, for
+example), but one consequence has been that there is now far less
+awareness of trans men than of trans women. Society has a long and
+unfortunate history of gazing at and fetishizing trans women, but that
+has been less the case with trans men. That’s a generalization, of
+course, but only in service of sharing a point many of the actors made
+to me: They now want to be seen; they now want people to know they
+exist. “Trans women have historically been more visible,” Graf says.
+“Trans men have been out there doing things much more quietly, which
+is great for them, but not great for visibility.”
+
+Graf used to audition without disclosing his identity, and casting
+directors saw him as another guy in the gaggle. Only after coming out
+could he stand out, booking roles in 2018’s
+“[Colette](https://www.nytimes3xbfgragh.onion/2018/09/19/movies/colette-keira-knightley-costumes.html)”
+and 2015’s “[The Danish
+Girl](https://www.nytimes3xbfgragh.onion/2016/02/18/movies/oscars-2016-the-danish-girl-production-design.html)”
+(based on a novel I wrote). With his square jaw and British charm, Graf
+embodies the classic leading man while also subverting the very notion.
+He started making short films, highlighting the fine-grain details of
+ordinary trans lives: a young man visiting his gynecologist; an older
+man recalling life before the queer and trans rights movements — a
+multiplicity of stories Hollywood is only now incorporating.
+
+“There’s no one version of a trans guy in Hollywood anymore,” says
+Elliot Fletcher, 23. From 2016 to 2018, Fletcher took on three
+consecutive trans roles that, viewed together, proved groundbreaking. On
+MTV’s “Faking It,” he played a high schooler navigating his gender
+identity and sexuality. On Freeform’s “[The
+Fosters](https://www.nytimes3xbfgragh.onion/watching/recommendations/the-fosters),”
+he was the sweetly rebellious boyfriend. On Showtime’s
+“[Shameless](https://www.nytimes3xbfgragh.onion/watching/recommendations/shameless-us),”
+Fletcher plays an L.G.B.T.Q. activist who is simultaneously insulting,
+raunchy and endearing. The role he’d really love, though, is the next
+Spider-Man. With the right glasses, he could pass for Peter Parker. When
+I asked the actors about their dream roles, most said they want to play
+a superhero. A superhero implies someone elite, a status long denied to
+trans and gender-nonconforming
+people.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:175.28888888888886px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1l9o2ey e13ogyst0" data-aria-hidden="true">Laura
+Dreyfuss, Theo Germaine and Ben Platt in “The Politician”
+(2019).</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Netflix</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+### 3\. I Am My Own Masculinity
+
+In “The Politician,” Germaine’s character, James, toggles between
+running the student-body campaign of his best friend, Payton, and
+sleeping with Payton’s girlfriend. “I was like, ‘Oh my God, people are
+going to hate me because I’m not playing a nice person,’” Germaine says.
+In fact, James represents an evolution of the trans male character
+beyond hero, saint or martyr to someone allowed to be ruthless and
+deceitful. The character breakdown describes James as trans, but his
+gender identity is never explicitly defined — it’s so unremarkable, it’s
+never remarked upon. It’s what makes the character so transformational;
+James refuses to take on the burdens of definition or explanation. If
+you look at him only through the lens of gender identity, he won’t
+engage. He transfers questions of identity from him to you. As a
+nonbinary actor, Germaine says they still feel some pressure to justify
+and self-explain but hope audiences are ready to move past fixed ideas
+of how a trans or nonbinary person should look.
+
+Viewers seem to be. Germaine’s James takes us to a place beyond
+“passing” — a word the actors don’t like but also acknowledge as a
+real factor in how trans men are depicted. Hollywood still mostly
+employs actors who can be perceived as cis. On the one hand, this
+represents progress: The actors want casting directors to see them for
+any relevant part, whether cis or trans. But it’s also a privilege that
+excludes many. “There are so many different ways to express gender,”
+Sheng says. “I would love to see more nonbinary, genderqueer and trans
+folks who can’t ‘pass’ be given opportunities.”
+
+Recently Chella Man, 21, joined the cast of DC Universe’s series
+“Titans,” playing Jericho, who is mute, biracial and bisexual. Soon
+after, Man, who identifies as genderqueer, modeled for Calvin Klein
+flexing his biceps in black boxer briefs. It’s a radical act, he says,
+“to showcase my flat-chested, penis- less body.” He says he received a
+lot of love and a lot of transphobia, neither of which surprised him. He
+[posted](https://www.instagram.com/p/B2Z7egEHLaZ/) on Instagram from the
+shoot with the caption: “No visible underwear bulge. Jewish and Asian
+history and representation in my DNA and on my skin. Top surgery scars
+out and proud. Visible cochlear implants paired with my DEAF AF tattoo.”
+Man followed this with an older image of himself — in track pants and
+shirtless, pre-top surgery. A bicep tattoo gives the photo its caption
+and meaning: “I Am My Own Masculinity.” Man is saying through image and
+ink that he can define his own masculinity, rather than let it define
+him.
+
+This, then, is what comes next: shifting from a past where gender was
+handed to us by society’s cues and prompts to a future of expressing who
+we are in terms we control. “Masculinity stems from gender, which is
+socially constructed,” says Man. “Anyone has the potential to unlearn
+social constructs and/or redefine what they may mean to them.”
+Collectively, the actors are engaged in this conversation about gender
+and identity, leading us to a day when those conversations are no longer
+necessary.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:257.77777777777777px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-1l9o2ey e13ogyst0" data-aria-hidden="true">Leo Sheng as
+Micah Lee and Freddy Miyares as Jose Garcia in “The L Word: Generation
+Q”
+(2020).</span><span class="css-1nlbvxy e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Erica
+Parise/Showtime</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+### 4\. The Gates of Paramount
+
+At the beginning of 2019, [Jill
+Soloway](https://www.nytimes3xbfgragh.onion/2014/08/31/magazine/can-jill-soloway-do-justice-to-the-trans-movement.html),
+the creator of Amazon’s
+“[Transparent](https://www.nytimes3xbfgragh.onion/watching/recommendations/watching-tv-transparent?auto=true),”
+invited Schofield, who declined to give his age, for a hike in Griffith
+Park. In the chaparral above Los Angeles, they discussed organizing a
+new group under the umbrella of 5050 by 2020, a strategic initiative
+working toward gender parity across all Hollywood professions that
+Soloway helps lead. Soloway, 54, who identifies as nonbinary, says that
+many trans men and nonbinary people have a unique perspective on the
+issues of equality, opportunity and the post-\#MeToo discussion of
+masculinity and its privileges. Smith agrees: As he transitioned, he had
+to ask himself what kind of man he wanted to be, “examining that earlier
+on and more intensely than cis men.” He believes the importance society
+places on masculinity might be more problematic than masculinity in and
+of itself. Dasani, who also declined to give his age, echoed that with a
+story from his time in film school, before transitioning: In a study
+group with three film bros, he found himself ignored. After
+transitioning, he noticed what he said wasn’t devalued in a way he felt
+it had been before. “I remember clocking this — be the guy who makes
+room for other voices at the table.”
+
+In April 2019, about 30 actors, writers, directors and editors met in a
+boardroom on the Paramount lot. They gathered around an imposing
+executive table, the kind that has long excluded them. The cohort’s
+goals are both practical (networking, professional development) and
+inspirational (support, friendship). For some, it’s the only time
+they’ve been in a space with so many like themselves. As far as anyone
+knows, it’s a first for Hollywood. “There’s so much tenderness in the
+room,” says Dasani of the now monthly meetings. The symbolism of the
+Paramount lot isn’t lost: For a long time, those gates have been closed
+to many communities. When I ask Dasani about this moment of increasing
+representation, he corrects me. “I hope it’s more than a moment. I hope
+it’s a cultural shift.” A shift to ensure the gates never close again.
+
+Grooming: Christina Guerra and Hailey Adickes at Celestine Agency.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -186,24 +190,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/disney-earnings-coronavirus.html)
+    [](/2020/08/20/us/christine-jahnke-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04virus-disney3/04virus-disney3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/obituaries/21Jahnke/19Jahnke-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Disney, Staggered by Pandemic, Sees a Streaming Boom
+    ## Christine Jahnke, Speech Coach for Women in Politics, Dies at 57
     
-    The company lost $4.7 billion in the latest quarter, but also
-    reported that Disney+ has about 60.5 million subscribers after nine
-    months of operation.
+    A backstage fixture at Democratic conventions, she helped speakers
+    work with the teleprompter, read the audience and sharpen their
+    message.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Brooks
-    Barnes</span>
+    By <span class="css-1n7hynb">Katharine Q.
+    Seelye</span>
     
     </div>
     
@@ -221,24 +225,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/media/mcclatchy-newspapers-bankrutpcy-chatham.html)
+    [](/2020/08/20/us/politics/qanon-trump-republicans.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04Mcclatchy-01/merlin_174636087_f90cc924-bf21-4019-bd5a-e6d1c79dbab5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/us/politics/21QAnon-Republicans-p1/merlin_160635537_2e915832-099a-465b-9834-1d3f80110875-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## McClatchy, Family-Run News Chain, Goes to Hedge Fund in Bankruptcy Sale
+    ## The Republican Embrace of QAnon Goes Far Beyond Trump
     
-    A federal judge signed off on a $312 million deal for the
-    prestigious newspaper company to Chatham Asset Management at a
-    hearing Tuesday.
+    As the president all but endorses the internet-driven conspiracy
+    theory, it is shifting from the fringes of the internet to become an
+    offline political movement.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Marc
-    Tracy</span>
+    By <span class="css-1n7hynb">Matthew Rosenberg <span>and</span>
+    Maggie
+    Haberman</span>
     
     </div>
     
@@ -256,25 +261,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/realestate/harris-faulkner-home-fox-news.html)
+    [](/2020/08/20/business/media/unhinged-russell-crowe-theaters.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/realestate/04WHATILOVE-FAULKNER-slide-S4NT/04WHATILOVE-FAULKNER-slide-S4NT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20Virus-Unhinged1-print/20Virus-Unhinged-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">What I Love</span>
+    ## Will Americans Return to Theaters for Russell Crowe?
     
-    ## Harris Faulkner, Working From Home in Shades of Blue
-    
-    The Fox News anchor’s mother gave her some decorating advice: ‘Just
-    make it beautiful.’ And she’s been trying.
+    The producer Mark Gill was already following a contrarian’s path
+    before he decided to put “Unhinged” in nearly 2,000 theaters during
+    a pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Joanne
-    Kaufman</span>
+    By <span class="css-1n7hynb">Nicole
+    Sperling</span>
     
     </div>
     
@@ -292,23 +296,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/ftc-twitter-privacy-violations.html)
+    [](/2020/08/20/business/media/mgm-orion-pictures-alana-mayo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03twitter/03twitter-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/18mgm-print/18mgm-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## F.T.C. Investigating Twitter for Potential Privacy Violations
+    ## Pledging to Tell More Inclusive Stories, MGM Remakes Orion Pictures
     
-    The social media company said the agency was examining whether it
-    had misused people’s personal information to serve ads.
+    The 36-year-old producer Alana Mayo will lead the division, which
+    will release two or three films a year and focus exclusively on
+    underrepresented filmmakers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kate
-    Conger</span>
+    By <span class="css-1n7hynb">Brooks
+    Barnes</span>
     
     </div>
     
@@ -326,24 +331,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    [](/2020/08/20/business/media/all-rise-cbs-writers.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00Unrest-CBS-AllRise-spottiswood/00Unrest-CBS-AllRise-spottiswood-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    ## Writers Mutiny at ‘All Rise,’ the Rare CBS Show With a Black Female Lead
     
-    The president said he did not object to a potential acquisition of
-    the Chinese-owned app, retreating from comments about banning the
-    service.
+    Five have left the drama, whose white show runner, Greg Spottiswood,
+    had disputes with the staff over its depictions of race and gender.
+    He kept his job after reviews by human resources.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
-    Isaac</span>
+    By <span class="css-1n7hynb">Nicole
+    Sperling</span>
     
     </div>
     
@@ -361,26 +366,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/arts/music/taylor-swift-folklore-billboard-chart.html)
+    [](/2020/08/19/business/media/advertising-tech-amazon-apple-facebook-google.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03billboard/merlin_174914121_84ca7e86-3eb8-4314-955b-d70f898c4501-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/18Tech-Ads-sub/merlin_175082535_682f8fa3-b882-4e14-b91a-11f10e6568ca-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The Charts</span>
+    ## Can This Relationship Be Saved? Big Tech and Big Advertisers Talk It Over.
     
-    ## Taylor Swift’s ‘Folklore’ Is No. 1 With a Blockbuster Debut Week
-    
-    The singer and songwriter’s surprise album had the equivalent of
-    846,000 sales in the United States, a total beaten only by her own
-    last two LPs.
+    After last month’s Facebook boycott, companies are demanding more
+    control over how their ads appear online. And the tech companies
+    seem to be listening.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Sisario</span>
+    By <span class="css-1n7hynb">Tiffany
+    Hsu</span>
     
     </div>
     
@@ -398,24 +401,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/books/midnight-sun-stephenie-meyer-twilight.html)
+    [](/2020/08/19/technology/facebook-qanon-groups-takedown.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/books/03Meyer/03Meyer-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19facebookqanon/19facebookqanon-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Stephenie Meyer Is Telling Edward’s Story, Even if It Makes Her Anxious
+    ## Facebook Removes 790 QAnon Groups to Fight Conspiracy Theory
     
-    The best-selling author talks about her latest book, “Midnight Sun,”
-    which retells “Twilight” from the vampire’s perspective. Why now?
-    “Because I finished it,” she says.
+    The social network also said it was restricting another 1,950
+    groups, 440 pages on Facebook and more than 10,000 accounts on
+    Instagram related to the conspiracy group.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Concepción de
-    León</span>
+    By <span class="css-1n7hynb">Sheera
+    Frenkel</span>
     
     </div>
     
@@ -433,31 +436,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/technology/florida-teenager-twitter-hack.html)
+    [](/2020/08/19/technology/trump-oracle-tiktok.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02twitterteen-clark-copy/02twitterteen-clark-copy-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19oracle/merlin_160921458_eb7c3ab9-ca4c-41fc-9f76-2931ed63e629-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## From Minecraft Tricks to Twitter Hack: A Florida Teen’s Troubled Online Path
+    ## Trump Says Oracle Could ‘Handle’ Owning TikTok
     
-    The teenage “mastermind” of the recent Twitter breach, who had a
-    difficult family life, poured his energy into video games and
-    cryptocurrency.
+    President Trump, who has been pushing for a sale of the
+    Chinese-owned video app, did not say whether Oracle would be a
+    better buyer than Microsoft.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Nathaniel Popper, Kate Conger
-    <span>and</span> Kellen Browning</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [Leer en
-    español](https://www.nytimes3xbfgragh.onion/es/2020/08/04/espanol/negocios/joven-florida-hacker-twitter.html "Read in Spanish")
+    By <span class="css-1n7hynb">David
+    McCabe</span>
     
     </div>
     
@@ -475,25 +471,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/media/election-coverage.html)
+    [](/2020/08/19/technology/apple-2-trillion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03bensmith/03bensmith-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/apple-mkt-cap-promo-1596767397262/apple-mkt-cap-promo-1596767397262-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">The media equation</span>
+    ## Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip
     
-    ## How the Media Could Get the Election Story Wrong
-    
-    We may not know the results for days, and maybe weeks. So it’s time
-    to rethink “election night.”
+    Apple is the first U.S. company to hit that value, a staggering
+    ascent that began in the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ben
-    Smith</span>
+    By <span class="css-1n7hynb">Jack
+    Nicas</span>
     
     </div>
     
@@ -511,23 +505,22 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/media/coronavirus-nordstrom-infuencers.html)
+    [](/2020/08/18/business/media/democratic-convention-ratings-michelle-obama.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/02virus-influencers-1/02virus-influencers-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/18DNC-RATINGS-01/merlin_175837101_c849227b-e417-488e-89c3-c0b8bff0d545-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Nordstrom Uses Influencers to Promote Safety and Draw Anxious Shoppers
+    ## TV Audiences Dip for First Night of Democrats’ Virtual Convention
     
-    Some retailers are turning to popular social media personalities to
-    detail post-pandemic protocols and boost the allure of visiting
-    their stores.
+    Nielsen ratings were down from 2016, though younger viewers watched
+    online and MSNBC nearly doubled its usual audience.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sapna Maheshwari</span>
+    By <span class="css-1n7hynb">Michael M. Grynbaum</span>
     
     </div>
     

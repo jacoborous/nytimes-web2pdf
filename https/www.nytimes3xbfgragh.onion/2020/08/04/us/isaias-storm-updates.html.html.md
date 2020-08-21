@@ -132,7 +132,7 @@ Storm</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -252,10 +252,11 @@ Aug. 4,
 
 </div>
 
-![<span class="css-16f3y1r e13ogyst0">Isaias, now a tropical storm, made
-landfall as a hurricane in North Carolina and is causing widespread
-power outages as it cuts a path
-north.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Matt
+![<span class="css-16f3y1r e13ogyst0">Isaias, which has now reached
+Canada, made landfall as a hurricane in North Carolina and unleashed
+heavy rains and strong winds as it swept through the Carolinas and into
+the
+Northeast.</span><span class="css-cch8ym"><span class="css-1dv1kvn">Credit</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Matt
 Slocum/Associated
 Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/4hpstorm1/4hpstorm1-videoSixteenByNine3000-v2.jpg)
 
@@ -267,13 +268,15 @@ Press</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/
 
 Isaias pounded a large swath of the Atlantic Coast on Tuesday,
 unleashing heavy rains and winds as fast as 70 miles per hour as it
-swept through the Carolinas and into the Northeast.
+swept through the Carolinas and into the
+Northeast.
 
-Isaias, which made landfall in North Carolina as a Category 1 hurricane
-and quickly weakened to a tropical storm, left a trail of floods, fires
-and hundreds of thousands of people without electricity. Some of the
-storm’s most devastating effects were wrought by a series of tornadoes
-that it spawned across its path.
+[Isaias](https://www.nytimes3xbfgragh.onion/2020/08/05/nyregion/isaias-hurricane-storm-damage-ny-nj.html),
+which made landfall in North Carolina as a Category 1 hurricane and
+quickly weakened to a tropical storm, left a trail of floods, fires and
+hundreds of thousands of people without electricity. Some of the storm’s
+most devastating effects were wrought by a series of tornadoes that it
+spawned across its path.
 
 The authorities said at least four people had died in the storm,
 including two people who were killed when a tornado struck a
@@ -385,40 +388,6 @@ hard.”
 <div id="styln-election-promo" class="section interactive-content interactive-size-medium css-1ftcdic">
 
 <div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block" data-asset-id="">
-
-<div class="briefing-block-header-section">
-
-# [Live Updates: Isaias](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-<div class="briefing-block-ts">
-
-Updated 2020-08-05T03:55:25.341Z
-
-</div>
-
-</div>
-
-  - [Isaias brought winds and rain to much of the East
-    Coast.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-38d68049)
-  - [At least two people were killed by a tornado in North
-    Carolina.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7961bdbc)
-  - [The storm knocked out power over wide
-    areas.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3480f4a1)
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
 
 </div>
 

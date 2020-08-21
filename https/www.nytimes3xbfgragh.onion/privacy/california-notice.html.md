@@ -2,13 +2,17 @@
 
 <div class="App">
 
-<div class="css-kq8yt" data-role="dialog" data-aria-modal="false">
+<div data-aria-labelledby="dialog_title" data-aria-modal="false" data-role="dialog">
 
-<div class="css-tpyegx">
+[Skip to Content](#main-content)
 
-<div class="css-17vh6q6">
+<div class="css-2gf49r">
 
-The Times and your Data
+<div class="css-17x11ek">
+
+The New York Times
+
+<span class="css-1n2foyj">The Times and your Data</span>
 
 </div>
 
@@ -65,7 +69,7 @@ The Times and Your Data
 
 <div class="css-8iixnv">
 
-<div class="css-ducv57">
+<div id="main-content" class="css-ducv57">
 
 # New York Times Privacy Company Notice for California Residents
 
@@ -246,9 +250,9 @@ exercise of any of your rights.
 
 </div>
 
-<div id="footer" class="Footer" data-aria-hidden="false">
-
 <div class="css-17lhb6j">
+
+The New York Times
 
 ©<span class="current-year">2020</span> The New York Times Company
 
@@ -263,8 +267,6 @@ Policy](/privacy/privacy-policy)[Cookie
 Policy](/privacy/cookie-policy)[California
 Notice](/privacy/california-notice)[Terms of
 Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
-
-</div>
 
 </div>
 
