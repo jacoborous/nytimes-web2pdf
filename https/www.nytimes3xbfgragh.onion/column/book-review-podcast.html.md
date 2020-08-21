@@ -69,6 +69,10 @@ Podcast](https://www.nytimes3xbfgragh.onion/column/book-review-podcast)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -192,6 +196,70 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/14/books/review/podcast-a-o-scott-edward-p-jones-eric-jay-dolin-furious-sky-hurricanes.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/Scott_Americans_Jones--Hagar/Scott_Americans_Jones--Hagar-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The Fictional World of Edward P. Jones
+    
+    A.O. Scott talks about Jones’s work and the American experience, and
+    Eric Jay Dolin discusses “A Furious
+    Sky.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Isabel Wilkerson Talks About ‘Caste’
+    
+    Wilkerson describes the ideas about race in America that fuel her
+    new book, and David Hill discusses “The
+    Vapors.”
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/books/review/podcast-twilight-democracy-anne-applebaum-eat-buddha-barbara-demick.html)
     
     <div class="css-79elbk">
@@ -218,7 +286,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -250,7 +318,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -282,7 +350,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -314,7 +382,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -346,7 +414,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -378,7 +446,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -410,7 +478,7 @@ story](#after-sponsor)
     
     </div>
 
-8.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -427,72 +495,7 @@ story](#after-sponsor)
     ## Stephen Fry on Reimagining the Greek Myths
     
     Fry discusses “Heroes,” and Lauren Christensen and Andrew LaVallee
-    talk about books on the subject of race and
-    racism.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/05/books/review/podcast-a-o-scott-wallace-stegner-sunny-days-david-kamp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/07/books/review/05pod-art/00Scott_Americans_Stegner3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A.O. Scott on the Work of Wallace Stegner
-    
-    Scott discusses his first in a series of essays about American
-    writers, and David Kamp talks about “Sunny Days: The Children’s
-    Television Revolution That Changed
-    America.”
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/29/books/review/podcast-enemy-of-all-mankind-piracy-steven-johnson-stephen-king-gilbert-cruz.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/books/29podcast-cover/29podcast-cover-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## A Manhunt on the 17th Century’s High Seas
-    
-    Steven Johnson talks about “Enemy of All Mankind,” and Gilbert Cruz
-    offers a guide to Stephen King’s work.
+    talk about books on the subject of race and racism.
     
     <div class="css-1nqbnmb ea5icrr0">
     

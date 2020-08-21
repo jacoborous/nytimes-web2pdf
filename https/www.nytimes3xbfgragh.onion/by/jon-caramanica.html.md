@@ -168,6 +168,219 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/19/arts/music/albums-price.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/arts/23music-value3/23music-value3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    
+    ## How Much Is an Album Worth in 2020: $3.49? $77? $1,000? Maybe $0
+    
+    It depends who’s selling. As some artists release records that feel
+    like footnotes to bigger businesses, others double down on their
+    value.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon
+    Caramanica</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/14/arts/music/playlist-drake-miley-cyrus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/arts/14playlist/17playlist-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Playlist</span>
+    
+    ## Drake’s GIF-a-Thon, and 9 More New Songs
+    
+    Hear tracks by Miley Cyrus, Loyal Lobos, Rico Nasty and others.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
+    <span>and</span> Lindsay
+    Zoladz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/13/movies/martin-margiela-in-his-own-words-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/arts/13MARTINMARGIELA-1/merlin_175433994_ffb52842-8580-42a3-bee2-a1e9a1824e1b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Martin Margiela: In His Own Words’ Review: A Visionary’s Handiwork
+    
+    A rather conventional documentary about a fashion designer whose
+    creations were anything but.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon
+    Caramanica</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/arts/music/holly-humberstone-falling-asleep-at-the-wheel.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/05/arts/05HUMBERSTONE1/05HUMBERSTONE1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Holly Humberstone Wants Her Songs to Last a Lifetime
+    
+    The young British singer, who writes conversationally intimate pop
+    music, is about to release her debut EP.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon
+    Caramanica</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/arts/music/playlist-cardi-b-megan-thee-stallion.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/arts/07playlist/07playlist-thumbWide.png?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The Playlist</span>
+    
+    ## Cardi B and Megan Thee Stallion Take Control, and 10 More New Songs
+    
+    Hear tracks by Jamila Woods, Chika, beabadoobee and others.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica, Giovanni
+    Russonello <span>and</span> Lindsay
+    Zoladz</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/05/arts/music/powfu-poems-of-the-past-review.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/arts/05powfu-review2/05powfu-review2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Critic’s Pick</span>
+    
+    ## The Universal Loneliness of Powfu
+    
+    On his major label debut EP, the 21-year-old musician from Vancouver
+    follows in the footsteps of lovelorn emo singers and rappers.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Jon
+    Caramanica</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/arts/larry-scott-tiktok-larryakumpo.html)
     
     <div class="css-79elbk">
@@ -198,7 +411,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -234,7 +447,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -271,7 +484,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -291,222 +504,6 @@ story](#after-mid1)
     
     Hear tracks by J. Cole, the Avalanches, Courtney Marie Andrews and
     others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/arts/music/playlist-drake-dj-khaled-mariah-carey.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/arts/17playlist/17playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Drake Clears His Throat With DJ Khaled, and 10 More New Songs
-    
-    Hear tracks by Mariah Carey, Tiwa Savage, Shamir and others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/15/arts/music/country-music-race.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/15/arts/15countrynotebook1/15countrynotebook1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## Country Music Struggles to Meet the Moment. Again.
-    
-    The larger music industry has vowed to examine racism and bias. In
-    Nashville, only the genre’s outsiders are dipping their toes in
-    essential conversations.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon
-    Caramanica</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/03/arts/music/playlist-kanye-west-ty-dolla-sign-blackpink.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/07/arts/07a2_audio/merlin_167390100_7a42edc6-1cb3-4dce-9ad9-073d833764c9-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Kanye West Dips a Toe in the Moment, and 10 More New Songs
-    
-    Hear tracks by Blackpink, Jorja Smith, Washed Out and others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/arts/music/playlist-beyonce-prince.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/30/arts/26playlist/26playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Beyoncé’s Surprise Juneteenth Anthem, and 12 More New Songs
-    
-    Hear tracks by Prince, the Chicks, Sun Ra Arkestra and others.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon Pareles, Jon Caramanica
-    <span>and</span> Giovanni
-    Russonello</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/25/arts/music/pop-smoke.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/28/arts/28PopSmoke8/28PopSmoke8-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Last Days of Pop Smoke
-    
-    The Brooklyn rapper was on the verge of an international
-    breakthrough when he was killed in February. Here is the story of
-    his whirlwind final months, told by those who knew him best.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jon
-    Caramanica</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/19/arts/music/playlist-noname-aretha-franklin-saweetie.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/19/arts/19playlist/19playlist-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">The Playlist</span>
-    
-    ## Aretha Franklin’s Unstoppable Faith, and 9 More New Songs
-    
-    Hear tracks by Noname, Anderson .Paak, H.E.R. and others.
     
     <div class="css-1nqbnmb ea5icrr0">
     

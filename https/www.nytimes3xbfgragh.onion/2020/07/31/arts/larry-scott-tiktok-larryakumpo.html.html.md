@@ -131,7 +131,7 @@ TikTok</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 

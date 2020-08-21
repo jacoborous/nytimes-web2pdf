@@ -69,6 +69,10 @@ Design](https://www.nytimes3xbfgragh.onion/section/arts/design)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -157,74 +161,79 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Leo
-    Villareal and Illuminate; James
-    Ewing</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Robert
+    W. Kelley/The LIFE Picture Collection, via Getty Images; DeSean
+    McClinton-Holland for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19kimmelman-harlem-promo/19kimmelman-harlem-promo-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04SUPERBLUE3/merlin_175177776_3b59712b-3803-4023-ad60-0eef78280def-thumbStandard.jpg)](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19kimmelman-harlem-promo/19kimmelman-harlem-promo-thumbStandard.jpg)](/2020/08/20/arts/design/harlem-virtual-tour.html)
     
     </div>
     
-    ## [Will Superblue Be the ‘Infinity Room’ Writ Large?](/2020/08/04/arts/superblue-immersive-art-pace-jobs.html)
+    ### Critic’s notebook
     
-    Art objects are a bore. People want multisensory “experiences,” the
-    more immersive the better. With JR, James Turrell, teamLab and more,
-    a new business venture funded by Marc Glimcher and Laurene Powell
-    Jobs hopes to
-    deliver.
+    ## [A Walk Through Harlem, New York’s Most Storied Neighborhood](/2020/08/20/arts/design/harlem-virtual-tour.html)
+    
+    Our critic chats with the architect David Adjaye about Hotel
+    Theresa, Marcus Garvey Park, the home of Langston Hughes, the
+    Y.M.C.A. and other
+    landmarks.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Frank
-    Rose</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Michael
+    Kimmelman</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>-</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04pulldown3/04pulldown3-jumbo.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>People
+    Dem
+    Collective</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20black-british1/20black-british1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/arts/04pulldown3/04pulldown3-thumbStandard.jpg)](/2020/08/04/arts/design/seattle-childrens-museum.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20black-british1/20black-british1-thumbStandard.jpg)](/2020/08/20/arts/design/black-artists-turner-contemporary-gallery.html)
     
     </div>
     
-    ## [Turmoil After a Museum Deletes ‘Black Lives Matter’ From Postings](/2020/08/04/arts/design/seattle-childrens-museum.html)
+    ## [Black Artists Look Beyond ‘Protest Art’ at British Shows](/2020/08/20/arts/design/black-artists-turner-contemporary-gallery.html)
     
-    The director of the Seattle Children’s Museum faced a strike and an
-    internal inquiry after she edited staff postings, citing
-    fund-raising and other
-    concerns.
+    The Turner Contemporary Gallery hosts an exhibit exploring the U.S.
+    civil rights movement, as well as two installations from
+    contemporary Black British artists who find inspiration in the local
+    community.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julia
-    Jacobs</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julianne
+    McShane</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bettmann/Getty
-        Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-videoLarge-v2.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+        Llorente for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20DIA-REVIEWalt1/20DIA-REVIEWalt1-videoLarge-v3.jpg)
         
         <div class="css-10wtrbd">
         
-        ### Critic’s Notebook
+        ### Critic’s Pick
         
-        ## [The 1964 Olympics Certified a New Japan, in Steel and on the Screen](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
+        ## [Dia Beacon Reopens With a Sonic Boom](/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30olympics-notebook15/30olympics-notebook15-thumbStandard-v2.jpg)](/2020/07/30/arts/design/tokyo-olympics-1964-design.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20DIA-REVIEWalt1/20DIA-REVIEWalt1-thumbStandard-v2.jpg)](/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
         
         </div>
         
-        The world’s elite athletes would have been in Tokyo right now if
-        not for the coronavirus pandemic. When they went half a century
-        ago, they discovered a capital transformed by
-        design.
+        The D.J. Carl Craig’s basement “club” shows the affinity between
+        minimal art and techno music. It’s an after-party for the Covid
+        age, minus the
+        sweat.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
         <span class="css-1baulvz last-byline" itemprop="name">Jason
@@ -232,28 +241,28 @@ story](#after-sponsor)
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Kerry
-        James Marshall and David
-        Zwirner</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Caroline
+        Tompkins for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/arts/23CREWDSON1/23CREWDSON1-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [Kerry James Marshall’s Black Birds Take Flight in a New Series](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+        ## [For Gregory Crewdson, Truth Lurks in the Landscape](/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30kerryjames-audobon7/30kerryjames-audobon7-thumbStandard.jpg)](/2020/07/29/arts/design/kerry-james-marshall-audubon.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/arts/23CREWDSON1/23CREWDSON1-thumbStandard.jpg)](/2020/08/20/arts/design/gregory-crewdson-berkshires-photography.html)
         
         </div>
         
-        Inspired by John James Audubon, the painter explores the
-        societal “pecking order” in two works that dovetail with “this
-        mystery about whether or not Audubon himself was
-        Black.”
+        As the artist shot his cinematically constructed images in the
+        Berkshires, he was afflicted by mysterious maladies. “I felt my
+        body betrayed me,” he
+        said.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Ted
-        Loos</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Arthur
+        Lubow</span></span>
         
         </div>
 
@@ -263,93 +272,102 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dylan
-    Martinez/Reuters</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/03sothebys-item1/03sothebys-item1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>David
+    Dee Delgado/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/arts/18salaries/18salaries-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Sotheby’s Reports $2.5 Billion in Sales](/2020/08/03/arts/design/sothebys-sales.html)
+    ## [Museum Boss Salaries: Reduced but Still an Issue Amid Wider Cutbacks](/2020/08/18/arts/design/museum-leader-salaries-pay-disparity.html)
     
-    The auction house says that figure reflects a “resilient” market
-    amid the coronavirus. But it represents a 25 percent decrease in
-    auction sales, analysts
-    say.
+    The compensation packages of museum directors are drawing scrutiny
+    as their institutions try to fill budget holes with cutbacks that
+    have included layoffs and furloughs of lesser-paid
+    staffers.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Scott
-    Reyburn</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Robin
+    Pogrebin</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Piotr
-    Redlinski for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/31hagia-1/31hagia-1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Library
+    of
+    Congress</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/arts/20milholland-suffragist2/20milholland-suffragist2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [How a Historian Stuffed Hagia Sophia’s Sound Into a Studio](/2020/07/30/arts/music/hagia-sophia-acoustics-music.html)
+    ## [She Was More Than Just the ‘Most Beautiful Suffragist’](/2020/08/19/arts/design/inez-milholland-suffragist.html)
     
-    Bissera Pentcheva used virtual acoustics to bring Istanbul to
-    California and reconstruct the sonic world of Byzantine cathedral
-    music.
+    Exalted as a martyr to the cause of women’s suffrage, Inez
+    Milholland later fell largely from view. But Jeanine Michna-Bales, a
+    history-obsessed artist, is determined to change
+    that.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Corinna da
-    Fonseca-Wollheim</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Meredith
+    Mendelsohn</span></span>
     
     </div>
 
-3.  ### Surfacing
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31surfacing-virus-souvenirs3-13/31surfacing-virus-souvenirs3-13-videoLarge.png)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Lisa
+    Alvarado and Bridget Donahue, NYC; Gregory
+    Carideo</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19galleries1/merlin_175384530_679bcb77-3ad3-4ce0-b8fe-f73c630b82db-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Strange Lives of Objects in the Coronavirus Era](/2020/08/01/arts/design/virus-design-objects.html)
+    ## [3 Art Gallery Shows to See Right Now](/2020/08/19/arts/design/3-art-gallery-shows-to-see-right-now.html)
     
-    The pandemic has inspired a flurry of new and novel items — and
-    given ordinary ones new
-    meanings.
+    Galleries and museums are getting creative about presenting work
+    online during the pandemic. Some are open for in-person visits. Here
+    are shows worth viewing either
+    way.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Sophie Haigney</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Peter
-    Arkle</span></span>
+    <span class="css-1baulvz" itemprop="name">Jillian Steinhauer</span>,
+    <span class="css-1baulvz" itemprop="name">Will Heinrich</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">Martha
+    Schwendener</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ben
-    Serar</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/29doylelane14/29doylelane14-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Susan
+    Wright for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/realestate/18Raphael1/18Raphael1-videoLarge-v4.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Adding a New Name to the Canon in Clay: Doyle Lane](/2020/07/29/arts/design/doyle-lane-ceramics.html)
+    ## [In the Virtual (and Actual) Footsteps of Raphael](/2020/08/18/travel/in-the-virtual-and-actual-footsteps-of-raphael.html)
     
-    The underrecognized Black ceramist made tiny “weed pots” in the
-    1960s and ’70s that are seen today on a fresh
-    pedestal.
+    In Italy and beyond, the plan was to celebrate the 500th anniversary
+    of the Renaissance artist’s death with great fanfare. Then came the
+    pandemic, and the virtual world stepped
+    in.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jonathan
-    Griffin</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Laskin</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hana
-    Miletic/Home
-    Cooking</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29instagram-art1/29instagram-art1-videoLarge.jpg)
+5.  ### Critic’s Notebook
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sanjay
+    Suchak for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/arts/13uva-gibbons-promo-charlottesvilleq-copy/13uva-gibbons-promo-charlottesvilleq-copy-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Five Art Accounts to Follow on Instagram Now](/2020/07/29/arts/design/art-accounts-to-follow-instagram.html)
+    ## [Turning Grief for a Hidden Past Into a Healing Space](/2020/08/16/arts/design/university-of-virginia-enslaved-laborers-memorial.html)
     
-    Our critic shares accounts that make her feel, think and see in new
-    ways — something that feels especially vital right
-    now.
+    The University of Virginia in Charlottesville, designed by Thomas
+    Jefferson, was built by enslaved people. The Memorial to Enslaved
+    Laborers acknowledges that long-suppressed
+    history.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jillian
-    Steinhauer</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Holland
+    Cotter</span></span>
     
     </div>
 
@@ -409,23 +427,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/style/self-care/press-on-nails.html)
+    [](/2020/08/21/arts/drawing-flower-meditation.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/fashion/04PRESSONNAILS3/merlin_175247889_e509bacb-806f-4895-b166-3e77f82a0e0d-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/arts/23DiaryProject-Fake/23DiaryProject-Fake-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Clickety Clack, Press-On Nails Are Back
+    ## A Drawing Exercise to Help See a Beautiful Way Forward
     
-    The onetime ’80s mass-market cheapie has gotten an artisanal upgrade
-    — just in time for quarantine home manicures.
+    Keep thinking. Keep feeling.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Jackie
-    Snow</span>
+    By <span class="css-1n7hynb">Edie
+    Fake</span>
     
     </div>
     
@@ -443,25 +460,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/arts/music/beyonce-black-is-king.html)
+    [](/2020/08/20/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/arts/31beyonce7/31beyonce7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20wkd-arts-roundup-comedy/merlin_175886961_dc53b754-7b1d-428f-b5ab-bbc90b417771-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Beyoncé’s ‘Black Is King’: Let’s Discuss
+    ### <span class="css-m70j1g">Weekend Roundup</span>
     
-    Six critics on the visual album rooted in her “Lion King”-inspired
-    record “The Gift,” a grand statement of African-diaspora pride and
-    creative power.
+    ## 7 Things to Do This Weekend
+    
+    How can you get your cultural fix when many arts institutions remain
+    closed? Our writers offer suggestions for what to listen to, read
+    and
+    watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Jason Farago, Vanessa Friedman, Gia
-    Kourlas, Wesley Morris, Jon Pareles <span>and</span> Salamishah
-    Tillet</span>
     
     </div>
     
@@ -479,23 +495,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/arts/design/heather-phillipson-fourth-plinth.html)
+    [](/2020/08/19/arts/design/brooklyn-museum-el-museo-del-barrio-reopening.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/31phillipson1/31phillipson1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19museums-reopening/merlin_158608158_8c0b0b76-b3ef-44d6-b279-327d659aee7b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## An Artist Having Fun While Waiting for Catastrophe
+    ## Two Museums Announce September Reopenings
     
-    Heather Phillipson’s works make viewers smile, but underneath their
-    bright, over-the-top exteriors are dark, urgent messages.
+    The Brooklyn Museum and El Museo del Barrio will reopen to the
+    public on Sept. 12.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alex
-    Marshall</span>
+    By <span class="css-1n7hynb">Sarah
+    Bahr</span>
     
     </div>
     
@@ -513,25 +529,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/science/alexandrian-glass-rome.html)
+    [](/2020/08/17/arts/design/guggenheim-diversity-plan-racism.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/science/30TB-GLASS/30TB-GLASS-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/arts/17guggenheim-plan2/merlin_158074458_0f5b175e-de5f-4825-81c4-0b3b9ebea024-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Trilobites</span>
+    ## Guggenheim Approves Diversity Plan After Staff Complaints of Racism
     
-    ## The Romans Called it ‘Alexandrian Glass.’ Where Was It Really From?
-    
-    Trace quantities of isotopes hint at the true origin of a kind of
-    glass that was highly prized in the Roman Empire.
+    An expansive effort comes as the museum faces a deficit of $15
+    million.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine
-    Kornei</span>
+    By <span class="css-1n7hynb">Zachary
+    Small</span>
     
     </div>
     
@@ -549,23 +563,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/design/american-museum-of-natural-history-reopen-covid.html)
+    [](/2020/08/14/arts/design/nyc-museums-reopening-covid-19.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/arts/30amnh-item/merlin_160099131_78da8533-6717-4533-838c-d3d0823968d7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/arts/14museums-reopening-2/merlin_170735367_86ebb919-8e52-4cba-8b39-8f16c5bfb52b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## American Museum of Natural History Announces September Reopening
+    ## Museums and Other New York Cultural Institutions Can Open Aug. 24
     
-    The museum said it is planning to reopen on Sept. 9, pending
-    permission from state and city officials.
+    Gov. Andrew M. Cuomo said that museums would be allowed to open at
+    25 percent capacity and with timed ticketing in place.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sarah
-    Bahr</span>
+    By <span class="css-1n7hynb">Julia
+    Jacobs</span>
     
     </div>
     
@@ -583,23 +597,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/things-to-do-weekend-coronavirus.html)
+    [](/2020/08/14/arts/design/sanford-biggers-quilt-bronx-museum.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30wkd-arts-roundup-pop/30wkd-arts-roundup-pop-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/arts/16BIGGERS-main/16BIGGERS-main-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Weekend Roundup</span>
+    ### <span class="css-m70j1g">Studio Visit</span>
     
-    ## 7 Things to Do This Weekend
+    ## Cracking Codes With Sanford Biggers
     
-    How can you get your cultural fix when many arts institutions remain
-    closed? Our writers offer suggestions for what to listen to and
-    watch.
+    “You don’t have to follow the norms,” says this artist who makes
+    wrenching sculptures transformed by gunfire and radically altered
+    heirloom quilts. A studio visit sheds light on his personal journey.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Siddhartha
+    Mitter</span>
     
     </div>
     
@@ -617,24 +634,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/design/picasso-fishermen-mural-norway.html)
+    [](/2020/08/14/arts/magic-prison.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/01/arts/30oslo-murals4/merlin_175103559_7903ded4-3ee3-483c-bb9c-1d23e48686ed-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/arts/07surfacing-magic-cards4/07surfacing-magic-cards4-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Picasso Mural Torn From Building After Years of Dispute
+    ## In Prison, Learning Magic by Mail
     
-    To the outrage of preservationists and art-world figures, the work
-    was removed into storage on Thursday from the side of government
-    offices facing demolition in Oslo.
+    A deck of cards cut from milk cartons. A wand made with medical
+    tape. How a group of inmates learned “the magic of magic.”
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Rogers</span>
+    By <span class="css-1n7hynb">Annalisa Quinn <span>and</span> Vincent
+    Tullo</span>
     
     </div>
     
@@ -652,27 +668,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/arts/design/virtual-art-gallery-shows.html)
+    [](/2020/08/13/arts/design/nyc-galleries-art-shows.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29virtual-galleries-lead/merlin_174905502_0dcea2b2-ee85-4661-ae03-07d1eba099ba-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/arts/12gallery-notebook1/12gallery-notebook1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Art Reviews</span>
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
     
-    ## Three Art Gallery Shows to See Right Now
+    ## A Bouquet of Group Art Shows Near Houston Street
     
-    Galleries and museums are getting creative about presenting work
-    online during the pandemic. Some are open for in-person visits. Here
-    are shows worth viewing either way.
+    These expansive exhibitions, in galleries on or near the Lower East
+    Side, create an immersive sense of art and the reawakening art
+    scene.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Roberta Smith, Jillian Steinhauer
-    <span>and</span> Martha
-    Schwendener</span>
+    By <span class="css-1n7hynb">Roberta
+    Smith</span>
     
     </div>
     
@@ -690,23 +705,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/national-endowment-for-the-humanities-grants.html)
+    [](/2020/08/13/arts/design/september-11-memorial-light-canceled-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29neh-item/merlin_82731944_216fa980-c985-415e-9558-8f7564abdc3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/arts/13memorial-item/merlin_143622930_40225c35-5172-439d-9b0d-aa62bbeec828-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## National Endowment for the Humanities Announces New Grants
+    ## 9/11 Light Tribute to Take Different Shape
     
-    This round of funding, the final for the fiscal year, totals $30
-    million and will support 238 projects.
+    The twin columns will not be projected into the sky this year
+    because of coronavirus concerns for the workers who put it together.
+    But other buildings may shine blue.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lauren
-    Messman</span>
+    By <span class="css-1n7hynb">Colin
+    Moynihan</span>
     
     </div>
     
@@ -724,23 +740,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/arts/design/senate-report-art-market-russia-oligarchs-sanctions.html)
+    [](/2020/08/13/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/arts/29senateart1/merlin_170681682_ba7f8999-e872-4eaf-bc7b-b1553b6f9059-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/arts/13wkd-arts-roundup-art/13wkd-arts-roundup-art-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Senate Report: Opaque Art Market Helped Oligarchs Evade Sanctions
+    ### <span class="css-m70j1g">Weekend roundup</span>
     
-    Congressional investigators said companies tied to two Russians
-    under sanctions were able to buy art using shell companies and an
-    intermediary.
+    ## 9 Things to Do This Weekend
+    
+    How can you get your cultural fix when many arts institutions remain
+    closed? Our writers offer suggestions for what to listen to and
+    watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Graham Bowley</span>
     
     </div>
     

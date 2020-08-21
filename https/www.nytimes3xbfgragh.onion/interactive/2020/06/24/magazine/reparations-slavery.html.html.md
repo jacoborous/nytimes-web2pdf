@@ -102,7 +102,7 @@ Hannah-Jones</span>](https://www.nytimes3xbfgragh.onion/by/nikole-hannah-jones)J
     
     </div>
 
-  - *<span class="css-1dtr3u3">1159</span>*
+  - *<span class="css-1dtr3u3">1158</span>*
 
 </div>
 
@@ -1683,7 +1683,7 @@ fellow.
 
 <div class="css-1oeie6n">
 
-Read 1159
+Read 1158
 Comments
 
 </div>

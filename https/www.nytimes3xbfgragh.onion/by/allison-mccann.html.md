@@ -176,13 +176,13 @@ story](#after-mid1)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/us/beirut-explosion-damage-promo-1596586440536/beirut-explosion-damage-promo-1596586440536-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Mapping the Damage From the Beirut Explosions
+    ## Mapping the Damage From the Beirut Explosion
     
-    Damage was seen at least two miles from the explosions, encompassing
+    Damage was seen at least two miles from the explosion, encompassing
     an area with more than 750,000 residents.
     
     <div class="css-1nqbnmb ea5icrr0">

@@ -131,35 +131,21 @@ Say</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05d9e0f0-e3a7-11ea-a0fd-ad25549458e4)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [What School May Look
-    Like](https://www.nytimes3xbfgragh.onion/interactive/2020/07/29/us/schools-reopening-coronavirus.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05d9e0f1-e3a7-11ea-a0fd-ad25549458e4)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05da0800-e3a7-11ea-a0fd-ad25549458e4)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05da0801-e3a7-11ea-a0fd-ad25549458e4)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05da0802-e3a7-11ea-a0fd-ad25549458e4)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=05da0803-e3a7-11ea-a0fd-ad25549458e4)</span>
 
 </div>
 
@@ -405,41 +391,42 @@ home.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzhiMjRmNTQ0LWVhMmUtNTlmNC1hMDZiLTM0YWI3YTlmN2E4YQ==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVlZmEyNmIwLWIwYjYtNTdiMC05OWRjLWUwZWIwZmI0NGJlZg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-01T19:54:00.494Z
+Updated 2020-08-21T11:05:09.310Z
 
 </div>
 
 </div>
 
-  - [Top officials work to break impasse over jobless
-    benefit.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3ac56579)
-  - [The virus picks up dangerous speed in the Midwest, and in areas
-    that had seen
-    success.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-8796723)
-  - [Thousands in Berlin protest Germany’s coronavirus
-    measures.](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-25930521)
+  - [Shutdowns, warnings and scoldings follow gatherings on college
+    campuses.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4690b6aa)
+  - [As he accepts the Democratic nomination, Biden knocks Trump’s
+    pandemic
+    response.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-324af071)
+  - [Hundreds of doctors in Kenya go on strike over their pay and
+    protective
+    gear.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-35890b73)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/01/world/coronavirus-covid-19.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/07/31/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -505,6 +492,14 @@ spread the virus to others.
 “It was pretty solid epidemiological and virological evidence that
 reinfection was not happening, at least in those people,” said Angela
 Rasmussen, a virologist at Columbia University in New York.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
 
 Most people who are exposed to the coronavirus [make
 antibodies](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html)
@@ -593,7 +588,7 @@ die.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-62021" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-18477" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -605,18 +600,81 @@ die.
 
 #### Frequently Asked Questions
 
-Updated July 27, 2020
+Updated August 17, 2020
 
-  - #### Should I refinance my mortgage?
+  - #### Why does standing six feet away from others help?
     
-      - [It could be a good
-        idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes3xbfgragh.onion/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        on the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[that seems likely, for at least several
+        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes3xbfgragh.onion/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes3xbfgragh.onion/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes3xbfgragh.onion/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes3xbfgragh.onion/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
 
   - #### What is school going to look like in September?
     
@@ -645,57 +703,10 @@ Updated July 27, 2020
         that involve spending some days in classrooms and other days
         online. There’s no national policy on this yet, so check with
         your municipal school system regularly to see what is happening
-        in your community.
+        in your
+community.
 
-  - #### Is the coronavirus airborne?
-    
-      - The coronavirus [can stay aloft for hours in tiny droplets in
-        stagnant
-        air](https://www.nytimes3xbfgragh.onion/2020/07/04/health/239-experts-with-one-big-claim-the-coronavirus-is-airborne.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        infecting people as they inhale, mounting scientific evidence
-        suggests. This risk is highest in crowded indoor spaces with
-        poor ventilation, and may help explain super-spreading events
-        reported in meatpacking plants, churches and restaurants. [It’s
-        unclear how often the virus is
-        spread](https://www.nytimes3xbfgragh.onion/2020/07/06/health/coronavirus-airborne-aerosols.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        via these tiny droplets, or aerosols, compared with larger
-        droplets that are expelled when a sick person coughs or sneezes,
-        or transmitted through contact with contaminated surfaces, said
-        Linsey Marr, an aerosol expert at Virginia Tech. Aerosols are
-        released even when a person without symptoms exhales, talks or
-        sings, according to Dr. Marr and more than 200 other experts,
-        who [have outlined the evidence in an open letter to the World
-        Health
-        Organization](https://academic.oup.com/cid/article/doi/10.1093/cid/ciaa939/5867798).
-
-  - #### What are the symptoms of coronavirus?
-    
-      - Common symptoms [include fever, a dry cough, fatigue and
-        difficulty breathing or shortness of
-        breath.](https://www.nytimes3xbfgragh.onion/article/symptoms-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Some of these symptoms overlap with those of the flu, making
-        detection difficult, but runny noses and stuffy sinuses are less
-        common. [The C.D.C. has
-        also](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        added chills, muscle pain, sore throat, headache and a new loss
-        of the sense of taste or smell as symptoms to look out for. Most
-        people fall ill five to seven days after exposure, but symptoms
-        may appear in as few as two days or as many as 14 days.
-
-  - #### Does asymptomatic transmission of Covid-19 happen?
-    
-      - So far, the evidence seems to show it does. A widely cited
-        [paper](https://www.nature.com/articles/s41591-020-0869-5)
-        published in April suggests that people are most infectious
-        about two days before the onset of coronavirus symptoms and
-        estimated that 44 percent of new infections were a result of
-        transmission from people who were not yet showing symptoms.
-        Recently, a top expert at the World Health Organization stated
-        that transmission of the coronavirus by people who did not have
-        symptoms was “very rare,” [but she later walked back that
-        statement.](https://www.nytimes3xbfgragh.onion/2020/06/09/world/coronavirus-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-1f302e21)
-
-<div id="styln-survey-component-62021" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-18477" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 

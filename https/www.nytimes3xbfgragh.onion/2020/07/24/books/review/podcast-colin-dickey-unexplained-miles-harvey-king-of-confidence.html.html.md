@@ -132,7 +132,7 @@ Unexplained</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -294,6 +294,42 @@ bars
 <span class="css-nxkttv">More episodes
 of</span><span class="css-19zi9mh">Book
 Review</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/books/review/Scott_Americans_Jones--Hagar/Scott_Americans_Jones--Hagar-thumbLarge-v2.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/14/books/review/podcast-a-o-scott-edward-p-jones-eric-jay-dolin-furious-sky-hurricanes.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 14, 2020<span>  <span class="css-orcm78">•</span> 
+1:02:40</span><span class="css-i5svdo">The Fictional World of Edward P.
+Jones</span>
+
+</div>
+
+</div>
+
+<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
+
+[![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/books/03BOOKWILKERSON1/03BOOKWILKERSON1-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/08/07/books/review/podcast-isabel-wilkerson-caste-david-hill-vapors.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
+
+<div class="css-14o8mz7 e1gfokfg2">
+
+</div>
+
+<div class="css-1qq8bvn">
+
+August 7, 2020<span>  <span class="css-orcm78">•</span> 
+55:35</span><span class="css-i5svdo">Isabel Wilkerson Talks About
+‘Caste’</span>
 
 </div>
 
@@ -473,44 +509,7 @@ Stegner</span>
 
 May 29, 2020<span>  <span class="css-orcm78">•</span> 
 1:07:26</span><span class="css-i5svdo">A Manhunt on the 17th Century’s
-High
-Seas</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/05/22/books/22podcast-cover/22podcast-cover-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/22/books/review/podcast-one-mighty-irresistible-tide-immigration-jia-lynn-yang-simplify-life-judith-newman.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-May 22, 2020<span>  <span class="css-orcm78">•</span> 
-59:29</span><span class="css-i5svdo">Immigration Reform, Past and
-Present</span>
-
-</div>
-
-</div>
-
-<div class="css-uq6cyc e1gfokfg3" data-recirc-bar-item="true">
-
-[![](https://static01.graylady3jvrrxbe.onion/images/2020/04/16/books/review/Kotlowitz2/Kotlowitz2-thumbLarge.jpg)](https://www.nytimes3xbfgragh.onion/2020/05/15/books/review/podcast-lauren-sandler-this-is-all-i-got-sarah-weinman-crime-fiction.html?action=click&module=audio-series-bar&region=header&pgtype=Article)
-
-<div class="css-14o8mz7 e1gfokfg2">
-
-</div>
-
-<div class="css-1qq8bvn">
-
-May 15, 2020<span>  <span class="css-orcm78">•</span> 
-1:15:20</span><span class="css-i5svdo">One Young Mother and the
-Homelessness Crisis</span>
+High Seas</span>
 
 </div>
 
