@@ -133,11 +133,13 @@ Nightmare</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
+
+<div id="NYT_TOP_BANNER_REGION">
 
 <div>
 
-<div id="styln-elections-notifications-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+<div id="styln-elections-notifications-menu" class="section css-l08pwh interactive-content interactive-size-medium">
 
 <div class="css-17ih8de interactive-body">
 
@@ -155,8 +157,8 @@ Nightmare</span>
     
     </div>
     
-    [Latest
-    Results](https://www.nytimes3xbfgragh.onion/interactive/2020/08/04/us/elections/results-arizona-kansas-michigan-missouri-primaries.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [D.N.C.
+    Updates](https://www.nytimes3xbfgragh.onion/live/2020/08/20/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -168,8 +170,8 @@ Nightmare</span>
     
     </div>
     
-    [Biden’s V.P.
-    Search](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Biden’s
+    Speech](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-presidential-nomination-dnc.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -181,8 +183,8 @@ Nightmare</span>
     
     </div>
     
-    [Map of
-    Donations](https://www.nytimes3xbfgragh.onion/interactive/2020/07/24/us/politics/trump-biden-campaign-donors.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Election
+    Calendar](https://www.nytimes3xbfgragh.onion/interactive/2019/us/elections/2020-presidential-election-calendar.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -194,21 +196,8 @@ Nightmare</span>
     
     </div>
     
-    [Delegate
-    Count](https://www.nytimes3xbfgragh.onion/interactive/2020/us/elections/delegate-count-primary-results.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-    
-    </div>
-
-  - 
-    
-    <div id="default_container" class="nytslm_li_loud">
-    
-    <div id="default" class="nytslm_li_default_loud">
-    
-    </div>
-    
-    [The
-    Candidates](https://www.nytimes3xbfgragh.onion/interactive/2019/us/politics/2020-presidential-candidates.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
+    [Voting by
+    Mail](https://www.nytimes3xbfgragh.onion/interactive/2020/08/11/us/politics/vote-by-mail-us-states.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
 
@@ -224,6 +213,8 @@ Nightmare</span>
     Newsletter](https://www.nytimes3xbfgragh.onion/newsletters/politics?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
     
     </div>
+
+</div>
 
 </div>
 
@@ -341,7 +332,7 @@ McKinley</span>](https://www.nytimes3xbfgragh.onion/by/jesse-mckinley)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Published Aug. 3, 2020Updated Aug. 4,
+    Published Aug. 3, 2020Updated Aug. 17,
     2020
     
     </div>
@@ -378,7 +369,8 @@ McKinley</span>](https://www.nytimes3xbfgragh.onion/by/jesse-mckinley)
 
 <div class="css-53u6y8">
 
-Election officials in New York City widely distributed mail-in ballots
+Election officials in [New York City widely distributed mail-in
+ballots](https://www.nytimes3xbfgragh.onion/2020/08/20/nyregion/vote-by-mail-new-york.html)
 for the primary on June 23, which featured dozens of hard-fought races.
 The officials had hoped to make voting much easier, but they did not
 seem prepared for the response: more than 10 times the number of
@@ -458,35 +450,68 @@ primary.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="">
+<div id="styln-briefing-block">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: 2020 Election](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
-<div class="briefing-block-ts">
+</div>
 
-Updated 2020-08-05T03:23:56.561Z
+<div class="briefing-block-lb-items">
+
+<div class="briefing-block-update-time">
+
+[7h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div>
+
+[Night 3 featured more policy, a focus on women and a full-throated
+rejection of Trump by his
+predecessor.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#night-3-featured-more-policy-a-focus-on-women-and-a-full-throated-rejection-of-trump-by-his-predecessor)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div>
+
+[Trump live-tweeted Obama’s speech tonight. He’ll appear on Fox News
+right before Biden’s
+tomorrow.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#trump-live-tweeted-obamas-speech-tonight-hell-appear-on-fox-news-right-before-bidens-tomorrow)
+
+</div>
+
+<div class="briefing-block-update-time">
+
+[9h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
+
+</div>
+
+<div>
+
+[Advocates for domestic violence survivors praised Biden in a
+video.](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#advocates-for-domestic-violence-survivors-praised-biden-in-a-video)
 
 </div>
 
 </div>
-
-  - [Two G.O.P. Senate primaries offer — what else? — a test of loyalty
-    to
-    Trump.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-3924dd44)
-  - [The military-style uniforms of federal agents who responded to the
-    unrest in Portland will be
-    replaced.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-62a8e06b)
-  - [President Trump is suddenly a big supporter of mail-in voting — in
-    Florida.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-32b39e33)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/elections/primary-election-michigan-arizona-kansas.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/19/us/dnc-convention-election?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -838,30 +863,27 @@ reporting.
 
 # Our 2020 Election Guide
 
-Updated Aug. 4, 2020
+Updated Aug. 20, 2020
 
   - 
     
     -----
     
-    ## The Latest
+    ## Convention Recap
     
-      - Kris Kobach, a polarizing figure in Kansas politics, [lost the
-        Senate primary
-        there](https://www.nytimes3xbfgragh.onion/2020/08/04/us/politics/kobach-tlaib.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide),
-        relieving G.O.P. officials who feared he could jeopardize a safe
-        seat.
+      - Joe Biden accepted the Democratic nomination, urging Americans
+        to have faith that they could [“overcome this season of
+        darkness.”](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/Joe-Biden-accepts-democratic-nomination.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
 
   - 
     
     -----
     
-    ## Biden’s V.P. Search
+    ## News Analysis
     
-      - [Here are 13
-        women](https://www.nytimes3xbfgragh.onion/article/biden-vice-president-2020.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide)
-        who have been under consideration to be Joe Biden’s running
-        mate, and why each might be chosen — and might not be.
+      - Looming over Mr. Biden’s nomination was the ever-present shadow
+        of another man who’s poised to dominate the campaign: [Donald J.
+        Trump](https://www.nytimes3xbfgragh.onion/2020/08/20/us/politics/biden-dnc-speech-trump.html?action=click&pgtype=Article&state=default&region=BELOW_MAIN_CONTENT&context=storylines_guide).
 
   - 
     

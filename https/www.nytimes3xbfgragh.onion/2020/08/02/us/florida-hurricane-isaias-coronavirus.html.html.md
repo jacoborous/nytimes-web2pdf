@@ -131,7 +131,23 @@ Dread</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
+
+<div class="css-l9svim">
+
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a3f0a0-e386-11ea-afce-73cba6f30df3)
+
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a3f0a1-e386-11ea-afce-73cba6f30df3)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a3f0a2-e386-11ea-afce-73cba6f30df3)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a3f0a3-e386-11ea-afce-73cba6f30df3)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a417b0-e386-11ea-afce-73cba6f30df3)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a1a417b1-e386-11ea-afce-73cba6f30df3)</span>
+
+</div>
 
 </div>
 
@@ -369,37 +385,46 @@ resort.”
 
 <div>
 
-<div id="styln-election-promo" class="section interactive-content interactive-size-medium css-1ftcdic">
+<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlL2NlNTkwYjM3LWJmOWItNTdmYy05MmI1LWFlNjk3ZDBlZmU2NQ==">
 
 <div class="briefing-block-header-section">
 
-# [Live Updates: Isaias](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-04T19:13:56.865Z
+Updated 2020-08-21T07:46:15.883Z
 
 </div>
 
 </div>
 
-  - [Isaias is bringing the threat of tornadoes as it barrels
-    north.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-362830dd)
-  - [At least two people were killed by a tornado in North
-    Carolina.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-7961bdbc)
-  - [The storm is knocking out power over wide
-    areas.](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-34e5d4e4)
+  - [Shutdowns, warnings and scoldings follow alarming incidents on
+    college
+    campuses.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-68774d88)
+  - [Biden knocks Trump’s pandemic response, and outlines a national
+    strategy.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-26b58724)
+  - [U.S. health agencies announce moves to confront the flu season and
+    plummeting child vaccination
+    rates.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-4e542da3)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/us/isaias-storm-updates.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -443,6 +468,14 @@ plexiglass desk dividers and fans equipped with ultraviolet lights to
 try to kill the virus. Many employees who would normally be in the
 building worked from home, at least as long as their internet did not go
 out.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
 
 “It’s not as good as being here,” said Frank K. Rollason, the county’s
 emergency management director. “But right now, it’s better than being
@@ -493,7 +526,162 @@ The huge growth in case numbers, which is finally starting to dip, came
 even though South Florida had locked down earlier and longer than the
 rest of the state. Gov. Ron DeSantis, a Republican, has not issued a
 statewide mask order, but Miami-Dade County imposed its first facial
-covering requirement back in April.
+covering requirement back in
+April.
+
+<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-18477" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div class="css-eb027h">
+
+[](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+### The Coronavirus Outbreak ›
+
+#### Frequently Asked Questions
+
+Updated August 17, 2020
+
+  - #### Why does standing six feet away from others help?
+    
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        on the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[that seems likely, for at least several
+        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        There have been frightening accounts of people suffering what
+        seems to be a second bout of Covid-19. But experts say these
+        patients may have a drawn-out course of infection, with the
+        virus taking a slow toll weeks to months after initial exposure.
+        People infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9)
+        immune molecules called antibodies, which are [protective
+        proteins made in response to an
+        infection](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        last in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
+
+  - #### I’m a small-business owner. Can I get relief?
+    
+      - The [stimulus bills enacted in
+        March](https://www.nytimes3xbfgragh.onion/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        offer help for the millions of American small businesses. Those
+        eligible for aid are businesses and nonprofit organizations with
+        fewer than 500 workers, including sole proprietorships,
+        independent contractors and freelancers. Some larger companies
+        in some industries are also eligible. The help being offered,
+        which is being managed by the Small Business Administration,
+        includes the Paycheck Protection Program and the Economic Injury
+        Disaster Loan program. But lots of folks have [not yet seen
+        payouts.](https://www.nytimes3xbfgragh.onion/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Even those who have received help are confused: The rules are
+        draconian, and some are stuck sitting on [money they don’t know
+        how to
+        use.](https://www.nytimes3xbfgragh.onion/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        Many small-business owners are getting less than they expected
+        or [not hearing anything at
+        all.](https://www.nytimes3xbfgragh.onion/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
+        with policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        has said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
+        -- without giving you the sick employee’s name -- that they may
+        have been exposed to the virus.
+
+  - #### What is school going to look like in September?
+    
+      - It is unlikely that many schools will return to a normal
+        schedule this fall, requiring the grind of [online
+        learning](https://www.nytimes3xbfgragh.onion/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        [makeshift child
+        care](https://www.nytimes3xbfgragh.onion/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        and [stunted
+        workdays](https://www.nytimes3xbfgragh.onion/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        to continue. California’s two largest public school districts —
+        Los Angeles and San Diego — said on July 13, that [instruction
+        will be remote-only in the
+        fall](https://www.nytimes3xbfgragh.onion/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
+        citing concerns that surging coronavirus infections in their
+        areas pose too dire a risk for students and teachers. Together,
+        the two districts enroll some 825,000 students. They are the
+        largest in the country so far to abandon plans for even a
+        partial physical return to classrooms when they reopen in
+        August. For other districts, the solution won’t be an
+        all-or-nothing approach. [Many
+        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
+        including the nation’s largest, New York City, are devising
+        [hybrid
+        plans](https://www.nytimes3xbfgragh.onion/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        that involve spending some days in classrooms and other days
+        online. There’s no national policy on this yet, so check with
+        your municipal school system regularly to see what is happening
+        in your
+community.
+
+<div id="styln-survey-component-18477" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+
+</div>
+
+</div>
+
+<div class="css-6mllg9">
+
+</div>
+
+<div class="css-pmm6ed">
+
+<span class="css-5gimkt"></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 Dr. Mary Jo Trepka, chairwoman of the epidemiology department at Florida
 International University, attributed the contagion in part to Miami’s

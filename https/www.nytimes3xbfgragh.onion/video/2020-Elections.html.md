@@ -40,8 +40,9 @@
 
 <div>
 
-new video loaded: White House Backs Away from Proposals to Make Voting
-Secure
+new video loaded: Highlights From the Democratic National Convention:
+Night
+4
 
 <div>
 
@@ -81,13 +82,13 @@ bars
 
 <div class="css-1t7yl1y">
 
-0:00/1:26
+0:00/5:56
 
 </div>
 
 <div class="css-og85jy">
 
-\-1:26
+\-5:56
 
 </div>
 
@@ -103,40 +104,81 @@ bars
 
 transcript
 
-## White House Backs Away from Proposals to Make Voting Secure
+## Highlights From the Democratic National Convention: Night 4
 
-#### Kayleigh McEnany, the White House press secretary, echoed President Trump’s attacks on mail-in ballots and did not support proposals that would support states in making voting more secure.
+#### On the last night of the convention, Joseph R. Biden Jr. officially accepted the Democratic nomination for president. In the most important speech of his career, he said that Americans “will overcome this season of darkness.”
 
 </div>
 
   -   
-    “Yes.” Reporter: “Kayleigh, if the president is so worried about how
-    long it will take to count ballots in the election, then why isn’t
-    the president and this White House doing everything it can to secure
-    more funding for staffing and other resources to make sure that we
-    can have a safe and proper election?” “Look, what this White House
-    is focused on is making sure that our election is not riddled with
-    voting fraud, and that the timetable is not hung up here. We are —
-    there are several lawsuits that the campaign is engaged on. And I
-    would point you to the campaign for specifics.” Reporter: “That
-    doesn’t answer my question, though. My question is, what is the
-    White House doing to get more resources for funding and staff to
-    make sure, as the president says, that it will be a secure and safe
-    election?” “Well as you know, Peter, states run their elections and
-    it is up to states —” Reporter: “And they’re asking for more money.”
-    “But what this White House is focused on is ensuring that — what
-    Jeffrey Toobin has said over at The New Yorker, CNN contributor
-    notably, ‘New York’s primary vote count chaos signals trouble for
-    November.’ And as he noted, you want to talk about the president,
-    but Jeffrey Toobin himself: Democrats controlled the state
-    government of New York. They are responsible for creating the fiasco
-    that is unfolding now. And that is certain to get worse in November.
-    States need to get their acts together when it comes to elections.
-    And as we see in New York, where we’re five weeks out from that
-    election. And in fact, we still don’t know the outcome of a
-    congressional race, and that is certainly not what we want to see.”
-    Reporter: “I’m asking you about the
-president.”
+    “Welcome to the fourth night of the 2020 Democratic National
+    Convention: ‘Uniting America.’ OK, these last few nights have been
+    going so well, we’ve decided to add a fifth night where we will just
+    play Michelle Obama’s speech on a loop.” “We’ve cried out for
+    justice. We have gathered in our streets to demand change. And now
+    we must pass on the gift John Lewis sacrificed to give us: We must
+    register and we must vote.” “Our military spouses hold their
+    families together, praying for their loved ones’ safety wherever
+    they’re deployed and serving as caregivers to our disabled
+    servicemembers, and then picking up the pieces and starting again,
+    whenever the next tour or the next war arises. Joe Biden understands
+    these sacrifices because he’s made them himself. When his son Beau
+    deployed to Iraq, his burden was also shouldered by his family. Joe
+    knows the fear military families live because he’s felt that dread
+    of never knowing if your deployed loved one is safe.” “A couple of
+    years ago, I was diagnosed with cancer. And I was absolutely
+    terrified. One of the first people who called me was Joe. His real
+    warmth and kindness on that call — man, I gotta say, it made me
+    cry.” “I am very excited to present to you a group of people that
+    ran in the 2020 Democratic primary against Joe Biden. You could
+    think of this sort of like ‘Survivor’ on the out-interviews of all
+    the people that got voted off the island.” \[laughing\] “Bernie —
+    Bernie, don’t you laugh, because I’ve got questions for you like,
+    Why does my girlfriend like you more than she likes me? But let’s —”
+    “Because she’s smarter than you, and that’s the obvious answer,
+    right?” \[laughing\] “Hi, my name is Brayden Harrington and I am 13
+    years old. And without Joe Biden, I wouldn’t be talking to you
+    today. About a few months ago, I met him in New Hampshire. He told
+    me that we were members of the same club. We stutter. It was really
+    amazing to hear that someone like me became vice president. I’m just
+    a regular kid. And in this short amount of time, Joe Biden made me
+    more confident about something that’s bothered me my whole life.”
+    “If you entrust me with the presidency, I will draw on the best of
+    us, not the worst. I’ll be an ally of the light, not the darkness.
+    It’s time for us, for We the People, to come together. And make no
+    mistake: United we can and will overcome this season of darkness in
+    America. We’ll choose hope over fear, facts over fiction, fairness
+    over privilege. So it’s with great honor and humility I accept this
+    nomination for president of the United States of America. As
+    president, the first step I will take will be to get control of the
+    virus that has ruined so many lives. Because I understand something
+    this president hasn’t from the beginning: We will never get our
+    economy back on track, we will never get our kids safely back in
+    schools, we’ll never have our lives back, until we deal with this
+    virus. While he’s no longer with us, Beau inspires me every day.
+    Beau served our nation in uniform, a year in Iraq, a decorated Iraqi
+    War veteran. So I take very personally the profound responsibility
+    of serving as commander in chief. I’ll be a president who will stand
+    with our allies and friends and make it clear to our adversaries:
+    The days of cozying up to dictators is over. Just a week ago
+    yesterday was the third anniversary of the events in
+    Charlottesville. Close your eyes — remember what you saw on
+    television. Remember seeing those neo-Nazis and Klansmen and white
+    supremacists coming out of fields with lighted torches, veins
+    bulging, spewing the same anti-Semitic bile heard across Europe in
+    the ’30s. Remember the violent clash that ensued between those
+    spreading hate and those with the courage to stand against it. And
+    remember what the president said when asked? He said there were,
+    quote, ‘very fine people on both sides.’ It was a wake-up call for
+    us as a country, and for me a call to action. At that moment, I knew
+    I’d have to run, because my father taught us that silence was
+    complicity and I could never remain silent or complicit. May history
+    be able to say that the end of this chapter of American darkness
+    began here tonight, as love and hope and light join in the battle
+    for the soul of the nation. And this is a battle we will win, and
+    we’ll do it together, I promise you.” \[music, Coldplay, “A Sky
+    Full Of
+Stars”\]
 
 </div>
 
@@ -192,18 +234,19 @@ president.”
 
 <div class="css-ggwicp">
 
-# <span>White House Backs Away from Proposals to Make Voting Secure</span>
+# <span>Highlights From the Democratic National Convention: Night 4</span>
 
 <div class="css-19m31ns">
 
-By Reuters<span class="css-1iknmmf">•</span>July 31,
+By Nilo Tabrizy and Dmitriy
+Khavin<span class="css-1iknmmf">•</span>August 21,
 2020
 
 </div>
 
 </div>
 
-## Kayleigh McEnany, the White House press secretary, echoed President Trump’s attacks on mail-in ballots and did not support proposals that would support states in making voting more secure.
+## On the last night of the convention, Joseph R. Biden Jr. officially accepted the Democratic nomination for president. In the most important speech of his career, he said that Americans “will overcome this season of darkness.”
 
 </div>
 
@@ -249,313 +292,313 @@ By Reuters<span class="css-1iknmmf">•</span>July 31,
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/31elections-briefing-wh/31elections-briefing-wh-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dems-ledeall-top1/20dems-ledeall-top1-square320-v4.jpg)
     
     </div>
     
     <span class="css-1xigvfz"><span class="css-kraruq">NOW
     PLAYING</span></span>
     
-    ### White House Backs Away from Proposals to Make Voting Secure
+    ### Highlights From the Democratic National Convention: Night 4
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007260487/watch-live-biden-delivers-speech-on-systemic-racism.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299782/stephen-curry-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/us/politics/28elections-briefing-video-top/28elections-briefing-video-top-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:12</span>
-    
-    ### Biden Outlines How Economic Plan Would Address Systemic Racism
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007251300/biden-trump-racist-divide-america.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/politics/22elections-briefing-biden/merlin_174803658_1f149575-61fa-4c55-b205-ec9c22b1f150-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:04</span>
-    
-    ### Biden Says Trump Is Spreading Racism and Dividing America
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007249436/biden-announces-plan-to-aid-caregivers.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/21biden-speech/21biden-speech-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:13</span>
-    
-    ### Biden Announces Plan to Aid Caregivers
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007248132/biden-muslim-voters.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/us/politics/20vid-elections-biden/20vid-elections-biden-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:45</span>
-    
-    ### Biden Promises to End ‘Vile Muslim Ban’ on Day 1
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007244976/pence-calls-out-biden-wisconsin.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/us/politics/17elections-briefing-pence/17elections-briefing-pence-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:54</span>
-    
-    ### Pence Attacks Biden at Wisconsin Campaign Event: ‘You Won’t Be Safe in Joe Biden’s America’
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007239700/jeff-sessions-alabama.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/us/politics/14election-results-js-1/14election-results-js-1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:42</span>
-    
-    ### Jeff Sessions Loses in Alabama
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007231038/live-biden-speech-scranton.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/07/09/us/politics/09biden-econ-vid/09biden-econ-vid-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:16</span>
-    
-    ### ‘Enough Is Enough’: Biden Lays Out Populist Vision for Economy
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007210595/biden-trump-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/25/us/politics/25biden-sub/25biden-sub-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:55</span>
-    
-    ### ‘Trump Needs to Stop Caring About How He Looks’: Biden Criticizes President’s Virus Response
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007205944/kentucky-primary-voting.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/us/politics/23vid-ky-voting-lines/23vid-ky-voting-lines-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:26</span>
-    
-    ### Kentucky Voters Line Up Early for Primary Election
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007188759/trump-rally-juneteenth-tulsa-oklahoma.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/us/politics/20Tulsa-memo/20Tulsa-memo-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">7:01</span>
-    
-    ### Why Trump’s Tulsa Rally Put the City’s Black Residents on Edge
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007202285/trump-tulsa-rally-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/world/20trump-vid-cover-sub/20trump-vid-cover-sub-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:06</span>
-    
-    ### ‘They Test and They Test’: Trump Brushes Off Rise in Covid-19 Cases
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007202247/trump-tulsa-rally.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/world/20trump-vid-cover-sub/20trump-vid-cover-sub-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">2:52</span>
-    
-    ### In Tulsa, Trump Plays Down Coronavirus Cases and Demonizes Protesters
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007201990/trump-supporters-gather-in-tulsa-for-rally.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/20/us/politics/20vid-tulsa-rallyvid1/20vid-tulsa-rallyvid1-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:23</span>
-    
-    ### Amid Pandemic and Protests, Trump Rally Fails to Fill Arena
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007199618/trump-tulsa-rally-supporters-coronavirus.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/18/world/18trump-vid-promo-sub/18trump-vid-promo-sub-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:56</span>
-    
-    ### Trump Supporters Camp Out Ahead of Tulsa Rally, Despite Virus Risk
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007186817/biden-criticizes-trumps-reopening-of-the-economy-as-a-one-point-plan.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/11/us/politics/11virus-biden/11virus-biden-square320.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">0:40</span>
-    
-    ### Biden Criticizes Trump’s Reopening of the Economy as a ‘One-Point Plan’
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007182268/georgia-election-day-atlanta.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/09/us/politics/09voting-georgia2/09voting-georgia2-square320-v2.jpg)
-    
-    </div>
-    
-    <span class="css-1xigvfz">1:10</span>
-    
-    ### Drone Footage Shows Long Lines Facing Georgia Voters
-
-  - [](https://www.nytimes3xbfgragh.onion/video/us/100000007177074/biden-trump-economy-george-floyd.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
-    
-    <div class="css-1aetz0h">
-    
-    ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/05/us/politics/05BIDEN-ECON/05BIDEN-ECON-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dnc-curry/merlin_175967193_9db586c0-6156-4e64-99c6-f98e0c8bb042-square320.jpg)
     
     </div>
     
     <span class="css-1xigvfz">1:21</span>
     
-    ### Biden Criticizes Trump for Declaring the Economic Crisis Over
+    ### Stephen and Ayesha Curry Endorse Biden in Video With Their Children
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007169461/watch-live-biden-visits-philadelphia.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299879/joe-biden-full-speech.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/02/us/politics/02vid-Biden-Philadephia/02vid-Biden-Philadephia-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dnc-biden-fullspeech/20vid-dnc-biden-fullspeech-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">1:22</span>
+    <span class="css-1xigvfz">24:32</span>
     
-    ### No President Will ‘Quiet Our Voice,’ Biden Says in Philadelphia Speech
+    ### Watch the Full Speech: Biden Accepts the Democratic Nomination
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007168118/hate-just-hides-it-doesnt-go-away-biden-says.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299747/michael-bloomberg-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/06/01/us/00unrest-briefing-biden/00unrest-briefing-biden-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dnc-bloomberg/20vid-dnc-bloomberg-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">0:46</span>
+    <span class="css-1xigvfz">1:23</span>
     
-    ### ‘Hate Just Hides. It Doesn’t Go Away,’ Biden Says
+    ### ‘Why the Hell Would We Ever Rehire Donald Trump?’ Bloomberg Asks
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007111258/watch-live-hillary-clinton-endorses-biden.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299760/joe-biden-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/us/politics/00endorsement-hillaryclinton/00endorsement-hillaryclinton-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dems-ledeall-joe/merlin_175968078_622f2b0b-cf17-4991-927f-42746bcc6bb3-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">0:48</span>
+    <span class="css-1xigvfz">1:30</span>
     
-    ### ‘I Can’t Wait’: Clinton Endorses Biden for President
+    ### ‘With Great Honor and Humility, I Accept This Nomination,’ Biden Says
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007109631/pelosi-endorses-biden.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299812/pete-buttigieg-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/us/politics/00endorsement-pelosi/00endorsement-pelosi-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-Buttigieg-dnc/merlin_175966308_45d483c2-6bd0-4d6a-a284-27b9f2c710f3-square320.jpg)
     
     </div>
     
     <span class="css-1xigvfz">1:19</span>
     
-    ### ‘He Knows How to Get the Job Done,’ Pelosi Says, Endorsing Biden
+    ### ‘Imagine What We Could Achieve,’ Buttigieg Says
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007089056/warren-releases-video-endorsing-biden.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299914/2020-candidates-endorse-biden-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/04/15/us/politics/15vid-Warren-Endorsement/15vid-Warren-Endorsement-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-candidates-endorse-biden-dnc/20vid-candidates-endorse-biden-dnc-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">1:11</span>
+    <span class="css-1xigvfz">1:16</span>
     
-    ### Warren Releases Video Endorsing Biden
+    ### ‘The People That Got Voted Off the Island,’ 2020 Rivals, Endorse Biden
 
-  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007085637/sanders-endorses-biden.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299801/cory-booker-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
     
     <div class="css-1aetz0h">
     
     ![episode
-    poster](https://static01.graylady3jvrrxbe.onion/images/2020/04/13/us/politics/13sanders/13sanders-square320.jpg)
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-booker-dnc/20vid-booker-dnc-square320.jpg)
     
     </div>
     
-    <span class="css-1xigvfz">1:43</span>
+    <span class="css-1xigvfz">1:45</span>
     
-    ### ‘We Need You in the White House’: Sanders Endorses Biden
+    ### ‘Together We Work, Together We Rise,’ Booker Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299848/tammy-duckworth-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dnc-Duckworth/oakImage-1597975689931-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:21</span>
+    
+    ### ‘Joe Knows the Fear Military Families Live,’ Duckworth Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299756/deb-haaland-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dnc-haaland/merlin_175965084_e8ad99fe-16b0-4fc6-9340-6d2731ad7f2c-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:16</span>
+    
+    ### ‘Voting Is Sacred,’ Deb Haaland Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299846/julia-louis-dreyfus-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-dreyfus-dnc/merlin_175962837_3495a860-7ebc-47cb-887a-c3e7a0ad0c1d-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:31</span>
+    
+    ### Julia Louis-Dreyfus Emcees Democratic Convention
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299826/keisha-lance-bottoms-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20vid-Bottoms-dnc/merlin_175963431_5c0f8f22-224a-4017-a706-a79670864458-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:06</span>
+    
+    ### ‘Let’s Vote,’ Lance-Bottoms Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007299993/gavin-newsom-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/elections/Screen-Shot-2020-08-20-at-9/Screen-Shot-2020-08-20-at-9-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:21</span>
+    
+    ### ‘Climate Change Is Real,’ Newsom Tells D.N.C. Amid Wildfires
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007297733/democratic-national-convention-highlights.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/09/19/us/politics/19vid-dnc-highlights-1/19vid-dnc-highlights-1-square320-v2.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">6:13</span>
+    
+    ### Highlights From the Democratic National Convention: Night 3
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297653/barack-obama-full-speech-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19vid-dnc-obama-full-speech/merlin_175922979_a47a04ad-0051-4275-a23f-c8fcb46d26a4-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">19:07</span>
+    
+    ### Watch Full Speech: Obama Criticizes Trump at Democratic Convention
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297654/kamala-harris-full-speech-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19breakouts-harris-speech/19breakouts-harris-speech-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">18:38</span>
+    
+    ### Watch Full Speech: Harris Accepts Nomination at Democratic Convention
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297621/kamala-harris-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dems-ledeall/19dems-ledeall-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:48</span>
+    
+    ### ‘Let’s Fight With Conviction,’ Harris Says, Accepting Nomination
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297589/barack-obama-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dems-ledeall-obama-p1/19dems-ledeall-obama-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:59</span>
+    
+    ### Presidency Is ‘One More Reality Show’ to Trump, Obama Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297591/elizabeth-warren-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/elections/Screen-Shot-2020-08-19-at-10/Screen-Shot-2020-08-19-at-10-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:07</span>
+    
+    ### ‘Joe Biden Has Some Really Good Plans,’ Warren Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297617/nancy-pelosi-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19-breakouts-suffrage/19-breakouts-suffrage-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:58</span>
+    
+    ### ‘When Women Succeed, America Succeeds,’ Pelosi Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297726/michelle-lujan-grisham-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/video/19vid-dnc-grisham-still/19vid-dnc-grisham-still-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:32</span>
+    
+    ### ‘Time Is Running Out to Save Our Planet,’ New Mexico Governor Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297618/hillary-clinton-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dems-ledeall-clinton/19dems-ledeall-clinton-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:29</span>
+    
+    ### ‘This Can’t Be Another Woulda, Coulda, Shoulda Election,’ Clinton Says
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/elections/100000007297620/gabrielle-giffords-speaks-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19-live-mohamed-1723-promo/19-live-mohamed-1723-promo-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">2:29</span>
+    
+    ### ‘He’ll Be There for You, Too,’ Gabrielle Giffords Says of Joe Biden
+
+  - [](https://www.nytimes3xbfgragh.onion/video/us/politics/100000007296108/keynote-address-dnc.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/2020-Elections)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/autossell/Screen-Shot-2020-08-19-at-1/Screen-Shot-2020-08-19-at-1-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:15</span>
+    
+    ### Keynote Address at the D.N.C.
 
 </div>
 

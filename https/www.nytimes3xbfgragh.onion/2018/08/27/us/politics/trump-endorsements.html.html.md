@@ -1,0 +1,668 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Politics](https://www.nytimes3xbfgragh.onion/section/politics)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Politics](/section/politics)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">A
+Trump Endorsement Can Decide a Race. Here’s How to Get
+One.</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2P8wXbq</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# A Trump Endorsement Can Decide a Race. Here’s How to Get One.
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">People
+posed with a cardboard cutout of President Trump at a Republican unity
+rally in Georgia last month. Brian Kemp, who received Mr. Trump's
+endorsement, won the Republican nomination for governor days
+earlier.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Audra
+Melton for The New York
+Times</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/28/us/politics/28trump-endorsements1-print/28trump-endorsements1-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-xt80pu e12qa4dv0">
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz" itemprop="name">Jonathan
+Martin</span>](https://www.nytimes3xbfgragh.onion/by/jonathan-martin)
+and [<span class="css-1baulvz last-byline" itemprop="name">Maggie
+Haberman</span>](https://www.nytimes3xbfgragh.onion/by/maggie-haberman)
+
+</div>
+
+</div>
+
+  - Aug. 27,
+    2018
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+WASHINGTON — Before she agreed to run for the Senate in Arizona this
+year, Representative Martha McSally reached an agreement with White
+House officials: President Trump would remain on the sidelines and not
+endorse one of her more conservative competitors.
+
+But a few weeks ago, Ms. McSally and other establishment Republicans
+were worried enough about her prospects that they returned to the White
+House with a new appeal, according to multiple party officials familiar
+with the conversations: Could Mr. Trump drop his neutrality and endorse
+her candidacy after all?
+
+Ms. McSally’s shifting requests illustrate Mr. Trump’s ability to play
+kingmaker and effectively decide competitive primaries. But, more
+consequentially, they demonstrate the willingness of mainstream
+Republicans like Ms. McSally, who will not say whether she even voted
+for Mr. Trump in 2016, to link themselves to the president if they want
+to win.
+
+The Republican nominating season will largely conclude on Tuesday with
+the Arizona Senate race and the Florida governor’s contest, leaving a
+paradox looming over Washington: Even as [legal questions swirl around
+the
+presidency](https://www.nytimes3xbfgragh.onion/2018/08/22/us/politics/mueller-investigation-cohen-manafort.html),
+Mr. Trump’s grip on G.O.P. primary voters is as strong as it has been
+since he seized the party’s nomination a little over two years ago.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Trump’s outsized influence offers him a measure of political
+insurance. And some of his leading allies are already warning Republican
+officeholders who may be faced with an impeachment vote in a
+Democratic-controlled Congress to be fully mindful of the president’s
+popularity with their shared base.
+
+“He’ll attack you, your money will dry up and you will lose your
+primary,” Corey Lewandowski, Mr. Trump’s former campaign manager, said
+about the consequences Republican lawmakers would face if they turned on
+the president. “Go ask Mark Sanford what fighting with the president
+will get you.”
+
+Mr. Sanford, a South Carolina congressman, [lost a
+primary](https://www.nytimes3xbfgragh.onion/2018/06/12/us/politics/mark-sanford-trump.html)
+to the Trump-endorsed Katie Arrington in June. Mr. Lewandowski also
+invoked Senators Jeff Flake of Arizona and Bob Corker of Tennessee, two
+Trump critics who retired rather than seek re-election this year. And he
+brought up Senator Ben Sasse of Nebraska, another frequent detractor of
+the president, to pointedly note that Mr. Trump’s high command is well
+aware Mr. Sasse’s term is up in 2020.
+
+Mr. Trump’s endorsements have included many candidates who did not face
+serious primary challenges. But they have also proved decisive in some
+races, or at least ensured victory for candidates in tight races, such
+as Brian Kemp, the Republican nominee for governor in Georgia.
+
+The endorsements may arrive in the form of a tweet weeks or months
+before any votes are cast or the day before or even on Election Day. The
+most full-throated endorsements are accompanied by rallies with Mr.
+Trump [or the vice
+president](https://www.nytimes3xbfgragh.onion/2018/07/24/us/politics/kemp-cagle-georgia.html),
+exciting the party faithful and prompting them to turn out for the vote.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+To the [dismay of some party
+leaders](https://www.nytimes3xbfgragh.onion/2018/07/20/us/politics/trump-endorsement-kemp.html),
+though, a handful of the candidates Mr. Trump has pushed through the
+primary may prove weaker general election candidates than their rivals
+would have been, forcing the party to spend more money this
+fall.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Representative
+Martha McSally agreed to run for Senate after the White House agreed Mr.
+Trump would make no endorsement of her hardline
+opponents.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Matt
+York/Associated
+Press</span></span>](https://static01.graylady3jvrrxbe.onion/images/2018/08/28/us/politics/28trump-endorsements2-print/merlin_142833030_ce3b795c-36a8-4de8-9c98-7fa3a06d1978-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Mr. Trump has relished his role as the decider in chief, growing more
+emboldened about intervening in intraparty contests as nearly all of the
+candidates he has backed in primaries this year have won. (One recent
+misfire: the Wyoming governor’s race last week, [where his preferred
+candidate came in
+second](https://www.nytimes3xbfgragh.onion/2018/08/21/us/politics/wyoming-alaska-primaries.html).)
+
+But the president has also complained to advisers that leaders like
+Mitch McConnell, the Senate majority leader, are laying on the flattery
+about how he’s the only figure who can settle races, but not more
+aggressively defending his embattled administration in public, according
+to a senior White House official.
+
+Mr. Trump has, as with so much else, redefined the political role of the
+presidency to fit his own unconventional style rather than bowing to the
+customs of the office.
+
+“Traditionally in the two-party system, politicians and their team try
+to make their base bigger,” said Haley Barbour, the former Mississippi
+governor and Republican National Committee chairman. “Trump keeps trying
+to make his base harder.”
+
+Inserting himself in race after race with little warning, Mr. Trump has
+demolished the tradition of presidents remaining neutral in primaries,
+[upended the well-laid
+plans](https://www.nytimes3xbfgragh.onion/2018/07/20/us/politics/trump-endorsement-kemp.html)
+of state and national power brokers and rewarded allies, new and old, in
+their nomination fights. In doing so, he is creating more loyalists who
+owe their success to him.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+The president has found success wading into contested governor’s
+primaries in [South
+Carolina](https://www.nytimes3xbfgragh.onion/2018/06/26/us/politics/primaries-henry-mcmaster-trump.html),
+[Georgia](https://www.nytimes3xbfgragh.onion/2018/07/18/us/politics/trump-brian-kemp-georgia.html)
+and
+[Kansas](https://www.nytimes3xbfgragh.onion/2018/08/14/us/politics/kansas-kobach-colyer.html),
+and he may have had the most impact with his early support for
+Representative Ron DeSantis, who is leading in the polls in the Florida
+governor’s primary.
+
+“If a president wants to reshape the party in his own image, there’s no
+better way to do that than to impact the outcome of primaries,” said
+Kris Kobach, the Kansas secretary of state and nominee for governor [who
+got a late
+endorsement](https://www.nytimes3xbfgragh.onion/2018/08/06/us/politics/kris-kobach-trump-kansas.html)in
+his primary from Mr. Trump.
+
+The president’s endorsements have largely been done to repay supporters,
+but Mr. Trump has also sought to solidify new alliances by lending a
+hand to some former critics. For example, he helped ensure that Senator
+Dean Heller of Nevada would not have a primary challenger, propelled
+Representative Martha Roby of Alabama in her runoff, and he even got
+behind Mitt Romney’s Senate bid in Utah. Each of them, to varying
+degrees, had criticized the president in 2016.
+
+The White House political director, Bill Stepien, said that Mr. Trump’s
+endorsement is powerful, “but there are many tools in his political tool
+kit,” including not engaging openly in a race but working behind the
+scenes as “party leader.” He said that Nevada was an important example
+of where the president and his team worked behind the scenes to [clear
+the Senate primary
+field](https://www.nytimes3xbfgragh.onion/2018/03/16/us/politics/bannon-republican-senate-primary-challengers.html)by
+nudging a Heller challenger to run for the House instead.
+
+Mr. Lewandowski was even blunter, recalling a Las Vegas dinner he
+attended in 2017 with Mr. Heller, in which he bluntly told the senator
+that if he did not fall in line with Mr. Trump, the president’s allies
+would aggressively target him. “I said, ‘With all due respect, I will
+not miss,’” Mr. Lewandowski recalled.
+
+This is not to say that Mr. Trump has totally forgiven and forgotten
+those who denounced his campaign — or that the president’s advisers do
+not strategically highlight past critiques when they believe it is best
+for him to stay out of races.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+This year few Republican candidates, for example, were as aggressive in
+lobbying for Mr. Trump’s endorsement as Representative Diane Black of
+Tennessee, who came in third in her state’s primary for governor this
+month. She approached the president at a White House event, had some of
+his most high-profile congressional allies weigh in on her behalf, and
+even deployed some West Wing officials who are friendly to
+her.
+
+</div>
+
+</div>
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+<div class="css-1xdhyk6 erfvjey0">
+
+<span class="css-1ly73wi e1tej78p0">Image</span>
+
+<div class="css-zjzyr8">
+
+<div data-testid="lazyimage-container" style="height:275.17777777777775px">
+
+</div>
+
+</div>
+
+</div>
+
+<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">Mr. Trump
+campaigned for Representative Ron DeSantis, whom he endorsed for the
+Republican nomination for governor of Florida, last
+month.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span>Doug
+Mills/The New York Times</span></span>
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But most of Mr. Trump’s aides wanted him to stay out of the race, and
+they were able to keep him sidelined in part by reminding him of what
+Ms. Black said after the video of Mr. Trump boasting about groping women
+was released in 2016 (“I would’ve yanked my son by the ear if he had
+talked that way when he was a teenager much less an adult,” she said at
+the time).
+
+In the early months of his administration, Mr. Trump’s approach to
+politics was, like most everything else, haphazard.
+
+But since then, Mr. Stepien and Johnny DeStefano, the head of
+presidential personnel, have imposed a measure of order to the process
+(or at least as much as somebody as impulsive as Mr. Trump will
+tolerate), with the chief of staff, John F. Kelly, guaranteeing them
+face time with the president that they struggled to get in 2017.
+
+Thick binders have been assembled on all high-level Republican
+candidates and sitting members of Congress. The binders include their
+votes, their behavior on social media and what they said about Mr. Trump
+as he sought the presidency.
+
+In the most significant races, a survey has been sent to the candidates
+asking where they stand on issues and requesting that they grade the
+president. The candidates are judged on several criteria, including how
+quickly they respond.
+
+Last Thursday, for example, Mr. Trump offered his support for Senator
+Cindy Hyde-Smith of Mississippi, giving her a leg up against former
+state Senator Chris McDaniel, a hard-right Republican, in [a November
+special election
+there](https://www.nytimes3xbfgragh.onion/2018/06/01/us/politics/chris-mcdaniel-mississippi-trump.html).
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But the president blessed Ms. Hyde-Smith only after she met a series of
+requests from the White House.
+
+“There were clear expectations and benchmarks and things like that that
+the senator was supposed to hit,” said Brad White, Ms. Hyde-Smith’s
+chief of staff, explaining: “They looked at things from fund-raising to
+the type of senator she was to votes. It was very methodical.”
+
+But even as his staff has introduced some discipline and organization to
+the process, Mr. Trump has on occasion still gone his own way, because
+of the many outside influences on his thinking.
+
+It was largely overshadowed by the other, more serious blows he absorbed
+last week, but the president suffered his first loss in a primary this
+year when he endorsed [the Republican donor Foster
+Friess](https://www.nytimes3xbfgragh.onion/2018/08/21/us/politics/wyoming-foster-friess.html)in
+the Wyoming governor’s race only to see Mr. Friess be handily defeated.
+
+Mr. Trump, who tweeted his support only on the morning of the primary,
+was cajoled into the endorsement by his eldest son, Donald Trump Jr.,
+who prodded him a few times on it, according to two Republican officials
+familiar with the conversations. (The younger Mr. Trump [wrote an op-ed
+endorsing Mr.
+Friess](https://trib.com/opinion/columns/trump-jr-friess-right-choice-for-wyoming/article_94e2311c-cad9-53d5-b72d-651c95190986.html)
+this month.)
+
+As for Ms. McSally’s race in Arizona — where she faces Joe Arpaio, the
+former Maricopa County sheriff, and Kelli Ward, a one-time state senator
+— Mr. Trump’s advisers determined that she would probably win the
+primary even without the president’s support. Her pleas, they decided,
+were aimed only at saving a few million dollars she would need to spend
+to ensure victory without the president’s blessing.
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

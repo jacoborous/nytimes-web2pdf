@@ -132,35 +132,21 @@ Crisis</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6bc090-e392-11ea-bdca-c743cc6a6463)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6bc091-e392-11ea-bdca-c743cc6a6463)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6be7a0-e392-11ea-bdca-c743cc6a6463)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6be7a1-e392-11ea-bdca-c743cc6a6463)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6be7a2-e392-11ea-bdca-c743cc6a6463)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=6d6be7a3-e392-11ea-bdca-c743cc6a6463)</span>
 
 </div>
 
@@ -216,13 +202,13 @@ story](#after-sponsor)
 
 <div class="css-ki347z">
 
-<span class="css-1656jku">Aug. 4, 2020, 9:06 a.m.
+<span class="css-1656jku">Aug. 13, 2020, 8:32 p.m.
 ET</span><span class="css-xwx5dt"></span>
 
 </div>
 
-<span class="css-1dv1kvn" data-aria-live="polite">Aug. 4, 2020, 9:06
-a.m. ET</span>
+<span class="css-1dv1kvn" data-aria-live="polite">Aug. 13, 2020, 8:32
+p.m. ET</span>
 
 </div>
 
@@ -353,14 +339,22 @@ percentage of your income over the past year, up to a certain maximum.
 Some states are more generous than others, but unemployment typically
 replaces roughly 45 percent of your lost income.
 
-Whatever your benefit amount, the CARES Act also provides a temporary
+Whatever your benefit amount, the CARES Act also provided a temporary
 increase of [$600
 weekly](https://www.nytimes3xbfgragh.onion/interactive/2020/04/23/business/economy/unemployment-benefits-stimulus-coronavirus.html),
-but only through July 31.
+but only through July 31. Chances are good that there will be some kind
+of extension of this federal relief, but the Senate has yet to pass a
+bill that it could then attempt to reconcile with [the
+one](https://www.nytimes3xbfgragh.onion/2020/05/15/us/politics/house-simulus-vote.html)
+that the House passed in May.
 
-**How long will it last?** Benefits could last nine months or more,
-through a combination of state and federal programs. But the details
-depend on your state.
+On Aug. 8, President Trump issued a
+[memorandum](https://www.whitehouse.gov/presidential-actions/memorandum-authorizing-needs-assistance-program-major-disaster-declarations-related-coronavirus-disease-2019/)
+making $300 a week available (in lieu of the $600), but only if states
+offer up an additional $100 weekly as well. [It is not
+clear](https://www.nytimes3xbfgragh.onion/2020/08/09/business/trump-executive-orders-unemployment.html)
+whether any will do so, and if so, how many weeks it would take for them
+to start making payments to unemployed workers.
 
 </div>
 
@@ -369,6 +363,10 @@ depend on your state.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+**How long will it last?** Benefits could last nine months or more,
+through a combination of state and federal programs. But the details
+depend on your state.
 
 Most states pay benefits for 26 weeks, though some offer less. After
 that, federal legislation extends benefits by another 13 weeks. (Here’s
@@ -415,13 +413,16 @@ exceptions,](https://www.nytimes3xbfgragh.onion/2020/03/14/opinion/coronavirus-p
 and how the benefits work depends on your
 [circumstances](https://www.nytimes3xbfgragh.onion/2020/05/08/upshot/virus-paid-leave-pandemic.html).
 
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
 **Who is eligible?** Most workers at small and midsize companies, as
 well as government employees. And that includes part-time workers.
-
-**How much will they receive?** Eligible employees get two weeks of paid
-sick leave if they are ill or seeking care, as long as they’ve been
-employed at least 30 days. They can receive their full pay, up to $511 a
-day.
 
 </div>
 
@@ -430,6 +431,11 @@ day.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+**How much will they receive?** Eligible employees get two weeks of paid
+sick leave if they are ill or seeking care, as long as they’ve been
+employed at least 30 days. They can receive their full pay, up to $511 a
+day.
 
 Some workers can also get 12 weeks of paid leave to care for children
 whose schools are closed, or whose child care provider is unavailable
@@ -489,13 +495,6 @@ about food pantries and
 visiting them. To find your nearest food pantry, start with the map
 [here](https://ampleharvest.org/find-pantry/).
 
-Many people who experience even a temporary loss of income can become
-eligible for food stamps but do not realize it. The formal name for the
-program is Supplemental Nutrition Assistance Program, or SNAP, and
-eligibility may vary by state. Here’s [Ron’s
-column](https://www.nytimes3xbfgragh.onion/2020/07/17/your-money/food-stamps-coronavirus.html)
-explaining how the system works.
-
 </div>
 
 </div>
@@ -503,6 +502,13 @@ explaining how the system works.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Many people who experience even a temporary loss of income can become
+eligible for food stamps but do not realize it. The formal name for the
+program is Supplemental Nutrition Assistance Program, or SNAP, and
+eligibility may vary by state. Here’s [Ron’s
+column](https://www.nytimes3xbfgragh.onion/2020/07/17/your-money/food-stamps-coronavirus.html)
+explaining how the system works.
 
 The federal F.A.Q. about SNAP eligibility is
 [here](https://www.fns.usda.gov/snap/recipient/eligibility), and you can
@@ -549,14 +555,9 @@ If you have a federally backed loan, your servicer should present you
 with several ways to become current on your mortgage — and none of them
 require you to immediately pay the money back in a lump sum (although
 you can if you want to). If you can afford to resume your regular
-payments, you may pay the money back over several months, for example,
+payments, you might pay the money back over several months, for example,
 or settle up when the home is sold, refinanced or when the mortgage term
 is up.
-
-People who still cannot afford to make their mortgage payments after the
-forbearance period expires will probably have to lower their monthly
-payment by modifying their loan, a more formal process that will require
-an application.
 
 </div>
 
@@ -566,15 +567,20 @@ an application.
 
 <div class="css-53u6y8">
 
+People who still cannot afford to make their mortgage payments after the
+forbearance period expires will probably have to lower their monthly
+payment by modifying their loan, a more formal process that will require
+an application.
+
 For mortgage holders with loans owned by banks or private investors,
 [the
 options](https://www.nytimes3xbfgragh.onion/2020/05/15/business/coronavirus-mortgage-relief.html)
 aren’t always as clear or as accommodating.
 
 **What about foreclosure?** Federal housing officials [recently
-extended](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-Foreclosure-and-Eviction-Moratorium-6172020.aspx)
-a nationwide eviction and foreclosure moratorium for borrowers with
-loans backed by Fannie Mae, Freddie Mac and the F.H.A. This includes
+extended](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Extends-Foreclosure-and-Eviction-Moratorium-6172020.aspx)a
+nationwide eviction and foreclosure moratorium for borrowers with loans
+backed by Fannie Mae, Freddie Mac and the F.H.A. This includes
 foreclosures that are already in progress.
 
 **Where can I get assistance?** If you don’t feel like you are being
@@ -607,6 +613,14 @@ Desmond, also offers
 [information](https://justshelter.org/community-resources/) on local
 organizations that can provide advice to renters in distress.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 **What are governments doing?** ** State and local governments have
 offered some eviction protection.<span class="css-8l6xbc evw5hdy0">
 </span>Mr. Desmond, the author of the book
@@ -618,21 +632,14 @@ regional actions to pause evictions of renters. It has also published a
 examines state policies and how they’ve changed since the pandemic took
 hold.
 
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
-
 The CARES Act put a temporary, nationwide [eviction
 moratorium](https://crsreports.congress.gov/product/pdf/IN/IN11320) in
 place for any renters whose landlords have mortgages backed or owned by
-Fannie Mae, Freddie Mac or the Federal Housing Administration. This will
-last through the end of July, and landlords can’t charge any fees or
-penalties for nonpayment of rent either. The moratorium applies only to
-eviction for nonpayment; tenants can still be evicted for other reasons.
+Fannie Mae, Freddie Mac or the Federal Housing Administration. This
+expired at the end of July, and it’s not clear if any extension is
+coming, though President Trump has voiced his support for one in an
+[executive
+order](https://www.whitehouse.gov/presidential-actions/executive-order-fighting-spread-covid-19-providing-assistance-renters-homeowners/).
 
 **What about my landlord?** Regulators have also [told
 landlords](https://www.fhfa.gov/Media/PublicAffairs/Pages/FHFA-Moves-to-Provide-Eviction-Suspension-Relief-for-Renters-in-Multifamily-Properties.aspx)
@@ -675,6 +682,14 @@ now than in previous crises. But navigating the [complex
 web](https://www.kff.org/health-reform/issue-brief/changes-in-income-and-health-coverage-eligibility-after-job-loss-due-to-covid-19/)
 of alternatives and figuring out how to qualify can be a challenge.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 **If your income has dwindled to almost nothing.** People earning very
 little will most likely be eligible for the federal-state health
 insurance program known as Medicaid in 36 states and the District of
@@ -684,17 +699,9 @@ below a certain threshold — around $1,400 a month for a single person or
 $2,950 for a family of four. That calculation should include any normal
 unemployment benefits you are receiving, but not the additional $600 a
 week being paid temporarily and not the direct
-[stimulus](https://www.nytimes3xbfgragh.onion/interactive/2020/07/24/business/economy/600-unemployment-benefits.html)
+[stimulus](https://www.nytimes3xbfgragh.onion/2020/08/13/business/economy/unemployment-benefits-coronavirus.html)
 payment authorized under recent [relief
 legislation](https://www.nytimes3xbfgragh.onion/article/coronavirus-stimulus-package-questions-answers.html).
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 **If your income is too high for Medicaid.** Those earning more can
 probably buy coverage through the marketplaces established under the
@@ -734,11 +741,6 @@ company, UnitedHealth, is[offering modest
 relief](https://www.nytimes3xbfgragh.onion/2020/05/07/health/unitedhealth-coronavirus.html)
 by providing enrollees with a break on premiums.)
 
-## Credit Cards and Auto Loans
-
-If you need temporary relief on your credit card or auto loan payments,
-many lenders are offering at least some help.
-
 </div>
 
 </div>
@@ -746,6 +748,11 @@ many lenders are offering at least some help.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+## Credit Cards and Auto Loans
+
+If you need temporary relief on your credit card or auto loan payments,
+many lenders are offering at least some help.
 
 Start with the website for your lenders and read what they have posted.
 Some have made their policies more stingy since Ron [first
@@ -780,6 +787,14 @@ sliding scale. There does not appear to be a national directory of such
 providers, but there is no reason not to contact local ones to ask about
 low or no-cost services.
 
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
 The National Alliance on Mental Illness maintains [a help
 line](https://nami.org/Support-Education/NAMI-HelpLine/NAMI-HelpLine-FAQs)
 that can provide referrals to local resources as well. Its number is
@@ -803,7 +818,9 @@ that can provide referrals to local resources as well. Its number is
     fact, you should have automatically received relief without lifting
     a finger: Borrowers have been placed in so-called administrative
     forbearance, which allows you to temporarily stop making payments
-    until Sept. 30.
+    until Sept. 30. In August, President Trump issued [a
+    memorandum](https://www.whitehouse.gov/presidential-actions/memorandum-continued-student-loan-payment-relief-covid-19-pandemic/)
+    extending this relief through the end of December.
     
     No interest will accrue during this period, and borrowers who want
     to continue making loan payments can do so.
@@ -817,13 +834,6 @@ that can provide referrals to local resources as well. Its number is
     Q\&A
     [here](https://studentaid.gov/announcements-events/coronavirus#borrower-questions).
     Some private lenders are offering relief programs, too.
-
-  - **Staying in touch.** A number of large companies have agreed not to
-    terminate the service of residential or small business customers who
-    can’t pay their bills until at least June 30, including AT\&T,
-    Comcast, Cox, RCN, Sprint, T-Mobile and Verizon. A [full list of
-    companies](https://www.fcc.gov/keep-americans-connected#pledges) is
-    available on the Federal Communications Commission site.
 
   - **How to help.** There is no shortage of need right now — and no
     shortage of guides to helping. The New York Times has a [basic
@@ -840,9 +850,9 @@ that can provide referrals to local resources as well. Its number is
     column](https://www.nytimes3xbfgragh.onion/2020/05/30/your-money/philanthropy-charity-giving-coronavirus.html)
     about the kind of direct giving that allows you to channel money to
     individuals with immediate cash needs. The New York Times has also
-    started [its own
+    started [our own
     campaign](https://www.nytimes3xbfgragh.onion/2020/04/01/reader-center/neediest-cases-covid-19-relief-campaign.html)
-    as part of its Neediest Cases fund.
+    as part of our Neediest Cases fund.
 
   - **Don’t forget about property taxes.** Despite the economic strain
     caused by the virus, in many places, homeowners are still expected

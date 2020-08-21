@@ -1,0 +1,492 @@
+<div id="app">
+
+<div>
+
+<div class="NYTAppHideMasthead css-ikk3s8 e1suatyy0">
+
+<div class="section css-133zg39 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site index](#site-index)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+new video loaded: T Process | Pierre
+Davis
+
+<div>
+
+<div class="css-z6smm2-videoContainer" data-role="button" tabindex="-1">
+
+<div class="css-9jafkt-MastheadShadow">
+
+</div>
+
+<div class="css-11gu6ja-Overlay">
+
+<div class="css-57kt75-PlayIconContainer">
+
+<div class="css-1ct1iq3">
+
+<div class="css-112r0at">
+
+<div class="css-1ntlhln">
+
+</div>
+
+<div class="css-xyediy">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-11kuxu4" style="width:100%;padding-bottom:56.25%;background:black">
+
+<div class="css-122y91a">
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ap46ug">
+
+<div class="css-1bacxw9">
+
+<div class="css-ggwicp">
+
+# <span>T Process | Pierre Davis</span>
+
+<div class="css-19m31ns">
+
+By Scott J. Ross<span class="css-1iknmmf">•</span>August 10,
+2020
+
+</div>
+
+</div>
+
+## The Los Angeles-based fashion designer hand-embroiders a T-shirt from No Sesso’s spring 2020 collection.
+
+</div>
+
+</div>
+
+<div class="css-hn4bqd">
+
+<div class="css-lsf37j">
+
+<div class="css-x83khl">
+
+<div class="css-141slpx">
+
+<div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1iyuew3" disabled="">
+
+</div>
+
+<div class="css-1kpt05j">
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000007260935/t-process-aiko-hachisuka.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/10tmag-hachisuka/10tmag-hachisuka-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:01</span>
+    
+    ### T Process | Aiko Hachisuka
+
+  - <span class="css-1k4szha"></span>
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/10tmag-t-process-pierre-davis/10tmag-t-process-pierre-davis-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz"><span class="css-kraruq">NOW
+    PLAYING</span></span>
+    
+    ### T Process | Pierre Davis
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/design/100000007258999/t-process-sophia-moreno-bunge.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/t-magazine/art/Tadobe-slide-F6M4/Tadobe-slide-F6M4-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:38</span>
+    
+    ### T Process | Sophia Moreno-Bunge
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000007129787/t-process-prada-galleria-bag.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/05/12/t-magazine/12tmag-prada-galleria/12tmag-prada-galleria-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">1:10</span>
+    
+    ### T Process | Prada Galleria Bag
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000006981030/t-process-the-making-of-a-lobster-tower.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2020/02/21/autossell/21tmag-banquets/21tmag-banquets-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:34</span>
+    
+    ### T Process | The Making of a Lobster Tower
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000006834800/t-process-chanel-j12-watch.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2019/11/25/t-magazine/25tmag-chanel-watch/25tmag-chanel-watch-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:42</span>
+    
+    ### T Process | Chanel J12 Watch
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000006716047/t-process-the-making-of-a-giant-bejeweled-lemon.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2019/09/20/t-magazine/12tmag-kathleenryan/12tmag-kathleenryan-square320.png)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:31</span>
+    
+    ### T Process | The Making of a Giant Bejeweled Lemon
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000006363367/the-making-of-a-3-d-cherry-layer-cake.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2019/02/21/t-magazine/21tmag-cake/21tmag-cake-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:31</span>
+    
+    ### The Making of a 3-D Cherry Layer Cake
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/fashion/100000006361342/the-making-of-an-hermes-kelly-bag.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2019/02/19/t-magazine/19tmag-hermes/15tmag-hermes-square320-v4.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:47</span>
+    
+    ### The Making of an Hermès Kelly Bag
+
+  - [](https://www.nytimes3xbfgragh.onion/video/t-magazine/100000006237069/a-chanel-haute-couture-jacket-gets-its-finishing-touch.html?action=click&module=video-series-bar&region=header&pgtype=Article&playlistId=video/t-process)
+    
+    <div class="css-1aetz0h">
+    
+    ![episode
+    poster](https://static01.graylady3jvrrxbe.onion/images/2018/11/29/t-magazine/29tmag-chanel/29tmag-chanel-square320.jpg)
+    
+    </div>
+    
+    <span class="css-1xigvfz">0:34</span>
+    
+    ### A Chanel Haute Couture Jacket Gets Its Finishing Touch
+
+</div>
+
+<div class="css-1iyuew3">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="T-Process" class="css-1ipv97n">
+
+Recent episodes in <span class="css-1galvr2">T
+Process</span>
+
+</div>
+
+<div class="css-1wapnqs" data-aria-labelledby="T-Process">
+
+<div class="css-1gce877">
+
+<div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-x9go3y">
+
+<div>
+
+</div>
+
+</div>
+
+<div class="css-1510v7r">
+
+<div class="css-2413ja">
+
+<div class="css-1bhkq9y">
+
+[](/video)
+
+<div class="css-ywf6j7">
+
+</div>
+
+<div class="css-1y4kgfw">
+
+</div>
+
+</div>
+
+<div class="css-wadcla">
+
+<div class="css-8lsp7v">
+
+[Latest Video](/video/latest-video)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Hong Kong Protests](/video/hk-protest)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[2020 Elections](/video/2020-Elections)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Most-Viewed](/video/Most-Viewed)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Visual Investigations](/video/investigations)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[The Dispatch](/video/on-the-ground)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Diary of a Song](/video/diaryofasong)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[How We Got Here](/video/how-we-got-here)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Magazine](/video/magazine)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[T Magazine](/video/t-magazine)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Op-Docs](/video/op-docs)
+
+</div>
+
+<div class="css-8lsp7v">
+
+[Opinion](/video/opinion)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-1ej6u1y">
+
+<div id="bottom-wrapper" class="css-16far3i eaca97t0" type="bottom">
+
+<div id="bottom-slug" class="css-1tag3rd eaca97t1">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>

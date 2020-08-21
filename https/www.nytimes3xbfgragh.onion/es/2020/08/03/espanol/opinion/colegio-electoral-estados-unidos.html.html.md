@@ -70,7 +70,7 @@ vigencia</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-11qgg8s">
+<div class="css-11qgg8s">
 
 </div>
 

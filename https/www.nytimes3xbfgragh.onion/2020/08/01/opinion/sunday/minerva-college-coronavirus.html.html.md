@@ -133,37 +133,20 @@ Pandemic</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="maps-athome-menu" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Schools</span><span class="css-1rxm0ex"> Reopening</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2afbc500-e385-11ea-9f87-27c642fe12b3)
 
-<div class="css-17ih8de interactive-body">
-
-<div class="at-home-nav__innerContainer">
-
-<div class="at-home-nav__title">
-
-[At
-Home](https://www.nytimes3xbfgragh.onion/spotlight/at-home?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-
-</div>
-
-  - [Take: A Literary Road
-    Trip](https://www.nytimes3xbfgragh.onion/2020/07/28/books/time-for-a-literary-road-trip.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Cook: Smoky
-    Eggplant](https://www.nytimes3xbfgragh.onion/2020/07/29/magazine/bored-with-your-home-cooking-some-smoky-eggplant-will-fix-that.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Look Out: For
-    Moose](https://www.nytimes3xbfgragh.onion/2020/07/27/travel/moose-michigan-isle-royale.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-  - [Explore: Reporters’
-    Obsessions](https://www.nytimes3xbfgragh.onion/interactive/2020/at-home/even-more-reporters-editors-diaries-lists-recommendations.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=at_home_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2afbec10-e385-11ea-9f87-27c642fe12b3)</span>
+  - <span class="css-ousu42">[Missing School
+    Nurses](https://www.nytimes3xbfgragh.onion/2020/08/20/us/schools-reopening-nurses-covid.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2afbec11-e385-11ea-9f87-27c642fe12b3)</span>
+  - <span class="css-ousu42">[Home-Schooling
+    Families](https://www.nytimes3xbfgragh.onion/2020/08/18/parenting/homeschool-families.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2afbec12-e385-11ea-9f87-27c642fe12b3)</span>
+  - <span class="css-ousu42">[Prepare for Distance
+    Learning](https://www.nytimes3xbfgragh.onion/2020/08/05/parenting/parents-distance-learning.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=2afbec13-e385-11ea-9f87-27c642fe12b3)</span>
 
 </div>
 
@@ -313,6 +296,14 @@ Wiseman</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/202
 
 <div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
 
+<div id="NYT_ABOVE_MAIN_CONTENT_REGION">
+
+<div>
+
+</div>
+
+</div>
+
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
@@ -457,7 +448,64 @@ poem. It doesn’t own and give students instant access to cutting-edge
 scientific equipment or stacks of old books.
 
 But it’s a creative mix of disruptions and rebellions that could, in
-some form, have application elsewhere.
+some form, have application
+elsewhere.
+
+<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1596575370630" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-22350" class="css-19mumt8" data-role="complementary" data-storyline="Schools Reopening" data-truncated="false" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div>
+
+[](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
+
+### Schools Reopening ›
+
+#### Back to School
+
+Updated Aug. 20, 2020
+
+The latest on how schools are reopening amid the pandemic.
+
+  -   - Much more is [expected of America’s school
+        nurses](https://www.nytimes3xbfgragh.onion/2020/08/20/us/schools-reopening-nurses-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
+        during the pandemic, but many schools don’t have one.
+      - A vast majority of parents have resigned themselves to [going it
+        alone in the pandemic school
+        year](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup),
+        according to a new survey for The New York Times.
+      - Alabama is betting that a [robust student testing and technology
+        program](https://www.nytimes3xbfgragh.onion/2020/08/19/business/alabama-uab-coronavirus-tests.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
+        will be enough to hinder outbreaks on college campuses.
+      - We want to hear from teachers making difficult choices. How are
+        you thinking about the start of the school year? [Tell us
+        here](https://www.nytimes3xbfgragh.onion/2020/08/19/us/teachers-school-reopenings.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup).
+
+<div id="styln-survey-component-22350" class="styln-survey-component">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 For example, it completely bucks the trend at many schools toward a
 dizzying array of clubs, activities and amenities. Minerva’s founder,
