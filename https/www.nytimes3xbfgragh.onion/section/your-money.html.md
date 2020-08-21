@@ -70,6 +70,10 @@ Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="collection-your-money" class="section css-15h4p1b e9abtgs0">
 
 <div class="css-1j21atc e1svk9qx1">
@@ -160,11 +164,267 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/14/your-money/girls-entrepreneurship-financial-literacy.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/business/14Wealth-01/14Wealth-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Wealth matters</span>
+    
+    ## Helping Girls Step Up to Entrepreneurship
+    
+    After the pandemic forced parents to revise summer plans, interest
+    surged in a virtual program called Girls With Impact, which aims to
+    teach financial literacy.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Paul
+    Sullivan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/14/your-money/colleges-fees-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/business/14Adviser-illo/14Adviser-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">your money adviser</span>
+    
+    ## New Fee on Some College Bills: It’s for the Virus
+    
+    Students are being asked to share the costs of testing and
+    reconfiguring campus facilities. The fees range from $50 to $475 a
+    semester.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ann
+    Carrns</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/14/business/retirement-inequality-racism.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/business/07Retiring-01/07Retiring-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">retiring</span>
+    
+    ## America’s Retirement Race Gap, and Ideas for Closing It
+    
+    Scholars and policymakers have proposed ways to fix the inequities
+    between whites and people of color, including changes to Social
+    Security and building wealth from birth.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Mark
+    Miller</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/13/business/economy/unemployment-benefits-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/business/13virus-jobless2/13virus-jobless2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## $400 Unemployment Supplement Is Really $300, and Won’t Arrive Soon
+    
+    New state claims fell below one million for the first week since
+    March. But jobless ranks remain vast, and a White House relief plan
+    faces hurdles.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ben Casselman <span>and</span> Emily
+    Cochrane</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/12/travel/virus-visa-extensions.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/travel/12tripped-up-visa/12tripped-up-visa-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Tripped Up</span>
+    
+    ## Help\! I’m Abroad and My Visa Is About to Run Out
+    
+    Many American citizens were traveling internationally when the
+    pandemic struck. For those who have no interest in coming home in
+    the short-term, but face expiring tourist visas, our columnist
+    investigates the options.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Sarah
+    Firshein</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/your-money/college-costs-tuition.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/08Adviser-illo-sub/07Adviser-illo-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## The ‘Indirect’ Costs at College Can Involve Nasty Surprises
+    
+    Expenses for books, transportation and food outside a meal plan may
+    be a problem for poor and moderate-income students, a new report
+    finds.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ann
+    Carrns</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/your-money/family-office-direct-investment.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/08/business/07Wealth-01/07Wealth-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Wealth Matters</span>
+    
+    ## More Wealthy Families Are Throwing a Lifeline to Distressed Businesses
+    
+    The pandemic has created an opportunity for family offices to take a
+    more hands-on approach by investing directly in companies that need
+    capital.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Paul
+    Sullivan</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/your-money/mortgage-loans-credit-cards-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/business/04borrow1/04borrow1-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
@@ -188,7 +448,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -225,7 +485,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -247,259 +507,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sally
-    French</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/30/style/state-quarters-coin-collectors-shortage-us-mint.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/30STATEQUARTERS1/30STATEQUARTERS1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Coin Shortage? It May Be Time to Use Your State Quarters
-    
-    In the midst of reduced coin circulation, the U.S. Mint is winding
-    down its production of novelty quarters. Should they be saved, or
-    spent?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Lora
-    Kelley</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/28/style/gold-storage.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/fashion/29Goldstorage-illo/00Goldstorage-illo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Where Is All That Gold Being Stored?
-    
-    A multitude of options, from burying in the backyard to posh
-    steel-lined vaults.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Danielle
-    Braff</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/25/business/retirement-savings-mentor.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/business/24RETIRING-01/24RETIRING-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">retiring</span>
-    
-    ## The Retirement Savings Coach You Already Know
-    
-    Workers who have learned how to manage their finances and sock away
-    some money are teaching colleagues and friends.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Elizabeth
-    Harris</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/your-money/need-help-with-your-estate-plan-go-with-the-flow-advisers-say.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/business/24Wealth-01/24Wealth-01-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Wealth Matters</span>
-    
-    ## Need Help With Your Estate Plan? Go With the Flow, Advisers Say
-    
-    As older adults face mortality during the pandemic, lawyers and
-    wealth advisers are using color-coded documents and flowcharts to
-    help them understand estate planning.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul
-    Sullivan</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/your-money/back-to-school-tax-holiday-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/business/25adviser/25adviser-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Your money adviser</span>
-    
-    ## 16 States Go Ahead With ‘Back to School’ Sales Tax Holidays
-    
-    Schools may not reopen, and the “holiday” cuts into government
-    revenue. But during a pandemic, states may be thinking, why not
-    offer a bit of relief?
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ann
-    Carrns</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/your-money/food-stamps-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/business/17money/17money-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Your Money</span>
-    
-    ## Are You Eligible for Food Stamps Now? Maybe, but It’s Complex
-    
-    States run SNAP, and many students and older people don’t realize
-    they’re eligible. Without more federal support, millions more may
-    qualify.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ron
-    Lieber</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/17/your-money/real-estate-relocation-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/18/business/18Virus-Wealth-print01/17Wealth-01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Wealth Matters</span>
-    
-    ## New Tools for Home Buyers as the Pandemic Upends Real Estate
-    
-    As homeowners rethink their surroundings and rush to relocate,
-    companies are offering creative ways to help ease a fraught process.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Paul Sullivan</span>
+    By <span class="css-1n7hynb">Sally French</span>
     
     </div>
     

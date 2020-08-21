@@ -174,6 +174,42 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/13/us/coronavirus-south-texas.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/us/13VIRUS-TEXAS/merlin_175264650_390d4e67-41c9-4cd1-bf6d-0bba35255c50-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## 5 South Texas Communities Have the Country’s Highest New Infection Rates
+    
+    “When the state opened, that’s when we saw the infection rate
+    increase dramatically,” one city health official in the region said
+    of the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Manny Fernandez, Mitch Smith
+    <span>and</span> James
+    Dobbins</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/01/us/coronavirus-midwest-cases-deaths.html)
     
     <div class="css-79elbk">
@@ -204,7 +240,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
@@ -240,7 +276,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+4.  
     
     <div class="css-1cp3ece">
     
@@ -275,7 +311,7 @@ story](#after-mid1)
     
     </div>
 
-4.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -311,7 +347,7 @@ story](#after-mid1)
     
     </div>
 
-5.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -347,7 +383,7 @@ story](#after-mid1)
     
     </div>
 
-6.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -384,7 +420,7 @@ story](#after-mid1)
     
     </div>
 
-7.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -420,7 +456,7 @@ story](#after-mid1)
     
     </div>
 
-8.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -456,7 +492,7 @@ story](#after-mid1)
     
     </div>
 
-9.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -478,41 +514,7 @@ story](#after-mid1)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Thomas
-    Fuller</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/28/us/coronavirus-hospital-houston.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/29/world/29-VIRUS-HOUSTONHOSPITAL-01-PRINT/merlin_174009393_507e1263-afe9-4009-92e8-644119fe9b63-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## ‘Feeling Like Death’: Inside a Houston Hospital Bracing for a Virus Peak
-    
-    As young patients fill new virus wards, Houston Methodist is calling
-    nurses to work extra shifts and ramping up its testing efforts.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Sheri Fink</span>
+    By <span class="css-1n7hynb">Thomas Fuller</span>
     
     </div>
     

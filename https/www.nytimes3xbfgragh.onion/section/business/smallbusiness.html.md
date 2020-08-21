@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -186,6 +190,114 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/17/dining/coronavirus-mask-etiquette-restaurants.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/dining/17mask1/17mask1-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">Critic’s Notebook</span>
+    
+    ## One Mask Rule Most New Yorkers Ignore
+    
+    Restaurant diners are supposed to wear facial coverings except when
+    eating or drinking. Hardly anyone does.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Pete
+    Wells</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/dining/chef-niven-patel-mamey-coral-gables.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/dining/12virus-patel1/merlin_175113192_dc4f0b5c-b5e0-4422-b7df-f170ded72ff6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Niven Patel, a Miami Chef, Is Not Giving Up on 2020
+    
+    A return to indoor dining may be far off, but he just opened a new,
+    Caribbean-inspired restaurant and is moving ahead with plans for
+    others.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Brett
+    Anderson</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/10/travel/cape-cod-oysters.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/travel/10travel-capecod-promo/merlin_175078722_594596fc-f1ba-4c5c-93d1-7323a33241ce-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">The World Through a Lens</span>
+    
+    ## On the Shores of Cape Cod, Where the Oyster Is Their World
+    
+    Pollution, development and overharvesting have greatly diminished
+    America’s natural oyster habitat. Aquaculture and adaptable farmers
+    have changed the game.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Randy
+    Harris</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/style/self-care/press-on-nails.html)
     
     <div class="css-79elbk">
@@ -214,7 +326,7 @@ story](#after-sponsor)
     
     </div>
 
-2.  
+5.  
     
     <div class="css-1cp3ece">
     
@@ -251,7 +363,7 @@ story](#after-sponsor)
     
     </div>
 
-3.  
+6.  
     
     <div class="css-1cp3ece">
     
@@ -285,7 +397,7 @@ story](#after-sponsor)
     
     </div>
 
-4.  
+7.  
     
     <div class="css-1cp3ece">
     
@@ -320,7 +432,7 @@ story](#after-sponsor)
     
     </div>
 
-5.  
+8.  
     
     <div class="css-1cp3ece">
     
@@ -362,7 +474,7 @@ story](#after-sponsor)
     
     </div>
 
-6.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -397,7 +509,7 @@ story](#after-sponsor)
     
     </div>
 
-7.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -418,113 +530,7 @@ story](#after-sponsor)
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Paige
-    Lyman</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/24/style/my-cookie-dealer-instagram.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/26/fashion/24COOKIEDEALER1/merlin_174495096_be6f93d6-ae8a-4362-a231-2898da1a4cda-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## The Art of the Cookie Drop
-    
-    My Cookie Dealer, a bakery that delivers and ships orders placed
-    through Instagram, has fared well in the time of socially distant
-    dining.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Dan
-    Greene</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/dining/outdoor-dining-olmsted-summer-camp.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/29/dining/23Dinecamp1/23Dinecamp1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Critic’s Notebook</span>
-    
-    ## A Brooklyn Restaurant’s Answer to Cabin Fever: Summer Camp
-    
-    Olmsted, like many of its New York City peers, is trying to make the
-    most of a strange season by serving up fun and games along with the
-    distancing.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Pete
-    Wells</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/23/style/coronavirus-manicures-haircuts-tattoos-dog-groomer-at-home.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/fashion/23HOUSECALLS3/23HOUSECALLS3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## House Calls for Everything\!
-    
-    Scared to go out for that manicure, dog grooming or tattoo renewal?
-    These businesses will come to you.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ronda Kaysen</span>
+    By <span class="css-1n7hynb">Paige Lyman</span>
     
     </div>
     

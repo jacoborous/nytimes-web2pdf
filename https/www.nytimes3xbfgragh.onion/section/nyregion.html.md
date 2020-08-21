@@ -69,6 +69,10 @@ York](https://www.nytimes3xbfgragh.onion/section/nyregion)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -155,102 +159,105 @@ story](#after-sponsor)
 
 ## Highlights
 
-1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jeenah
-    Moon for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-videoLarge.jpg)
+1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/nyregion/00nypdrecords-HFO/00nypdrecords-HFO-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07NYPROTEST/07NYPROTEST-thumbStandard.jpg)](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/nyregion/00nypdrecords-HFO/00nypdrecords-HFO-thumbStandard.jpg)](/2020/08/20/nyregion/nypd-ccrb-records-published.html)
     
     </div>
     
-    ## [N.Y.P.D. Besieges a Protest Leader as He Broadcasts Live](/2020/08/07/nyregion/nypd-derrick-ingram-protester.html)
+    ## [323,911 Accusations of N.Y.P.D. Misconduct Are Released Online](/2020/08/20/nyregion/nypd-ccrb-records-published.html)
     
-    A helicopter and dozens of officers, some in riot gear, were
-    deployed for an arrest at a Manhattan apartment but withdrew after
-    protesters
-    arrived.
+    The records had been sealed for decades, but last month, New York
+    repealed a law keeping them secret after national protests against
+    police
+    brutality.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Liam Stack</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Annie
-    Correal</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Ashley
+    Southall</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jefferson
-    Siegel for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07nytrump/07nytrump-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Doug
+    Mills/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/nyregion/00nytrumptaxes/00nytrumptaxes-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
     <div class="css-1dqkjed">
     
-    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07nytrump/07nytrump-thumbStandard.jpg)](/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
+    [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/nyregion/00nytrumptaxes/00nytrumptaxes-thumbStandard.jpg)](/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html)
     
     </div>
     
-    ## [E. Jean Carroll, Who Accused Trump of Rape, Can Go Forward With Suit](/2020/08/07/nyregion/jean-caroll-donald-trump-lawsuit-rape.html)
+    ## [Trump Must Turn Over Tax Returns to D.A., Judge Rules](/2020/08/20/nyregion/donald-trump-taxes-cyrus-vance.html)
     
-    A judge rejected President Trump’s bid to delay a defamation suit by
-    Ms. Carroll, pointing to the recent Supreme Court ruling over his
-    tax
-    returns.
+    A federal judge rejected the president’s argument that a subpoena
+    seeking eight years of his tax returns was “wildly
+    overbroad.”
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nicole
-    Hong</span></span>
+    <span class="css-1baulvz" itemprop="name">Benjamin Weiser</span> and
+    <span class="css-1baulvz last-byline" itemprop="name">William K.
+    Rashbaum</span></span>
     
     </div>
 
-3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/00nyunrest-arrestsVIDEOstill/00nyunrest-arrestsVIDEOstill-videoLarge.jpg)
+3.  1.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+        J. Blue for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20nyelections/merlin_174640608_2e771cec-b5f5-4a21-a124-ecb9c76bd2b7-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [They Were Arrested During the Protests. Here’s What Happened Next.](/2020/08/07/nyregion/ny-protest-arrests.html)
+        ## [New York Will Allow Voters to Cast Mail-In Ballots](/2020/08/20/nyregion/vote-by-mail-new-york.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/nyregion/00nyunrest-arrestsVIDEOstill/00nyunrest-arrestsVIDEOstill-thumbStandard.jpg)](/2020/08/07/nyregion/ny-protest-arrests.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20nyelections/20nyelections-thumbStandard.jpg)](/2020/08/20/nyregion/vote-by-mail-new-york.html)
         
         </div>
         
-        Five New Yorkers describe the night they were arrested while
-        participating in Black Lives Matter
-        demonstrations.
+        The state’s uneven handling of its primary has raised doubts
+        about its ability to process more than five million mail-in
+        ballots that are expected in
+        November.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz" itemprop="name">Ali Watkins</span> and
-        <span class="css-1baulvz last-byline" itemprop="name">Simbarashe
-        Cha</span></span>
+        <span class="css-1baulvz last-byline" itemprop="name">Luis
+        Ferré-Sadurní</span></span>
         
         </div>
     
-    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hiroko
-        Masuike/The New York
-        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/nyregion/00nyvirus-schoolsHFO/merlin_175370388_5e723ec8-9174-47aa-950a-c8012dab604f-videoLarge.jpg)
+    2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jefferson
+        Siegel for The New York
+        Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20bannonTOPnew/20bannonTOPnew-videoLarge.jpg)
         
         <div class="css-10wtrbd">
         
-        ## [N.Y. Schools Can Reopen, Cuomo Says, in Contrast With Much of U.S.](/2020/08/07/nyregion/cuomo-schools-reopening.html)
+        ## [Steve Bannon Is Charged With Fraud in We Build the Wall Campaign](/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
         
         <div class="css-ajkwsy">
         
-        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/nyregion/00nyvirus-schoolsHFO/00nyvirus-schoolsHFO-thumbStandard.jpg)](/2020/08/07/nyregion/cuomo-schools-reopening.html)
+        [![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20bannonTOPnew/20bannonTOPnew-thumbStandard.jpg)](/2020/08/20/nyregion/steve-bannon-arrested-indicted.html)
         
         </div>
         
-        In a long-awaited announcement, the governor says schools can
-        welcome back students if the rate of infection in their
-        communities remains
-        low.
+        Mr. Bannon and three others are accused in a scheme to use funds
+        raised for construction to pay for personal
+        expenses.
         
         <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-        <span class="css-1baulvz last-byline" itemprop="name">Eliza
-        Shapiro</span></span>
+        <span class="css-1baulvz" itemprop="name">Alan Feuer</span>,
+        <span class="css-1baulvz" itemprop="name">William K.
+        Rashbaum</span> and
+        <span class="css-1baulvz last-byline" itemprop="name">Maggie
+        Haberman</span></span>
         
         </div>
 
@@ -260,90 +267,97 @@ story](#after-sponsor)
 
 <div class="css-zk12ih ef6si7p0">
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Cumberland
-    County, N.J., Department of Corrections
-    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/nyregion/04njstabbing-1/04njstabbing-1-videoLarge.jpg)
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/nyregion/00nyvirus-masksurveyFINALtop/merlin_175798488_66660ae9-db17-4150-a8c1-909936d48f6c-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Did He Kill Neighbor to Become ‘TikTok Famous,’ or Was It Self-Defense?](/2020/08/07/nyregion/tiktok-manslaughter-new-jersey.html)
+    ## [Are New Yorkers Wearing Masks? Here’s What We Found in Each Borough](/2020/08/20/nyregion/nyc-face-masks.html)
     
-    Zachary Latham says he was defending himself when he fatally stabbed
-    William Durham. Mr. Durham’s family says he had another
-    reason.
+    Over several days this summer, The New York Times tallied the
+    face-covering status of over 7,000 people at 14 spots across the
+    city.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Ed
-    Shanahan</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Andy
+    Newman</span></span>
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07nyoutage1/07nyoutage1-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>OK
+    McCausland for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/nyregion/23nyvirus-movers1/23nyvirus-movers1-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Power Outages Hit Manhattan and Queens as Utilities Face Storm Damage](/2020/08/07/nyregion/queens-manhattan-west-side-power-outage-coned.html)
+    ## [Movers in N.Y.C. Are So Busy They’re Turning People Away](/2020/08/20/nyregion/moving-new-york-coronavirus.html)
     
-    About 180,000 customers lost electricity in an outage that Con
-    Edison said was caused by issues with its “transmission
-    system.”
+    With so many people fleeing the city, moving companies can barely
+    keep up with the
+    demand.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Michael
-    Gold</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Satow</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Flo
-    Ngala for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07nyvirus-pregnancy-promo/merlin_175371471_9c4c25e2-79e5-48f8-aa1a-c6fffbbe1ed1-videoLarge.jpg)
+3.  ### New York Today
+    
+    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+    J. Blue for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/nyregion/20nytoday/merlin_171942420_d5169091-20be-43f1-8e3f-f2a16fc9dd2d-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [She Was Pregnant With Twins During Covid. Why Did Only One Survive?](/2020/08/06/nyregion/childbirth-Covid-Black-mothers.html)
+    ## [What N.Y.C.’s Antibody Test Results Show Us](/2020/08/20/nyregion/nyc-coronavirus-antibody-testing.html)
     
-    Why being Black and giving birth in New York during the pandemic is
-    so
-    dangerous.
+    The data from 1.5 million tests confirms how deeply the coronavirus
+    affected lower-income
+    communities.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Emily
-    Bobrow</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Amanda
+    Rosa</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/multimedia/06NRA/06NRA-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Bryan
+    Anselm for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/nyregion/19njelection1/merlin_169730037_e9cf8e95-7a1a-4847-9118-c5ebbaf989f3-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [New York Attorney General Sues N.R.A. and Seeks Its Closure](/2020/08/06/us/ny-nra-lawsuit-letitia-james.html)
+    ## [New Local Election Ordered in N.J. After Mail-In Voter Fraud Charges](/2020/08/19/nyregion/nj-election-mail-voting-fraud.html)
     
-    Letitia James seeks to dissolve the National Rifle Association,
-    which was founded in New York, amid corruption
-    allegations.
+    A judge ruled that the election in Paterson had been irreversibly
+    tainted. The president has used the case to assail mail-in voting as
+    dangerous, though election experts
+    disagree.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Danny
-    Hakim</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Troy
+    Closson</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Dave
-    Sanders for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/nyregion/06rikers/merlin_170843811_8a6bb1fb-76c6-42eb-bd47-ed4b9aba3c1f-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Victor
+    J. Blue for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/nyregion/18nyvirus-antibody1/merlin_171942465_723f8c77-8593-449c-8f39-160e1fdcf35e-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Violence at Rikers at an ‘All-Time High’ Despite City’s Promise to Curb It](/2020/08/06/nyregion/rikers-island-violence-guards.html)
+    ## [1.5 Million Antibody Tests Show What Parts of N.Y.C. Were Hit Hardest](/2020/08/19/nyregion/new-york-city-antibody-test.html)
     
-    A federal monitor found that the number of times guards at the jail
-    complex used force against inmates rose 54 percent, even as its
-    population
-    shrank.
+    The data from the city is on a far larger scale than previously
+    released information, and includes all antibody test results
+    reported to the city’s Department of
+    Health.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Benjamin
-    Weiser</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Joseph
+    Goldstein</span></span>
     
     </div>
 
@@ -403,23 +417,27 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/theater/scott-rudin-spotco-broadway-lawsuit.html)
+    [](/interactive/2020/08/20/nyregion/nyc-sights-sounds-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/arts/07rudin1/merlin_169363965_d4dcf525-2758-4cc3-bef0-5c2b94c41d80-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/nyregion/00nyvirus-imaginationHPstill/00nyvirus-imaginationHPstill-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Ad Agency Sues Scott Rudin, Saying Producer Owes $6.3 Million
+    ## The Sounds of New York City Have Changed. Listen for Yourself.
     
-    At issue: payment for media buying and marketing strategy for the
-    Broadway revivals of “West Side Story” and “The Music Man.”
+    These are the sounds of a pre-pandemic New York: A parade in the
+    streets, the roar of fans at a ballgame, the bustle of the subway.
+    And here are those scenes today, echoes of city life that are
+    unsettling and yet also reassuring, reminding us of the New York we
+    hope will return.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Michael
-    Paulson</span>
+    By <span class="css-1n7hynb">Dan Barry <span>and</span> Photographs
+    By Todd
+    Heisler</span>
     
     </div>
     
@@ -437,24 +455,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/health/coronavirus-exams-mcat.html)
+    [](/2020/08/20/health/coronavirus-flu-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/science/07VIRUS-EXAM/07VIRUS-MCAT-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/science/20VIRUS-FLU/20VIRUS-FLU-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Want to Be a Doctor? Take Your Chances in a Closed Room With Strangers
+    ## New Measures Aim to Boost Vaccine Rates for Flu and Children’s Shots
     
-    Admissions tests for many graduate schools have gone online. But not
-    the MCAT, the exam for aspiring doctors. It must still be taken in
-    person, pandemic or not.
+    Pharmacists may now vaccinate young children under a new federal
+    emergency rule aimed at helping families who missed well-child
+    visits during the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Roni Caryn
-    Rabin</span>
+    By <span class="css-1n7hynb">Jan
+    Hoffman</span>
     
     </div>
     
@@ -472,26 +490,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/obituaries/barbara-costikyan-dead-coronavirus.html)
+    [](/2020/08/20/theater/kenneth-bernard-dead.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/obituaries/06Costikyan/06Costikyan-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/obituaries/19Bernard1/19Bernard1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Those We’ve Lost</span>
+    ## Kenneth Bernard, Convention-Shattering Playwright, Dies at 90
     
-    ## Barbara Costikyan, New York Magazine Food Columnist, Dies at 91
-    
-    Ms. Costikyan, who died of the coronavirus, once wrote that she
-    couldn’t think about food “without thinking about the people who do
-    it.”
+    His experimental works, staged by the Playhouse of the Ridiculous
+    and other groups, challenged audiences and sometimes baffled them.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emma
-    Goldberg</span>
+    By <span class="css-1n7hynb">Neil
+    Genzlinger</span>
     
     </div>
     
@@ -509,23 +524,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/nyregion/Kwame-Owusu-Kesse.html)
+    [](/2020/08/20/arts/things-to-do-weekend-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/nyregion/09nyvirus-routine2/07nyvirus-routine2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20wkd-arts-roundup-comedy/merlin_175886961_dc53b754-7b1d-428f-b5ab-bbc90b417771-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How the C.E.O. of Harlem Children’s Zone Spends His Sundays
+    ### <span class="css-m70j1g">Weekend Roundup</span>
     
-    When Kwame Owusu-Kesse is not helping families and schools navigate
-    the pandemic, he is trying to wean his toddler off “Baby Shark.”
+    ## 7 Things to Do This Weekend
+    
+    How can you get your cultural fix when many arts institutions remain
+    closed? Our writers offer suggestions for what to listen to, read
+    and
+    watch.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Tammy La
-    Gorce</span>
     
     </div>
     
@@ -543,26 +559,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/realestate/coronavirus-coney-island-wonder-wheel.html)
+    [](/2020/08/20/arts/design/harlem-virtual-tour.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/realestate/07streetscapes1/merlin_175248204_0b1f6dbf-80c2-4bae-85aa-b1d7d7163a93-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/arts/19kimmelman-harlem-promo/19kimmelman-harlem-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">streetscapes</span>
+    ### <span class="css-m70j1g">Critic’s notebook</span>
     
-    ## Coronavirus Silences the Wonder Wheel
+    ## A Walk Through Harlem, New York’s Most Storied Neighborhood
     
-    A 100th anniversary celebration was planned for this star attraction
-    on the Coney Island boardwalk this year. The owners are determined
-    that it will spin again.
+    Our critic chats with the architect David Adjaye about Hotel
+    Theresa, Marcus Garvey Park, the home of Langston Hughes, the
+    Y.M.C.A. and other landmarks.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">John Freeman
-    Gill</span>
+    By <span class="css-1n7hynb">Michael
+    Kimmelman</span>
     
     </div>
     
@@ -580,26 +596,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/nyregion/coronavirus-nyc.html)
+    [](/2020/08/20/realestate/homes-for-sale-in-new-jersey-and-long-island.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/nyregion/07nytoday/merlin_175387701_d504c357-efa4-4cba-bef4-a2efc03f74dc-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/realestate/20OTM-REG-slide-GLK7/20OTM-REG-slide-GLK7-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">New York Today</span>
+    ### <span class="css-m70j1g">On the Market</span>
     
-    ## Coronavirus in N.Y.C.: Here’s What Happened This Week
+    ## Homes for Sale in New Jersey and Long Island
     
-    The city is trying to figure out how to reopen schools. It's also
-    trying to spread the message that some out-of-state visitors are
-    required to quarantine. 
+    This week’s properties include a four-bedroom in Stockton, N.J., and
+    a five-bedroom in Nesconset, N.Y.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Troy
-    Closson</span>
+    By <span class="css-1n7hynb">Claudia Gryvatz Copquin
+    <span>and</span> Jill P.
+    Capuzzo</span>
     
     </div>
     
@@ -617,22 +633,25 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/world/covid-19-news.html)
+    [](/2020/08/20/realestate/homes-for-sale-in-brooklyn-manhattan-and-the-bronx.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/realestate/20OTM-NYC-slide-0M58/20OTM-NYC-slide-0M58-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Coronavirus Live Updates: As U.S. Stimulus Talks Near Collapse, Trump Eyes Executive Orders
+    ### <span class="css-m70j1g">On the Market</span>
     
-    New York’s governor said schools can reopen for in-person
-    instruction, but he left the details up to the districts. Africa
-    surpasses a million confirmed cases, though the real number may be
-    higher.
+    ## Homes for Sale in Brooklyn, Manhattan and the Bronx
+    
+    This week’s properties are in Greenpoint, Yorkville and on the Grand
+    Concourse.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Stefanos
+    Chen</span>
     
     </div>
     
@@ -650,22 +669,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/style/coronavirus-nyc-historic-season.html)
+    [](/2020/08/20/world/coronavirus-covid.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/fashion/NYC-HISTORIC-APRIL-02/NYC-HISTORIC-APRIL-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/us-briefing-promo-image-print/us-briefing-promo-image-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## A Season of Grief and Release: 5 Months of the Virus in New York City
+    ## College Officials Clamp Down on Student Behavior Over Covid-19 Fears
     
-    A photographic timeline of a historic half-year.
+    Joe Biden criticized President Trump’s virus response and outlined a
+    strategy to fight the pandemic. Overburdened health care specialists
+    are finding themselves on the front lines as schools
+    reopen.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Daniel Arnold <span>and</span> Dodai
-    Stewart</span>
     
     </div>
     
@@ -683,24 +702,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/arts/design/high-line-governors-island-brooklyn-bridge-park.html)
+    [](/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/arts/30outdoor-reopen-bkbridge1/30outdoor-reopen-bkbridge1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20DIA-REVIEWalt1/20DIA-REVIEWalt1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Summertime in the (Partly Reopened) City
+    ### <span class="css-m70j1g">Critic’s Pick</span>
     
-    While life is not quite back to normal, we found city dwellers
-    making the most of strolling the High Line, outings to Governors
-    Island and exploring a new section of Brooklyn Bridge Park.
+    ## Dia Beacon Reopens With a Sonic Boom
+    
+    The D.J. Carl Craig’s basement “club” shows the affinity between
+    minimal art and techno music. It’s an after-party for the Covid age,
+    minus the sweat.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Aaron
-    Berger</span>
+    By <span class="css-1n7hynb">Jason
+    Farago</span>
     
     </div>
     
@@ -718,22 +739,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/realestate/coronavirus-escape-suburbs-new-york.html)
+    [](/2020/08/19/nyregion/coronavirus-nyc-restaurant-closures.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/realestate/07SUBURBS-COMBO/07SUBURBS-COMBO-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/nyregion/23nyvirus-lastmeals1/23nyvirus-lastmeals1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Leaving New York: How to Choose the Right Suburb
+    ## Final Meals at Closing Restaurants: ‘I Will Dream of Those Dumplings’
     
-    Set your priorities — walkable town, easy commute, good schools,
-    waterfront access or something else? Then start exploring.
+    New Yorkers, losing their favorite spots because of the pandemic,
+    are returning for one last burger, one more bowl of ramen.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Lasky</span>
+    By <span class="css-1n7hynb">Alyson Krueger</span>
     
     </div>
     

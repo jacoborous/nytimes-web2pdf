@@ -55,7 +55,8 @@ index](#site-index)
 
 <div class="css-1bvtpon e1csuq9d2">
 
-[Today’s Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
 
 </div>
 
@@ -69,28 +70,7 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
-<div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
-
-<div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
-
-Advertisement
-
-</div>
-
-[Continue reading the main
-story](#after-top)
-
-<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
-
-<div id="top" class="place-ad" data-position="top" data-size-key="top">
-
-</div>
-
-</div>
-
-<div id="after-top">
-
-</div>
+<div class="css-1ffjgkm">
 
 </div>
 
@@ -160,63 +140,126 @@ Go](/interactive/2020/travel/places-to-visit.html)
 
 ## Highlights
 
-1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
-    Shelanski
-    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/07canada-virus/oakImage-1596744232455-jumbo.jpg)
+1.  ![<span class="css-kvjpws e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Justin
+    Sullivan/Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/travel/20flying-coronavirus1/20flying-coronavirus1-jumbo.jpg)
     
     <div class="css-gjijuv">
     
-    ## [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
+    ## [5 Things We Know About Flying Right Now](/2020/08/20/travel/airplanes-coronavirus.html)
     
-    Some Canadian citizens, concerned about the spread of the
-    coronavirus, are taking matters into their own hands and reporting
-    illegal American
-    visitors.
+    As passengers cautiously return to air travel, there are a few
+    issues worth considering — from middle-seat policies to questions
+    about virus transmission on
+    airlines.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    <span class="css-1baulvz last-byline" itemprop="name">Elaine
+    Glusac</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steve
+    Legato for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/travel/19travel-remoteworkers/merlin_175850454_783f5130-16eb-4329-b30c-e5956e4594df-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Why Work From Home When You Can Work From Barbados, Bermuda or … Estonia?](/2020/08/19/travel/remote-worker-visa.html)
+    
+    Several countries with fragile tourist economies have started to
+    offer visas that allow foreign nationals to live and work for a
+    period of at least six
+    months.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Charu
+    Suri</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Susan
+    Wright for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/realestate/18Raphael1/18Raphael1-videoLarge-v4.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [In the Virtual (and Actual) Footsteps of Raphael](/2020/08/18/travel/in-the-virtual-and-actual-footsteps-of-raphael.html)
+    
+    In Italy and beyond, the plan was to celebrate the 500th anniversary
+    of the Renaissance artist’s death with great fanfare. Then came the
+    pandemic, and the virtual world stepped
+    in.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">David
+    Laskin</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Barry
+    L.
+    Schwartz</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/travel/17travel-panicale-promo/17travel-panicale-promo-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ### The World Through a Lens
+    
+    ## [Quiet Reflections on the Enchanting Italian Village of Panicale](/2020/08/17/travel/panicale-italy.html)
+    
+    Pensive after the loss of a friend, a photographer finds solace —
+    and instruction — on a trip to the central Italian region of
+    Umbria.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Barry L.
     Schwartz</span></span>
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hunter
-    McRae for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/06National-seashores3/merlin_122874287_3bedec41-c3b7-4384-8515-e27104753d6f-videoLarge.jpg)
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
+    W. Lee/The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/fashion/13travel-sneakyvacations1/merlin_175631886_1fa8d1fa-56d7-4e24-9286-1689349837b2-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](/2020/08/06/travel/National-Seashores.html)
+    ## [Shhh\! We’re Heading Off on Vacation](/2020/08/14/travel/virus-secret-vacations.html)
     
-    From California to Cape Cod, these national seashores and lakeshores
-    offer everything from bird-watching to boating to basking in the
-    sun.
+    Sharing vacation adventures used to be fun. But during the pandemic,
+    some travelers are content to let the tree fall in the forest, so to
+    speak, without a single soul to hear
+    it.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Jon
-    Waterman</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Firshein</span></span>
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
-    Arduengo/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nikola
+    Olic</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/travel/13travel-quiz-promo/13travel-quiz-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Caribbean Dilemma](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    ## [Architecture, in Abstract: A Quiz](/interactive/2020/08/13/travel/13travel-quiz.html)
     
-    Many islands are open to American travelers. Going could mean
-    bringing coronavirus to places ill prepared to deal with it. Not
-    going could mean deepening economic woes. How do you
-    choose?
+    Can you identify the cities where these abstract architectural
+    photographs were
+    taken?
     
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Nina
-    Burleigh</span></span>
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">Photographs
+    by <span class="css-1baulvz last-byline" itemprop="name">Nikola
+    Olic</span></span>
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>The
     New York
     Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/30/travel/coronavirus-travel-risk-promo/coronavirus-travel-risk-promo-videoLarge-v2.jpg)
     
@@ -232,68 +275,6 @@ Go](/interactive/2020/travel/places-to-visit.html)
     <span class="css-1baulvz" itemprop="name">Sara Aridi</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Umi
     Syam</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ### The World Through a Lens
-    
-    ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andria
-    Hautamaki</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/travel/03travel-patagonia-promo-2/merlin_173715438_75373b10-dda4-4a96-9845-2f9eb704acd2-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [A Visit to 5 of Patagonia’s Most Remote Schoolhouses](/2020/08/03/travel/remote-schools-patagonia.html)
-    
-    Community life within the isolated villages of southern Chile is
-    facilitated in part by an unlikely source: a network of rural
-    schools.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Andria
-    Hautamaki</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Silver
-    Air</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Afraid of Airlines? There’s Always the Private Jet](/2020/07/30/travel/private-jets-coronavirus.html)
-    
-    Concerned about virus-related safety on commercial planes, many
-    fliers are turning to private jets for the first time. The catch, of
-    course, is the
-    price.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sally
-    French</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alyssa
-    Schukar for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.](/2020/08/04/health/coronavirus-hotels-infect.html)
-    
-    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
-    Medicine. But new research shows hotels can be easily contaminated
-    by the
-    coronavirus.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Matt
-    Richtel</span></span>
     
     </div>
 
@@ -322,7 +303,7 @@ Go](/interactive/2020/travel/places-to-visit.html)
     
     <div class="css-10wtrbd">
     
-    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
+    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions.](/2020/07/10/travel/state-travel-restrictions.html)
     
     Nearly half of the states have measures in place for visitors, from
     mandatory testing to quarantine
@@ -388,76 +369,76 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
-    Taylor for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alessandro
+    Grassani for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/world/19italy-vandalism-01/merlin_173102259_6a7509bf-9d05-402f-8938-ca61aec664ca-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The New College Drop-Off](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    ## [Italy Wants Its Tourists Back, Unless They Sit on the Statues](/2020/08/19/world/europe/italy-vandalism-tourism.html)
     
-    A bittersweet family tradition has become an exercise in risk
-    assessment, logistics and trying to understand ever-changing
-    rules.
+    Damaged treasures and broken rules have put the spotlight on the
+    country’s fragile cultural heritage, and the need to better educate
+    visitors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Julie
-    Weed</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Elisabetta
+    Povoledo</span></span>
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
-    Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joanne
+    Kim</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/travel/07-outdoor-apps/07-outdoor-apps-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Road Trips are Great. Except for the Driving.](/2020/07/24/travel/virus-road-trip.html)
+    ## [17 Learning Tools For Your Next Outdoor Excursion](/2020/08/11/travel/outdoors-apps-podcasts.html)
     
-    I wasn’t looking for an exotic vacation, just a temporary reprieve
-    from compulsive news-watching and a dose of in-person fun with
-    family and
-    friends.
+    Ever wonder how underwater creatures make light? Or what a Carolina
+    leaf-roller eats? Our list of apps, podcasts and websites will help
+    you figure out what’s going on in the great
+    outdoors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Amy Tara
-    Koch</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
+    Rosenbloom</span></span>
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
-    A. Mccoy/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-videoLarge.jpg)
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
+    Shelanski
+    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/07canada-virus/07canada-virus-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Why Delta Is Leaving Middle Seats Empty During the Pandemic](/2020/07/27/business/delta-airlines-bill-lentsch.html)
+    ## [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
     
-    An executive for the airline explains its distancing practices and
-    approach to cleaning at a time when its biggest rivals are selling
-    all the seats they
-    can.
+    Some Canadian citizens, concerned about the spread of the
+    coronavirus, are taking matters into their own hands and reporting
+    illegal American
+    visitors.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Niraj
-    Chokshi</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Schwartz</span></span>
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+    Rose for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/06National-seashores5/06National-seashores5-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [Voices From Travel’s Front Lines: ‘We Walk in Fear, We Work in Fear’](/2020/07/17/travel/coronavirus-travel-hospitality-workers.html)
+    ## [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](/2020/08/06/travel/National-Seashores.html)
     
-    Six travel workers from Alaska to the Maldives talk about returning
-    to the job. They are in a new world, with restrictions and health
-    measures, uncertainty and new
-    procedures.
+    From California to Cape Cod, these national seashores and lakeshores
+    offer everything from bird-watching to boating to basking in the
+    sun.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Emily Palmer</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Tariro
-    Mzezewa</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Jon
+    Waterman</span></span>
     
     </div>
 
@@ -470,7 +451,26 @@ story](#after-mid1)
 [More in Tripped Up
     »](/column/tripped-up)
 
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nicole
+    Rifkin</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/travel/12tripped-up-visa/12tripped-up-visa-mediumThreeByTwo440.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Help\! I’m Abroad and My Visa Is About to Run Out](/2020/08/12/travel/virus-visa-extensions.html)
+    
+    Many American citizens were traveling internationally when the
+    pandemic struck. For those who have no interest in coming home in
+    the short-term, but face expiring tourist visas, our columnist
+    investigates the
+    options.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Sarah
+    Firshein</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Anna
     Wanda
     Gogusey</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/25/travel/25TrippedUp/24TrippedUp-videoLarge.jpg)
     
@@ -488,7 +488,7 @@ story](#after-mid1)
     
     </div>
 
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reyna
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Reyna
     Noriega</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/13/travel/13trippedup-sonoma-hotel-rev/07trippedup-sonoma-hotel-rev-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -506,7 +506,7 @@ story](#after-mid1)
     
     </div>
 
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karlotta
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Karlotta
     Freier</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/18/travel/18tripped-up-rev/18tripped-up-rev-videoLarge.jpg)
     
     <div class="css-10wtrbd">
@@ -524,7 +524,7 @@ story](#after-mid1)
     
     </div>
 
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Hokyoung
     Kim</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/25/travel/26trippedup-OAT/26trippedup-OAT-videoLarge-v2.jpg)
     
     <div class="css-10wtrbd">
@@ -534,24 +534,6 @@ story](#after-mid1)
     Then our columnist intervened with the Boston-based tour operator
     Overseas Adventure
     Travel.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Sarah
-    Firshein</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alex
-    Green</span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/03/travel/03TrippedUp-airline-refunds/03TrippedUp-airline-refunds-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Help\! My Flight Was Canceled and I Still Can’t Get a Refund](/2020/05/01/travel/trip-refund-airlines.html)
-    
-    There’s a reason we are deliberately pounding the topic of travel
-    refunds into the ground: It’s a big deal and there’s lots of
-    confusion and contradictory information out
-    there.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
     <span class="css-1baulvz last-byline" itemprop="name">Sarah
@@ -611,23 +593,20 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/07/arts/aidan-koch-postcards.html)
+    [](/2020/08/20/t-magazine/monte-uzulu-vivanterre-emme-parsons.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/arts/09diary-project-koch/09diary-project-koch-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/t-magazine/19tmag-newsletter-slide-OHNJ/19tmag-newsletter-slide-OHNJ-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Why You Should Write Postcards, Even From Home
+    ## The T List: Five Things We Recommend This Week
     
-    A postcard functions outside the language of chats, emails, calls
-    and letters.
+    A Oaxacan resort, fine jewelry inspired by crudités — and
+    more.
     
     <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Aidan
-    Koch</span>
     
     </div>
     
@@ -645,23 +624,26 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/travel/USA-Travel-State-Department-warnings.html)
+    [](/2020/08/20/arts/design/dia-beacon-reopen-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/realestate/06statedept-travel/merlin_172927290_49437ccf-29e0-47a3-9239-63742f08c1be-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/arts/20DIA-REVIEWalt1/20DIA-REVIEWalt1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The U.S. Lifted Its Advisory Against Traveling Abroad. What Does That Mean?
+    ### <span class="css-m70j1g">Critic’s Pick</span>
     
-    After nearly five months, the State Department lifted its “do not
-    travel” advisory.
+    ## Dia Beacon Reopens With a Sonic Boom
+    
+    The D.J. Carl Craig’s basement “club” shows the affinity between
+    minimal art and techno music. It’s an after-party for the Covid age,
+    minus the sweat.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Tariro
-    Mzezewa</span>
+    By <span class="css-1n7hynb">Jason
+    Farago</span>
     
     </div>
     
@@ -679,25 +661,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
+    [](/2020/08/20/style/orbivores-block-island.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/arts/06suffragist-statue1/06suffragist-statue1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/fashion/20ORBIVORES2/20ORBIVORES2-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## For Three Suffragists, a Monument Well Past Due
+    ## The Treasure Hunters of Block Island
     
-    Central Park will soon unveil its first sculpture depicting
-    nonfictional female figures. “The fact that nobody even noticed that
-    women were missing in Central Park — what does that say about the
-    invisibility of women?”
+    In this summer of sorrow, a game searching for glass orbs takes on
+    new and magical meaning.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alisha Haridasani
-    Gupta</span>
+    By <span class="css-1n7hynb">Hillary
+    Richard</span>
     
     </div>
     
@@ -715,24 +695,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/style/american-comfort-foods-peanut-butter-ranch-dressing-hot-cheetos.html)
+    [](/2020/08/19/technology/airbnb-ipo.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/fashion/05HOME-COMFORTSArt/05HOME-COMFORTSArt-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/business/00airbnb-promo/merlin_171592323_6685d092-eca4-40d5-8014-0a79df44556b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Peanut Butter and Ranch Dressing: What Americans Abroad Miss From Home
+    ## Airbnb, a ‘Sharing Economy’ Pioneer, Files to Go Public
     
-    With virus cases in the United States rising and international
-    travel curtailed, many Americans do not know when they will be able
-    to reunite with home and the comforts they associate with it.
+    The home rental company, which was privately valued at $31 billion,
+    is trying to go public after its business was crushed by the
+    pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Valeriya
-    Safronova</span>
+    By <span class="css-1n7hynb">Erin
+    Griffith</span>
     
     </div>
     
@@ -750,26 +730,26 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/realestate/house-hunting-in-iceland-a-lakeside-summer-house-for-773000.html)
+    [](/2020/08/19/realestate/costa-del-sol-malaga-spain.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/realestate/05IHH-ICELAND-slide-5EHW/05IHH-ICELAND-slide-5EHW-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/realestate/19IHHH-COSTADELSOL-slide-CH02/19IHHH-COSTADELSOL-slide-CH02-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
     ### <span class="css-m70j1g">International real estate</span>
     
-    ## House Hunting in Iceland: A Lakeside Cabin for Under $800,000
+    ## House Hunting in Spain: Mediterranean Views on the Costa Del Sol for $1.5 Million
     
-    The country’s swift and successful response to the pandemic has
-    enabled its real estate market to stay open, encouraging an influx
-    of domestic buyers.
+    The southern coast of Spain, long a popular destination for tourists
+    and foreign buyers, is once again leading the nation’s housing
+    market out of crisis.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sydney
-    Franklin</span>
+    By <span class="css-1n7hynb">Marcelle Sussman
+    Fischler</span>
     
     </div>
     
@@ -787,24 +767,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/05/travel/coronavirus-airplane-cleaning.html)
+    [](/2020/08/14/world/americas/eusebio-leal-spengler-who-restored-old-havana-dies-at-77.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/travel/05travel-planes-promo/merlin_175085067_eef3d15a-1fff-4c92-a3a9-b706c2b907ef-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/obituaries/12Leal1/12Leal1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## See for Yourself: How Airplanes Are Cleaned Today
+    ## Eusebio Leal Spengler, Who Restored Old Havana, Dies at 77
     
-    Airlines are fine-tuning their cleaning procedures — where they
-    clean, how frequently and with which tools. This is what the new
-    processes look like.
+    His decades-long effort to preserve a capital’s colonial buildings
+    turned a former slum into a tourist destination and capitalist
+    success story.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Arnot <span>and</span> Stefano
-    Ukmar</span>
+    By <span class="css-1n7hynb">Steven
+    Kurutz</span>
     
     </div>
     
@@ -822,26 +802,26 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/insider/letting-their-cameras-transport-you.html)
+    [](/2020/08/12/realestate/house-hunting-in-london-once-a-dark-garage-now-an-airy-light-box.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/insider/03insider-lens-promo/03insider-lens-promo-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/16/realestate/12IHH-London-slide-7ZXN/12IHH-London-slide-7ZXN-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">Times Insider</span>
+    ### <span class="css-m70j1g">International real estate</span>
     
-    ## Letting Their Cameras Transport You
+    ## House Hunting in London: Once a Dark Garage, Now an Airy Light Box
     
-    With some of the finest photojournalists as your guide, The World
-    Through a Lens series offers immersive escapes.
+    As Britain struggles to rid itself of the coronavirus, pent-up
+    demand and a volatile market are spurring a frenzy of interest from
+    home buyers.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Stephen Hiltner <span>and</span>
-    Phaedra
-    Brown</span>
+    By <span class="css-1n7hynb">Lisa
+    Prevost</span>
     
     </div>
     
@@ -859,23 +839,24 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/at-home/coronavirus-public-transportation-subway.html)
+    [](/2020/08/12/travel/charleston-tourism-black-lives-matter.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/multimedia/31ah-transportation1/31ah-transportation1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/realestate/17charleston1/merlin_174752205_f5d16456-4aa9-404d-9db5-3c9cb52b34ba-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## How to Stay Safer on Mass Transit
+    ## Charleston Tourism Is Built on Southern Charm. Locals Say It’s Time to Change.
     
-    Timing your trip strategically, using contactless payments and not
-    eating onboard are some of the things to keep in mind.
+    A powerful visitors’ bureau has pushed the South Carolina city to
+    the top of “best” lists by selling gentility. Critics say that has
+    come at the expense of history and the city’s Black population.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katherine
-    Cusumano</span>
+    By <span class="css-1n7hynb">Tariro Mzezewa <span>and</span> Kim
+    Severson</span>
     
     </div>
     
@@ -893,24 +874,30 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/style/randonautica-app.html)
+    [](/2020/08/11/dining/carne-asada-sonora.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/fashion/02RANDONAUTICA/02RANDONAUTICA-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/dining/10Carneasada1/merlin_175253970_5287970b-3058-4cc2-a259-2c2893c7580a-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## What Is Randonautica Really About?
+    ## Finding the Soul of Sonora in Carne Asada
     
-    An app that generates coordinates for adventurers claims to turn
-    your thoughts into reality. TikTok and YouTube creators want you to
-    believe it — but you shouldn’t.
+    A carne asada goes far beyond grilled meat: In the Mexican state of
+    Sonora, it’s a weekly ritual, a tight-knit gathering of friends and
+    family.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Lena
-    Wilson</span>
+    By <span class="css-1n7hynb">Pati Jinich</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Leer en
+    español](https://www.nytimes3xbfgragh.onion/es/2020/08/14/espanol/sonora-carne-asada.html "Read in Spanish")
     
     </div>
     
@@ -928,20 +915,23 @@ story](#after-mid2)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/t-magazine/the-t-list-five-things-we-recommend-this-week.html)
+    [](/2020/08/10/business/energy-environment/delta-oil-refinery-jet-fuel.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/t-magazine/29tmag-newsletter-slide-8YU1-print/29tmag-newsletter-slide-8YU1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/business/11jetfuel1/10jetfuel1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The T List: Five Things We Recommend This Week
+    ## Delta Air Lines Bought an Oil Refinery. It Didn’t Go as Planned.
     
-    Farm dining, a Parisian floral gallery, Ruth Asawa stamps — and
-    more.
+    Delta’s foray into oil refining illustrates some of the reasons the
+    business was in trouble even before the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Clifford Krauss <span>and</span> Niraj
+    Chokshi</span>
     
     </div>
     

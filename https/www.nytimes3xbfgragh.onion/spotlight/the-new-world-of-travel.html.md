@@ -69,6 +69,10 @@ Travel](https://www.nytimes3xbfgragh.onion/spotlight/the-new-world-of-travel)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -211,8 +215,124 @@ story](#after-subheader)
     
     </div>
 
-2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
-    Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/travel/23travel-roadtrip/23travel-roadtrip-videoLarge.jpg)
+2.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Alessandro
+    Grassani for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/world/19italy-vandalism-01/merlin_173102259_6a7509bf-9d05-402f-8938-ca61aec664ca-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Italy Wants Its Tourists Back, Unless They Sit on the Statues](/2020/08/19/world/europe/italy-vandalism-tourism.html)
+    
+    Damaged treasures and broken rules have put the spotlight on the
+    country’s fragile cultural heritage, and the need to better educate
+    visitors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Elisabetta
+    Povoledo</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Joanne
+    Kim</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/07/travel/07-outdoor-apps/07-outdoor-apps-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [17 Learning Tools For Your Next Outdoor Excursion](/2020/08/11/travel/outdoors-apps-podcasts.html)
+    
+    Ever wonder how underwater creatures make light? Or what a Carolina
+    leaf-roller eats? Our list of apps, podcasts and websites will help
+    you figure out what’s going on in the great
+    outdoors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Stephanie
+    Rosenbloom</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nina
+    Shelanski
+    </span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/07canada-virus/07canada-virus-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Canada to U.S. Visitors: Please Don’t Sneak Across the Border](/2020/08/07/travel/Canada-border-crossings-coronavirus.html)
+    
+    Some Canadian citizens, concerned about the spread of the
+    coronavirus, are taking matters into their own hands and reporting
+    illegal American
+    visitors.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Karen
+    Schwartz</span></span>
+    
+    </div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Jamie
+    Rose for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/travel/06National-seashores5/06National-seashores5-videoLarge-v2.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [Water, Sand and Plenty of Elbow Room on 8 Wild, Protected Coastlines](/2020/08/06/travel/National-Seashores.html)
+    
+    From California to Cape Cod, these national seashores and lakeshores
+    offer everything from bird-watching to boating to basking in the
+    sun.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Jon
+    Waterman</span></span>
+    
+    </div>
+
+2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Ricardo
+    Arduengo/Agence France-Presse — Getty
+    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/04/travel/04caribbean-dilemma/merlin_174773829_3f39dfce-3c4f-4752-9d03-e8176083a50c-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The Caribbean Dilemma](/2020/08/04/travel/coronavirus-caribbean-vacations.html)
+    
+    Many islands are open to American travelers. Going could mean
+    bringing coronavirus to places ill prepared to deal with it. Not
+    going could mean deepening economic woes. How do you
+    choose?
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Nina
+    Burleigh</span></span>
+    
+    </div>
+
+3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Katherine
+    Taylor for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/travel/18college-dropoff-1/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-videoLarge.jpg)
+    
+    <div class="css-10wtrbd">
+    
+    ## [The New College Drop-Off](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    
+    A bittersweet family tradition has become an exercise in risk
+    assessment, logistics and trying to understand ever-changing
+    rules.
+    
+    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
+    <span class="css-1baulvz last-byline" itemprop="name">Julie
+    Weed</span></span>
+    
+    </div>
+
+4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Steffi
+    Walthall</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/10/travel/23travel-roadtrip-print1/23travel-roadtrip-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -229,7 +349,7 @@ story](#after-subheader)
     
     </div>
 
-3.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Michael
     A. Mccoy/Getty
     Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/business/27virus-delta/merlin_174833229_f6ec80e5-3f69-4ade-bbcd-066a066e7097-videoLarge.jpg)
     
@@ -248,7 +368,15 @@ story](#after-subheader)
     
     </div>
 
-4.  ![<span class="css-1nk1g0h e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
+</div>
+
+</div>
+
+<div class="css-1xdhyk6 e46isfb0">
+
+<div class="css-zk12ih ef6si7p0">
+
+1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17voices-promo/17voices-promo-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
@@ -263,134 +391,6 @@ story](#after-subheader)
     <span class="css-1baulvz" itemprop="name">Emily Palmer</span> and
     <span class="css-1baulvz last-byline" itemprop="name">Tariro
     Mzezewa</span></span>
-    
-    </div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Eric
-    Lipton</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Vacation in the Summer of Covid-19](/2020/07/16/travel/virus-vacation.html)
-    
-    Traveling during a pandemic requires lots of research, precision
-    planning and a willingness to play by new and very stringent rules.
-    For these writers, it still felt good to get
-    away.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Eric Lipton</span>,
-    <span class="css-1baulvz" itemprop="name">Christopher
-    Solomon</span>, <span class="css-1baulvz" itemprop="name">Sheila
-    Marikar</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Tariro
-    Mzezewa</span></span>
-    
-    </div>
-
-2.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Sean
-    M. Haffey/Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/16/travel/16-cruise-ban/16-cruise-ban-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Extending Cruise Ban, C.D.C. Slams Industry for Spreading Coronavirus](/2020/07/16/travel/coronavirus-cruise-ban-extended.html)
-    
-    In a scathing order extending the current “no sail” order on U.S.
-    cruise lines, the agency said it spent 38,000 hours managing the
-    outbreaks on
-    ships.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Frances
-    Robles</span></span>
-    
-    </div>
-
-3.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Moris
-    Moreno for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/11/travel/09travel-flight-promo/09travel-flight-promo-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [How the Coronavirus Has Changed Air Travel: A Visual Diary of a Flight](/interactive/2020/07/09/travel/coronavirus-air-travel-visual-diary.html)
-    
-    In late June, a photographer flew from Seattle to Boston. This is a
-    step-by-step visual account of the
-    flight.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Moris
-    Moreno</span></span>
-    
-    </div>
-
-4.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Nyimas
-    Laula for The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/world/20virus-bali-tourism3/merlin_174306324_476c0e47-9059-4a49-ab85-264aa1f9a346-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [With Tourists Gone, Bali Workers Return to Farms and Fishing](/2020/07/20/world/asia/bali-tourism-coronavirus.html)
-    
-    Many resort workers have gone home to villages and small towns,
-    taking up traditional ways of earning a living to feed themselves
-    and their
-    families.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz" itemprop="name">Nyimas Laula</span> and
-    <span class="css-1baulvz last-byline" itemprop="name">Richard C.
-    Paddock</span></span>
-    
-    </div>
-
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Desiree
-    Martin/Agence France-Presse — Getty
-    Images</span>](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/world/spain01sub/spain01sub-videoLarge-v2.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.](/2020/07/19/world/europe/tourism-virus-europe.html)
-    
-    Most tourist beds are empty in Spain’s Canary Islands. Bookings are
-    down in Italy despite government incentives. And ferries to the
-    Greek islands are carrying less than half the load they once
-    did.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Raphael
-    Minder</span></span>
-    
-    </div>
-
-</div>
-
-</div>
-
-<div class="css-1xdhyk6 e46isfb0">
-
-<div class="css-zk12ih ef6si7p0">
-
-1.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Golightly</span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/travel/15alt-airbnb-1/oakImage-1594739793294-videoLarge.jpg)
-    
-    <div class="css-10wtrbd">
-    
-    ## [New Twists on Home-Sharing: 4 Airbnb Alternatives](/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
-    
-    They are small, ambitious and target savvy travelers. But their main
-    goal is to improve the home-sharing experience for hosts and renters
-    alike.
-    
-    <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Elaine
-    Glusac</span></span>
     
     </div>
 
@@ -419,10 +419,10 @@ story](#after-subheader)
     
     <div class="css-10wtrbd">
     
-    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions](/2020/07/10/travel/state-travel-restrictions.html)
+    ## [Thinking of Traveling in the U.S.? These States Have Travel Restrictions.](/2020/07/10/travel/state-travel-restrictions.html)
     
-    Nearly half of the states have strict measures in place for
-    visitors, from mandatory testing to quarantine
+    Nearly half of the states have measures in place for visitors, from
+    mandatory testing to quarantine
     requirements.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
@@ -450,22 +450,22 @@ story](#after-subheader)
     
     </div>
 
-5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Chang
-    W. Lee/The New York
-    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/26/travel/26cruise-comeback2/merlin_173897511_f233f3c1-7b2f-40b2-833d-a1e455f082ba-videoLarge.jpg)
+5.  ![<span class="css-1hhnwbi e1oaj3zl2"><span class="css-1dv1kvn">Credit</span>Andreas
+    Meichsner for The New York
+    Times</span>](https://static01.graylady3jvrrxbe.onion/images/2020/06/07/travel/07Europe-reopening-cmyk/merlin_114887603_3cb89618-6d46-4078-9a3f-1bb20f57ca17-videoLarge.jpg)
     
     <div class="css-10wtrbd">
     
-    ## [The Post-Coronavirus Cruise? Not Ready to Sail](/2020/06/26/travel/coronavirus-cruises-reopening.html)
+    ## [Europe’s Patchwork Reopening](/2020/06/05/travel/europe-reopening-tourism-covid.html)
     
-    Data shows that there were far more cases of Covid-19 on cruise
-    ships than have been reported, but the companies and the C.D.C. have
-    yet to establish how the boats can come
-    back.
+    As countries consider reviving tourism, the calculus is complicated,
+    involving “travel bubbles,” ever-shifting timelines, virus testing
+    and, in some cases,
+    self-quarantines.
     
     <span class="css-me3p27"></span><span class="css-1dydysp e4e4i5l3"></span><span class="css-9voj2j">By
-    <span class="css-1baulvz last-byline" itemprop="name">Frances
-    Robles</span></span>
+    <span class="css-1baulvz last-byline" itemprop="name">Paige
+    McClanahan</span></span>
     
     </div>
 
@@ -525,6 +525,41 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/04/health/coronavirus-hotels-infect.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/05/science/00VIRUS-HOTELS1b/00VIRUS-HOTELS1b-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Forget Spas and Bars. Hotels Tout Housekeeping to Lure Back Travelers.
+    
+    Hilton has partnered with Lysol, Four Seasons with Johns Hopkins
+    Medicine. But new research shows hotels can be easily contaminated
+    by the coronavirus.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Matt
+    Richtel</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/08/04/style/outdoor-camping-gear-pools-backordered.html)
     
     <div class="css-79elbk">
@@ -553,28 +588,30 @@ story](#after-mid1)
     
     </div>
 
-2.  
+3.  
     
     <div class="css-1cp3ece">
     
     <div class="css-1l4spti">
     
-    [](/2020/07/29/travel/virus-college-travel-restrictions.html)
+    [](/2020/07/30/travel/private-jets-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/travel/28college/merlin_175044948_c9c97e00-b9bd-4332-8ad5-f1d0520b78ab-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/travel/29private-jets-virus/oakImage-1595868653679-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## The New College Drop-Off
+    ## Afraid of Airlines? There’s Always the Private Jet
     
-    A bittersweet family tradition has become an exercise in risk
-    assessment, logistics and trying to understand ever-changing rules.
+    Concerned about virus-related safety on commercial planes, many
+    fliers are turning to private jets for the first time. The catch, of
+    course, is the price.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie Weed</span>
+    By <span class="css-1n7hynb">Sally
+    French</span>
     
     </div>
     
@@ -585,6 +622,286 @@ story](#after-mid1)
     </div>
     
     </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/28/travel/future-travel-bucket-list-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/24/travel/00Future-trips-virus01/00Future-trips-virus01-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Longer, Slower, Farther: Savoring the Prospects of Future Travels
+    
+    In the travel lull induced by the pandemic, many people are planning
+    ambitious, once-in-a-lifetime trips. Optimists are targeting 2021.
+    For others, their next big trip will be in 2022.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elaine
+    Glusac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/20/world/asia/bali-tourism-coronavirus.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/20/world/20virus-bali-tourism3/merlin_174306324_476c0e47-9059-4a49-ab85-264aa1f9a346-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## With Tourists Gone, Bali Workers Return to Farms and Fishing
+    
+    Many resort workers have gone home to villages and small towns,
+    taking up traditional ways of earning a living to feed themselves
+    and their families.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Nyimas Laula <span>and</span> Richard
+    C.
+    Paddock</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/19/world/europe/tourism-virus-europe.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/world/spain01sub/spain01sub-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Southern Europe Opens Its Doors to Tourists. Not Many Are Coming.
+    
+    Most tourist beds are empty in Spain’s Canary Islands. Bookings are
+    down in Italy despite government incentives. And ferries to the
+    Greek islands are carrying less than half the load they once did.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Raphael
+    Minder</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/16/travel/coronavirus-cruise-ban-extended.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/19/travel/16-cruise-ban/16-cruise-ban-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Extending Cruise Ban, C.D.C. Slams Industry for Spreading Coronavirus
+    
+    In a scathing order extending the current “no sail” order on U.S.
+    cruise lines, the agency said it spent 38,000 hours managing the
+    outbreaks on ships.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Frances
+    Robles</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/16/travel/virus-vacation.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/17/travel/17travel-desperatetimes/17travel-desperatetimes-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Vacation in the Summer of Covid-19
+    
+    Traveling during a pandemic requires lots of research, precision
+    planning and a willingness to play by new and very stringent rules.
+    For these writers, it still felt good to get away.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Eric Lipton, Christopher Solomon,
+    Sheila Marikar <span>and</span> Tariro
+    Mzezewa</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+9.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/07/15/travel/airbnb-alternatives-home-sharing.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/14/travel/15alt-airbnb-1/oakImage-1594739793294-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## New Twists on Home-Sharing: 4 Airbnb Alternatives
+    
+    They are small, ambitious and target savvy travelers. But their main
+    goal is to improve the home-sharing experience for hosts and renters
+    alike.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Elaine
+    Glusac</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+10. 
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/interactive/2020/07/09/travel/coronavirus-air-travel-visual-diary.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/11/travel/09travel-flight-promo/09travel-flight-promo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## How the Coronavirus Has Changed Air Travel: A Visual Diary of a Flight
+    
+    In late June, a photographer flew from Seattle to Boston. This is a
+    step-by-step visual account of the flight.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Moris Moreno</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+<div class="css-13mho3u">
+
+<div class="css-1t62hi8">
+
+<div class="css-1stvaey">
+
+Show
+More
+
+<div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="assertive">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+<div style="border:0;clip:rect(0 0 0 0);height:1px;margin:-1px;overflow:hidden;white-space:nowrap;padding:0;width:1px;position:absolute" data-role="log" data-aria-live="polite">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 </div>
 

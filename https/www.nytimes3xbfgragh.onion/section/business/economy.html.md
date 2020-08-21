@@ -69,6 +69,10 @@ index](#site-index)
 
 <div id="site-content" data-role="main">
 
+<div class="css-1ffjgkm">
+
+</div>
+
 <div id="top-wrapper" class="css-15p45cc eaca97t0" type="top">
 
 <div id="top-slug" class="css-19x0jxb eaca97t1" hidden="">
@@ -186,23 +190,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/coronavirus-struggling-caterers.html)
+    [](/2020/08/20/business/economy/unemployment-claims.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/business/28virus-caterers-sub1/28virus-caterers-sub1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/21/business/20Jpvirus-jobless-print/merlin_175662330_af94c2ca-5bd1-4cfb-879d-166cc38fa370-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## ‘Closing Isn’t Even an Option’: With No Events, Caterers Rush to Adjust
+    ## Unemployment Claims Rise as Rollout of $300 Benefit Lags
     
-    The pandemic has devastated the industry. But some entrepreneurs are
-    finding creative ways to keep their businesses afloat.
+    With the labor market showing new fragility, most states have yet to
+    seek funds under President Trump’s stopgap plan to supplement weekly
+    jobless pay.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Julie
-    Creswell</span>
+    By <span class="css-1n7hynb">Nelson D. Schwartz <span>and</span>
+    Tiffany
+    Hsu</span>
     
     </div>
     
@@ -220,24 +226,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/04/business/distilleries-hand-sanitizer-pandemic.html)
+    [](/2020/08/20/business/economy/jobs-work-sharing-unemployment.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/business/00virus-distilleries1/merlin_174824706_9513ed78-510a-479c-84bb-6771cf818c25-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/business/00workshare1/00workshare1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Distilleries Raced to Make Hand Sanitizer for the Pandemic. No Longer.
+    ## This Plan Pays to Avoid Layoffs. Why Don’t More Employers Use It?
     
-    Even though coronavirus cases have surged again, craft distilleries
-    say the business of making the disinfectant has become more
-    difficult.
+    Often-overlooked job sharing programs, with a recent dose of federal
+    aid, put workers on part-time duty in a downturn and make up lost
+    wages.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Kellen
-    Browning</span>
+    By <span class="css-1n7hynb">Patricia
+    Cohen</span>
     
     </div>
     
@@ -255,30 +261,30 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/business/economy/trump-tiktok-china-business.html)
+    [](/2020/08/19/world/asia/north-korea-economy-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-Trump-CEO-01/merlin_175268121_b5368dd6-a785-47e2-b64d-e6e4863de9b0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/world/20nkorea-1sub/20nkorea-1sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## TikTok, Trump and an Impulse to Act as C.E.O. to Corporate America
+    ## North Korea’s Leader Had Big Economic Plans. He Admits They’ve Failed.
     
-    The president’s interventions in company dealings based on his own
-    instincts are a departure from the arm’s-length approach of
-    predecessors of either party.
+    Kim Jong-un’s blunt assessment led his country to plan a rare
+    Workers’ Party congress for January to chart a new course after the
+    country was hammered by sanctions, floods and the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Michael D.
-    Shear</span>
+    By <span class="css-1n7hynb">Choe
+    Sang-Hun</span>
     
     </div>
     
     <div class="css-185051n">
     
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/business/20200804/trump-tiktok-china-business/zh-hant/ "Read in Traditional Chinese")
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200821/north-korea-economy-coronavirus/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/asia-pacific/20200821/north-korea-economy-coronavirus/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -296,24 +302,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/technology/trump-tiktok-microsoft.html)
+    [](/2020/08/19/business/coronavirus-walmart-target-home-depot.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/business/03DC-TikTok-02/03DC-TikTok-02-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19virus-bigbox-1/19virus-bigbox-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Reverses Course on TikTok, Opening Door to Microsoft Bid
+    ## Big-Box Retailers’ Profits Surge as Pandemic Marches On
     
-    The president said he did not object to a potential acquisition of
-    the Chinese-owned app, retreating from comments about banning the
-    service.
+    Walmart and Target reported record sales in the second quarter,
+    driven by the convenience of one-stop shopping and their e-commerce
+    operations.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Mike
-    Isaac</span>
+    By <span class="css-1n7hynb">Gillian
+    Friedman</span>
     
     </div>
     
@@ -331,24 +337,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/nyregion/nyc-small-businesses-closing-coronavirus.html)
+    [](/2020/08/19/business/economy/postal-service-changes-dejoy.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/nyregion/00nyvirus-smallbusiness/00nyvirus-smallbusiness-thumbWide-v3.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19dc-postal/19dc-postal-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## One-Third of New York’s Small Businesses May Be Gone Forever
+    ## Decision to Halt Postal Changes Does Little to Quell Election Concerns
     
-    Small-business owners said they have exhausted federal and local
-    assistance and see no end in sight after months of sharp revenue
-    drops. Now, many are closing their shops and restaurants for good.
+    Democrats are calling on Louis DeJoy to step down amid concerns that
+    changes already made could disenfranchise voters in November.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Matthew
-    Haag</span>
+    By <span class="css-1n7hynb">Emily Cochrane, Hailey Fuchs, Kenneth
+    P. Vogel <span>and</span> Jessica
+    Silver-Greenberg</span>
     
     </div>
     
@@ -366,24 +372,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/03/business/tailored-brands-mens-wearhouse-bankruptcy.html)
+    [](/2020/08/19/business/economy/fed-meeting-minutes-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/23/business/00tailored-brands-HFO/merlin_80417494_48f6049a-c9db-44a5-a884-e972884eeed3-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/business/19DC-Fed/merlin_171561336_fd96d5ef-766e-4fbd-a080-165e58503eb6-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Men’s Wearhouse Owner Files for Bankruptcy
+    ## Fed Officials Said the Economy Needed More Help From Congress
     
-    Tailored Brands, known for its clothing chains Men’s Wearhouse and
-    JoS. A. Bank, struggled as the pandemic shut stores and consumer
-    demand for office attire dropped.
+    Minutes from the Federal Reserve’s July meeting show that some
+    officials fretted as expanded unemployment insurance ran out.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Gillian
-    Friedman</span>
+    By <span class="css-1n7hynb">Jeanna
+    Smialek</span>
     
     </div>
     
@@ -401,25 +406,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/business/economy/trump-tiktok-china-national-security.html)
+    [](/2020/08/19/technology/apple-2-trillion.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-tiktok1/02dc-tiktok1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/06/us/apple-mkt-cap-promo-1596767397262/apple-mkt-cap-promo-1596767397262-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Microsoft Says It’ll Continue Pursuit of TikTok
+    ## Apple Reaches $2 Trillion, Punctuating Big Tech’s Grip
     
-    The announcement came after the company consulted with President
-    Trump, who has threatened to ban the app and expressed national
-    security concerns about it in recent weeks.
+    Apple is the first U.S. company to hit that value, a staggering
+    ascent that began in the pandemic.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Mike Isaac, Ana Swanson
-    <span>and</span> Maggie
-    Haberman</span>
+    By <span class="css-1n7hynb">Jack
+    Nicas</span>
     
     </div>
     
@@ -437,23 +440,25 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-jobless-aid.html)
+    [](/interactive/2020/08/18/business/economy/coronavirus-economic-recovery-states.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-cong-pix1/02dc-cong-pix1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/14/us/business-visits-lockdown-promo-1597445069971/business-visits-lockdown-promo-1597445069971-thumbWide-v3.png?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Relief Package Deal Remains Elusive as Impasse Over Jobless Benefits Persists
+    ## Virus Alters Where People Open Their Wallets, Hinting at a Halting Recovery
     
-    Negotiators acknowledged some progress over the weekend, but said
-    they remained far apart on a number of issues.
+    Despite eased restrictions, people are still avoiding malls,
+    restaurants and other businesses, raising questions about the
+    strength and speed of the recovery.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Emily
-    Cochrane</span>
+    By <span class="css-1n7hynb">Jennifer Valentino-DeVries, Ella Koeze
+    <span>and</span> Sapna
+    Maheshwari</span>
     
     </div>
     
@@ -471,29 +476,23 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/virus-china-ppp-small-business-loans.html)
+    [](/2020/08/17/upshot/pandemic-recession-cities-fiscal-shortfall.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/03/us/politics/02JPdc-pppchina-print/merlin_171898629_58bf8b69-8779-4aaa-acce-8e43ad81a471-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/upshot/17up-virus-cities/merlin_172402335_8048f9a3-b4b0-48ad-84f8-1a29f874c8c5-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## U.S. Small Business Bailout Money Flowed to Chinese-Owned Companies
+    ## The Recession Is About to Slam Cities. Not Just the Blue-State Ones.
     
-    Millions of dollars of Paycheck Protection Program loans went to
-    China-backed businesses in critical sectors, a study found.
+    Those with budgets that rely heavily on tourism, sales taxes or
+    direct state assistance will face particular distress.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Alan
-    Rappeport</span>
-    
-    </div>
-    
-    <div class="css-185051n">
-    
-    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/usa/20200803/virus-china-ppp-small-business-loans/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/usa/20200803/virus-china-ppp-small-business-loans/zh-hant/ "Read in Traditional Chinese")
+    By <span class="css-1n7hynb">Emily Badger <span>and</span> Quoctrung
+    Bui</span>
     
     </div>
     
@@ -511,22 +510,24 @@ story](#after-sponsor)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/01/business/economy/housing-overcrowding-coronavirus.html)
+    [](/2020/08/14/business/retail-sales-coronavirus.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/business/00virus-crowding1/00virus-crowding1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/15/business/14JPvirus-retailsales1-print/14virus-retailsales-1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## 12 People in a 3-Bedroom House, Then the Virus Entered the Equation
+    ## Retail Sales Rise for Third Month, Though Growth Slows
     
-    Overcrowding, not density, has defined many coronavirus hot spots.
-    Service workers’ quarters skirting Silicon Valley are no exception.
+    The increase was a sign that consumerism remained resilient, but the
+    recovery has been buoyed by government assistance that expired at
+    the end of July.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Conor Dougherty</span>
+    By <span class="css-1n7hynb">Michael Corkery <span>and</span> Sapna
+    Maheshwari</span>
     
     </div>
     
