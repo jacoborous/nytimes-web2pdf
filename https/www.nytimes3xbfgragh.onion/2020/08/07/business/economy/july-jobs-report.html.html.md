@@ -131,35 +131,21 @@ Momentum</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f4e500-e3b5-11ea-82f7-af6d488d7008)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [F.A.Q.](https://www.nytimes3xbfgragh.onion/interactive/2020/world/coronavirus-tips-advice.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Markets &
-    Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f50c10-e3b5-11ea-82f7-af6d488d7008)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f50c11-e3b5-11ea-82f7-af6d488d7008)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f50c12-e3b5-11ea-82f7-af6d488d7008)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f50c13-e3b5-11ea-82f7-af6d488d7008)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?name=styln-coronavirus-markets&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=a4f50c14-e3b5-11ea-82f7-af6d488d7008)</span>
 
 </div>
 
@@ -288,8 +274,8 @@ Friedman</span>
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 7, 2020Updated <span class="css-epvm6">7:12 p.m.
-    ET</span>
+    Aug. 7,
+    2020
     
     </div>
 
@@ -297,7 +283,7 @@ Friedman</span>
     
     <div class="css-4xjgmj">
     
-    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -334,12 +320,22 @@ restrictions caused some businesses to close for a second time. The
 unemployment rate fell to 10.2 percent.
 
 Hours after the report underscored the slowing recovery, talks between
-administration officials and congressional Democrats on [how to pump
-more aid into the
-economy](https://www.nytimes3xbfgragh.onion/2020/08/07/us/politics/trump-congress-stimulus.html)
-were on the verge of collapse. White House advisers said they would
-recommend that President Trump bypass Congress and act on his own —
+administration officials and congressional Democrats on how to pump more
+aid into the economy were on the verge of collapse. On Friday night,
+President Trump threatened to bypass Congress and act on his own —
 though his power to do so was unclear.
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
 
 Prominent among the unresolved issues were a revival of the government’s
 $600-a-week supplement to unemployment aid, a lifeline for millions of
@@ -380,10 +376,6 @@ unemployed,” said Kenneth S. Rogoff, a Harvard University economist who
 has written extensively on financial and economic crises. “We’re in
 very, very dangerous territory.”
 
-And underscoring the prevalence of what economists term “churn” in the
-labor market, some jobless Americans have secured work only to find
-themselves out of a job for a second time.
-
 </div>
 
 </div>
@@ -391,6 +383,101 @@ themselves out of a job for a second time.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+And underscoring the prevalence of what economists term “churn” in the
+labor market, some jobless Americans have secured work only to find
+themselves out of a job for a second
+time.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-covid-updates-markets" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-lb-items">
+
+<div class="briefing-block-update-time active">
+
+[54m
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#what-we-overheard-on-earnings-calls)
+
+</div>
+
+<div>
+
+[What we overheard on earnings
+calls.](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#what-we-overheard-on-earnings-calls)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[3h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#government-debt-in-britain-exceeds-2-trillion-for-the-first-time)
+
+</div>
+
+<div>
+
+[Government debt in Britain exceeds £2 trillion for the first
+time.](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#government-debt-in-britain-exceeds-2-trillion-for-the-first-time)
+
+</div>
+
+<div class="briefing-block-update-time active">
+
+[3h
+ago](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-stocks-waver-as-global-markets-fall)
+
+</div>
+
+<div>
+
+[U.S. stocks waver as global markets
+fall.](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#us-stocks-waver-as-global-markets-fall)
+
+</div>
+
+</div>
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Global](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 After coronavirus-related lockdowns forced dining establishments in New
 York to close in March, Hannah Lane, 24, was laid off as a server in a
@@ -432,98 +519,7 @@ yards,” she said.
 
 She had spent just one day there when Gov. Andrew M. Cuomo reversed
 course and prohibited dining inside restaurants. Ms. Lane was laid off
-again, and found herself back on unemployment and looking for
-work.
-
-<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
-
-<div>
-
-<div id="styln-covid-updates-markets" class="section interactive-content interactive-size-medium css-1ftcdic">
-
-<div class="css-17ih8de interactive-body">
-
-<div id="styln-briefing-block">
-
-<div class="briefing-block-header-section">
-
-# [Latest Updates: The Coronavirus Outbreak and the Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-<div class="briefing-block-lb-items">
-
-<div class="briefing-block-update-time active">
-
-[32m
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
-
-</div>
-
-<div>
-
-[The publisher of The Onion, Jezebel and other websites lays off 15
-employees.](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#the-publisher-of-the-onion-jezebel-and-other-websites-lays-off-15-employees)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[5h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
-
-</div>
-
-<div>
-
-[Canada outlines its response to the new U.S. aluminum
-tariff.](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#canada-outlines-its-response-to-the-new-us-aluminum-tariff)
-
-</div>
-
-<div class="briefing-block-update-time active">
-
-[8h
-ago](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#laid-off-rehired-laid-off-again-and-now-without-a-weekly-600-boost)
-
-</div>
-
-<div>
-
-[Laid off, rehired, laid off again, and now without a weekly $600
-boost.](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#laid-off-rehired-laid-off-again-and-now-without-a-weekly-600-boost)
-
-</div>
-
-</div>
-
-<div class="briefing-block-footer">
-
-<div class="briefing-block-footer-meta">
-
-[See more
-updates](https://www.nytimes3xbfgragh.onion/live/2020/08/07/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-<div class="briefing-block-briefinglinks">
-
-<span>More live coverage:</span>
-[Global](https://www.nytimes3xbfgragh.onion/2020/08/07/world/covid-19-news.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+again, and found herself back on unemployment and looking for work.
 
 The leisure and hospitality industry was hit hard in the downturn and
 faces new restrictions on bars and indoor dining in states like
@@ -586,14 +582,6 @@ Bureau of Labor Statistics</span>
 July’s job growth in the industry followed a jump of 3.4 million in May
 and June, seasonally adjusted, but employment in the field is still 4.3
 million below where it was in February.
-
-</div>
-
-</div>
-
-<div class="css-1fanzo5 StoryBodyCompanionColumn">
-
-<div class="css-53u6y8">
 
 The retail industry, another hard-hit sector that has seen numerous
 bankruptcies in recent months, added 258,000 jobs last month.
@@ -676,10 +664,6 @@ slightly from 15.4 percent the month before and a little more than two
 percentage points from its peak in May — but still more than double its
 5.8 percent rate in February.
 
-Joblessness for white workers eased to 9.2 percent in July. While that
-rate is up sharply from 3.1 percent in February, it has fallen about
-five percentage points from its April peak.
-
 </div>
 
 </div>
@@ -687,6 +671,10 @@ five percentage points from its April peak.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+Joblessness for white workers eased to 9.2 percent in July. While that
+rate is up sharply from 3.1 percent in February, it has fallen about
+five percentage points from its April peak.
 
 Unemployment among other minority groups also remains elevated. The rate
 for Hispanic [workers](https://www.bls.gov/news.release/empsit.t03.htm)
@@ -902,12 +890,6 @@ classes would be the end of her business, Ocean Ride, when it was
 imposed in March. She offered spinning classes over the internet, she
 said, “but it never took off the way we needed it to.”
 
-By mid-July, the financial drain was too great, and she decided to shut
-down after seven years. Some of the bikes have been sold, and Ms.
-Horowitz has been cleaning out the space on the South Shore of Long
-Island, a few blocks from the Atlantic. Seven part-time workers,
-including Ms. Anscher, have lost their jobs.
-
 </div>
 
 </div>
@@ -915,6 +897,12 @@ including Ms. Anscher, have lost their jobs.
 <div class="css-1fanzo5 StoryBodyCompanionColumn">
 
 <div class="css-53u6y8">
+
+By mid-July, the financial drain was too great, and she decided to shut
+down after seven years. Some of the bikes have been sold, and Ms.
+Horowitz has been cleaning out the space on the South Shore of Long
+Island, a few blocks from the Atlantic. Seven part-time workers,
+including Ms. Anscher, have lost their jobs.
 
 “We were a staple in the community, and we had a good run,” Ms.
 Horowitz, 40, said. “It’s emotional. We had just bought new bikes last

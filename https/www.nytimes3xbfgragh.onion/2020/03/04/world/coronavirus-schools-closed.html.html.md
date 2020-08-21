@@ -135,18 +135,16 @@ Class</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Schools</span><span class="css-1rxm0ex"> Reopening</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895cd30-e108-11ea-b063-bb1d4dad1224)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">Schools</span><span class="css-1rxm0ex"> Reopening</span></span>](https://www.nytimes3xbfgragh.onion/spotlight/schools-reopening?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=5ec19ee0-e3b3-11ea-bb74-cba9f9382aeb)
 
-  - <span class="css-ousu42">[State of Play for
-    K-12](https://www.nytimes3xbfgragh.onion/2020/08/17/us/k-12-schools-reopening.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895cd31-e108-11ea-b063-bb1d4dad1224)</span>
-  - <span class="css-ousu42">[College
-    Costs](https://www.nytimes3xbfgragh.onion/2020/08/15/us/covid-college-tuition.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895cd32-e108-11ea-b063-bb1d4dad1224)</span>
-  - <span class="css-ousu42">[Priced Out of Learning
-    Pods](https://www.nytimes3xbfgragh.onion/2020/08/14/us/covid-schools-learning-pods.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895cd33-e108-11ea-b063-bb1d4dad1224)</span>
-  - <span class="css-ousu42">[N.Y.C. Schools Not
-    Ready](https://www.nytimes3xbfgragh.onion/2020/08/14/nyregion/school-reopening-nyc.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895cd34-e108-11ea-b063-bb1d4dad1224)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=5ec19ee1-e3b3-11ea-bb74-cba9f9382aeb)</span>
+  - <span class="css-ousu42">[Missing School
+    Nurses](https://www.nytimes3xbfgragh.onion/2020/08/20/us/schools-reopening-nurses-covid.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=5ec19ee2-e3b3-11ea-bb74-cba9f9382aeb)</span>
+  - <span class="css-ousu42">[Home-Schooling
+    Families](https://www.nytimes3xbfgragh.onion/2020/08/18/parenting/homeschool-families.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=5ec19ee3-e3b3-11ea-bb74-cba9f9382aeb)</span>
   - <span class="css-ousu42">[Prepare for Distance
-    Learning](https://www.nytimes3xbfgragh.onion/2020/08/05/parenting/parents-distance-learning.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=c895f440-e108-11ea-b063-bb1d4dad1224)</span>
+    Learning](https://www.nytimes3xbfgragh.onion/2020/08/05/parenting/parents-distance-learning.html?name=styln-coronavirus-schools-reopening&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=5ec1c5f0-e3b3-11ea-bb74-cba9f9382aeb)</span>
 
 </div>
 
@@ -642,7 +640,7 @@ said.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-31080" class="css-19mumt8" data-role="complementary" data-storyline="Schools Reopening" data-truncated="false" tabindex="0">
+<div id="prism-freeform-block-55988" class="css-19mumt8" data-role="complementary" data-storyline="Schools Reopening" data-truncated="false" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -654,25 +652,26 @@ said.
 
 #### Back to School
 
-Updated Aug. 17, 2020
+Updated Aug. 21, 2020
 
-The latest on how schools are navigating an uncertain season.
+The latest on how schools are reopening amid the pandemic.
 
-  -   - Universities across the country are facing [a rising demand for
-        tuition
-        rebates](https://www.nytimes3xbfgragh.onion/2020/08/15/us/covid-college-tuition.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
-        as students ask if college is becoming “glorified Skype.”
-      - In Los Angeles, the nation’s second-largest school district has
-        [perhaps the most ambitious plan in the
-        country](https://www.nytimes3xbfgragh.onion/2020/08/16/us/los-angeles-schools-virus-testing.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
-        to test for the coronavirus.
-      - Families [priced out of “learning pods” are seeking
-        alternatives](https://www.nytimes3xbfgragh.onion/2020/08/14/us/covid-schools-learning-pods.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup).
-      - How are campus newspapers covering back to school? [We want to
-        hear from student
-        journalists](https://www.nytimes3xbfgragh.onion/2020/08/17/us/student-newspaper-schools-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup).
+  -   - With courses moved online but football games still on, [the
+        University of North Carolina is a test
+        case](https://www.nytimes3xbfgragh.onion/2020/08/18/sports/ncaafootball/unc-football-acc-online-classes.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
+        for college sports.
+      - The federal government has announced measures [intended to boost
+        childhood vaccination
+        rates](https://www.nytimes3xbfgragh.onion/2020/08/20/health/coronavirus-flu-vaccine.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup),
+        which are sagging during the pandemic.
+      - Much more will be [expected of America’s school
+        nurses](https://www.nytimes3xbfgragh.onion/2020/08/20/us/schools-reopening-nurses-covid.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup)
+        this year, but the reality is: Many schools don’t have one.
+      - We want to hear from teachers making difficult choices. How are
+        you thinking about the start of the school year? [Tell us
+        here](https://www.nytimes3xbfgragh.onion/2020/08/19/us/teachers-school-reopenings.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_keepup).
 
-<div id="styln-survey-component-31080" class="styln-survey-component">
+<div id="styln-survey-component-55988" class="styln-survey-component">
 
 </div>
 

@@ -131,7 +131,7 @@ Benefit</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -429,8 +429,10 @@ steam](https://www.nytimes3xbfgragh.onion/2020/07/15/business/economy/economic-r
 <div class="css-53u6y8">
 
 Research has found that unemployment benefits are an unusually potent
-form of fiscal stimulus, because the money goes to the people who are
-the most likely to spend it. ([Food
+form of fiscal
+[stimulus](https://www.nytimes3xbfgragh.onion/2020/08/13/business/economy/unemployment-benefits-coronavirus.html),
+because the money goes to the people who are the most likely to spend
+it. ([Food
 stamps](https://www.nytimes3xbfgragh.onion/2020/07/17/your-money/food-stamps-coronavirus.html)
 are similarly effective, for the same reason.) A [recent working
 paper](https://institute.jpmorganchase.com/institute/research/labor-markets/report-consumption-effects-of-unemployment-insurance-during-the-covid-19-pandemic)

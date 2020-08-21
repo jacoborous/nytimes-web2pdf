@@ -120,35 +120,21 @@ Charts’</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-mij9hh">
+<div class="css-mij9hh">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1xxkt5x">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683aef60-e3b5-11ea-bab9-57fae4024651)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683aef61-e3b5-11ea-bab9-57fae4024651)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683aef62-e3b5-11ea-bab9-57fae4024651)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683b1670-e3b5-11ea-bab9-57fae4024651)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683b1671-e3b5-11ea-bab9-57fae4024651)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=683b1672-e3b5-11ea-bab9-57fae4024651)</span>
 
 </div>
 

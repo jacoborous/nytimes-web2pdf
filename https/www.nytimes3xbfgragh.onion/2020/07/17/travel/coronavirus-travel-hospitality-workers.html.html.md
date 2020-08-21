@@ -131,35 +131,21 @@ Fear’</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f50-e3af-11ea-918c-0f8207e68c04)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f51-e3af-11ea-918c-0f8207e68c04)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f52-e3af-11ea-918c-0f8207e68c04)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f53-e3af-11ea-918c-0f8207e68c04)</span>
+  - <span class="css-ousu42">[Colleges
+    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f54-e3af-11ea-918c-0f8207e68c04)</span>
+  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=161a0f55-e3af-11ea-918c-0f8207e68c04)</span>
 
 </div>
 
@@ -402,42 +388,42 @@ tables.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzVlZmEyNmIwLWIwYjYtNTdiMC05OWRjLWUwZWIwZmI0NGJlZg==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-05T07:58:24.076Z
+Updated 2020-08-21T13:00:19.184Z
 
 </div>
 
 </div>
 
-  - [As talks drag on, McConnell signals openness to jobless aid
-    extension, and negotiators agree on a
-    deadline.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
-  - [Novavax sees encouraging results from two studies of its
-    experimental
-    vaccine.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Mississippians must now wear masks in public, governor
-    says.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
+  - [‘Be adults’: Universities in the U.S. are warning students about
+    gatherings as they return to
+    campus.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-6a60a19d)
+  - [As he accepts the Democratic nomination, Biden knocks Trump’s
+    pandemic
+    response.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-324af071)
+  - [South Korea threatens to detain people who obstruct virus-control
+    efforts.](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-191d44be)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/21/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -591,6 +577,14 @@ I didn’t find out we were closing through the company. The news came
 from my co-workers. It felt like I wasn’t important — that they wouldn’t
 call and talk to us about it.
 
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
 And then the famous card saying we’d been laid off arrived in the mail —
 15 days after the hotel closed. They said they’d call us when they
 reopened and that was it.
@@ -689,7 +683,7 @@ months.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-18477" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -701,7 +695,24 @@ months.
 
 #### Frequently Asked Questions
 
-Updated August 4, 2020
+Updated August 17, 2020
+
+  - #### Why does standing six feet away from others help?
+    
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+        on the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
 
   - #### I have antibodies. Am I now immune?
     
@@ -760,17 +771,6 @@ Updated August 4, 2020
         -- without giving you the sick employee’s name -- that they may
         have been exposed to the virus.
 
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes3xbfgragh.onion/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
   - #### What is school going to look like in September?
     
       - It is unlikely that many schools will return to a normal
@@ -801,7 +801,7 @@ Updated August 4, 2020
         in your
 community.
 
-<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-18477" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 

@@ -176,25 +176,32 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/08/02/us/politics/coronavirus-vaccine.html)
+    [](/2020/08/20/us/politics/obama-trump-democratic-convention.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/02/us/politics/02dc-virus-vaccine-trump/02dc-virus-vaccine-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20obama-01/merlin_175923207_1f9987f5-eeba-4b38-a35c-e5b75a9c4e50-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Scientists Worry About Political Influence Over Coronavirus Vaccine Project
+    ### <span class="css-m70j1g">news analysis</span>
     
-    Operation Warp Speed has moved along at a rapid clip. But some
-    people involved in the process fear pressure to deliver an October
-    surprise for President Trump.
+    ## From Obama, Plenty of Drama in a Rare Display at the Democratic Convention
+    
+    Barack Obama’s excoriation of his successor and his plea to voters
+    who he says will decide the fate of American democracy was an
+    unusually emotional performance for the former president.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Sharon LaFraniere, Katie Thomas, Noah
-    Weiland, Peter Baker <span>and</span> Annie
-    Karni</span>
+    By <span class="css-1n7hynb">Peter
+    Baker</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [阅读简体中文版](https://cn.nytimes3xbfgragh.onion/usa/20200821/obama-trump-democratic-convention/ "Read in Simplified Chinese")[閱讀繁體中文版](https://cn.nytimes3xbfgragh.onion/usa/20200821/obama-trump-democratic-convention/zh-hant/ "Read in Traditional Chinese")
     
     </div>
     
@@ -212,21 +219,18 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/31/us/politics/trump-tweet-democracy.html)
+    [](/2020/08/19/us/politics/barack-obama-dnc-trump.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/31dc-trump-democracy/merlin_175135440_b6103548-fa0a-42e6-b8b4-8c47aa78ae3b-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/19/us/politics/19obama1/19obama1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## Obama Returns to the D.N.C. With a Chance to Protect His Legacy From Trump
     
-    ## More Than Just a Tweet: Trump’s Campaign to Undercut Democracy
-    
-    Floating the idea of delaying the election was the latest step in
-    the president’s running effort to discredit the election, risking
-    long-term damage to public trust in the system.
+    After four years watching his achievements being dismantled, he has
+    almost as much at stake as his party’s nominee, Joe Biden, does.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -249,25 +253,24 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/30/us/politics/trump-wallace.html)
+    [](/2020/08/18/us/politics/bill-clinton-convention.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/31/us/politics/31dc-wallace-jump1/00dc-wallace-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/18/us/politics/18billclinton1/18billclinton1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">News Analysis</span>
+    ## For Bill Clinton, a Chance to Address a Party That Has Left Him Behind
     
-    ## A Half-Century After Wallace, Trump Echoes the Politics of Division
-    
-    George Wallace’s speeches and interviews from his 1968 campaign
-    feature language and appeals that sound familiar again as the “law
-    and order” president sends federal forces into the streets.
+    When the former president speaks on Tuesday, it will be the first
+    Democratic convention since the 1980s where he will be little more
+    than a bystander, as the party he once led to the political center
+    shifts steadily to the left.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
+    By <span class="css-1n7hynb">Adam Nagourney <span>and</span> Peter
     Baker</span>
     
     </div>
@@ -286,21 +289,19 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/24/us/politics/coronavirus-trump-denial.html)
+    [](/2020/08/17/us/politics/john-kasich-biden.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/23/us/politics/23dc-assess/23dc-assess-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17dc-kasich1/merlin_175840290_6a6362b8-846b-4e3a-b473-beb76a6cdd24-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">news analysis</span>
+    ## John Kasich, a ‘Deeply Worried’ Republican, Steps Up for Biden
     
-    ## ‘Mugged by Reality,’ Trump Finds Denial Won’t Stop the Pandemic
-    
-    A president who once claimed that “the worst days of the pandemic
-    are behind us” now acknowledges that it has surged through much of
-    the country and will “get worse before it gets better.”
+    John R. Kasich, a lifelong Republican and former rival of President
+    Trump’s spoke at the Democratic convention — and says he will vote
+    for Joseph R. Biden Jr.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -323,22 +324,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/us/politics/person-woman-man-camera-tv-trump.html)
+    [](/2020/08/17/us/politics/trump-election.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/23dc-memo/23dc-memo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/us/politics/17dc-trump/17dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ### <span class="css-m70j1g">White House memo</span>
+    ### <span class="css-m70j1g">News Analysis</span>
     
-    ## ‘Person. Woman. Man. Camera. TV.’ Didn’t Mean What Trump Hoped It Did
+    ## Trump as Candidate: Racist Attacks, Conspiracy Theories, War on the Post Office
     
-    The president said on Fox News that he had to remember those words
-    as part of a test that he said demonstrated his mental acuity. But
-    the test, the Montreal Cognitive Assessment, is meant to detect
-    signs of dementia, Alzheimer’s disease or other conditions.
+    President Trump long ago redefined what constitutes normal in the
+    White House, but with 77 days left in the campaign he is pushing all
+    the boundaries at once.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -361,24 +361,26 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/23/us/politics/barron-trump-school-coronavirus.html)
+    [](/2020/08/13/us/politics/trump-israel-united-arab-emirates-uae.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/23/us/politics/23dc-trumpschool/23dc-trumpschool-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/13/us/politics/13dc-israel-sub/13dc-israel-sub-thumbWide-v4.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## As Trump Calls for Schools to Fully Reopen, His Son’s School Says It Will Not
+    ## Israel and United Arab Emirates Strike Major Diplomatic Agreement
     
-    St. Andrew’s Episcopal School, the private school in the Maryland
-    suburbs attended by Barron Trump, said it was considering either a
-    hybrid part-time plan or going back to entirely online classes.
+    President Trump announced that Israel and the United Arab Emirates
+    would establish “full normalization of relations” and that in
+    exchange Israel would forgo for now “declaring sovereignty” over
+    occupied West Bank territory.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker, Isabel Kershner, David D.
+    Kirkpatrick <span>and</span> Ronen
+    Bergman</span>
     
     </div>
     
@@ -396,19 +398,21 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/22/us/politics/trump-impeachment.html)
+    [](/2020/08/12/us/politics/brent-scowcroft.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/politics/22dc-impeach/22dc-impeach-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/12/us/politics/12dc-scowcroft/12dc-scowcroft-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## House Democrats Considered 10 Impeachment Articles Before Narrowing Their Case Against Trump
+    ### <span class="css-m70j1g">White house memo</span>
     
-    The question of what to include in the case against President Trump
-    is at the heart of a new book by Norm Eisen, a lawyer working with
-    House Democrats in the impeachment effort.
+    ## Regrets? Even Brent Scowcroft Had a Few
+    
+    In an oral history released after his death, the former national
+    security adviser revealed a few key moments in which his ideas
+    failed in the war against Saddam Hussein.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -431,18 +435,22 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/22/us/politics/trump-turnberry-british-open.html)
+    [](/2020/08/11/us/politics/trump-putin-vaccine.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/22/us/politics/22dc-trump/merlin_174849138_3557f8f3-7507-4ef3-9f55-b81a4f76c427-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/us/politics/11dc-memo/11dc-memo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Denies Talking to Ambassador About Moving British Open to His Resort
+    ### <span class="css-m70j1g">White house memo</span>
     
-    Ambassador Robert Wood Johnson IV did not deny the episode, but in a
-    Twitter post he wrote that he did not violate any regulations.
+    ## Trump v. Putin: A Vaccine Manhood Contest
+    
+    As President Vladimir V. Putin of Russia declared on Tuesday that
+    his nation had approved the world’s first coronavirus vaccine
+    without extensive clinical trials, public health experts worried
+    that President Trump would feel the need to compete.
     
     <div class="css-1nqbnmb ea5icrr0">
     
@@ -465,24 +473,23 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/21/us/politics/trump-coronavirus-masks.html)
+    [](/live/2020/08/11/us/biden-vs-trump/president-trump-quickly-skewers-harris-as-bidens-vp-pick)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/21/us/politics/21dc-trump/21dc-trump-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/11/us/11-live-harris-trump/merlin_175592820_d2822aad-f0d0-47e5-8183-3910ed0bc960-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump, in a Shift, Endorses Masks and Says Virus Will Get Worse
+    ## President Trump quickly skewers Harris as Biden’s V.P. pick.
     
-    Rather than just “embers” of the disease, as he has repeatedly
-    characterized recent outbreaks afflicting much of the country,
-    President Trump conceded that there were now “big fires.”
+    This was featured in live coverage.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker, Annie Karni
+    <span>and</span> Matt
+    Stevens</span>
     
     </div>
     
@@ -500,23 +507,35 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
-    [](/2020/07/21/us/politics/trump-immigrants-census-redistricting.html)
+    [](/es/2020/08/11/espanol/estados-unidos/3-noviembre-elecciones.html)
     
     <div class="css-79elbk">
     
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/20/us/politics/20dc-immig-eo/20dc-immig-eo-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/09/us/politics/11dc-elecciones-00/09DC-VOTING-print1-thumbWide-v2.jpg?quality=75&auto=webp&disable=upscale)
     
     </div>
     
-    ## Trump Seeks to Stop Counting Unauthorized Immigrants in Drawing House Districts
+    ### <span class="css-m70j1g">Estados unidos</span>
     
-    Critics described the move as unconstitutional and a transparent
-    attempt to help Republicans.
+    ## ¿Qué pasará después de la votación del 3 de noviembre? Tal vez una batalla legal
+    
+    Al tiempo que los dos partidos principales de Estados Unidos debaten
+    sobre cómo llevar a cabo una elección durante una pandemia, las
+    acusaciones infundadas del presidente Trump sobre un fraude han
+    aumentado la probabilidad de peleas judiciales postelectorales
+    épicas.
     
     <div class="css-1nqbnmb ea5icrr0">
     
-    By <span class="css-1n7hynb">Katie Rogers <span>and</span> Peter
-    Baker</span>
+    By <span class="css-1n7hynb">Peter Baker, Nick Corasaniti, Michael
+    S. Schmidt <span>and</span> Maggie Haberman</span>
+    
+    </div>
+    
+    <div class="css-185051n">
+    
+    [Read in
+    English](https://www.nytimes3xbfgragh.onion/2020/08/08/us/politics/voting-nov-3-election.html "Read in English")
     
     </div>
     

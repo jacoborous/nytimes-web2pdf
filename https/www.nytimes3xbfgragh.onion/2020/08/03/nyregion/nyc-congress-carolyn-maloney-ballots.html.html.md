@@ -133,7 +133,7 @@ Rules</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
 </div>
 
@@ -243,7 +243,7 @@ McKinley</span>](https://www.nytimes3xbfgragh.onion/by/jesse-mckinley)
     
     <div class="css-ld3wwf e16638kd2">
     
-    Aug. 3,
+    Published Aug. 3, 2020Updated Aug. 17,
     2020
     
     </div>
@@ -252,7 +252,7 @@ McKinley</span>](https://www.nytimes3xbfgragh.onion/by/jesse-mckinley)
     
     <div class="css-4xjgmj">
     
-    <div class="css-d8bdto" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
     
       - 
       - 
@@ -298,9 +298,10 @@ Still, the judge’s decision is the latest twist in a race that has been
 used by the president to cast doubts on the efficacy of vote-by-mail
 systems nationwide, even as he trails in polls in his bid for
 re-election. The coronavirus outbreak has prompted states across the
-nation to consider expanding mail-in voting for the general election in
-November, as public health officials worry that convening at polling
-locations may spread the disease.
+nation to consider expanding [mail-in
+voting](https://www.nytimes3xbfgragh.onion/interactive/2020/08/11/us/politics/vote-by-mail-us-states.html)
+for the general election in November, as public health officials worry
+that convening at polling locations may spread the disease.
 
 </div>
 

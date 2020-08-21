@@ -173,6 +173,244 @@ story](#after-mid1)
     
     <div class="css-1l4spti">
     
+    [](/2020/08/17/world/canada/finance-minister-resigns-trudeau.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada-minister1/17canada-minister1-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Canada Finance Minister Quits Post Amid Charity Scandal
+    
+    Bill Morneau insisted his stepping down was not related to a
+    conflict-of-interest controversy that has embroiled him and Prime
+    Minister Justin Trudeau of Canada.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+2.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/17/world/canada/toronto-g20-settlement.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/17/world/17canada/17canada-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Toronto Police to Pay $12.5 Million to Protesters Arrested During 2010 G-20 Summit
+    
+    Brutal police tactics during the global meeting shocked many
+    Canadians, led to 1,100 arrests and were found unlawful.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+3.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/14/world/canada/trump-canada-aluminum-exports.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/08/24/world/24canadaletter-aluminium/24canadaletter-aluminium-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">CANADA LETTER</span>
+    
+    ## Looking Behind Trump’s Latest Attack on Canada’s Aluminum Exports
+    
+    We spoke with an economist in Washington about the U.S. president’s
+    latest trade salvo against his neighboring trade partner.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+4.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/live/2020/08/11/us/biden-vs-trump/canadians-highlight-harriss-ties-to-montreal)
+    
+    ## Canadians highlight Harris’s ties to Montreal.
+    
+    This was featured in live coverage.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+5.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/07/world/canada/canada-letter-vaccine.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/27/us/07canadaletter-moderna/27virus-briefing-lede-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ### <span class="css-m70j1g">CANADA LeTTER</span>
+    
+    ## Canada Has Placed Its First Vaccine Order, but Don’t Expect a ‘Silver Bullet’
+    
+    Before the federal government announced an order for millions of
+    doses of a still unproven vaccine, its top doctor sounded a note of
+    caution.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+6.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/business/economy/trump-canadian-aluminum-tariffs.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/09/06/multimedia/06canadatarriffs-sub/06canadatarriffs-sub-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## Trump Reinstates Tariff on Canadian Aluminum
+    
+    The tariff, which prompted dollar-for-dollar retaliation from
+    Canada, was imposed just one month after a new trade deal between
+    the two countries went into effect.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Ana Swanson <span>and</span> Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+7.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
+    [](/2020/08/06/world/canada/museum-of-human-rights-discrimination.html)
+    
+    <div class="css-79elbk">
+    
+    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/28/world/00Canada-Museum/00Canada-Museum-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
+    
+    </div>
+    
+    ## ‘Racism Is Pervasive and Systemic’ at Canada’s Museum of Human Rights, Report Says
+    
+    Even before it opened in 2014, the museum was dogged by controversy.
+    Now, after discrimination accusations, it has been rebuked.
+    
+    <div class="css-1nqbnmb ea5icrr0">
+    
+    By <span class="css-1n7hynb">Catherine Porter <span>and</span> Ian
+    Austen</span>
+    
+    </div>
+    
+    </div>
+    
+    <div class="css-1lc2l26 e1xfvim33">
+    
+    </div>
+    
+    </div>
+
+8.  
+    
+    <div class="css-1cp3ece">
+    
+    <div class="css-1l4spti">
+    
     [](/2020/07/31/world/canada/leone-farrell-chemist.html)
     
     <div class="css-79elbk">
@@ -203,7 +441,7 @@ story](#after-mid1)
     
     </div>
 
-2.  
+9.  
     
     <div class="css-1cp3ece">
     
@@ -239,7 +477,7 @@ story](#after-mid1)
     
     </div>
 
-3.  
+10. 
     
     <div class="css-1cp3ece">
     
@@ -258,260 +496,6 @@ story](#after-mid1)
     The vehicle, with 27 people on board, was specially designed to
     carry visitors onto one of North America’s largest glaciers, in
     Jasper National Park in Alberta.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-4.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/10/world/canada/canada-airlines-coronavirus.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/10/world/10canadaletter-airport/merlin_173848203_f348ae30-ad03-4aca-9b14-4284bc3e4001-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">CANADA LETTER</span>
-    
-    ## An End to Empty Seats on Canada’s Airlines
-    
-    Air Canada and WestJet are no longer putting empty seats between
-    passengers to physically distance them. Some health experts are
-    concerned.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-5.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/07/03/world/canada/sorting-out-canadas-patchwork-of-face-mask-rules.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/07/03/world/03canadaletter-canadanomasks/merlin_174159780_d4767f99-7c4e-4442-b818-8e3cfda2fef0-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Canada Letter</span>
-    
-    ## Sorting Out Canada’s Patchwork of Face Mask Rules
-    
-    Without general directives from federal and provincial governments,
-    local leaders have been left setting mask directives.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-6.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/26/world/canada/canada-reopens-but-little-returns-to-the-old-ways.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/26/world/26canadaletter-church/26canadaletter-church-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">CANADA LETTER</span>
-    
-    ## Canada Reopens, but Little Returns to the Old Ways
-    
-    A minor car breakdown underscored how far life remains from normal.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-7.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/12/world/canada/us-canadian-border.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/12/world/12canadaletter-border1/merlin_171650139_97b557cd-6b57-4cc2-93f4-e94e1accd845-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">canada letter</span>
-    
-    ## How Much Longer Will the Border Stay Shut?
-    
-    The March 21 closure of the Canada-U. S. border has led to a drastic
-    downturn in traffic and speculation about what will happen when the
-    shutdown is set to expire.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-8.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/06/05/world/canada/racism-canada.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/06/05/world/05canadaletter-protest/merlin_173183745_1f948df0-b440-4d6b-9a03-f71b78be6040-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">CANADA LETTER</span>
-    
-    ## Looking Across the Border at American Turmoil
-    
-    Canada’s neighbor is again in upheaval over systemic racism and
-    police brutality. Canada has unresolved racial issues too.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-9.  
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/29/world/canada/essential-workers.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/29/world/29canadaletter-stores/29canadaletter-stores-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ### <span class="css-m70j1g">Canada LETTER</span>
-    
-    ## When Going to Work Means Taking a Calculated Risk
-    
-    The coronavirus hasn’t gone away. But an increasing number of
-    Canadians are heading back to workplaces that may increase their
-    risk of infection.
-    
-    <div class="css-1nqbnmb ea5icrr0">
-    
-    By <span class="css-1n7hynb">Ian
-    Austen</span>
-    
-    </div>
-    
-    </div>
-    
-    <div class="css-1lc2l26 e1xfvim33">
-    
-    </div>
-    
-    </div>
-
-10. 
-    
-    <div class="css-1cp3ece">
-    
-    <div class="css-1l4spti">
-    
-    [](/2020/05/27/world/canada/Toronto-star-sold.html)
-    
-    <div class="css-79elbk">
-    
-    ![](https://static01.graylady3jvrrxbe.onion/images/2020/05/27/world/27toronto-star/27toronto-star-thumbWide.jpg?quality=75&auto=webp&disable=upscale)
-    
-    </div>
-    
-    ## Canada’s Largest Newspaper Changes Hands Amid Vow to Keep Liberal Voice
-    
-    The Toronto Star’s new owners pledged to keep its tradition of
-    championing liberal causes in a news market dominated by
-    conservative views. Less clear? The plans for fixing the paper’s
-    financial woes.
     
     <div class="css-1nqbnmb ea5icrr0">
     
