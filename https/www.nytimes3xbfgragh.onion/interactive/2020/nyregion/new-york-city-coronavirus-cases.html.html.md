@@ -124,17 +124,18 @@ Count</span>
 
 <div class="css-l9svim">
 
-### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb674140-e395-11ea-8f04-cd5180a6ec60)
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccadfa0-efba-11ea-9f2d-2b6e424d6802&variant=undefined)
 
   - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/21/world/covid-19-coronavirus.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb674141-e395-11ea-8f04-cd5180a6ec60)</span>
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/05/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccb06b0-efba-11ea-9f2d-2b6e424d6802&variant=undefined)</span>
   - <span class="css-ousu42">[Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb676850-e395-11ea-8f04-cd5180a6ec60)</span>
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccb06b1-efba-11ea-9f2d-2b6e424d6802&variant=undefined)</span>
   - <span class="css-ousu42">[Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb676851-e395-11ea-8f04-cd5180a6ec60)</span>
-  - <span class="css-ousu42">[Colleges
-    Closing](https://www.nytimes3xbfgragh.onion/2020/08/19/us/colleges-closing-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb676852-e395-11ea-8f04-cd5180a6ec60)</span>
-  - <span class="css-ousu42">[Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/20/business/stock-market-today-coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&variant=undefined&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=bb676853-e395-11ea-8f04-cd5180a6ec60)</span>
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccb06b2-efba-11ea-9f2d-2b6e424d6802&variant=undefined)</span>
+  - <span class="css-ousu42">[Eviction
+    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccb06b3-efba-11ea-9f2d-2b6e424d6802&variant=undefined)</span>
+  - <span class="css-ousu42">[American
+    Hunger](https://www.nytimes3xbfgragh.onion/interactive/2020/09/02/magazine/food-insecurity-hunger-us.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Interactive&impression_id=dccb06b4-efba-11ea-9f2d-2b6e424d6802&variant=undefined)</span>
 
 </div>
 
@@ -174,7 +175,7 @@ story](#after-top)
 <div class="css-1vegfwe interactive-byline-container">
 
 By <span class="css-1baulvz last-byline" itemprop="name">The New York
-Times</span>Updated August 21, 2020, 12:02 A.M.
+Times</span>Updated September 5, 2020, 2:18 P.M.
 E.T.
 
 </div>
@@ -307,44 +308,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.48936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.4468085106383%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.93617021276596%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 64.8936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.38297872340425%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.39306358381503%; top: 66.8370527365665%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.87234042553192%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Sept.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 33.244680851063826%; top: 72.09824211444956%">
 
 <span class="annotation left svelte-cf0pcx mini" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.39884393063584%; top: 89.62366644700518%">
+<div class="pancake-point svelte-11ba04d" style="left: 56.38297872340426%; top: 94.85457816089907%">
 
 <span class="annotation above svelte-cf0pcx mini" style="width: auto">7-day
 average</span>
@@ -377,7 +384,7 @@ Total cases
 
 <div class="num svelte-9rb9hv">
 
-235,985
+240,416
 
 </div>
 
@@ -393,7 +400,7 @@ Deaths
 
 <div class="num svelte-9rb9hv">
 
-23,639
+23,721
 
 </div>
 
@@ -428,15 +435,15 @@ available
 
 [Map](#map)[By ZIP code](#zipcode)[New
 cases](#cases)[Tips](#tips)[Latest news
-»](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid-19.html)
+»](https://www.nytimes3xbfgragh.onion/2020/09/05/world/covid-19-coronavirus.html)
 
 </div>
 
 </div>
 
-There have been at least 235,985 cases of coronavirus in New York City,
-according to a New York Times database. As of Friday morning, at least
-23,639 people had
+There have been at least 240,416 cases of coronavirus in New York City,
+according to a New York Times database. As of Saturday afternoon, at
+least 23,721 people had
 died.
 
 <div id="map" class="g-asset g-graphic g-constrain-source g-state-map g-map" style="max-width: 720px">
@@ -718,16 +725,16 @@ illness.</span>
 
 |                                                                                                                                                                | Cases               | Per 100,000         | Deaths            | Per 100,000       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- | ----------------- | ----------------- |
-| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>5,061 </span> | <span>4,535 </span> | <span>446 </span> | <span>400 </span> |
-| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,809 </span> | <span>3,779 </span> | <span>324 </span> | <span>321 </span> |
-| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,508 </span> | <span>3,777 </span> | <span>297 </span> | <span>320 </span> |
-| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,284 </span> | <span>3,537 </span> | <span>236 </span> | <span>254 </span> |
-| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,238 </span> | <span>4,528 </span> | <span>363 </span> | <span>508 </span> |
-| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,110 </span> | <span>4,056 </span> | <span>221 </span> | <span>288 </span> |
-| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>2,988 </span> | <span>3,085 </span> | <span>299 </span> | <span>309 </span> |
-| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,885 </span> | <span>3,176 </span> | <span>201 </span> | <span>221 </span> |
-| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,832 </span> | <span>3,031 </span> | <span>291 </span> | <span>311 </span> |
-| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,790 </span> | <span>4,460 </span> | <span>258 </span> | <span>412 </span> |
+| <span><span class="bolder">11368</span>, <span class="lighter">Queens</span> <span class="neighborhood">Corona</span> </span>                                  | <span>5,118 </span> | <span>4,586 </span> | <span>446 </span> | <span>400 </span> |
+| <span><span class="bolder">10467</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Norwood and Olinville</span> </span>                    | <span>3,858 </span> | <span>3,828 </span> | <span>330 </span> | <span>327 </span> |
+| <span><span class="bolder">11373</span>, <span class="lighter">Queens</span> <span class="neighborhood">Elmhurst</span> </span>                                | <span>3,535 </span> | <span>3,806 </span> | <span>297 </span> | <span>320 </span> |
+| <span><span class="bolder">11219</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Borough Park</span> </span>                          | <span>3,362 </span> | <span>3,621 </span> | <span>238 </span> | <span>256 </span> |
+| <span><span class="bolder">10469</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Allerton, Pelham Gardens and Baychester </span> </span> | <span>3,266 </span> | <span>4,567 </span> | <span>366 </span> | <span>512 </span> |
+| <span><span class="bolder">10468</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Kingsbridge Heights</span> </span>                      | <span>3,158 </span> | <span>4,118 </span> | <span>224 </span> | <span>292 </span> |
+| <span><span class="bolder">11236</span>, <span class="lighter">Brooklyn</span> <span class="neighborhood">Canarsie</span> </span>                              | <span>3,022 </span> | <span>3,120 </span> | <span>300 </span> | <span>310 </span> |
+| <span><span class="bolder">10314</span>, <span class="lighter">Staten Island</span> <span class="neighborhood">Mid-Island</span> </span>                       | <span>2,937 </span> | <span>3,233 </span> | <span>202 </span> | <span>222 </span> |
+| <span><span class="bolder">10456</span>, <span class="lighter">Bronx</span> <span class="neighborhood">Claremont Village and Morrisania</span> </span>         | <span>2,888 </span> | <span>3,091 </span> | <span>294 </span> | <span>315 </span> |
+| <span><span class="bolder">11372</span>, <span class="lighter">Queens</span> <span class="neighborhood">Jackson Heights</span> </span>                         | <span>2,831 </span> | <span>4,525 </span> | <span>260 </span> | <span>416 </span> |
 
 Show all
 
@@ -791,7 +798,7 @@ x
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 80.25578703703704%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 80.34677419354838%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -802,7 +809,7 @@ x
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 60.511574074074076%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 60.69354838709677%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -813,7 +820,7 @@ x
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 40.767361111111114%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 41.04032258064516%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -824,7 +831,7 @@ x
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 21.023148148148152%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 21.387096774193537%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -835,7 +842,7 @@ x
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 1.2789351851851762%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 1.7338709677419217%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -890,32 +897,32 @@ case</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 64.82640703690649%; top: 72.35810185185186%">
+<div class="pancake-point svelte-11ba04d" style="left: 64.82640703690649%; top: 72.48548387096774%">
 
 <span class="borough-label svelte-16b1ryt" style="color: #639685">Manhattan</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 46.59398005777654%; top: 51.62667824074074%">
+<div class="pancake-point svelte-11ba04d" style="left: 46.59398005777654%; top: 51.84959677419354%">
 
 <span class="borough-label svelte-16b1ryt" style="color: #D7CCBD">Staten
 Island</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 44.56815483787321%; top: 30.89525462962962%">
+<div class="pancake-point svelte-11ba04d" style="left: 44.56815483787321%; top: 31.213709677419345%">
 
 <span class="borough-label svelte-16b1ryt" style="color: #E2AC7E">Bronx</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 42.542329617969884%; top: 43.728993055555556%">
+<div class="pancake-point svelte-11ba04d" style="left: 42.542329617969884%; top: 43.9883064516129%">
 
 <span class="borough-label svelte-16b1ryt" style="color: #85A4B3">Queens</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 26.33572785874326%; top: 80.25578703703704%">
+<div class="pancake-point svelte-11ba04d" style="left: 26.33572785874326%; top: 80.34677419354838%">
 
 <span class="borough-label svelte-16b1ryt right-align" style="color: #7E6B8A">Brooklyn</span>
 
@@ -957,7 +964,7 @@ Island</span>
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 80.25578703703704%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 80.34677419354838%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -968,7 +975,7 @@ Island</span>
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 60.511574074074076%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 60.69354838709677%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -979,7 +986,7 @@ Island</span>
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 40.767361111111114%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 41.04032258064516%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -990,7 +997,7 @@ Island</span>
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 21.023148148148152%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 21.387096774193537%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -1001,7 +1008,7 @@ Island</span>
 
 </div>
 
-<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 1.2789351851851762%">
+<div class="pancake-grid-item svelte-1wq9bba" style="width: 100%; height: 0; top: 1.7338709677419217%">
 
 <div class="grid-line horizontal svelte-16b1ryt">
 
@@ -1077,7 +1084,12 @@ case</span>
 While age was a major factor in who died from Covid-19, neighborhoods
 with [high concentrations of black and Latino
 people](https://www.nytimes3xbfgragh.onion/2020/05/18/nyregion/coronavirus-deaths-nyc.html),
-as well as low-income residents, suffered the highest death rates.
+as well as low-income residents, suffered the highest death rates. In
+August, the city [released the results of 1.5 million antibody
+tests](https://www.nytimes3xbfgragh.onion/2020/08/19/nyregion/new-york-city-antibody-test.html),
+which showed that in one ZIP code in Queens, more than 50 percent of
+people who had gotten tested were found to have antibodies, a strikingly
+high rate.
 
 The city saw a steep decline in new cases from a peak in early April,
 but New York is still not close to being back to its former loud
@@ -1106,7 +1118,7 @@ this article are being updated several times a day based on the latest
 information our journalists are gathering from around the country.
 
 Follow our coverage of the [coronavirus pandemic
-here.](https://www.nytimes3xbfgragh.onion/2020/08/20/world/coronavirus-covid-19.html)
+here.](https://www.nytimes3xbfgragh.onion/2020/09/05/world/covid-19-coronavirus.html)
 
 <div id="cases" class="g-asset g-svelte" style="max-width: 600px">
 
@@ -1185,44 +1197,50 @@ cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.48936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.4468085106383%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.93617021276596%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 64.8936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.38297872340425%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 34.39306358381503%; top: 66.8370527365665%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.87234042553192%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Sept.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 33.244680851063826%; top: 72.09824211444956%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 cases</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.39884393063584%; top: 89.62366644700518%">
+<div class="pancake-point svelte-11ba04d" style="left: 56.38297872340426%; top: 94.85457816089907%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1324,37 +1342,43 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 17.91907514450867%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 16.48936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">April</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 35.26011560693642%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 32.4468085106383%; top: 100%">
 
 <span class="month x-label svelte-bw547y">May</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 53.17919075144509%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 48.93617021276596%; top: 100%">
 
 <span class="month x-label svelte-bw547y">June</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 70.52023121387283%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 64.8936170212766%; top: 100%">
 
 <span class="month x-label svelte-bw547y">July</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 88.43930635838151%; top: 100%">
+<div class="pancake-point svelte-11ba04d" style="left: 81.38297872340425%; top: 100%">
 
 <span class="month x-label svelte-bw547y">Aug.</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 91.04046242774567%; top: 34.69135802469137%">
+<div class="pancake-point svelte-11ba04d" style="left: 97.87234042553192%; top: 100%">
+
+<span class="month x-label svelte-bw547y">Sept.</span>
+
+</div>
+
+<div class="pancake-point svelte-11ba04d" style="left: 83.77659574468085%; top: 34.69135802469137%">
 
 <span class="annotation left svelte-cf0pcx" style="width: 7.1em">Counting
 method changed for
@@ -1362,14 +1386,14 @@ deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 36.127167630057805%; top: 46.91358024691358%">
+<div class="pancake-point svelte-11ba04d" style="left: 33.244680851063826%; top: 46.91358024691358%">
 
 <span class="annotation left svelte-cf0pcx" style="width: auto">New
 deaths</span>
 
 </div>
 
-<div class="pancake-point svelte-11ba04d" style="left: 47.39884393063584%; top: 89.47089947089947%">
+<div class="pancake-point svelte-11ba04d" style="left: 50.53191489361702%; top: 94.02116402116403%">
 
 <span class="annotation above svelte-cf0pcx" style="width: auto">7-day
 average</span>
@@ -1378,7 +1402,7 @@ average</span>
 
 </div>
 
-<span class="break svelte-1iuahvx" style="left: 20.809248554913296%; top: 0%; width: 0.58%"></span><span class="break svelte-1iuahvx" style="left: 28.32369942196532%; top: 0%; width: 0.58%"></span>
+<span class="break svelte-1iuahvx" style="left: 19.148936170212764%; top: 0%; width: 0.53%"></span><span class="break svelte-1iuahvx" style="left: 26.06382978723404%; top: 0%; width: 0.53%"></span>
 
 </div>
 
@@ -1406,13 +1430,17 @@ have undercounted deaths during the coronavirus outbreak because of
 limited testing
 availability.
 
-<div class="g-footer-asset">
-
 ## <span class="g-balancer" data-id="9">About the data</span>
 
 <div class="g-asset g-svelte g-anomaly-notes g-asset-width-full" style="">
 
 <div class="g-svelte" data-component="10">
+
+In data for New York City, the Times relies on reports from both city
+and state health departments. New York City typically releases new data
+each day. Weekend counts may be lower because fewer sources report to
+the state. Cases and deaths are reported based on a person’s permanent
+or usual residence.
 
 <div id="anomaly-notes" class="g-anomaly-notes svelte-bczh6j">
 
@@ -1437,43 +1465,35 @@ they were from.
 database changed to record deaths by New York City residents instead of
 deaths that took place in New York City.
 
-</div>
+<span class="g-anomaly-notes__date svelte-bczh6j">Aug. 20: </span> New
+York City removed four previously reported deaths after reviewing
+records.
 
 </div>
 
 </div>
 
+The tallies on this page include probable and confirmed cases and
+deaths.
+
+**Confirmed cases and deaths**, which are widely considered to be an
+undercount of the true toll, are counts of individuals whose coronavirus
+infections were confirmed by a molecular laboratory test. **Probable
+cases and deaths** count individuals who meet criteria for other types
+of testing, symptoms and exposure, as developed by national and local
+governments.
+
+Governments often revise data or report a single-day large increase in
+cases or deaths from unspecified days without historical revisions,
+which can cause an irregular pattern in the daily reported figures. The
+Times is excluding these anomalies from seven-day averages when
+possible.
+
 </div>
 
-In data for the United States, The Times is now including cases and
-deaths that have been identified by public health officials as probable
-coronavirus patients. Some states and counties only report figures in
-which a coronavirus infection was confirmed through testing. Because
-confirmed cases are widely considered to be an undercount of the true
-toll, some state and local governments have started identifying probable
-cases and deaths using criteria that were developed by states and the
-federal government.
+</div>
 
-**Confirmed cases and deaths** are counts of individuals whose
-coronavirus infections were confirmed by a laboratory test. **Probable
-cases and deaths** count individuals who did not have a confirmed test
-but were evaluated using criteria developed by national and local
-governments. Some governments are reporting only confirmed cases, while
-others are reporting both confirmed and probable numbers. And there is
-also another set of governments that are reporting the two types of
-numbers combined without providing a way to separate the confirmed from
-the probable. The Times is now using the total of confirmed and probable
-counts when they are available individually or combined. Otherwise only
-the confirmed count will be shown.
-
-Governments often revise data or report a large increase in cases on a
-single day without historical revisions, which can cause an irregular
-pattern in the daily reported figures. The Times is excluding these
-anomalies from seven-day averages when possible.
-
-Read more about the methodology and download county-level data for
-coronavirus cases in the United States from The New York Times [on
-GitHub](https://github.com/nytimes/covid-19-data).
+<div class="g-footer-asset">
 
 ## <span class="g-balancer" data-id="11">Tracking the Coronavirus</span>
 
@@ -1492,7 +1512,7 @@ GitHub](https://github.com/nytimes/covid-19-data).
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/orphan_usa-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/orphan_usa-threeByTwoSmallAt2X.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1510,7 +1530,7 @@ county
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/deaths-us.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/deaths-us.jpg)
 
 <div class="card-text svelte-15xraff">
 
@@ -1528,7 +1548,7 @@ U.S.
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Cities and Metro
-Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/metros.png)
+Areas](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/metros.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1546,7 +1566,7 @@ worse
 <div class="card svelte-15xraff">
 
 ![Thumbnail for
-Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/testing.png)
+Testing](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/testing.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1564,7 +1584,7 @@ enough?
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Nursing
-Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/nursing-homes.png)
+Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/nursing-homes.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1572,6 +1592,24 @@ Homes](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavir
 
 The hardest-hit states and
 facilities
+
+</div>
+
+</div>
+
+[](https://www.nytimes3xbfgragh.onion/interactive/2020/us/covid-college-cases-tracker.html)
+
+<div class="card svelte-15xraff">
+
+![Thumbnail for Colleges and
+Universities](https://static01.graylady3jvrrxbe.onion/images/2020/09/04/us/covid-college-cases-tracker-promo-1599194588528/covid-college-cases-tracker-promo-1599194588528-threeByTwoSmallAt2X.png)
+
+<div class="card-text svelte-15xraff">
+
+#### Colleges and Universities
+
+Cases at more than 1,000
+schools
 
 </div>
 
@@ -1606,7 +1644,7 @@ closed
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Latest Maps and
-Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/orphan_world-threeByTwoSmallAt2X.png)
+Data](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/orphan_world-threeByTwoSmallAt2X.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1624,7 +1662,7 @@ country
 <div class="card svelte-15xraff">
 
 ![Thumbnail for Deaths Above
-Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/deaths-world.jpg)
+Normal](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/deaths-world.jpg)
 
 <div class="card-text svelte-15xraff">
 
@@ -1648,7 +1686,7 @@ world
 <div class="card svelte-15xraff">
 
 ![Thumbnail for
-Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/vaccines.png)
+Vaccines](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/vaccines.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1666,7 +1704,7 @@ development
 <div class="card svelte-15xraff">
 
 ![Thumbnail for
-Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/18d50cbff035d73d7131c82405c7e8803be775ec/images/footer-thumbs/treatments.png)
+Treatments](https://static01.graylady3jvrrxbe.onion/newsgraphics/2020/03/16/coronavirus-maps/53ce5a3353d6ac27572d473aa0a97c8ae0dc5a70/images/footer-thumbs/treatments.png)
 
 <div class="card-text svelte-15xraff">
 
@@ -1772,7 +1810,7 @@ Rated by effectiveness and
 
 <div class="g-ad">
 
-<div id="mid46" class="place-ad" data-position="mid46" data-size-key="default">
+<div id="mid44" class="place-ad" data-position="mid44" data-size-key="default">
 
 </div>
 
@@ -1829,16 +1867,8 @@ outbreak.
 
 <div id="interactive-footer-container" class="css-ovgi28 interactive-footer-container">
 
-Note: Data are based on reports by states and counties at the time of
-publication. Local governments may revise reported numbers as they get
-new information. Some deaths may be reported by officials in two
-different jurisdictions. When possible, deaths have been reported here
-in the jurisdiction where the death occurred.  
-  
-\*Cases in New York City, Kansas City, Mo., and Joplin, Mo., each of
-which span multiple counties, are grouped together. Cases in a state
-that have been reported without a specific county are listed as county
-“unknown.”  
+Note: Data are based on reports at the time of publication. At times,
+officials revise reports or offer incomplete information.  
   
 Population and demographic data from Census Bureau.
 
@@ -1885,19 +1915,19 @@ LaGesse, Alex Lim, Patricia Mazzei, Jesse McKinley, Miles McKinley, K.B.
 Mensah, Sarah Mervosh, Jacob Meschke, Lauren Messman, Andrea Michelson,
 Jaylynn Moffat-Mowatt, Steven Moity, Paul Moon, Thomas Gibbons-Neff,
 Anahad O'Connor, Ashlyn O’Hara, Azi Paybarah, Elian Peltier, Sean
-Plambeck, Elisabetta Povoledo, Cierra S. Queen, Savannah Redl, Scott
-Reinhard, Thomas Rivas, Frances Robles, Natasha Rodriguez, Alison
-Saldanha, [Kai
+Plambeck, Laney Pope, Elisabetta Povoledo, Cierra S. Queen, Savannah
+Redl, Scott Reinhard, Thomas Rivas, Frances Robles, Natasha Rodriguez,
+Jess Ruderman, Alison Saldanha, [Kai
 Schultz](https://www.nytimes3xbfgragh.onion/by/kai-schultz), Alex
 Schwartz, Emily Schwing, Libby Seline, Sarena Snider, Brandon Thorp,
 Alex Traub, Maura Turcotte, Tracey Tully, Lisa Waananen Jones, Amy
-Schoenfeld Walker, Jeremy White, Kristine White, [Sameer
-Yasir](https://www.nytimes3xbfgragh.onion/by/sameer-yasir) and John
-Yoon.   ·   Data acquisition and additional work contributed by Will
-Houp, Andrew Chavez, Michael Strickland, Tiff Fehr, Miles Watkins, [Josh
-Williams](https://www.nytimes3xbfgragh.onion/by/josh-williams), Albert
-Sun, Shelly Seroussi, Nina Pavlich, Carmen Cincotti, Ben Smithgall,
-Andrew Fischer, [Rachel
+Schoenfeld Walker, Jeremy White, Kristine White, Bonnie G. Wong, Tiffany
+Wong, [Sameer Yasir](https://www.nytimes3xbfgragh.onion/by/sameer-yasir)
+and John Yoon.   ·   Data acquisition and additional work contributed by
+Will Houp, Andrew Chavez, Michael Strickland, Tiff Fehr, Miles Watkins,
+[Josh Williams](https://www.nytimes3xbfgragh.onion/by/josh-williams),
+Albert Sun, Shelly Seroussi, Nina Pavlich, Carmen Cincotti, Ben
+Smithgall, Andrew Fischer, [Rachel
 Shorey](https://www.nytimes3xbfgragh.onion/by/rachel-shorey), [Blacki
 Migliozzi](https://www.nytimes3xbfgragh.onion/by/blacki-migliozzi),
 Alastair Coote, Steven Speicher, Hugh Mandeville, Robin Berjon, Thu

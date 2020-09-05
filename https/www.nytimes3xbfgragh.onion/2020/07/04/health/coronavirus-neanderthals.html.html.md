@@ -1,0 +1,767 @@
+<div id="app">
+
+<div>
+
+<div>
+
+<div>
+
+<div class="NYTAppHideMasthead css-1q2w90k e1suatyy0">
+
+<div class="section css-ui9rw0 e1suatyy2">
+
+<div class="css-eph4ug er09x8g0">
+
+<div class="css-6n7j50">
+
+</div>
+
+<span class="css-1dv1kvn">Sections</span>
+
+<div class="css-10488qs">
+
+<span class="css-1dv1kvn">SEARCH</span>
+
+</div>
+
+[Skip to content](#site-content)[Skip to site
+index](#site-index)
+
+</div>
+
+<div id="masthead-section-label" class="css-1wr3we4 eaxe0e00">
+
+[Health](https://www.nytimes3xbfgragh.onion/section/health)
+
+</div>
+
+<div class="css-10698na e1huz5gh0">
+
+</div>
+
+</div>
+
+<div id="masthead-bar-one" class="section hasLinks css-15hmgas e1csuq9d3">
+
+<div class="css-uqyvli e1csuq9d0">
+
+</div>
+
+<div class="css-1uqjmks e1csuq9d1">
+
+</div>
+
+<div class="css-9e9ivx">
+
+[](https://myaccount.nytimes3xbfgragh.onion/auth/login?response_type=cookie&client_id=vi)
+
+</div>
+
+<div class="css-1bvtpon e1csuq9d2">
+
+[Today’s
+Paper](https://www.nytimes3xbfgragh.onion/section/todayspaper)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div data-aria-hidden="false">
+
+<div id="site-content" data-role="main">
+
+<div>
+
+<div class="css-1aor85t" style="opacity:0.000000001;z-index:-1;visibility:hidden">
+
+<div class="css-1hqnpie">
+
+<div class="css-epjblv">
+
+<span class="css-17xtcya">[Health](/section/health)</span><span class="css-x15j1o">|</span><span class="css-fwqvlz">DNA
+Inherited From Neanderthals May Increase Risk of
+Covid-19</span>
+
+</div>
+
+<div class="css-k008qs">
+
+<div class="css-1iwv8en">
+
+<span class="css-18z7m18"></span>
+
+<div>
+
+</div>
+
+</div>
+
+<span class="css-1n6z4y">https://nyti.ms/2YX7Ekv</span>
+
+<div class="css-1705lsu">
+
+<div class="css-4xjgmj">
+
+<div class="css-4skfbu" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+
+  - 
+  - 
+  - 
+  - 
+    
+    <div class="css-6n7j50">
+    
+    </div>
+
+  - 
+  - 
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="css-13pd83m">
+
+<div class="css-l9svim">
+
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7d9530-efba-11ea-bf6c-d9d97a131239&variant=undefined)
+
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/05/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7d9531-efba-11ea-bf6c-d9d97a131239&variant=undefined)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7d9532-efba-11ea-bf6c-d9d97a131239&variant=undefined)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7d9533-efba-11ea-bf6c-d9d97a131239&variant=undefined)</span>
+  - <span class="css-ousu42">[Eviction
+    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7dbc40-efba-11ea-bf6c-d9d97a131239&variant=undefined)</span>
+  - <span class="css-ousu42">[American
+    Hunger](https://www.nytimes3xbfgragh.onion/interactive/2020/09/02/magazine/food-insecurity-hunger-us.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=4e7dbc41-efba-11ea-bf6c-d9d97a131239&variant=undefined)</span>
+
+</div>
+
+</div>
+
+<div id="top-wrapper" class="css-1sy8kpn">
+
+<div id="top-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-top)
+
+<div class="ad top-wrapper" style="text-align:center;height:100%;display:block;min-height:250px">
+
+<div id="top" class="place-ad" data-position="top" data-size-key="top">
+
+</div>
+
+</div>
+
+<div id="after-top">
+
+</div>
+
+</div>
+
+<div>
+
+<div id="sponsor-wrapper" class="css-1hyfx7x">
+
+<div id="sponsor-slug" class="css-19vbshk">
+
+Supported by
+
+</div>
+
+[Continue reading the main
+story](#after-sponsor)
+
+<div id="sponsor" class="ad sponsor-wrapper" style="text-align:center;height:100%;display:block">
+
+</div>
+
+<div id="after-sponsor">
+
+</div>
+
+</div>
+
+<div class="css-186x18t">
+
+</div>
+
+<div class="css-1vkm6nb ehdk2mb0">
+
+# DNA Inherited From Neanderthals May Increase Risk of Covid-19
+
+</div>
+
+The stretch of six genes seems to increase the risk of severe illness
+from the coronavirus.
+
+<div class="css-79elbk" data-testid="photoviewer-wrapper">
+
+<div class="css-z3e15g" data-testid="photoviewer-wrapper-hidden">
+
+</div>
+
+<div class="css-1a48zt4 ehw59r15" data-testid="photoviewer-children">
+
+![<span class="css-16f3y1r e13ogyst0" data-aria-hidden="true">A
+researcher excavating a Neanderthal skeleton last
+year.</span><span class="css-cnj6d5 e1z0qqy90" itemprop="copyrightHolder"><span class="css-1ly73wi e1tej78p0">Credit...</span><span><span>Gailan
+Haji/EPA-EFE/REX</span></span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/07/04/multimedia/04virus-neanderthals-pix/04virus-neanderthals-pix-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
+
+</div>
+
+</div>
+
+<div class="css-18e8msd">
+
+<div class="css-vp77d3 epjyd6m0">
+
+<div class="css-hus3qt ey68jwv0" data-aria-hidden="true">
+
+[![Carl
+Zimmer](https://static01.graylady3jvrrxbe.onion/images/2018/06/12/multimedia/author-carl-zimmer/author-carl-zimmer-thumbLarge.png
+"Carl Zimmer")](https://www.nytimes3xbfgragh.onion/by/carl-zimmer)
+
+</div>
+
+<div class="css-1baulvz">
+
+By [<span class="css-1baulvz last-byline" itemprop="name">Carl
+Zimmer</span>](https://www.nytimes3xbfgragh.onion/by/carl-zimmer)
+
+</div>
+
+</div>
+
+  - 
+    
+    <div class="css-ld3wwf e16638kd2">
+    
+    Published July 4, 2020Updated July 8,
+    2020
+    
+    </div>
+
+  - 
+    
+    <div class="css-4xjgmj">
+    
+    <div class="css-pvvomx" data-role="toolbar" data-aria-label="Social Media Share buttons, Save button, and Comments Panel with current comment count" data-testid="share-tools">
+    
+      - 
+      - 
+      - 
+      - 
+        
+        <div class="css-6n7j50">
+        
+        </div>
+    
+      - 
+      - 
+    
+    </div>
+    
+    </div>
+
+</div>
+
+</div>
+
+<div class="section meteredContent css-1r7ky0e" name="articleBody" itemprop="articleBody">
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+A stretch of DNA [linked to
+Covid-19](https://www.nytimes3xbfgragh.onion/2020/06/03/health/coronavirus-blood-type-genetics.html)
+was passed down from Neanderthals 60,000 years ago, according to a new
+study.
+
+Scientists don’t yet know why this particular segment increases the
+[risk](https://www.nytimes3xbfgragh.onion/2020/07/08/health/coronavirus-risk-factors.html)
+of severe illness from the coronavirus. But the [new
+findings](https://www.biorxiv.org/content/10.1101/2020.07.03.186296v1.full.pdf+html),
+which were posted online on Friday and have not yet been published in a
+scientific journal, show how some clues to modern health stem from
+ancient history.
+
+“This interbreeding effect that happened 60,000 years ago is still
+having an impact today,” said Joshua Akey, a geneticist at Princeton
+University who was not involved in the new study.
+
+This piece of the genome, which spans six genes on Chromosome 3, has had
+a puzzling journey through human history, the study found. The variant
+is now common in Bangladesh, where 63 percent of people carry at least
+one copy. Across all of South Asia, almost one-third of people have
+inherited the segment.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Elsewhere, however, the segment is far less common. Only 8 percent of
+Europeans carry it, and just 4 percent have it in East Asia. It is
+almost completely absent in Africa.
+
+It’s not clear what evolutionary pattern produced this distribution over
+the past 60,000 years. “That’s the $10,000 question,” said Hugo Zeberg,
+a geneticist at the Karolinska Institute in Sweden who was one of the
+authors of the new study.
+
+One possibility is that the Neanderthal version is harmful and has been
+getting rarer over all. It’s also possible that the segment improved
+people’s health in South Asia, perhaps providing a strong immune
+response to viruses in the
+region.
+
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-covid-updates-world" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI5YzI0NTk0LWYzYTUtNTQ2ZS1hMWNmLWFkZWYxODdiZTJiOQ==">
+
+<div class="briefing-block-header-section">
+
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+<div class="briefing-block-ts">
+
+Updated 2020-09-05T12:05:40.998Z
+
+</div>
+
+</div>
+
+  - [Research connects vaping to a higher chance of catching the virus —
+    and suffering its worst
+    effects.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1654f6ad)
+  - [Another college football game won’t be played as
+    planned.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-52e4198a)
+  - [Pharmaceutical companies plan a joint pledge on safety standards as
+    they move vaccines to the
+    marketplace.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-181cef0)
+
+<div class="briefing-block-footer">
+
+<div class="briefing-block-footer-meta">
+
+[See more
+updates](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+<div class="briefing-block-briefinglinks">
+
+<span>More live coverage:</span>
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/09/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+“One should stress that at this point this is pure speculation,” said
+Dr. Zeberg’s co-author, Svante Paabo, the director of the Max Planck
+Institute for Evolutionary Anthropology in Leipzig, Germany.
+
+Researchers are only beginning to understand why Covid-19 is more
+dangerous for some people than others. Older people are more likely to
+become severely ill than younger ones. Men are at more risk than women.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+Social inequality matters, too. In the United States, Black people are
+[far more
+likely](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/racial-ethnic-minorities.html)
+than white people to become severely ill from the coronavirus, for
+example, most likely due in part to the country’s history of [systemic
+racism](https://www.nytimes3xbfgragh.onion/2020/04/29/magazine/racial-disparities-covid-19.html).
+It has left Black people with a high rate of chronic diseases such as
+diabetes, as well as living conditions and jobs that may increase
+exposure to the virus.
+
+Genes play a role as well. Last month, researchers compared people in
+Italy and Spain who became very sick with
+[Covid-19](https://www.nytimes3xbfgragh.onion/2020/07/08/health/coronavirus-risk-factors.html)
+to those who had only mild infections. They found two places in the
+genome [associated with a greater
+risk](https://www.nytimes3xbfgragh.onion/2020/06/03/health/coronavirus-blood-type-genetics.html).
+One is on Chromosome 9 and includes ABO, a gene that determines blood
+type. The other is the Neanderthal segment on Chromosome 3.
+
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
+But these genetic findings are being rapidly updated as more people
+infected with the coronavirus are studied. Just last week, an
+international group of scientists called the [Covid-19 Host Genetics
+Initiative](https://www.covid19hg.org/) released a new set of data
+downplaying the risk of blood type. “The jury is still out on ABO,” said
+Mark Daly, a geneticist at Harvard Medical School who is a member of the
+initiative.
+
+The new data showed an even stronger link between the disease and the
+Chromosome 3 segment. People who carry two copies of the variant are
+three times more likely to suffer from severe illness than people who do
+not.
+
+After the new batch of data came out on Monday, Dr. Zeberg decided to
+find out if the Chromosome 3 segment was passed down from Neanderthals.
+
+About 60,000 years ago, some ancestors of modern humans [expanded out of
+Africa](https://www.nytimes3xbfgragh.onion/2020/01/31/science/neanderthal-dna-africa.html)
+and swept across Europe, Asia and Australia. These people encountered
+Neanderthals and interbred. Once Neanderthal DNA entered our gene pool,
+it spread down through the generations, long after Neanderthals became
+extinct.
+
+Most Neanderthal genes turned out to be harmful to modern humans. They
+may have been a burden on people’s health or made it harder to have
+children. As a result, Neanderthal genes became rarer, and many
+disappeared from our gene pool.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+But some genes appear to have provided an evolutionary edge and have
+become quite common. In May, Dr. Zeberg, Dr. Paabo and Dr. Janet Kelso,
+also of the Max Planck Institute, discovered that one-third of European
+women have a [Neanderthal hormone
+receptor](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msaa119/5841671).
+It is associated with increased fertility and fewer
+miscarriages.
+
+<div id="NYT_MAIN_CONTENT_3_REGION" class="css-9tf9ac">
+
+<div>
+
+<div id="styln-prism-freeform-1594220623585" class="section interactive-content interactive-size-medium css-1ftcdic">
+
+<div class="css-17ih8de interactive-body">
+
+<div id="prism-freeform-block-62914" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+
+<div class="css-a8d9oz">
+
+<div class="css-eb027h">
+
+[](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
+
+### The Coronavirus Outbreak ›
+
+#### Frequently Asked Questions
+
+Updated September 4, 2020
+
+  - #### What are the symptoms of coronavirus?
+    
+      - In the beginning, the coronavirus [seemed like it was primarily
+        a respiratory
+        illness](https://www.nytimes3xbfgragh.onion/article/coronavirus-facts-history.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-6817bab5) —
+        many patients had fever and chills, were weak and tired, and
+        coughed a lot, though some people don’t show many symptoms at
+        all. Those who seemed sickest had pneumonia or acute respiratory
+        distress syndrome and received supplemental oxygen. By now,
+        doctors have identified many more symptoms and syndromes. In
+        April, [the C.D.C. added to the list of early
+        signs](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) sore
+        throat, fever, chills and muscle aches. Gastrointestinal upset,
+        such as diarrhea and nausea, has also been observed. Another
+        telltale sign of infection may be a sudden, profound diminution
+        of one’s [sense of smell and
+        taste.](https://www.nytimes3xbfgragh.onion/2020/03/22/health/coronavirus-symptoms-smell-taste.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) Teenagers
+        and young adults in some cases have developed painful red and
+        purple lesions on their fingers and toes — nicknamed “Covid toe”
+        — but few other serious symptoms.
+
+  - #### Why is it safer to spend time together outside?
+    
+      - [Outdoor
+        gatherings](https://www.nytimes3xbfgragh.onion/2020/05/15/us/coronavirus-what-to-do-outside.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) lower
+        risk because wind disperses viral droplets, and sunlight can
+        kill some of the virus. Open spaces prevent the virus from
+        building up in concentrated amounts and being inhaled, which can
+        happen when infected people exhale in a confined space for long
+        stretches of time, said Dr. Julian W. Tang, a virologist at the
+        University of Leicester.
+
+  - #### Why does standing six feet away from others help?
+    
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) on
+        the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
+
+  - #### I have antibodies. Am I now immune?
+    
+      - As of right now,[ that seems likely, for at least several
+        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) There
+        have been frightening accounts of people suffering what seems to
+        be a second bout of Covid-19. But experts say these patients may
+        have a drawn-out course of infection, with the virus taking a
+        slow toll weeks to months after initial exposure. People
+        infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9) immune
+        molecules called antibodies, which are [protective proteins made
+        in response to an
+        infection](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
+        These antibodies
+        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) last
+        in the body [only two to three
+        months](https://www.nature.com/articles/s41591-020-0965-6),
+        which may seem worrisome, but that’s perfectly normal after an
+        acute infection subsides, said Dr. Michael Mina, an immunologist
+        at Harvard University. It may be possible to get the coronavirus
+        again, but it’s highly unlikely that it would be possible in a
+        short window of time from initial infection or make people
+        sicker the second time.
+
+  - #### What are my rights if I am worried about going back to work?
+    
+      - Employers have to provide [a safe
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html) with
+        policies that protect everyone equally. [And if one of your
+        co-workers tests positive for the coronavirus, the
+        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) has
+        said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html) --
+        without giving you the sick employee’s name -- that they may
+        have been exposed to the
+virus.
+
+<div id="styln-survey-component-62914" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+
+</div>
+
+</div>
+
+<div class="css-6mllg9">
+
+</div>
+
+<div class="css-pmm6ed">
+
+<span class="css-5gimkt"></span>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+Dr. Zeberg knew that other Neanderthal genes that are common today even
+[help us fight
+viruses](https://www.nytimes3xbfgragh.onion/2018/10/04/science/neanderthal-genes-viruses.html).
+When modern humans expanded into Asia and Europe, they may have
+encountered new viruses against which Neanderthals had already evolved
+defenses. We have held onto those genes ever since.
+
+Dr. Zeberg looked at Chromosome 3 in an online database of Neanderthal
+genomes. He found that the version that raises people’s risk of severe
+Covid-19 is the same version found in a Neanderthal who lived in Croatia
+50,000 years ago. “I texted Svante immediately,” Dr. Zeberg said in an
+interview, referring to Dr. Paabo.
+
+Dr. Paabo was on vacation in a cottage in the remote Swedish
+countryside. Dr. Zeberg showed up the next day, and they worked day and
+night until they posted the study online on Friday.
+
+“It’s the most crazy vacation I’ve ever had in this cottage,” Dr. Paabo
+said.
+
+Tony Capra, a geneticist at Vanderbilt University who was not involved
+in the study, thought it was plausible that the Neanderthal chunk of DNA
+originally provided a benefit — perhaps even against other viruses. “But
+that was 40,000 years ago, and here we are now,” he said.
+
+It’s possible that an immune response that worked against ancient
+viruses has ended up overreacting against the new coronavirus. People
+who develop severe cases of Covid-19 typically do so because their
+immune systems launch uncontrolled attacks that end up scarring their
+lungs and causing inflammation.
+
+Dr. Paabo said the DNA segment may account in part for why people of
+Bangladeshi descent are [dying at a high
+rate](https://www.theguardian.com/world/2020/jun/19/south-asians-in-uk-most-likely-to-die-of-covid-19-study-finds)
+of Covid-19 in the United Kingdom.
+
+</div>
+
+</div>
+
+<div class="css-1fanzo5 StoryBodyCompanionColumn">
+
+<div class="css-53u6y8">
+
+It’s an open question whether this Neanderthal segment continues to keep
+a strong link to Covid-19 as Dr. Zeberg and other researchers study more
+patients. And it may take discoveries of the segment in ancient fossils
+of modern humans to understand why it became so common in some places
+but not others.
+
+But Dr. Zeberg said that the 60,000-year journey of this chunk of DNA in
+our species might help explain why it’s so dangerous today.
+
+“Its evolutionary history may give us some clues,” Dr. Zeberg said.
+
+***\[*[*Like the Science Times page on
+Facebook.*](http://on.fb.me/1paTQ1h)** ****** *| Sign up for the*
+**[*Science Times newsletter.*](http://nyti.ms/1MbHaRU)*\]***
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+</div>
+
+<div>
+
+<div id="bottom-wrapper" class="css-1ede5it">
+
+<div id="bottom-slug" class="css-l9onyx">
+
+Advertisement
+
+</div>
+
+[Continue reading the main
+story](#after-bottom)
+
+<div id="bottom" class="ad bottom-wrapper" style="text-align:center;height:100%;display:block;min-height:90px">
+
+</div>
+
+<div id="after-bottom">
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+## Site Index
+
+<div>
+
+</div>
+
+## Site Information Navigation
+
+  - [© <span>2020</span> <span>The New York Times
+    Company</span>](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014792127-Copyright-notice)
+
+<!-- end list -->
+
+  - [NYTCo](https://www.nytco.com/)
+  - [Contact
+    Us](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115015385887-Contact-Us)
+  - [Work with us](https://www.nytco.com/careers/)
+  - [Advertise](https://nytmediakit.com/)
+  - [T Brand Studio](http://www.tbrandstudio.com/)
+  - [Your Ad
+    Choices](https://www.nytimes3xbfgragh.onion/privacy/cookie-policy#how-do-i-manage-trackers)
+  - [Privacy](https://www.nytimes3xbfgragh.onion/privacy)
+  - [Terms of
+    Service](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893428-Terms-of-service)
+  - [Terms of
+    Sale](https://help.nytimes3xbfgragh.onion/hc/en-us/articles/115014893968-Terms-of-sale)
+  - [Site
+    Map](https://spiderbites.nytimes3xbfgragh.onion)
+  - [Help](https://help.nytimes3xbfgragh.onion/hc/en-us)
+  - [Subscriptions](https://www.nytimes3xbfgragh.onion/subscription?campaignId=37WXW)
+
+</div>
+
+</div>
+
+</div>
+
+</div>

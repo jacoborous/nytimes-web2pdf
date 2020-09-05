@@ -131,35 +131,22 @@ Opposition</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a02a80-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/05/world/coronavirus-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a02a81-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a05190-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a05191-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)</span>
+  - <span class="css-ousu42">[Eviction
+    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a05192-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)</span>
+  - <span class="css-ousu42">[American
+    Hunger](https://www.nytimes3xbfgragh.onion/interactive/2020/09/02/magazine/food-insecurity-hunger-us.html?name=styln-coronavirus-national&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=90a05193-efbb-11ea-bdea-9bf7354ffa7c&variant=undefined)</span>
 
 </div>
 
@@ -379,42 +366,42 @@ dollars.”
 
 <div class="css-17ih8de interactive-body">
 
-<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzNhNGMwYWI5LWIwY2QtNWQwOS1hZTgwLTdjMGU3ZTA1OWQ2OA==">
+<div id="styln-briefing-block" data-asset-id="QXJ0aWNsZTpueXQ6Ly9hcnRpY2xlLzI5YzI0NTk0LWYzYTUtNTQ2ZS1hMWNmLWFkZWYxODdiZTJiOQ==">
 
 <div class="briefing-block-header-section">
 
-# [Latest Updates: Global Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+# [Latest Updates: The Coronavirus Outbreak](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 <div class="briefing-block-ts">
 
-Updated 2020-08-05T07:58:24.076Z
+Updated 2020-09-05T12:05:40.998Z
 
 </div>
 
 </div>
 
-  - [As talks drag on, McConnell signals openness to jobless aid
-    extension, and negotiators agree on a
-    deadline.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-762df92)
-  - [Novavax sees encouraging results from two studies of its
-    experimental
-    vaccine.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1228a480)
-  - [Mississippians must now wear masks in public, governor
-    says.](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-794484ed)
+  - [Research connects vaping to a higher chance of catching the virus —
+    and suffering its worst
+    effects.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-1654f6ad)
+  - [Another college football game won’t be played as
+    planned.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-52e4198a)
+  - [Pharmaceutical companies plan a joint pledge on safety standards as
+    they move vaccines to the
+    marketplace.](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates#link-181cef0)
 
 <div class="briefing-block-footer">
 
 <div class="briefing-block-footer-meta">
 
 [See more
-updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+updates](https://www.nytimes3xbfgragh.onion/2020/09/04/world/covid-19-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
 <div class="briefing-block-briefinglinks">
 
 <span>More live coverage:</span>
-[Markets](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
+[Markets](https://www.nytimes3xbfgragh.onion/live/2020/09/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_1&context=storylines_live_updates)
 
 </div>
 
@@ -462,6 +449,14 @@ pointless.
 without any Republican input at all,” said Representative Tom Cole of
 Oklahoma, a member of the House Appropriations Committee.
 
+<div id="NYT_MAIN_CONTENT_2_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
 “Instead of going big,” said Representative Kevin McCarthy of
 California, the minority leader, “you went crazy.”
 
@@ -492,7 +487,7 @@ Americans.
 
 <div class="css-17ih8de interactive-body">
 
-<div id="prism-freeform-block-85410" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
+<div id="prism-freeform-block-62914" class="css-19mumt8" data-role="complementary" data-storyline="The Coronavirus Outbreak" data-truncated="true" tabindex="0">
 
 <div class="css-a8d9oz">
 
@@ -504,107 +499,95 @@ Americans.
 
 #### Frequently Asked Questions
 
-Updated August 4, 2020
+Updated September 4, 2020
+
+  - #### What are the symptoms of coronavirus?
+    
+      - In the beginning, the coronavirus [seemed like it was primarily
+        a respiratory
+        illness](https://www.nytimes3xbfgragh.onion/article/coronavirus-facts-history.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq#link-6817bab5) —
+        many patients had fever and chills, were weak and tired, and
+        coughed a lot, though some people don’t show many symptoms at
+        all. Those who seemed sickest had pneumonia or acute respiratory
+        distress syndrome and received supplemental oxygen. By now,
+        doctors have identified many more symptoms and syndromes. In
+        April, [the C.D.C. added to the list of early
+        signs](https://www.nytimes3xbfgragh.onion/2020/04/27/health/coronavirus-symptoms-cdc.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) sore
+        throat, fever, chills and muscle aches. Gastrointestinal upset,
+        such as diarrhea and nausea, has also been observed. Another
+        telltale sign of infection may be a sudden, profound diminution
+        of one’s [sense of smell and
+        taste.](https://www.nytimes3xbfgragh.onion/2020/03/22/health/coronavirus-symptoms-smell-taste.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) Teenagers
+        and young adults in some cases have developed painful red and
+        purple lesions on their fingers and toes — nicknamed “Covid toe”
+        — but few other serious symptoms.
+
+  - #### Why is it safer to spend time together outside?
+    
+      - [Outdoor
+        gatherings](https://www.nytimes3xbfgragh.onion/2020/05/15/us/coronavirus-what-to-do-outside.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) lower
+        risk because wind disperses viral droplets, and sunlight can
+        kill some of the virus. Open spaces prevent the virus from
+        building up in concentrated amounts and being inhaled, which can
+        happen when infected people exhale in a confined space for long
+        stretches of time, said Dr. Julian W. Tang, a virologist at the
+        University of Leicester.
+
+  - #### Why does standing six feet away from others help?
+    
+      - The coronavirus spreads primarily through droplets from your
+        mouth and nose, especially when you cough or sneeze. The C.D.C.,
+        one of the organizations using that measure, [bases its
+        recommendation of six
+        feet](https://www.nytimes3xbfgragh.onion/2020/04/14/health/coronavirus-six-feet.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) on
+        the idea that most large droplets that people expel when they
+        cough or sneeze will fall to the ground within six feet. But six
+        feet has never been a magic number that guarantees complete
+        protection. Sneezes, for instance, can launch droplets a lot
+        farther than six feet, [according to a recent
+        study](https://jamanetwork.com/journals/jama/fullarticle/2763852).
+        It's a rule of thumb: You should be safest standing six feet
+        apart outside, especially when it's windy. But keep a mask on at
+        all times, even when you think you’re far enough apart.
 
   - #### I have antibodies. Am I now immune?
     
-      - As of right now,[that seems likely, for at least several
-        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        There have been frightening accounts of people suffering what
-        seems to be a second bout of Covid-19. But experts say these
-        patients may have a drawn-out course of infection, with the
-        virus taking a slow toll weeks to months after initial exposure.
-        People infected with the coronavirus typically
-        [produce](https://www.nature.com/articles/s41586-020-2456-9)
-        immune molecules called antibodies, which are [protective
-        proteins made in response to an
+      - As of right now,[ that seems likely, for at least several
+        months.](https://www.nytimes3xbfgragh.onion/2020/07/22/health/covid-antibodies-herd-immunity.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) There
+        have been frightening accounts of people suffering what seems to
+        be a second bout of Covid-19. But experts say these patients may
+        have a drawn-out course of infection, with the virus taking a
+        slow toll weeks to months after initial exposure. People
+        infected with the coronavirus typically
+        [produce](https://www.nature.com/articles/s41586-020-2456-9) immune
+        molecules called antibodies, which are [protective proteins made
+        in response to an
         infection](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)[.
         These antibodies
-        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        last in the body [only two to three
+        may](https://www.nytimes3xbfgragh.onion/2020/05/07/health/coronavirus-antibody-prevalence.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) last
+        in the body [only two to three
         months](https://www.nature.com/articles/s41591-020-0965-6),
-        which may seem worrisome, but that’s perfectly normal after an
+        which may seem worrisome, but that’s perfectly normal after an
         acute infection subsides, said Dr. Michael Mina, an immunologist
         at Harvard University. It may be possible to get the coronavirus
         again, but it’s highly unlikely that it would be possible in a
         short window of time from initial infection or make people
         sicker the second time.
 
-  - #### I’m a small-business owner. Can I get relief?
-    
-      - The [stimulus bills enacted in
-        March](https://www.nytimes3xbfgragh.onion/article/small-business-loans-stimulus-grants-freelancers-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        offer help for the millions of American small businesses. Those
-        eligible for aid are businesses and nonprofit organizations with
-        fewer than 500 workers, including sole proprietorships,
-        independent contractors and freelancers. Some larger companies
-        in some industries are also eligible. The help being offered,
-        which is being managed by the Small Business Administration,
-        includes the Paycheck Protection Program and the Economic Injury
-        Disaster Loan program. But lots of folks have [not yet seen
-        payouts.](https://www.nytimes3xbfgragh.onion/interactive/2020/05/07/business/small-business-loans-coronavirus.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Even those who have received help are confused: The rules are
-        draconian, and some are stuck sitting on [money they don’t know
-        how to
-        use.](https://www.nytimes3xbfgragh.onion/2020/05/02/business/economy/loans-coronavirus-small-business.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Many small-business owners are getting less than they expected
-        or [not hearing anything at
-        all.](https://www.nytimes3xbfgragh.onion/2020/06/10/business/Small-business-loans-ppp.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-
   - #### What are my rights if I am worried about going back to work?
     
       - Employers have to provide [a safe
-        workplace](https://www.osha.gov/SLTC/covid-19/standards.html)
-        with policies that protect everyone equally. [And if one of your
+        workplace](https://www.osha.gov/SLTC/covid-19/standards.html) with
+        policies that protect everyone equally. [And if one of your
         co-workers tests positive for the coronavirus, the
-        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        has said that [employers should tell their
-        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html)
-        -- without giving you the sick employee’s name -- that they may
-        have been exposed to the virus.
+        C.D.C.](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq) has
+        said that [employers should tell their
+        employees](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html) --
+        without giving you the sick employee’s name -- that they may
+        have been exposed to the
+virus.
 
-  - #### Should I refinance my mortgage?
-    
-      - [It could be a good
-        idea,](https://www.nytimes3xbfgragh.onion/article/coronavirus-money-unemployment.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        because mortgage rates have [never been
-        lower.](https://www.nytimes3xbfgragh.onion/2020/07/16/business/mortgage-rates-below-3-percent.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        Refinancing requests have pushed mortgage applications to some
-        of the highest levels since 2008, so be prepared to get in line.
-        But defaults are also up, so if you’re thinking about buying a
-        home, be aware that some lenders have tightened their standards.
-
-  - #### What is school going to look like in September?
-    
-      - It is unlikely that many schools will return to a normal
-        schedule this fall, requiring the grind of [online
-        learning](https://www.nytimes3xbfgragh.onion/2020/06/05/us/coronavirus-education-lost-learning.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        [makeshift child
-        care](https://www.nytimes3xbfgragh.onion/2020/05/29/us/coronavirus-child-care-centers.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        and [stunted
-        workdays](https://www.nytimes3xbfgragh.onion/2020/06/03/business/economy/coronavirus-working-women.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        to continue. California’s two largest public school districts —
-        Los Angeles and San Diego — said on July 13, that [instruction
-        will be remote-only in the
-        fall](https://www.nytimes3xbfgragh.onion/2020/07/13/us/lausd-san-diego-school-reopening.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq),
-        citing concerns that surging coronavirus infections in their
-        areas pose too dire a risk for students and teachers. Together,
-        the two districts enroll some 825,000 students. They are the
-        largest in the country so far to abandon plans for even a
-        partial physical return to classrooms when they reopen in
-        August. For other districts, the solution won’t be an
-        all-or-nothing approach. [Many
-        systems](https://bioethics.jhu.edu/research-and-outreach/projects/eschool-initiative/school-policy-tracker/),
-        including the nation’s largest, New York City, are devising
-        [hybrid
-        plans](https://www.nytimes3xbfgragh.onion/2020/06/26/us/coronavirus-schools-reopen-fall.html?action=click&pgtype=Article&state=default&region=MAIN_CONTENT_3&context=storylines_faq)
-        that involve spending some days in classrooms and other days
-        online. There’s no national policy on this yet, so check with
-        your municipal school system regularly to see what is happening
-        in your
-community.
-
-<div id="styln-survey-component-85410" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
+<div id="styln-survey-component-62914" class="styln-survey-component" data-surveyname="faq" data-surveystoryline="coronavirus">
 
 </div>
 

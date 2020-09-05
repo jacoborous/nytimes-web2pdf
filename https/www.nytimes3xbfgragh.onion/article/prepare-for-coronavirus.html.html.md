@@ -131,35 +131,22 @@ Coronavirus</span>
 
 </div>
 
-<div id="NYT_TOP_BANNER_REGION" class="css-13pd83m">
+<div class="css-13pd83m">
 
-<div>
+<div class="css-l9svim">
 
-<div id="styln-prism-menu-1592847958612" class="section interactive-content interactive-size-medium css-1edisqu">
+### [<span class="css-pa1jbp"><span class="css-1rxm0ex">The Coronavirus</span><span class="css-1rxm0ex"> Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cb000-efb6-11ea-9b73-5bf71047ff35&variant=undefined)
 
-<div class="css-17ih8de interactive-body">
-
-<div id="scroll-container" class="css-1gj85ro">
-
-[<span class="styln-title-wrap"><span class="css-1pje3qr">The
-Coronavirus</span><span class="css-1pje3qr">
-Outbreak</span></span>](https://www.nytimes3xbfgragh.onion/news-event/coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-  - <span class="css-kqxiym" data-emphasize="true">live</span>[Latest
-    Updates](https://www.nytimes3xbfgragh.onion/2020/08/04/world/coronavirus-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Maps and
-    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Vaccine
-    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [College
-    Reopening](https://www.nytimes3xbfgragh.onion/2020/08/02/us/covid-college-reopening.html?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-  - [Economy](https://www.nytimes3xbfgragh.onion/live/2020/08/04/business/stock-market-today-coronavirus?action=click&pgtype=Article&state=default&region=TOP_BANNER&context=storylines_menu)
-
-</div>
-
-</div>
-
-</div>
+  - <span class="css-ousu42"><span class="css-12clwdu">live</span>[Latest
+    Updates](https://www.nytimes3xbfgragh.onion/2020/09/05/world/coronavirus-covid.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cb001-efb6-11ea-9b73-5bf71047ff35&variant=undefined)</span>
+  - <span class="css-ousu42">[Maps and
+    Cases](https://www.nytimes3xbfgragh.onion/interactive/2020/us/coronavirus-us-cases.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cd710-efb6-11ea-9b73-5bf71047ff35&variant=undefined)</span>
+  - <span class="css-ousu42">[Vaccine
+    Tracker](https://www.nytimes3xbfgragh.onion/interactive/2020/science/coronavirus-vaccine-tracker.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cd711-efb6-11ea-9b73-5bf71047ff35&variant=undefined)</span>
+  - <span class="css-ousu42">[Eviction
+    Moratorium](https://www.nytimes3xbfgragh.onion/2020/09/02/your-money/eviction-moratorium-covid.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cd712-efb6-11ea-9b73-5bf71047ff35&variant=undefined)</span>
+  - <span class="css-ousu42">[American
+    Hunger](https://www.nytimes3xbfgragh.onion/interactive/2020/09/02/magazine/food-insecurity-hunger-us.html?name=styln-coronavirus&region=TOP_BANNER&block=storyline_menu_recirc&action=click&pgtype=Article&impression_id=0a1cd713-efb6-11ea-9b73-5bf71047ff35&variant=undefined)</span>
 
 </div>
 
@@ -305,7 +292,7 @@ protect others.
 
 ## Stay home
 
-### It can be its own challenge. Here are some tips.
+### <span>It can be its own challenge. Here are some tips.</span>
 
 For people fortunate enough to be able to stay home, being stuck inside
 24 hours a day for weeks on end is unlike anything any of us has ever
@@ -385,7 +372,7 @@ Times</span></span>](https://static01.graylady3jvrrxbe.onion/images/2020/05/01/m
 
 ## When going outside, be extra cautious
 
-### You can do your part to help your community and the world. Do not get close to other people.
+### <span>You can do your part to help your community and the world. Do not get close to other people.</span>
 
 This is called “[social
 distancing](https://www.nytimes3xbfgragh.onion/2020/03/16/smarter-living/coronavirus-social-distancing.html)”
@@ -408,12 +395,20 @@ Avoid public transportation when possible, limit nonessential travel,
 work from home and skip social gatherings. You can go outside, as long
 as you avoid being in close contact with people.
 
+<div id="NYT_MAIN_CONTENT_1_REGION" class="css-9tf9ac">
+
+<div>
+
+</div>
+
+</div>
+
 *\[How to keep your distance:* [*A guide to help you make the right
 decisions*](https://www.nytimes3xbfgragh.onion/2020/03/19/well/live/coronavirus-quarantine-social-distancing.html)*\]*
 
 ## Consider wearing a mask in public
 
-### **The C.D.C. advises all Americans to wear cloth masks in public. President Trump says it won’t be mandatory.**
+### <span>**The C.D.C. advises all Americans to wear cloth masks in public. President Trump says it won’t be mandatory.**</span>
 
 [This C.D.C.
 recommendation](https://www.nytimes3xbfgragh.onion/2020/04/03/world/coronavirus-news-updates.html)
@@ -486,7 +481,7 @@ Ochs/Reuters</span></span>
 
 ## Wash your hands. With soap. Then wash them again.
 
-### It’s not sexy, but it works.
+### <span>It’s not sexy, but it works.</span>
 
 Wash your hands, wash your hands, [*wash your
 hands*](https://www.nytimes3xbfgragh.onion/2020/03/13/world/how-to-wash-your-hands-coronavirus.html).
@@ -548,7 +543,7 @@ hands*](https://www.nytimes3xbfgragh.onion/2020/03/13/world/how-to-wash-your-han
 
 ## With children, keep calm, carry on and get the flu shot
 
-### **The good news is that cases in children have been very rare.**
+### <span>**The good news is that cases in children have been very rare.**</span>
 
 Right now, there’s little reason for parents to worry about their
 children, the experts say; coronavirus cases in children have been very
@@ -600,7 +595,7 @@ Coronavirus*](https://www.nytimes3xbfgragh.onion/2020/03/09/parenting/coronaviru
 
 ## Stock up on groceries, medicine and resources
 
-### **Preparation is the best way to protect your family and loved ones.**
+### <span>**Preparation is the best way to protect your family and loved ones.**</span>
 
 Stock up on a 30-day supply of groceries, household supplies and
 prescriptions.
@@ -632,7 +627,7 @@ diapers.
 
 ## When it comes to money, uncertainty is the new normal
 
-### It’s unclear what an economic recovery will look like — or when it will come.
+### <span>It’s unclear what an economic recovery will look like — or when it will come.</span>
 
 The impact of the virus on the United States economy has been swift and
 devastating. Nearly 10 million Americans have filed for unemployment
@@ -687,7 +682,7 @@ package.](https://www.nytimes3xbfgragh.onion/article/coronavirus-stimulus-packag
 
 ## Stay informed
 
-### Knowing what is accurate can protect you and your family.
+### <span>Knowing what is accurate can protect you and your family.</span>
 
 There’s a lot of information flying around, and knowing what is going on
 will go a long way toward protecting your family.
